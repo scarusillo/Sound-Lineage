@@ -1,0 +1,4863 @@
+[
+ {
+  "id": "38-special",
+  "years": "1974–present",
+  "origin": "Jacksonville, Florida",
+  "genres": [
+   "southern rock",
+   "arena rock",
+   "AOR"
+  ],
+  "summary": "Jacksonville band led by Donnie Van Zant that moved southern rock toward polished, radio-ready arena hooks. Their early-1980s singles made them one of the most played rock acts on FM radio.",
+  "know": [
+   "Singer Donnie Van Zant is the younger brother of Lynyrd Skynyrd's Ronnie Van Zant.",
+   "Their breakthrough came after they began co-writing with Survivor's Jim Peterik.",
+   "The band has used two lead guitarists and, at times, two drummers."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Rockin' into the Night",
+    1980
+   ],
+   [
+    "Wild-Eyed Southern Boys",
+    1981
+   ],
+   [
+    "Special Forces",
+    1982
+   ],
+   [
+    "Tour de Force",
+    1983
+   ]
+  ],
+  "songs": [
+   "Hold On Loosely",
+   "Caught Up in You",
+   "Rockin' into the Night",
+   "Second Chance",
+   "If I'd Been the One"
+  ],
+  "influencedBy": [
+   {
+    "id": "lynyrd-skynyrd",
+    "why": "Donnie Van Zant grew up watching his brother's band and took its Jacksonville guitar sound as a starting point.",
+    "s": 3
+   },
+   {
+    "id": "the-allman-brothers",
+    "why": "The twin-guitar interplay of southern rock's founding band sits under their early records.",
+    "s": 2
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Their tougher album tracks lean on Stones-style riffing and swagger.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "alabama",
+    "why": "A southern band that turned regional roots into big, polished radio hits."
+   },
+   {
+    "id": "brooks-and-dunn",
+    "why": "Arena-sized southern choruses delivered with a rock edge."
+   }
+  ]
+ },
+ {
+  "id": "molly-hatchet",
+  "years": "1971–present",
+  "origin": "Jacksonville, Florida",
+  "genres": [
+   "southern rock",
+   "hard rock",
+   "boogie rock"
+  ],
+  "summary": "Jacksonville band that pushed southern rock toward heavier, three-guitar hard rock. Their late-1970s albums, with Frank Frazetta fantasy covers, were big sellers.",
+  "know": [
+   "Ronnie Van Zant of Lynyrd Skynyrd had been lined up to produce their first album.",
+   "Their album covers used paintings by fantasy artist Frank Frazetta.",
+   "They covered the Allman Brothers' Dreams I'll Never See on their debut."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Molly Hatchet",
+    1978
+   ],
+   [
+    "Flirtin' with Disaster",
+    1979
+   ],
+   [
+    "Beatin' the Odds",
+    1980
+   ],
+   [
+    "Take No Prisoners",
+    1981
+   ]
+  ],
+  "songs": [
+   "Flirtin' with Disaster",
+   "Dreams I'll Never See",
+   "Gator Country",
+   "Bounty Hunter",
+   "Beatin' the Odds"
+  ],
+  "influencedBy": [
+   {
+    "id": "lynyrd-skynyrd",
+    "why": "Ronnie Van Zant mentored the band and planned to produce their debut.",
+    "s": 3
+   },
+   {
+    "id": "the-allman-brothers",
+    "why": "They recorded a hard-rock version of the Allmans' Dreams on their first album.",
+    "s": 3
+   },
+   {
+    "id": "zz-top",
+    "why": "Texas boogie riffs shaped their heavier guitar shuffles.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "hank-williams-jr",
+    "why": "Rowdy southern pride played loud with rock guitars."
+   },
+   {
+    "id": "drive-by-truckers",
+    "why": "A later band that works directly in the three-guitar southern rock tradition."
+   },
+   {
+    "id": "pantera",
+    "why": "Heavy music with a strong southern swagger."
+   }
+  ]
+ },
+ {
+  "id": "little-feat",
+  "years": "1969–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "roots rock",
+   "swamp rock",
+   "funk rock",
+   "boogie"
+  ],
+  "summary": "Los Angeles band led by singer and slide guitarist Lowell George that blended blues, New Orleans funk, country and rock. Musicians admired them for their loose, syncopated grooves.",
+  "know": [
+   "Lowell George had played in Frank Zappa's Mothers of Invention before forming the band.",
+   "Dixie Chicken marked their turn toward New Orleans rhythms.",
+   "Waiting for Columbus is often listed among the best live albums of the 1970s."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Sailin' Shoes",
+    1972
+   ],
+   [
+    "Dixie Chicken",
+    1973
+   ],
+   [
+    "Feats Don't Fail Me Now",
+    1974
+   ],
+   [
+    "Waiting for Columbus",
+    1978
+   ]
+  ],
+  "songs": [
+   "Willin'",
+   "Dixie Chicken",
+   "Fat Man in the Bathtub",
+   "Spanish Moon",
+   "Rock and Roll Doctor"
+  ],
+  "influencedBy": [
+   {
+    "id": "frank-zappa",
+    "why": "Lowell George and bassist Roy Estrada came straight out of Zappa's Mothers of Invention.",
+    "s": 3
+   },
+   {
+    "id": "the-meters",
+    "why": "The Meters' second-line funk is the backbone of the Dixie Chicken era.",
+    "s": 2
+   },
+   {
+    "id": "allen-toussaint",
+    "why": "They covered Toussaint's On Your Way Down and borrowed his New Orleans piano feel.",
+    "s": 2
+   },
+   {
+    "id": "howlin-wolf",
+    "why": "George's gritty slide and vocals draw on Chicago blues like Howlin' Wolf's.",
+    "s": 1
+   },
+   {
+    "id": "the-band",
+    "why": "Their mix of country, soul and rock follows the path The Band opened.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "linda-ronstadt",
+    "why": "She recorded Lowell George's Willin', helping make it a country-rock standard.",
+    "s": 3
+   },
+   {
+    "id": "phish",
+    "why": "Phish performed Waiting for Columbus in full as a Halloween set in 2010.",
+    "s": 3
+   },
+   {
+    "id": "widespread-panic",
+    "why": "Their groove-heavy southern jams follow Little Feat's blend of funk and boogie.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-meters",
+    "why": "The same loose New Orleans funk pocket."
+   },
+   {
+    "id": "dr-john",
+    "why": "Swampy New Orleans grooves with a wry vocal style."
+   }
+  ]
+ },
+ {
+  "id": "the-doobie-brothers",
+  "years": "1970–present",
+  "origin": "San Jose, California",
+  "genres": [
+   "rock",
+   "soft rock",
+   "blue-eyed soul"
+  ],
+  "summary": "California band that had two lives: an early guitar-and-harmony boogie sound led by Tom Johnston, then a smoother soul-pop sound led by Michael McDonald. Both eras produced major hits.",
+  "know": [
+   "Michael McDonald and guitarist Jeff Baxter both joined after working with Steely Dan.",
+   "What a Fool Believes won the Grammy for Record of the Year.",
+   "Producer Ted Templeman worked on their records through the 1970s."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Toulouse Street",
+    1972
+   ],
+   [
+    "The Captain and Me",
+    1973
+   ],
+   [
+    "Takin' It to the Streets",
+    1976
+   ],
+   [
+    "Minute by Minute",
+    1978
+   ]
+  ],
+  "songs": [
+   "Listen to the Music",
+   "Long Train Runnin'",
+   "China Grove",
+   "Black Water",
+   "What a Fool Believes"
+  ],
+  "influencedBy": [
+   {
+    "id": "steely-dan",
+    "why": "Jeff Baxter and Michael McDonald brought Steely Dan's jazzy, soulful polish into the band.",
+    "s": 3
+   },
+   {
+    "id": "creedence",
+    "why": "Their early chugging guitar rock follows the California roots-rock style Creedence made popular.",
+    "s": 1
+   },
+   {
+    "id": "the-allman-brothers",
+    "why": "Like the Allmans, they used two drummers and harmonized guitars.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "thundercat",
+    "why": "Thundercat built on the McDonald-era Doobies sound and brought Michael McDonald onto Show You the Way.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "tower-of-power",
+    "why": "Bay Area groove music with tight horns and soul vocals."
+   },
+   {
+    "id": "thundercat",
+    "why": "Smooth, soft-rock chords played with jazz skill."
+   }
+  ]
+ },
+ {
+  "id": "steve-miller-band",
+  "years": "1966–present",
+  "origin": "San Francisco, California",
+  "genres": [
+   "blues rock",
+   "psychedelic rock",
+   "pop rock"
+  ],
+  "summary": "Blues guitarist Steve Miller came up in the San Francisco scene and later turned to sleek, catchy rock singles. His mid-1970s hits became classic-rock radio staples.",
+  "know": [
+   "Les Paul was a family friend and gave Miller his first guitar lessons.",
+   "T-Bone Walker was a visitor to the Miller household when Steve was a child.",
+   "Paul McCartney played bass and drums on Miller's 1969 song My Dark Hour."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Children of the Future",
+    1968
+   ],
+   [
+    "The Joker",
+    1973
+   ],
+   [
+    "Fly Like an Eagle",
+    1976
+   ],
+   [
+    "Book of Dreams",
+    1977
+   ]
+  ],
+  "songs": [
+   "The Joker",
+   "Fly Like an Eagle",
+   "Rock'n Me",
+   "Take the Money and Run",
+   "Jet Airliner"
+  ],
+  "influencedBy": [
+   {
+    "id": "les-paul",
+    "why": "Les Paul was Miller's godfather and taught him his first chords.",
+    "s": 3
+   },
+   {
+    "id": "t-bone-walker",
+    "why": "Walker played for the young Miller at home and shaped his blues guitar style.",
+    "s": 3
+   },
+   {
+    "id": "muddy-waters",
+    "why": "Miller played the Chicago blues scene in the early 1960s and modeled his early sound on it.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "Paul McCartney recorded with him in 1969, and Beatles-style pop shaped his later songwriting.",
+    "s": 2
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "bill-withers",
+    "why": "Easy, relaxed grooves that became radio standards."
+   },
+   {
+    "id": "jimmy-reed",
+    "why": "Laid-back blues shuffles that crossed over to pop audiences."
+   }
+  ]
+ },
+ {
+  "id": "thin-lizzy",
+  "years": "1969–1986",
+  "origin": "Dublin, Ireland",
+  "genres": [
+   "hard rock",
+   "twin-guitar rock",
+   "Celtic rock"
+  ],
+  "summary": "Dublin band led by bassist, singer and songwriter Phil Lynott, known for harmonized twin lead guitars and story-driven songs. They were Ireland's first major international rock band.",
+  "know": [
+   "Their breakthrough single was a rock arrangement of the Irish folk song Whiskey in the Jar.",
+   "Tony Visconti produced Bad Reputation and the live album Live and Dangerous.",
+   "The twin-guitar lineup of Scott Gorham and Brian Robertson defined their classic sound."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Jailbreak",
+    1976
+   ],
+   [
+    "Johnny the Fox",
+    1976
+   ],
+   [
+    "Bad Reputation",
+    1977
+   ],
+   [
+    "Live and Dangerous",
+    1978
+   ]
+  ],
+  "songs": [
+   "The Boys Are Back in Town",
+   "Jailbreak",
+   "Whiskey in the Jar",
+   "Waiting for an Alibi",
+   "Dancing in the Moonlight"
+  ],
+  "influencedBy": [
+   {
+    "id": "jimi-hendrix",
+    "why": "Lynott and original guitarist Eric Bell built the early trio around Hendrix-style blues rock.",
+    "s": 2
+   },
+   {
+    "id": "van-morrison",
+    "why": "Lynott looked to Van Morrison as the model of an Irish songwriter with soul.",
+    "s": 2
+   },
+   {
+    "id": "the-dubliners",
+    "why": "Their hit Whiskey in the Jar reworked a song The Dubliners had made popular.",
+    "s": 2
+   },
+   {
+    "id": "tony-visconti",
+    "why": "Visconti produced their late-1970s studio and live records.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Lynott's narrative, character-based lyrics follow Dylan's storytelling.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "metallica",
+    "why": "Metallica covered Whiskey in the Jar in Thin Lizzy's arrangement and won a Grammy for it.",
+    "s": 3
+   },
+   {
+    "id": "iron-maiden",
+    "why": "Maiden's harmonized twin-guitar leads extend the style Thin Lizzy made famous.",
+    "s": 2
+   },
+   {
+    "id": "def-leppard",
+    "why": "Joe Elliott has named Thin Lizzy as a core influence on the band.",
+    "s": 2
+   },
+   {
+    "id": "u2",
+    "why": "Lynott showed the next generation of Irish bands that they could reach a world audience.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-pogues",
+    "why": "Irish storytelling and folk melody played with rock force."
+   },
+   {
+    "id": "the-dubliners",
+    "why": "The Irish ballad tradition that Lynott drew from."
+   }
+  ]
+ },
+ {
+  "id": "bad-company",
+  "years": "1973–1982",
+  "origin": "London, England",
+  "genres": [
+   "hard rock",
+   "blues rock",
+   "arena rock"
+  ],
+  "summary": "British supergroup formed by Paul Rodgers and Simon Kirke of Free, Mick Ralphs of Mott the Hoople and Boz Burrell of King Crimson. Their plain, riff-based blues rock became an FM radio staple.",
+  "know": [
+   "They were the first act signed to Led Zeppelin's Swan Song label.",
+   "They were managed by Led Zeppelin's manager, Peter Grant.",
+   "Their debut album reached number one in the US."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Bad Company",
+    1974
+   ],
+   [
+    "Straight Shooter",
+    1975
+   ],
+   [
+    "Run with the Pack",
+    1976
+   ],
+   [
+    "Desolation Angels",
+    1979
+   ]
+  ],
+  "songs": [
+   "Can't Get Enough",
+   "Bad Company",
+   "Feel Like Makin' Love",
+   "Shooting Star",
+   "Rock 'n' Roll Fantasy"
+  ],
+  "influencedBy": [
+   {
+    "id": "free",
+    "why": "Rodgers and Kirke carried over Free's spare, soulful blues rock.",
+    "s": 3
+   },
+   {
+    "id": "mott-the-hoople",
+    "why": "Mick Ralphs wrote Can't Get Enough while in Mott the Hoople and brought it to the new band.",
+    "s": 3
+   },
+   {
+    "id": "led-zeppelin",
+    "why": "They launched on Zeppelin's label and shared its management and heavy blues base.",
+    "s": 2
+   },
+   {
+    "id": "otis-redding",
+    "why": "Rodgers has named soul singers like Otis Redding as models for his phrasing.",
+    "s": 2
+   },
+   {
+    "id": "muddy-waters",
+    "why": "Rodgers later recorded a full tribute album to Muddy Waters.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-black-crowes",
+    "why": "The Crowes' soulful, riff-based hard rock follows the Rodgers style.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-black-keys",
+    "why": "Simple, heavy blues riffs played with restraint."
+   },
+   {
+    "id": "chris-stapleton",
+    "why": "A gritty soul voice over blues-based rock."
+   }
+  ]
+ },
+ {
+  "id": "humble-pie",
+  "years": "1969–1975",
+  "origin": "London, England",
+  "genres": [
+   "hard rock",
+   "blues rock",
+   "boogie rock"
+  ],
+  "summary": "Band formed by Steve Marriott of Small Faces and Peter Frampton of the Herd. After Frampton left they became a loud, soul-shouting hard rock act and a big US concert draw.",
+  "know": [
+   "Performance: Rockin' the Fillmore captured their live reputation and became their breakthrough.",
+   "Their hit I Don't Need No Doctor was a cover of a Ray Charles song.",
+   "Peter Frampton left in 1971 and later had huge success as a solo artist."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "As Safe as Yesterday Is",
+    1969
+   ],
+   [
+    "Rock On",
+    1971
+   ],
+   [
+    "Performance: Rockin' the Fillmore",
+    1971
+   ],
+   [
+    "Smokin'",
+    1972
+   ]
+  ],
+  "songs": [
+   "I Don't Need No Doctor",
+   "30 Days in the Hole",
+   "Hot 'n' Nasty",
+   "Natural Born Bugie",
+   "Black Coffee"
+  ],
+  "influencedBy": [
+   {
+    "id": "small-faces",
+    "why": "Steve Marriott brought his Small Faces voice and soul leanings into the band.",
+    "s": 3
+   },
+   {
+    "id": "ray-charles",
+    "why": "They turned Ray Charles's I Don't Need No Doctor into a long live showcase.",
+    "s": 3
+   },
+   {
+    "id": "muddy-waters",
+    "why": "Their Fillmore set included a long version of Muddy Waters's Rollin' Stone.",
+    "s": 2
+   },
+   {
+    "id": "otis-redding",
+    "why": "Marriott's shouting delivery came from American soul singers like Redding.",
+    "s": 2
+   },
+   {
+    "id": "ike-turner",
+    "why": "They covered Black Coffee, a song from the Ike and Tina Turner catalog.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-black-crowes",
+    "why": "The Crowes' gospel-tinged hard rock follows Marriott's soul-shouting approach.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "sam-and-dave",
+    "why": "Hard-driving, shouted soul vocals."
+   },
+   {
+    "id": "the-black-keys",
+    "why": "Gritty, groove-led blues rock."
+   }
+  ]
+ },
+ {
+  "id": "grand-funk-railroad",
+  "years": "1969–1976",
+  "origin": "Flint, Michigan",
+  "genres": [
+   "hard rock",
+   "blues rock",
+   "heavy rock"
+  ],
+  "summary": "Flint power trio that critics dismissed but audiences filled arenas for. Their loud, plain hard rock made them one of the best-selling American bands of the early 1970s.",
+  "know": [
+   "They sold out Shea Stadium in 1971 faster than the Beatles had.",
+   "Todd Rundgren produced We're an American Band and Shinin' On.",
+   "Their version of The Loco-Motion reached number one in 1974."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "On Time",
+    1969
+   ],
+   [
+    "Closer to Home",
+    1970
+   ],
+   [
+    "We're an American Band",
+    1973
+   ],
+   [
+    "Shinin' On",
+    1974
+   ]
+  ],
+  "songs": [
+   "We're an American Band",
+   "I'm Your Captain (Closer to Home)",
+   "The Loco-Motion",
+   "Some Kind of Wonderful",
+   "Inside Looking Out"
+  ],
+  "influencedBy": [
+   {
+    "id": "cream",
+    "why": "Their bass-heavy power-trio setup follows Cream's model.",
+    "s": 2
+   },
+   {
+    "id": "the-animals",
+    "why": "They turned The Animals' Inside Looking Out into a long live showpiece.",
+    "s": 3
+   },
+   {
+    "id": "todd-rundgren",
+    "why": "Rundgren produced their biggest records and gave them a tighter pop sound.",
+    "s": 3
+   },
+   {
+    "id": "mc5",
+    "why": "They came out of the same loud Michigan rock scene as the MC5.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "kiss",
+    "why": "Their arena-scale, crowd-first hard rock set the template that Kiss built on.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "black-sabbath",
+    "why": "Heavy, blues-based riffs from the same moment."
+   },
+   {
+    "id": "mc5",
+    "why": "High-volume Midwestern rock with a working-class crowd."
+   }
+  ]
+ },
+ {
+  "id": "blue-oyster-cult",
+  "years": "1967–present",
+  "origin": "Stony Brook, New York",
+  "genres": [
+   "hard rock",
+   "heavy metal",
+   "psychedelic rock"
+  ],
+  "summary": "Long Island band known for clever, dark lyrics and long guitar solos by Buck Dharma. They sit between hard rock and early heavy metal.",
+  "know": [
+   "The band formed at Stony Brook University and was first called Soft White Underbelly.",
+   "Patti Smith co-wrote several of their songs, including Career of Evil.",
+   "(Don't Fear) The Reaper reached the US top 20 in 1976."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Blue Öyster Cult",
+    1972
+   ],
+   [
+    "Secret Treaties",
+    1974
+   ],
+   [
+    "Agents of Fortune",
+    1976
+   ],
+   [
+    "Fire of Unknown Origin",
+    1981
+   ]
+  ],
+  "songs": [
+   "(Don't Fear) The Reaper",
+   "Godzilla",
+   "Burnin' for You",
+   "Cities on Flame with Rock and Roll",
+   "Astronomy"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-doors",
+    "why": "Their dark, literary lyrics and moody keyboards echo The Doors.",
+    "s": 1
+   },
+   {
+    "id": "cream",
+    "why": "Buck Dharma's extended solos follow late-1960s blues-rock jamming.",
+    "s": 1
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "Hendrix's heavy psychedelic guitar shaped their early sound.",
+    "s": 1
+   },
+   {
+    "id": "patti-smith",
+    "why": "Smith wrote lyrics for several of their songs while partnered with keyboardist Allen Lanier.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "metallica",
+    "why": "Metallica recorded Astronomy for Garage Inc.",
+    "s": 3
+   },
+   {
+    "id": "ghost",
+    "why": "Ghost's catchy songs about dark themes follow Blue Öyster Cult closely.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "television",
+    "why": "Long, intricate guitar leads within New York rock."
+   },
+   {
+    "id": "type-o-negative",
+    "why": "Dark themes treated with dry wit and melody."
+   }
+  ]
+ },
+ {
+  "id": "mountain",
+  "years": "1969–1974",
+  "origin": "New York City, New York",
+  "genres": [
+   "hard rock",
+   "blues rock",
+   "heavy rock"
+  ],
+  "summary": "New York band built around guitarist Leslie West and bassist-producer Felix Pappalardi. Their heavy, loud blues rock is an early step toward heavy metal and stoner rock.",
+  "know": [
+   "Felix Pappalardi had produced Cream's Disraeli Gears before forming the band.",
+   "They played the Woodstock festival in 1969.",
+   "Mississippi Queen became one of the most-played hard rock songs of the era."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Climbing!",
+    1970
+   ],
+   [
+    "Nantucket Sleighride",
+    1971
+   ],
+   [
+    "Flowers of Evil",
+    1971
+   ],
+   [
+    "Mountain Live: The Road Goes Ever On",
+    1972
+   ]
+  ],
+  "songs": [
+   "Mississippi Queen",
+   "Nantucket Sleighride",
+   "Theme for an Imaginary Western",
+   "Never in My Life"
+  ],
+  "influencedBy": [
+   {
+    "id": "cream",
+    "why": "Pappalardi produced Cream and the band recorded Jack Bruce's Theme for an Imaginary Western.",
+    "s": 3
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "Leslie West's thick, loud tone came from the late-1960s Hendrix era.",
+    "s": 1
+   },
+   {
+    "id": "eric-clapton",
+    "why": "West's heavy, sustaining tone is often traced to Clapton's sound with Cream.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "kyuss",
+    "why": "Huge, slow, fuzz-heavy riffs."
+   },
+   {
+    "id": "black-sabbath",
+    "why": "Early heavy blues-rock that pointed to metal."
+   }
+  ]
+ },
+ {
+  "id": "alice-cooper",
+  "years": "1968–present",
+  "origin": "Phoenix, Arizona",
+  "genres": [
+   "hard rock",
+   "shock rock",
+   "glam rock"
+  ],
+  "summary": "Vincent Furnier and his Phoenix band built theatrical hard rock around horror imagery and staging. Alice Cooper later became his solo stage name.",
+  "know": [
+   "Frank Zappa signed the band to his Straight Records label.",
+   "Bob Ezrin produced their breakthrough Love It to Death and many later records.",
+   "School's Out reached number one in the UK in 1972."
+  ],
+  "born": "02-04",
+  "keyAlbums": [
+   [
+    "Love It to Death",
+    1971
+   ],
+   [
+    "Killer",
+    1971
+   ],
+   [
+    "School's Out",
+    1972
+   ],
+   [
+    "Billion Dollar Babies",
+    1973
+   ]
+  ],
+  "songs": [
+   "I'm Eighteen",
+   "School's Out",
+   "No More Mr. Nice Guy",
+   "Elected",
+   "Poison"
+  ],
+  "influencedBy": [
+   {
+    "id": "frank-zappa",
+    "why": "Zappa signed them to his label and released their first albums.",
+    "s": 3
+   },
+   {
+    "id": "bob-ezrin",
+    "why": "Ezrin produced their breakthrough and shaped their tight, theatrical rock sound.",
+    "s": 3
+   },
+   {
+    "id": "the-yardbirds",
+    "why": "The band started out covering Yardbirds songs as teenagers.",
+    "s": 2
+   },
+   {
+    "id": "the-doors",
+    "why": "Cooper has named Jim Morrison as a model for stage presence.",
+    "s": 2
+   },
+   {
+    "id": "the-who",
+    "why": "The Who's loud, theatrical live show shaped their staging.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "Cooper has often cited the Beatles as the band that made him want to play.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "kiss",
+    "why": "Kiss took the costumed, theatrical arena show further.",
+    "s": 2
+   },
+   {
+    "id": "sex-pistols",
+    "why": "Johnny Rotten auditioned for the Sex Pistols by miming to I'm Eighteen.",
+    "s": 2
+   },
+   {
+    "id": "misfits",
+    "why": "The Misfits' horror-themed punk follows Cooper's imagery.",
+    "s": 2
+   },
+   {
+    "id": "white-zombie",
+    "why": "Rob Zombie has named Alice Cooper as a key influence on his horror rock.",
+    "s": 2
+   },
+   {
+    "id": "ghost",
+    "why": "Ghost's theatrical, character-driven show follows the Cooper template.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "parliament-funkadelic",
+    "why": "A big, costumed stage show built around characters."
+   },
+   {
+    "id": "nick-cave",
+    "why": "Dark, theatrical rock built around a strong persona."
+   }
+  ]
+ },
+ {
+  "id": "boston",
+  "years": "1976–present",
+  "origin": "Boston, Massachusetts",
+  "genres": [
+   "arena rock",
+   "hard rock",
+   "AOR"
+  ],
+  "summary": "Project of engineer and guitarist Tom Scholz, who recorded most of the debut album in his home studio. Its layered guitars and Brad Delp's high vocals shaped late-1970s rock radio.",
+  "know": [
+   "Scholz studied engineering at MIT and later invented the Rockman guitar amplifier.",
+   "Their 1976 debut is one of the best-selling debut albums in US history.",
+   "Much of the first album came from demos Scholz recorded in his basement."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Boston",
+    1976
+   ],
+   [
+    "Don't Look Back",
+    1978
+   ],
+   [
+    "Third Stage",
+    1986
+   ]
+  ],
+  "songs": [
+   "More Than a Feeling",
+   "Peace of Mind",
+   "Foreplay/Long Time",
+   "Rock and Roll Band",
+   "Amanda"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "Brad Delp's vocal harmonies drew on the Beatles, his favorite band.",
+    "s": 2
+   },
+   {
+    "id": "the-yardbirds",
+    "why": "Scholz's guitar tone builds on British blues-rock leads.",
+    "s": 1
+   },
+   {
+    "id": "led-zeppelin",
+    "why": "Their heavy, layered guitar riffs follow Zeppelin's studio approach.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "nirvana",
+    "why": "Kurt Cobain said the riff of Smells Like Teen Spirit resembled More Than a Feeling.",
+    "s": 2
+   },
+   {
+    "id": "def-leppard",
+    "why": "Def Leppard's stacked guitars and vocals extend Boston's polished studio sound.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "abba",
+    "why": "Carefully layered studio pop."
+   },
+   {
+    "id": "tears-for-fears",
+    "why": "Big, detailed productions with soaring vocals."
+   }
+  ]
+ },
+ {
+  "id": "heart",
+  "years": "1973–present",
+  "origin": "Seattle, Washington",
+  "genres": [
+   "hard rock",
+   "arena rock",
+   "folk rock"
+  ],
+  "summary": "Seattle band led by sisters Ann and Nancy Wilson, who mixed hard rock with acoustic folk. They were among the first rock bands led by women to sell millions.",
+  "know": [
+   "Their first album, Dreamboat Annie, was recorded in Vancouver.",
+   "Ann and Nancy Wilson performed Stairway to Heaven for Led Zeppelin at the 2012 Kennedy Center Honors.",
+   "Ann Wilson sang on Alice in Chains' EP Sap."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Dreamboat Annie",
+    1975
+   ],
+   [
+    "Little Queen",
+    1977
+   ],
+   [
+    "Dog & Butterfly",
+    1978
+   ],
+   [
+    "Heart",
+    1985
+   ]
+  ],
+  "songs": [
+   "Barracuda",
+   "Crazy on You",
+   "Magic Man",
+   "Alone",
+   "What About Love"
+  ],
+  "influencedBy": [
+   {
+    "id": "led-zeppelin",
+    "why": "The sisters have always named Zeppelin as their main model and often covered their songs.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "Seeing the Beatles made the sisters want to start a band.",
+    "s": 3
+   },
+   {
+    "id": "joni-mitchell",
+    "why": "Nancy Wilson's acoustic guitar work draws on Joni Mitchell's open tunings.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "alice-in-chains",
+    "why": "Ann Wilson sang on Sap, and the band were a model for Seattle rock musicians.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-chicks",
+    "why": "A band led by women with strong harmonies and big hits."
+   },
+   {
+    "id": "the-breeders",
+    "why": "Sisters leading a guitar band."
+   }
+  ]
+ },
+ {
+  "id": "the-runaways",
+  "years": "1975–1979",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "hard rock",
+   "glam rock",
+   "punk rock"
+  ],
+  "summary": "Teenage Los Angeles band assembled by producer Kim Fowley, with Joan Jett, Cherie Currie, Lita Ford, Sandy West and Jackie Fox. They were an early all-female hard rock band.",
+  "know": [
+   "Joan Jett and Lita Ford both went on to solo success.",
+   "They were especially popular in Japan, where they recorded Live in Japan.",
+   "Cherry Bomb was written in the room to fit Cherie Currie's audition."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Runaways",
+    1976
+   ],
+   [
+    "Queens of Noise",
+    1977
+   ],
+   [
+    "Live in Japan",
+    1977
+   ],
+   [
+    "Waitin' for the Night",
+    1977
+   ]
+  ],
+  "songs": [
+   "Cherry Bomb",
+   "Queens of Noise",
+   "School Days",
+   "I Love Playin' with Fire",
+   "You Drive Me Wild"
+  ],
+  "influencedBy": [
+   {
+    "id": "suzi-quatro",
+    "why": "Joan Jett has said Suzi Quatro showed her a woman could front a rock band.",
+    "s": 3
+   },
+   {
+    "id": "david-bowie",
+    "why": "Cherie Currie modeled her early stage look on Bowie.",
+    "s": 2
+   },
+   {
+    "id": "t-rex",
+    "why": "Glam rock riffs like T. Rex's shaped their sound.",
+    "s": 2
+   },
+   {
+    "id": "the-stooges",
+    "why": "Their raw, aggressive edge pointed toward Stooges-style rock.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "joan-jett-and-the-blackhearts",
+    "why": "Joan Jett carried the Runaways' sound into her solo band.",
+    "s": 3
+   },
+   {
+    "id": "bikini-kill",
+    "why": "Riot grrrl bands named the Runaways as a model.",
+    "s": 2
+   },
+   {
+    "id": "l7",
+    "why": "L7's loud, all-female hard rock follows the Runaways.",
+    "s": 2
+   },
+   {
+    "id": "the-go-gos",
+    "why": "The Runaways helped open doors for all-female bands that wrote and played their own music.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "x-ray-spex",
+    "why": "Women leading loud, fast punk."
+   },
+   {
+    "id": "the-slits",
+    "why": "An all-female band from the first punk wave."
+   }
+  ]
+ },
+ {
+  "id": "joan-jett-and-the-blackhearts",
+  "years": "1979–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "hard rock",
+   "punk rock",
+   "glam rock"
+  ],
+  "summary": "Joan Jett's band after the Runaways, mixing glam rock beats with punk energy. Their version of I Love Rock 'n' Roll was one of the biggest singles of the early 1980s.",
+  "know": [
+   "I Love Rock 'n' Roll, first recorded by the Arrows, spent seven weeks at number one in 1982.",
+   "Jett and producer Kenny Laguna started Blackheart Records after many labels turned them down.",
+   "Joan Jett was inducted into the Rock and Roll Hall of Fame in 2015."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Bad Reputation",
+    1981
+   ],
+   [
+    "I Love Rock 'n' Roll",
+    1981
+   ],
+   [
+    "Album",
+    1983
+   ],
+   [
+    "Up Your Alley",
+    1988
+   ]
+  ],
+  "songs": [
+   "I Love Rock 'n' Roll",
+   "Bad Reputation",
+   "Crimson and Clover",
+   "I Hate Myself for Loving You",
+   "Do You Wanna Touch Me"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-runaways",
+    "why": "Jett carried the Runaways' sound and attitude straight into the Blackhearts.",
+    "s": 3
+   },
+   {
+    "id": "suzi-quatro",
+    "why": "Jett has named Suzi Quatro as her first model for a woman leading a rock band.",
+    "s": 3
+   },
+   {
+    "id": "sex-pistols",
+    "why": "Steve Jones and Paul Cook played on some of Jett's early solo recordings.",
+    "s": 3
+   },
+   {
+    "id": "slade",
+    "why": "Her stomping beats and chant choruses come from British glam like Slade.",
+    "s": 1
+   },
+   {
+    "id": "ramones",
+    "why": "Her short, fast, three-chord songs fit with the Ramones' approach.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "bikini-kill",
+    "why": "Jett produced Bikini Kill's single New Radio and Rebel Girl.",
+    "s": 3
+   },
+   {
+    "id": "l7",
+    "why": "L7's punk-metal style follows Jett's tough guitar rock.",
+    "s": 2
+   },
+   {
+    "id": "green-day",
+    "why": "Billie Joe Armstrong has cited her as an influence and inducted her into the Rock Hall.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "ramones",
+    "why": "Simple, loud three-chord rock."
+   },
+   {
+    "id": "loretta-lynn",
+    "why": "A tough, plain-spoken woman's voice in a male-dominated field."
+   }
+  ]
+ },
+ {
+  "id": "bon-jovi",
+  "years": "1983–present",
+  "origin": "Sayreville, New Jersey",
+  "genres": [
+   "hard rock",
+   "arena rock",
+   "pop metal"
+  ],
+  "summary": "New Jersey band led by Jon Bon Jovi that combined hair-metal guitars with big pop choruses. Slippery When Wet made them one of the best-selling rock bands of the 1980s.",
+  "know": [
+   "Jon Bon Jovi worked at the Power Station studio, run by his cousin Tony Bongiovi.",
+   "Songwriter Desmond Child co-wrote several of their biggest hits.",
+   "Slippery When Wet sold over 12 million copies in the US."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Slippery When Wet",
+    1986
+   ],
+   [
+    "New Jersey",
+    1988
+   ],
+   [
+    "Keep the Faith",
+    1992
+   ],
+   [
+    "Crush",
+    2000
+   ]
+  ],
+  "songs": [
+   "Livin' on a Prayer",
+   "You Give Love a Bad Name",
+   "Wanted Dead or Alive",
+   "It's My Life",
+   "Bed of Roses"
+  ],
+  "influencedBy": [
+   {
+    "id": "bruce-springsteen",
+    "why": "Jon Bon Jovi has named Springsteen, another New Jersey songwriter, as a main model.",
+    "s": 3
+   },
+   {
+    "id": "aerosmith",
+    "why": "Their blend of hard rock and pop hooks follows Aerosmith's success.",
+    "s": 1
+   },
+   {
+    "id": "def-leppard",
+    "why": "Def Leppard's polished pop metal set the stage for their sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "backstreet-boys",
+    "why": "Huge, sing-along pop choruses."
+   },
+   {
+    "id": "garth-brooks",
+    "why": "Stadium-scale shows with crowd sing-alongs."
+   }
+  ]
+ },
+ {
+  "id": "mott-the-hoople",
+  "years": "1969–1974",
+  "origin": "Hereford, England",
+  "genres": [
+   "glam rock",
+   "hard rock",
+   "rock"
+  ],
+  "summary": "English band fronted by Ian Hunter that mixed Dylan-style songwriting with Stones-style rock. David Bowie gave them their breakthrough with All the Young Dudes.",
+  "know": [
+   "David Bowie wrote and produced All the Young Dudes for them in 1972.",
+   "Their first producer, Guy Stevens, later produced the Clash's London Calling.",
+   "Guitarist Mick Ralphs left in 1973 to form Bad Company."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Mott the Hoople",
+    1969
+   ],
+   [
+    "All the Young Dudes",
+    1972
+   ],
+   [
+    "Mott",
+    1973
+   ],
+   [
+    "The Hoople",
+    1974
+   ]
+  ],
+  "songs": [
+   "All the Young Dudes",
+   "All the Way from Memphis",
+   "Roll Away the Stone",
+   "Honaloochie Boogie",
+   "The Golden Age of Rock 'n' Roll"
+  ],
+  "influencedBy": [
+   {
+    "id": "david-bowie",
+    "why": "Bowie wrote and produced their breakthrough single and album.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Ian Hunter's vocal style and wordy songs follow Dylan.",
+    "s": 2
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Their loose, swaggering rock comes from the Stones.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "queen",
+    "why": "Queen supported Mott on tour, and Brian May later wrote Now I'm Here about the experience.",
+    "s": 3
+   },
+   {
+    "id": "bad-company",
+    "why": "Mick Ralphs brought Can't Get Enough and his songwriting into Bad Company.",
+    "s": 3
+   },
+   {
+    "id": "the-clash",
+    "why": "Mick Jones followed the band as a teenager and the Clash later worked with their producer Guy Stevens.",
+    "s": 2
+   },
+   {
+    "id": "def-leppard",
+    "why": "Joe Elliott is a longtime Mott fan and has named them as a key influence.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "suede",
+    "why": "British glam-influenced rock with a theatrical singer."
+   },
+   {
+    "id": "pulp",
+    "why": "Character songs about British life with a glam edge."
+   }
+  ]
+ },
+ {
+  "id": "slade",
+  "years": "1966–1992",
+  "origin": "Wolverhampton, England",
+  "genres": [
+   "glam rock",
+   "hard rock",
+   "pop rock"
+  ],
+  "summary": "Wolverhampton band whose stomping beats, shouted choruses and misspelled song titles made them one of Britain's biggest singles acts of the early 1970s.",
+  "know": [
+   "They had six UK number-one singles between 1971 and 1973.",
+   "Former Animals bassist Chas Chandler managed and produced them.",
+   "Merry Xmas Everybody has returned to the UK charts many times."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Slade Alive!",
+    1972
+   ],
+   [
+    "Slayed?",
+    1972
+   ],
+   [
+    "Sladest",
+    1973
+   ],
+   [
+    "Old New Borrowed and Blue",
+    1974
+   ]
+  ],
+  "songs": [
+   "Cum On Feel the Noize",
+   "Mama Weer All Crazee Now",
+   "Coz I Luv You",
+   "Gudbuy T'Jane",
+   "Merry Xmas Everybody"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-animals",
+    "why": "Chas Chandler of The Animals managed and produced them.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "Their songwriting team of Noddy Holder and Jim Lea aimed for Beatles-style pop hooks.",
+    "s": 2
+   },
+   {
+    "id": "little-richard",
+    "why": "Noddy Holder's shouting vocals draw on early rock and roll singers like Little Richard.",
+    "s": 2
+   },
+   {
+    "id": "the-who",
+    "why": "Their loud live shows built on mod-era bands like The Who.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "kiss",
+    "why": "Gene Simmons and Paul Stanley have named Slade's anthems and crowd chants as an influence.",
+    "s": 2
+   },
+   {
+    "id": "oasis",
+    "why": "Noel Gallagher has named Slade as an influence, and Oasis covered Cum On Feel the Noize live.",
+    "s": 2
+   },
+   {
+    "id": "def-leppard",
+    "why": "Joe Elliott grew up on Slade's hits.",
+    "s": 2
+   },
+   {
+    "id": "joan-jett-and-the-blackhearts",
+    "why": "Jett's stomping glam beats and chant choruses follow Slade.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-pogues",
+    "why": "Rowdy British pub-style sing-alongs."
+   },
+   {
+    "id": "madness",
+    "why": "British chart hits built for crowds to sing."
+   }
+  ]
+ },
+ {
+  "id": "sweet",
+  "years": "1968–1981",
+  "origin": "London, England",
+  "genres": [
+   "glam rock",
+   "hard rock",
+   "bubblegum"
+  ],
+  "summary": "London band that combined bubblegum hits written by Nicky Chinn and Mike Chapman with heavier guitar rock and high harmonies.",
+  "know": [
+   "Their early hits were written by the songwriting team of Chinn and Chapman.",
+   "They later wrote their own hits, including Fox on the Run.",
+   "Ballroom Blitz reached the top five in both the UK and US."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Sweet Fanny Adams",
+    1974
+   ],
+   [
+    "Desolation Boulevard",
+    1974
+   ],
+   [
+    "Give Us a Wink",
+    1976
+   ],
+   [
+    "Level Headed",
+    1978
+   ]
+  ],
+  "songs": [
+   "Ballroom Blitz",
+   "Fox on the Run",
+   "Block Buster!",
+   "Love Is Like Oxygen",
+   "Wig-Wam Bam"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-who",
+    "why": "Guitarist Andy Scott and the band aimed for The Who's heavy live sound.",
+    "s": 2
+   },
+   {
+    "id": "the-beach-boys",
+    "why": "Their stacked high harmonies follow the Beach Boys.",
+    "s": 1
+   },
+   {
+    "id": "t-rex",
+    "why": "T. Rex's glam boogie set the style they worked in.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "def-leppard",
+    "why": "Def Leppard drew on Sweet's mix of high harmonies and heavy guitars.",
+    "s": 2
+   },
+   {
+    "id": "ramones",
+    "why": "The Ramones' short, catchy songs draw on glam singles like Sweet's.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "abba",
+    "why": "Huge 1970s singles with layered vocals."
+   },
+   {
+    "id": "the-go-gos",
+    "why": "Bright, catchy guitar pop."
+   }
+  ]
+ },
+ {
+  "id": "suzi-quatro",
+  "years": "1964–present",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "glam rock",
+   "hard rock",
+   "rock and roll"
+  ],
+  "summary": "Detroit bassist and singer who became a glam rock star in Britain. She was one of the first women to lead a rock band while playing a main instrument.",
+  "know": [
+   "Producer Mickie Most signed her to RAK Records and moved her to England.",
+   "Her hits Can the Can and Devil Gate Drive were written by Chinn and Chapman.",
+   "She played Leather Tuscadero on the TV show Happy Days."
+  ],
+  "born": "06-03",
+  "keyAlbums": [
+   [
+    "Suzi Quatro",
+    1973
+   ],
+   [
+    "Quatro",
+    1974
+   ],
+   [
+    "Your Mamma Won't Like Me",
+    1975
+   ],
+   [
+    "If You Knew Suzi...",
+    1978
+   ]
+  ],
+  "songs": [
+   "Can the Can",
+   "48 Crash",
+   "Devil Gate Drive",
+   "Stumblin' In",
+   "If You Can't Give Me Love"
+  ],
+  "influencedBy": [
+   {
+    "id": "elvis-presley",
+    "why": "Quatro has said seeing Elvis on TV made her want to perform.",
+    "s": 3
+   },
+   {
+    "id": "mickie-most",
+    "why": "Most signed her, produced her records and launched her UK career.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "The Beatles inspired her first band, the Pleasure Seekers.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-runaways",
+    "why": "Joan Jett and the Runaways named Quatro as their main model.",
+    "s": 3
+   },
+   {
+    "id": "joan-jett-and-the-blackhearts",
+    "why": "Jett has often said Quatro showed her what was possible.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "x-ray-spex",
+    "why": "A woman leading a loud, fast band."
+   },
+   {
+    "id": "the-go-gos",
+    "why": "A band of women playing their own instruments."
+   }
+  ]
+ },
+ {
+  "id": "sparks",
+  "years": "1971–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "art pop",
+   "glam rock",
+   "synth-pop"
+  ],
+  "summary": "Brothers Ron and Russell Mael, known for witty, odd lyrics, Russell's falsetto and constant style changes. They moved from glam rock to electronic disco and kept recording for decades.",
+  "know": [
+   "Todd Rundgren produced their first album, recorded when they were called Halfnelson.",
+   "No. 1 in Heaven was made with producer Giorgio Moroder.",
+   "They teamed up with Franz Ferdinand as FFS in 2015."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Kimono My House",
+    1974
+   ],
+   [
+    "Propaganda",
+    1974
+   ],
+   [
+    "No. 1 in Heaven",
+    1979
+   ],
+   [
+    "Lil' Beethoven",
+    2002
+   ]
+  ],
+  "songs": [
+   "This Town Ain't Big Enough for Both of Us",
+   "Amateur Hour",
+   "The Number One Song in Heaven",
+   "Beat the Clock",
+   "When Do I Get to Sing \"My Way\""
+  ],
+  "influencedBy": [
+   {
+    "id": "todd-rundgren",
+    "why": "Rundgren produced their debut album.",
+    "s": 3
+   },
+   {
+    "id": "giorgio-moroder",
+    "why": "Moroder produced No. 1 in Heaven and moved them to electronic disco.",
+    "s": 3
+   },
+   {
+    "id": "the-who",
+    "why": "The Maels have named British Invasion bands like The Who as early models.",
+    "s": 2
+   },
+   {
+    "id": "the-kinks",
+    "why": "Their witty, character-based songs follow Ray Davies.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "franz-ferdinand",
+    "why": "Franz Ferdinand recorded a joint album with them as FFS.",
+    "s": 3
+   },
+   {
+    "id": "the-smiths",
+    "why": "Morrissey has said This Town Ain't Big Enough for Both of Us was a formative record for him.",
+    "s": 2
+   },
+   {
+    "id": "the-human-league",
+    "why": "No. 1 in Heaven helped point British bands toward synth-pop.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "kraftwerk",
+    "why": "Electronic pop with a deadpan, arch tone."
+   },
+   {
+    "id": "pulp",
+    "why": "Witty, theatrical pop songs."
+   }
+  ]
+ },
+ {
+  "id": "journey",
+  "years": "1973–present",
+  "origin": "San Francisco, California",
+  "genres": [
+   "arena rock",
+   "AOR",
+   "hard rock"
+  ],
+  "summary": "San Francisco band formed by former Santana members. With singer Steve Perry they became one of the biggest arena rock bands, known for power ballads and anthems.",
+  "know": [
+   "Guitarist Neal Schon and keyboardist Gregg Rolie came from Santana.",
+   "Steve Perry joined in 1977, changing them from a jazz-rock band to a pop-rock band.",
+   "Don't Stop Believin' became a top-selling digital download decades after its release."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Infinity",
+    1978
+   ],
+   [
+    "Departure",
+    1980
+   ],
+   [
+    "Escape",
+    1981
+   ],
+   [
+    "Frontiers",
+    1983
+   ]
+  ],
+  "songs": [
+   "Don't Stop Believin'",
+   "Separate Ways (Worlds Apart)",
+   "Any Way You Want It",
+   "Faithfully",
+   "Wheel in the Sky"
+  ],
+  "influencedBy": [
+   {
+    "id": "santana",
+    "why": "Schon and Rolie came out of Santana and started the band as a jazz-rock outfit.",
+    "s": 3
+   },
+   {
+    "id": "sam-cooke",
+    "why": "Steve Perry has named Sam Cooke as his main vocal influence.",
+    "s": 2
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "Neal Schon's lead guitar draws on Hendrix.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "lionel-richie",
+    "why": "Big, polished ballads of the early 1980s."
+   },
+   {
+    "id": "alabama",
+    "why": "Arena-sized hits with strong harmonies."
+   }
+  ]
+ },
+ {
+  "id": "foreigner",
+  "years": "1976–present",
+  "origin": "New York City, New York",
+  "genres": [
+   "arena rock",
+   "AOR",
+   "hard rock"
+  ],
+  "summary": "Anglo-American band formed by guitarist Mick Jones with singer Lou Gramm. They had a long run of rock hits and power ballads from the late 1970s on.",
+  "know": [
+   "Founding member Ian McDonald had been in King Crimson.",
+   "Mutt Lange produced their album 4.",
+   "I Want to Know What Love Is featured the New Jersey Mass Choir and reached number one."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Foreigner",
+    1977
+   ],
+   [
+    "Double Vision",
+    1978
+   ],
+   [
+    "4",
+    1981
+   ],
+   [
+    "Agent Provocateur",
+    1984
+   ]
+  ],
+  "songs": [
+   "Cold as Ice",
+   "Hot Blooded",
+   "Urgent",
+   "Waiting for a Girl Like You",
+   "I Want to Know What Love Is"
+  ],
+  "influencedBy": [
+   {
+    "id": "mutt-lange",
+    "why": "Lange produced 4 and gave it a cleaner, punchier sound.",
+    "s": 3
+   },
+   {
+    "id": "king-crimson",
+    "why": "Ian McDonald brought his King Crimson background on reeds and keyboards.",
+    "s": 3
+   },
+   {
+    "id": "free",
+    "why": "Mick Jones's British blues-rock riffs follow bands like Free.",
+    "s": 1
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Their riff-based rock songs follow the Stones.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "whitney-houston",
+    "why": "Gospel-backed power ballads."
+   },
+   {
+    "id": "kenny-rogers",
+    "why": "Soft-rock radio crossover in the same era."
+   }
+  ]
+ },
+ {
+  "id": "styx",
+  "years": "1972–present",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "arena rock",
+   "progressive rock",
+   "AOR"
+  ],
+  "summary": "Chicago band that mixed progressive rock with pop hooks and theatrical concept albums. They became one of the top-selling American bands of the late 1970s.",
+  "know": [
+   "They were the first band to have four straight triple-platinum albums.",
+   "Tommy Shaw joined in 1975 and wrote Renegade and Blue Collar Man.",
+   "Kilroy Was Here was a concept album built around a stage show."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Grand Illusion",
+    1977
+   ],
+   [
+    "Pieces of Eight",
+    1978
+   ],
+   [
+    "Cornerstone",
+    1979
+   ],
+   [
+    "Paradise Theatre",
+    1981
+   ]
+  ],
+  "songs": [
+   "Come Sail Away",
+   "Renegade",
+   "Babe",
+   "Too Much Time on My Hands",
+   "Mr. Roboto"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "Their melodic songwriting follows the Beatles.",
+    "s": 2
+   },
+   {
+    "id": "yes",
+    "why": "Their keyboard-heavy arrangements borrow from British progressive rock like Yes.",
+    "s": 1
+   },
+   {
+    "id": "emerson-lake-and-palmer",
+    "why": "Dennis DeYoung's synth and organ work follows ELP.",
+    "s": 1
+   },
+   {
+    "id": "the-moody-blues",
+    "why": "Their dramatic ballads follow the Moody Blues.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "my-chemical-romance",
+    "why": "Concept albums with theatrical vocals."
+   },
+   {
+    "id": "dream-theater",
+    "why": "Progressive rock built for big stages."
+   }
+  ]
+ },
+ {
+  "id": "reo-speedwagon",
+  "years": "1967–present",
+  "origin": "Champaign, Illinois",
+  "genres": [
+   "arena rock",
+   "AOR",
+   "soft rock"
+  ],
+  "summary": "Midwestern band that spent a decade on the club and arena circuit before Hi Infidelity made them one of the biggest acts of 1981. Kevin Cronin's ballads defined their later sound.",
+  "know": [
+   "The band took its name from an early truck model, the REO Speed Wagon.",
+   "Hi Infidelity spent 15 weeks at number one on the US album chart.",
+   "They built their audience through years of steady touring in the Midwest."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "R.E.O./T.W.O.",
+    1972
+   ],
+   [
+    "You Can Tune a Piano, but You Can't Tuna Fish",
+    1978
+   ],
+   [
+    "Hi Infidelity",
+    1980
+   ],
+   [
+    "Wheels Are Turnin'",
+    1984
+   ]
+  ],
+  "songs": [
+   "Keep On Loving You",
+   "Can't Fight This Feeling",
+   "Take It on the Run",
+   "Roll with the Changes",
+   "Ridin' the Storm Out"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "Their melodic pop-rock songwriting follows the Beatles.",
+    "s": 1
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Their bar-band rock and roll draws on the Stones.",
+    "s": 1
+   },
+   {
+    "id": "chuck-berry",
+    "why": "Their early boogie rock comes from Chuck Berry-style rock and roll.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "alabama",
+    "why": "Big Midwestern and southern crowds, polished hits and ballads."
+   },
+   {
+    "id": "kenny-rogers",
+    "why": "Soft, ballad-heavy radio hits from the same years."
+   }
+  ]
+ },
+ {
+  "id": "toto",
+  "years": "1977–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "soft rock",
+   "AOR",
+   "pop rock"
+  ],
+  "summary": "Los Angeles band made up of top session musicians who had played on records by Boz Scaggs, Steely Dan and many others. Toto IV won six Grammys.",
+  "know": [
+   "Toto IV won the Grammy for Album of the Year.",
+   "Drummer Jeff Porcaro played on Steely Dan's Katy Lied.",
+   "Several members played on Michael Jackson's Thriller."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Toto",
+    1978
+   ],
+   [
+    "Hydra",
+    1979
+   ],
+   [
+    "Toto IV",
+    1982
+   ],
+   [
+    "Isolation",
+    1984
+   ]
+  ],
+  "songs": [
+   "Africa",
+   "Rosanna",
+   "Hold the Line",
+   "I Won't Hold You Back",
+   "99"
+  ],
+  "influencedBy": [
+   {
+    "id": "steely-dan",
+    "why": "Jeff Porcaro and David Paich worked with Steely Dan and absorbed their polished jazz-rock studio style.",
+    "s": 3
+   },
+   {
+    "id": "quincy-jones",
+    "why": "Members worked under Quincy Jones on Thriller and other sessions.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "David Paich has named the Beatles as a key songwriting model.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "michael-jackson",
+    "why": "Steve Porcaro co-wrote Human Nature, and members played across Thriller.",
+    "s": 3
+   },
+   {
+    "id": "weezer",
+    "why": "Weezer covered Africa in 2018 after a fan campaign, sending it back up the charts.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "earth-wind-fire",
+    "why": "Polished, virtuosic studio playing with big hooks."
+   },
+   {
+    "id": "tatsuro-yamashita",
+    "why": "Slick, session-player studio pop."
+   }
+  ]
+ },
+ {
+  "id": "peter-frampton",
+  "years": "1966–present",
+  "origin": "London, England",
+  "genres": [
+   "rock",
+   "pop rock",
+   "hard rock"
+  ],
+  "summary": "English guitarist and singer who left Humble Pie for a solo career. Frampton Comes Alive! became one of the best-selling live albums ever and made his talk-box guitar famous.",
+  "know": [
+   "Frampton Comes Alive! was the best-selling album of 1976 in the US.",
+   "He played on George Harrison's All Things Must Pass.",
+   "He won a Grammy for his instrumental album Fingerprints in 2007."
+  ],
+  "born": "04-22",
+  "keyAlbums": [
+   [
+    "Wind of Change",
+    1972
+   ],
+   [
+    "Frampton",
+    1975
+   ],
+   [
+    "Frampton Comes Alive!",
+    1976
+   ],
+   [
+    "Fingerprints",
+    2006
+   ]
+  ],
+  "songs": [
+   "Show Me the Way",
+   "Baby, I Love Your Way",
+   "Do You Feel Like We Do",
+   "I'm in You"
+  ],
+  "influencedBy": [
+   {
+    "id": "humble-pie",
+    "why": "He co-founded Humble Pie with Steve Marriott before going solo.",
+    "s": 3
+   },
+   {
+    "id": "george-harrison",
+    "why": "He played on All Things Must Pass and has named Harrison as a mentor.",
+    "s": 3
+   },
+   {
+    "id": "django-reinhardt",
+    "why": "Frampton has often cited Django Reinhardt as a guitar influence.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "The Beatles shaped his melodic songwriting.",
+    "s": 2
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "zapp",
+    "why": "Talk-box guitar as a signature sound."
+   },
+   {
+    "id": "daft-punk",
+    "why": "Vocals run through machines to make a lead melody."
+   }
+  ]
+ },
+ {
+  "id": "dire-straits",
+  "years": "1977–1995",
+  "origin": "London, England",
+  "genres": [
+   "rock",
+   "roots rock",
+   "pub rock"
+  ],
+  "summary": "London band led by guitarist and songwriter Mark Knopfler, whose clean fingerpicked guitar stood out against punk. Brothers in Arms was one of the first albums to sell a million copies on CD.",
+  "know": [
+   "Knopfler plays with his fingers instead of a pick.",
+   "Sting sings on Money for Nothing.",
+   "Knopfler played on Bob Dylan's Slow Train Coming."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Dire Straits",
+    1978
+   ],
+   [
+    "Making Movies",
+    1980
+   ],
+   [
+    "Love over Gold",
+    1982
+   ],
+   [
+    "Brothers in Arms",
+    1985
+   ]
+  ],
+  "songs": [
+   "Sultans of Swing",
+   "Romeo and Juliet",
+   "Money for Nothing",
+   "Walk of Life",
+   "Brothers in Arms"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-dylan",
+    "why": "Knopfler's talk-sung vocals and story lyrics follow Dylan, and he later played on Dylan's records.",
+    "s": 3
+   },
+   {
+    "id": "chet-atkins",
+    "why": "Knopfler has named Atkins's fingerpicking as key, and they recorded Neck and Neck together.",
+    "s": 3
+   },
+   {
+    "id": "the-police",
+    "why": "Sting co-wrote and sang the hook on Money for Nothing.",
+    "s": 3
+   },
+   {
+    "id": "bb-king",
+    "why": "Knopfler's lyrical, bent single-note lines follow blues players like B.B. King.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-war-on-drugs",
+    "why": "The War on Drugs' long, shimmering guitar rock is often compared to Dire Straits.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "ali-farka-toure",
+    "why": "Hypnotic fingerpicked guitar lines."
+   },
+   {
+    "id": "guy-clark",
+    "why": "Careful story songs told in a plain voice."
+   }
+  ]
+ },
+ {
+  "id": "the-cars",
+  "years": "1976–1988",
+  "origin": "Boston, Massachusetts",
+  "genres": [
+   "new wave",
+   "power pop",
+   "rock"
+  ],
+  "summary": "Boston band led by Ric Ocasek and Benjamin Orr that combined guitar rock hooks with synthesizers and cool, flat vocals. They were among the first new wave bands to dominate US radio.",
+  "know": [
+   "Producer Roy Thomas Baker made their first albums.",
+   "Ocasek produced Weezer's debut and Suicide's second album.",
+   "Drive was one of their biggest hits and was sung by Benjamin Orr."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Cars",
+    1978
+   ],
+   [
+    "Candy-O",
+    1979
+   ],
+   [
+    "Panorama",
+    1980
+   ],
+   [
+    "Heartbeat City",
+    1984
+   ]
+  ],
+  "songs": [
+   "Just What I Needed",
+   "My Best Friend's Girl",
+   "Good Times Roll",
+   "Drive",
+   "You Might Think"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-velvet-underground",
+    "why": "Ocasek has named the Velvet Underground as a key influence on his songwriting.",
+    "s": 2
+   },
+   {
+    "id": "roxy-music",
+    "why": "Their mix of art-rock cool and synthesizers follows Roxy Music.",
+    "s": 2
+   },
+   {
+    "id": "buddy-holly",
+    "why": "Their tight, catchy guitar songs follow early rock and roll like Buddy Holly's.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "weezer",
+    "why": "Ric Ocasek produced Weezer's Blue Album and Green Album.",
+    "s": 3
+   },
+   {
+    "id": "bad-brains",
+    "why": "Ocasek produced Bad Brains' Rock for Light.",
+    "s": 3
+   },
+   {
+    "id": "suicide",
+    "why": "Ocasek produced Suicide's second album.",
+    "s": 3
+   },
+   {
+    "id": "the-killers",
+    "why": "Brandon Flowers has named the Cars as a major influence.",
+    "s": 2
+   },
+   {
+    "id": "the-strokes",
+    "why": "The Strokes' tight, catchy new wave guitar rock follows the Cars.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "gary-numan",
+    "why": "Synth-led new wave with cool vocals."
+   },
+   {
+    "id": "blondie",
+    "why": "Catchy new wave that crossed to pop radio."
+   }
+  ]
+ },
+ {
+  "id": "the-pretenders",
+  "years": "1978–present",
+  "origin": "London, England",
+  "genres": [
+   "new wave",
+   "rock",
+   "punk rock"
+  ],
+  "summary": "London band led by American singer and guitarist Chrissie Hynde. They blended punk energy with classic rock melodies and Hynde's distinctive voice.",
+  "know": [
+   "Their first single, a cover of the Kinks' Stop Your Sobbing, was produced by Nick Lowe.",
+   "Chrissie Hynde moved to London from Akron, Ohio, and wrote for the NME before forming the band.",
+   "Johnny Marr played with the band in 1987."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Pretenders",
+    1980
+   ],
+   [
+    "Pretenders II",
+    1981
+   ],
+   [
+    "Learning to Crawl",
+    1984
+   ],
+   [
+    "Get Close",
+    1986
+   ]
+  ],
+  "songs": [
+   "Brass in Pocket",
+   "Kid",
+   "Back on the Chain Gang",
+   "Middle of the Road",
+   "Don't Get Me Wrong",
+   "I'll Stand by You"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-kinks",
+    "why": "Their first single was a Kinks cover, and Hynde has named Ray Davies as a major influence.",
+    "s": 3
+   },
+   {
+    "id": "nick-lowe",
+    "why": "Lowe produced their first single.",
+    "s": 3
+   },
+   {
+    "id": "the-stooges",
+    "why": "Hynde has cited Iggy Pop as an early influence on her attitude.",
+    "s": 2
+   },
+   {
+    "id": "sex-pistols",
+    "why": "They came up in London's punk scene of the late 1970s.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-smiths",
+    "why": "Johnny Marr was a fan and played with the band in 1987.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "lucinda-williams",
+    "why": "A tough, distinctive voice in rock and roots music."
+   },
+   {
+    "id": "patti-smith",
+    "why": "A woman leading a rock band with poetic toughness."
+   }
+  ]
+ },
+ {
+  "id": "pat-benatar",
+  "years": "1979–present",
+  "origin": "New York City, New York",
+  "genres": [
+   "hard rock",
+   "pop rock",
+   "arena rock"
+  ],
+  "summary": "Classically trained singer who became one of the top hard rock artists of the early 1980s. She won four Grammys in a row for Best Female Rock Vocal Performance.",
+  "know": [
+   "Her husband, Neil Giraldo, has been her guitarist and producer.",
+   "Her video for You Better Run was the second video ever played on MTV.",
+   "She trained as an opera singer before turning to rock."
+  ],
+  "born": "01-10",
+  "keyAlbums": [
+   [
+    "In the Heat of the Night",
+    1979
+   ],
+   [
+    "Crimes of Passion",
+    1980
+   ],
+   [
+    "Precious Time",
+    1981
+   ],
+   [
+    "Get Nervous",
+    1982
+   ]
+  ],
+  "songs": [
+   "Heartbreaker",
+   "Hit Me with Your Best Shot",
+   "Love Is a Battlefield",
+   "We Belong",
+   "Promises in the Dark"
+  ],
+  "influencedBy": [
+   {
+    "id": "janis-joplin",
+    "why": "Her full-throated rock singing follows Janis Joplin.",
+    "s": 1
+   },
+   {
+    "id": "jefferson-airplane",
+    "why": "Grace Slick was an early example of a woman leading a rock band.",
+    "s": 1
+   },
+   {
+    "id": "heart",
+    "why": "Heart's woman-led hard rock opened the radio door she came through.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "cyndi-lauper",
+    "why": "A strong 1980s MTV voice."
+   },
+   {
+    "id": "kelly-clarkson",
+    "why": "A powerful voice over rock guitars."
+   }
+  ]
+ },
+ {
+  "id": "inxs",
+  "years": "1977–2012",
+  "origin": "Sydney, Australia",
+  "genres": [
+   "new wave",
+   "funk rock",
+   "pop rock"
+  ],
+  "summary": "Sydney band fronted by Michael Hutchence that mixed rock guitars with funk rhythms and dance beats. Kick made them one of the biggest bands of the late 1980s.",
+  "know": [
+   "The band included three Farriss brothers.",
+   "Nile Rodgers produced their single Original Sin.",
+   "Kick sold more than six million copies in the US."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Shabooh Shoobah",
+    1982
+   ],
+   [
+    "The Swing",
+    1984
+   ],
+   [
+    "Listen Like Thieves",
+    1985
+   ],
+   [
+    "Kick",
+    1987
+   ]
+  ],
+  "songs": [
+   "Need You Tonight",
+   "Never Tear Us Apart",
+   "New Sensation",
+   "What You Need",
+   "Original Sin"
+  ],
+  "influencedBy": [
+   {
+    "id": "nile-rodgers",
+    "why": "Rodgers produced Original Sin and pushed them toward dance-funk.",
+    "s": 3
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Hutchence's stage presence was often compared to Mick Jagger's.",
+    "s": 1
+   },
+   {
+    "id": "roxy-music",
+    "why": "Their stylish blend of rock and dance follows Roxy Music.",
+    "s": 1
+   },
+   {
+    "id": "prince",
+    "why": "Andrew Farriss's funky, minimal grooves follow Prince.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "duran-duran",
+    "why": "Stylish 1980s dance rock with MTV videos."
+   },
+   {
+    "id": "depeche-mode",
+    "why": "Moody, dance-driven 1980s rock."
+   }
+  ]
+ },
+ {
+  "id": "midnight-oil",
+  "years": "1976–present",
+  "origin": "Sydney, Australia",
+  "genres": [
+   "rock",
+   "post-punk",
+   "pub rock"
+  ],
+  "summary": "Sydney band fronted by Peter Garrett, known for intense live shows and songs about land rights, the environment and politics. Diesel and Dust took them worldwide.",
+  "know": [
+   "Peter Garrett later served as a minister in the Australian government.",
+   "Beds Are Burning is about land rights for Aboriginal Australians.",
+   "They built their following on Sydney's pub circuit."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "10, 9, 8, 7, 6, 5, 4, 3, 2, 1",
+    1982
+   ],
+   [
+    "Red Sails in the Sunset",
+    1984
+   ],
+   [
+    "Diesel and Dust",
+    1987
+   ],
+   [
+    "Blue Sky Mining",
+    1990
+   ]
+  ],
+  "songs": [
+   "Beds Are Burning",
+   "The Dead Heart",
+   "Power and the Passion",
+   "Blue Sky Mine",
+   "Forgotten Years"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-clash",
+    "why": "Their political songs and punk energy follow the Clash.",
+    "s": 2
+   },
+   {
+    "id": "the-who",
+    "why": "Their loud, physical live shows follow The Who.",
+    "s": 1
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Their protest songwriting follows Dylan's early work.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "rage-against-the-machine",
+    "why": "Loud, politically direct rock."
+   },
+   {
+    "id": "bob-marley",
+    "why": "Socially pointed anthems with a wide reach."
+   }
+  ]
+ },
+ {
+  "id": "john-mellencamp",
+  "years": "1976–present",
+  "origin": "Seymour, Indiana",
+  "genres": [
+   "heartland rock",
+   "roots rock",
+   "rock"
+  ],
+  "summary": "Indiana singer and songwriter who started as Johnny Cougar and became a leading voice of heartland rock. His songs focus on small-town and rural American life.",
+  "know": [
+   "His first manager gave him the stage name Johnny Cougar.",
+   "He co-founded Farm Aid in 1985 with Willie Nelson and Neil Young.",
+   "The Lonesome Jubilee added fiddle, accordion and other folk instruments to his band."
+  ],
+  "born": "10-07",
+  "keyAlbums": [
+   [
+    "American Fool",
+    1982
+   ],
+   [
+    "Uh-Huh",
+    1983
+   ],
+   [
+    "Scarecrow",
+    1985
+   ],
+   [
+    "The Lonesome Jubilee",
+    1987
+   ]
+  ],
+  "songs": [
+   "Jack & Diane",
+   "Hurts So Good",
+   "Pink Houses",
+   "Small Town",
+   "Cherry Bomb"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-dylan",
+    "why": "Mellencamp has named Dylan as a key songwriting influence.",
+    "s": 2
+   },
+   {
+    "id": "woody-guthrie",
+    "why": "His songs about working people follow Guthrie.",
+    "s": 2
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Mellencamp has cited the Stones as a model for his band's rock sound.",
+    "s": 2
+   },
+   {
+    "id": "bruce-springsteen",
+    "why": "Their heartland rock grew up side by side, and Springsteen's success opened the path.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "eric-church",
+    "why": "Eric Church's small-town rock-country follows Mellencamp's heartland songs.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "steve-earle",
+    "why": "Heartland stories with a rock band."
+   },
+   {
+    "id": "john-prine",
+    "why": "Plain songs about everyday American lives."
+   }
+  ]
+ },
+ {
+  "id": "bob-seger",
+  "years": "1961–2019",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "heartland rock",
+   "rock",
+   "roots rock"
+  ],
+  "summary": "Detroit singer and songwriter who spent years as a regional star before Live Bullet and Night Moves brought national fame. His rough voice and songs about working life made him a classic-rock mainstay.",
+  "know": [
+   "Several Night Moves songs were cut with the Muscle Shoals Rhythm Section.",
+   "He co-wrote Heartache Tonight for the Eagles.",
+   "His backing group was the Silver Bullet Band."
+  ],
+  "born": "05-06",
+  "keyAlbums": [
+   [
+    "Live Bullet",
+    1976
+   ],
+   [
+    "Night Moves",
+    1976
+   ],
+   [
+    "Stranger in Town",
+    1978
+   ],
+   [
+    "Against the Wind",
+    1980
+   ]
+  ],
+  "songs": [
+   "Night Moves",
+   "Turn the Page",
+   "Old Time Rock and Roll",
+   "Against the Wind",
+   "Hollywood Nights"
+  ],
+  "influencedBy": [
+   {
+    "id": "little-richard",
+    "why": "Seger has named Little Richard as an early influence on his singing.",
+    "s": 2
+   },
+   {
+    "id": "elvis-presley",
+    "why": "Elvis's early rock and roll first drew Seger to music.",
+    "s": 2
+   },
+   {
+    "id": "muscle-shoals-rhythm-section",
+    "why": "The Muscle Shoals players backed him on key 1970s recordings.",
+    "s": 3
+   },
+   {
+    "id": "van-morrison",
+    "why": "His soulful, rough vocal style follows Van Morrison.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "metallica",
+    "why": "Metallica covered Turn the Page in 1998.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "merle-haggard",
+    "why": "Working-class songs in a plain voice."
+   },
+   {
+    "id": "chris-stapleton",
+    "why": "A rough voice over roots rock."
+   }
+  ]
+ },
+ {
+  "id": "bryan-adams",
+  "years": "1978–present",
+  "origin": "Vancouver, Canada",
+  "genres": [
+   "rock",
+   "pop rock",
+   "heartland rock"
+  ],
+  "summary": "Canadian singer and songwriter who became a major star with Reckless. His raspy voice and big choruses produced hits in rock and ballads.",
+  "know": [
+   "He wrote most of his songs with Jim Vallance.",
+   "Mutt Lange produced Waking Up the Neighbours.",
+   "(Everything I Do) I Do It for You spent 16 weeks at number one in the UK."
+  ],
+  "born": "11-05",
+  "keyAlbums": [
+   [
+    "Cuts Like a Knife",
+    1983
+   ],
+   [
+    "Reckless",
+    1984
+   ],
+   [
+    "Waking Up the Neighbours",
+    1991
+   ],
+   [
+    "18 til I Die",
+    1996
+   ]
+  ],
+  "songs": [
+   "Summer of '69",
+   "Heaven",
+   "Run to You",
+   "(Everything I Do) I Do It for You",
+   "Cuts Like a Knife"
+  ],
+  "influencedBy": [
+   {
+    "id": "mutt-lange",
+    "why": "Lange produced Waking Up the Neighbours and co-wrote its hits.",
+    "s": 3
+   },
+   {
+    "id": "bruce-springsteen",
+    "why": "His heartland-style rock follows Springsteen's success.",
+    "s": 1
+   },
+   {
+    "id": "the-beatles",
+    "why": "Adams has named the Beatles as an early influence.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "shania-twain",
+    "why": "Polished hits produced by Mutt Lange."
+   },
+   {
+    "id": "garth-brooks",
+    "why": "Big choruses and stadium crowds."
+   }
+  ]
+ },
+ {
+  "id": "huey-lewis-and-the-news",
+  "years": "1979–present",
+  "origin": "San Francisco, California",
+  "genres": [
+   "pop rock",
+   "rock",
+   "blue-eyed soul"
+  ],
+  "summary": "Bay Area band that mixed bar-band rock, doo-wop and soul into upbeat pop hits. Sports made them one of the biggest bands of the mid-1980s.",
+  "know": [
+   "Huey Lewis was in the band Clover before forming the News.",
+   "The Power of Love was written for the film Back to the Future.",
+   "Sports produced four top-10 singles."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Picture This",
+    1982
+   ],
+   [
+    "Sports",
+    1983
+   ],
+   [
+    "Fore!",
+    1986
+   ],
+   [
+    "Small World",
+    1988
+   ]
+  ],
+  "songs": [
+   "The Power of Love",
+   "I Want a New Drug",
+   "Hip to Be Square",
+   "Heart and Soul",
+   "If This Is It"
+  ],
+  "influencedBy": [
+   {
+    "id": "tower-of-power",
+    "why": "The Tower of Power horns played on their records.",
+    "s": 3
+   },
+   {
+    "id": "the-doobie-brothers",
+    "why": "Their bright Bay Area rock follows the Doobies.",
+    "s": 1
+   },
+   {
+    "id": "the-drifters",
+    "why": "Their doo-wop harmonies follow 1950s vocal groups like the Drifters.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "kool-and-the-gang",
+    "why": "Upbeat horn-driven pop."
+   },
+   {
+    "id": "bruno-mars",
+    "why": "Retro soul-pop with a party feel."
+   }
+  ]
+ },
+ {
+  "id": "the-tragically-hip",
+  "years": "1984–2017",
+  "origin": "Kingston, Canada",
+  "genres": [
+   "alternative rock",
+   "roots rock",
+   "rock"
+  ],
+  "summary": "Kingston, Ontario band fronted by Gord Downie, whose literary lyrics about Canadian places and history made them a national institution.",
+  "know": [
+   "Their final concert in 2016 was broadcast live across Canada by CBC.",
+   "Many of their songs refer to Canadian towns, history and hockey.",
+   "Gord Downie was known for improvising lines and stories live."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Up to Here",
+    1989
+   ],
+   [
+    "Road Apples",
+    1991
+   ],
+   [
+    "Fully Completely",
+    1992
+   ],
+   [
+    "Day for Night",
+    1994
+   ]
+  ],
+  "songs": [
+   "New Orleans Is Sinking",
+   "Bobcaygeon",
+   "Ahead by a Century",
+   "Courage",
+   "Wheat Kings"
+  ],
+  "influencedBy": [
+   {
+    "id": "rem",
+    "why": "Their literary lyrics and jangly guitars follow R.E.M.",
+    "s": 1
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Their bar-band blues rock draws on the Stones.",
+    "s": 1
+   },
+   {
+    "id": "neil-young",
+    "why": "They follow Neil Young in writing about Canadian places in rock songs.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "gordon-lightfoot",
+    "why": "Canadian story songs."
+   },
+   {
+    "id": "drive-by-truckers",
+    "why": "Literary rock about a specific place."
+   }
+  ]
+ },
+ {
+  "id": "todd-rundgren",
+  "years": "1967–present",
+  "origin": "Philadelphia, Pennsylvania",
+  "genres": [
+   "pop rock",
+   "power pop",
+   "progressive rock"
+  ],
+  "summary": "Philadelphia singer, songwriter, multi-instrumentalist and producer. He made studio-built pop albums on his own and produced records for many other artists.",
+  "know": [
+   "He played nearly every instrument on Something/Anything?.",
+   "He produced the New York Dolls' debut and Grand Funk Railroad's We're an American Band.",
+   "His covers album Faithful included songs by the Yardbirds, Beatles, Beach Boys and Hendrix."
+  ],
+  "born": "06-22",
+  "keyAlbums": [
+   [
+    "Something/Anything?",
+    1972
+   ],
+   [
+    "A Wizard, a True Star",
+    1973
+   ],
+   [
+    "Todd",
+    1974
+   ],
+   [
+    "Hermit of Mink Hollow",
+    1978
+   ]
+  ],
+  "songs": [
+   "Hello It's Me",
+   "I Saw the Light",
+   "Bang the Drum All Day",
+   "Can We Still Be Friends",
+   "We Gotta Get You a Woman"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-yardbirds",
+    "why": "His first band, Nazz, was modeled on the Yardbirds, and he later covered them.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "He covered the Beatles on Faithful and has named them as a main influence.",
+    "s": 3
+   },
+   {
+    "id": "the-beach-boys",
+    "why": "He covered Good Vibrations on Faithful and drew on their studio approach.",
+    "s": 2
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "He covered Hendrix on Faithful.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "new-york-dolls",
+    "why": "He produced their debut album.",
+    "s": 3
+   },
+   {
+    "id": "grand-funk-railroad",
+    "why": "He produced We're an American Band and Shinin' On.",
+    "s": 3
+   },
+   {
+    "id": "badfinger",
+    "why": "He finished producing Straight Up.",
+    "s": 3
+   },
+   {
+    "id": "sparks",
+    "why": "He produced their first album.",
+    "s": 3
+   },
+   {
+    "id": "patti-smith",
+    "why": "He produced her album Wave.",
+    "s": 3
+   },
+   {
+    "id": "the-psychedelic-furs",
+    "why": "He produced Forever Now.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "prince",
+    "why": "A multi-instrumentalist who made studio records largely alone."
+   },
+   {
+    "id": "brian-eno",
+    "why": "Studio experiments with pop structure."
+   }
+  ]
+ },
+ {
+  "id": "badfinger",
+  "years": "1968–1975",
+  "origin": "Swansea, Wales",
+  "genres": [
+   "power pop",
+   "pop rock",
+   "rock"
+  ],
+  "summary": "Welsh band signed to the Beatles' Apple label. Their melodic guitar pop is a key starting point for power pop.",
+  "know": [
+   "Paul McCartney wrote and produced their first hit, Come and Get It.",
+   "George Harrison produced Day After Day, and Todd Rundgren finished producing Straight Up.",
+   "Their song Without You became a hit for Harry Nilsson and Mariah Carey."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Magic Christian Music",
+    1970
+   ],
+   [
+    "No Dice",
+    1970
+   ],
+   [
+    "Straight Up",
+    1971
+   ],
+   [
+    "Ass",
+    1973
+   ]
+  ],
+  "songs": [
+   "Come and Get It",
+   "No Matter What",
+   "Day After Day",
+   "Baby Blue",
+   "Without You"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "They were signed to Apple, and Paul McCartney gave them their first hit.",
+    "s": 3
+   },
+   {
+    "id": "george-harrison",
+    "why": "Harrison produced their Straight Up sessions and Day After Day.",
+    "s": 3
+   },
+   {
+    "id": "todd-rundgren",
+    "why": "Rundgren finished producing Straight Up.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "big-star",
+    "why": "Big Star's melodic guitar pop follows Badfinger's sound.",
+    "s": 1
+   },
+   {
+    "id": "mariah-carey",
+    "why": "Mariah Carey had a major hit with Without You.",
+    "s": 2
+   },
+   {
+    "id": "teenage-fanclub",
+    "why": "Their melodic jangle pop follows Badfinger.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "elliott-smith",
+    "why": "Beatles-style melody with a sad edge."
+   },
+   {
+    "id": "the-shins",
+    "why": "Melodic guitar pop."
+   }
+  ]
+ },
+ {
+  "id": "raspberries",
+  "years": "1970–1975",
+  "origin": "Cleveland, Ohio",
+  "genres": [
+   "power pop",
+   "pop rock",
+   "rock"
+  ],
+  "summary": "Cleveland band led by Eric Carmen that combined Beatles melodies, Who guitars and Beach Boys harmonies. They are a defining band of 1970s power pop.",
+  "know": [
+   "Eric Carmen later had solo hits with All by Myself and Hungry Eyes.",
+   "Go All the Way reached the US top five in 1972.",
+   "Their first album came in a scratch-and-sniff sleeve."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Raspberries",
+    1972
+   ],
+   [
+    "Fresh",
+    1972
+   ],
+   [
+    "Side 3",
+    1973
+   ],
+   [
+    "Starting Over",
+    1974
+   ]
+  ],
+  "songs": [
+   "Go All the Way",
+   "I Wanna Be with You",
+   "Let's Pretend",
+   "Overnight Sensation (Hit Record)",
+   "Tonight"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "Eric Carmen has named the Beatles as their main songwriting model.",
+    "s": 2
+   },
+   {
+    "id": "the-who",
+    "why": "Their crunchy guitar riffs follow The Who.",
+    "s": 2
+   },
+   {
+    "id": "the-beach-boys",
+    "why": "Their high harmonies follow the Beach Boys.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-knack",
+    "why": "The Knack's power pop follows Raspberries.",
+    "s": 1
+   },
+   {
+    "id": "fountains-of-wayne",
+    "why": "Their sharp, melodic power pop follows Raspberries.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "carly-rae-jepsen",
+    "why": "Sugary, punchy pop hooks."
+   },
+   {
+    "id": "teenage-fanclub",
+    "why": "Melodic guitar pop with harmonies."
+   }
+  ]
+ },
+ {
+  "id": "cheap-trick",
+  "years": "1973–present",
+  "origin": "Rockford, Illinois",
+  "genres": [
+   "power pop",
+   "hard rock",
+   "rock"
+  ],
+  "summary": "Rockford band that mixed Beatles-style melody with hard rock guitars and wit. Cheap Trick at Budokan made them stars and became a classic live album.",
+  "know": [
+   "Cheap Trick at Budokan was recorded in Tokyo and became their breakthrough.",
+   "George Martin produced All Shook Up in 1980.",
+   "They recorded a version of Big Star's In the Street for That '70s Show."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Cheap Trick",
+    1977
+   ],
+   [
+    "In Color",
+    1977
+   ],
+   [
+    "Heaven Tonight",
+    1978
+   ],
+   [
+    "Cheap Trick at Budokan",
+    1979
+   ]
+  ],
+  "songs": [
+   "I Want You to Want Me",
+   "Surrender",
+   "Dream Police",
+   "The Flame",
+   "Hello There"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "They have named the Beatles as their main influence and performed Sgt. Pepper live.",
+    "s": 3
+   },
+   {
+    "id": "george-martin",
+    "why": "Martin produced All Shook Up.",
+    "s": 3
+   },
+   {
+    "id": "the-who",
+    "why": "Their loud, theatrical guitar rock follows The Who.",
+    "s": 2
+   },
+   {
+    "id": "big-star",
+    "why": "They covered Big Star's In the Street.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "nirvana",
+    "why": "Kurt Cobain named Cheap Trick as an influence.",
+    "s": 2
+   },
+   {
+    "id": "smashing-pumpkins",
+    "why": "Billy Corgan has cited Cheap Trick as an influence.",
+    "s": 2
+   },
+   {
+    "id": "weezer",
+    "why": "Weezer's power pop follows Cheap Trick.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-replacements",
+    "why": "Melodic rock with loud guitars."
+   },
+   {
+    "id": "ramones",
+    "why": "Catchy rock with a sense of humor."
+   }
+  ]
+ },
+ {
+  "id": "the-knack",
+  "years": "1978–2010",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "power pop",
+   "new wave",
+   "rock"
+  ],
+  "summary": "Los Angeles power pop band whose debut single, My Sharona, was the top US single of 1979.",
+  "know": [
+   "My Sharona spent six weeks at number one in the US.",
+   "Mike Chapman produced Get the Knack.",
+   "Their debut cover was styled after early Beatles records."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Get the Knack",
+    1979
+   ],
+   [
+    "...But the Little Girls Understand",
+    1980
+   ],
+   [
+    "Round Trip",
+    1981
+   ]
+  ],
+  "songs": [
+   "My Sharona",
+   "Good Girls Don't",
+   "Baby Talks Dirty",
+   "Your Number or Your Name"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "Their image and debut cover were styled after early Beatles records.",
+    "s": 3
+   },
+   {
+    "id": "buddy-holly",
+    "why": "They covered Buddy Holly's Heartbeat on their debut.",
+    "s": 2
+   },
+   {
+    "id": "the-kinks",
+    "why": "Their tight, riff-based pop follows the Kinks.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "fountains-of-wayne",
+    "why": "Fountains of Wayne's tight power pop follows the Knack.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "blondie",
+    "why": "Mike Chapman also produced Blondie's Parallel Lines."
+   },
+   {
+    "id": "the-go-gos",
+    "why": "Bright, catchy new wave pop."
+   }
+  ]
+ },
+ {
+  "id": "nick-lowe",
+  "years": "1965–present",
+  "origin": "London, England",
+  "genres": [
+   "pub rock",
+   "power pop",
+   "new wave"
+  ],
+  "summary": "London singer, songwriter and producer who came out of pub rock with Brinsley Schwarz and became the house producer at Stiff Records. He produced Elvis Costello's first five albums.",
+  "know": [
+   "He wrote (What's So Funny 'Bout) Peace, Love and Understanding.",
+   "He produced the Damned's New Rose, the first UK punk single.",
+   "Johnny Cash recorded his song The Beast in Me."
+  ],
+  "born": "03-24",
+  "keyAlbums": [
+   [
+    "Jesus of Cool",
+    1978
+   ],
+   [
+    "Labour of Lust",
+    1979
+   ],
+   [
+    "The Impossible Bird",
+    1994
+   ],
+   [
+    "The Convincer",
+    2001
+   ]
+  ],
+  "songs": [
+   "Cruel to Be Kind",
+   "I Love the Sound of Breaking Glass",
+   "(What's So Funny 'Bout) Peace, Love and Understanding",
+   "The Beast in Me",
+   "So It Goes"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-band",
+    "why": "Brinsley Schwarz modeled its rootsy sound on The Band.",
+    "s": 2
+   },
+   {
+    "id": "johnny-cash",
+    "why": "Cash was his stepfather-in-law for a time and a major influence on his later country-leaning songs.",
+    "s": 3
+   },
+   {
+    "id": "chuck-berry",
+    "why": "His Rockpile work follows Chuck Berry's rock and roll.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "elvis-costello",
+    "why": "He produced My Aim Is True and Costello's next four albums.",
+    "s": 3
+   },
+   {
+    "id": "the-damned",
+    "why": "He produced New Rose and their debut album.",
+    "s": 3
+   },
+   {
+    "id": "the-pretenders",
+    "why": "He produced their first single.",
+    "s": 3
+   },
+   {
+    "id": "johnny-cash",
+    "why": "Cash recorded The Beast in Me on American Recordings.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "guy-clark",
+    "why": "Wry, carefully built songs."
+   },
+   {
+    "id": "jim-reeves",
+    "why": "Smooth, low-key crooning."
+   }
+  ]
+ },
+ {
+  "id": "teenage-fanclub",
+  "years": "1989–present",
+  "origin": "Glasgow, Scotland",
+  "genres": [
+   "jangle pop",
+   "power pop",
+   "alternative rock"
+  ],
+  "summary": "Glasgow band with three songwriters who combined noisy guitars with Big Star and Byrds-style harmonies. Bandwagonesque made them critics' favorites in 1991.",
+  "know": [
+   "Spin named Bandwagonesque its album of the year for 1991, ahead of Nevermind.",
+   "Norman Blake, Raymond McGinley and Gerard Love all wrote and sang songs.",
+   "Kurt Cobain praised them as one of his favorite bands."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Bandwagonesque",
+    1991
+   ],
+   [
+    "Thirteen",
+    1993
+   ],
+   [
+    "Grand Prix",
+    1995
+   ],
+   [
+    "Songs from Northern Britain",
+    1997
+   ]
+  ],
+  "songs": [
+   "The Concept",
+   "Star Sign",
+   "Sparky's Dream",
+   "Ain't That Enough",
+   "Everything Flows"
+  ],
+  "influencedBy": [
+   {
+    "id": "big-star",
+    "why": "They have named Big Star as their main model and covered their songs.",
+    "s": 3
+   },
+   {
+    "id": "the-byrds",
+    "why": "Their chiming guitars and harmonies follow the Byrds.",
+    "s": 2
+   },
+   {
+    "id": "badfinger",
+    "why": "Their melodic guitar pop follows Badfinger.",
+    "s": 1
+   },
+   {
+    "id": "neil-young",
+    "why": "Their fuzzy, loose guitar sound draws on Neil Young and Crazy Horse.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "fountains-of-wayne",
+    "why": "Melodic power pop with harmonies."
+   },
+   {
+    "id": "the-jayhawks",
+    "why": "Warm vocal harmonies over guitars."
+   }
+  ]
+ },
+ {
+  "id": "fountains-of-wayne",
+  "years": "1995–2013",
+  "origin": "New York City, New York",
+  "genres": [
+   "power pop",
+   "alternative rock",
+   "pop rock"
+  ],
+  "summary": "New York band led by songwriters Chris Collingwood and Adam Schlesinger, known for sharp, funny character songs about suburban life. Stacy's Mom was their biggest hit.",
+  "know": [
+   "Adam Schlesinger wrote the title song for the film That Thing You Do!",
+   "Stacy's Mom was nominated for a Grammy.",
+   "The band was named after a lawn ornament store in New Jersey."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Fountains of Wayne",
+    1996
+   ],
+   [
+    "Utopia Parkway",
+    1999
+   ],
+   [
+    "Welcome Interstate Managers",
+    2003
+   ],
+   [
+    "Traffic and Weather",
+    2007
+   ]
+  ],
+  "songs": [
+   "Stacy's Mom",
+   "Radiation Vibe",
+   "Sink to the Bottom",
+   "Hackensack",
+   "Red Dragon Tattoo"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-cars",
+    "why": "Stacy's Mom openly nods to the sound of the Cars.",
+    "s": 2
+   },
+   {
+    "id": "the-kinks",
+    "why": "Their detailed character songs follow Ray Davies.",
+    "s": 1
+   },
+   {
+    "id": "cheap-trick",
+    "why": "Their crunchy power pop follows Cheap Trick.",
+    "s": 1
+   },
+   {
+    "id": "big-star",
+    "why": "Their melodic guitar pop follows Big Star.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "weezer",
+    "why": "Hooky power pop with humor."
+   },
+   {
+    "id": "teenage-fanclub",
+    "why": "Melodic guitar pop."
+   }
+  ]
+ },
+ {
+  "id": "dave-matthews-band",
+  "years": "1991–present",
+  "origin": "Charlottesville, Virginia",
+  "genres": [
+   "jam band",
+   "rock",
+   "folk rock"
+  ],
+  "summary": "Charlottesville band led by singer and guitarist Dave Matthews, mixing acoustic guitar, violin, saxophone and jazz-trained drumming. They became one of the top-grossing touring acts in the US.",
+  "know": [
+   "Producer Steve Lillywhite made their first three studio albums.",
+   "Drummer Carter Beauford and saxophonist LeRoi Moore came from jazz backgrounds.",
+   "They often play Bob Dylan's All Along the Watchtower live."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Under the Table and Dreaming",
+    1994
+   ],
+   [
+    "Crash",
+    1996
+   ],
+   [
+    "Before These Crowded Streets",
+    1998
+   ],
+   [
+    "Busted Stuff",
+    2002
+   ]
+  ],
+  "songs": [
+   "Ants Marching",
+   "Crash into Me",
+   "What Would You Say",
+   "Satellite",
+   "Two Step"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-dylan",
+    "why": "They regularly cover All Along the Watchtower in long live versions.",
+    "s": 2
+   },
+   {
+    "id": "peter-gabriel",
+    "why": "Their world music rhythms follow Peter Gabriel's rock records.",
+    "s": 1
+   },
+   {
+    "id": "simon-garfunkel",
+    "why": "Paul Simon's African-influenced guitar pop shaped their sound.",
+    "s": 1
+   },
+   {
+    "id": "grateful-dead",
+    "why": "They built a touring fan base in the jam-band tradition of the Dead.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "bela-fleck",
+    "why": "Virtuosic acoustic playing with jazz feel."
+   },
+   {
+    "id": "the-avett-brothers",
+    "why": "Acoustic-driven songs played for big crowds."
+   }
+  ]
+ },
+ {
+  "id": "widespread-panic",
+  "years": "1986–present",
+  "origin": "Athens, Georgia",
+  "genres": [
+   "jam band",
+   "southern rock",
+   "blues rock"
+  ],
+  "summary": "Athens band that combined southern rock, blues and long improvisations. They became one of the top touring jam bands.",
+  "know": [
+   "Their 1998 free album release show in Athens drew about 100,000 people.",
+   "They often covered songs by Athens songwriter Vic Chesnutt.",
+   "Founding guitarist Michael Houser died in 2002."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Space Wrangler",
+    1988
+   ],
+   [
+    "Ain't Life Grand",
+    1994
+   ],
+   [
+    "Bombs & Butterflies",
+    1997
+   ],
+   [
+    "Light Fuse, Get Away",
+    1998
+   ]
+  ],
+  "songs": [
+   "Chilly Water",
+   "Ain't Life Grand",
+   "Porch Song",
+   "Surprise Valley",
+   "Pigeons"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-allman-brothers",
+    "why": "Their southern blues and long jams follow the Allmans.",
+    "s": 2
+   },
+   {
+    "id": "grateful-dead",
+    "why": "They follow the Dead in building a following through touring and improvisation.",
+    "s": 2
+   },
+   {
+    "id": "little-feat",
+    "why": "Their swampy southern grooves follow Little Feat.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "drive-by-truckers",
+    "why": "An Athens band working in southern rock."
+   },
+   {
+    "id": "rl-burnside",
+    "why": "Hypnotic southern blues grooves."
+   }
+  ]
+ },
+ {
+  "id": "blues-traveler",
+  "years": "1987–present",
+  "origin": "Princeton, New Jersey",
+  "genres": [
+   "jam band",
+   "blues rock",
+   "roots rock"
+  ],
+  "summary": "Band formed by high school friends and led by harmonica player and singer John Popper. They helped grow the 1990s jam band scene and had hits with Run-Around and Hook.",
+  "know": [
+   "Run-Around won a Grammy in 1996.",
+   "John Popper co-founded the H.O.R.D.E. tour.",
+   "Popper's fast, horn-like harmonica playing is their trademark."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Blues Traveler",
+    1990
+   ],
+   [
+    "Travelers and Thieves",
+    1991
+   ],
+   [
+    "Four",
+    1994
+   ],
+   [
+    "Straight On till Morning",
+    1997
+   ]
+  ],
+  "songs": [
+   "Run-Around",
+   "Hook",
+   "But Anyway",
+   "Mountains Win Again",
+   "Carolina Blues"
+  ],
+  "influencedBy": [
+   {
+    "id": "grateful-dead",
+    "why": "They built a touring following through long improvisations like the Dead.",
+    "s": 2
+   },
+   {
+    "id": "little-walter",
+    "why": "Popper's harmonica work grows out of Chicago blues players like Little Walter.",
+    "s": 1
+   },
+   {
+    "id": "the-allman-brothers",
+    "why": "Their blues jams follow the Allmans.",
+    "s": 1
+   },
+   {
+    "id": "paul-butterfield-blues-band",
+    "why": "Their harmonica-led blues rock follows Butterfield.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "sonny-boy-williamson-ii",
+    "why": "Harmonica as the lead voice."
+   },
+   {
+    "id": "old-crow-medicine-show",
+    "why": "Harmonica-driven roots music."
+   }
+  ]
+ },
+ {
+  "id": "govt-mule",
+  "years": "1994–present",
+  "origin": "Atlanta, Georgia",
+  "genres": [
+   "southern rock",
+   "jam band",
+   "blues rock"
+  ],
+  "summary": "Band started as a side project by Allman Brothers guitarist Warren Haynes and bassist Allen Woody. They play heavy, blues-based rock with long improvisations.",
+  "know": [
+   "They began as a power trio with drummer Matt Abts.",
+   "The Deep End albums featured many guest bassists after Allen Woody died in 2000.",
+   "Warren Haynes also played with the Allman Brothers and members of the Grateful Dead."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Gov't Mule",
+    1995
+   ],
+   [
+    "Dose",
+    1998
+   ],
+   [
+    "Life Before Insanity",
+    2000
+   ],
+   [
+    "The Deep End, Volume 1",
+    2001
+   ]
+  ],
+  "songs": [
+   "Soulshine",
+   "Mule",
+   "Blind Man in the Dark",
+   "Thorazine Shuffle",
+   "Banks of the Deep End"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-allman-brothers",
+    "why": "Haynes and Woody formed the band while playing in the Allman Brothers.",
+    "s": 3
+   },
+   {
+    "id": "cream",
+    "why": "Their power-trio jams follow Cream.",
+    "s": 2
+   },
+   {
+    "id": "free",
+    "why": "They often cover Free songs.",
+    "s": 2
+   },
+   {
+    "id": "grateful-dead",
+    "why": "Haynes played with the Dead's surviving members.",
+    "s": 3
+   },
+   {
+    "id": "mountain",
+    "why": "Their heavy blues rock follows Mountain.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "rl-burnside",
+    "why": "Heavy, hypnotic blues."
+   },
+   {
+    "id": "stevie-ray-vaughan",
+    "why": "Fiery blues guitar."
+   }
+  ]
+ },
+ {
+  "id": "lenny-kravitz",
+  "years": "1989–present",
+  "origin": "New York City, New York",
+  "genres": [
+   "rock",
+   "funk rock",
+   "soul"
+  ],
+  "summary": "Singer and multi-instrumentalist who revived 1960s and 1970s rock, funk and soul sounds using vintage gear. He won four straight Grammys for Best Male Rock Vocal Performance.",
+  "know": [
+   "He plays many of the instruments on his records himself.",
+   "He co-wrote Madonna's Justify My Love.",
+   "He won the Grammy for Best Male Rock Vocal four years in a row."
+  ],
+  "born": "05-26",
+  "keyAlbums": [
+   [
+    "Let Love Rule",
+    1989
+   ],
+   [
+    "Mama Said",
+    1991
+   ],
+   [
+    "Are You Gonna Go My Way",
+    1993
+   ],
+   [
+    "5",
+    1998
+   ]
+  ],
+  "songs": [
+   "Are You Gonna Go My Way",
+   "Fly Away",
+   "It Ain't Over 'til It's Over",
+   "Let Love Rule",
+   "American Woman"
+  ],
+  "influencedBy": [
+   {
+    "id": "jimi-hendrix",
+    "why": "His riffs and guitar tone follow Hendrix.",
+    "s": 2
+   },
+   {
+    "id": "led-zeppelin",
+    "why": "His heavy riff rock follows Zeppelin.",
+    "s": 2
+   },
+   {
+    "id": "prince",
+    "why": "Like Prince, he blended rock and funk and played most instruments himself.",
+    "s": 2
+   },
+   {
+    "id": "curtis-mayfield",
+    "why": "His soul ballads follow Curtis Mayfield.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "His melodic pop follows the Beatles.",
+    "s": 2
+   },
+   {
+    "id": "the-guess-who",
+    "why": "He had a hit covering American Woman.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "madonna",
+    "why": "He co-wrote Justify My Love.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "d-angelo",
+    "why": "Analog-sounding retro soul."
+   },
+   {
+    "id": "black-pumas",
+    "why": "Retro soul with rock edges."
+   }
+  ]
+ },
+ {
+  "id": "sheryl-crow",
+  "years": "1993–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "rock",
+   "roots rock",
+   "pop rock"
+  ],
+  "summary": "Singer and songwriter from Missouri who sang backup in Los Angeles before her debut. Her blend of rock, country and pop produced a long run of 1990s hits.",
+  "know": [
+   "She sang backup on Michael Jackson's Bad tour.",
+   "Tuesday Night Music Club came out of sessions with a group of Los Angeles musicians.",
+   "All I Wanna Do won the Grammy for Record of the Year."
+  ],
+  "born": "02-11",
+  "keyAlbums": [
+   [
+    "Tuesday Night Music Club",
+    1993
+   ],
+   [
+    "Sheryl Crow",
+    1996
+   ],
+   [
+    "The Globe Sessions",
+    1998
+   ],
+   [
+    "C'mon, C'mon",
+    2002
+   ]
+  ],
+  "songs": [
+   "All I Wanna Do",
+   "If It Makes You Happy",
+   "Leaving Las Vegas",
+   "Every Day Is a Winding Road",
+   "Soak Up the Sun"
+  ],
+  "influencedBy": [
+   {
+    "id": "michael-jackson",
+    "why": "She sang backup on his Bad world tour.",
+    "s": 3
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "She has named the Stones as an influence on her loose rock.",
+    "s": 2
+   },
+   {
+    "id": "bob-dylan",
+    "why": "She recorded Dylan's Mississippi.",
+    "s": 2
+   },
+   {
+    "id": "the-band",
+    "why": "Her rootsy, rock-country mix follows The Band.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "lucinda-williams",
+    "why": "Roots rock from a woman's view."
+   },
+   {
+    "id": "the-chicks",
+    "why": "Country-pop with a rock edge."
+   }
+  ]
+ },
+ {
+  "id": "counting-crows",
+  "years": "1991–present",
+  "origin": "Berkeley, California",
+  "genres": [
+   "alternative rock",
+   "roots rock",
+   "folk rock"
+  ],
+  "summary": "Bay Area band fronted by Adam Duritz whose debut, produced by T Bone Burnett, blended Van Morrison-style soul with 1990s alternative rock.",
+  "know": [
+   "T Bone Burnett produced August and Everything After.",
+   "Mr. Jones was their breakthrough single.",
+   "Their cover of Joni Mitchell's Big Yellow Taxi became a hit."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "August and Everything After",
+    1993
+   ],
+   [
+    "Recovering the Satellites",
+    1996
+   ],
+   [
+    "This Desert Life",
+    1999
+   ],
+   [
+    "Hard Candy",
+    2002
+   ]
+  ],
+  "songs": [
+   "Mr. Jones",
+   "Round Here",
+   "A Long December",
+   "Accidentally in Love",
+   "Big Yellow Taxi"
+  ],
+  "influencedBy": [
+   {
+    "id": "van-morrison",
+    "why": "Duritz has named Van Morrison as a main influence.",
+    "s": 3
+   },
+   {
+    "id": "the-band",
+    "why": "Their rootsy sound follows The Band.",
+    "s": 2
+   },
+   {
+    "id": "t-bone-burnett",
+    "why": "Burnett produced their debut.",
+    "s": 3
+   },
+   {
+    "id": "joni-mitchell",
+    "why": "They had a hit covering Big Yellow Taxi.",
+    "s": 2
+   },
+   {
+    "id": "rem",
+    "why": "Their alternative rock follows R.E.M.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "ryan-adams",
+    "why": "Confessional roots rock."
+   },
+   {
+    "id": "conor-oberst",
+    "why": "Raw, personal songwriting."
+   }
+  ]
+ },
+ {
+  "id": "the-wallflowers",
+  "years": "1989–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "roots rock",
+   "alternative rock",
+   "heartland rock"
+  ],
+  "summary": "Los Angeles band led by Jakob Dylan. Their second album, produced by T Bone Burnett, brought major hits including One Headlight.",
+  "know": [
+   "One Headlight won two Grammys.",
+   "T Bone Burnett produced Bringing Down the Horse.",
+   "They covered David Bowie's Heroes for the 1998 Godzilla soundtrack."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Wallflowers",
+    1992
+   ],
+   [
+    "Bringing Down the Horse",
+    1996
+   ],
+   [
+    "Red Letter Days",
+    2002
+   ],
+   [
+    "Exit Wounds",
+    2021
+   ]
+  ],
+  "songs": [
+   "One Headlight",
+   "6th Avenue Heartache",
+   "The Difference",
+   "Three Marlenas",
+   "Heroes"
+  ],
+  "influencedBy": [
+   {
+    "id": "t-bone-burnett",
+    "why": "Burnett produced Bringing Down the Horse.",
+    "s": 3
+   },
+   {
+    "id": "the-clash",
+    "why": "Jakob Dylan has named the Clash as a main influence.",
+    "s": 2
+   },
+   {
+    "id": "tom-petty",
+    "why": "Their roots rock follows Tom Petty.",
+    "s": 1
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Jakob Dylan's roots-rock songwriting follows his father's.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "jason-isbell",
+    "why": "Roots-rock songwriting."
+   },
+   {
+    "id": "the-jayhawks",
+    "why": "Rootsy guitar rock."
+   }
+  ]
+ },
+ {
+  "id": "coldplay",
+  "years": "1996–present",
+  "origin": "London, England",
+  "genres": [
+   "pop rock",
+   "alternative rock",
+   "Britpop"
+  ],
+  "summary": "London band formed at university and led by Chris Martin, known for piano ballads and big anthems. They became one of the best-selling bands of the 2000s.",
+  "know": [
+   "The members met at University College London.",
+   "Brian Eno co-produced Viva la Vida or Death and All His Friends.",
+   "Talk was built on the melody of Kraftwerk's Computer Love, used with permission."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Parachutes",
+    2000
+   ],
+   [
+    "A Rush of Blood to the Head",
+    2002
+   ],
+   [
+    "X&Y",
+    2005
+   ],
+   [
+    "Viva la Vida or Death and All His Friends",
+    2008
+   ]
+  ],
+  "songs": [
+   "Yellow",
+   "The Scientist",
+   "Clocks",
+   "Fix You",
+   "Viva la Vida"
+  ],
+  "influencedBy": [
+   {
+    "id": "u2",
+    "why": "Their soaring guitar anthems follow U2.",
+    "s": 2
+   },
+   {
+    "id": "radiohead",
+    "why": "Their early guitar ballads follow Radiohead.",
+    "s": 2
+   },
+   {
+    "id": "jeff-buckley",
+    "why": "Chris Martin has named Jeff Buckley as a key vocal influence.",
+    "s": 2
+   },
+   {
+    "id": "echo-and-the-bunnymen",
+    "why": "Martin has cited Echo and the Bunnymen as an influence.",
+    "s": 2
+   },
+   {
+    "id": "brian-eno",
+    "why": "Eno co-produced Viva la Vida.",
+    "s": 3
+   },
+   {
+    "id": "travis",
+    "why": "Their early sound follows Travis.",
+    "s": 2
+   },
+   {
+    "id": "max-martin",
+    "why": "Max Martin produced Music of the Spheres.",
+    "s": 3
+   },
+   {
+    "id": "kraftwerk",
+    "why": "Talk was built on the melody of Computer Love.",
+    "s": 3
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "bon-iver",
+    "why": "Emotional, atmospheric songs."
+   },
+   {
+    "id": "adele",
+    "why": "Piano-led ballads."
+   }
+  ]
+ },
+ {
+  "id": "travis",
+  "years": "1990–present",
+  "origin": "Glasgow, Scotland",
+  "genres": [
+   "Britpop",
+   "pop rock",
+   "alternative rock"
+  ],
+  "summary": "Glasgow band fronted by Fran Healy whose gentle, melodic guitar pop broke through with The Man Who in 1999.",
+  "know": [
+   "Nigel Godrich produced The Man Who.",
+   "Oasis gave them support slots on tour.",
+   "Why Does It Always Rain on Me? became their signature song."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Good Feeling",
+    1997
+   ],
+   [
+    "The Man Who",
+    1999
+   ],
+   [
+    "The Invisible Band",
+    2001
+   ],
+   [
+    "12 Memories",
+    2003
+   ]
+  ],
+  "songs": [
+   "Why Does It Always Rain on Me?",
+   "Writing to Reach You",
+   "Driftwood",
+   "Sing",
+   "Turn"
+  ],
+  "influencedBy": [
+   {
+    "id": "nigel-godrich",
+    "why": "Godrich produced The Man Who.",
+    "s": 3
+   },
+   {
+    "id": "oasis",
+    "why": "They supported Oasis, and Writing to Reach You borrows Wonderwall's chords.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "Their melodic songwriting follows the Beatles.",
+    "s": 2
+   },
+   {
+    "id": "radiohead",
+    "why": "Their gentle guitar ballads follow Radiohead.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "coldplay",
+    "why": "Coldplay's early gentle guitar pop follows Travis.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "teenage-fanclub",
+    "why": "Glasgow guitar pop."
+   },
+   {
+    "id": "iron-and-wine",
+    "why": "Gentle, melodic songwriting."
+   }
+  ]
+ },
+ {
+  "id": "placebo",
+  "years": "1994–present",
+  "origin": "London, England",
+  "genres": [
+   "alternative rock",
+   "glam rock",
+   "post-grunge"
+  ],
+  "summary": "London band led by Brian Molko, known for dark, androgynous glam rock. David Bowie championed them and recorded with them.",
+  "know": [
+   "David Bowie recorded a version of Without You I'm Nothing with them.",
+   "They covered Kate Bush's Running Up That Hill.",
+   "Their debut album came out in 1996."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Placebo",
+    1996
+   ],
+   [
+    "Without You I'm Nothing",
+    1998
+   ],
+   [
+    "Black Market Music",
+    2000
+   ],
+   [
+    "Sleeping with Ghosts",
+    2003
+   ]
+  ],
+  "songs": [
+   "Nancy Boy",
+   "Pure Morning",
+   "Every You Every Me",
+   "The Bitter End",
+   "Running Up That Hill"
+  ],
+  "influencedBy": [
+   {
+    "id": "david-bowie",
+    "why": "Bowie championed them and recorded with them.",
+    "s": 3
+   },
+   {
+    "id": "sonic-youth",
+    "why": "Molko has named Sonic Youth as an influence.",
+    "s": 2
+   },
+   {
+    "id": "the-cure",
+    "why": "Their dark, moody sound follows the Cure.",
+    "s": 2
+   },
+   {
+    "id": "kate-bush",
+    "why": "They covered Running Up That Hill.",
+    "s": 2
+   },
+   {
+    "id": "pixies",
+    "why": "Their loud-quiet dynamics follow the Pixies.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "depeche-mode",
+    "why": "Dark, moody rock."
+   },
+   {
+    "id": "deftones",
+    "why": "Dark, moody alternative."
+   }
+  ]
+ },
+ {
+  "id": "stereophonics",
+  "years": "1992–present",
+  "origin": "Cwmaman, Wales",
+  "genres": [
+   "Britpop",
+   "rock",
+   "post-Britpop"
+  ],
+  "summary": "Welsh band fronted by Kelly Jones, known for his raspy voice and songs about small-town life.",
+  "know": [
+   "They were the first band signed to Richard Branson's V2 label.",
+   "Dakota was their first UK number-one single.",
+   "The band came from the village of Cwmaman in the Welsh valleys."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Word Gets Around",
+    1997
+   ],
+   [
+    "Performance and Cocktails",
+    1999
+   ],
+   [
+    "Just Enough Education to Perform",
+    2001
+   ],
+   [
+    "Language. Sex. Violence. Other?",
+    2005
+   ]
+  ],
+  "songs": [
+   "Dakota",
+   "Have a Nice Day",
+   "Maybe Tomorrow",
+   "Local Boy in the Photograph",
+   "Mr. Writer"
+  ],
+  "influencedBy": [
+   {
+    "id": "rod-stewart",
+    "why": "Kelly Jones has named Rod Stewart as a vocal influence.",
+    "s": 2
+   },
+   {
+    "id": "faces",
+    "why": "Their loose rock follows the Faces.",
+    "s": 1
+   },
+   {
+    "id": "oasis",
+    "why": "Their Britpop follows Oasis.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "kings-of-leon",
+    "why": "Raspy-voiced rock."
+   },
+   {
+    "id": "chris-stapleton",
+    "why": "Raspy, soulful vocals."
+   }
+  ]
+ },
+ {
+  "id": "kasabian",
+  "years": "1997–present",
+  "origin": "Leicester, England",
+  "genres": [
+   "indie rock",
+   "electronic rock",
+   "Britpop"
+  ],
+  "summary": "Leicester band led by Serge Pizzorno that mixed swaggering guitar rock with electronic beats. They became one of the biggest British rock bands of the 2000s.",
+  "know": [
+   "Dan the Automator produced West Ryder Pauper Lunatic Asylum.",
+   "Club Foot was their breakthrough single.",
+   "They headlined Glastonbury in 2014."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Kasabian",
+    2004
+   ],
+   [
+    "Empire",
+    2006
+   ],
+   [
+    "West Ryder Pauper Lunatic Asylum",
+    2009
+   ],
+   [
+    "Velociraptor!",
+    2011
+   ]
+  ],
+  "songs": [
+   "Club Foot",
+   "L.S.F.",
+   "Fire",
+   "Shoot the Runner",
+   "Underdog"
+  ],
+  "influencedBy": [
+   {
+    "id": "primal-scream",
+    "why": "Their mix of rock and dance follows Primal Scream.",
+    "s": 2
+   },
+   {
+    "id": "the-stone-roses",
+    "why": "Their swaggering guitar rock follows the Stone Roses.",
+    "s": 2
+   },
+   {
+    "id": "happy-mondays",
+    "why": "Their dance grooves follow the Happy Mondays.",
+    "s": 2
+   },
+   {
+    "id": "the-chemical-brothers",
+    "why": "Their electronic beats follow the Chemical Brothers.",
+    "s": 1
+   },
+   {
+    "id": "oasis",
+    "why": "Their big British rock choruses follow Oasis.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-prodigy",
+    "why": "Rock energy with electronic beats."
+   },
+   {
+    "id": "beastie-boys",
+    "why": "Rock mixed with beats."
+   }
+  ]
+ }
+]

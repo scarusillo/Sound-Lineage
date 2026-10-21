@@ -1,0 +1,3741 @@
+[
+ {
+  "id": "john-denver",
+  "years": "1969–1997",
+  "origin": "Aspen, Colorado",
+  "genres": [
+   "folk pop",
+   "country pop",
+   "soft rock"
+  ],
+  "summary": "John Denver was a folk-pop singer and songwriter whose warm voice and outdoor themes made him one of the best-selling acts of the 1970s.",
+  "know": [
+   "He wrote \"Leaving on a Jet Plane,\" which Peter, Paul and Mary took to number one in 1969.",
+   "Before going solo he sang with the Chad Mitchell Trio.",
+   "He won the CMA Entertainer of the Year award in 1975."
+  ],
+  "born": "12-31",
+  "keyAlbums": [
+   [
+    "Poems, Prayers & Promises",
+    1971
+   ],
+   [
+    "Rocky Mountain High",
+    1972
+   ],
+   [
+    "Back Home Again",
+    1974
+   ],
+   [
+    "Windsong",
+    1975
+   ]
+  ],
+  "songs": [
+   "Take Me Home, Country Roads",
+   "Rocky Mountain High",
+   "Annie's Song",
+   "Sunshine on My Shoulders",
+   "Leaving on a Jet Plane"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-kingston-trio",
+    "why": "The Kingston Trio's clean, harmony-based folk pop was the model for the folk groups he started in.",
+    "s": 2
+   },
+   {
+    "id": "peter-paul-and-mary",
+    "why": "Peter, Paul and Mary shared his producer Milt Okun and turned his song into a hit, launching his career.",
+    "s": 3
+   },
+   {
+    "id": "pete-seeger",
+    "why": "Seeger's singalong folk and nature songs set the template for Denver's earnest, audience-friendly style.",
+    "s": 1
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Dylan's success made room for folk singers to write their own material, which Denver did from the start.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "glen-campbell",
+    "why": "Another clean-voiced 1970s crossover star who moved easily between country and pop radio."
+   },
+   {
+    "id": "kenny-rogers",
+    "why": "Gentle, story-driven crossover songs that topped both country and pop charts."
+   }
+  ]
+ },
+ {
+  "id": "charley-crockett",
+  "years": "2015–present",
+  "origin": "Dallas, Texas",
+  "genres": [
+   "traditional country",
+   "honky-tonk",
+   "Texas blues",
+   "country soul"
+  ],
+  "summary": "Charley Crockett is a Texas singer who blends honky-tonk, blues and soul into a deliberately old-fashioned sound and releases records at a fast clip.",
+  "know": [
+   "He spent years busking in places like the New Orleans French Quarter and the New York subway before recording.",
+   "He released a full tribute album to the Texas honky-tonk singer James Hand.",
+   "He runs his own label, Son of Davy, and often puts out more than one album a year."
+  ],
+  "born": "03-25",
+  "keyAlbums": [
+   [
+    "The Valley",
+    2019
+   ],
+   [
+    "Welcome to Hard Times",
+    2020
+   ],
+   [
+    "10 for Slim: Charley Crockett Sings James Hand",
+    2021
+   ],
+   [
+    "$10 Cowboy",
+    2024
+   ]
+  ],
+  "songs": [
+   "Welcome to Hard Times",
+   "Jamestown Ferry",
+   "Paint It Blue",
+   "Music City USA",
+   "$10 Cowboy"
+  ],
+  "influencedBy": [
+   {
+    "id": "merle-haggard",
+    "why": "Haggard's working-man honky-tonk is the clearest model for Crockett's songwriting and vocal phrasing.",
+    "s": 2
+   },
+   {
+    "id": "bob-wills",
+    "why": "Western swing rhythms and Texas dance-hall feel run through many of his records.",
+    "s": 1
+   },
+   {
+    "id": "hank-williams",
+    "why": "He works in the plain, lonesome honky-tonk tradition that Hank Williams defined.",
+    "s": 1
+   },
+   {
+    "id": "lightnin-hopkins",
+    "why": "His blues-leaning sides draw on the Texas country-blues style of Lightnin' Hopkins.",
+    "s": 1
+   },
+   {
+    "id": "willie-nelson",
+    "why": "Willie's Texas independence and conversational phrasing are an audible touchstone.",
+    "s": 1
+   },
+   {
+    "id": "waylon-jennings",
+    "why": "Outlaw-era Waylon is a reference point for his lean, guitar-driven arrangements.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "leon-bridges",
+    "why": "A fellow Texan who revives vintage soul with the same respect for old recording sounds."
+   },
+   {
+    "id": "lightnin-hopkins",
+    "why": "Rough-edged Texas songs built for small rooms and road stories."
+   }
+  ]
+ },
+ {
+  "id": "bo-burnham",
+  "years": "2006–present",
+  "origin": "Hamilton, Massachusetts",
+  "genres": [
+   "musical comedy",
+   "comedy music",
+   "piano pop"
+  ],
+  "summary": "Bo Burnham is a comedian and songwriter who went from teenage YouTube videos to the self-made special Inside, mixing jokes with sharp pop songwriting.",
+  "know": [
+   "He started posting comic songs to YouTube in 2006 while still in high school.",
+   "He wrote and directed the film Eighth Grade in 2018.",
+   "His song \"All Eyes on Me\" from Inside won a Grammy."
+  ],
+  "born": "08-21",
+  "keyAlbums": [
+   [
+    "Bo Burnham",
+    2009
+   ],
+   [
+    "Words Words Words",
+    2010
+   ],
+   [
+    "what.",
+    2013
+   ],
+   [
+    "Inside (The Songs)",
+    2021
+   ]
+  ],
+  "songs": [
+   "Welcome to the Internet",
+   "All Eyes on Me",
+   "Bezos I",
+   "That Funny Feeling",
+   "Art Is Dead"
+  ],
+  "influencedBy": [
+   {
+    "id": "tom-lehrer",
+    "why": "Lehrer's witty piano songs are the classic model for the kind of comedy music Burnham writes.",
+    "s": 1
+   },
+   {
+    "id": "weird-al-yankovic",
+    "why": "Weird Al showed that comedy songs could be built with real pop craft.",
+    "s": 1
+   },
+   {
+    "id": "randy-newman",
+    "why": "Newman's ironic, character-driven piano songs are close kin to Burnham's sharper material.",
+    "s": 1
+   },
+   {
+    "id": "flight-of-the-conchords",
+    "why": "The Conchords' genre-hopping musical comedy was a contemporary model for Burnham's style parodies.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "childish-gambino",
+    "why": "Another comedian who built a serious music career out of internet-era comedy."
+   },
+   {
+    "id": "weird-al-yankovic",
+    "why": "Comedy songs with careful, genre-accurate production."
+   }
+  ]
+ },
+ {
+  "id": "uncle-dave-macon",
+  "years": "1924–1952",
+  "origin": "Nashville, Tennessee",
+  "genres": [
+   "old-time",
+   "string band",
+   "banjo songster",
+   "vaudeville"
+  ],
+  "summary": "Uncle Dave Macon was a banjo-playing showman and the first big star of the Grand Ole Opry, preserving a huge store of 19th-century songs on record.",
+  "know": [
+   "He joined the Grand Ole Opry in 1926 and became its first featured star.",
+   "He ran a mule-drawn freight business before turning to music full time.",
+   "He was elected to the Country Music Hall of Fame in 1966."
+  ],
+  "born": "10-07",
+  "keyAlbums": [],
+  "songs": [
+   "Keep My Skillet Good and Greasy",
+   "Way Down the Old Plank Road",
+   "Rock About My Saro Jane",
+   "Cumberland Mountain Deer Race",
+   "Sail Away Ladies"
+  ],
+  "influencedBy": [],
+  "influenced": [
+   {
+    "id": "roy-acuff",
+    "why": "Acuff came up on the Opry in Macon's shadow and carried on his old-time showmanship.",
+    "s": 2
+   },
+   {
+    "id": "harry-smith",
+    "why": "Smith put several Macon recordings on the Anthology of American Folk Music.",
+    "s": 2
+   },
+   {
+    "id": "pete-seeger",
+    "why": "Macon's recordings were part of the old-time banjo repertoire Seeger learned and spread.",
+    "s": 1
+   },
+   {
+    "id": "john-hartford",
+    "why": "Hartford's banjo-and-storytelling act drew directly on the old Opry songster tradition Macon embodied.",
+    "s": 1
+   },
+   {
+    "id": "old-crow-medicine-show",
+    "why": "Their rowdy string-band revival plays the kind of old-time material Macon popularized.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "fats-waller",
+    "why": "A comic, larger-than-life entertainer who was also a serious musician."
+   },
+   {
+    "id": "mississippi-john-hurt",
+    "why": "A songster from the same early recording era who kept older songs alive."
+   }
+  ]
+ },
+ {
+  "id": "gene-autry",
+  "years": "1929–1964",
+  "origin": "Tulsa, Oklahoma",
+  "genres": [
+   "western",
+   "cowboy songs",
+   "country",
+   "Christmas"
+  ],
+  "summary": "Gene Autry was the original singing cowboy, a record and film star who made western songs a national craze and recorded some of the best-selling Christmas songs ever.",
+  "know": [
+   "He began as a Jimmie Rodgers-style singer billed as Oklahoma's Yodeling Cowboy on Tulsa radio.",
+   "His 1949 recording of \"Rudolph the Red-Nosed Reindeer\" became one of the top-selling singles of its time.",
+   "He later owned the California Angels baseball team."
+  ],
+  "born": "09-29",
+  "keyAlbums": [],
+  "songs": [
+   "Back in the Saddle Again",
+   "That Silver-Haired Daddy of Mine",
+   "Tumbling Tumbleweeds",
+   "Rudolph the Red-Nosed Reindeer",
+   "Here Comes Santa Claus"
+  ],
+  "influencedBy": [
+   {
+    "id": "jimmie-rodgers",
+    "why": "Autry started out closely imitating Rodgers's blue yodels before finding his cowboy style.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "marty-robbins",
+    "why": "Robbins grew up on Autry's westerns and built his gunfighter ballads on that image.",
+    "s": 2
+   },
+   {
+    "id": "orville-peck",
+    "why": "Peck's masked singing cowboy persona draws on the Hollywood western image Autry created.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bing-crosby",
+    "why": "A fellow 1930s and 1940s crooner whose Christmas records became perennials."
+   },
+   {
+    "id": "dean-martin",
+    "why": "Easygoing film-and-record star with a relaxed, friendly vocal style."
+   }
+  ]
+ },
+ {
+  "id": "roy-acuff",
+  "years": "1932–1992",
+  "origin": "Knoxville, Tennessee",
+  "genres": [
+   "old-time",
+   "traditional country",
+   "country gospel",
+   "string band"
+  ],
+  "summary": "Roy Acuff was the Grand Ole Opry's biggest star of the late 1930s and 1940s and, as a publisher, helped build Nashville into the country music business center.",
+  "know": [
+   "He joined the Grand Ole Opry in 1938 and was long called the King of Country Music.",
+   "In 1942 he co-founded Acuff-Rose Publishing with songwriter Fred Rose, which later signed Hank Williams.",
+   "In 1962 he became the first living person elected to the Country Music Hall of Fame."
+  ],
+  "born": "09-15",
+  "keyAlbums": [],
+  "songs": [
+   "Wabash Cannonball",
+   "The Great Speckled Bird",
+   "Wreck on the Highway",
+   "Night Train to Memphis",
+   "Fireball Mail"
+  ],
+  "influencedBy": [
+   {
+    "id": "uncle-dave-macon",
+    "why": "Macon was the Opry's elder star, and Acuff learned its showmanship and old-time repertoire alongside him.",
+    "s": 2
+   },
+   {
+    "id": "carter-family",
+    "why": "Acuff's mountain gospel and sacred songs come from the same tradition the Carters put on record.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "hank-williams",
+    "why": "Hank idolized Acuff's emotional singing and was signed to Acuff-Rose, which published his songs.",
+    "s": 3
+   },
+   {
+    "id": "the-louvin-brothers",
+    "why": "The Louvins grew up on Acuff's Opry broadcasts and his mix of secular and sacred songs.",
+    "s": 1
+   },
+   {
+    "id": "the-nitty-gritty-dirt-band",
+    "why": "Acuff sang on their 1972 Will the Circle Be Unbroken sessions, linking his generation to theirs.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-staple-singers",
+    "why": "Gospel-rooted singing that crossed into popular music without losing its church feel."
+   },
+   {
+    "id": "woody-guthrie",
+    "why": "Train songs and plain-voiced Depression-era singing for working people."
+   }
+  ]
+ },
+ {
+  "id": "ernest-tubb",
+  "years": "1936–1982",
+  "origin": "San Antonio, Texas",
+  "genres": [
+   "honky-tonk",
+   "Texas country",
+   "traditional country"
+  ],
+  "summary": "Ernest Tubb was a Texas singer who helped define honky-tonk music in the 1940s, put electric guitar at the center of country records, and championed younger artists.",
+  "know": [
+   "Jimmie Rodgers's widow helped launch his career and gave him one of Rodgers's guitars.",
+   "His 1941 hit \"Walking the Floor Over You\" was an early electric-guitar country smash.",
+   "He opened the Ernest Tubb Record Shop in Nashville in 1947 and hosted the Midnite Jamboree radio show from it."
+  ],
+  "born": "02-09",
+  "keyAlbums": [],
+  "songs": [
+   "Walking the Floor Over You",
+   "Waltz Across Texas",
+   "Thanks a Lot",
+   "Slipping Around",
+   "Another Story"
+  ],
+  "influencedBy": [
+   {
+    "id": "jimmie-rodgers",
+    "why": "Tubb began as a devoted Rodgers imitator, and Rodgers's widow personally helped him get started.",
+    "s": 3
+   },
+   {
+    "id": "bob-wills",
+    "why": "Texas dance-hall music shaped the steady, danceable beat of his honky-tonk records.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "hank-snow",
+    "why": "Tubb helped bring Snow to the Grand Ole Opry in 1950.",
+    "s": 3
+   },
+   {
+    "id": "loretta-lynn",
+    "why": "He championed Lynn early and recorded a string of hit duets with her in the 1960s.",
+    "s": 3
+   },
+   {
+    "id": "hank-williams",
+    "why": "Tubb's plain honky-tonk delivery was part of the sound Hank built on.",
+    "s": 1
+   },
+   {
+    "id": "george-jones",
+    "why": "Jones came up on Tubb's Texas honky-tonk records and their jukebox style.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "jimmy-reed",
+    "why": "Simple, steady, instantly recognizable barroom records with plain singing."
+   },
+   {
+    "id": "muddy-waters",
+    "why": "Turned up the electric guitar in a rural style and made it the sound of the clubs."
+   }
+  ]
+ },
+ {
+  "id": "the-louvin-brothers",
+  "years": "1940–1963",
+  "origin": "Henagar, Alabama",
+  "genres": [
+   "close harmony",
+   "country gospel",
+   "brother duet",
+   "traditional country"
+  ],
+  "summary": "Ira and Charlie Louvin were a brother duo whose high, tight harmonies on gospel and heartbreak songs became a model for country and rock harmony singers.",
+  "know": [
+   "Ira sang the high harmony and played mandolin, while Charlie sang lead and played guitar.",
+   "They joined the Grand Ole Opry in 1955.",
+   "Their 1959 gospel album Satan Is Real is famous for its homemade cover art."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Tragic Songs of Life",
+    1956
+   ],
+   [
+    "Ira and Charlie",
+    1958
+   ],
+   [
+    "Satan Is Real",
+    1959
+   ]
+  ],
+  "songs": [
+   "When I Stop Dreaming",
+   "I Don't Believe You've Met My Baby",
+   "Knoxville Girl",
+   "Cash on the Barrelhead",
+   "Satan Is Real"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-delmore-brothers",
+    "why": "The Delmores set the pattern for the brother-duet harmony style the Louvins refined.",
+    "s": 2
+   },
+   {
+    "id": "bill-monroe",
+    "why": "Monroe's high lonesome tenor and mandolin shaped Ira's singing and playing.",
+    "s": 1
+   },
+   {
+    "id": "carter-family",
+    "why": "Much of their gospel and ballad repertoire comes from the Carter Family tradition.",
+    "s": 1
+   },
+   {
+    "id": "roy-acuff",
+    "why": "They grew up on Acuff's Opry broadcasts mixing sacred and secular songs.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "everly-brothers",
+    "why": "The Everlys modeled their harmony on the Louvins and later recorded an album of their songs.",
+    "s": 2
+   },
+   {
+    "id": "gram-parsons",
+    "why": "Parsons championed the Louvins and recorded their songs throughout his career.",
+    "s": 2
+   },
+   {
+    "id": "the-byrds",
+    "why": "The Byrds recorded the Louvins' \"The Christian Life\" on Sweetheart of the Rodeo.",
+    "s": 2
+   },
+   {
+    "id": "emmylou-harris",
+    "why": "Harris had an early hit with the Louvins' \"If I Could Only Win Your Love\" in 1975.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "simon-garfunkel",
+    "why": "Two-voice harmony as the heart of the sound."
+   },
+   {
+    "id": "the-staple-singers",
+    "why": "Family harmony singing rooted in gospel."
+   }
+  ]
+ },
+ {
+  "id": "flatt-and-scruggs",
+  "years": "1948–1969",
+  "origin": "Nashville, Tennessee",
+  "genres": [
+   "bluegrass",
+   "country",
+   "banjo"
+  ],
+  "summary": "Lester Flatt and Earl Scruggs left Bill Monroe's band to form the Foggy Mountain Boys, and Scruggs's three-finger banjo made them bluegrass's most popular act.",
+  "know": [
+   "Both played in Bill Monroe's Blue Grass Boys from about 1945 to 1948.",
+   "\"The Ballad of Jed Clampett,\" the Beverly Hillbillies theme, was a number one country hit for them.",
+   "\"Foggy Mountain Breakdown\" was used in the 1967 film Bonnie and Clyde."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Foggy Mountain Jamboree",
+    1957
+   ],
+   [
+    "Foggy Mountain Banjo",
+    1961
+   ],
+   [
+    "At Carnegie Hall!",
+    1962
+   ]
+  ],
+  "songs": [
+   "Foggy Mountain Breakdown",
+   "The Ballad of Jed Clampett",
+   "Earl's Breakdown",
+   "Salty Dog Blues",
+   "Roll in My Sweet Baby's Arms"
+  ],
+  "influencedBy": [
+   {
+    "id": "bill-monroe",
+    "why": "Both men were members of Monroe's band, where the classic bluegrass sound took shape.",
+    "s": 3
+   },
+   {
+    "id": "carter-family",
+    "why": "They recorded Carter songs, and Maybelle Carter toured with them in the 1960s.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "ricky-skaggs",
+    "why": "Skaggs played mandolin on their TV show as a young child and later revived their repertoire.",
+    "s": 3
+   },
+   {
+    "id": "bela-fleck",
+    "why": "Fleck has said hearing the Beverly Hillbillies theme made him want to play banjo.",
+    "s": 3
+   },
+   {
+    "id": "the-nitty-gritty-dirt-band",
+    "why": "Earl Scruggs played on their Will the Circle Be Unbroken sessions.",
+    "s": 3
+   },
+   {
+    "id": "john-hartford",
+    "why": "Hartford's banjo style grew directly out of the Scruggs approach.",
+    "s": 2
+   },
+   {
+    "id": "grateful-dead",
+    "why": "Jerry Garcia started as a Scruggs-style bluegrass banjo player.",
+    "s": 1
+   },
+   {
+    "id": "billy-strings",
+    "why": "Their drive and instrumental flash is the foundation of the bluegrass Strings plays.",
+    "s": 1
+   },
+   {
+    "id": "alison-krauss",
+    "why": "Krauss came up in a bluegrass world shaped by their records and repertoire.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "django-reinhardt",
+    "why": "A virtuoso who invented a new way to play his instrument and made it lead."
+   },
+   {
+    "id": "booker-t",
+    "why": "Tight, instrument-led records that showcase a band's drive."
+   }
+  ]
+ },
+ {
+  "id": "ralph-stanley",
+  "years": "1946–2016",
+  "origin": "McClure, Virginia",
+  "genres": [
+   "bluegrass",
+   "mountain gospel",
+   "old-time"
+  ],
+  "summary": "Ralph Stanley co-led the Stanley Brothers and then the Clinch Mountain Boys, keeping a stark mountain style of bluegrass and singing alive for seven decades.",
+  "know": [
+   "From 1967 he led the Clinch Mountain Boys on his own after years co-leading with his brother Carter.",
+   "His band was the starting point for Ricky Skaggs and Keith Whitley.",
+   "His unaccompanied \"O Death\" on the O Brother, Where Art Thou? soundtrack won him a Grammy in 2002."
+  ],
+  "born": "02-25",
+  "keyAlbums": [
+   [
+    "Cry from the Cross",
+    1971
+   ],
+   [
+    "Clinch Mountain Country",
+    1998
+   ],
+   [
+    "Ralph Stanley",
+    2002
+   ]
+  ],
+  "songs": [
+   "O Death",
+   "Man of Constant Sorrow",
+   "Angel Band",
+   "Rank Stranger",
+   "Clinch Mountain Backstep"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-stanley-brothers",
+    "why": "His lifelong partnership with his brother Carter formed his whole style.",
+    "s": 3
+   },
+   {
+    "id": "bill-monroe",
+    "why": "Monroe's new bluegrass sound shaped the early Stanley Brothers records.",
+    "s": 2
+   },
+   {
+    "id": "carter-family",
+    "why": "Mountain ballads and gospel from the Carter tradition run through his repertoire.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "ricky-skaggs",
+    "why": "Skaggs joined Stanley's band as a teenager.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Dylan named Stanley as a favorite and recorded a duet with him in the 1990s.",
+    "s": 3
+   },
+   {
+    "id": "t-bone-burnett",
+    "why": "Burnett built the O Brother soundtrack around Stanley and later produced him.",
+    "s": 3
+   },
+   {
+    "id": "gillian-welch",
+    "why": "Welch's spare Appalachian style draws directly on the Stanley sound.",
+    "s": 2
+   },
+   {
+    "id": "tyler-childers",
+    "why": "Childers's eastern Kentucky mountain singing traces back to Stanley's style.",
+    "s": 1
+   },
+   {
+    "id": "billy-strings",
+    "why": "Strings came up playing the traditional bluegrass repertoire Stanley kept alive.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "son-house",
+    "why": "Raw, spiritual singing with almost no polish."
+   },
+   {
+    "id": "mahalia-jackson",
+    "why": "Sacred music sung with enormous intensity."
+   }
+  ]
+ },
+ {
+  "id": "doc-watson",
+  "years": "1960–2012",
+  "origin": "Deep Gap, North Carolina",
+  "genres": [
+   "flatpicking",
+   "old-time",
+   "folk",
+   "bluegrass"
+  ],
+  "summary": "Doc Watson was a North Carolina guitarist and singer whose fast, clean flatpicking of fiddle tunes changed how the acoustic guitar is played in folk and bluegrass.",
+  "know": [
+   "He was brought to folk revival audiences in the early 1960s after folklorist Ralph Rinzler recorded him.",
+   "He toured and recorded for years with his son Merle, and MerleFest is named for Merle.",
+   "He named his son after guitarist Merle Travis."
+  ],
+  "born": "03-03",
+  "keyAlbums": [
+   [
+    "Doc Watson",
+    1964
+   ],
+   [
+    "Will the Circle Be Unbroken (with Nitty Gritty Dirt Band)",
+    1972
+   ],
+   [
+    "Riding the Midnight Train",
+    1986
+   ]
+  ],
+  "songs": [
+   "Black Mountain Rag",
+   "Tennessee Stud",
+   "Deep River Blues",
+   "Shady Grove",
+   "Windy and Warm"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-delmore-brothers",
+    "why": "Watson learned from Delmore Brothers records, and \"Deep River Blues\" became a signature tune.",
+    "s": 3
+   },
+   {
+    "id": "merle-travis",
+    "why": "Watson admired Travis enough to name his son after him and absorbed his fingerpicking.",
+    "s": 3
+   },
+   {
+    "id": "jimmie-rodgers",
+    "why": "Rodgers's records were among the first country music Watson heard and sang.",
+    "s": 2
+   },
+   {
+    "id": "carter-family",
+    "why": "Many of his ballads and gospel songs come from the Carter Family repertoire.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-nitty-gritty-dirt-band",
+    "why": "Watson was a central guest on their Will the Circle Be Unbroken sessions.",
+    "s": 3
+   },
+   {
+    "id": "billy-strings",
+    "why": "Strings has named Watson as a major guitar hero and plays many of his tunes.",
+    "s": 3
+   },
+   {
+    "id": "bela-fleck",
+    "why": "Watson's flatpicking set the bar for the newgrass virtuosity Fleck's generation pursued.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "django-reinhardt",
+    "why": "Overcame physical limits to become the defining guitarist of his style."
+   },
+   {
+    "id": "mississippi-john-hurt",
+    "why": "Gentle, rolling guitar and an unhurried voice on old songs."
+   }
+  ]
+ },
+ {
+  "id": "kitty-wells",
+  "years": "1949–1979",
+  "origin": "Nashville, Tennessee",
+  "genres": [
+   "honky-tonk",
+   "traditional country"
+  ],
+  "summary": "Kitty Wells was the first woman to top the country charts as a solo artist and opened the door for women singers in the male-dominated honky-tonk era.",
+  "know": [
+   "\"It Wasn't God Who Made Honky Tonk Angels\" reached number one in 1952 as an answer song to Hank Thompson's \"The Wild Side of Life.\"",
+   "She was billed as the Queen of Country Music.",
+   "She was married to Johnnie Wright of the duo Johnnie & Jack."
+  ],
+  "born": "08-30",
+  "keyAlbums": [
+   [
+    "Country Hit Parade",
+    1956
+   ],
+   [
+    "Dust on the Bible",
+    1959
+   ],
+   [
+    "Kitty's Choice",
+    1960
+   ]
+  ],
+  "songs": [
+   "It Wasn't God Who Made Honky Tonk Angels",
+   "Making Believe",
+   "Release Me",
+   "Heartbreak U.S.A.",
+   "One by One"
+  ],
+  "influencedBy": [
+   {
+    "id": "carter-family",
+    "why": "Her plain, unornamented vocal style comes from the Carter Family's mountain singing.",
+    "s": 1
+   },
+   {
+    "id": "roy-acuff",
+    "why": "She came up on the Opry sound Acuff defined.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "loretta-lynn",
+    "why": "Lynn has named Wells as her early idol and model.",
+    "s": 3
+   },
+   {
+    "id": "tammy-wynette",
+    "why": "Wells proved a woman could carry honky-tonk heartbreak songs to the top of the chart.",
+    "s": 1
+   },
+   {
+    "id": "dolly-parton",
+    "why": "Wells was one of the women who made a solo country career like Parton's possible.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "sister-rosetta-tharpe",
+    "why": "A woman who broke through in a field run by men and set a new standard."
+   },
+   {
+    "id": "billie-holiday",
+    "why": "A woman singer whose plain, direct delivery set the standard for heartbreak songs."
+   }
+  ]
+ },
+ {
+  "id": "hank-snow",
+  "years": "1936–1980",
+  "origin": "Halifax, Canada",
+  "genres": [
+   "traditional country",
+   "honky-tonk",
+   "train songs"
+  ],
+  "summary": "Hank Snow was a Canadian singer and guitarist known as the Singing Ranger, whose fast-talking train songs made him one of country's biggest stars of the 1950s.",
+  "know": [
+   "\"I'm Movin' On\" spent 21 weeks at number one on the country chart in 1950.",
+   "He named his son Jimmie Rodgers Snow after his hero.",
+   "His booking agency, run with Colonel Tom Parker, handled an early Elvis Presley tour."
+  ],
+  "born": "05-09",
+  "keyAlbums": [],
+  "songs": [
+   "I'm Movin' On",
+   "I've Been Everywhere",
+   "The Golden Rocket",
+   "The Rhumba Boogie",
+   "A Fool Such as I"
+  ],
+  "influencedBy": [
+   {
+    "id": "jimmie-rodgers",
+    "why": "Snow modeled himself on Rodgers and named his son after him.",
+    "s": 3
+   },
+   {
+    "id": "ernest-tubb",
+    "why": "Tubb sponsored his arrival on the Grand Ole Opry in 1950.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "elvis-presley",
+    "why": "Presley toured on Snow's package shows and recorded songs from his catalog.",
+    "s": 3
+   },
+   {
+    "id": "johnny-cash",
+    "why": "Cash recorded \"I've Been Everywhere\" and carried on the talking train-song style.",
+    "s": 1
+   },
+   {
+    "id": "ray-charles",
+    "why": "Charles recorded \"I'm Movin' On,\" bringing Snow's song into R&B.",
+    "s": 1
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "The Stones played \"I'm Movin' On\" in their early live sets.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "lonnie-donegan",
+    "why": "Fast, rhythmic train and travel songs."
+   },
+   {
+    "id": "gordon-lightfoot",
+    "why": "A Canadian storyteller with railroad songs at the core of his catalog."
+   }
+  ]
+ },
+ {
+  "id": "marty-robbins",
+  "years": "1952–1982",
+  "origin": "Phoenix, Arizona",
+  "genres": [
+   "western",
+   "country pop",
+   "honky-tonk",
+   "rockabilly"
+  ],
+  "summary": "Marty Robbins was a versatile country singer best known for his cinematic gunfighter ballads, which brought western story songs back to the top of the charts.",
+  "know": [
+   "\"El Paso\" won the first Grammy for best country and western recording.",
+   "The fuzz-tone guitar on \"Don't Worry\" came from a faulty amplifier during the session.",
+   "He also raced stock cars in NASCAR."
+  ],
+  "born": "09-26",
+  "keyAlbums": [
+   [
+    "Gunfighter Ballads and Trail Songs",
+    1959
+   ],
+   [
+    "More Gunfighter Ballads and Trail Songs",
+    1960
+   ],
+   [
+    "Devil Woman",
+    1962
+   ]
+  ],
+  "songs": [
+   "El Paso",
+   "Big Iron",
+   "A White Sport Coat",
+   "Singing the Blues",
+   "Don't Worry"
+  ],
+  "influencedBy": [
+   {
+    "id": "gene-autry",
+    "why": "Robbins grew up on Autry's westerns, and they shaped his cowboy songs.",
+    "s": 3
+   },
+   {
+    "id": "jimmie-rodgers",
+    "why": "Rodgers's western and blue-yodel songs were part of his early repertoire.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "grateful-dead",
+    "why": "The Dead played \"El Paso\" hundreds of times in concert.",
+    "s": 2
+   },
+   {
+    "id": "colter-wall",
+    "why": "Wall's cowboy story songs follow the gunfighter-ballad tradition Robbins made famous.",
+    "s": 1
+   },
+   {
+    "id": "orville-peck",
+    "why": "Peck's dramatic western crooning echoes Robbins's style.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "roy-orbison",
+    "why": "Big, dramatic ballads sung with a soaring tenor."
+   },
+   {
+    "id": "frank-sinatra",
+    "why": "A smooth crooner who could sell a story song."
+   }
+  ]
+ },
+ {
+  "id": "jim-reeves",
+  "years": "1953–1964",
+  "origin": "Shreveport, Louisiana",
+  "genres": [
+   "Nashville sound",
+   "country pop",
+   "crooner"
+  ],
+  "summary": "Jim Reeves was a velvet-voiced singer whose soft, close-miked ballads helped define the polished Nashville sound and made him a star around the world.",
+  "know": [
+   "He worked as an announcer at KWKH, home of the Louisiana Hayride, before his singing career took off.",
+   "His RCA records were produced by Chet Atkins.",
+   "He was hugely popular abroad, including in the UK, Ireland, Norway and South Africa."
+  ],
+  "born": "08-20",
+  "keyAlbums": [
+   [
+    "He'll Have to Go",
+    1960
+   ],
+   [
+    "A Touch of Velvet",
+    1962
+   ],
+   [
+    "Twelve Songs of Christmas",
+    1963
+   ],
+   [
+    "Moonlight and Roses",
+    1964
+   ]
+  ],
+  "songs": [
+   "He'll Have to Go",
+   "Four Walls",
+   "Mexican Joe",
+   "Distant Drums",
+   "Welcome to My World"
+  ],
+  "influencedBy": [
+   {
+    "id": "bing-crosby",
+    "why": "Reeves's relaxed, intimate crooning follows Crosby's microphone-based style.",
+    "s": 2
+   },
+   {
+    "id": "chet-atkins",
+    "why": "Atkins produced his RCA hits and shaped their smooth arrangements.",
+    "s": 3
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "nat-king-cole",
+    "why": "A warm, intimate baritone that crossed every audience."
+   },
+   {
+    "id": "dean-martin",
+    "why": "Easy, velvety ballads for a wide pop audience."
+   }
+  ]
+ },
+ {
+  "id": "chet-atkins",
+  "years": "1946–2001",
+  "origin": "Nashville, Tennessee",
+  "genres": [
+   "Nashville sound",
+   "fingerstyle guitar",
+   "country"
+  ],
+  "summary": "Chet Atkins was a fingerstyle guitar master and the RCA executive and producer who, with Owen Bradley, built the smooth Nashville sound of the late 1950s and 1960s.",
+  "know": [
+   "He ran RCA Victor's Nashville operation and signed artists including Charley Pride.",
+   "He played guitar on early RCA sessions for Elvis Presley.",
+   "Gretsch and later Gibson made signature Chet Atkins guitar models."
+  ],
+  "born": "06-20",
+  "keyAlbums": [
+   [
+    "He'll Have to Go (Jim Reeves)",
+    1960
+   ],
+   [
+    "Folk-Country (Waylon Jennings)",
+    1966
+   ],
+   [
+    "Me & Jerry (with Jerry Reed)",
+    1970
+   ],
+   [
+    "Neck and Neck (with Mark Knopfler)",
+    1990
+   ]
+  ],
+  "songs": [
+   "Mister Sandman",
+   "Yakety Axe",
+   "Country Gentleman",
+   "Windy and Warm"
+  ],
+  "influencedBy": [
+   {
+    "id": "merle-travis",
+    "why": "Atkins built his thumb-and-finger picking on Travis's style.",
+    "s": 3
+   },
+   {
+    "id": "django-reinhardt",
+    "why": "He admired Django's jazz guitar and borrowed from it.",
+    "s": 2
+   },
+   {
+    "id": "les-paul",
+    "why": "Les Paul's tone and studio approach were a model for Atkins the guitarist and producer.",
+    "s": 2
+   },
+   {
+    "id": "carter-family",
+    "why": "He played in Mother Maybelle and the Carter Sisters' band around 1950, which brought him to Nashville.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "jim-reeves",
+    "why": "Atkins produced Reeves's RCA hits and shaped their soft, polished sound.",
+    "s": 3
+   },
+   {
+    "id": "elvis-presley",
+    "why": "He played on and helped organize Presley's first RCA sessions.",
+    "s": 3
+   },
+   {
+    "id": "everly-brothers",
+    "why": "He helped the Everlys get started and played on their early records.",
+    "s": 3
+   },
+   {
+    "id": "waylon-jennings",
+    "why": "He signed and produced Jennings's early RCA albums.",
+    "s": 3
+   },
+   {
+    "id": "charley-pride",
+    "why": "He signed Pride to RCA in 1965.",
+    "s": 3
+   },
+   {
+    "id": "jerry-reed",
+    "why": "He produced Reed and recorded duet albums with him.",
+    "s": 3
+   },
+   {
+    "id": "dire-straits",
+    "why": "Mark Knopfler named Atkins as a hero and made a duet album with him.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "George Harrison's early playing and Gretsch guitars came straight from his admiration of Atkins.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "george-martin",
+    "why": "A producer who shaped a whole era's sound from inside a record company."
+   },
+   {
+    "id": "quincy-jones",
+    "why": "A musician-producer whose taste set a polished standard for a genre."
+   }
+  ]
+ },
+ {
+  "id": "owen-bradley",
+  "years": "1947–1988",
+  "origin": "Nashville, Tennessee",
+  "genres": [
+   "Nashville sound",
+   "country pop",
+   "countrypolitan"
+  ],
+  "summary": "Owen Bradley was the Decca Records producer who, with Chet Atkins, created the Nashville sound, making landmark records with Patsy Cline, Loretta Lynn and Brenda Lee.",
+  "know": [
+   "With his brother Harold he opened a studio on Nashville's 16th Avenue in the 1950s, the start of Music Row.",
+   "He headed Decca's Nashville division for years.",
+   "He came out of retirement to produce k.d. lang's Shadowland in 1988."
+  ],
+  "born": "10-21",
+  "keyAlbums": [
+   [
+    "Patsy Cline Showcase (Patsy Cline)",
+    1961
+   ],
+   [
+    "Sentimentally Yours (Patsy Cline)",
+    1962
+   ],
+   [
+    "Coal Miner's Daughter (Loretta Lynn)",
+    1971
+   ],
+   [
+    "Shadowland (k.d. lang)",
+    1988
+   ]
+  ],
+  "songs": [
+   "Crazy",
+   "I Fall to Pieces",
+   "Walkin' After Midnight",
+   "Coal Miner's Daughter",
+   "Rockin' Around the Christmas Tree"
+  ],
+  "influencedBy": [],
+  "influenced": [
+   {
+    "id": "patsy-cline",
+    "why": "Bradley produced her biggest hits and framed her voice with strings and backing singers.",
+    "s": 3
+   },
+   {
+    "id": "loretta-lynn",
+    "why": "He produced Lynn's Decca records through her rise to stardom.",
+    "s": 3
+   },
+   {
+    "id": "buddy-holly",
+    "why": "He produced Holly's 1956 Decca sessions in Nashville.",
+    "s": 3
+   },
+   {
+    "id": "k-d-lang",
+    "why": "He produced Shadowland, her tribute to the Nashville sound.",
+    "s": 3
+   },
+   {
+    "id": "billy-sherrill",
+    "why": "Sherrill's lush countrypolitan productions extended the approach Bradley pioneered.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "george-martin",
+    "why": "A record-company producer who defined the sound of the stars he recorded."
+   },
+   {
+    "id": "phil-spector",
+    "why": "A producer known for a big, layered signature sound."
+   }
+  ]
+ },
+ {
+  "id": "billy-sherrill",
+  "years": "1964–1990",
+  "origin": "Nashville, Tennessee",
+  "genres": [
+   "countrypolitan",
+   "Nashville sound",
+   "country pop"
+  ],
+  "summary": "Billy Sherrill was the Epic Records producer and songwriter behind the lush countrypolitan sound, making classic records with Tammy Wynette, George Jones and Charlie Rich.",
+  "know": [
+   "He co-wrote \"Stand by Your Man\" with Tammy Wynette.",
+   "He produced George Jones's \"He Stopped Loving Her Today.\"",
+   "He produced Elvis Costello's country album Almost Blue in 1981."
+  ],
+  "born": "11-05",
+  "keyAlbums": [
+   [
+    "Stand by Your Man (Tammy Wynette)",
+    1969
+   ],
+   [
+    "Behind Closed Doors (Charlie Rich)",
+    1973
+   ],
+   [
+    "The Grand Tour (George Jones)",
+    1974
+   ],
+   [
+    "I Am What I Am (George Jones)",
+    1980
+   ]
+  ],
+  "songs": [
+   "Stand by Your Man",
+   "He Stopped Loving Her Today",
+   "Behind Closed Doors",
+   "The Most Beautiful Girl",
+   "D-I-V-O-R-C-E"
+  ],
+  "influencedBy": [
+   {
+    "id": "owen-bradley",
+    "why": "Sherrill built his string-heavy style on the Nashville sound Bradley created.",
+    "s": 1
+   },
+   {
+    "id": "phil-spector",
+    "why": "His big, layered productions are often compared to Spector's wall of sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "tammy-wynette",
+    "why": "He signed her, produced her hits and co-wrote her signature song.",
+    "s": 3
+   },
+   {
+    "id": "george-jones",
+    "why": "He produced Jones for two decades, including his most famous ballad.",
+    "s": 3
+   },
+   {
+    "id": "elvis-costello",
+    "why": "He produced Costello's Almost Blue in Nashville.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "willie-mitchell",
+    "why": "A producer whose signature arrangements defined a label's sound."
+   },
+   {
+    "id": "quincy-jones",
+    "why": "Polished, big-budget productions that made stars of singers."
+   }
+  ]
+ },
+ {
+  "id": "tammy-wynette",
+  "years": "1966–1998",
+  "origin": "Nashville, Tennessee",
+  "genres": [
+   "countrypolitan",
+   "Nashville sound",
+   "country ballads"
+  ],
+  "summary": "Tammy Wynette was a country singer known as the First Lady of Country Music, whose aching voice on Billy Sherrill's lush productions made her one of the genre's defining stars.",
+  "know": [
+   "She worked as a hairdresser before her music career took off.",
+   "\"Stand by Your Man\" became one of the best-selling singles by a woman in country history.",
+   "She recorded \"Justified and Ancient\" with the British group The KLF in 1991."
+  ],
+  "born": "05-05",
+  "keyAlbums": [
+   [
+    "Your Good Girl's Gonna Go Bad",
+    1967
+   ],
+   [
+    "D-I-V-O-R-C-E",
+    1968
+   ],
+   [
+    "Stand by Your Man",
+    1969
+   ],
+   [
+    "We Go Together (with George Jones)",
+    1971
+   ]
+  ],
+  "songs": [
+   "Stand by Your Man",
+   "D-I-V-O-R-C-E",
+   "Apartment No. 9",
+   "Golden Ring",
+   "'Til I Can Make It on My Own"
+  ],
+  "influencedBy": [
+   {
+    "id": "billy-sherrill",
+    "why": "Sherrill signed her, produced her records and co-wrote her biggest hit.",
+    "s": 3
+   },
+   {
+    "id": "george-jones",
+    "why": "Her husband and duet partner, Jones shaped her phrasing on their many records together.",
+    "s": 3
+   },
+   {
+    "id": "kitty-wells",
+    "why": "Wells set the model for a woman singing honky-tonk heartbreak.",
+    "s": 1
+   },
+   {
+    "id": "patsy-cline",
+    "why": "Cline's emotional ballad singing in lush settings paved the way for her sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "aretha-franklin",
+    "why": "Big, emotional ballad singing that defined a genre's female voice."
+   },
+   {
+    "id": "dusty-springfield",
+    "why": "Heartbreak songs sung over lush string arrangements."
+   }
+  ]
+ },
+ {
+  "id": "charley-pride",
+  "years": "1966–2020",
+  "origin": "Nashville, Tennessee",
+  "genres": [
+   "Nashville sound",
+   "country pop",
+   "traditional country"
+  ],
+  "summary": "Charley Pride was a Mississippi-born baritone who became one of RCA's best-selling artists and country music's first Black superstar.",
+  "know": [
+   "He played Negro league baseball, including for the Memphis Red Sox, before singing professionally.",
+   "Chet Atkins signed him to RCA in 1965.",
+   "In 2000 he became the first Black artist elected to the Country Music Hall of Fame."
+  ],
+  "born": "03-18",
+  "keyAlbums": [
+   [
+    "Country Charley Pride",
+    1966
+   ],
+   [
+    "Charley Pride Sings Heart Songs",
+    1971
+   ]
+  ],
+  "songs": [
+   "Kiss an Angel Good Mornin'",
+   "Just Between You and Me",
+   "Is Anybody Goin' to San Antone",
+   "All I Have to Offer You (Is Me)",
+   "Kaw-Liga"
+  ],
+  "influencedBy": [
+   {
+    "id": "hank-williams",
+    "why": "Pride grew up on Hank's records and kept his songs in his repertoire.",
+    "s": 2
+   },
+   {
+    "id": "chet-atkins",
+    "why": "Atkins signed him to RCA and backed his career there.",
+    "s": 3
+   },
+   {
+    "id": "ernest-tubb",
+    "why": "He heard Tubb and other Opry stars on the radio growing up.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "kane-brown",
+    "why": "Pride's success is a reference point for Black artists in mainstream country like Brown.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "ray-charles",
+    "why": "Brought a soul singer's warmth to country songs."
+   },
+   {
+    "id": "nat-king-cole",
+    "why": "A smooth baritone who broke barriers in a mainstream format."
+   }
+  ]
+ },
+ {
+  "id": "glen-campbell",
+  "years": "1958–2013",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "country pop",
+   "countrypolitan",
+   "session guitar"
+  ],
+  "summary": "Glen Campbell was an in-demand Los Angeles session guitarist who became a crossover star singing Jimmy Webb songs like \"Wichita Lineman\" and \"Galveston.\"",
+  "know": [
+   "As part of the Wrecking Crew he played guitar on records by the Beach Boys, Frank Sinatra and many others.",
+   "He filled in for Brian Wilson on Beach Boys tours in the mid-1960s.",
+   "He hosted The Glen Campbell Goodtime Hour on TV from 1969 to 1972."
+  ],
+  "born": "04-22",
+  "keyAlbums": [
+   [
+    "Gentle on My Mind",
+    1967
+   ],
+   [
+    "By the Time I Get to Phoenix",
+    1967
+   ],
+   [
+    "Wichita Lineman",
+    1968
+   ],
+   [
+    "Rhinestone Cowboy",
+    1975
+   ]
+  ],
+  "songs": [
+   "Wichita Lineman",
+   "By the Time I Get to Phoenix",
+   "Gentle on My Mind",
+   "Galveston",
+   "Rhinestone Cowboy"
+  ],
+  "influencedBy": [
+   {
+    "id": "django-reinhardt",
+    "why": "Campbell often named Django as his favorite guitarist.",
+    "s": 3
+   },
+   {
+    "id": "wrecking-crew",
+    "why": "His years in the Wrecking Crew taught him studio craft and pop arranging.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-beach-boys",
+    "why": "He played guitar on Beach Boys sessions and toured with them.",
+    "s": 3
+   },
+   {
+    "id": "alan-jackson",
+    "why": "Campbell helped Jackson get his first publishing deal in Nashville.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "roy-orbison",
+    "why": "Lush, orchestral pop ballads sung with a clear, emotional voice."
+   },
+   {
+    "id": "burt-bacharach",
+    "why": "Sophisticated pop songcraft with strings and unusual chord changes."
+   }
+  ]
+ },
+ {
+  "id": "roger-miller",
+  "years": "1957–1992",
+  "origin": "Nashville, Tennessee",
+  "genres": [
+   "country pop",
+   "novelty",
+   "Nashville songwriting"
+  ],
+  "summary": "Roger Miller was a witty singer-songwriter whose playful mid-1960s hits like \"King of the Road\" made him a pop star and a Grammy record-setter.",
+  "know": [
+   "He won 11 Grammys across 1965 and 1966.",
+   "He wrote the songs for the Broadway musical Big River, which won the Tony for best score in 1985.",
+   "He voiced the rooster narrator in Disney's 1973 Robin Hood."
+  ],
+  "born": "01-02",
+  "keyAlbums": [
+   [
+    "Roger and Out",
+    1964
+   ],
+   [
+    "The Return of Roger Miller",
+    1965
+   ],
+   [
+    "Big River (Original Broadway Cast)",
+    1985
+   ]
+  ],
+  "songs": [
+   "King of the Road",
+   "Dang Me",
+   "Chug-a-Lug",
+   "England Swings",
+   "Engine Engine #9"
+  ],
+  "influencedBy": [
+   {
+    "id": "hank-williams",
+    "why": "Miller grew up on Hank and started as a Nashville writer in the plain honky-tonk tradition.",
+    "s": 2
+   },
+   {
+    "id": "bob-wills",
+    "why": "He grew up in Oklahoma on western swing and kept its loose, playful rhythm.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "tom-lehrer",
+    "why": "Clever wordplay and comic timing in short, catchy songs."
+   },
+   {
+    "id": "louis-jordan",
+    "why": "A jokey, swinging entertainer who was also a sharp musician."
+   }
+  ]
+ },
+ {
+  "id": "bobbie-gentry",
+  "years": "1967–1982",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "country pop",
+   "Southern Gothic",
+   "country soul"
+  ],
+  "summary": "Bobbie Gentry was a Mississippi-born singer-songwriter whose mysterious story song \"Ode to Billie Joe\" made her a star and who wrote and produced much of her own work.",
+  "know": [
+   "She won three Grammys in 1968, including best new artist.",
+   "She produced much of her own material, which was rare for a woman at the time.",
+   "She recorded a hit duet album with Glen Campbell in 1968."
+  ],
+  "born": "07-27",
+  "keyAlbums": [
+   [
+    "Ode to Billie Joe",
+    1967
+   ],
+   [
+    "The Delta Sweete",
+    1968
+   ],
+   [
+    "Bobbie Gentry and Glen Campbell",
+    1968
+   ],
+   [
+    "Patchwork",
+    1971
+   ]
+  ],
+  "songs": [
+   "Ode to Billie Joe",
+   "Fancy",
+   "Mississippi Delta",
+   "Okolona River Bottom Band",
+   "Let It Be Me"
+  ],
+  "influencedBy": [],
+  "influenced": [
+   {
+    "id": "reba-mcentire",
+    "why": "McEntire had one of her signature hits with Gentry's \"Fancy.\"",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "dusty-springfield",
+    "why": "Southern-tinged soul-pop sung with cool restraint."
+   },
+   {
+    "id": "lana-del-rey",
+    "why": "Cinematic, atmospheric storytelling with a mysterious persona."
+   }
+  ]
+ },
+ {
+  "id": "kris-kristofferson",
+  "years": "1969–2021",
+  "origin": "Nashville, Tennessee",
+  "genres": [
+   "outlaw country",
+   "country folk",
+   "singer-songwriter"
+  ],
+  "summary": "Kris Kristofferson was a Rhodes Scholar turned Nashville songwriter whose literate songs changed what country lyrics could be and who became a film star.",
+  "know": [
+   "He studied at Oxford as a Rhodes Scholar before moving to Nashville.",
+   "He worked as a janitor at Columbia's Nashville studios while trying to sell his songs.",
+   "He was a member of the Highwaymen with Johnny Cash, Willie Nelson and Waylon Jennings."
+  ],
+  "born": "06-22",
+  "keyAlbums": [
+   [
+    "Kristofferson",
+    1970
+   ],
+   [
+    "The Silver Tongued Devil and I",
+    1971
+   ],
+   [
+    "Jesus Was a Capricorn",
+    1972
+   ],
+   [
+    "Highwayman (The Highwaymen)",
+    1985
+   ]
+  ],
+  "songs": [
+   "Me and Bobby McGee",
+   "Sunday Mornin' Comin' Down",
+   "Help Me Make It Through the Night",
+   "For the Good Times",
+   "Why Me"
+  ],
+  "influencedBy": [
+   {
+    "id": "hank-williams",
+    "why": "Kristofferson often named Hank as the songwriter who drew him to country.",
+    "s": 3
+   },
+   {
+    "id": "johnny-cash",
+    "why": "Cash championed him, recorded his songs and later shared the stage in the Highwaymen.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "He cited Dylan as the model for writing poetic lyrics within popular song.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "john-prine",
+    "why": "Kristofferson championed Prine early and helped bring him to wider attention.",
+    "s": 3
+   },
+   {
+    "id": "janis-joplin",
+    "why": "Joplin's recording of his \"Me and Bobby McGee\" became her best-known song.",
+    "s": 3
+   },
+   {
+    "id": "billy-joe-shaver",
+    "why": "He produced Shaver's debut album.",
+    "s": 3
+   },
+   {
+    "id": "willie-nelson",
+    "why": "Nelson recorded a whole album of his songs and joined him in the Highwaymen.",
+    "s": 2
+   },
+   {
+    "id": "jason-isbell",
+    "why": "Isbell's detailed, literate country songwriting follows the path Kristofferson opened.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "leonard-cohen",
+    "why": "A poet who became a songwriter, with a deep, worn voice."
+   },
+   {
+    "id": "bruce-springsteen",
+    "why": "Working-class characters drawn with literary detail."
+   }
+  ]
+ },
+ {
+  "id": "david-allan-coe",
+  "years": "1970–present",
+  "origin": "Nashville, Tennessee",
+  "genres": [
+   "outlaw country",
+   "honky-tonk",
+   "country rock"
+  ],
+  "summary": "David Allan Coe is an outlaw country singer and songwriter known for his rowdy honky-tonk records and for writing hits for other artists.",
+  "know": [
+   "He wrote \"Would You Lay with Me (In a Field of Stone),\" a number one hit for Tanya Tucker.",
+   "He wrote \"Take This Job and Shove It,\" a hit for Johnny Paycheck.",
+   "Early in his career he was billed as the Mysterious Rhinestone Cowboy."
+  ],
+  "born": "09-06",
+  "keyAlbums": [
+   [
+    "The Mysterious Rhinestone Cowboy",
+    1974
+   ],
+   [
+    "Once Upon a Rhyme",
+    1975
+   ],
+   [
+    "Longhaired Redneck",
+    1976
+   ],
+   [
+    "Castles in the Sand",
+    1983
+   ]
+  ],
+  "songs": [
+   "You Never Even Called Me by My Name",
+   "Longhaired Redneck",
+   "The Ride",
+   "Would You Lay with Me (In a Field of Stone)",
+   "Willie, Waylon and Me"
+  ],
+  "influencedBy": [
+   {
+    "id": "hank-williams",
+    "why": "Coe's honky-tonk style and song themes return to Hank Williams again and again.",
+    "s": 2
+   },
+   {
+    "id": "waylon-jennings",
+    "why": "He came up alongside the outlaw movement Waylon led.",
+    "s": 1
+   },
+   {
+    "id": "willie-nelson",
+    "why": "Willie's outlaw independence is a direct model, named in his own songs.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "lynyrd-skynyrd",
+    "why": "Southern rock with a rough honky-tonk attitude."
+   },
+   {
+    "id": "zz-top",
+    "why": "Bearded Texas-style showmen with a raw roots sound."
+   }
+  ]
+ },
+ {
+  "id": "jerry-jeff-walker",
+  "years": "1966–2020",
+  "origin": "Austin, Texas",
+  "genres": [
+   "Texas country",
+   "progressive country",
+   "folk"
+  ],
+  "summary": "Jerry Jeff Walker was a New York-born folk singer who wrote \"Mr. Bojangles\" and became a central figure in the loose, good-time Austin progressive country scene of the 1970s.",
+  "know": [
+   "He wrote \"Mr. Bojangles,\" which the Nitty Gritty Dirt Band made a hit in 1970.",
+   "¡Viva Terlingua! was recorded live in the old dance hall in Luckenbach, Texas, in 1973.",
+   "His backing group was called the Lost Gonzo Band."
+  ],
+  "born": "03-16",
+  "keyAlbums": [
+   [
+    "Mr. Bojangles",
+    1968
+   ],
+   [
+    "Jerry Jeff Walker",
+    1972
+   ],
+   [
+    "¡Viva Terlingua!",
+    1973
+   ],
+   [
+    "Ridin' High",
+    1975
+   ]
+  ],
+  "songs": [
+   "Mr. Bojangles",
+   "Up Against the Wall, Redneck Mother",
+   "Desperados Waiting for a Train",
+   "London Homesick Blues",
+   "Gettin' By"
+  ],
+  "influencedBy": [
+   {
+    "id": "woody-guthrie",
+    "why": "Walker started as a wandering folk singer in the Guthrie mold.",
+    "s": 2
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Dylan's Greenwich Village folk scene was the world Walker came out of.",
+    "s": 1
+   },
+   {
+    "id": "guy-clark",
+    "why": "His close friend Clark supplied several of his best-known songs.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-nitty-gritty-dirt-band",
+    "why": "Their hit version of \"Mr. Bojangles\" came from his song.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-band",
+    "why": "Loose, warm roots music played by a road-tested band."
+   },
+   {
+    "id": "grateful-dead",
+    "why": "Easygoing live shows built on community and long jams."
+   }
+  ]
+ },
+ {
+  "id": "guy-clark",
+  "years": "1975–2016",
+  "origin": "Houston, Texas",
+  "genres": [
+   "Texas singer-songwriter",
+   "country folk",
+   "Americana"
+  ],
+  "summary": "Guy Clark was a Texas songwriter whose carefully crafted, detail-rich songs made him a mentor to generations of country and Americana writers.",
+  "know": [
+   "He built guitars by hand and worked as a luthier.",
+   "He was a mentor to younger writers including Steve Earle and Rodney Crowell.",
+   "My Favorite Picture of You won the Grammy for best folk album."
+  ],
+  "born": "11-06",
+  "keyAlbums": [
+   [
+    "Old No. 1",
+    1975
+   ],
+   [
+    "Texas Cookin'",
+    1976
+   ],
+   [
+    "Boats to Build",
+    1992
+   ],
+   [
+    "My Favorite Picture of You",
+    2013
+   ]
+  ],
+  "songs": [
+   "Desperados Waiting for a Train",
+   "L.A. Freeway",
+   "Texas 1947",
+   "Homegrown Tomatoes",
+   "The Randall Knife"
+  ],
+  "influencedBy": [
+   {
+    "id": "townes-van-zandt",
+    "why": "Van Zandt was his close friend and the songwriter he most measured himself against.",
+    "s": 3
+   },
+   {
+    "id": "lightnin-hopkins",
+    "why": "Clark saw Hopkins in Houston clubs and cited him as a formative influence.",
+    "s": 3
+   },
+   {
+    "id": "woody-guthrie",
+    "why": "His plain-spoken narrative songs come out of the folk tradition Guthrie shaped.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "steve-earle",
+    "why": "Earle has called Clark one of his two main mentors.",
+    "s": 3
+   },
+   {
+    "id": "emmylou-harris",
+    "why": "Harris sang on Old No. 1 and recorded his songs.",
+    "s": 3
+   },
+   {
+    "id": "jerry-jeff-walker",
+    "why": "Walker had some of his best-known recordings with Clark's songs.",
+    "s": 3
+   },
+   {
+    "id": "lyle-lovett",
+    "why": "Lovett has cited Clark as a model and recorded his songs.",
+    "s": 3
+   },
+   {
+    "id": "jason-isbell",
+    "why": "Isbell's precise, detail-driven songwriting follows Clark's school.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "merle-haggard",
+    "why": "Plain-spoken working-life songs told with exact detail."
+   },
+   {
+    "id": "willie-nelson",
+    "why": "A Texas songwriter's songwriter with a long, independent career."
+   }
+  ]
+ },
+ {
+  "id": "billy-joe-shaver",
+  "years": "1973–2020",
+  "origin": "Nashville, Tennessee",
+  "genres": [
+   "outlaw country",
+   "Texas country",
+   "honky-tonk"
+  ],
+  "summary": "Billy Joe Shaver was a Texas songwriter whose songs formed the backbone of Waylon Jennings's Honky Tonk Heroes and helped define outlaw country.",
+  "know": [
+   "He wrote nearly all the songs on Waylon Jennings's 1973 album Honky Tonk Heroes.",
+   "His debut album was produced by Kris Kristofferson.",
+   "In the 1990s he recorded and toured with his son Eddy, a guitarist, in the band Shaver."
+  ],
+  "born": "08-16",
+  "keyAlbums": [
+   [
+    "Old Five and Dimers Like Me",
+    1973
+   ],
+   [
+    "Tramp on Your Street",
+    1993
+   ],
+   [
+    "Long in the Tooth",
+    2014
+   ]
+  ],
+  "songs": [
+   "Old Five and Dimers Like Me",
+   "Georgia on a Fast Train",
+   "Honky Tonk Heroes",
+   "Live Forever",
+   "Black Rose"
+  ],
+  "influencedBy": [
+   {
+    "id": "hank-williams",
+    "why": "His plain honky-tonk writing and singing grow straight out of Hank Williams.",
+    "s": 2
+   },
+   {
+    "id": "kris-kristofferson",
+    "why": "Kristofferson produced his debut album and championed his songs.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "waylon-jennings",
+    "why": "Shaver wrote almost the entire Honky Tonk Heroes album for Jennings.",
+    "s": 3
+   },
+   {
+    "id": "tyler-childers",
+    "why": "Childers's plainspoken, autobiographical country writing follows Shaver's style.",
+    "s": 1
+   },
+   {
+    "id": "sturgill-simpson",
+    "why": "Simpson's return to hard outlaw country draws on the Honky Tonk Heroes sound.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "lightnin-hopkins",
+    "why": "Texas songs about hard living, told in a conversational voice."
+   },
+   {
+    "id": "tom-waits",
+    "why": "Rough-voiced storyteller with an eye for down-and-out characters."
+   }
+  ]
+ },
+ {
+  "id": "the-flying-burrito-brothers",
+  "years": "1968–1972",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "country rock",
+   "cosmic American music",
+   "Bakersfield sound"
+  ],
+  "summary": "The Flying Burrito Brothers, formed by ex-Byrds Gram Parsons and Chris Hillman, fused hard country with rock and soul and laid the foundation for country rock and alt-country.",
+  "know": [
+   "Gram Parsons and Chris Hillman started the band after leaving the Byrds.",
+   "Sneaky Pete Kleinow's distorted pedal steel was central to their sound.",
+   "They released a version of \"Wild Horses\" before the Rolling Stones' own came out."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Gilded Palace of Sin",
+    1969
+   ],
+   [
+    "Burrito Deluxe",
+    1970
+   ],
+   [
+    "The Flying Burrito Bros",
+    1971
+   ],
+   [
+    "Last of the Red Hot Burritos",
+    1972
+   ]
+  ],
+  "songs": [
+   "Sin City",
+   "Christine's Tune",
+   "Hot Burrito #1",
+   "Wild Horses",
+   "Dark End of the Street"
+  ],
+  "influencedBy": [
+   {
+    "id": "gram-parsons",
+    "why": "Parsons co-founded the band and wrote much of its material.",
+    "s": 3
+   },
+   {
+    "id": "the-byrds",
+    "why": "Founders Parsons and Hillman came straight from the Byrds' Sweetheart of the Rodeo lineup.",
+    "s": 3
+   },
+   {
+    "id": "buck-owens",
+    "why": "Bakersfield country's twang and drive shaped their sound.",
+    "s": 2
+   },
+   {
+    "id": "merle-haggard",
+    "why": "Haggard's Bakersfield records were a key model for their hard country side.",
+    "s": 2
+   },
+   {
+    "id": "the-louvin-brothers",
+    "why": "Parsons loved the Louvins' close harmonies and gospel songs.",
+    "s": 2
+   },
+   {
+    "id": "everly-brothers",
+    "why": "Their two-part harmonies drew on the Everly style.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "eagles",
+    "why": "Burrito member Bernie Leadon was a founding Eagle, carrying their country rock into the 1970s mainstream.",
+    "s": 2
+   },
+   {
+    "id": "emmylou-harris",
+    "why": "Their sound shaped the country rock Harris built with Parsons.",
+    "s": 2
+   },
+   {
+    "id": "uncle-tupelo",
+    "why": "Uncle Tupelo's alt-country blend of punk and twang traces back to the Burritos.",
+    "s": 2
+   },
+   {
+    "id": "the-jayhawks",
+    "why": "The Jayhawks' harmony-heavy country rock follows the Burritos' template.",
+    "s": 2
+   },
+   {
+    "id": "wilco",
+    "why": "Wilco's early country rock comes out of the line the Burritos started.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-band",
+    "why": "Rock musicians reworking American roots styles."
+   },
+   {
+    "id": "creedence",
+    "why": "Rock built on country and swamp roots."
+   }
+  ]
+ },
+ {
+  "id": "the-nitty-gritty-dirt-band",
+  "years": "1966–present",
+  "origin": "Long Beach, California",
+  "genres": [
+   "country rock",
+   "bluegrass",
+   "folk rock",
+   "jug band"
+  ],
+  "summary": "The Nitty Gritty Dirt Band began as a California jug band and became a bridge between generations with Will the Circle Be Unbroken, which joined them with country's founding figures.",
+  "know": [
+   "They started as a jug band in Southern California in the mid-1960s.",
+   "Will the Circle Be Unbroken (1972) featured Maybelle Carter, Roy Acuff, Earl Scruggs, Doc Watson and Merle Travis.",
+   "In 1977 they toured the Soviet Union, one of the first American bands to do so."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Uncle Charlie & His Dog Teddy",
+    1970
+   ],
+   [
+    "Will the Circle Be Unbroken",
+    1972
+   ],
+   [
+    "Plain Dirt Fashion",
+    1984
+   ],
+   [
+    "Will the Circle Be Unbroken: Volume Two",
+    1989
+   ]
+  ],
+  "songs": [
+   "Mr. Bojangles",
+   "Fishin' in the Dark",
+   "Long Hard Road (The Sharecropper's Dream)",
+   "Will the Circle Be Unbroken",
+   "An American Dream"
+  ],
+  "influencedBy": [
+   {
+    "id": "carter-family",
+    "why": "Maybelle Carter played on Will the Circle Be Unbroken, and the title song is a Carter staple.",
+    "s": 3
+   },
+   {
+    "id": "roy-acuff",
+    "why": "Acuff recorded with them on the Circle sessions.",
+    "s": 3
+   },
+   {
+    "id": "flatt-and-scruggs",
+    "why": "Earl Scruggs played on the Circle sessions and was a key early model.",
+    "s": 3
+   },
+   {
+    "id": "doc-watson",
+    "why": "Watson was a central guest on Will the Circle Be Unbroken.",
+    "s": 3
+   },
+   {
+    "id": "merle-travis",
+    "why": "Travis played and told stories on the Circle sessions.",
+    "s": 3
+   },
+   {
+    "id": "jerry-jeff-walker",
+    "why": "Their biggest early hit was Walker's \"Mr. Bojangles.\"",
+    "s": 2
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-band",
+    "why": "A rock band reconnecting with older American music."
+   },
+   {
+    "id": "creedence",
+    "why": "Roots-minded rock with folk and country underneath."
+   }
+  ]
+ },
+ {
+  "id": "linda-ronstadt",
+  "years": "1967–2011",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "country rock",
+   "soft rock",
+   "pop",
+   "ranchera"
+  ],
+  "summary": "Linda Ronstadt was one of the best-selling singers of the 1970s, a powerful interpreter who moved from Los Angeles country rock to pop, standards and Mexican music.",
+  "know": [
+   "She first recorded with the folk-rock group the Stone Poneys, who had a hit with \"Different Drum.\"",
+   "Glenn Frey and Don Henley played in her backing band before forming the Eagles.",
+   "Canciones de Mi Padre, her 1987 album of Mexican songs, became one of the best-selling non-English albums in the US."
+  ],
+  "born": "07-15",
+  "keyAlbums": [
+   [
+    "Heart Like a Wheel",
+    1974
+   ],
+   [
+    "Simple Dreams",
+    1977
+   ],
+   [
+    "Trio (with Dolly Parton and Emmylou Harris)",
+    1987
+   ],
+   [
+    "Canciones de Mi Padre",
+    1987
+   ]
+  ],
+  "songs": [
+   "You're No Good",
+   "When Will I Be Loved",
+   "Blue Bayou",
+   "Long, Long Time",
+   "Different Drum"
+  ],
+  "influencedBy": [
+   {
+    "id": "everly-brothers",
+    "why": "She had a major hit with the Everlys' \"When Will I Be Loved.\"",
+    "s": 2
+   },
+   {
+    "id": "emmylou-harris",
+    "why": "Her close friend and harmony partner, with whom she recorded Trio.",
+    "s": 3
+   },
+   {
+    "id": "roy-orbison",
+    "why": "Her hit \"Blue Bayou\" came from Orbison's songbook.",
+    "s": 2
+   },
+   {
+    "id": "hank-williams",
+    "why": "She recorded his songs and drew on classic country ballad singing.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "eagles",
+    "why": "Founding Eagles Glenn Frey and Don Henley met as members of her backing band.",
+    "s": 3
+   },
+   {
+    "id": "the-chicks",
+    "why": "The Chicks' pop-crossover country with strong harmonies follows her example.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "fleetwood-mac",
+    "why": "Polished 1970s California pop-rock built on strong female voices."
+   },
+   {
+    "id": "joni-mitchell",
+    "why": "A defining Los Angeles canyon-era singer."
+   }
+  ]
+ },
+ {
+  "id": "kenny-rogers",
+  "years": "1958–2017",
+  "origin": "Houston, Texas",
+  "genres": [
+   "country pop",
+   "soft rock",
+   "crossover"
+  ],
+  "summary": "Kenny Rogers was a Houston-born singer who moved from the rock group the First Edition to become one of the biggest country-pop crossover stars of the late 1970s and 1980s.",
+  "know": [
+   "With the First Edition he had the 1968 psychedelic hit \"Just Dropped In.\"",
+   "\"Lady\" was written and produced by Lionel Richie.",
+   "The Bee Gees wrote and produced his 1983 album Eyes That See in the Dark, which included \"Islands in the Stream\" with Dolly Parton."
+  ],
+  "born": "08-21",
+  "keyAlbums": [
+   [
+    "The Gambler",
+    1978
+   ],
+   [
+    "Kenny",
+    1979
+   ],
+   [
+    "Greatest Hits",
+    1980
+   ],
+   [
+    "Eyes That See in the Dark",
+    1983
+   ]
+  ],
+  "songs": [
+   "The Gambler",
+   "Lucille",
+   "Lady",
+   "Islands in the Stream",
+   "Coward of the County"
+  ],
+  "influencedBy": [
+   {
+    "id": "lionel-richie",
+    "why": "Richie wrote and produced \"Lady\" and the album around it.",
+    "s": 3
+   },
+   {
+    "id": "bee-gees",
+    "why": "The Bee Gees wrote and produced Eyes That See in the Dark.",
+    "s": 3
+   },
+   {
+    "id": "ray-charles",
+    "why": "Rogers often cited Ray Charles's blend of soul and country.",
+    "s": 2
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "lionel-richie",
+    "why": "Smooth, ballad-heavy crossover hits of the early 1980s."
+   },
+   {
+    "id": "dean-martin",
+    "why": "A relaxed, friendly voice that crossed every audience."
+   }
+  ]
+ },
+ {
+  "id": "alabama",
+  "years": "1969–present",
+  "origin": "Fort Payne, Alabama",
+  "genres": [
+   "country rock",
+   "country pop",
+   "Southern rock"
+  ],
+  "summary": "Alabama was a band of cousins from Fort Payne who brought a self-contained rock-band model to mainstream country and became one of its best-selling groups.",
+  "know": [
+   "The core of the band was cousins Randy Owen, Teddy Gentry and Jeff Cook.",
+   "They built their following during a long residency at The Bowery club in Myrtle Beach, South Carolina.",
+   "They won the CMA Entertainer of the Year award three years in a row, from 1982 to 1984."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "My Home's in Alabama",
+    1980
+   ],
+   [
+    "Feels So Right",
+    1981
+   ],
+   [
+    "Mountain Music",
+    1982
+   ],
+   [
+    "The Closer You Get...",
+    1983
+   ]
+  ],
+  "songs": [
+   "Mountain Music",
+   "Song of the South",
+   "Dixieland Delight",
+   "Tennessee River",
+   "Feels So Right"
+  ],
+  "influencedBy": [
+   {
+    "id": "merle-haggard",
+    "why": "Their country side draws on the Haggard-era country they grew up with.",
+    "s": 1
+   },
+   {
+    "id": "the-allman-brothers",
+    "why": "Their Southern rock band sound has roots in the Allmans' twin-guitar style.",
+    "s": 1
+   },
+   {
+    "id": "eagles",
+    "why": "Their country-rock harmonies echo the Eagles' approach.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "florida-georgia-line",
+    "why": "Later rock-leaning country groups followed the band model Alabama made commercial.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-doobie-brothers",
+    "why": "Harmony-rich, radio-friendly 1970s and 80s rock bands."
+   },
+   {
+    "id": "zz-top",
+    "why": "Southern bands with a hometown identity and long careers."
+   }
+  ]
+ },
+ {
+  "id": "hank-williams-jr",
+  "years": "1964–present",
+  "origin": "Nashville, Tennessee",
+  "genres": [
+   "Southern rock",
+   "outlaw country",
+   "country rock"
+  ],
+  "summary": "Hank Williams Jr. started by singing his father's songs and broke away in the mid-1970s to fuse country with Southern rock, becoming a major star of the 1980s.",
+  "know": [
+   "He started performing his father's songs as a child.",
+   "Hank Williams Jr. and Friends (1975), with Southern rock musicians, marked his break toward his own style.",
+   "\"There's a Tear in My Beer,\" a studio-built duet with his father's old recording, won a Grammy."
+  ],
+  "born": "05-26",
+  "keyAlbums": [
+   [
+    "Hank Williams Jr. and Friends",
+    1975
+   ],
+   [
+    "Family Tradition",
+    1979
+   ],
+   [
+    "Whiskey Bent and Hell Bound",
+    1979
+   ],
+   [
+    "Major Moves",
+    1984
+   ]
+  ],
+  "songs": [
+   "Family Tradition",
+   "A Country Boy Can Survive",
+   "All My Rowdy Friends Are Coming Over Tonight",
+   "Born to Boogie",
+   "There's a Tear in My Beer"
+  ],
+  "influencedBy": [
+   {
+    "id": "hank-williams",
+    "why": "His father's songs were his starting repertoire and lifelong reference.",
+    "s": 3
+   },
+   {
+    "id": "waylon-jennings",
+    "why": "Jennings was a friend and model for his move toward outlaw country.",
+    "s": 2
+   },
+   {
+    "id": "the-allman-brothers",
+    "why": "Southern rock bands like the Allmans shaped his mid-1970s reinvention.",
+    "s": 2
+   },
+   {
+    "id": "lynyrd-skynyrd",
+    "why": "He drew on Skynyrd's Southern rock attitude and sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "eric-church",
+    "why": "Church's rock-leaning, rowdy country owes a clear debt to Bocephus.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "lynyrd-skynyrd",
+    "why": "Loud, guitar-driven Southern pride songs."
+   },
+   {
+    "id": "bob-seger",
+    "why": "Heartland rock built for big crowds and bar singalongs."
+   }
+  ]
+ },
+ {
+  "id": "ricky-skaggs",
+  "years": "1970–present",
+  "origin": "Nashville, Tennessee",
+  "genres": [
+   "bluegrass",
+   "neotraditional country"
+  ],
+  "summary": "Ricky Skaggs is a Kentucky mandolin prodigy who came up in Ralph Stanley's band, led the 1980s return to traditional country sounds, and later returned to bluegrass.",
+  "know": [
+   "As a small child he played mandolin on Flatt & Scruggs's television show.",
+   "As a teenager he joined Ralph Stanley's Clinch Mountain Boys alongside Keith Whitley.",
+   "He played in Emmylou Harris's Hot Band before going solo."
+  ],
+  "born": "07-18",
+  "keyAlbums": [
+   [
+    "Waitin' for the Sun to Shine",
+    1981
+   ],
+   [
+    "Highways & Heartaches",
+    1982
+   ],
+   [
+    "Bluegrass Rules!",
+    1997
+   ],
+   [
+    "Ancient Tones",
+    1999
+   ]
+  ],
+  "songs": [
+   "Crying My Heart Out Over You",
+   "Highway 40 Blues",
+   "Uncle Pen",
+   "Country Boy",
+   "Honey (Open That Door)"
+  ],
+  "influencedBy": [
+   {
+    "id": "ralph-stanley",
+    "why": "He joined Stanley's band as a teen and learned the mountain style there.",
+    "s": 3
+   },
+   {
+    "id": "bill-monroe",
+    "why": "Monroe encouraged him as a child, and Skaggs later had a hit with Monroe's \"Uncle Pen.\"",
+    "s": 3
+   },
+   {
+    "id": "flatt-and-scruggs",
+    "why": "He played on their TV show as a child and revived their songs on record.",
+    "s": 3
+   },
+   {
+    "id": "emmylou-harris",
+    "why": "He played in her Hot Band, where he honed his blend of bluegrass and country.",
+    "s": 3
+   },
+   {
+    "id": "the-stanley-brothers",
+    "why": "Stanley Brothers records shaped his singing and repertoire.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "alison-krauss",
+    "why": "His success bringing bluegrass sounds back to the mainstream opened room for players like Krauss.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "django-reinhardt",
+    "why": "A virtuoso who kept a traditional style alive and fresh."
+   },
+   {
+    "id": "grateful-dead",
+    "why": "Roots-based picking and a deep love for old American songs."
+   }
+  ]
+ },
+ {
+  "id": "randy-travis",
+  "years": "1985–2013",
+  "origin": "Nashville, Tennessee",
+  "genres": [
+   "neotraditional country",
+   "honky-tonk",
+   "country gospel"
+  ],
+  "summary": "Randy Travis was a deep-voiced North Carolina singer whose 1986 debut led the neotraditional movement that brought classic honky-tonk sounds back to country radio.",
+  "know": [
+   "Before his breakthrough he worked as a cook and singer at the Nashville Palace club.",
+   "His debut Storms of Life sold over a million copies within about a year.",
+   "Always & Forever spent 43 weeks at number one on the country albums chart."
+  ],
+  "born": "05-04",
+  "keyAlbums": [
+   [
+    "Storms of Life",
+    1986
+   ],
+   [
+    "Always & Forever",
+    1987
+   ],
+   [
+    "Old 8x10",
+    1988
+   ],
+   [
+    "No Holdin' Back",
+    1989
+   ]
+  ],
+  "songs": [
+   "Forever and Ever, Amen",
+   "On the Other Hand",
+   "Diggin' Up Bones",
+   "1982",
+   "Deeper Than the Holler"
+  ],
+  "influencedBy": [
+   {
+    "id": "george-jones",
+    "why": "Jones's phrasing is the clearest model for Travis's baritone.",
+    "s": 2
+   },
+   {
+    "id": "merle-haggard",
+    "why": "Haggard's traditional honky-tonk was a core influence.",
+    "s": 2
+   },
+   {
+    "id": "lefty-frizzell",
+    "why": "Travis's rolling, stretched-out vowels trace back to Frizzell.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "alan-jackson",
+    "why": "Travis's success opened the door for the next wave of traditional singers like Jackson.",
+    "s": 1
+   },
+   {
+    "id": "garth-brooks",
+    "why": "Brooks came up in the neotraditional boom Travis started.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bill-withers",
+    "why": "A warm, plain-spoken voice on simple, sturdy songs."
+   },
+   {
+    "id": "al-green",
+    "why": "A gentle, instantly recognizable voice on love songs."
+   }
+  ]
+ },
+ {
+  "id": "the-judds",
+  "years": "1983–2022",
+  "origin": "Nashville, Tennessee",
+  "genres": [
+   "country harmony",
+   "neotraditional country",
+   "country folk"
+  ],
+  "summary": "The Judds were the mother-daughter duo of Naomi and Wynonna Judd, whose acoustic-based harmonies made them the most successful country duo of the 1980s.",
+  "know": [
+   "They were the mother-daughter team of Naomi and Wynonna Judd.",
+   "Their records were produced by Brent Maher.",
+   "Wynonna began a solo career in 1992 after the duo's first farewell tour."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Why Not Me",
+    1984
+   ],
+   [
+    "Rockin' with the Rhythm",
+    1985
+   ],
+   [
+    "Heartland",
+    1987
+   ],
+   [
+    "River of Time",
+    1989
+   ]
+  ],
+  "songs": [
+   "Mama He's Crazy",
+   "Why Not Me",
+   "Grandpa (Tell Me 'Bout the Good Old Days)",
+   "Love Is Alive",
+   "Love Can Build a Bridge"
+  ],
+  "influencedBy": [
+   {
+    "id": "carter-family",
+    "why": "Their family harmony and acoustic arrangements follow the Carter Family tradition.",
+    "s": 1
+   },
+   {
+    "id": "everly-brothers",
+    "why": "Their close two-part harmony singing echoes the Everlys.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-staple-singers",
+    "why": "Family harmony groups built around a strong lead voice."
+   },
+   {
+    "id": "simon-garfunkel",
+    "why": "Two voices blending over spare acoustic guitar."
+   }
+  ]
+ },
+ {
+  "id": "reba-mcentire",
+  "years": "1976–present",
+  "origin": "McAlester, Oklahoma",
+  "genres": [
+   "country pop",
+   "neotraditional country",
+   "contemporary country"
+  ],
+  "summary": "Reba McEntire is an Oklahoma singer whose powerful voice and story songs made her the leading woman in country music of the 1980s and 1990s and a TV star.",
+  "know": [
+   "She was discovered singing the national anthem at the National Finals Rodeo in Oklahoma City in 1974.",
+   "She starred in the sitcom Reba from 2001 to 2007.",
+   "She had one of her signature hits covering Bobbie Gentry's \"Fancy.\""
+  ],
+  "born": "03-28",
+  "keyAlbums": [
+   [
+    "My Kind of Country",
+    1984
+   ],
+   [
+    "Whoever's in New England",
+    1986
+   ],
+   [
+    "Rumor Has It",
+    1990
+   ],
+   [
+    "For My Broken Heart",
+    1991
+   ]
+  ],
+  "songs": [
+   "Fancy",
+   "Whoever's in New England",
+   "Is There Life Out There",
+   "Does He Love You",
+   "I'm a Survivor"
+  ],
+  "influencedBy": [
+   {
+    "id": "patsy-cline",
+    "why": "McEntire has named Cline as a major influence on her singing.",
+    "s": 3
+   },
+   {
+    "id": "bobbie-gentry",
+    "why": "Her version of Gentry's \"Fancy\" became a signature song.",
+    "s": 2
+   },
+   {
+    "id": "dolly-parton",
+    "why": "Parton's career as a singer, storyteller and entertainer was a model for hers.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "carrie-underwood",
+    "why": "Underwood has named Reba as a major influence and recorded with her.",
+    "s": 3
+   },
+   {
+    "id": "kelly-clarkson",
+    "why": "Clarkson has cited Reba as a hero and recorded duets with her.",
+    "s": 3
+   },
+   {
+    "id": "miranda-lambert",
+    "why": "Lambert grew up on Reba's Texas-and-Oklahoma story songs.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "whitney-houston",
+    "why": "Huge, controlled voice that dominated 1980s and 90s radio."
+   },
+   {
+    "id": "madonna",
+    "why": "An artist who built a long career on reinvention and business control."
+   }
+  ]
+ },
+ {
+  "id": "steve-earle",
+  "years": "1986–present",
+  "origin": "Nashville, Tennessee",
+  "genres": [
+   "alt-country",
+   "heartland rock",
+   "Americana",
+   "bluegrass"
+  ],
+  "summary": "Steve Earle is a Texas-raised songwriter whose 1986 debut Guitar Town mixed country with rock and who became a key figure in alt-country and Americana.",
+  "know": [
+   "He was mentored by Townes Van Zandt and Guy Clark.",
+   "Guitar Town reached number one on the country albums chart in 1986.",
+   "He co-produced Lucinda Williams's Car Wheels on a Gravel Road."
+  ],
+  "born": "01-17",
+  "keyAlbums": [
+   [
+    "Guitar Town",
+    1986
+   ],
+   [
+    "Copperhead Road",
+    1988
+   ],
+   [
+    "Train a Comin'",
+    1995
+   ],
+   [
+    "El Corazón",
+    1997
+   ]
+  ],
+  "songs": [
+   "Guitar Town",
+   "Copperhead Road",
+   "Galway Girl",
+   "Someday",
+   "Goodbye"
+  ],
+  "influencedBy": [
+   {
+    "id": "townes-van-zandt",
+    "why": "Van Zandt was his mentor and the subject of a later tribute album.",
+    "s": 3
+   },
+   {
+    "id": "guy-clark",
+    "why": "Clark mentored him in Nashville and shaped his craft.",
+    "s": 3
+   },
+   {
+    "id": "bruce-springsteen",
+    "why": "Guitar Town's working-class rock and country blend was widely compared to Springsteen.",
+    "s": 2
+   },
+   {
+    "id": "hank-williams",
+    "why": "Hank's honky-tonk is the country foundation under his rock.",
+    "s": 1
+   },
+   {
+    "id": "johnny-cash",
+    "why": "Cash's outlaw stance and storytelling run through his records.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "lucinda-williams",
+    "why": "He co-produced her breakthrough album Car Wheels on a Gravel Road.",
+    "s": 3
+   },
+   {
+    "id": "uncle-tupelo",
+    "why": "Earle's country-rock fusion was a forerunner for Uncle Tupelo's alt-country.",
+    "s": 1
+   },
+   {
+    "id": "jason-isbell",
+    "why": "Isbell's rock-meets-country songwriting follows Earle's model.",
+    "s": 1
+   },
+   {
+    "id": "drive-by-truckers",
+    "why": "Their Southern rock storytelling draws on Earle's mix of twang and grit.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "tom-petty",
+    "why": "Plain-spoken American rock songs with roots underneath."
+   },
+   {
+    "id": "john-mellencamp",
+    "why": "Heartland rock about small towns and working people."
+   }
+  ]
+ },
+ {
+  "id": "lyle-lovett",
+  "years": "1986–present",
+  "origin": "Houston, Texas",
+  "genres": [
+   "Texas singer-songwriter",
+   "Western swing",
+   "Americana",
+   "jazz"
+  ],
+  "summary": "Lyle Lovett is a Texas songwriter known for dry, witty songs and his Large Band, which mixes country, swing, gospel and big-band jazz.",
+  "know": [
+   "He studied journalism at Texas A&M before his music career.",
+   "His Large Band blends big-band horns, gospel singers and country.",
+   "He has acted in several Robert Altman films."
+  ],
+  "born": "11-01",
+  "keyAlbums": [
+   [
+    "Lyle Lovett",
+    1986
+   ],
+   [
+    "Pontiac",
+    1987
+   ],
+   [
+    "Lyle Lovett and His Large Band",
+    1989
+   ],
+   [
+    "Joshua Judges Ruth",
+    1992
+   ]
+  ],
+  "songs": [
+   "If I Had a Boat",
+   "She's No Lady",
+   "That's Right (You're Not from Texas)",
+   "Cowboy Man",
+   "North Dakota"
+  ],
+  "influencedBy": [
+   {
+    "id": "guy-clark",
+    "why": "Lovett has named Clark as a key model and recorded his songs.",
+    "s": 3
+   },
+   {
+    "id": "townes-van-zandt",
+    "why": "Van Zandt was a central figure in the Texas songwriter scene Lovett came from.",
+    "s": 2
+   },
+   {
+    "id": "bob-wills",
+    "why": "His swing-based arrangements echo Wills's Texas big-band country.",
+    "s": 1
+   },
+   {
+    "id": "randy-newman",
+    "why": "His ironic, deadpan lyrics are close kin to Newman's.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "tom-waits",
+    "why": "A wry, theatrical songwriter mixing jazz with roots music."
+   },
+   {
+    "id": "steely-dan",
+    "why": "Dry wit and jazz sophistication in pop songs."
+   }
+  ]
+ },
+ {
+  "id": "k-d-lang",
+  "years": "1983–present",
+  "origin": "Edmonton, Canada",
+  "genres": [
+   "cowpunk",
+   "torch song",
+   "adult contemporary",
+   "country"
+  ],
+  "summary": "k.d. lang is a Canadian singer who began as a high-energy country revivalist and became a celebrated torch singer, known for one of the most admired voices in pop.",
+  "know": [
+   "Her early band, the Reclines, was named in tribute to Patsy Cline.",
+   "Her 1988 album Shadowland was produced by Owen Bradley, Cline's producer.",
+   "Her duet of \"Crying\" with Roy Orbison won a Grammy."
+  ],
+  "born": "11-02",
+  "keyAlbums": [
+   [
+    "Angel with a Lariat",
+    1987
+   ],
+   [
+    "Shadowland",
+    1988
+   ],
+   [
+    "Absolute Torch and Twang",
+    1989
+   ],
+   [
+    "Ingénue",
+    1992
+   ]
+  ],
+  "songs": [
+   "Constant Craving",
+   "Crying",
+   "Big Boned Gal",
+   "Miss Chatelaine",
+   "Hallelujah"
+  ],
+  "influencedBy": [
+   {
+    "id": "patsy-cline",
+    "why": "lang openly modeled her early career on Cline and named her band after her.",
+    "s": 3
+   },
+   {
+    "id": "owen-bradley",
+    "why": "Bradley produced Shadowland and gave her the classic Nashville sound.",
+    "s": 3
+   },
+   {
+    "id": "roy-orbison",
+    "why": "She recorded \"Crying\" with Orbison and shares his dramatic ballad style.",
+    "s": 3
+   },
+   {
+    "id": "leonard-cohen",
+    "why": "Her performances of Cohen's songs, especially \"Hallelujah,\" are career highlights.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "tony-bennett",
+    "why": "A master interpreter of torch songs and standards."
+   },
+   {
+    "id": "nina-simone",
+    "why": "A singer who crossed genres on the strength of a singular voice."
+   }
+  ]
+ },
+ {
+  "id": "nanci-griffith",
+  "years": "1978–2013",
+  "origin": "Austin, Texas",
+  "genres": [
+   "folkabilly",
+   "country folk",
+   "singer-songwriter"
+  ],
+  "summary": "Nanci Griffith was a Texas singer-songwriter who called her blend of folk and country folkabilly and championed other songwriters through her recordings.",
+  "know": [
+   "She recorded \"From a Distance\" in 1987, before Bette Midler's hit version.",
+   "Other Voices, Other Rooms, her album of songs by other folk writers, won a Grammy.",
+   "Several of her songs became hits for other country singers, including Kathy Mattea."
+  ],
+  "born": "07-06",
+  "keyAlbums": [
+   [
+    "Once in a Very Blue Moon",
+    1984
+   ],
+   [
+    "The Last of the True Believers",
+    1986
+   ],
+   [
+    "Lone Star State of Mind",
+    1987
+   ],
+   [
+    "Other Voices, Other Rooms",
+    1993
+   ]
+  ],
+  "songs": [
+   "Love at the Five and Dime",
+   "From a Distance",
+   "Once in a Very Blue Moon",
+   "Lone Star State of Mind",
+   "Outbound Plane"
+  ],
+  "influencedBy": [
+   {
+    "id": "townes-van-zandt",
+    "why": "She covered Van Zandt and came up in the Texas songwriter circle he shaped.",
+    "s": 2
+   },
+   {
+    "id": "woody-guthrie",
+    "why": "She recorded Guthrie's songs and followed his plain storytelling.",
+    "s": 2
+   },
+   {
+    "id": "bob-dylan",
+    "why": "She covered Dylan's songs on Other Voices, Other Rooms.",
+    "s": 2
+   },
+   {
+    "id": "john-prine",
+    "why": "She recorded with Prine and covered his songs.",
+    "s": 3
+   },
+   {
+    "id": "carter-family",
+    "why": "Her country side draws on the Carter Family's simple acoustic style.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "emmylou-harris",
+    "why": "A pure-voiced singer who championed great songwriters."
+   },
+   {
+    "id": "dolly-parton",
+    "why": "Sweet-voiced storytelling about small-town life."
+   }
+  ]
+ },
+ {
+  "id": "lucinda-williams",
+  "years": "1979–present",
+  "origin": "Austin, Texas",
+  "genres": [
+   "alt-country",
+   "Americana",
+   "roots rock",
+   "blues"
+  ],
+  "summary": "Lucinda Williams is a Louisiana-born songwriter whose raw, blues-tinged songs about the South made her a central figure in Americana.",
+  "know": [
+   "Her father was the poet Miller Williams.",
+   "Her first albums, on Folkways Records, were mostly country and blues covers.",
+   "Car Wheels on a Gravel Road won the Grammy for best contemporary folk album."
+  ],
+  "born": "01-26",
+  "keyAlbums": [
+   [
+    "Lucinda Williams",
+    1988
+   ],
+   [
+    "Sweet Old World",
+    1992
+   ],
+   [
+    "Car Wheels on a Gravel Road",
+    1998
+   ],
+   [
+    "Essence",
+    2001
+   ]
+  ],
+  "songs": [
+   "Passionate Kisses",
+   "Car Wheels on a Gravel Road",
+   "Right in Time",
+   "Drunken Angel",
+   "Changed the Locks"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-dylan",
+    "why": "Williams has named Dylan as the songwriter who most shaped her.",
+    "s": 3
+   },
+   {
+    "id": "robert-johnson",
+    "why": "She covered Johnson on her first album and draws heavily on Delta blues.",
+    "s": 2
+   },
+   {
+    "id": "hank-williams",
+    "why": "Hank's lonesome country is a constant reference in her songs.",
+    "s": 2
+   },
+   {
+    "id": "steve-earle",
+    "why": "Earle co-produced Car Wheels on a Gravel Road.",
+    "s": 3
+   },
+   {
+    "id": "loretta-lynn",
+    "why": "Lynn's frank, autobiographical country songs are a model for her writing.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "brandi-carlile",
+    "why": "Carlile's roots rock and emotional directness follow Williams's lead.",
+    "s": 1
+   },
+   {
+    "id": "margo-price",
+    "why": "Price's raw, honest country songwriting draws on the Americana path Williams opened.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "tom-petty",
+    "why": "Roots rock with plain, emotional songwriting."
+   },
+   {
+    "id": "patti-smith",
+    "why": "A poet's eye and a raw, unpolished voice."
+   }
+  ]
+ },
+ {
+  "id": "alan-jackson",
+  "years": "1989–present",
+  "origin": "Nashville, Tennessee",
+  "genres": [
+   "neotraditional country",
+   "honky-tonk",
+   "country gospel"
+  ],
+  "summary": "Alan Jackson is a Georgia-born singer-songwriter who held to traditional honky-tonk sounds through the 1990s boom and became one of country's best-selling artists.",
+  "know": [
+   "He worked in the mailroom at The Nashville Network early in his career.",
+   "Glen Campbell's publishing company helped get him started.",
+   "\"Don't Rock the Jukebox\" name-checks George Jones."
+  ],
+  "born": "10-17",
+  "keyAlbums": [
+   [
+    "Here in the Real World",
+    1990
+   ],
+   [
+    "Don't Rock the Jukebox",
+    1991
+   ],
+   [
+    "A Lot About Livin' (And a Little 'bout Love)",
+    1992
+   ],
+   [
+    "Drive",
+    2002
+   ]
+  ],
+  "songs": [
+   "Chattahoochee",
+   "Don't Rock the Jukebox",
+   "Remember When",
+   "Where Were You (When the World Stopped Turning)",
+   "Here in the Real World"
+  ],
+  "influencedBy": [
+   {
+    "id": "george-jones",
+    "why": "Jackson has called Jones his favorite singer and saluted him in his songs.",
+    "s": 3
+   },
+   {
+    "id": "glen-campbell",
+    "why": "Campbell helped him land his first publishing deal.",
+    "s": 3
+   },
+   {
+    "id": "hank-williams",
+    "why": "Classic honky-tonk from Hank onward is the core of his sound.",
+    "s": 2
+   },
+   {
+    "id": "merle-haggard",
+    "why": "Haggard's traditional style and songwriting were a major model.",
+    "s": 2
+   },
+   {
+    "id": "george-strait",
+    "why": "Strait's success with traditional country paved the way for him.",
+    "s": 1
+   },
+   {
+    "id": "randy-travis",
+    "why": "Travis's neotraditional breakthrough opened the door for his sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "john-mellencamp",
+    "why": "Small-town American songs with an everyman voice."
+   },
+   {
+    "id": "bill-withers",
+    "why": "Simple, sturdy songs sung with warmth and no showing off."
+   }
+  ]
+ },
+ {
+  "id": "brooks-and-dunn",
+  "years": "1990–present",
+  "origin": "Nashville, Tennessee",
+  "genres": [
+   "honky-tonk",
+   "country rock",
+   "contemporary country"
+  ],
+  "summary": "Brooks & Dunn, Kix Brooks and Ronnie Dunn, were the most successful duo in country history, mixing honky-tonk with rock and helping drive the 1990s line-dance boom.",
+  "know": [
+   "Arista Nashville executive Tim DuBois paired the two solo artists in 1990.",
+   "\"Boot Scootin' Boogie\" helped spark the 1990s line-dance craze.",
+   "On Reboot (2019), younger stars sang new versions of their hits with them."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Brand New Man",
+    1991
+   ],
+   [
+    "Hard Workin' Man",
+    1993
+   ],
+   [
+    "Borderline",
+    1996
+   ],
+   [
+    "Steers & Stripes",
+    2001
+   ]
+  ],
+  "songs": [
+   "Boot Scootin' Boogie",
+   "Brand New Man",
+   "Neon Moon",
+   "My Maria",
+   "Only in America"
+  ],
+  "influencedBy": [
+   {
+    "id": "merle-haggard",
+    "why": "Their honky-tonk side draws on Haggard's classic style.",
+    "s": 1
+   },
+   {
+    "id": "george-strait",
+    "why": "Strait's Texas dance-hall country is a clear model.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "luke-combs",
+    "why": "Combs recorded a new version of \"Brand New Man\" with them on Reboot.",
+    "s": 2
+   },
+   {
+    "id": "kane-brown",
+    "why": "Brown sang on their Reboot album.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "zz-top",
+    "why": "Boogie-driven, good-time Texas rock."
+   },
+   {
+    "id": "bon-jovi",
+    "why": "Big, arena-ready singalong anthems."
+   }
+  ]
+ },
+ {
+  "id": "tim-mcgraw",
+  "years": "1992–present",
+  "origin": "Nashville, Tennessee",
+  "genres": [
+   "country pop",
+   "contemporary country",
+   "country rock"
+  ],
+  "summary": "Tim McGraw is a Louisiana-born singer who became one of the defining mainstream country stars from the mid-1990s on, and also built an acting career.",
+  "know": [
+   "He is the son of baseball pitcher Tug McGraw.",
+   "\"Indian Outlaw\" in 1994 was his breakthrough hit.",
+   "Taylor Swift named her 2006 debut single \"Tim McGraw.\""
+  ],
+  "born": "05-01",
+  "keyAlbums": [
+   [
+    "Not a Moment Too Soon",
+    1994
+   ],
+   [
+    "Everywhere",
+    1997
+   ],
+   [
+    "A Place in the Sun",
+    1999
+   ],
+   [
+    "Live Like You Were Dying",
+    2004
+   ]
+  ],
+  "songs": [
+   "Live Like You Were Dying",
+   "Don't Take the Girl",
+   "It's Your Love",
+   "Something Like That",
+   "Humble and Kind"
+  ],
+  "influencedBy": [
+   {
+    "id": "merle-haggard",
+    "why": "McGraw has named Haggard among the classic country singers he grew up on.",
+    "s": 1
+   },
+   {
+    "id": "george-strait",
+    "why": "Strait's run as a mainstream traditionalist set the standard he followed.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "taylor-swift",
+    "why": "Swift named her debut single after him and opened shows on his tour.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bon-jovi",
+    "why": "Stadium-sized, emotional mainstream anthems."
+   },
+   {
+    "id": "john-mellencamp",
+    "why": "Heartland songs about growing up in small-town America."
+   }
+  ]
+ },
+ {
+  "id": "toby-keith",
+  "years": "1993–2024",
+  "origin": "Oklahoma City, Oklahoma",
+  "genres": [
+   "country rock",
+   "honky-tonk",
+   "contemporary country"
+  ],
+  "summary": "Toby Keith was an Oklahoma singer-songwriter whose brash, humorous and patriotic hits made him one of the biggest country stars of the 1990s and 2000s.",
+  "know": [
+   "\"Should've Been a Cowboy\" was one of the most played country songs of the 1990s.",
+   "He founded his own label, Show Dog Nashville.",
+   "He recorded the hit duet \"Beer for My Horses\" with Willie Nelson."
+  ],
+  "born": "07-08",
+  "keyAlbums": [
+   [
+    "Toby Keith",
+    1993
+   ],
+   [
+    "How Do You Like Me Now?!",
+    1999
+   ],
+   [
+    "Unleashed",
+    2002
+   ],
+   [
+    "Shock'n Y'all",
+    2003
+   ]
+  ],
+  "songs": [
+   "Should've Been a Cowboy",
+   "How Do You Like Me Now?!",
+   "Beer for My Horses",
+   "As Good as I Once Was",
+   "Red Solo Cup"
+  ],
+  "influencedBy": [
+   {
+    "id": "merle-haggard",
+    "why": "Keith often named Haggard as his songwriting hero and recorded with him.",
+    "s": 3
+   },
+   {
+    "id": "willie-nelson",
+    "why": "Nelson was a friend and duet partner on one of his biggest hits.",
+    "s": 3
+   },
+   {
+    "id": "bob-wills",
+    "why": "Western swing and Oklahoma dance-hall music were part of the music he grew up on.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "bob-seger",
+    "why": "Big-voiced heartland rock with blue-collar themes."
+   },
+   {
+    "id": "zz-top",
+    "why": "Rowdy, humorous good-time roots rock."
+   }
+  ]
+ }
+]

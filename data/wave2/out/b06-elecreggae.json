@@ -1,0 +1,3160 @@
+[
+ {
+  "id": "delia-derbyshire",
+  "years": "1962–1973",
+  "origin": "London, England",
+  "genres": [
+   "musique concrète",
+   "tape music",
+   "electronic"
+  ],
+  "summary": "A composer at the BBC Radiophonic Workshop who built sounds from tape loops and oscillators. Her 1963 realisation of the Doctor Who theme made electronic music part of everyday British life.",
+  "know": [
+   "She turned Ron Grainer's written score for the Doctor Who theme into sound by cutting and splicing tape by hand.",
+   "She studied mathematics and music at Cambridge before joining the BBC.",
+   "With David Vorhaus and Brian Hodgson she made the 1969 album An Electric Storm as White Noise."
+  ],
+  "born": "05-05",
+  "keyAlbums": [
+   [
+    "An Electric Storm (White Noise)",
+    1969
+   ],
+   [
+    "BBC Radiophonic Music",
+    1971
+   ]
+  ],
+  "songs": [
+   "Doctor Who Theme",
+   "Love Without Sound",
+   "Blue Veils and Golden Sands",
+   "The Delian Mode"
+  ],
+  "influencedBy": [],
+  "influenced": [
+   {
+    "id": "orbital",
+    "why": "Orbital built their live shows around a version of her Doctor Who theme and have credited the Radiophonic Workshop.",
+    "s": 2
+   },
+   {
+    "id": "aphex-twin",
+    "why": "Richard James has praised her tape work, and his home-built textures follow her hands-on approach.",
+    "s": 1
+   },
+   {
+    "id": "boards-of-canada",
+    "why": "Their warped, analog sound draws on the eerie BBC Radiophonic textures she helped define.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "joe-meek",
+    "why": "Another British tape pioneer who built otherworldly sounds by hand in the early 1960s."
+   },
+   {
+    "id": "les-paul",
+    "why": "A studio inventor who treated tape itself as an instrument."
+   }
+  ]
+ },
+ {
+  "id": "wendy-carlos",
+  "years": "1968–2000",
+  "origin": "New York, New York",
+  "genres": [
+   "Moog synthesizer",
+   "electronic classical",
+   "film score"
+  ],
+  "summary": "A composer and engineer who showed what the Moog synthesizer could do with Switched-On Bach. Her later film scores for Stanley Kubrick and Tron set a template for electronic soundtracks.",
+  "know": [
+   "Switched-On Bach was one of the first classical albums to sell over a million copies and won three Grammys.",
+   "She worked closely with Robert Moog, suggesting changes to his early instruments.",
+   "She scored A Clockwork Orange, The Shining and Tron."
+  ],
+  "born": "11-14",
+  "keyAlbums": [
+   [
+    "Switched-On Bach",
+    1968
+   ],
+   [
+    "Sonic Seasonings",
+    1972
+   ],
+   [
+    "A Clockwork Orange",
+    1972
+   ],
+   [
+    "Tron",
+    1982
+   ]
+  ],
+  "songs": [
+   "Brandenburg Concerto No. 3",
+   "Timesteps",
+   "Title Music from A Clockwork Orange",
+   "The Shining (Main Title)"
+  ],
+  "influencedBy": [],
+  "influenced": [
+   {
+    "id": "daft-punk",
+    "why": "Daft Punk named her Tron score as a touchstone when they wrote the music for Tron: Legacy.",
+    "s": 2
+   },
+   {
+    "id": "brian-eno",
+    "why": "Sonic Seasonings is often cited as an early form of the ambient album Eno later named.",
+    "s": 1
+   },
+   {
+    "id": "emerson-lake-and-palmer",
+    "why": "Her Moog records helped make the synthesizer a lead instrument that Keith Emerson took into rock.",
+    "s": 1
+   },
+   {
+    "id": "jean-michel-jarre",
+    "why": "Her synthesizer albums opened a mass market for the instrumental electronic records Jarre made.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "mike-oldfield",
+    "why": "A one-person studio project that brought classical scale to new technology."
+   },
+   {
+    "id": "les-paul",
+    "why": "An inventor-musician who changed how records were made."
+   }
+  ]
+ },
+ {
+  "id": "silver-apples",
+  "years": "1967–1969",
+  "origin": "New York, New York",
+  "genres": [
+   "proto-electronic",
+   "psychedelic rock",
+   "experimental"
+  ],
+  "summary": "A New York duo of oscillators and drums whose two late-1960s albums sound years ahead of their time. They are a key link between psychedelia and later electronic rock.",
+  "know": [
+   "Simeon Coxe played a homemade rig of oscillators and switches that the band called The Simeon.",
+   "Danny Taylor played hypnotic, repetitive drum patterns under the electronic drones.",
+   "They made two albums for Kapp Records before splitting, then Simeon revived the name in the 1990s."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Silver Apples",
+    1968
+   ],
+   [
+    "Contact",
+    1969
+   ]
+  ],
+  "songs": [
+   "Oscillations",
+   "You and I",
+   "Lovefingers",
+   "A Pox on You"
+  ],
+  "influencedBy": [],
+  "influenced": [
+   {
+    "id": "suicide",
+    "why": "Suicide's machine pulse and minimal rock drone follow the path Silver Apples opened in New York.",
+    "s": 2
+   },
+   {
+    "id": "spacemen-3",
+    "why": "Spacemen 3's drone rock shares the oscillator hum and repetition of Silver Apples.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "neu",
+    "why": "Krautrock built on the same steady, hypnotic pulse."
+   },
+   {
+    "id": "can",
+    "why": "Another band that fused rock drumming with repetition and experiment."
+   }
+  ]
+ },
+ {
+  "id": "tangerine-dream",
+  "years": "1967–present",
+  "origin": "Berlin, Germany",
+  "genres": [
+   "Berlin School",
+   "kosmische",
+   "ambient",
+   "film score"
+  ],
+  "summary": "Edgar Froese's Berlin group defined the sequencer-driven Berlin School of electronic music in the 1970s. They later became prolific film composers.",
+  "know": [
+   "Klaus Schulze played drums on their 1970 debut Electronic Meditation.",
+   "Phaedra, built on Moog sequencer patterns, reached the UK top 20 in 1974.",
+   "They scored films including Sorcerer, Thief and Risky Business."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Zeit",
+    1972
+   ],
+   [
+    "Phaedra",
+    1974
+   ],
+   [
+    "Rubycon",
+    1975
+   ],
+   [
+    "Stratosfear",
+    1976
+   ]
+  ],
+  "songs": [
+   "Phaedra",
+   "Rubycon, Part One",
+   "Stratosfear",
+   "Love on a Real Train"
+  ],
+  "influencedBy": [
+   {
+    "id": "pink-floyd",
+    "why": "Their early long space-rock pieces drew on Pink Floyd's psychedelic experiments.",
+    "s": 2
+   },
+   {
+    "id": "klaus-schulze",
+    "why": "Schulze was a founding bandmate on the first album.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "klaus-schulze",
+    "why": "Schulze's solo Berlin School work grew out of his time in the band.",
+    "s": 3
+   },
+   {
+    "id": "jean-michel-jarre",
+    "why": "Jarre's sequenced instrumental albums follow the space-music template they set.",
+    "s": 1
+   },
+   {
+    "id": "the-orb",
+    "why": "The Orb's long ambient journeys draw on Tangerine Dream's 1970s records.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "popol-vuh",
+    "why": "German cosmic music with film score ties."
+   },
+   {
+    "id": "mike-oldfield",
+    "why": "Long instrumental suites that sold to a rock audience."
+   }
+  ]
+ },
+ {
+  "id": "jean-michel-jarre",
+  "years": "1976–present",
+  "origin": "Paris, France",
+  "genres": [
+   "electronic",
+   "space music",
+   "synth-pop"
+  ],
+  "summary": "A French composer whose 1976 album Oxygène took instrumental synthesizer music to the top of the charts. He is also known for huge outdoor concerts with lights and lasers.",
+  "know": [
+   "He studied at Pierre Schaeffer's Groupe de Recherches Musicales in Paris.",
+   "He is the son of film composer Maurice Jarre.",
+   "His 2015 album Electronica 1 paired him with artists such as Air, Moby and Massive Attack's 3D."
+  ],
+  "born": "08-24",
+  "keyAlbums": [
+   [
+    "Oxygène",
+    1976
+   ],
+   [
+    "Équinoxe",
+    1978
+   ],
+   [
+    "Les Chants Magnétiques",
+    1981
+   ],
+   [
+    "Zoolook",
+    1984
+   ]
+  ],
+  "songs": [
+   "Oxygène (Part IV)",
+   "Équinoxe (Part 5)",
+   "Magnetic Fields 2",
+   "Fourth Rendez-Vous"
+  ],
+  "influencedBy": [
+   {
+    "id": "tangerine-dream",
+    "why": "His sequenced, spacey instrumentals follow the Berlin School approach.",
+    "s": 1
+   },
+   {
+    "id": "wendy-carlos",
+    "why": "Her synthesizer albums proved there was a wide audience for electronic instrumentals.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "air",
+    "why": "Air grew up on his records and later recorded with him on Electronica 1.",
+    "s": 2
+   },
+   {
+    "id": "moby",
+    "why": "Moby has named Jarre as an early inspiration and recorded with him in 2015.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "mike-oldfield",
+    "why": "Instrumental albums that became mainstream hits."
+   },
+   {
+    "id": "pink-floyd",
+    "why": "Big concept records presented with large light shows."
+   }
+  ]
+ },
+ {
+  "id": "klaus-schulze",
+  "years": "1969–2022",
+  "origin": "Berlin, Germany",
+  "genres": [
+   "Berlin School",
+   "kosmische",
+   "ambient"
+  ],
+  "summary": "A Berlin drummer turned synthesizer composer who made long, slowly unfolding electronic pieces. His 1970s albums are core texts of the Berlin School.",
+  "know": [
+   "He drummed on Tangerine Dream's first album and co-founded Ash Ra Tempel.",
+   "His albums often hold just one or two tracks that each fill a full side.",
+   "He also recorded under the name Richard Wahnfried."
+  ],
+  "born": "08-04",
+  "keyAlbums": [
+   [
+    "Irrlicht",
+    1972
+   ],
+   [
+    "Timewind",
+    1975
+   ],
+   [
+    "Moondawn",
+    1976
+   ],
+   [
+    "Mirage",
+    1977
+   ]
+  ],
+  "songs": [
+   "Bayreuth Return",
+   "Floating",
+   "Crystal Lake",
+   "Wahnfried 1883"
+  ],
+  "influencedBy": [
+   {
+    "id": "tangerine-dream",
+    "why": "He was a member of the band before going solo.",
+    "s": 3
+   },
+   {
+    "id": "pink-floyd",
+    "why": "His early long-form pieces grew out of the same space-rock moment as Pink Floyd.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "popol-vuh",
+    "why": "Slow, meditative German music made with early synthesizers."
+   },
+   {
+    "id": "harmonia",
+    "why": "Fellow German electronic pioneers of the early 1970s."
+   }
+  ]
+ },
+ {
+  "id": "vangelis",
+  "years": "1963–2022",
+  "origin": "Athens, Greece",
+  "genres": [
+   "electronic",
+   "film score",
+   "progressive rock"
+  ],
+  "summary": "A Greek composer who moved from the rock band Aphrodite's Child to lush synthesizer albums and film scores. His music for Chariots of Fire and Blade Runner is among the best known electronic film music.",
+  "know": [
+   "He was a founding member of Aphrodite's Child.",
+   "His Chariots of Fire score won the Academy Award for Best Original Score.",
+   "He recorded several albums with Yes singer Jon Anderson as Jon and Vangelis."
+  ],
+  "born": "03-29",
+  "keyAlbums": [
+   [
+    "Heaven and Hell",
+    1975
+   ],
+   [
+    "Albedo 0.39",
+    1976
+   ],
+   [
+    "Chariots of Fire",
+    1981
+   ],
+   [
+    "Blade Runner",
+    1994
+   ]
+  ],
+  "songs": [
+   "Chariots of Fire",
+   "Love Theme (Blade Runner)",
+   "Blade Runner Blues",
+   "Pulstar"
+  ],
+  "influencedBy": [],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "ryuichi-sakamoto",
+    "why": "Another composer who moved from pop groups to celebrated synth film scores."
+   },
+   {
+    "id": "yes",
+    "why": "Progressive rock that shares his grand, melodic scale; he worked with its singer."
+   }
+  ]
+ },
+ {
+  "id": "cabaret-voltaire",
+  "years": "1973–1994",
+  "origin": "Sheffield, England",
+  "genres": [
+   "industrial",
+   "post-punk",
+   "electro-funk"
+  ],
+  "summary": "A Sheffield trio who used tape loops, cheap synths and cut-up vocals to help create industrial music. They later moved toward dance music and electro-funk.",
+  "know": [
+   "The original lineup was Richard H. Kirk, Stephen Mallinder and Chris Watson.",
+   "They ran their own Western Works studio in Sheffield.",
+   "Their early records came out on Rough Trade."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Mix-Up",
+    1979
+   ],
+   [
+    "The Voice of America",
+    1980
+   ],
+   [
+    "Red Mecca",
+    1981
+   ],
+   [
+    "The Crackdown",
+    1983
+   ]
+  ],
+  "songs": [
+   "Nag Nag Nag",
+   "Yashar",
+   "Sensoria",
+   "Just Fascination"
+  ],
+  "influencedBy": [
+   {
+    "id": "can",
+    "why": "Their cut-up rhythms and tape experiments took cues from Can.",
+    "s": 2
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "They took the Velvets' drone and noise into electronic territory.",
+    "s": 1
+   },
+   {
+    "id": "kraftwerk",
+    "why": "Kraftwerk showed them what a band built on machines could be.",
+    "s": 1
+   },
+   {
+    "id": "brian-eno",
+    "why": "Eno's tape and studio treatments shaped their early methods.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "nine-inch-nails",
+    "why": "Industrial rock like Nine Inch Nails builds on the dance-meets-noise path they opened.",
+    "s": 1
+   },
+   {
+    "id": "ministry",
+    "why": "Ministry's move into industrial dance followed the template of Cabaret Voltaire's 1980s records.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "suicide",
+    "why": "Minimal machines and confrontational atmosphere in early post-punk."
+   },
+   {
+    "id": "public-image-ltd",
+    "why": "Post-punk built on dub space and abrasive texture."
+   }
+  ]
+ },
+ {
+  "id": "the-human-league",
+  "years": "1977–present",
+  "origin": "Sheffield, England",
+  "genres": [
+   "synth-pop",
+   "new wave",
+   "electropop"
+  ],
+  "summary": "A Sheffield band who went from stark experimental electronics to the polished synth-pop of Dare. Don't You Want Me made them international stars.",
+  "know": [
+   "After founders Martyn Ware and Ian Craig Marsh left in 1980 to form Heaven 17, Phil Oakey recruited Joanne Catherall and Susan Ann Sulley.",
+   "Dare was produced by Martin Rushent and topped the UK chart.",
+   "Their 1986 US number one Human was written and produced by Jimmy Jam and Terry Lewis."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Reproduction",
+    1979
+   ],
+   [
+    "Travelogue",
+    1980
+   ],
+   [
+    "Dare",
+    1981
+   ],
+   [
+    "Hysteria",
+    1984
+   ]
+  ],
+  "songs": [
+   "Don't You Want Me",
+   "Being Boiled",
+   "Love Action (I Believe in Love)",
+   "Open Your Heart",
+   "Human"
+  ],
+  "influencedBy": [
+   {
+    "id": "kraftwerk",
+    "why": "Their all-synthesizer approach followed Kraftwerk's lead.",
+    "s": 2
+   },
+   {
+    "id": "giorgio-moroder",
+    "why": "Moroder's electronic disco shaped their sound, and Oakey later recorded Together in Electric Dreams with him.",
+    "s": 2
+   },
+   {
+    "id": "roxy-music",
+    "why": "Roxy Music's art-pop styling was an early model.",
+    "s": 1
+   },
+   {
+    "id": "jimmy-jam-and-terry-lewis",
+    "why": "Jam and Lewis produced the Crash album and wrote Human.",
+    "s": 3
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "duran-duran",
+    "why": "Early-1980s British synth-driven pop."
+   },
+   {
+    "id": "tears-for-fears",
+    "why": "Synth-pop that crossed over to US radio."
+   }
+  ]
+ },
+ {
+  "id": "gary-numan",
+  "years": "1977–present",
+  "origin": "London, England",
+  "genres": [
+   "synth-pop",
+   "new wave",
+   "industrial rock"
+  ],
+  "summary": "A London singer who took synthesizers to the top of the UK charts in 1979, first with Tubeway Army and then solo. His cold, robotic style shaped synth-pop and later industrial rock.",
+  "know": [
+   "Are Friends Electric? by Tubeway Army and his solo single Cars both reached number one in the UK in 1979.",
+   "He discovered the Minimoog when one was left in the studio during the Tubeway Army sessions.",
+   "His later albums moved toward heavy industrial rock."
+  ],
+  "born": "03-08",
+  "keyAlbums": [
+   [
+    "Replicas (Tubeway Army)",
+    1979
+   ],
+   [
+    "The Pleasure Principle",
+    1979
+   ],
+   [
+    "Telekon",
+    1980
+   ],
+   [
+    "Savage (Songs from a Broken World)",
+    2017
+   ]
+  ],
+  "songs": [
+   "Cars",
+   "Are 'Friends' Electric?",
+   "Down in the Park",
+   "M.E.",
+   "We Are Glass"
+  ],
+  "influencedBy": [
+   {
+    "id": "david-bowie",
+    "why": "Bowie's Berlin-era records and persona were a direct model.",
+    "s": 2
+   },
+   {
+    "id": "kraftwerk",
+    "why": "Kraftwerk's machine aesthetic shaped his sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "nine-inch-nails",
+    "why": "Trent Reznor covered his song Metal and has performed with him.",
+    "s": 3
+   },
+   {
+    "id": "basement-jaxx",
+    "why": "Where's Your Head At is built on a sample of his song M.E.",
+    "s": 3
+   },
+   {
+    "id": "foo-fighters",
+    "why": "The Foo Fighters recorded a cover of Down in the Park.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "devo",
+    "why": "New wave that made machines and detachment part of the act."
+   },
+   {
+    "id": "the-cars",
+    "why": "Synth-flavored new wave rock with a cool, clipped delivery."
+   }
+  ]
+ },
+ {
+  "id": "orchestral-manoeuvres-in-the-dark",
+  "years": "1978–present",
+  "origin": "Liverpool, England",
+  "genres": [
+   "synth-pop",
+   "new wave",
+   "electronic"
+  ],
+  "summary": "A Wirral duo, Andy McCluskey and Paul Humphreys, who made melodic, often experimental synth-pop. Enola Gay and the Architecture & Morality singles were major European hits.",
+  "know": [
+   "Their first single Electricity came out on Factory Records in 1979, produced by Martin Hannett.",
+   "Architecture & Morality used Mellotron choir sounds on Joan of Arc and Maid of Orleans.",
+   "If You Leave was written for the film Pretty in Pink and became their biggest US hit."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Orchestral Manoeuvres in the Dark",
+    1980
+   ],
+   [
+    "Organisation",
+    1980
+   ],
+   [
+    "Architecture & Morality",
+    1981
+   ],
+   [
+    "Dazzle Ships",
+    1983
+   ]
+  ],
+  "songs": [
+   "Enola Gay",
+   "Electricity",
+   "Souvenir",
+   "Joan of Arc",
+   "If You Leave"
+  ],
+  "influencedBy": [
+   {
+    "id": "kraftwerk",
+    "why": "McCluskey and Humphreys have said hearing Kraftwerk made them start the band.",
+    "s": 3
+   },
+   {
+    "id": "neu",
+    "why": "They have named Neu! as a key influence on their early sound.",
+    "s": 2
+   },
+   {
+    "id": "martin-hannett",
+    "why": "Hannett produced their debut single Electricity.",
+    "s": 3
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "tears-for-fears",
+    "why": "Synth-pop with serious themes and big melodies."
+   },
+   {
+    "id": "new-order",
+    "why": "Northern English electronic pop that started on Factory Records."
+   }
+  ]
+ },
+ {
+  "id": "larry-levan",
+  "years": "1977–1992",
+  "origin": "New York, New York",
+  "genres": [
+   "garage",
+   "disco",
+   "dub disco"
+  ],
+  "summary": "The resident DJ at New York's Paradise Garage, where his long, dub-heavy sets shaped dance music. The garage style is named after the club, and his remixes are still standards.",
+  "know": [
+   "He played at the Paradise Garage from 1977 until it closed in 1987.",
+   "He and Frankie Knuckles came up together, both working at the Continental Baths.",
+   "He produced and mixed the Peech Boys' Don't Make Me Wait."
+  ],
+  "born": "07-20",
+  "keyAlbums": [
+   [
+    "Life Is Something Special (Peech Boys)",
+    1983
+   ],
+   [
+    "Padlock (Gwen Guthrie)",
+    1985
+   ]
+  ],
+  "songs": [
+   "Don't Make Me Wait (Peech Boys)",
+   "Heartbeat (Taana Gardner)",
+   "Is It All Over My Face (Loose Joints)",
+   "I Got My Mind Made Up (Instant Funk)"
+  ],
+  "influencedBy": [
+   {
+    "id": "frankie-knuckles",
+    "why": "They learned to DJ side by side as teenagers in New York.",
+    "s": 3
+   },
+   {
+    "id": "mfsb",
+    "why": "Philadelphia soul and disco records like MFSB's were the base of his sets.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "marshall-jefferson",
+    "why": "Vocal garage-style house from Chicago drew on the sound Levan made famous.",
+    "s": 1
+   },
+   {
+    "id": "basement-jaxx",
+    "why": "Their soulful house draws on the garage tradition he started.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "king-tubby",
+    "why": "A mixer who treated the mixing desk as an instrument, as Levan did with dub disco."
+   },
+   {
+    "id": "dj-kool-herc",
+    "why": "A DJ whose sets at one venue created a new genre."
+   }
+  ]
+ },
+ {
+  "id": "marshall-jefferson",
+  "years": "1985–present",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "Chicago house",
+   "acid house",
+   "deep house"
+  ],
+  "summary": "A Chicago producer whose Move Your Body helped define house music in 1986. He also produced Phuture's Acid Tracks and early records by Ten City.",
+  "know": [
+   "Move Your Body was one of the first house records to use piano, and became known as the house music anthem.",
+   "He was working at the post office when he started making tracks.",
+   "He produced Ce Ce Rogers's Someday and Ten City's Foundation."
+  ],
+  "born": "09-19",
+  "keyAlbums": [
+   [
+    "Acid Tracks (Phuture)",
+    1987
+   ],
+   [
+    "Someday (Ce Ce Rogers)",
+    1987
+   ],
+   [
+    "Foundation (Ten City)",
+    1989
+   ]
+  ],
+  "songs": [
+   "Move Your Body",
+   "Open Our Eyes",
+   "I've Lost Control (Sleezy D)",
+   "Someday"
+  ],
+  "influencedBy": [
+   {
+    "id": "frankie-knuckles",
+    "why": "Hearing Knuckles DJ in Chicago drew him into house music.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "phuture",
+    "why": "He produced Acid Tracks and helped bring it to Trax Records.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "marley-marl",
+    "why": "A drum machine and sampler pioneer in New York hip hop in the same years."
+   },
+   {
+    "id": "teddy-riley",
+    "why": "A producer who built a new dance genre from machines and gospel-rooted vocals."
+   }
+  ]
+ },
+ {
+  "id": "larry-heard",
+  "years": "1985–present",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "deep house",
+   "Chicago house",
+   "ambient house"
+  ],
+  "summary": "A Chicago producer, also known as Mr. Fingers, who brought jazz chords and warmth to house music. Can You Feel It is a founding record of deep house.",
+  "know": [
+   "He played drums in jazz and funk bands before making house tracks.",
+   "He formed Fingers Inc. with singers Robert Owens and Ron Wilson.",
+   "He made Can You Feel It on a Roland Juno-60 synth."
+  ],
+  "born": "05-31",
+  "keyAlbums": [
+   [
+    "Another Side (Fingers Inc.)",
+    1988
+   ],
+   [
+    "Sceneries Not Songs, Volume One",
+    1994
+   ],
+   [
+    "Alien",
+    1996
+   ]
+  ],
+  "songs": [
+   "Can You Feel It",
+   "Mystery of Love",
+   "Washing Machine",
+   "Beyond the Clouds"
+  ],
+  "influencedBy": [
+   {
+    "id": "herbie-hancock",
+    "why": "His jazz-fusion chords and synth tones carry the sound of Hancock's 1970s records.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "bill-evans",
+    "why": "A jazz pianist known for soft, rich chords and mood."
+   },
+   {
+    "id": "sade",
+    "why": "Smooth, late-night soul that shares his warmth and restraint."
+   }
+  ]
+ },
+ {
+  "id": "phuture",
+  "years": "1985–present",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "acid house",
+   "Chicago house"
+  ],
+  "summary": "A Chicago trio whose 1987 record Acid Tracks created acid house. They found the squelching sound by twisting the knobs of a Roland TB-303 bass machine.",
+  "know": [
+   "The group was DJ Pierre, Earl Spanky Smith Jr. and Herb J.",
+   "DJ Ron Hardy played their tape at the Music Box club before it was released.",
+   "Acid Tracks came out on Trax Records in 1987."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Acid Tracks",
+    1987
+   ]
+  ],
+  "songs": [
+   "Acid Tracks",
+   "Your Only Friend",
+   "We Are Phuture",
+   "Spank-Spank"
+  ],
+  "influencedBy": [
+   {
+    "id": "marshall-jefferson",
+    "why": "Jefferson produced Acid Tracks.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "808-state",
+    "why": "808 State's early records grew straight out of the acid sound.",
+    "s": 2
+   },
+   {
+    "id": "richie-hawtin",
+    "why": "His Plastikman records are built around the TB-303 sound they discovered.",
+    "s": 2
+   },
+   {
+    "id": "aphex-twin",
+    "why": "Aphex Twin's acid tracks use the same 303 squelch.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "afrika-bambaataa",
+    "why": "A record that found a new genre in a Roland drum machine."
+   },
+   {
+    "id": "suicide",
+    "why": "Minimal machine music with a raw, hypnotic edge."
+   }
+  ]
+ },
+ {
+  "id": "derrick-may",
+  "years": "1987–present",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "Detroit techno",
+   "electronic"
+  ],
+  "summary": "One of the Belleville Three who created Detroit techno. Strings of Life, released as Rhythim Is Rhythm, is one of the genre's defining records.",
+  "know": [
+   "He grew up with Juan Atkins and Kevin Saunderson in Belleville, Michigan.",
+   "He released his music as Rhythim Is Rhythm on his own Transmat label.",
+   "The piano part of Strings of Life was played by Michael James."
+  ],
+  "born": "04-06",
+  "keyAlbums": [
+   [
+    "Innovator",
+    1996
+   ]
+  ],
+  "songs": [
+   "Strings of Life",
+   "Nude Photo",
+   "It Is What It Is",
+   "The Dance"
+  ],
+  "influencedBy": [
+   {
+    "id": "juan-atkins",
+    "why": "Atkins was his friend and mentor and taught him to make music with machines.",
+    "s": 3
+   },
+   {
+    "id": "kraftwerk",
+    "why": "Kraftwerk's records were central to the Belleville Three's sound.",
+    "s": 2
+   },
+   {
+    "id": "giorgio-moroder",
+    "why": "Moroder's electronic disco was part of the music they grew up on.",
+    "s": 1
+   },
+   {
+    "id": "parliament-funkadelic",
+    "why": "Detroit's love of P-Funk fed the futurist side of his music.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "carl-craig",
+    "why": "May mentored Craig and released his early tracks on Transmat.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "herbie-hancock",
+    "why": "Jazz-rooted electronic music with a futurist edge."
+   },
+   {
+    "id": "afrika-bambaataa",
+    "why": "Machine funk that started a new genre in the 1980s."
+   }
+  ]
+ },
+ {
+  "id": "kevin-saunderson",
+  "years": "1987–present",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "Detroit techno",
+   "house"
+  ],
+  "summary": "The Belleville Three member who took Detroit techno to the pop charts with Inner City. His Reese bass sound became a building block of drum and bass.",
+  "know": [
+   "Inner City, with singer Paris Grey, had UK hits with Big Fun and Good Life.",
+   "His track Just Want Another Chance, released as Reese, gave its name to the Reese bass sound.",
+   "He runs the KMS label."
+  ],
+  "born": "05-09",
+  "keyAlbums": [
+   [
+    "Paradise (Inner City)",
+    1989
+   ],
+   [
+    "Praise (Inner City)",
+    1992
+   ]
+  ],
+  "songs": [
+   "Big Fun",
+   "Good Life",
+   "Just Want Another Chance",
+   "The Sound"
+  ],
+  "influencedBy": [
+   {
+    "id": "juan-atkins",
+    "why": "Atkins was a friend and mentor in Belleville.",
+    "s": 3
+   },
+   {
+    "id": "derrick-may",
+    "why": "May was his school friend and fellow founder of the scene.",
+    "s": 3
+   },
+   {
+    "id": "kraftwerk",
+    "why": "Kraftwerk shaped the electronic sound they built on.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "goldie",
+    "why": "The Reese bass became a staple of jungle and drum and bass, including Goldie's Metalheadz circle.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "chic",
+    "why": "Dance music with big crossover pop hooks."
+   },
+   {
+    "id": "black-coffee",
+    "why": "House music that crossed into mainstream success."
+   }
+  ]
+ },
+ {
+  "id": "jeff-mills",
+  "years": "1992–present",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "Detroit techno",
+   "minimal techno"
+  ],
+  "summary": "A Detroit DJ and producer known for fast, minimal techno and very fast three-deck DJ sets. He co-founded Underground Resistance and later scored films and played with orchestras.",
+  "know": [
+   "He first became known as The Wizard, a radio DJ on Detroit's WJLB.",
+   "He co-founded Underground Resistance with Mike Banks.",
+   "He started the Axis label in 1992."
+  ],
+  "born": "06-18",
+  "keyAlbums": [
+   [
+    "Waveform Transmission Vol. 1",
+    1992
+   ],
+   [
+    "Live at the Liquid Room",
+    1996
+   ],
+   [
+    "Metropolis",
+    2000
+   ],
+   [
+    "Blue Potential",
+    2006
+   ]
+  ],
+  "songs": [
+   "The Bells",
+   "Changes of Life",
+   "Phase 4",
+   "Gamma Player"
+  ],
+  "influencedBy": [
+   {
+    "id": "juan-atkins",
+    "why": "Atkins's early Detroit techno set the ground he built on.",
+    "s": 2
+   },
+   {
+    "id": "kraftwerk",
+    "why": "Kraftwerk's precise machine music is a stated reference.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "richie-hawtin",
+    "why": "Hawtin's stripped-down techno follows the minimal path Mills set out.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "sun-ra",
+    "why": "A musician who built his work around space and the future."
+   },
+   {
+    "id": "tony-allen",
+    "why": "The Afrobeat drummer recorded an album with Mills in 2018."
+   }
+  ]
+ },
+ {
+  "id": "underground-resistance",
+  "years": "1989–present",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "Detroit techno",
+   "electro",
+   "hardcore techno"
+  ],
+  "summary": "A Detroit techno collective founded by Mike Banks and Jeff Mills with a strong independent and political stance. They kept their faces hidden and built their own distribution.",
+  "know": [
+   "Robert Hood joined Banks and Mills in the early lineup.",
+   "Members often appeared in masks to keep the focus on the music.",
+   "DJ Rolando's Knights of the Jaguar came out on the label in 1999."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Revolution for Change",
+    1992
+   ],
+   [
+    "Galaxy 2 Galaxy",
+    1993
+   ],
+   [
+    "Interstellar Fugitives",
+    1998
+   ]
+  ],
+  "songs": [
+   "Hi-Tech Jazz",
+   "Knights of the Jaguar",
+   "The Final Frontier",
+   "Riot"
+  ],
+  "influencedBy": [
+   {
+    "id": "parliament-funkadelic",
+    "why": "Their sci-fi funk mythology is a clear model.",
+    "s": 2
+   },
+   {
+    "id": "juan-atkins",
+    "why": "Atkins's Detroit techno was the base they built on.",
+    "s": 2
+   },
+   {
+    "id": "public-enemy",
+    "why": "They took Public Enemy's militant, message-driven stance into techno.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "drexciya",
+    "why": "Drexciya released early records through the UR camp and its distributor.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "fugazi",
+    "why": "A band that ran its own business on independent principles."
+   },
+   {
+    "id": "sun-ra",
+    "why": "Afrofuturist music with its own mythology."
+   }
+  ]
+ },
+ {
+  "id": "carl-craig",
+  "years": "1989–present",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "Detroit techno",
+   "electronic",
+   "nu jazz"
+  ],
+  "summary": "A second-wave Detroit techno producer who brought jazz and experiment into the music. His Planet E label and many aliases made him one of techno's most varied artists.",
+  "know": [
+   "Derrick May mentored him and released his first tracks on Transmat.",
+   "He founded the Planet E label in 1991.",
+   "With Moritz von Oswald he made Recomposed, a 2008 reworking of Ravel and Mussorgsky for Deutsche Grammophon."
+  ],
+  "born": "05-22",
+  "keyAlbums": [
+   [
+    "Landcruising",
+    1995
+   ],
+   [
+    "More Songs About Food and Revolutionary Art",
+    1997
+   ],
+   [
+    "Programmed (Innerzone Orchestra)",
+    1999
+   ],
+   [
+    "Recomposed",
+    2008
+   ]
+  ],
+  "songs": [
+   "At Les",
+   "Bug in the Bassbin",
+   "Throw",
+   "Sandstorms"
+  ],
+  "influencedBy": [
+   {
+    "id": "derrick-may",
+    "why": "May was his mentor and first label boss.",
+    "s": 3
+   },
+   {
+    "id": "juan-atkins",
+    "why": "Atkins's early Detroit techno shaped his starting point.",
+    "s": 2
+   },
+   {
+    "id": "kraftwerk",
+    "why": "Kraftwerk's records are part of every Detroit producer's foundation.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "goldie",
+    "why": "Jungle DJs sped up Bug in the Bassbin, and its breakbeat jazz fed early drum and bass.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "robert-glasper",
+    "why": "Jazz that moves easily into electronic production."
+   },
+   {
+    "id": "herbie-hancock",
+    "why": "Jazz and machine music meeting in one artist."
+   }
+  ]
+ },
+ {
+  "id": "drexciya",
+  "years": "1992–2002",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "electro",
+   "Detroit techno"
+  ],
+  "summary": "A secretive Detroit electro duo who built a whole underwater science-fiction mythology around their records. Their cold, aquatic electro is a cornerstone of Afrofuturist dance music.",
+  "know": [
+   "The duo was James Stinson and Gerald Donald, who stayed anonymous for most of their career.",
+   "Their track and album titles describe an undersea civilisation called Drexciya.",
+   "James Stinson died in 2002, the year Harnessed the Storm and Grava 4 came out."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Quest",
+    1997
+   ],
+   [
+    "Neptune's Lair",
+    1999
+   ],
+   [
+    "Harnessed the Storm",
+    2002
+   ],
+   [
+    "Grava 4",
+    2002
+   ]
+  ],
+  "songs": [
+   "Bubble Metropolis",
+   "Wavejumper",
+   "Andreaen Sand Dunes",
+   "Black Sea"
+  ],
+  "influencedBy": [
+   {
+    "id": "kraftwerk",
+    "why": "Kraftwerk's electro foundations run through their sound.",
+    "s": 2
+   },
+   {
+    "id": "underground-resistance",
+    "why": "They released early work through the UR camp and shared its anonymity.",
+    "s": 3
+   },
+   {
+    "id": "afrika-bambaataa",
+    "why": "Planet Rock's electro template is the base of their style.",
+    "s": 2
+   },
+   {
+    "id": "parliament-funkadelic",
+    "why": "P-Funk's sci-fi mythology shaped their storytelling.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "sun-ra",
+    "why": "Afrofuturist music with its own cosmic mythology."
+   },
+   {
+    "id": "mf-doom",
+    "why": "A masked artist who built a full fictional world around the music."
+   }
+  ]
+ },
+ {
+  "id": "richie-hawtin",
+  "years": "1990–present",
+  "origin": "Windsor, Canada",
+  "genres": [
+   "minimal techno",
+   "acid techno",
+   "Detroit techno"
+  ],
+  "summary": "A producer and DJ from Windsor, across the river from Detroit, best known as Plastikman. His stripped-back acid and minimal records shaped 1990s techno.",
+  "know": [
+   "He co-founded Plus 8 Records with John Acquaviva in 1990.",
+   "As Plastikman he made long, sparse tracks built around the TB-303.",
+   "He launched the Minus label in 1998 and was an early adopter of laptop DJing."
+  ],
+  "born": "06-04",
+  "keyAlbums": [
+   [
+    "Sheet One (Plastikman)",
+    1993
+   ],
+   [
+    "Musik (Plastikman)",
+    1994
+   ],
+   [
+    "Consumed (Plastikman)",
+    1998
+   ],
+   [
+    "DE9: Closer to the Edit",
+    2001
+   ]
+  ],
+  "songs": [
+   "Spastik",
+   "Krakpot",
+   "Consumed"
+  ],
+  "influencedBy": [
+   {
+    "id": "derrick-may",
+    "why": "Detroit techno across the river was his formative influence.",
+    "s": 2
+   },
+   {
+    "id": "phuture",
+    "why": "Plastikman is built around the acid sound Phuture found.",
+    "s": 2
+   },
+   {
+    "id": "juan-atkins",
+    "why": "Atkins's Detroit techno set his starting point.",
+    "s": 1
+   },
+   {
+    "id": "jeff-mills",
+    "why": "Mills's minimal, fast techno is a close reference.",
+    "s": 1
+   },
+   {
+    "id": "kraftwerk",
+    "why": "Kraftwerk's minimal machine music underlies his approach.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "sunn-o",
+    "why": "Music built on stripping things down and holding a single idea."
+   },
+   {
+    "id": "can",
+    "why": "Repetition used to build tension over long tracks."
+   }
+  ]
+ },
+ {
+  "id": "808-state",
+  "years": "1987–present",
+  "origin": "Manchester, England",
+  "genres": [
+   "acid house",
+   "techno",
+   "electronic"
+  ],
+  "summary": "A Manchester group that turned Chicago acid house into British chart music. Pacific State became one of the defining records of the UK rave era.",
+  "know": [
+   "They formed around the Eastern Bloc record shop with Graham Massey, Martin Price and Gerald Simpson.",
+   "Pacific State reached the UK top ten in 1989.",
+   "Björk sang on their album ex:el, and Massey later co-wrote songs on her own records."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Quadrastate",
+    1989
+   ],
+   [
+    "Ninety",
+    1989
+   ],
+   [
+    "ex:el",
+    1991
+   ],
+   [
+    "Gorgeous",
+    1993
+   ]
+  ],
+  "songs": [
+   "Pacific State",
+   "Cubik",
+   "In Yer Face",
+   "Lift",
+   "Ooops"
+  ],
+  "influencedBy": [
+   {
+    "id": "phuture",
+    "why": "Their early tracks grew directly out of Chicago acid house.",
+    "s": 2
+   },
+   {
+    "id": "derrick-may",
+    "why": "Detroit techno was part of the template they brought to Manchester.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "bjork",
+    "why": "She sang on ex:el and Graham Massey co-wrote Army of Me.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "happy-mondays",
+    "why": "Manchester's rave-era crossover between clubs and bands."
+   },
+   {
+    "id": "the-stone-roses",
+    "why": "Madchester guitar music shaped by the same club scene."
+   }
+  ]
+ },
+ {
+  "id": "the-orb",
+  "years": "1988–present",
+  "origin": "London, England",
+  "genres": [
+   "ambient house",
+   "dub",
+   "electronic"
+  ],
+  "summary": "Alex Paterson's project that slowed house music down into ambient house for chill-out rooms. Their early albums mix dub bass, samples and long, drifting tracks.",
+  "know": [
+   "Paterson started the group with Jimmy Cauty of The KLF.",
+   "Blue Room reached the UK top ten at nearly 40 minutes long.",
+   "They made Metallic Spheres with David Gilmour in 2010 and an album with Lee Scratch Perry in 2012."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Orb's Adventures Beyond the Ultraworld",
+    1991
+   ],
+   [
+    "U.F.Orb",
+    1992
+   ],
+   [
+    "Orbus Terrarum",
+    1995
+   ],
+   [
+    "Metallic Spheres",
+    2010
+   ]
+  ],
+  "songs": [
+   "Little Fluffy Clouds",
+   "A Huge Ever Growing Pulsating Brain That Rules from the Centre of the Ultraworld",
+   "Blue Room",
+   "Perpetual Dawn",
+   "Toxygene"
+  ],
+  "influencedBy": [
+   {
+    "id": "brian-eno",
+    "why": "Eno's ambient records are the root of their approach.",
+    "s": 2
+   },
+   {
+    "id": "king-tubby",
+    "why": "Their deep bass and echo come straight from dub.",
+    "s": 2
+   },
+   {
+    "id": "lee-scratch-perry",
+    "why": "They recorded an album with Perry and draw on his dub production.",
+    "s": 3
+   },
+   {
+    "id": "pink-floyd",
+    "why": "Their spacey, long-form records nod clearly to Pink Floyd.",
+    "s": 2
+   },
+   {
+    "id": "the-klf",
+    "why": "Jimmy Cauty was a founding member.",
+    "s": 3
+   },
+   {
+    "id": "tangerine-dream",
+    "why": "Their ambient journeys follow the 1970s German space-music tradition.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "adrian-sherwood",
+    "why": "Dub production that brings reggae sound into other genres."
+   },
+   {
+    "id": "spacemen-3",
+    "why": "Slow, hypnotic music built for drifting."
+   }
+  ]
+ },
+ {
+  "id": "the-klf",
+  "years": "1987–1992",
+  "origin": "London, England",
+  "genres": [
+   "acid house",
+   "ambient house",
+   "stadium house"
+  ],
+  "summary": "Bill Drummond and Jimmy Cauty's prankish dance duo who made huge hits and then quit the music business. Their album Chill Out is also a landmark of ambient music.",
+  "know": [
+   "As The Timelords they had a UK number one in 1988 with Doctorin' the Tardis and then wrote a book about how to do it.",
+   "Country singer Tammy Wynette sang on their hit Justified and Ancient.",
+   "They deleted their whole catalogue when they left music in 1992."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Chill Out",
+    1990
+   ],
+   [
+    "The White Room",
+    1991
+   ]
+  ],
+  "songs": [
+   "3 a.m. Eternal",
+   "What Time Is Love?",
+   "Last Train to Trancentral",
+   "Justified and Ancient",
+   "Doctorin' the Tardis"
+  ],
+  "influencedBy": [
+   {
+    "id": "brian-eno",
+    "why": "Chill Out follows the ambient path Eno set out.",
+    "s": 1
+   },
+   {
+    "id": "phuture",
+    "why": "Their early pure trance records grew out of acid house.",
+    "s": 1
+   },
+   {
+    "id": "the-orb",
+    "why": "Cauty worked on The Orb's early ambient sessions, which fed into Chill Out.",
+    "s": 3
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "sex-pistols",
+    "why": "A band that treated the music business as part of the art."
+   },
+   {
+    "id": "tammy-wynette",
+    "why": "The country star whose voice anchored Justified and Ancient."
+   }
+  ]
+ },
+ {
+  "id": "orbital",
+  "years": "1989–present",
+  "origin": "Sevenoaks, England",
+  "genres": [
+   "techno",
+   "rave",
+   "IDM"
+  ],
+  "summary": "Brothers Phil and Paul Hartnoll, who made melodic techno that worked both in clubs and at rock festivals. Their live sets helped bring dance music to the main stage.",
+  "know": [
+   "They named the band after the M25 orbital motorway that ringed the London raves.",
+   "Their first single Chime was recorded at home onto cassette.",
+   "Their 1994 Glastonbury set is often called a turning point for dance acts at festivals."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Orbital",
+    1991
+   ],
+   [
+    "Orbital 2",
+    1993
+   ],
+   [
+    "Snivilisation",
+    1994
+   ],
+   [
+    "In Sides",
+    1996
+   ]
+  ],
+  "songs": [
+   "Chime",
+   "Halcyon + On + On",
+   "Belfast",
+   "The Box",
+   "Satan"
+  ],
+  "influencedBy": [
+   {
+    "id": "kraftwerk",
+    "why": "Kraftwerk's melodic machine music is a core reference.",
+    "s": 2
+   },
+   {
+    "id": "delia-derbyshire",
+    "why": "They play a version of her Doctor Who theme live and credit the Radiophonic Workshop.",
+    "s": 2
+   },
+   {
+    "id": "derrick-may",
+    "why": "Detroit techno's emotional melodies shaped their sound.",
+    "s": 1
+   },
+   {
+    "id": "phuture",
+    "why": "Acid house was the music that started them making tracks.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "mogwai",
+    "why": "Long instrumental pieces that build to big climaxes."
+   },
+   {
+    "id": "godspeed-you-black-emperor",
+    "why": "Instrumental music with political undertones and slow builds."
+   }
+  ]
+ },
+ {
+  "id": "underworld",
+  "years": "1987–present",
+  "origin": "Romford, England",
+  "genres": [
+   "techno",
+   "progressive house",
+   "electronic"
+  ],
+  "summary": "Karl Hyde and Rick Smith's group, which mixed techno with Hyde's stream-of-consciousness vocals. Born Slippy .NUXX became a defining song of 1990s British dance music.",
+  "know": [
+   "DJ Darren Emerson joined in 1990 and shaped their club sound.",
+   "Born Slippy .NUXX was a hit after it appeared in the film Trainspotting.",
+   "They were music directors for the London 2012 Olympics opening ceremony."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Dubnobasswithmyheadman",
+    1994
+   ],
+   [
+    "Second Toughest in the Infants",
+    1996
+   ],
+   [
+    "Beaucoup Fish",
+    1999
+   ],
+   [
+    "Barbara Barbara, We Face a Shining Future",
+    2016
+   ]
+  ],
+  "songs": [
+   "Born Slippy .NUXX",
+   "Rez",
+   "Cowgirl",
+   "Dark & Long",
+   "King of Snake"
+  ],
+  "influencedBy": [
+   {
+    "id": "kraftwerk",
+    "why": "Kraftwerk's steady pulse runs through their long tracks.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "radiohead",
+    "why": "Rock that moved toward electronic textures and fragmented vocals."
+   },
+   {
+    "id": "mogwai",
+    "why": "Long, building instrumental pieces."
+   }
+  ]
+ },
+ {
+  "id": "leftfield",
+  "years": "1989–present",
+  "origin": "London, England",
+  "genres": [
+   "progressive house",
+   "dub",
+   "electronic"
+  ],
+  "summary": "Neil Barnes and Paul Daley's London duo, who blended house with heavy dub bass. Their album Leftism is one of the key British dance albums of the 1990s.",
+  "know": [
+   "Leftism was shortlisted for the Mercury Prize in 1995.",
+   "John Lydon sang on their single Open Up.",
+   "Phat Planet was used in a well-known Guinness television advert."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Leftism",
+    1995
+   ],
+   [
+    "Rhythm and Stealth",
+    1999
+   ],
+   [
+    "Alternative Light Source",
+    2015
+   ]
+  ],
+  "songs": [
+   "Open Up",
+   "Release the Pressure",
+   "Original",
+   "Afroleft",
+   "Phat Planet"
+  ],
+  "influencedBy": [
+   {
+    "id": "public-image-ltd",
+    "why": "PiL's dub-heavy bass shaped their sound, and Lydon sang on Open Up.",
+    "s": 2
+   },
+   {
+    "id": "king-tubby",
+    "why": "Their bass weight and echo come from dub.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "adrian-sherwood",
+    "why": "Dub production applied across genres."
+   },
+   {
+    "id": "primal-scream",
+    "why": "British rock that crossed into dance and dub."
+   }
+  ]
+ },
+ {
+  "id": "goldie",
+  "years": "1992–present",
+  "origin": "London, England",
+  "genres": [
+   "jungle",
+   "drum and bass"
+  ],
+  "summary": "A former graffiti artist who helped turn jungle into the more ambitious drum and bass. His album Timeless brought the genre to a wide audience.",
+  "know": [
+   "He was known for graffiti art before he made records.",
+   "He founded the Metalheadz label in 1994 with Kemistry and Storm.",
+   "Inner City Life features singer Diane Charlemagne."
+  ],
+  "born": "09-19",
+  "keyAlbums": [
+   [
+    "Timeless",
+    1995
+   ],
+   [
+    "Saturnz Return",
+    1998
+   ],
+   [
+    "The Journey Man",
+    2017
+   ]
+  ],
+  "songs": [
+   "Inner City Life",
+   "Terminator",
+   "Timeless",
+   "Angel",
+   "Kemistry"
+  ],
+  "influencedBy": [
+   {
+    "id": "kevin-saunderson",
+    "why": "The Reese bass from Detroit is all over his records.",
+    "s": 1
+   },
+   {
+    "id": "afrika-bambaataa",
+    "why": "Hip hop and b-boy culture shaped him as a graffiti writer and producer.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "burial",
+    "why": "Burial's sound draws heavily on 1990s jungle and drum and bass records like his.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-bomb-squad",
+    "why": "Dense, layered sample-based production."
+   },
+   {
+    "id": "dizzee-rascal",
+    "why": "British street music made from fast, hard beats."
+   }
+  ]
+ },
+ {
+  "id": "roni-size",
+  "years": "1993–present",
+  "origin": "Bristol, England",
+  "genres": [
+   "drum and bass",
+   "jungle",
+   "jazz-step"
+  ],
+  "summary": "A Bristol producer who led the collective Reprazent and brought live bass and jazz into drum and bass. New Forms won the Mercury Prize in 1997.",
+  "know": [
+   "New Forms beat a shortlist that included Radiohead's OK Computer.",
+   "Reprazent included Krust, DJ Die, Suv, singer Onallee and MC Dynamite.",
+   "He co-founded the Full Cycle label in Bristol."
+  ],
+  "born": "10-29",
+  "keyAlbums": [
+   [
+    "New Forms",
+    1997
+   ],
+   [
+    "In the Mode",
+    2000
+   ],
+   [
+    "Touching Down",
+    2002
+   ]
+  ],
+  "songs": [
+   "Brown Paper Bag",
+   "Heroes",
+   "Share the Fall",
+   "Who Told You"
+  ],
+  "influencedBy": [
+   {
+    "id": "massive-attack",
+    "why": "Bristol's sound-system culture around Massive Attack shaped his start.",
+    "s": 1
+   },
+   {
+    "id": "goldie",
+    "why": "Goldie's Timeless showed drum and bass could be an album form.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-roots",
+    "why": "A live band playing beat-driven music."
+   },
+   {
+    "id": "weather-report",
+    "why": "Jazz with heavy, rolling bass at its centre."
+   }
+  ]
+ },
+ {
+  "id": "tricky",
+  "years": "1991–present",
+  "origin": "Bristol, England",
+  "genres": [
+   "trip hop",
+   "alternative hip hop"
+  ],
+  "summary": "A Bristol rapper and producer who appeared on Massive Attack's early records before making the dark, claustrophobic Maxinquaye. He is one of the defining voices of trip hop.",
+  "know": [
+   "He rapped on Massive Attack's Blue Lines and Protection.",
+   "Maxinquaye features singer Martina Topley-Bird on most tracks.",
+   "Black Steel is a reworking of Public Enemy's Black Steel in the Hour of Chaos."
+  ],
+  "born": "01-27",
+  "keyAlbums": [
+   [
+    "Maxinquaye",
+    1995
+   ],
+   [
+    "Pre-Millennium Tension",
+    1996
+   ],
+   [
+    "Angels with Dirty Faces",
+    1998
+   ],
+   [
+    "Blowback",
+    2001
+   ]
+  ],
+  "songs": [
+   "Overcome",
+   "Hell Is Round the Corner",
+   "Aftermath",
+   "Black Steel",
+   "Christiansands"
+  ],
+  "influencedBy": [
+   {
+    "id": "massive-attack",
+    "why": "He was part of Massive Attack's early circle and rapped on their albums.",
+    "s": 3
+   },
+   {
+    "id": "public-enemy",
+    "why": "He covered Public Enemy and drew on their dense, tense sound.",
+    "s": 2
+   },
+   {
+    "id": "isaac-hayes",
+    "why": "Hell Is Round the Corner is built on a sample of Hayes's Ike's Rap II.",
+    "s": 2
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "pj-harvey",
+    "why": "Dark, intense art rock; she sang on his album Angels with Dirty Faces."
+   },
+   {
+    "id": "earl-sweatshirt",
+    "why": "Murky, low-voiced rap built on hazy loops."
+   }
+  ]
+ },
+ {
+  "id": "moby",
+  "years": "1991–present",
+  "origin": "New York, New York",
+  "genres": [
+   "house",
+   "electronica",
+   "downtempo"
+  ],
+  "summary": "A New York producer who went from rave hits to the multi-million-selling album Play. Play mixed electronic beats with old blues and gospel field recordings.",
+  "know": [
+   "His 1991 breakthrough Go uses a sample of the Twin Peaks theme.",
+   "Play uses vocals from Alan Lomax's field recordings on songs like Natural Blues.",
+   "Every track on Play was licensed for film, TV or advertising."
+  ],
+  "born": "09-11",
+  "keyAlbums": [
+   [
+    "Everything Is Wrong",
+    1995
+   ],
+   [
+    "Play",
+    1999
+   ],
+   [
+    "18",
+    2002
+   ],
+   [
+    "Hotel",
+    2005
+   ]
+  ],
+  "songs": [
+   "Go",
+   "Porcelain",
+   "Natural Blues",
+   "Why Does My Heart Feel So Bad?",
+   "Feeling So Real"
+  ],
+  "influencedBy": [
+   {
+    "id": "alan-lomax",
+    "why": "Lomax's field recordings supply the voices at the heart of Play.",
+    "s": 2
+   },
+   {
+    "id": "joy-division",
+    "why": "He has named Joy Division as a favourite and covered New Dawn Fades.",
+    "s": 2
+   },
+   {
+    "id": "jean-michel-jarre",
+    "why": "He has cited Jarre as an early inspiration and later recorded with him.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "beck",
+    "why": "Collage music that mixes old blues with modern beats."
+   },
+   {
+    "id": "danger-mouse",
+    "why": "A producer known for mashing up old records into something new."
+   }
+  ]
+ },
+ {
+  "id": "fatboy-slim",
+  "years": "1996–present",
+  "origin": "Brighton, England",
+  "genres": [
+   "big beat",
+   "electronica",
+   "house"
+  ],
+  "summary": "Norman Cook's big beat project, built on breakbeats, rock riffs and catchy samples. Songs like The Rockafeller Skank and Praise You made him one of the biggest DJs of the late 1990s.",
+  "know": [
+   "He played bass in The Housemartins before turning to dance music.",
+   "As Beats International he had a 1990 UK number one with Dub Be Good to Me, which uses the bassline from The Clash's Guns of Brixton.",
+   "The Praise You video was directed by Spike Jonze."
+  ],
+  "born": "07-31",
+  "keyAlbums": [
+   [
+    "Better Living Through Chemistry",
+    1996
+   ],
+   [
+    "You've Come a Long Way, Baby",
+    1998
+   ],
+   [
+    "Halfway Between the Gutter and the Stars",
+    2000
+   ]
+  ],
+  "songs": [
+   "The Rockafeller Skank",
+   "Praise You",
+   "Right Here, Right Now",
+   "Weapon of Choice"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-clash",
+    "why": "His first big hit was built on the Guns of Brixton bassline.",
+    "s": 2
+   },
+   {
+    "id": "the-chemical-brothers",
+    "why": "The Chemical Brothers' breakbeat sound came just before his and set the big beat style.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "beastie-boys",
+    "why": "Sample-heavy party music with a sense of humour."
+   },
+   {
+    "id": "mark-ronson",
+    "why": "A DJ-producer who turns old sounds into pop hits."
+   }
+  ]
+ },
+ {
+  "id": "basement-jaxx",
+  "years": "1994–present",
+  "origin": "London, England",
+  "genres": [
+   "house",
+   "UK garage",
+   "dance-pop"
+  ],
+  "summary": "Felix Buxton and Simon Ratcliffe's London duo, whose colourful, genre-mixing house records became pop hits. Kish Kash won the first Grammy for Best Electronic/Dance Album.",
+  "know": [
+   "They started by throwing club nights in Brixton.",
+   "Where's Your Head At is built on a sample of Gary Numan's M.E.",
+   "Kish Kash won the Grammy for Best Electronic/Dance Album in 2005."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Remedy",
+    1999
+   ],
+   [
+    "Rooty",
+    2001
+   ],
+   [
+    "Kish Kash",
+    2003
+   ],
+   [
+    "Crazy Itch Radio",
+    2006
+   ]
+  ],
+  "songs": [
+   "Red Alert",
+   "Romeo",
+   "Where's Your Head At",
+   "Good Luck",
+   "Rendez-Vu"
+  ],
+  "influencedBy": [
+   {
+    "id": "gary-numan",
+    "why": "Their biggest hit samples Numan's M.E.",
+    "s": 2
+   },
+   {
+    "id": "marshall-jefferson",
+    "why": "Chicago house of the 1980s is the base they built on.",
+    "s": 1
+   },
+   {
+    "id": "larry-levan",
+    "why": "Their soulful, garage-rooted house follows the Paradise Garage tradition.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "mark-ronson",
+    "why": "Genre-hopping dance-pop production."
+   },
+   {
+    "id": "outkast",
+    "why": "Playful, colourful records that mix many styles."
+   }
+  ]
+ },
+ {
+  "id": "autechre",
+  "years": "1987–present",
+  "origin": "Rochdale, England",
+  "genres": [
+   "IDM",
+   "experimental electronic",
+   "electro"
+  ],
+  "summary": "Rob Brown and Sean Booth's duo, who started from electro and hip hop and moved into some of the most abstract electronic music on record. They are central to the Warp Records sound.",
+  "know": [
+   "They appeared on Warp's 1992 Artificial Intelligence compilation.",
+   "The Gantz Graf video by Alex Rutterford became a landmark of music animation.",
+   "Their 2018 NTS Sessions run about eight hours."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Incunabula",
+    1993
+   ],
+   [
+    "Amber",
+    1994
+   ],
+   [
+    "Tri Repetae",
+    1995
+   ],
+   [
+    "Confield",
+    2001
+   ]
+  ],
+  "songs": [
+   "Bike",
+   "Clipper",
+   "Gantz Graf",
+   "Eutow"
+  ],
+  "influencedBy": [
+   {
+    "id": "afrika-bambaataa",
+    "why": "They grew up on electro and hip hop, and Planet Rock's style is their root.",
+    "s": 2
+   },
+   {
+    "id": "derrick-may",
+    "why": "Detroit techno's melodies shaped their early records.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "radiohead",
+    "why": "Radiohead named Autechre among the Warp artists behind the sound of Kid A.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "battles",
+    "why": "Rhythmically complex instrumental music."
+   },
+   {
+    "id": "meshuggah",
+    "why": "Heavy music built on shifting, hard-to-count rhythm."
+   }
+  ]
+ },
+ {
+  "id": "boards-of-canada",
+  "years": "1986–present",
+  "origin": "Edinburgh, Scotland",
+  "genres": [
+   "IDM",
+   "downtempo",
+   "ambient"
+  ],
+  "summary": "Brothers Michael Sandison and Marcus Eoin, who make hazy, nostalgic electronic music full of warped tape tones. Music Has the Right to Children is a landmark of 1990s electronica.",
+  "know": [
+   "They took their name from the National Film Board of Canada, whose films they watched as children.",
+   "Music Has the Right to Children came out on Warp and Skam in 1998.",
+   "They release music rarely and almost never give interviews or play live."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Music Has the Right to Children",
+    1998
+   ],
+   [
+    "Geogaddi",
+    2002
+   ],
+   [
+    "The Campfire Headphase",
+    2005
+   ],
+   [
+    "Tomorrow's Harvest",
+    2013
+   ]
+  ],
+  "songs": [
+   "Roygbiv",
+   "Aquarius",
+   "Dayvan Cowboy",
+   "Olson",
+   "Turquoise Hexagon Sun"
+  ],
+  "influencedBy": [
+   {
+    "id": "delia-derbyshire",
+    "why": "Their eerie, analog textures recall the BBC Radiophonic sound she helped create.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "slowdive",
+    "why": "Blurred, dreamy textures that feel like a memory."
+   },
+   {
+    "id": "beach-house",
+    "why": "Hazy, nostalgic music built on warm keyboards."
+   }
+  ]
+ },
+ {
+  "id": "squarepusher",
+  "years": "1994–present",
+  "origin": "Chelmsford, England",
+  "genres": [
+   "drum and bass",
+   "IDM",
+   "jazz fusion"
+  ],
+  "summary": "Tom Jenkinson, a virtuoso bassist who combines hyperactive drum programming with jazz-fusion playing. He is one of the key artists on Warp Records.",
+  "know": [
+   "He plays electric bass at a virtuoso level, often over his own programmed beats.",
+   "His early releases came out on Rephlex, the label co-run by Aphex Twin.",
+   "He also leads the live band Shobaleader One."
+  ],
+  "born": "01-17",
+  "keyAlbums": [
+   [
+    "Feed Me Weird Things",
+    1996
+   ],
+   [
+    "Hard Normal Daddy",
+    1997
+   ],
+   [
+    "Ultravisitor",
+    2004
+   ],
+   [
+    "Be Up a Hello",
+    2020
+   ]
+  ],
+  "songs": [
+   "Come On My Selector",
+   "My Red Hot Car",
+   "Beep Street",
+   "Iambic 9 Poetry"
+  ],
+  "influencedBy": [
+   {
+    "id": "aphex-twin",
+    "why": "Richard James released his debut on Rephlex.",
+    "s": 3
+   },
+   {
+    "id": "weather-report",
+    "why": "Jaco Pastorius-era jazz fusion shaped his bass playing.",
+    "s": 2
+   },
+   {
+    "id": "goldie",
+    "why": "Jungle and drum and bass gave him his breakbeat language.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "thundercat",
+    "why": "A virtuoso bassist mixing jazz fusion with modern production."
+   },
+   {
+    "id": "the-mars-volta",
+    "why": "Dense, virtuosic music that keeps changing direction."
+   }
+  ]
+ },
+ {
+  "id": "air",
+  "years": "1995–present",
+  "origin": "Versailles, France",
+  "genres": [
+   "downtempo",
+   "electronica",
+   "French touch"
+  ],
+  "summary": "Nicolas Godin and Jean-Benoît Dunckel, a French duo who made dreamy, retro-futurist pop with vintage synths. Moon Safari became one of the defining albums of late-1990s chill-out.",
+  "know": [
+   "Sexy Boy and Kelly Watch the Stars were hits from Moon Safari.",
+   "They scored Sofia Coppola's film The Virgin Suicides.",
+   "Nigel Godrich produced Talkie Walkie."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Moon Safari",
+    1998
+   ],
+   [
+    "The Virgin Suicides",
+    2000
+   ],
+   [
+    "10 000 Hz Legend",
+    2001
+   ],
+   [
+    "Talkie Walkie",
+    2004
+   ]
+  ],
+  "songs": [
+   "Sexy Boy",
+   "Kelly Watch the Stars",
+   "All I Need",
+   "La femme d'argent",
+   "Cherry Blossom Girl"
+  ],
+  "influencedBy": [
+   {
+    "id": "serge-gainsbourg",
+    "why": "Gainsbourg's French pop and arrangements shape their style.",
+    "s": 2
+   },
+   {
+    "id": "jean-michel-jarre",
+    "why": "They grew up on Jarre's synthesizer records and later recorded with him.",
+    "s": 2
+   },
+   {
+    "id": "burt-bacharach",
+    "why": "Their soft, melodic arrangements take from 1960s easy listening like Bacharach's.",
+    "s": 1
+   },
+   {
+    "id": "pink-floyd",
+    "why": "Their spacey textures nod to 1970s Pink Floyd.",
+    "s": 1
+   },
+   {
+    "id": "nigel-godrich",
+    "why": "Godrich produced Talkie Walkie.",
+    "s": 3
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "beach-house",
+    "why": "Dreamy pop built on vintage keyboards."
+   },
+   {
+    "id": "francoise-hardy",
+    "why": "Soft, cool French pop."
+   }
+  ]
+ },
+ {
+  "id": "justice",
+  "years": "2003–present",
+  "origin": "Paris, France",
+  "genres": [
+   "French house",
+   "electro house",
+   "nu-disco"
+  ],
+  "summary": "Gaspard Augé and Xavier de Rosnay, a Paris duo whose distorted, rock-influenced electro defined the late-2000s Ed Banger sound. Their debut, Cross, made them festival headliners.",
+  "know": [
+   "They first got noticed with a 2003 remix of Simian's Never Be Alone, released as We Are Your Friends.",
+   "They are signed to the Paris label Ed Banger.",
+   "Their live album Woman Worldwide won the Grammy for Best Dance/Electronic Album."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Cross",
+    2007
+   ],
+   [
+    "Audio, Video, Disco",
+    2011
+   ],
+   [
+    "Woman",
+    2016
+   ],
+   [
+    "Hyperdrama",
+    2024
+   ]
+  ],
+  "songs": [
+   "D.A.N.C.E.",
+   "Genesis",
+   "We Are Your Friends",
+   "Stress",
+   "Safe and Sound"
+  ],
+  "influencedBy": [
+   {
+    "id": "daft-punk",
+    "why": "Daft Punk's French house is the clear model for their sound.",
+    "s": 2
+   },
+   {
+    "id": "michael-jackson",
+    "why": "D.A.N.C.E. is a playful tribute to Michael Jackson's pop.",
+    "s": 2
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "queen",
+    "why": "Big, bombastic arrangements built for arenas."
+   },
+   {
+    "id": "tame-impala",
+    "why": "Psychedelic music with a disco pulse; Kevin Parker sang on Hyperdrama."
+   }
+  ]
+ },
+ {
+  "id": "the-postal-service",
+  "years": "2001–2013",
+  "origin": "Seattle, Washington",
+  "genres": [
+   "indietronica",
+   "synth-pop",
+   "indie pop"
+  ],
+  "summary": "Ben Gibbard and Jimmy Tamborello's side project, which paired indie songwriting with glitchy electronic beats. Their only album, Give Up, became one of Sub Pop's best sellers.",
+  "know": [
+   "Tamborello and Gibbard made the album by mailing tracks back and forth.",
+   "Jenny Lewis sang on several songs.",
+   "Give Up became Sub Pop's best-selling album since Nirvana's Bleach."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Give Up",
+    2003
+   ]
+  ],
+  "songs": [
+   "Such Great Heights",
+   "The District Sleeps Alone Tonight",
+   "We Will Become Silhouettes",
+   "Nothing Better"
+  ],
+  "influencedBy": [
+   {
+    "id": "death-cab-for-cutie",
+    "why": "Gibbard is the singer and songwriter of Death Cab for Cutie.",
+    "s": 3
+   },
+   {
+    "id": "depeche-mode",
+    "why": "Their warm synth-pop draws on 1980s British electronic pop.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "iron-and-wine",
+    "why": "Iron & Wine's cover of Such Great Heights became a hit in its own right.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-shins",
+    "why": "Early-2000s Sub Pop indie pop with bright melodies."
+   },
+   {
+    "id": "bright-eyes",
+    "why": "Confessional indie songwriting from the same scene."
+   }
+  ]
+ },
+ {
+  "id": "four-tet",
+  "years": "1998–present",
+  "origin": "London, England",
+  "genres": [
+   "folktronica",
+   "IDM",
+   "house"
+  ],
+  "summary": "Kieran Hebden's solo project, which moved from sample-based folktronica to warm, melodic house. He is one of the most respected producers in British electronic music.",
+  "know": [
+   "He was a member of the post-rock band Fridge.",
+   "He made several albums with jazz drummer Steve Reid.",
+   "He has worked closely with Burial and Thom Yorke."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Pause",
+    2001
+   ],
+   [
+    "Rounds",
+    2003
+   ],
+   [
+    "There Is Love in You",
+    2010
+   ],
+   [
+    "Three",
+    2024
+   ]
+  ],
+  "songs": [
+   "She Moves She",
+   "Hands",
+   "Love Cry",
+   "Angel Echoes",
+   "Baby"
+  ],
+  "influencedBy": [
+   {
+    "id": "dj-shadow",
+    "why": "Sample-built instrumental records like DJ Shadow's shaped his early approach.",
+    "s": 1
+   },
+   {
+    "id": "burial",
+    "why": "He has released and recorded music with Burial.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "jamie-xx",
+    "why": "Jamie xx is a close friend and frequent DJ partner who shares his melodic club style.",
+    "s": 2
+   },
+   {
+    "id": "caribou",
+    "why": "Dan Snaith toured with Hebden early on and their sounds grew side by side.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "sufjan-stevens",
+    "why": "Delicate songcraft mixed with electronic texture."
+   },
+   {
+    "id": "madlib",
+    "why": "A crate-digging producer who builds warm records from samples."
+   }
+  ]
+ },
+ {
+  "id": "caribou",
+  "years": "2001–present",
+  "origin": "Dundas, Canada",
+  "genres": [
+   "psychedelic electronic",
+   "indietronica",
+   "house"
+  ],
+  "summary": "Dan Snaith's project, which moved from psychedelic pop to warm, emotional dance music. Andorra and Swim are among the most praised electronic albums of their years.",
+  "know": [
+   "He first recorded as Manitoba before changing the name to Caribou in 2004.",
+   "He earned a PhD in mathematics at Imperial College London.",
+   "Andorra won the Polaris Music Prize in 2008."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Up in Flames",
+    2003
+   ],
+   [
+    "Andorra",
+    2007
+   ],
+   [
+    "Swim",
+    2010
+   ],
+   [
+    "Our Love",
+    2014
+   ]
+  ],
+  "songs": [
+   "Odessa",
+   "Sun",
+   "Can't Do Without You",
+   "Melody Day",
+   "Home"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beach-boys",
+    "why": "Andorra's layered harmonies and arrangements draw on 1960s Beach Boys records.",
+    "s": 2
+   },
+   {
+    "id": "four-tet",
+    "why": "Hebden was an early friend and touring partner.",
+    "s": 2
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "tame-impala",
+    "why": "Psychedelic songs that lean into dance rhythms."
+   },
+   {
+    "id": "animal-collective",
+    "why": "Psychedelic pop built from loops and layered voices."
+   }
+  ]
+ },
+ {
+  "id": "deadmau5",
+  "years": "2005–present",
+  "origin": "Toronto, Canada",
+  "genres": [
+   "progressive house",
+   "electro house",
+   "techno"
+  ],
+  "summary": "Joel Zimmerman, a Toronto producer known for long, melodic progressive house tracks and his light-up mouse helmet. Strobe is one of the best-known dance tracks of its era.",
+  "know": [
+   "He performs in a large mouse-head helmet with LED screens.",
+   "He founded the mau5trap label in 2007.",
+   "I Remember, with Kaskade, was an early breakthrough."
+  ],
+  "born": "01-05",
+  "keyAlbums": [
+   [
+    "Random Album Title",
+    2008
+   ],
+   [
+    "For Lack of a Better Name",
+    2009
+   ],
+   [
+    "4x4=12",
+    2010
+   ],
+   [
+    "while(1<2)",
+    2014
+   ]
+  ],
+  "songs": [
+   "Strobe",
+   "Ghosts 'n' Stuff",
+   "I Remember",
+   "Some Chords",
+   "The Veldt"
+  ],
+  "influencedBy": [
+   {
+    "id": "daft-punk",
+    "why": "Daft Punk's helmeted anonymity and filtered house are a clear model.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "kiss",
+    "why": "A stage persona built around a masked look."
+   },
+   {
+    "id": "sleep-token",
+    "why": "A masked act whose identity is part of the show."
+   }
+  ]
+ },
+ {
+  "id": "skream",
+  "years": "2005–present",
+  "origin": "Croydon, England",
+  "genres": [
+   "dubstep",
+   "UK garage",
+   "disco"
+  ],
+  "summary": "A Croydon producer who helped invent dubstep in the mid-2000s. Midnight Request Line became one of the genre's first anthems.",
+  "know": [
+   "He worked at the Big Apple Records shop in Croydon, a hub of early dubstep.",
+   "He formed the group Magnetic Man with Benga and Artwork.",
+   "His remix of La Roux's In for the Kill was a big crossover hit."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Skream!",
+    2006
+   ],
+   [
+    "Outside the Box",
+    2010
+   ],
+   [
+    "Magnetic Man (Magnetic Man)",
+    2010
+   ]
+  ],
+  "songs": [
+   "Midnight Request Line",
+   "Rutten",
+   "In for the Kill (Skream's Let's Get Ravey Remix)"
+  ],
+  "influencedBy": [
+   {
+    "id": "goldie",
+    "why": "Jungle and drum and bass were the UK bass music he grew up on.",
+    "s": 1
+   },
+   {
+    "id": "king-tubby",
+    "why": "Dubstep's heavy bass and space come from dub.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "james-blake",
+    "why": "Blake's early records came out of the dubstep scene Skream helped build.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "wiley",
+    "why": "A pioneer of grime, dubstep's sibling scene in London."
+   },
+   {
+    "id": "dizzee-rascal",
+    "why": "South and east London bass music from the same years."
+   }
+  ]
+ },
+ {
+  "id": "james-blake",
+  "years": "2009–present",
+  "origin": "London, England",
+  "genres": [
+   "post-dubstep",
+   "electronic soul",
+   "art pop"
+  ],
+  "summary": "A London singer, pianist and producer who fused dubstep's space with soul singing. He has also become a sought-after collaborator for major R&B and hip hop artists.",
+  "know": [
+   "His version of Feist's Limit to Your Love was an early hit.",
+   "Overgrown won the Mercury Prize in 2013.",
+   "He worked on Beyoncé's Lemonade and Frank Ocean's Blonde."
+  ],
+  "born": "09-26",
+  "keyAlbums": [
+   [
+    "James Blake",
+    2011
+   ],
+   [
+    "Overgrown",
+    2013
+   ],
+   [
+    "The Colour in Anything",
+    2016
+   ],
+   [
+    "Assume Form",
+    2019
+   ]
+  ],
+  "songs": [
+   "Limit to Your Love",
+   "The Wilhelm Scream",
+   "Retrograde",
+   "Mile High",
+   "Say What You Will"
+  ],
+  "influencedBy": [
+   {
+    "id": "burial",
+    "why": "Burial's ghostly dubstep is the base of his early sound.",
+    "s": 2
+   },
+   {
+    "id": "joni-mitchell",
+    "why": "He has named Joni Mitchell as a major influence on his songwriting.",
+    "s": 2
+   },
+   {
+    "id": "skream",
+    "why": "He came up through the dubstep scene Skream helped build.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "beyonce",
+    "why": "He co-wrote and sang on Forward from Lemonade.",
+    "s": 2
+   },
+   {
+    "id": "frank-ocean",
+    "why": "He contributed to Frank Ocean's Blonde.",
+    "s": 2
+   },
+   {
+    "id": "bon-iver",
+    "why": "They recorded together as Fall Creek Boys Choir.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "sampha",
+    "why": "Soft, aching soul voice over electronic production."
+   },
+   {
+    "id": "bon-iver",
+    "why": "Processed vocals and spare, emotional songs."
+   }
+  ]
+ },
+ {
+  "id": "jamie-xx",
+  "years": "2009–present",
+  "origin": "London, England",
+  "genres": [
+   "UK bass",
+   "house",
+   "electronic"
+  ],
+  "summary": "The producer and beatmaker of The xx, whose solo album In Colour celebrates British club culture. His remix album with Gil Scott-Heron was also widely sampled.",
+  "know": [
+   "He reworked Gil Scott-Heron's I'm New Here into the 2011 album We're New Here.",
+   "Drake and Rihanna's Take Care is built on his remix of Scott-Heron's I'll Take Care of U.",
+   "He produced The xx's second album Coexist."
+  ],
+  "born": "10-28",
+  "keyAlbums": [
+   [
+    "We're New Here",
+    2011
+   ],
+   [
+    "Coexist (The xx)",
+    2012
+   ],
+   [
+    "In Colour",
+    2015
+   ],
+   [
+    "In Waves",
+    2024
+   ]
+  ],
+  "songs": [
+   "Gosh",
+   "Loud Places",
+   "I Know There's Gonna Be (Good Times)",
+   "Far Nearer",
+   "Waited All Night"
+  ],
+  "influencedBy": [
+   {
+    "id": "gil-scott-heron",
+    "why": "He remixed Scott-Heron's full album with the poet's approval.",
+    "s": 3
+   },
+   {
+    "id": "burial",
+    "why": "Burial's nostalgic UK garage sound shapes his production.",
+    "s": 2
+   },
+   {
+    "id": "four-tet",
+    "why": "Hebden is a close friend and frequent DJ partner.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "drake",
+    "why": "Drake's Take Care is built on his Gil Scott-Heron remix.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "mark-ronson",
+    "why": "A DJ-producer who celebrates older sounds in modern pop."
+   },
+   {
+    "id": "sampha",
+    "why": "British soul that grew up alongside the London electronic scene."
+   }
+  ]
+ }
+]

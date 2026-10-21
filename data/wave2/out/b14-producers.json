@@ -1,0 +1,5937 @@
+[
+ {
+  "id": "sam-phillips",
+  "years": "1950–1969",
+  "origin": "Memphis, Tennessee",
+  "genres": [
+   "rockabilly",
+   "rock and roll",
+   "Memphis blues"
+  ],
+  "summary": "Founder of Sun Records and the Memphis Recording Service. He recorded early sides by Elvis Presley, Johnny Cash and Howlin' Wolf and helped turn Southern blues and country into rock and roll.",
+  "know": [
+   "He recorded Ike Turner's band on Rocket 88 in 1951, often cited as an early rock and roll record.",
+   "His slapback echo became a signature of the Sun sound.",
+   "He grew up in Florence, Alabama, and was drawn to the Black blues and gospel he heard there."
+  ],
+  "born": "01-05",
+  "keyAlbums": [
+   [
+    "Sun Sessions (Elvis Presley)",
+    1954
+   ],
+   [
+    "Moanin' in the Moonlight (Howlin' Wolf)",
+    1959
+   ],
+   [
+    "With His Hot and Blue Guitar (Johnny Cash)",
+    1957
+   ],
+   [
+    "Jerry Lee Lewis (Jerry Lee Lewis)",
+    1958
+   ]
+  ],
+  "songs": [
+   "Rocket 88",
+   "That's All Right",
+   "Blue Suede Shoes",
+   "Great Balls of Fire",
+   "I Walk the Line"
+  ],
+  "influencedBy": [
+   {
+    "id": "w-c-handy",
+    "why": "Phillips grew up in Handy's hometown of Florence, Alabama, and held up Handy's blues as a model.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "elvis-presley",
+    "why": "Recorded Elvis's first Sun singles, including That's All Right in 1954.",
+    "s": 3
+   },
+   {
+    "id": "johnny-cash",
+    "why": "Signed Cash to Sun and recorded his early hits like I Walk the Line.",
+    "s": 3
+   },
+   {
+    "id": "jerry-lee-lewis",
+    "why": "Produced Whole Lotta Shakin' Goin' On and Great Balls of Fire at Sun.",
+    "s": 3
+   },
+   {
+    "id": "carl-perkins",
+    "why": "Recorded Blue Suede Shoes, Sun's first million seller.",
+    "s": 3
+   },
+   {
+    "id": "roy-orbison",
+    "why": "Cut Orbison's first single Ooby Dooby at Sun.",
+    "s": 3
+   },
+   {
+    "id": "howlin-wolf",
+    "why": "Recorded Wolf's first sides in Memphis before he moved to Chess.",
+    "s": 3
+   },
+   {
+    "id": "bb-king",
+    "why": "Recorded some of B.B. King's earliest sessions at the Memphis Recording Service.",
+    "s": 3
+   },
+   {
+    "id": "ike-turner",
+    "why": "Recorded Rocket 88 by Turner's band, credited to Jackie Brenston.",
+    "s": 3
+   },
+   {
+    "id": "rufus-thomas",
+    "why": "Recorded Bear Cat, Sun's first national hit, in 1953.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "leonard-chess",
+    "why": "Another label owner who recorded raw electric blues and shaped postwar American music."
+   },
+   {
+    "id": "coxsone-dodd-2",
+    "why": "Built a studio that turned local talent into a national sound, as Sun did in Memphis."
+   }
+  ]
+ },
+ {
+  "id": "phil-spector",
+  "years": "1958–2003",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "wall of sound",
+   "girl group",
+   "pop"
+  ],
+  "summary": "Producer and songwriter who built the Wall of Sound, layering many instruments and echo into dense mono records. His work with the Ronettes and Crystals set a template for orchestral pop.",
+  "know": [
+   "He first scored a number one hit as a member of the Teddy Bears with To Know Him Is to Love Him in 1958.",
+   "He used the Wrecking Crew session players at Gold Star Studios for most of his Philles records.",
+   "He produced the final Beatles album release, Let It Be, and solo records by John Lennon and George Harrison."
+  ],
+  "born": "12-26",
+  "keyAlbums": [
+   [
+    "A Christmas Gift for You from Philles Records (various)",
+    1963
+   ],
+   [
+    "Let It Be (The Beatles)",
+    1970
+   ],
+   [
+    "All Things Must Pass (George Harrison)",
+    1970
+   ],
+   [
+    "Imagine (John Lennon)",
+    1971
+   ]
+  ],
+  "songs": [
+   "Be My Baby",
+   "Da Doo Ron Ron",
+   "You've Lost That Lovin' Feelin'",
+   "River Deep - Mountain High"
+  ],
+  "influencedBy": [
+   {
+    "id": "leiber-and-stoller",
+    "why": "Spector apprenticed with Leiber and Stoller in New York and learned production from them.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-ronettes",
+    "why": "Produced Be My Baby and built the Ronettes' sound around his Wall of Sound.",
+    "s": 3
+   },
+   {
+    "id": "the-crystals",
+    "why": "Produced He's a Rebel and Da Doo Ron Ron for the Crystals.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "Assembled and produced the Let It Be album.",
+    "s": 3
+   },
+   {
+    "id": "john-lennon",
+    "why": "Co-produced Imagine and Plastic Ono Band.",
+    "s": 3
+   },
+   {
+    "id": "george-harrison",
+    "why": "Co-produced All Things Must Pass and its big, echoing sound.",
+    "s": 3
+   },
+   {
+    "id": "ike-turner",
+    "why": "Produced River Deep - Mountain High for Ike and Tina Turner.",
+    "s": 3
+   },
+   {
+    "id": "ramones",
+    "why": "Produced the Ramones album End of the Century.",
+    "s": 3
+   },
+   {
+    "id": "leonard-cohen",
+    "why": "Produced and co-wrote Death of a Ladies' Man.",
+    "s": 3
+   },
+   {
+    "id": "the-beach-boys",
+    "why": "Brian Wilson modeled his studio approach on Spector's records, especially Be My Baby.",
+    "s": 2
+   },
+   {
+    "id": "bruce-springsteen",
+    "why": "Springsteen aimed for a Spector-style wall of sound on Born to Run.",
+    "s": 2
+   },
+   {
+    "id": "the-jesus-and-mary-chain",
+    "why": "Built their early songs on the Be My Baby drum beat and girl-group melodies.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "lee-scratch-perry",
+    "why": "Treated the studio as an instrument and built a signature echo-heavy sound."
+   },
+   {
+    "id": "giorgio-moroder",
+    "why": "Built dense, producer-driven records where the sound mattered as much as the singer."
+   }
+  ]
+ },
+ {
+  "id": "george-martin",
+  "years": "1950–2006",
+  "origin": "London, England",
+  "genres": [
+   "British pop",
+   "baroque pop",
+   "orchestral rock"
+  ],
+  "summary": "Producer at EMI's Parlophone label who signed and produced the Beatles. His classical training and studio experiments helped make the recording studio a creative tool in rock.",
+  "know": [
+   "Before the Beatles he was known for producing comedy and novelty records at Parlophone.",
+   "He wrote and conducted the orchestral scores on songs like Eleanor Rigby and A Day in the Life.",
+   "He produced the James Bond theme Live and Let Die for Paul McCartney and Wings."
+  ],
+  "born": "01-03",
+  "keyAlbums": [
+   [
+    "Revolver (The Beatles)",
+    1966
+   ],
+   [
+    "Sgt. Pepper's Lonely Hearts Club Band (The Beatles)",
+    1967
+   ],
+   [
+    "Abbey Road (The Beatles)",
+    1969
+   ],
+   [
+    "Blow by Blow (Jeff Beck)",
+    1975
+   ]
+  ],
+  "songs": [
+   "Yesterday",
+   "Eleanor Rigby",
+   "Strawberry Fields Forever",
+   "A Day in the Life",
+   "Live and Let Die"
+  ],
+  "influencedBy": [],
+  "influenced": [
+   {
+    "id": "the-beatles",
+    "why": "Signed the Beatles and produced nearly all of their records.",
+    "s": 3
+   },
+   {
+    "id": "paul-mccartney-and-wings",
+    "why": "Produced and arranged Live and Let Die.",
+    "s": 3
+   },
+   {
+    "id": "jeff-beck",
+    "why": "Produced the jazz-rock albums Blow by Blow and Wired.",
+    "s": 3
+   },
+   {
+    "id": "cheap-trick",
+    "why": "Produced the Cheap Trick album All Shook Up.",
+    "s": 3
+   },
+   {
+    "id": "elton-john",
+    "why": "Produced the 1997 version of Candle in the Wind.",
+    "s": 3
+   },
+   {
+    "id": "electric-light-orchestra",
+    "why": "ELO built its sound on the orchestral rock Martin pioneered with the Beatles.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "teo-macero",
+    "why": "Edited and shaped recordings so much that the studio became part of the composition."
+   },
+   {
+    "id": "conny-plank",
+    "why": "A producer whose studio experiments helped define a whole national scene."
+   }
+  ]
+ },
+ {
+  "id": "quincy-jones",
+  "years": "1951–2024",
+  "origin": "Seattle, Washington",
+  "genres": [
+   "jazz",
+   "pop",
+   "R&B",
+   "film score"
+  ],
+  "summary": "Arranger, trumpeter, bandleader and producer who moved from big band jazz to pop and film. He produced Michael Jackson's Off the Wall, Thriller and Bad.",
+  "know": [
+   "As a teenager in Seattle he befriended and played with a young Ray Charles.",
+   "He arranged for Count Basie and Frank Sinatra, including Sinatra at the Sands.",
+   "He produced the 1985 charity single We Are the World."
+  ],
+  "born": "03-14",
+  "keyAlbums": [
+   [
+    "Off the Wall (Michael Jackson)",
+    1979
+   ],
+   [
+    "Thriller (Michael Jackson)",
+    1982
+   ],
+   [
+    "Bad (Michael Jackson)",
+    1987
+   ],
+   [
+    "Back on the Block (Quincy Jones)",
+    1989
+   ]
+  ],
+  "songs": [
+   "Soul Bossa Nova",
+   "Billie Jean",
+   "Rock with You",
+   "We Are the World",
+   "Fly Me to the Moon (Frank Sinatra)"
+  ],
+  "influencedBy": [
+   {
+    "id": "ray-charles",
+    "why": "Ray Charles was a teenage friend and early musical mentor in Seattle.",
+    "s": 3
+   },
+   {
+    "id": "lionel-hampton",
+    "why": "Quincy played trumpet and arranged in Hampton's band in the early 1950s.",
+    "s": 3
+   },
+   {
+    "id": "dizzy-gillespie",
+    "why": "Toured as trumpeter and musical director with Gillespie's big band in 1956.",
+    "s": 3
+   },
+   {
+    "id": "count-basie",
+    "why": "Arranged for the Basie band and learned big band writing from it.",
+    "s": 3
+   },
+   {
+    "id": "duke-ellington",
+    "why": "Cited Ellington as a model for orchestral writing and range.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "michael-jackson",
+    "why": "Produced Off the Wall, Thriller and Bad.",
+    "s": 3
+   },
+   {
+    "id": "frank-sinatra",
+    "why": "Arranged and conducted It Might as Well Be Swing and Sinatra at the Sands.",
+    "s": 3
+   },
+   {
+    "id": "dinah-washington",
+    "why": "Arranged and conducted Dinah Washington sessions for Mercury.",
+    "s": 3
+   },
+   {
+    "id": "sarah-vaughan",
+    "why": "Arranged and produced Sarah Vaughan records at Mercury.",
+    "s": 3
+   },
+   {
+    "id": "ella-fitzgerald",
+    "why": "Arranged the album Ella and Basie!",
+    "s": 3
+   },
+   {
+    "id": "count-basie",
+    "why": "Wrote the arrangements for This Time by Basie.",
+    "s": 3
+   },
+   {
+    "id": "jacob-collier",
+    "why": "Signed and mentored Collier through his management company.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "teo-macero",
+    "why": "A jazz-trained producer who shaped landmark records from the control room."
+   },
+   {
+    "id": "a-r-rahman",
+    "why": "Moves between film scoring and global pop hits with the same craft."
+   }
+  ]
+ },
+ {
+  "id": "berry-gordy",
+  "years": "1957–1988",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "Motown",
+   "soul",
+   "pop"
+  ],
+  "summary": "Songwriter, producer and founder of Motown Records. He built a hit system in Detroit that produced the Supremes, Temptations, Marvin Gaye and Stevie Wonder.",
+  "know": [
+   "He co-wrote Reet Petite and Lonely Teardrops for Jackie Wilson before founding Motown.",
+   "He started Tamla Records in 1959 with an $800 family loan.",
+   "Motown held weekly quality control meetings to pick which songs would be released."
+  ],
+  "born": "11-28",
+  "keyAlbums": [
+   [
+    "Meet the Supremes (The Supremes)",
+    1962
+   ],
+   [
+    "Diana Ross Presents the Jackson 5 (The Jackson 5)",
+    1969
+   ],
+   [
+    "Greatest Hits (Smokey Robinson and the Miracles)",
+    1965
+   ],
+   [
+    "The Temptations Sing Smokey (The Temptations)",
+    1965
+   ]
+  ],
+  "songs": [
+   "Money (That's What I Want)",
+   "Shop Around",
+   "I Want You Back",
+   "ABC",
+   "Lonely Teardrops"
+  ],
+  "influencedBy": [
+   {
+    "id": "jackie-wilson",
+    "why": "Gordy wrote hits for Wilson, and that success funded and shaped Motown.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "smokey-robinson",
+    "why": "Signed the Miracles and co-wrote Shop Around, Motown's first big hit.",
+    "s": 3
+   },
+   {
+    "id": "the-supremes",
+    "why": "Built the Supremes into Motown's biggest act.",
+    "s": 3
+   },
+   {
+    "id": "the-temptations",
+    "why": "Signed the Temptations and directed their rise at Motown.",
+    "s": 3
+   },
+   {
+    "id": "marvin-gaye",
+    "why": "Signed Gaye to Motown and released his records.",
+    "s": 3
+   },
+   {
+    "id": "stevie-wonder",
+    "why": "Signed Stevie Wonder at age 11.",
+    "s": 3
+   },
+   {
+    "id": "the-jackson-5",
+    "why": "Signed the Jackson 5 and co-wrote I Want You Back as part of The Corporation.",
+    "s": 3
+   },
+   {
+    "id": "mary-wells",
+    "why": "Mary Wells was one of Motown's first stars under Gordy.",
+    "s": 3
+   },
+   {
+    "id": "four-tops",
+    "why": "Signed the Four Tops to Motown in 1963.",
+    "s": 3
+   },
+   {
+    "id": "martha-and-the-vandellas",
+    "why": "Martha Reeves came up from Motown's office to become a Gordy-era star.",
+    "s": 3
+   },
+   {
+    "id": "the-marvelettes",
+    "why": "Released Please Mr. Postman, Motown's first number one pop hit.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "leonard-chess",
+    "why": "A label founder who built a hit roster out of his city's talent."
+   },
+   {
+    "id": "coxsone-dodd-2",
+    "why": "Ran a hit-making studio and label that defined a city's sound."
+   }
+  ]
+ },
+ {
+  "id": "holland-dozier-holland",
+  "years": "1962–1977",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "Motown",
+   "soul",
+   "pop"
+  ],
+  "summary": "Songwriting and production team of Lamont Dozier and brothers Brian and Eddie Holland. They wrote and produced many of Motown's biggest hits for the Supremes and Four Tops.",
+  "know": [
+   "They wrote ten number one hits for the Supremes, including Where Did Our Love Go and Stop! In the Name of Love.",
+   "They left Motown in 1968 and founded the Invictus and Hot Wax labels.",
+   "Brian Holland co-wrote Please Mr. Postman before the trio formed."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Where Did Our Love Go (The Supremes)",
+    1964
+   ],
+   [
+    "Four Tops Second Album (Four Tops)",
+    1965
+   ],
+   [
+    "Reach Out (Four Tops)",
+    1967
+   ],
+   [
+    "Heat Wave (Martha and the Vandellas)",
+    1963
+   ]
+  ],
+  "songs": [
+   "Where Did Our Love Go",
+   "Baby Love",
+   "Reach Out I'll Be There",
+   "Heat Wave",
+   "How Sweet It Is (To Be Loved by You)"
+  ],
+  "influencedBy": [
+   {
+    "id": "berry-gordy",
+    "why": "Worked as staff writers under Gordy and followed his hit-making system.",
+    "s": 3
+   },
+   {
+    "id": "smokey-robinson",
+    "why": "Smokey's tight pop songwriting was the house standard at early Motown.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-supremes",
+    "why": "Wrote and produced the Supremes' run of number one hits.",
+    "s": 3
+   },
+   {
+    "id": "four-tops",
+    "why": "Wrote and produced I Can't Help Myself and Reach Out I'll Be There.",
+    "s": 3
+   },
+   {
+    "id": "martha-and-the-vandellas",
+    "why": "Wrote and produced Heat Wave and Nowhere to Run.",
+    "s": 3
+   },
+   {
+    "id": "the-marvelettes",
+    "why": "Brian Holland co-wrote and co-produced Please Mr. Postman.",
+    "s": 3
+   },
+   {
+    "id": "marvin-gaye",
+    "why": "Wrote and produced How Sweet It Is (To Be Loved by You).",
+    "s": 3
+   },
+   {
+    "id": "the-isley-brothers",
+    "why": "Wrote and produced This Old Heart of Mine for the Isleys at Motown.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "leiber-and-stoller",
+    "why": "Another writer-producer team that defined a label's hit sound."
+   },
+   {
+    "id": "max-martin",
+    "why": "A songwriting and production shop built to turn out polished pop hits."
+   }
+  ]
+ },
+ {
+  "id": "funk-brothers",
+  "years": "1959–1972",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "Motown",
+   "soul",
+   "session musicians"
+  ],
+  "summary": "The house band that played on most Motown hits in Detroit. Bassist James Jamerson, drummer Benny Benjamin and keyboardist Earl Van Dyke anchored the label's sound.",
+  "know": [
+   "They recorded in Motown's small Studio A, known as the Snakepit.",
+   "Many members came from Detroit's jazz club scene and played jazz gigs at night.",
+   "They were rarely credited on records until the 2002 documentary Standing in the Shadows of Motown."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "What's Going On (Marvin Gaye)",
+    1971
+   ],
+   [
+    "My Girl (The Temptations)",
+    1965
+   ],
+   [
+    "I Heard It Through the Grapevine (Marvin Gaye)",
+    1968
+   ],
+   [
+    "Reach Out (Four Tops)",
+    1967
+   ]
+  ],
+  "songs": [
+   "My Girl",
+   "I Heard It Through the Grapevine",
+   "Bernadette",
+   "What's Going On",
+   "Ain't No Mountain High Enough"
+  ],
+  "influencedBy": [
+   {
+    "id": "berry-gordy",
+    "why": "Gordy hired them as Motown's in-house studio band.",
+    "s": 3
+   },
+   {
+    "id": "holland-dozier-holland",
+    "why": "Played the arrangements Holland-Dozier-Holland wrote for their hits.",
+    "s": 3
+   },
+   {
+    "id": "norman-whitfield",
+    "why": "Played on Whitfield's psychedelic soul productions for the Temptations.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "marvin-gaye",
+    "why": "Played on What's Going On, with Jamerson's bass lines at the center.",
+    "s": 3
+   },
+   {
+    "id": "the-temptations",
+    "why": "Backed the Temptations on My Girl and their later hits.",
+    "s": 3
+   },
+   {
+    "id": "the-supremes",
+    "why": "Played on the Supremes' string of number ones.",
+    "s": 3
+   },
+   {
+    "id": "stevie-wonder",
+    "why": "Backed Stevie Wonder's 1960s Motown singles.",
+    "s": 3
+   },
+   {
+    "id": "four-tops",
+    "why": "Played on Reach Out I'll Be There and Bernadette.",
+    "s": 3
+   },
+   {
+    "id": "smokey-robinson",
+    "why": "Played on the Miracles' Motown hits like The Tracks of My Tears.",
+    "s": 3
+   },
+   {
+    "id": "martha-and-the-vandellas",
+    "why": "Played on Heat Wave and Dancing in the Street.",
+    "s": 3
+   },
+   {
+    "id": "gladys-knight-and-the-pips",
+    "why": "Played on Gladys Knight's version of I Heard It Through the Grapevine.",
+    "s": 3
+   },
+   {
+    "id": "paul-mccartney-and-wings",
+    "why": "McCartney has cited James Jamerson as a major influence on his bass playing.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "wrecking-crew",
+    "why": "The West Coast counterpart: unnamed session players behind a decade of hits."
+   },
+   {
+    "id": "sly-and-robbie",
+    "why": "A rhythm section that played on a huge share of one genre's records."
+   }
+  ]
+ },
+ {
+  "id": "wrecking-crew",
+  "years": "1960–1975",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "session musicians",
+   "pop",
+   "sunshine pop"
+  ],
+  "summary": "A loose group of Los Angeles studio musicians, including Hal Blaine, Carol Kaye and Glen Campbell, who played on hundreds of 1960s hits. They were the band behind Phil Spector and the Beach Boys.",
+  "know": [
+   "Drummer Hal Blaine played on dozens of number one singles.",
+   "Carol Kaye played bass on many Beach Boys sessions, including parts of Pet Sounds.",
+   "Glen Campbell worked as a Wrecking Crew guitarist before his solo career."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Pet Sounds (The Beach Boys)",
+    1966
+   ],
+   [
+    "Mr. Tambourine Man (The Byrds)",
+    1965
+   ],
+   [
+    "Bridge over Troubled Water (Simon and Garfunkel)",
+    1970
+   ],
+   [
+    "A Christmas Gift for You from Philles Records (various)",
+    1963
+   ]
+  ],
+  "songs": [
+   "Be My Baby",
+   "Good Vibrations",
+   "Mr. Tambourine Man",
+   "Wichita Lineman",
+   "Strangers in the Night"
+  ],
+  "influencedBy": [
+   {
+    "id": "phil-spector",
+    "why": "Spector used them for his Wall of Sound sessions at Gold Star Studios.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-beach-boys",
+    "why": "Played on Pet Sounds and Good Vibrations under Brian Wilson.",
+    "s": 3
+   },
+   {
+    "id": "the-ronettes",
+    "why": "Played on Be My Baby and other Ronettes records.",
+    "s": 3
+   },
+   {
+    "id": "the-crystals",
+    "why": "Backed the Crystals on their Spector productions.",
+    "s": 3
+   },
+   {
+    "id": "the-byrds",
+    "why": "Played on the Byrds' Mr. Tambourine Man single alongside Roger McGuinn.",
+    "s": 3
+   },
+   {
+    "id": "simon-garfunkel",
+    "why": "Played on Bridge over Troubled Water and other Simon and Garfunkel sessions.",
+    "s": 3
+   },
+   {
+    "id": "frank-sinatra",
+    "why": "Played on Strangers in the Night and Sinatra's 1960s Reprise sessions.",
+    "s": 3
+   },
+   {
+    "id": "glen-campbell",
+    "why": "Campbell was a member, and the group backed his hits like Wichita Lineman.",
+    "s": 3
+   },
+   {
+    "id": "ike-turner",
+    "why": "Played on River Deep - Mountain High.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "funk-brothers",
+    "why": "Motown's equivalent: the studio band behind a whole era of hits."
+   },
+   {
+    "id": "nashville-a-team",
+    "why": "Nashville's first-call session players, doing the same job for country."
+   }
+  ]
+ },
+ {
+  "id": "muscle-shoals-rhythm-section",
+  "years": "1967–1985",
+  "origin": "Muscle Shoals, Alabama",
+  "genres": [
+   "Southern soul",
+   "session musicians",
+   "rock"
+  ],
+  "summary": "The studio band known as the Swampers: Barry Beckett, Roger Hawkins, David Hood and Jimmy Johnson. They backed soul and rock stars first at FAME and then at their own Muscle Shoals Sound Studio.",
+  "know": [
+   "They left FAME in 1969 to open Muscle Shoals Sound Studio at 3614 Jackson Highway.",
+   "Lynyrd Skynyrd named them in the song Sweet Home Alabama.",
+   "Jerry Wexler sent many Atlantic artists to record with them."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "I Never Loved a Man the Way I Love You (Aretha Franklin)",
+    1967
+   ],
+   [
+    "Sticky Fingers (The Rolling Stones)",
+    1971
+   ],
+   [
+    "Be Altitude: Respect Yourself (The Staple Singers)",
+    1972
+   ],
+   [
+    "Slow Train Coming (Bob Dylan)",
+    1979
+   ]
+  ],
+  "songs": [
+   "I Never Loved a Man (The Way I Love You)",
+   "I'll Take You There",
+   "Brown Sugar",
+   "Old Time Rock and Roll",
+   "Kodachrome"
+  ],
+  "influencedBy": [
+   {
+    "id": "jerry-wexler",
+    "why": "Wexler brought Atlantic acts to them and backed their studio.",
+    "s": 3
+   },
+   {
+    "id": "booker-t",
+    "why": "Booker T. and the MG's showed how a house band could define a studio's sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "aretha-franklin",
+    "why": "Played on I Never Loved a Man the Way I Love You at FAME.",
+    "s": 3
+   },
+   {
+    "id": "wilson-pickett",
+    "why": "Backed Pickett's FAME sessions, including Hey Jude with Duane Allman.",
+    "s": 3
+   },
+   {
+    "id": "the-staple-singers",
+    "why": "Played on I'll Take You There and Respect Yourself.",
+    "s": 3
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Hosted the sessions for Brown Sugar and Wild Horses.",
+    "s": 3
+   },
+   {
+    "id": "bob-seger",
+    "why": "Played on Old Time Rock and Roll and other Seger records.",
+    "s": 3
+   },
+   {
+    "id": "rod-stewart",
+    "why": "Played on Atlantic Crossing.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Barry Beckett co-produced Slow Train Coming and the group played on it.",
+    "s": 3
+   },
+   {
+    "id": "traffic",
+    "why": "David Hood and Roger Hawkins toured and recorded with Traffic in 1973.",
+    "s": 3
+   },
+   {
+    "id": "lynyrd-skynyrd",
+    "why": "Recorded early Skynyrd demos and were named in Sweet Home Alabama.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "nashville-a-team",
+    "why": "Southern session players who made a small studio scene world famous."
+   },
+   {
+    "id": "sly-and-robbie",
+    "why": "A rhythm section that played on hit after hit for many different stars."
+   }
+  ]
+ },
+ {
+  "id": "leiber-and-stoller",
+  "years": "1950–1975",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "rhythm and blues",
+   "rock and roll",
+   "pop"
+  ],
+  "summary": "Songwriters and producers Jerry Leiber and Mike Stoller. They wrote Hound Dog and Jailhouse Rock and produced the Coasters and Drifters, among the first independent record producers in pop.",
+  "know": [
+   "They met in Los Angeles as teenagers in 1950 and began writing blues songs together.",
+   "Big Mama Thornton recorded their song Hound Dog in 1952, years before Elvis.",
+   "Phil Spector worked under them in New York early in his career."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Coasters (The Coasters)",
+    1957
+   ],
+   [
+    "Jailhouse Rock EP (Elvis Presley)",
+    1957
+   ],
+   [
+    "Save the Last Dance for Me (The Drifters)",
+    1960
+   ],
+   [
+    "Is That All There Is? (Peggy Lee)",
+    1969
+   ]
+  ],
+  "songs": [
+   "Hound Dog",
+   "Yakety Yak",
+   "Stand by Me",
+   "Jailhouse Rock",
+   "On Broadway"
+  ],
+  "influencedBy": [
+   {
+    "id": "big-joe-turner",
+    "why": "They modeled their early songs on the blues shouters they heard in Los Angeles, like Turner.",
+    "s": 1
+   },
+   {
+    "id": "charles-brown",
+    "why": "Charles Brown recorded their early song Hard Times in 1952.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "big-mama-thornton",
+    "why": "Wrote and produced Hound Dog for Thornton.",
+    "s": 3
+   },
+   {
+    "id": "elvis-presley",
+    "why": "Wrote Jailhouse Rock, Hound Dog and other Elvis songs.",
+    "s": 3
+   },
+   {
+    "id": "the-coasters",
+    "why": "Wrote and produced Yakety Yak, Charlie Brown and Searchin'.",
+    "s": 3
+   },
+   {
+    "id": "the-drifters",
+    "why": "Produced There Goes My Baby with strings, a new sound for R&B.",
+    "s": 3
+   },
+   {
+    "id": "ben-e-king",
+    "why": "Produced and co-wrote Stand by Me.",
+    "s": 3
+   },
+   {
+    "id": "phil-spector",
+    "why": "Trained Spector as a producer in their New York office.",
+    "s": 3
+   },
+   {
+    "id": "peggy-lee",
+    "why": "Wrote and produced Is That All There Is?",
+    "s": 3
+   },
+   {
+    "id": "the-shangri-las",
+    "why": "Released the Shangri-Las through their Red Bird label.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "holland-dozier-holland",
+    "why": "A writer-producer team that wrote a label's hits in-house."
+   },
+   {
+    "id": "gamble-and-huff",
+    "why": "Another songwriting pair who ran the studio side and defined a sound."
+   }
+  ]
+ },
+ {
+  "id": "tom-dowd",
+  "years": "1947–2002",
+  "origin": "New York, New York",
+  "genres": [
+   "soul",
+   "Southern rock",
+   "jazz",
+   "recording engineering"
+  ],
+  "summary": "Engineer and producer at Atlantic Records who worked on soul, jazz and rock records for five decades. He pushed early adoption of eight-track recording and produced Layla and the Allman Brothers.",
+  "know": [
+   "He worked on the Manhattan Project as a young physics student before turning to recording.",
+   "He was among the first engineers to record on an eight-track machine, at Atlantic in the late 1950s.",
+   "He engineered John Coltrane's Giant Steps and Ornette Coleman's The Shape of Jazz to Come."
+  ],
+  "born": "10-20",
+  "keyAlbums": [
+   [
+    "Layla and Other Assorted Love Songs (Derek and the Dominos)",
+    1970
+   ],
+   [
+    "At Fillmore East (The Allman Brothers Band)",
+    1971
+   ],
+   [
+    "461 Ocean Boulevard (Eric Clapton)",
+    1974
+   ],
+   [
+    "Dusty in Memphis (Dusty Springfield)",
+    1969
+   ]
+  ],
+  "songs": [
+   "Layla",
+   "Respect",
+   "Whipping Post",
+   "Sunshine of Your Love",
+   "Son of a Preacher Man"
+  ],
+  "influencedBy": [
+   {
+    "id": "ahmet-ertegun",
+    "why": "Ertegun hired Dowd and gave him room to build Atlantic's studio.",
+    "s": 3
+   },
+   {
+    "id": "jerry-wexler",
+    "why": "Worked as Wexler's engineer on Atlantic's soul sessions.",
+    "s": 3
+   },
+   {
+    "id": "les-paul",
+    "why": "Followed Les Paul's lead in multitrack recording.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "aretha-franklin",
+    "why": "Engineered Aretha's Atlantic records, including Respect.",
+    "s": 3
+   },
+   {
+    "id": "ray-charles",
+    "why": "Engineered Ray Charles's Atlantic sessions like What'd I Say.",
+    "s": 3
+   },
+   {
+    "id": "the-allman-brothers",
+    "why": "Produced Idlewild South and At Fillmore East.",
+    "s": 3
+   },
+   {
+    "id": "eric-clapton",
+    "why": "Produced Layla and 461 Ocean Boulevard.",
+    "s": 3
+   },
+   {
+    "id": "cream",
+    "why": "Engineered Disraeli Gears.",
+    "s": 3
+   },
+   {
+    "id": "lynyrd-skynyrd",
+    "why": "Produced One More from the Road and Gimme Back My Bullets.",
+    "s": 3
+   },
+   {
+    "id": "rod-stewart",
+    "why": "Produced Atlantic Crossing and A Night on the Town.",
+    "s": 3
+   },
+   {
+    "id": "john-coltrane",
+    "why": "Engineered Giant Steps.",
+    "s": 3
+   },
+   {
+    "id": "ornette-coleman",
+    "why": "Engineered The Shape of Jazz to Come.",
+    "s": 3
+   },
+   {
+    "id": "the-drifters",
+    "why": "Engineered the Drifters' Atlantic singles.",
+    "s": 3
+   },
+   {
+    "id": "the-coasters",
+    "why": "Engineered the Coasters' Atlantic hits.",
+    "s": 3
+   },
+   {
+    "id": "dusty-springfield",
+    "why": "Co-produced Dusty in Memphis with Wexler and Arif Mardin.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "rudy-van-gelder",
+    "why": "An engineer whose recordings defined how a genre sounded."
+   },
+   {
+    "id": "steve-albini",
+    "why": "An engineer-first recordist who cared about capturing a band live."
+   }
+  ]
+ },
+ {
+  "id": "jerry-wexler",
+  "years": "1953–1990",
+  "origin": "New York, New York",
+  "genres": [
+   "soul",
+   "rhythm and blues",
+   "Southern soul"
+  ],
+  "summary": "Music journalist turned Atlantic Records partner and producer. He coined the term rhythm and blues at Billboard and produced Aretha Franklin's breakthrough records.",
+  "know": [
+   "As a Billboard writer in 1949 he proposed rhythm and blues as a chart name.",
+   "He took Aretha Franklin to FAME Studios in Muscle Shoals in 1967.",
+   "He produced Bob Dylan's Slow Train Coming in 1979."
+  ],
+  "born": "01-10",
+  "keyAlbums": [
+   [
+    "I Never Loved a Man the Way I Love You (Aretha Franklin)",
+    1967
+   ],
+   [
+    "Dusty in Memphis (Dusty Springfield)",
+    1969
+   ],
+   [
+    "Slow Train Coming (Bob Dylan)",
+    1979
+   ],
+   [
+    "Gumbo (Dr. John)",
+    1972
+   ]
+  ],
+  "songs": [
+   "Respect",
+   "In the Midnight Hour",
+   "Son of a Preacher Man",
+   "Gotta Serve Somebody",
+   "Iko Iko"
+  ],
+  "influencedBy": [
+   {
+    "id": "ahmet-ertegun",
+    "why": "Joined Ertegun as a partner at Atlantic in 1953.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "aretha-franklin",
+    "why": "Produced Aretha's Atlantic albums, starting with I Never Loved a Man.",
+    "s": 3
+   },
+   {
+    "id": "ray-charles",
+    "why": "Co-produced Ray Charles's Atlantic recordings with Ertegun.",
+    "s": 3
+   },
+   {
+    "id": "wilson-pickett",
+    "why": "Produced In the Midnight Hour at Stax.",
+    "s": 3
+   },
+   {
+    "id": "dusty-springfield",
+    "why": "Produced Dusty in Memphis.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Produced Slow Train Coming in Muscle Shoals.",
+    "s": 3
+   },
+   {
+    "id": "dire-straits",
+    "why": "Co-produced Communique.",
+    "s": 3
+   },
+   {
+    "id": "willie-nelson",
+    "why": "Signed Nelson to Atlantic and produced Phases and Stages.",
+    "s": 3
+   },
+   {
+    "id": "solomon-burke",
+    "why": "Produced Solomon Burke's Atlantic soul records.",
+    "s": 3
+   },
+   {
+    "id": "the-drifters",
+    "why": "Co-produced Drifters sessions for Atlantic.",
+    "s": 3
+   },
+   {
+    "id": "dr-john",
+    "why": "Produced Gumbo.",
+    "s": 3
+   },
+   {
+    "id": "sam-and-dave",
+    "why": "Brought Sam and Dave to Stax through Atlantic's distribution deal.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "leonard-chess",
+    "why": "A label man whose ear shaped the records of a whole blues generation."
+   },
+   {
+    "id": "billy-sherrill",
+    "why": "A producer who shaped a singer's breakthrough sound in another genre."
+   }
+  ]
+ },
+ {
+  "id": "ahmet-ertegun",
+  "years": "1947–2006",
+  "origin": "Washington, D.C.",
+  "genres": [
+   "rhythm and blues",
+   "soul",
+   "rock"
+  ],
+  "summary": "Co-founder of Atlantic Records with Herb Abramson in 1947. He signed and wrote for early R&B acts, then brought Led Zeppelin and Crosby, Stills and Nash to the label.",
+  "know": [
+   "He was the son of the Turkish ambassador and grew up collecting jazz records in Washington.",
+   "He wrote songs under the name A. Nugetre, including Mess Around for Ray Charles.",
+   "He co-founded the Rock and Roll Hall of Fame Foundation."
+  ],
+  "born": "07-31",
+  "keyAlbums": [
+   [
+    "Ray Charles (Ray Charles)",
+    1957
+   ],
+   [
+    "Led Zeppelin (Led Zeppelin)",
+    1969
+   ],
+   [
+    "Crosby, Stills and Nash (Crosby, Stills and Nash)",
+    1969
+   ],
+   [
+    "Rock and Roll (Ruth Brown)",
+    1957
+   ]
+  ],
+  "songs": [
+   "Mess Around",
+   "Chains of Love",
+   "Shake, Rattle and Roll",
+   "Mama, He Treats Your Daughter Mean"
+  ],
+  "influencedBy": [
+   {
+    "id": "duke-ellington",
+    "why": "Seeing Ellington live as a boy in London sparked his love of American music.",
+    "s": 2
+   },
+   {
+    "id": "cab-calloway",
+    "why": "Saw Calloway's band on the same childhood trip and cited it as formative.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "ray-charles",
+    "why": "Signed Ray Charles and wrote Mess Around for him.",
+    "s": 3
+   },
+   {
+    "id": "ruth-brown",
+    "why": "Signed Ruth Brown, whose hits helped keep early Atlantic afloat.",
+    "s": 3
+   },
+   {
+    "id": "big-joe-turner",
+    "why": "Signed Turner and produced Shake, Rattle and Roll.",
+    "s": 3
+   },
+   {
+    "id": "the-drifters",
+    "why": "Signed Clyde McPhatter's Drifters to Atlantic.",
+    "s": 3
+   },
+   {
+    "id": "the-coasters",
+    "why": "Released the Coasters on Atlantic's Atco label.",
+    "s": 3
+   },
+   {
+    "id": "led-zeppelin",
+    "why": "Signed Led Zeppelin to Atlantic in 1968.",
+    "s": 3
+   },
+   {
+    "id": "crosby-stills-nash",
+    "why": "Brought the trio together on Atlantic.",
+    "s": 3
+   },
+   {
+    "id": "buffalo-springfield",
+    "why": "Signed Buffalo Springfield to Atco.",
+    "s": 3
+   },
+   {
+    "id": "cream",
+    "why": "Released Cream's records in the US on Atco.",
+    "s": 3
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Signed Rolling Stones Records to an Atlantic distribution deal in 1971.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "leonard-chess",
+    "why": "A fellow independent label founder who built a catalog of Black American music."
+   },
+   {
+    "id": "coxsone-dodd-2",
+    "why": "Built a label that recorded a nation's first wave of stars."
+   }
+  ]
+ },
+ {
+  "id": "rick-rubin",
+  "years": "1984–present",
+  "origin": "New York, New York",
+  "genres": [
+   "hip hop",
+   "hard rock",
+   "Americana"
+  ],
+  "summary": "Producer and co-founder of Def Jam Recordings. He made stripped-down records for the Beastie Boys, Run-DMC and Slayer, then revived Johnny Cash with the American Recordings series.",
+  "know": [
+   "He started Def Jam from his NYU dorm room in 1984 and later partnered with Russell Simmons.",
+   "He produced Run-DMC's cover of Walk This Way with Aerosmith.",
+   "His American Recordings series with Johnny Cash ran from 1994 to after Cash's death."
+  ],
+  "born": "03-10",
+  "keyAlbums": [
+   [
+    "Licensed to Ill (Beastie Boys)",
+    1986
+   ],
+   [
+    "Reign in Blood (Slayer)",
+    1986
+   ],
+   [
+    "Blood Sugar Sex Magik (Red Hot Chili Peppers)",
+    1991
+   ],
+   [
+    "American Recordings (Johnny Cash)",
+    1994
+   ]
+  ],
+  "songs": [
+   "Walk This Way",
+   "Fight for Your Right",
+   "Give It Away",
+   "Hurt",
+   "99 Problems"
+  ],
+  "influencedBy": [
+   {
+    "id": "ac-dc",
+    "why": "Rubin has said AC/DC's lean hard rock is his model for a perfect band sound.",
+    "s": 2
+   },
+   {
+    "id": "run-dmc",
+    "why": "Run-DMC's spare drum machine records shaped his early Def Jam beats.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "beastie-boys",
+    "why": "Produced Licensed to Ill.",
+    "s": 3
+   },
+   {
+    "id": "ll-cool-j",
+    "why": "Produced Radio, LL Cool J's first album.",
+    "s": 3
+   },
+   {
+    "id": "run-dmc",
+    "why": "Co-produced Raising Hell and Walk This Way.",
+    "s": 3
+   },
+   {
+    "id": "public-enemy",
+    "why": "Signed Public Enemy to Def Jam.",
+    "s": 3
+   },
+   {
+    "id": "slayer",
+    "why": "Produced Reign in Blood.",
+    "s": 3
+   },
+   {
+    "id": "red-hot-chili-peppers",
+    "why": "Produced Blood Sugar Sex Magik and later albums.",
+    "s": 3
+   },
+   {
+    "id": "johnny-cash",
+    "why": "Produced the American Recordings series.",
+    "s": 3
+   },
+   {
+    "id": "the-black-crowes",
+    "why": "Signed them and released Shake Your Money Maker.",
+    "s": 3
+   },
+   {
+    "id": "tom-petty",
+    "why": "Produced Wildflowers.",
+    "s": 3
+   },
+   {
+    "id": "system-of-a-down",
+    "why": "Produced Toxicity.",
+    "s": 3
+   },
+   {
+    "id": "jay-z",
+    "why": "Produced 99 Problems.",
+    "s": 3
+   },
+   {
+    "id": "adele",
+    "why": "Produced several songs on 21.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "t-bone-burnett",
+    "why": "A roots-minded producer who strips records down to the song."
+   },
+   {
+    "id": "dave-cobb",
+    "why": "Makes plain, live-sounding records that put the singer up front."
+   }
+  ]
+ },
+ {
+  "id": "nigel-godrich",
+  "years": "1994–present",
+  "origin": "London, England",
+  "genres": [
+   "art rock",
+   "alternative",
+   "electronic"
+  ],
+  "summary": "Producer and engineer best known for his long partnership with Radiohead, often called their sixth member. He also produced Beck's Sea Change and formed Atoms for Peace.",
+  "know": [
+   "He engineered Radiohead's The Bends before producing OK Computer.",
+   "He created the live session series From the Basement.",
+   "He produced Paul McCartney's Chaos and Creation in the Backyard."
+  ],
+  "born": "02-28",
+  "keyAlbums": [
+   [
+    "OK Computer (Radiohead)",
+    1997
+   ],
+   [
+    "Kid A (Radiohead)",
+    2000
+   ],
+   [
+    "Sea Change (Beck)",
+    2002
+   ],
+   [
+    "The Man Who (Travis)",
+    1999
+   ]
+  ],
+  "songs": [
+   "Paranoid Android",
+   "Everything in Its Right Place",
+   "Lost Cause",
+   "Why Does It Always Rain on Me?"
+  ],
+  "influencedBy": [
+   {
+    "id": "brian-eno",
+    "why": "Godrich's textured studio approach follows the path Eno opened with ambient and art rock production.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "radiohead",
+    "why": "Produced every Radiohead album from OK Computer on.",
+    "s": 3
+   },
+   {
+    "id": "beck",
+    "why": "Produced Mutations and Sea Change.",
+    "s": 3
+   },
+   {
+    "id": "travis",
+    "why": "Produced The Man Who and The Invisible Band.",
+    "s": 3
+   },
+   {
+    "id": "air",
+    "why": "Produced Talkie Walkie and Pocket Symphony.",
+    "s": 3
+   },
+   {
+    "id": "pavement",
+    "why": "Produced Terror Twilight.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "brian-eno",
+    "why": "A producer who treats sound and texture as part of the songwriting."
+   },
+   {
+    "id": "aaron-dessner",
+    "why": "A producer with a long band partnership and a careful, layered sound."
+   }
+  ]
+ },
+ {
+  "id": "mutt-lange",
+  "years": "1972–present",
+  "origin": "London, England",
+  "genres": [
+   "hard rock",
+   "arena rock",
+   "country pop"
+  ],
+  "summary": "Robert John 'Mutt' Lange, a Zambian-born producer and songwriter known for meticulous, layered records. He produced AC/DC's Back in Black, Def Leppard's Hysteria and Shania Twain's Come On Over.",
+  "know": [
+   "He was born in Zambia and grew up in South Africa before moving to London in the early 1970s.",
+   "He is known for stacked vocal harmonies built from many overdubs.",
+   "He co-wrote and produced Bryan Adams's (Everything I Do) I Do It for You."
+  ],
+  "born": "11-11",
+  "keyAlbums": [
+   [
+    "Back in Black (AC/DC)",
+    1980
+   ],
+   [
+    "Hysteria (Def Leppard)",
+    1987
+   ],
+   [
+    "Come On Over (Shania Twain)",
+    1997
+   ],
+   [
+    "4 (Foreigner)",
+    1981
+   ]
+  ],
+  "songs": [
+   "Back in Black",
+   "Pour Some Sugar on Me",
+   "You Shook Me All Night Long",
+   "(Everything I Do) I Do It for You",
+   "Man! I Feel Like a Woman!"
+  ],
+  "influencedBy": [],
+  "influenced": [
+   {
+    "id": "ac-dc",
+    "why": "Produced Highway to Hell, Back in Black and For Those About to Rock.",
+    "s": 3
+   },
+   {
+    "id": "def-leppard",
+    "why": "Produced High 'n' Dry, Pyromania and Hysteria.",
+    "s": 3
+   },
+   {
+    "id": "foreigner",
+    "why": "Co-produced Foreigner's album 4.",
+    "s": 3
+   },
+   {
+    "id": "the-cars",
+    "why": "Produced Heartbeat City.",
+    "s": 3
+   },
+   {
+    "id": "bryan-adams",
+    "why": "Produced and co-wrote Waking Up the Neighbours.",
+    "s": 3
+   },
+   {
+    "id": "shania-twain",
+    "why": "Produced and co-wrote The Woman in Me, Come On Over and Up!",
+    "s": 3
+   },
+   {
+    "id": "muse",
+    "why": "Produced Drones.",
+    "s": 3
+   },
+   {
+    "id": "max-martin",
+    "why": "Max Martin has cited Lange's records as a model for big, precise pop production.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "max-martin",
+    "why": "A perfectionist hitmaker known for big choruses and layered vocals."
+   },
+   {
+    "id": "billy-sherrill",
+    "why": "Built glossy, crossover country records with a producer's firm hand."
+   }
+  ]
+ },
+ {
+  "id": "max-martin",
+  "years": "1993–present",
+  "origin": "Stockholm, Sweden",
+  "genres": [
+   "teen pop",
+   "dance pop",
+   "pop"
+  ],
+  "summary": "Swedish songwriter and producer behind more than twenty US number one singles. He wrote and produced hits for the Backstreet Boys, Britney Spears, Taylor Swift and The Weeknd.",
+  "know": [
+   "He started as the singer of the glam metal band It's Alive before turning to production.",
+   "He learned his craft under producer Denniz Pop at Cheiron Studios in Stockholm.",
+   "He co-wrote ...Baby One More Time for Britney Spears."
+  ],
+  "born": "02-26",
+  "keyAlbums": [
+   [
+    "Millennium (Backstreet Boys)",
+    1999
+   ],
+   [
+    "...Baby One More Time (Britney Spears)",
+    1999
+   ],
+   [
+    "1989 (Taylor Swift)",
+    2014
+   ],
+   [
+    "Beauty Behind the Madness (The Weeknd)",
+    2015
+   ]
+  ],
+  "songs": [
+   "...Baby One More Time",
+   "I Want It That Way",
+   "Since U Been Gone",
+   "Shake It Off",
+   "Blinding Lights"
+  ],
+  "influencedBy": [
+   {
+    "id": "abba",
+    "why": "Martin has pointed to ABBA's Swedish pop craft and big melodies as a foundation.",
+    "s": 2
+   },
+   {
+    "id": "kiss",
+    "why": "Cited Kiss as his first musical love and the reason he wanted to make music.",
+    "s": 2
+   },
+   {
+    "id": "mutt-lange",
+    "why": "Studied Lange's hard rock productions and their layered choruses.",
+    "s": 2
+   },
+   {
+    "id": "def-leppard",
+    "why": "Def Leppard's glossy hooks shaped his early band and sense of a chorus.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "backstreet-boys",
+    "why": "Wrote and produced Everybody and I Want It That Way.",
+    "s": 3
+   },
+   {
+    "id": "britney-spears",
+    "why": "Co-wrote and produced ...Baby One More Time and Oops!... I Did It Again.",
+    "s": 3
+   },
+   {
+    "id": "nsync",
+    "why": "Co-wrote and produced It's Gonna Be Me.",
+    "s": 3
+   },
+   {
+    "id": "kelly-clarkson",
+    "why": "Co-wrote and produced Since U Been Gone.",
+    "s": 3
+   },
+   {
+    "id": "katy-perry",
+    "why": "Co-wrote and produced I Kissed a Girl and Roar.",
+    "s": 3
+   },
+   {
+    "id": "taylor-swift",
+    "why": "Co-wrote and produced most of 1989, including Shake It Off.",
+    "s": 3
+   },
+   {
+    "id": "the-weeknd",
+    "why": "Co-wrote and produced Can't Feel My Face and Blinding Lights.",
+    "s": 3
+   },
+   {
+    "id": "ariana-grande",
+    "why": "Produced Problem and 7 Rings.",
+    "s": 3
+   },
+   {
+    "id": "pink",
+    "why": "Co-wrote and produced So What and Raise Your Glass.",
+    "s": 3
+   },
+   {
+    "id": "robyn",
+    "why": "Co-wrote and produced songs on Robyn's first album.",
+    "s": 3
+   },
+   {
+    "id": "justin-timberlake",
+    "why": "Co-wrote and produced Can't Stop the Feeling!",
+    "s": 3
+   },
+   {
+    "id": "dr-luke",
+    "why": "Mentored Dr. Luke, and they co-wrote many hits together.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "mutt-lange",
+    "why": "A precise, chorus-first producer from rock and country."
+   },
+   {
+    "id": "calvin-harris",
+    "why": "Writes and produces hits for big-name singers from the dance world."
+   }
+  ]
+ },
+ {
+  "id": "jimmy-jam-and-terry-lewis",
+  "years": "1981–present",
+  "origin": "Minneapolis, Minnesota",
+  "genres": [
+   "Minneapolis sound",
+   "R&B",
+   "new jack swing"
+  ],
+  "summary": "Production and songwriting duo who came out of the Minneapolis funk band the Time. Their partnership with Janet Jackson on Control and Rhythm Nation made them leading R&B producers.",
+  "know": [
+   "Prince fired them from the Time in 1983 after they missed a gig while producing for the SOS Band.",
+   "They founded Flyte Tyme Productions and the Perspective label.",
+   "They produced The Human League's US number one Human in 1986."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Control (Janet Jackson)",
+    1986
+   ],
+   [
+    "Rhythm Nation 1814 (Janet Jackson)",
+    1989
+   ],
+   [
+    "janet. (Janet Jackson)",
+    1993
+   ],
+   [
+    "Heart Break (New Edition)",
+    1988
+   ]
+  ],
+  "songs": [
+   "Nasty",
+   "Rhythm Nation",
+   "That's the Way Love Goes",
+   "Human",
+   "On Bended Knee"
+  ],
+  "influencedBy": [
+   {
+    "id": "prince",
+    "why": "Played in the Time under Prince and learned his synth-funk sound firsthand.",
+    "s": 3
+   },
+   {
+    "id": "the-time",
+    "why": "Jam and Lewis were founding members of the Time.",
+    "s": 3
+   },
+   {
+    "id": "gamble-and-huff",
+    "why": "Studied Gamble and Huff's model of a songwriting team that ran its own sessions.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "janet-jackson",
+    "why": "Wrote and produced Control, Rhythm Nation 1814 and janet.",
+    "s": 3
+   },
+   {
+    "id": "new-edition",
+    "why": "Produced Heart Break.",
+    "s": 3
+   },
+   {
+    "id": "boyz-ii-men",
+    "why": "Wrote and produced On Bended Knee.",
+    "s": 3
+   },
+   {
+    "id": "mariah-carey",
+    "why": "Co-produced Thank God I Found You.",
+    "s": 3
+   },
+   {
+    "id": "usher",
+    "why": "Co-wrote and produced U Remind Me.",
+    "s": 3
+   },
+   {
+    "id": "the-human-league",
+    "why": "Wrote and produced Human.",
+    "s": 3
+   },
+   {
+    "id": "michael-jackson",
+    "why": "Co-wrote and produced Scream with Michael and Janet Jackson.",
+    "s": 3
+   },
+   {
+    "id": "mary-j-blige",
+    "why": "Produced songs on Share My World.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "max-martin",
+    "why": "A hit-making production team behind a pop superstar's run of number ones."
+   },
+   {
+    "id": "stock-aitken-waterman",
+    "why": "Another production trio that defined a decade's chart sound."
+   }
+  ]
+ },
+ {
+  "id": "teddy-riley",
+  "years": "1986–present",
+  "origin": "New York, New York",
+  "genres": [
+   "new jack swing",
+   "R&B",
+   "hip hop"
+  ],
+  "summary": "Producer and musician from Harlem who created new jack swing, mixing R&B vocals with hip hop drums. He led Guy and Blackstreet and co-produced Michael Jackson's Dangerous.",
+  "know": [
+   "He co-produced Doug E. Fresh's The Show while still a teenager.",
+   "He led the group Guy with Aaron Hall and later formed Blackstreet.",
+   "He discovered a young Pharrell Williams in Virginia Beach."
+  ],
+  "born": "10-08",
+  "keyAlbums": [
+   [
+    "Make It Last Forever (Keith Sweat)",
+    1987
+   ],
+   [
+    "Guy (Guy)",
+    1988
+   ],
+   [
+    "Dangerous (Michael Jackson)",
+    1991
+   ],
+   [
+    "Another Level (Blackstreet)",
+    1996
+   ]
+  ],
+  "songs": [
+   "I Want Her",
+   "My Prerogative",
+   "Remember the Time",
+   "No Diggity",
+   "Groove Me"
+  ],
+  "influencedBy": [
+   {
+    "id": "zapp",
+    "why": "Riley's talk box use and funk grooves draw on Roger Troutman and Zapp.",
+    "s": 2
+   },
+   {
+    "id": "james-brown",
+    "why": "Built new jack swing beats from James Brown style breaks and swing.",
+    "s": 1
+   },
+   {
+    "id": "marley-marl",
+    "why": "Learned sampling and drum programming from the Queens hip hop scene Marley Marl led.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "guy",
+    "why": "Founded and produced Guy.",
+    "s": 3
+   },
+   {
+    "id": "blackstreet",
+    "why": "Founded Blackstreet and co-produced No Diggity.",
+    "s": 3
+   },
+   {
+    "id": "keith-sweat",
+    "why": "Produced Make It Last Forever.",
+    "s": 3
+   },
+   {
+    "id": "bobby-brown",
+    "why": "Co-wrote and produced My Prerogative.",
+    "s": 3
+   },
+   {
+    "id": "michael-jackson",
+    "why": "Co-produced Dangerous, including Remember the Time.",
+    "s": 3
+   },
+   {
+    "id": "doug-e-fresh",
+    "why": "Co-produced The Show.",
+    "s": 3
+   },
+   {
+    "id": "the-neptunes",
+    "why": "Signed and mentored Pharrell Williams and Chad Hugo early on.",
+    "s": 3
+   },
+   {
+    "id": "swv",
+    "why": "Produced the Right Here remix for SWV.",
+    "s": 3
+   },
+   {
+    "id": "lady-gaga",
+    "why": "Co-produced Teeth on The Fame Monster.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-neptunes",
+    "why": "Producers who fused R&B and hip hop into a new radio sound."
+   },
+   {
+    "id": "timbaland",
+    "why": "A producer who reinvented R&B rhythm a decade later."
+   }
+  ]
+ },
+ {
+  "id": "pete-rock",
+  "years": "1988–present",
+  "origin": "Mount Vernon, New York",
+  "genres": [
+   "boom bap",
+   "jazz rap",
+   "East Coast hip hop"
+  ],
+  "summary": "Producer and rapper, half of Pete Rock and CL Smooth. His jazz horn samples and layered drums made him one of the defining beatmakers of 1990s New York hip hop.",
+  "know": [
+   "He was a DJ on Marley Marl's WBLS radio show In Control.",
+   "T.R.O.Y. is built on a Tom Scott horn sample and is often named among the best hip hop beats.",
+   "He produced The World Is Yours on Nas's Illmatic."
+  ],
+  "born": "06-21",
+  "keyAlbums": [
+   [
+    "Mecca and the Soul Brother (Pete Rock and CL Smooth)",
+    1992
+   ],
+   [
+    "The Main Ingredient (Pete Rock and CL Smooth)",
+    1994
+   ],
+   [
+    "Illmatic (Nas)",
+    1994
+   ],
+   [
+    "Soul Survivor (Pete Rock)",
+    1998
+   ]
+  ],
+  "songs": [
+   "They Reminisce Over You (T.R.O.Y.)",
+   "The World Is Yours",
+   "Mecca and the Soul Brother",
+   "Juicy (Remix)"
+  ],
+  "influencedBy": [
+   {
+    "id": "marley-marl",
+    "why": "Worked with Marley Marl on WBLS and learned sampling from him.",
+    "s": 3
+   },
+   {
+    "id": "james-brown",
+    "why": "Dug through funk and soul records, starting with James Brown, for samples.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "pete-rock-cl-smooth",
+    "why": "Produced every Pete Rock and CL Smooth record.",
+    "s": 3
+   },
+   {
+    "id": "nas",
+    "why": "Produced The World Is Yours on Illmatic.",
+    "s": 3
+   },
+   {
+    "id": "notorious-big",
+    "why": "Produced a remix of Juicy.",
+    "s": 3
+   },
+   {
+    "id": "public-enemy",
+    "why": "Remixed Shut 'Em Down.",
+    "s": 3
+   },
+   {
+    "id": "j-dilla",
+    "why": "Dilla cited Pete Rock as a key influence and studied his drum programming.",
+    "s": 2
+   },
+   {
+    "id": "kanye-west",
+    "why": "Kanye has named Pete Rock among his main production influences.",
+    "s": 2
+   },
+   {
+    "id": "the-alchemist",
+    "why": "Follows Pete Rock's dusty soul and jazz sampling style.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "lee-scratch-perry",
+    "why": "A sound-first producer who built a scene's signature texture."
+   },
+   {
+    "id": "four-tet",
+    "why": "Builds warm tracks out of chopped samples from old jazz and soul records."
+   }
+  ]
+ },
+ {
+  "id": "no-id",
+  "years": "1992–present",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "Chicago hip hop",
+   "boom bap",
+   "soul sampling"
+  ],
+  "summary": "Chicago producer Dion Wilson, known as the Godfather of Chicago hip hop. He produced Common's early albums, mentored Kanye West, and later produced Jay-Z's 4:44.",
+  "know": [
+   "He produced most of Common's first three albums, including Resurrection.",
+   "Kanye West has called him his mentor in production.",
+   "He produced all of Jay-Z's 2017 album 4:44."
+  ],
+  "born": "02-21",
+  "keyAlbums": [
+   [
+    "Resurrection (Common)",
+    1994
+   ],
+   [
+    "Life Is Good (Nas)",
+    2012
+   ],
+   [
+    "4:44 (Jay-Z)",
+    2017
+   ],
+   [
+    "Summertime '06 (Vince Staples)",
+    2015
+   ]
+  ],
+  "songs": [
+   "I Used to Love H.E.R.",
+   "Heart of the City (Ain't No Love)",
+   "4:44",
+   "Run This Town",
+   "Holy Grail"
+  ],
+  "influencedBy": [
+   {
+    "id": "pete-rock",
+    "why": "Built his soul and jazz sampling style on the example of Pete Rock.",
+    "s": 2
+   },
+   {
+    "id": "dj-premier",
+    "why": "Studied DJ Premier's chopped samples and hard drums.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "common",
+    "why": "Produced Can I Borrow a Dollar?, Resurrection and later Common albums.",
+    "s": 3
+   },
+   {
+    "id": "kanye-west",
+    "why": "Taught Kanye West production in Chicago and later co-produced his records.",
+    "s": 3
+   },
+   {
+    "id": "jay-z",
+    "why": "Produced 4:44 and co-produced songs on The Blueprint 3.",
+    "s": 3
+   },
+   {
+    "id": "nas",
+    "why": "Co-produced Life Is Good.",
+    "s": 3
+   },
+   {
+    "id": "vince-staples",
+    "why": "Executive produced and co-produced Summertime '06.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "jack-antonoff",
+    "why": "A producer who shapes a star's sound across several albums."
+   },
+   {
+    "id": "dave-cobb",
+    "why": "A producer whose mentoring and studio work anchors a regional scene."
+   }
+  ]
+ },
+ {
+  "id": "mark-ronson",
+  "years": "2003–present",
+  "origin": "New York, New York",
+  "genres": [
+   "retro soul",
+   "pop",
+   "funk"
+  ],
+  "summary": "British-born DJ and producer who came up on the New York club scene. He produced much of Amy Winehouse's Back to Black and the hit Uptown Funk with Bruno Mars.",
+  "know": [
+   "He was a popular hip hop and party DJ in New York in the 1990s.",
+   "He used the Dap-Kings as the backing band on Back to Black.",
+   "He co-wrote Shallow for A Star Is Born, which won an Academy Award."
+  ],
+  "born": "09-04",
+  "keyAlbums": [
+   [
+    "Back to Black (Amy Winehouse)",
+    2006
+   ],
+   [
+    "Uptown Special (Mark Ronson)",
+    2015
+   ],
+   [
+    "Joanne (Lady Gaga)",
+    2016
+   ],
+   [
+    "Villains (Queens of the Stone Age)",
+    2017
+   ]
+  ],
+  "songs": [
+   "Rehab",
+   "Valerie",
+   "Uptown Funk",
+   "Shallow",
+   "Nothing Breaks Like a Heart"
+  ],
+  "influencedBy": [
+   {
+    "id": "sharon-jones-and-the-dap-kings",
+    "why": "Hired the Dap-Kings for Back to Black and took cues from their retro soul sound.",
+    "s": 3
+   },
+   {
+    "id": "the-time",
+    "why": "Uptown Funk draws openly on the Minneapolis funk of the Time.",
+    "s": 1
+   },
+   {
+    "id": "dj-premier",
+    "why": "His DJ roots in 1990s New York hip hop shaped his ear for drums.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "amy-winehouse",
+    "why": "Produced half of Back to Black, including Rehab.",
+    "s": 3
+   },
+   {
+    "id": "bruno-mars",
+    "why": "Co-wrote and produced Uptown Funk.",
+    "s": 3
+   },
+   {
+    "id": "lady-gaga",
+    "why": "Co-produced Joanne and co-wrote Shallow.",
+    "s": 3
+   },
+   {
+    "id": "queens-of-the-stone-age",
+    "why": "Produced Villains.",
+    "s": 3
+   },
+   {
+    "id": "duran-duran",
+    "why": "Produced All You Need Is Now.",
+    "s": 3
+   },
+   {
+    "id": "adele",
+    "why": "Produced Cold Shoulder on 19.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "nile-rodgers",
+    "why": "A guitarist-producer known for clean, dance-ready funk."
+   },
+   {
+    "id": "dave-cobb",
+    "why": "A producer who makes new records with an older, live-band sound."
+   }
+  ]
+ },
+ {
+  "id": "danger-mouse",
+  "years": "2004–present",
+  "origin": "Athens, Georgia",
+  "genres": [
+   "alternative hip hop",
+   "indie rock",
+   "psychedelic pop"
+  ],
+  "summary": "Producer Brian Burton, who first drew attention with The Grey Album, a mashup of Jay-Z and the Beatles. He co-founded Gnarls Barkley and Broken Bells and produced the Black Keys and Adele.",
+  "know": [
+   "He began DJing and making beats while a student at the University of Georgia.",
+   "The Grey Album mixed Jay-Z's The Black Album with the Beatles' White Album.",
+   "He formed Gnarls Barkley with CeeLo Green; their single Crazy was a worldwide hit."
+  ],
+  "born": "07-29",
+  "keyAlbums": [
+   [
+    "The Grey Album (Danger Mouse)",
+    2004
+   ],
+   [
+    "St. Elsewhere (Gnarls Barkley)",
+    2006
+   ],
+   [
+    "El Camino (The Black Keys)",
+    2011
+   ],
+   [
+    "The Mouse and the Mask (Danger Doom)",
+    2005
+   ]
+  ],
+  "songs": [
+   "Crazy",
+   "Lonely Boy",
+   "Tighten Up",
+   "The High Road",
+   "Feel Good Inc."
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "Built The Grey Album from samples of the White Album.",
+    "s": 3
+   },
+   {
+    "id": "jay-z",
+    "why": "Used Jay-Z's Black Album vocals for The Grey Album.",
+    "s": 3
+   },
+   {
+    "id": "dj-shadow",
+    "why": "Follows DJ Shadow's sample-built, cinematic approach to beats.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-black-keys",
+    "why": "Produced Attack and Release, Brothers tracks and El Camino.",
+    "s": 3
+   },
+   {
+    "id": "beck",
+    "why": "Produced Modern Guilt.",
+    "s": 3
+   },
+   {
+    "id": "mf-doom",
+    "why": "Made The Mouse and the Mask with DOOM as Danger Doom.",
+    "s": 3
+   },
+   {
+    "id": "u2",
+    "why": "Produced Songs of Innocence.",
+    "s": 3
+   },
+   {
+    "id": "adele",
+    "why": "Co-wrote and produced River Lea on 25.",
+    "s": 3
+   },
+   {
+    "id": "norah-jones",
+    "why": "Produced Little Broken Hearts.",
+    "s": 3
+   },
+   {
+    "id": "the-shins",
+    "why": "Formed Broken Bells with the Shins' James Mercer.",
+    "s": 3
+   },
+   {
+    "id": "michael-kiwanuka",
+    "why": "Co-produced Love and Hate and Kiwanuka.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "brian-eno",
+    "why": "A producer who moves between bands and genres and shapes each record's mood."
+   },
+   {
+    "id": "dan-auerbach",
+    "why": "A rock producer who favors warm, vintage sounds."
+   }
+  ]
+ },
+ {
+  "id": "t-bone-burnett",
+  "years": "1972–present",
+  "origin": "Fort Worth, Texas",
+  "genres": [
+   "Americana",
+   "roots rock",
+   "folk"
+  ],
+  "summary": "Producer, songwriter and guitarist who became a leading roots music producer. He produced the O Brother, Where Art Thou? soundtrack and Robert Plant and Alison Krauss's Raising Sand.",
+  "know": [
+   "He toured as a guitarist in Bob Dylan's Rolling Thunder Revue in 1975.",
+   "The O Brother, Where Art Thou? soundtrack won the Grammy for Album of the Year.",
+   "He co-wrote The Weary Kind for the film Crazy Heart."
+  ],
+  "born": "01-14",
+  "keyAlbums": [
+   [
+    "O Brother, Where Art Thou? (various)",
+    2000
+   ],
+   [
+    "Raising Sand (Robert Plant and Alison Krauss)",
+    2007
+   ],
+   [
+    "August and Everything After (Counting Crows)",
+    1993
+   ],
+   [
+    "King of America (Elvis Costello)",
+    1986
+   ]
+  ],
+  "songs": [
+   "Man of Constant Sorrow",
+   "Please Read the Letter",
+   "Mr. Jones",
+   "One Headlight",
+   "The Weary Kind"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-dylan",
+    "why": "Played in Dylan's Rolling Thunder Revue band.",
+    "s": 3
+   },
+   {
+    "id": "hank-williams",
+    "why": "Burnett often cites Hank Williams and early country as his base.",
+    "s": 1
+   },
+   {
+    "id": "carter-family",
+    "why": "His roots productions draw on the Carter Family's old-time songs.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "alison-krauss",
+    "why": "Produced Raising Sand with Robert Plant.",
+    "s": 3
+   },
+   {
+    "id": "elvis-costello",
+    "why": "Co-produced King of America.",
+    "s": 3
+   },
+   {
+    "id": "los-lobos",
+    "why": "Co-produced How Will the Wolf Survive?",
+    "s": 3
+   },
+   {
+    "id": "counting-crows",
+    "why": "Produced August and Everything After.",
+    "s": 3
+   },
+   {
+    "id": "the-wallflowers",
+    "why": "Produced Bringing Down the Horse.",
+    "s": 3
+   },
+   {
+    "id": "gillian-welch",
+    "why": "Featured Welch on the O Brother soundtrack he produced.",
+    "s": 3
+   },
+   {
+    "id": "ralph-stanley",
+    "why": "Produced Stanley's O Death for O Brother.",
+    "s": 3
+   },
+   {
+    "id": "roy-orbison",
+    "why": "Produced the Black and White Night concert and Mystery Girl tracks.",
+    "s": 3
+   },
+   {
+    "id": "rhiannon-giddens",
+    "why": "Produced Tomorrow Is My Turn.",
+    "s": 3
+   },
+   {
+    "id": "bb-king",
+    "why": "Produced One Kind Favor.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "rick-rubin",
+    "why": "A producer who strips records back to song and voice."
+   },
+   {
+    "id": "adrian-sherwood",
+    "why": "A producer who carries a roots tradition into new settings."
+   }
+  ]
+ },
+ {
+  "id": "daniel-lanois",
+  "years": "1980–present",
+  "origin": "Hamilton, Canada",
+  "genres": [
+   "ambient",
+   "atmospheric rock",
+   "roots"
+  ],
+  "summary": "Canadian producer, guitarist and songwriter known for spacious, atmospheric records. He co-produced U2's The Joshua Tree with Brian Eno and Bob Dylan's Time Out of Mind.",
+  "know": [
+   "He and his brother ran a home studio in Hamilton, Ontario.",
+   "He worked with Brian Eno on ambient records like Apollo before U2.",
+   "He plays pedal steel and released his own albums, starting with Acadie in 1989."
+  ],
+  "born": "09-19",
+  "keyAlbums": [
+   [
+    "The Joshua Tree (U2)",
+    1987
+   ],
+   [
+    "So (Peter Gabriel)",
+    1986
+   ],
+   [
+    "Oh Mercy (Bob Dylan)",
+    1989
+   ],
+   [
+    "Wrecking Ball (Emmylou Harris)",
+    1995
+   ]
+  ],
+  "songs": [
+   "With or Without You",
+   "In Your Eyes",
+   "Love Is Blindness",
+   "Not Dark Yet",
+   "The Maker"
+  ],
+  "influencedBy": [
+   {
+    "id": "brian-eno",
+    "why": "Eno brought Lanois into ambient work and then into U2's sessions.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "u2",
+    "why": "Co-produced The Unforgettable Fire, The Joshua Tree and Achtung Baby.",
+    "s": 3
+   },
+   {
+    "id": "peter-gabriel",
+    "why": "Co-produced So and Us.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Produced Oh Mercy and Time Out of Mind.",
+    "s": 3
+   },
+   {
+    "id": "emmylou-harris",
+    "why": "Produced Wrecking Ball.",
+    "s": 3
+   },
+   {
+    "id": "neil-young",
+    "why": "Produced Le Noise.",
+    "s": 3
+   },
+   {
+    "id": "willie-nelson",
+    "why": "Produced Teatro.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "brian-eno",
+    "why": "An atmosphere-first producer and frequent partner."
+   },
+   {
+    "id": "aaron-dessner",
+    "why": "Builds hushed, layered records around songwriters."
+   }
+  ]
+ },
+ {
+  "id": "joe-meek",
+  "years": "1954–1967",
+  "origin": "London, England",
+  "genres": [
+   "British pop",
+   "space-age pop",
+   "experimental production"
+  ],
+  "summary": "Independent record producer who built a studio in his London flat on Holloway Road. His echo-heavy production on the Tornados' Telstar made it the first British band record to top the US chart.",
+  "know": [
+   "He recorded in a three-floor flat above a leather goods shop at 304 Holloway Road.",
+   "Telstar reached number one in both the UK and US in 1962.",
+   "He made the concept album I Hear a New World about life on the moon."
+  ],
+  "born": "04-05",
+  "keyAlbums": [
+   [
+    "Telstar (The Tornados)",
+    1962
+   ],
+   [
+    "I Hear a New World (Joe Meek and the Blue Men)",
+    1960
+   ],
+   [
+    "Johnny Remember Me (John Leyton)",
+    1961
+   ],
+   [
+    "Have I the Right? (The Honeycombs)",
+    1964
+   ]
+  ],
+  "songs": [
+   "Telstar",
+   "Johnny Remember Me",
+   "Have I the Right?",
+   "Just Like Eddie"
+  ],
+  "influencedBy": [
+   {
+    "id": "buddy-holly",
+    "why": "Meek admired Buddy Holly and recorded tributes to him.",
+    "s": 2
+   },
+   {
+    "id": "les-paul",
+    "why": "Followed Les Paul's use of echo and overdubbing as studio effects.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "deep-purple",
+    "why": "Ritchie Blackmore played guitar on Meek sessions before founding Deep Purple.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "delia-derbyshire",
+    "why": "A British studio experimenter who made new sounds from tape and electronics."
+   },
+   {
+    "id": "lee-scratch-perry",
+    "why": "Built otherworldly records in a home studio with echo and effects."
+   }
+  ]
+ },
+ {
+  "id": "gerry-goffin",
+  "years": "1959–1996",
+  "origin": "New York, New York",
+  "genres": [
+   "Brill Building pop",
+   "girl group",
+   "soul"
+  ],
+  "summary": "Lyricist who wrote many 1960s hits with his then-wife Carole King. Their songs included Will You Love Me Tomorrow, Up on the Roof and (You Make Me Feel Like) A Natural Woman.",
+  "know": [
+   "He wrote lyrics while working days as a chemist before the hits came.",
+   "Will You Love Me Tomorrow by the Shirelles was his first number one, in 1961.",
+   "He later co-wrote Saving All My Love for You for Whitney Houston."
+  ],
+  "born": "02-11",
+  "keyAlbums": [
+   [
+    "Tonight's the Night (The Shirelles)",
+    1961
+   ],
+   [
+    "Up on the Roof (The Drifters)",
+    1962
+   ],
+   [
+    "Lady Soul (Aretha Franklin)",
+    1968
+   ],
+   [
+    "Whitney Houston (Whitney Houston)",
+    1985
+   ]
+  ],
+  "songs": [
+   "Will You Love Me Tomorrow",
+   "Up on the Roof",
+   "The Loco-Motion",
+   "(You Make Me Feel Like) A Natural Woman",
+   "Goin' Back"
+  ],
+  "influencedBy": [
+   {
+    "id": "carole-king",
+    "why": "Wrote his best-known songs with Carole King as her lyric partner.",
+    "s": 3
+   },
+   {
+    "id": "leiber-and-stoller",
+    "why": "The Brill Building style of Leiber and Stoller set the model he worked within.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-shirelles",
+    "why": "Co-wrote Will You Love Me Tomorrow.",
+    "s": 3
+   },
+   {
+    "id": "the-drifters",
+    "why": "Co-wrote Up on the Roof.",
+    "s": 3
+   },
+   {
+    "id": "aretha-franklin",
+    "why": "Co-wrote (You Make Me Feel Like) A Natural Woman.",
+    "s": 3
+   },
+   {
+    "id": "dusty-springfield",
+    "why": "Co-wrote Goin' Back, first recorded by Springfield.",
+    "s": 3
+   },
+   {
+    "id": "the-byrds",
+    "why": "The Byrds recorded his Goin' Back on The Notorious Byrd Brothers.",
+    "s": 2
+   },
+   {
+    "id": "whitney-houston",
+    "why": "Co-wrote Saving All My Love for You.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "holland-dozier-holland",
+    "why": "A songwriting team that turned out hit after hit for a label's roster."
+   },
+   {
+    "id": "billy-sherrill",
+    "why": "A Nashville writer-producer who shaped hits for many singers."
+   }
+  ]
+ },
+ {
+  "id": "burt-bacharach",
+  "years": "1957–2023",
+  "origin": "New York, New York",
+  "genres": [
+   "sophisticated pop",
+   "easy listening",
+   "soul"
+  ],
+  "summary": "Composer, arranger and producer known for complex melodies and unusual time changes in pop songs. With lyricist Hal David he wrote dozens of hits for Dionne Warwick.",
+  "know": [
+   "He studied composition with Darius Milhaud.",
+   "He worked as Marlene Dietrich's musical director in the late 1950s.",
+   "He won Academy Awards for the score and song of Butch Cassidy and the Sundance Kid."
+  ],
+  "born": "05-12",
+  "keyAlbums": [
+   [
+    "Presenting Dionne Warwick (Dionne Warwick)",
+    1963
+   ],
+   [
+    "Here Where There Is Love (Dionne Warwick)",
+    1966
+   ],
+   [
+    "Painted from Memory (Elvis Costello)",
+    1998
+   ],
+   [
+    "Butch Cassidy and the Sundance Kid (soundtrack)",
+    1969
+   ]
+  ],
+  "songs": [
+   "Walk On By",
+   "I Say a Little Prayer",
+   "Raindrops Keep Fallin' on My Head",
+   "The Look of Love",
+   "Close to You"
+  ],
+  "influencedBy": [
+   {
+    "id": "dizzy-gillespie",
+    "why": "Bacharach said hearing bebop, especially Dizzy Gillespie, changed how he heard harmony.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "dionne-warwick",
+    "why": "Wrote and produced Walk On By and many other Warwick hits.",
+    "s": 3
+   },
+   {
+    "id": "dusty-springfield",
+    "why": "Wrote The Look of Love and Wishin' and Hopin'.",
+    "s": 3
+   },
+   {
+    "id": "the-drifters",
+    "why": "Wrote and arranged for the Drifters early in his career.",
+    "s": 3
+   },
+   {
+    "id": "the-shirelles",
+    "why": "Co-wrote Baby It's You.",
+    "s": 3
+   },
+   {
+    "id": "elvis-costello",
+    "why": "Co-wrote and recorded Painted from Memory with Costello.",
+    "s": 3
+   },
+   {
+    "id": "aretha-franklin",
+    "why": "Aretha's hit version of I Say a Little Prayer came from his song.",
+    "s": 2
+   },
+   {
+    "id": "love",
+    "why": "Love's hit version of My Little Red Book brought his song into garage rock.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "antonio-carlos-jobim",
+    "why": "A composer whose rich harmony fit inside smooth, singable pop."
+   },
+   {
+    "id": "r-d-burman",
+    "why": "A film composer who wrote catchy songs with unusual arrangements."
+   }
+  ]
+ },
+ {
+  "id": "gamble-and-huff",
+  "years": "1966–1990",
+  "origin": "Philadelphia, Pennsylvania",
+  "genres": [
+   "Philadelphia soul",
+   "disco",
+   "R&B"
+  ],
+  "summary": "Songwriting and production team of Kenny Gamble and Leon Huff. They founded Philadelphia International Records and created the lush Philly soul sound of the O'Jays and Harold Melvin and the Blue Notes.",
+  "know": [
+   "They founded Philadelphia International Records in 1971 with backing from CBS.",
+   "They recorded mostly at Sigma Sound Studios with the house band MFSB.",
+   "TSOP (The Sound of Philadelphia) became the theme for the TV show Soul Train."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Back Stabbers (The O'Jays)",
+    1972
+   ],
+   [
+    "Wake Up Everybody (Harold Melvin and the Blue Notes)",
+    1975
+   ],
+   [
+    "Teddy Pendergrass (Teddy Pendergrass)",
+    1977
+   ],
+   [
+    "The Jacksons (The Jacksons)",
+    1976
+   ]
+  ],
+  "songs": [
+   "Love Train",
+   "If You Don't Know Me by Now",
+   "Me and Mrs. Jones",
+   "TSOP (The Sound of Philadelphia)",
+   "For the Love of Money"
+  ],
+  "influencedBy": [
+   {
+    "id": "holland-dozier-holland",
+    "why": "Took the writer-producer model of Motown's top team to Philadelphia.",
+    "s": 2
+   },
+   {
+    "id": "thom-bell",
+    "why": "Worked alongside Bell and shared the Philadelphia sound he helped build.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-o-jays",
+    "why": "Wrote and produced Back Stabbers, Love Train and For the Love of Money.",
+    "s": 3
+   },
+   {
+    "id": "harold-melvin-and-the-blue-notes",
+    "why": "Wrote and produced If You Don't Know Me by Now.",
+    "s": 3
+   },
+   {
+    "id": "teddy-pendergrass",
+    "why": "Produced Pendergrass's solo albums.",
+    "s": 3
+   },
+   {
+    "id": "mfsb",
+    "why": "Built MFSB as their house band and wrote TSOP for them.",
+    "s": 3
+   },
+   {
+    "id": "lou-rawls",
+    "why": "Produced You'll Never Find Another Love Like Mine.",
+    "s": 3
+   },
+   {
+    "id": "the-jackson-5",
+    "why": "Produced the Jacksons' first two Epic albums.",
+    "s": 3
+   },
+   {
+    "id": "wilson-pickett",
+    "why": "Produced Wilson Pickett in Philadelphia.",
+    "s": 3
+   },
+   {
+    "id": "dusty-springfield",
+    "why": "Wrote and produced A Brand New Me.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "leiber-and-stoller",
+    "why": "A writer-producer team that ran its own label sessions."
+   },
+   {
+    "id": "giorgio-moroder",
+    "why": "Built a lush, producer-driven sound that filled dance floors."
+   }
+  ]
+ },
+ {
+  "id": "thom-bell",
+  "years": "1967–1990",
+  "origin": "Philadelphia, Pennsylvania",
+  "genres": [
+   "Philadelphia soul",
+   "orchestral soul",
+   "R&B"
+  ],
+  "summary": "Jamaican-born arranger and producer who brought orchestral strings, French horns and oboe to Philadelphia soul. He produced the Delfonics, the Stylistics and the Spinners.",
+  "know": [
+   "He was born in Kingston, Jamaica, and studied classical piano as a child.",
+   "He often wrote with lyricist Linda Creed, including Betcha by Golly, Wow.",
+   "He produced Elton John's The Thom Bell Sessions."
+  ],
+  "born": "01-26",
+  "keyAlbums": [
+   [
+    "La La Means I Love You (The Delfonics)",
+    1968
+   ],
+   [
+    "The Stylistics (The Stylistics)",
+    1971
+   ],
+   [
+    "Spinners (The Spinners)",
+    1973
+   ],
+   [
+    "The Thom Bell Sessions (Elton John)",
+    1979
+   ]
+  ],
+  "songs": [
+   "La-La (Means I Love You)",
+   "Betcha by Golly, Wow",
+   "You Make Me Feel Brand New",
+   "I'll Be Around",
+   "Then Came You"
+  ],
+  "influencedBy": [
+   {
+    "id": "gamble-and-huff",
+    "why": "Worked with Gamble and Huff in Philadelphia as they built the city's sound.",
+    "s": 3
+   },
+   {
+    "id": "burt-bacharach",
+    "why": "His orchestral pop arranging follows the path Bacharach opened in soul.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-delfonics",
+    "why": "Wrote and produced La-La (Means I Love You).",
+    "s": 3
+   },
+   {
+    "id": "the-stylistics",
+    "why": "Wrote and produced the Stylistics' first albums.",
+    "s": 3
+   },
+   {
+    "id": "the-spinners",
+    "why": "Produced I'll Be Around and Could It Be I'm Falling in Love.",
+    "s": 3
+   },
+   {
+    "id": "elton-john",
+    "why": "Produced The Thom Bell Sessions.",
+    "s": 3
+   },
+   {
+    "id": "dionne-warwick",
+    "why": "Produced Then Came You with the Spinners.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "burt-bacharach",
+    "why": "A pop arranger who used orchestral color in hit songs."
+   },
+   {
+    "id": "ryuichi-sakamoto",
+    "why": "A classically trained arranger who brought orchestral ideas to pop."
+   }
+  ]
+ },
+ {
+  "id": "mfsb",
+  "years": "1972–1985",
+  "origin": "Philadelphia, Pennsylvania",
+  "genres": [
+   "Philadelphia soul",
+   "disco",
+   "session musicians"
+  ],
+  "summary": "The house band at Sigma Sound Studios that played on Philadelphia International records. Their instrumental TSOP (The Sound of Philadelphia) was a number one hit and an early disco record.",
+  "know": [
+   "The name stands for Mother Father Sister Brother.",
+   "TSOP was the theme song of Soul Train and topped the Billboard Hot 100 in 1974.",
+   "Drummer Earl Young, bassist Ronnie Baker and guitarist Norman Harris also formed the Trammps."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Love Is the Message (MFSB)",
+    1973
+   ],
+   [
+    "Back Stabbers (The O'Jays)",
+    1972
+   ],
+   [
+    "Wake Up Everybody (Harold Melvin and the Blue Notes)",
+    1975
+   ],
+   [
+    "Young Americans (David Bowie)",
+    1975
+   ]
+  ],
+  "songs": [
+   "TSOP (The Sound of Philadelphia)",
+   "Love Is the Message",
+   "Love Train",
+   "Bad Luck"
+  ],
+  "influencedBy": [
+   {
+    "id": "gamble-and-huff",
+    "why": "Gamble and Huff assembled the players as their studio band.",
+    "s": 3
+   },
+   {
+    "id": "thom-bell",
+    "why": "Played on Thom Bell's orchestral soul productions.",
+    "s": 3
+   },
+   {
+    "id": "funk-brothers",
+    "why": "Followed the Motown model of a single house band behind a label's hits.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-o-jays",
+    "why": "Backed the O'Jays on Love Train and Back Stabbers.",
+    "s": 3
+   },
+   {
+    "id": "harold-melvin-and-the-blue-notes",
+    "why": "Played on If You Don't Know Me by Now and Bad Luck.",
+    "s": 3
+   },
+   {
+    "id": "teddy-pendergrass",
+    "why": "Backed Pendergrass's early solo records.",
+    "s": 3
+   },
+   {
+    "id": "the-stylistics",
+    "why": "Played on the Stylistics' Thom Bell productions.",
+    "s": 3
+   },
+   {
+    "id": "the-spinners",
+    "why": "Backed the Spinners' Philadelphia hits.",
+    "s": 3
+   },
+   {
+    "id": "the-trammps",
+    "why": "Core MFSB players formed the Trammps.",
+    "s": 3
+   },
+   {
+    "id": "david-bowie",
+    "why": "Several Sigma Sound players appeared on Young Americans, which Bowie cut in Philadelphia.",
+    "s": 2
+   },
+   {
+    "id": "larry-levan",
+    "why": "Love Is the Message became a staple of Levan's sets at the Paradise Garage.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "wrecking-crew",
+    "why": "Session players whose unnamed work defined a city's records."
+   },
+   {
+    "id": "sly-and-robbie",
+    "why": "A rhythm section that powered a label's dance records."
+   }
+  ]
+ },
+ {
+  "id": "norman-whitfield",
+  "years": "1962–1985",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "psychedelic soul",
+   "Motown",
+   "funk"
+  ],
+  "summary": "Motown songwriter and producer who pushed the Temptations into long, psychedelic funk tracks. He co-wrote I Heard It Through the Grapevine and Papa Was a Rollin' Stone.",
+  "know": [
+   "He co-wrote I Heard It Through the Grapevine with Barrett Strong.",
+   "Papa Was a Rollin' Stone runs nearly twelve minutes on the album version.",
+   "He later founded Whitfield Records and produced Rose Royce's Car Wash."
+  ],
+  "born": "05-12",
+  "keyAlbums": [
+   [
+    "Cloud Nine (The Temptations)",
+    1969
+   ],
+   [
+    "Psychedelic Shack (The Temptations)",
+    1970
+   ],
+   [
+    "All Directions (The Temptations)",
+    1972
+   ],
+   [
+    "In the Groove (Marvin Gaye)",
+    1968
+   ]
+  ],
+  "songs": [
+   "I Heard It Through the Grapevine",
+   "Ain't Too Proud to Beg",
+   "Cloud Nine",
+   "Ball of Confusion",
+   "Papa Was a Rollin' Stone"
+  ],
+  "influencedBy": [
+   {
+    "id": "berry-gordy",
+    "why": "Worked as a Motown staff writer and producer under Gordy.",
+    "s": 3
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Sly Stone's psychedelic funk pushed Whitfield toward the Temptations' Cloud Nine sound.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-temptations",
+    "why": "Produced the Temptations from Ain't Too Proud to Beg through Papa Was a Rollin' Stone.",
+    "s": 3
+   },
+   {
+    "id": "marvin-gaye",
+    "why": "Produced I Heard It Through the Grapevine.",
+    "s": 3
+   },
+   {
+    "id": "gladys-knight-and-the-pips",
+    "why": "Produced their 1967 version of I Heard It Through the Grapevine.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "lee-scratch-perry",
+    "why": "Pushed singers into long, studio-driven psychedelic tracks."
+   },
+   {
+    "id": "teo-macero",
+    "why": "Made long, edited studio pieces out of a band's performances."
+   }
+  ]
+ },
+ {
+  "id": "willie-mitchell",
+  "years": "1959–2010",
+  "origin": "Memphis, Tennessee",
+  "genres": [
+   "Memphis soul",
+   "Southern soul",
+   "R&B"
+  ],
+  "summary": "Trumpeter, bandleader and producer who ran Hi Records' Royal Studios in Memphis. His productions with Al Green defined the smooth, steady Hi sound.",
+  "know": [
+   "He led his own instrumental soul band before turning to production.",
+   "He built the Hi house band around the Hodges brothers and drummer Al Jackson Jr.",
+   "His son Boo Mitchell later ran Royal Studios, where Uptown Funk was recorded."
+  ],
+  "born": "03-03",
+  "keyAlbums": [
+   [
+    "Let's Stay Together (Al Green)",
+    1972
+   ],
+   [
+    "I'm Still in Love with You (Al Green)",
+    1972
+   ],
+   [
+    "Call Me (Al Green)",
+    1973
+   ],
+   [
+    "Livin' for You (Al Green)",
+    1973
+   ]
+  ],
+  "songs": [
+   "Let's Stay Together",
+   "Tired of Being Alone",
+   "Love and Happiness",
+   "I Can't Stand the Rain",
+   "Soul Serenade"
+  ],
+  "influencedBy": [
+   {
+    "id": "booker-t",
+    "why": "Al Jackson Jr. of Booker T. and the MG's was a key drummer on Mitchell's Hi sessions.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "al-green",
+    "why": "Signed Al Green to Hi and produced his 1970s albums.",
+    "s": 3
+   },
+   {
+    "id": "d-angelo",
+    "why": "D'Angelo's warm, unhurried grooves draw on the Hi Records sound.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "dave-cobb",
+    "why": "A producer whose studio and house sound shaped one singer's best work."
+   },
+   {
+    "id": "sly-and-robbie",
+    "why": "A rhythm-first studio team behind a steady, signature groove."
+   }
+  ]
+ },
+ {
+  "id": "allen-toussaint",
+  "years": "1957–2015",
+  "origin": "New Orleans, Louisiana",
+  "genres": [
+   "New Orleans R&B",
+   "funk",
+   "soul"
+  ],
+  "summary": "Pianist, songwriter, arranger and producer at the center of New Orleans R&B for decades. He wrote Working in the Coal Mine and Southern Nights and produced the Meters and Dr. John.",
+  "know": [
+   "He co-founded Sea-Saint Studios in New Orleans with Marshall Sehorn in 1973.",
+   "He wrote many songs under his mother's name, Naomi Neville.",
+   "He wrote the horn charts for The Band's live album Rock of Ages."
+  ],
+  "born": "01-14",
+  "keyAlbums": [
+   [
+    "In the Right Place (Dr. John)",
+    1973
+   ],
+   [
+    "Nightbirds (Labelle)",
+    1974
+   ],
+   [
+    "Southern Nights (Allen Toussaint)",
+    1975
+   ],
+   [
+    "Rejuvenation (The Meters)",
+    1974
+   ]
+  ],
+  "songs": [
+   "Working in the Coal Mine",
+   "Southern Nights",
+   "Lady Marmalade",
+   "Right Place Wrong Time",
+   "Mother-in-Law"
+  ],
+  "influencedBy": [
+   {
+    "id": "professor-longhair",
+    "why": "Toussaint named Professor Longhair as his main piano influence.",
+    "s": 2
+   },
+   {
+    "id": "fats-domino",
+    "why": "Learned the New Orleans rhythm and blues piano style from Domino's records and sessions.",
+    "s": 2
+   },
+   {
+    "id": "ray-charles",
+    "why": "Ray Charles's blend of gospel and R&B shaped his writing.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-meters",
+    "why": "Used the Meters as his house band and produced their records.",
+    "s": 3
+   },
+   {
+    "id": "irma-thomas",
+    "why": "Wrote and produced Irma Thomas's early singles.",
+    "s": 3
+   },
+   {
+    "id": "dr-john",
+    "why": "Produced In the Right Place.",
+    "s": 3
+   },
+   {
+    "id": "patti-labelle",
+    "why": "Produced Labelle's Nightbirds, including Lady Marmalade.",
+    "s": 3
+   },
+   {
+    "id": "the-band",
+    "why": "Wrote the horn arrangements for Rock of Ages.",
+    "s": 3
+   },
+   {
+    "id": "paul-mccartney-and-wings",
+    "why": "Hosted and played on sessions for Venus and Mars at Sea-Saint.",
+    "s": 3
+   },
+   {
+    "id": "elvis-costello",
+    "why": "Recorded The River in Reverse with Costello.",
+    "s": 3
+   },
+   {
+    "id": "the-pointer-sisters",
+    "why": "The Pointer Sisters' first hit was his song Yes We Can Can.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "lee-scratch-perry",
+    "why": "A producer who built a city's groove from his own studio."
+   },
+   {
+    "id": "eddie-palmieri",
+    "why": "A pianist-bandleader who mixed tradition and funk into dance music."
+   }
+  ]
+ },
+ {
+  "id": "nashville-a-team",
+  "years": "1955–1975",
+  "origin": "Nashville, Tennessee",
+  "genres": [
+   "Nashville sound",
+   "country",
+   "session musicians"
+  ],
+  "summary": "The first-call studio players of Nashville in the 1950s and 1960s, including Hank Garland, Grady Martin, Floyd Cramer, Bob Moore and Buddy Harman. They played on records by Patsy Cline, Elvis Presley, Roy Orbison and Bob Dylan.",
+  "know": [
+   "They worked at Owen Bradley's Quonset Hut and RCA Studio B.",
+   "Floyd Cramer's slip-note piano became a signature of the Nashville sound.",
+   "Several of them played on Bob Dylan's Blonde on Blonde in 1966."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Blonde on Blonde (Bob Dylan)",
+    1966
+   ],
+   [
+    "Patsy Cline Showcase (Patsy Cline)",
+    1961
+   ],
+   [
+    "Elvis Is Back! (Elvis Presley)",
+    1960
+   ],
+   [
+    "Lonely and Blue (Roy Orbison)",
+    1961
+   ]
+  ],
+  "songs": [
+   "Crazy",
+   "Only the Lonely",
+   "He'll Have to Go",
+   "Visions of Johanna",
+   "Coal Miner's Daughter"
+  ],
+  "influencedBy": [
+   {
+    "id": "chet-atkins",
+    "why": "Chet Atkins ran RCA Nashville sessions and hired the A-Team.",
+    "s": 3
+   },
+   {
+    "id": "owen-bradley",
+    "why": "Owen Bradley built the Nashville sound around these players.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "patsy-cline",
+    "why": "Played on Crazy and Patsy Cline's Decca sessions.",
+    "s": 3
+   },
+   {
+    "id": "elvis-presley",
+    "why": "Backed Elvis on his RCA Nashville sessions.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Played on Blonde on Blonde and Nashville Skyline.",
+    "s": 3
+   },
+   {
+    "id": "roy-orbison",
+    "why": "Played on Only the Lonely and Orbison's Monument hits.",
+    "s": 3
+   },
+   {
+    "id": "everly-brothers",
+    "why": "Played on the Everly Brothers' Cadence hits.",
+    "s": 3
+   },
+   {
+    "id": "jim-reeves",
+    "why": "Played on He'll Have to Go.",
+    "s": 3
+   },
+   {
+    "id": "loretta-lynn",
+    "why": "Played on Loretta Lynn's Decca records.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "wrecking-crew",
+    "why": "Los Angeles players doing the same job for pop."
+   },
+   {
+    "id": "muscle-shoals-rhythm-section",
+    "why": "Southern session players behind soul and rock hits."
+   }
+  ]
+ },
+ {
+  "id": "rudy-van-gelder",
+  "years": "1952–2016",
+  "origin": "Hackensack, New Jersey",
+  "genres": [
+   "hard bop",
+   "modal jazz",
+   "recording engineering"
+  ],
+  "summary": "Recording engineer who captured thousands of jazz sessions for Blue Note, Prestige and Impulse! His clear, close sound set the standard for how modern jazz records sounded.",
+  "know": [
+   "He first recorded in his parents' living room in Hackensack while working as an optometrist.",
+   "He opened his Englewood Cliffs studio in 1959.",
+   "He engineered John Coltrane's A Love Supreme in 1964."
+  ],
+  "born": "11-02",
+  "keyAlbums": [
+   [
+    "A Love Supreme (John Coltrane)",
+    1965
+   ],
+   [
+    "Saxophone Colossus (Sonny Rollins)",
+    1956
+   ],
+   [
+    "Somethin' Else (Cannonball Adderley)",
+    1958
+   ],
+   [
+    "Maiden Voyage (Herbie Hancock)",
+    1965
+   ]
+  ],
+  "songs": [
+   "Acknowledgement",
+   "St. Thomas",
+   "Autumn Leaves",
+   "Maiden Voyage",
+   "Moanin'"
+  ],
+  "influencedBy": [],
+  "influenced": [
+   {
+    "id": "john-coltrane",
+    "why": "Engineered A Love Supreme and Coltrane's Prestige and Impulse! sessions.",
+    "s": 3
+   },
+   {
+    "id": "miles-davis",
+    "why": "Engineered Miles's Prestige quintet sessions like Cookin' and Relaxin'.",
+    "s": 3
+   },
+   {
+    "id": "art-blakey",
+    "why": "Engineered Moanin' and other Jazz Messengers albums.",
+    "s": 3
+   },
+   {
+    "id": "horace-silver",
+    "why": "Engineered Song for My Father and Silver's Blue Note records.",
+    "s": 3
+   },
+   {
+    "id": "sonny-rollins",
+    "why": "Engineered Saxophone Colossus.",
+    "s": 3
+   },
+   {
+    "id": "thelonious-monk",
+    "why": "Engineered Monk's Prestige and Blue Note sessions.",
+    "s": 3
+   },
+   {
+    "id": "herbie-hancock",
+    "why": "Engineered Maiden Voyage and Takin' Off.",
+    "s": 3
+   },
+   {
+    "id": "wes-montgomery",
+    "why": "Engineered Wes Montgomery's Verve and A&M albums.",
+    "s": 3
+   },
+   {
+    "id": "cannonball-adderley",
+    "why": "Engineered Somethin' Else.",
+    "s": 3
+   },
+   {
+    "id": "dexter-gordon",
+    "why": "Engineered Go and other Blue Note albums.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "tom-dowd",
+    "why": "An engineer who shaped how a whole label's records sounded."
+   },
+   {
+    "id": "steve-albini",
+    "why": "An engineer who prized natural, honest room sound."
+   }
+  ]
+ },
+ {
+  "id": "teo-macero",
+  "years": "1957–2008",
+  "origin": "New York, New York",
+  "genres": [
+   "jazz fusion",
+   "cool jazz",
+   "tape editing"
+  ],
+  "summary": "Saxophonist and Columbia Records producer who worked with Miles Davis for two decades. His tape editing on In a Silent Way and Bitches Brew turned long jams into finished albums.",
+  "know": [
+   "He studied at Juilliard and played saxophone in Charles Mingus's Jazz Composers Workshop.",
+   "He produced Dave Brubeck's Time Out, which includes Take Five.",
+   "He built In a Silent Way's side-long tracks by looping and splicing sections of tape."
+  ],
+  "born": "10-30",
+  "keyAlbums": [
+   [
+    "Kind of Blue (Miles Davis)",
+    1959
+   ],
+   [
+    "Time Out (Dave Brubeck Quartet)",
+    1959
+   ],
+   [
+    "Bitches Brew (Miles Davis)",
+    1970
+   ],
+   [
+    "Mingus Ah Um (Charles Mingus)",
+    1959
+   ]
+  ],
+  "songs": [
+   "So What",
+   "Take Five",
+   "Pharaoh's Dance",
+   "Shhh/Peaceful",
+   "Goodbye Pork Pie Hat"
+  ],
+  "influencedBy": [
+   {
+    "id": "charles-mingus",
+    "why": "Played saxophone in Mingus's workshop band before producing him.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "miles-davis",
+    "why": "Produced Sketches of Spain, In a Silent Way, Bitches Brew and more.",
+    "s": 3
+   },
+   {
+    "id": "dave-brubeck",
+    "why": "Produced Time Out.",
+    "s": 3
+   },
+   {
+    "id": "thelonious-monk",
+    "why": "Produced Monk's Columbia albums, including Monk's Dream.",
+    "s": 3
+   },
+   {
+    "id": "charles-mingus",
+    "why": "Produced Mingus Ah Um.",
+    "s": 3
+   },
+   {
+    "id": "gil-evans",
+    "why": "Worked with Evans on the Miles Davis orchestral albums.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "george-martin",
+    "why": "A producer who treated tape and editing as part of composing."
+   },
+   {
+    "id": "conny-plank",
+    "why": "Built records out of studio experiments with tape and sound."
+   }
+  ]
+ },
+ {
+  "id": "creed-taylor",
+  "years": "1954–2022",
+  "origin": "New York, New York",
+  "genres": [
+   "bossa nova",
+   "jazz",
+   "soul jazz"
+  ],
+  "summary": "Producer who founded Impulse! Records and CTI Records. At Verve he produced Getz/Gilberto, which brought bossa nova to a wide American audience.",
+  "know": [
+   "He founded Impulse! in 1960 and signed John Coltrane before leaving for Verve.",
+   "Getz/Gilberto won the Grammy for Album of the Year.",
+   "His CTI label was known for its glossy cover photography and polished soul jazz."
+  ],
+  "born": "05-13",
+  "keyAlbums": [
+   [
+    "Getz/Gilberto (Stan Getz and Joao Gilberto)",
+    1964
+   ],
+   [
+    "Out of the Cool (Gil Evans)",
+    1961
+   ],
+   [
+    "Wave (Antonio Carlos Jobim)",
+    1967
+   ],
+   [
+    "A Day in the Life (Wes Montgomery)",
+    1967
+   ]
+  ],
+  "songs": [
+   "The Girl from Ipanema",
+   "Desafinado",
+   "Wave",
+   "Corcovado"
+  ],
+  "influencedBy": [],
+  "influenced": [
+   {
+    "id": "stan-getz",
+    "why": "Produced Jazz Samba and Getz/Gilberto.",
+    "s": 3
+   },
+   {
+    "id": "joao-gilberto",
+    "why": "Produced Getz/Gilberto.",
+    "s": 3
+   },
+   {
+    "id": "astrud-gilberto",
+    "why": "Produced The Girl from Ipanema and her Verve albums.",
+    "s": 3
+   },
+   {
+    "id": "antonio-carlos-jobim",
+    "why": "Produced Wave and The Composer of Desafinado, Plays.",
+    "s": 3
+   },
+   {
+    "id": "john-coltrane",
+    "why": "Signed Coltrane to Impulse! and produced Africa/Brass.",
+    "s": 3
+   },
+   {
+    "id": "wes-montgomery",
+    "why": "Produced A Day in the Life and Road Song.",
+    "s": 3
+   },
+   {
+    "id": "gil-evans",
+    "why": "Produced Out of the Cool.",
+    "s": 3
+   },
+   {
+    "id": "quincy-jones",
+    "why": "Produced The Quintessence on Impulse!",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "sergio-mendes",
+    "why": "Made bossa nova a polished, international pop sound."
+   },
+   {
+    "id": "ahmet-ertegun",
+    "why": "A label founder with a strong ear for a signature roster."
+   }
+  ]
+ },
+ {
+  "id": "coxsone-dodd-2",
+  "years": "1954–2004",
+  "origin": "Kingston, Jamaica",
+  "genres": [
+   "ska",
+   "rocksteady",
+   "reggae"
+  ],
+  "summary": "Clement 'Coxsone' Dodd ran the Downbeat sound system and founded Studio One in Kingston. He recorded the early Wailers, the Skatalites and many key ska and reggae artists.",
+  "know": [
+   "He opened Studio One on Brentford Road in 1963.",
+   "The Wailers cut their first hit, Simmer Down, for him in 1963.",
+   "Studio One rhythms were reused for decades, forming the base of dancehall."
+  ],
+  "born": "01-26",
+  "keyAlbums": [
+   [
+    "The Wailing Wailers (The Wailers)",
+    1965
+   ],
+   [
+    "Ska Authentic (The Skatalites)",
+    1964
+   ],
+   [
+    "Studio One Rockers (Burning Spear)",
+    1973
+   ],
+   [
+    "Mr. Soul of Jamaica (Alton Ellis)",
+    1967
+   ]
+  ],
+  "songs": [
+   "Simmer Down",
+   "Guns of Navarone",
+   "Rockfort Rock",
+   "Door Peep",
+   "Real Rock"
+  ],
+  "influencedBy": [
+   {
+    "id": "louis-jordan",
+    "why": "His Downbeat sound system played American jump blues like Louis Jordan's.",
+    "s": 2
+   },
+   {
+    "id": "fats-domino",
+    "why": "New Orleans R&B records were the staple of his early sound system and shaped ska's shuffle.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "bob-marley",
+    "why": "Recorded the Wailers' first singles, including Simmer Down.",
+    "s": 3
+   },
+   {
+    "id": "peter-tosh",
+    "why": "Recorded Tosh as a member of the early Wailers.",
+    "s": 3
+   },
+   {
+    "id": "bunny-wailer",
+    "why": "Recorded Bunny Wailer with the Wailers at Studio One.",
+    "s": 3
+   },
+   {
+    "id": "the-skatalites",
+    "why": "The Skatalites were his studio band.",
+    "s": 3
+   },
+   {
+    "id": "lee-scratch-perry",
+    "why": "Perry worked for Dodd as a talent scout and producer before going solo.",
+    "s": 3
+   },
+   {
+    "id": "burning-spear",
+    "why": "Recorded Burning Spear's first albums.",
+    "s": 3
+   },
+   {
+    "id": "alton-ellis",
+    "why": "Recorded many of Alton Ellis's rocksteady hits.",
+    "s": 3
+   },
+   {
+    "id": "dennis-brown",
+    "why": "Recorded Dennis Brown's early singles as a child singer.",
+    "s": 3
+   },
+   {
+    "id": "toots",
+    "why": "Recorded the Maytals' first records.",
+    "s": 3
+   },
+   {
+    "id": "prince-buster",
+    "why": "Buster worked on Dodd's sound system before starting his own.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "berry-gordy",
+    "why": "Ran a studio and label that turned local singers into a national sound."
+   },
+   {
+    "id": "sam-phillips",
+    "why": "Recorded a city's raw young talent and helped invent a new genre."
+   }
+  ]
+ },
+ {
+  "id": "bob-ezrin",
+  "years": "1971–present",
+  "origin": "Toronto, Canada",
+  "genres": [
+   "hard rock",
+   "shock rock",
+   "progressive rock"
+  ],
+  "summary": "Canadian producer known for theatrical, large-scale rock albums. He produced Alice Cooper's breakthrough records, Kiss's Destroyer and co-produced Pink Floyd's The Wall.",
+  "know": [
+   "He began working with Alice Cooper at age 21 on Love It to Death.",
+   "He added the children's choir to Another Brick in the Wall, Part 2.",
+   "He produced Lou Reed's Berlin."
+  ],
+  "born": "03-25",
+  "keyAlbums": [
+   [
+    "Love It to Death (Alice Cooper)",
+    1971
+   ],
+   [
+    "Berlin (Lou Reed)",
+    1973
+   ],
+   [
+    "Destroyer (Kiss)",
+    1976
+   ],
+   [
+    "The Wall (Pink Floyd)",
+    1979
+   ]
+  ],
+  "songs": [
+   "School's Out",
+   "Detroit Rock City",
+   "Another Brick in the Wall, Part 2",
+   "Comfortably Numb",
+   "Beth"
+  ],
+  "influencedBy": [],
+  "influenced": [
+   {
+    "id": "alice-cooper",
+    "why": "Produced Love It to Death, Killer, School's Out and Welcome to My Nightmare.",
+    "s": 3
+   },
+   {
+    "id": "lou-reed",
+    "why": "Produced Berlin.",
+    "s": 3
+   },
+   {
+    "id": "kiss",
+    "why": "Produced Destroyer.",
+    "s": 3
+   },
+   {
+    "id": "pink-floyd",
+    "why": "Co-produced The Wall and A Momentary Lapse of Reason.",
+    "s": 3
+   },
+   {
+    "id": "peter-gabriel",
+    "why": "Produced Peter Gabriel's first solo album.",
+    "s": 3
+   },
+   {
+    "id": "deep-purple",
+    "why": "Produced Now What?! and later Deep Purple albums.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "giorgio-moroder",
+    "why": "Built big, cinematic records with a producer's vision."
+   },
+   {
+    "id": "trevor-horn",
+    "why": "A producer known for grand, theatrical studio productions."
+   }
+  ]
+ },
+ {
+  "id": "tony-visconti",
+  "years": "1967–present",
+  "origin": "London, England",
+  "genres": [
+   "glam rock",
+   "art rock",
+   "rock"
+  ],
+  "summary": "Brooklyn-born producer and bassist who moved to London in 1967. He produced most of T. Rex's records and many of David Bowie's, from 1969 through Blackstar.",
+  "know": [
+   "He produced T. Rex's Electric Warrior, which includes Get It On.",
+   "He co-produced Bowie's Berlin trilogy with Bowie and Brian Eno.",
+   "He produced Bowie's final album, Blackstar, in 2016."
+  ],
+  "born": "04-24",
+  "keyAlbums": [
+   [
+    "Electric Warrior (T. Rex)",
+    1971
+   ],
+   [
+    "Low (David Bowie)",
+    1977
+   ],
+   [
+    "Heroes (David Bowie)",
+    1977
+   ],
+   [
+    "Blackstar (David Bowie)",
+    2016
+   ]
+  ],
+  "songs": [
+   "Get It On",
+   "Heroes",
+   "Ashes to Ashes",
+   "The Man Who Sold the World",
+   "Lazarus"
+  ],
+  "influencedBy": [
+   {
+    "id": "brian-eno",
+    "why": "Worked with Eno on the Berlin records and took on his experimental methods.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "david-bowie",
+    "why": "Produced The Man Who Sold the World, Young Americans, the Berlin trilogy, Scary Monsters and Blackstar.",
+    "s": 3
+   },
+   {
+    "id": "t-rex",
+    "why": "Produced T. Rex from Tyrannosaurus Rex through The Slider.",
+    "s": 3
+   },
+   {
+    "id": "thin-lizzy",
+    "why": "Produced Bad Reputation and co-produced Live and Dangerous.",
+    "s": 3
+   },
+   {
+    "id": "sparks",
+    "why": "Produced Indiscreet.",
+    "s": 3
+   },
+   {
+    "id": "the-moody-blues",
+    "why": "Produced The Other Side of Life and Sur la Mer.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "brian-eno",
+    "why": "A long-time collaborator in art rock studio experiments."
+   },
+   {
+    "id": "conny-plank",
+    "why": "A producer who shaped the sound of 1970s experimental rock."
+   }
+  ]
+ },
+ {
+  "id": "mickie-most",
+  "years": "1964–1983",
+  "origin": "London, England",
+  "genres": [
+   "British Invasion",
+   "pop rock",
+   "glam"
+  ],
+  "summary": "British producer and founder of RAK Records who made a string of 1960s and 1970s hit singles. He produced the Animals' House of the Rising Sun and Jeff Beck's early solo records.",
+  "know": [
+   "He was a rock and roll singer in South Africa before he returned to Britain to produce.",
+   "House of the Rising Sun was recorded in a single take in 1964.",
+   "He founded RAK Records in 1969, home to Suzi Quatro, Mud and Hot Chocolate."
+  ],
+  "born": "06-20",
+  "keyAlbums": [
+   [
+    "The Animals (The Animals)",
+    1964
+   ],
+   [
+    "Little Games (The Yardbirds)",
+    1967
+   ],
+   [
+    "Truth (Jeff Beck)",
+    1968
+   ],
+   [
+    "Suzi Quatro (Suzi Quatro)",
+    1973
+   ]
+  ],
+  "songs": [
+   "The House of the Rising Sun",
+   "Sunshine Superman",
+   "Hi Ho Silver Lining",
+   "Can the Can",
+   "We Gotta Get Out of This Place"
+  ],
+  "influencedBy": [],
+  "influenced": [
+   {
+    "id": "the-animals",
+    "why": "Produced House of the Rising Sun and the Animals' hits.",
+    "s": 3
+   },
+   {
+    "id": "the-yardbirds",
+    "why": "Produced Little Games.",
+    "s": 3
+   },
+   {
+    "id": "jeff-beck",
+    "why": "Produced Hi Ho Silver Lining and Truth.",
+    "s": 3
+   },
+   {
+    "id": "suzi-quatro",
+    "why": "Signed Quatro to RAK and produced Can the Can.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "mutt-lange",
+    "why": "A hit producer who shaped rock singles for radio."
+   },
+   {
+    "id": "billy-sherrill",
+    "why": "A singles-focused producer who knew what a hit sounded like."
+   }
+  ]
+ },
+ {
+  "id": "martin-hannett",
+  "years": "1977–1991",
+  "origin": "Manchester, England",
+  "genres": [
+   "post-punk",
+   "Madchester",
+   "experimental production"
+  ],
+  "summary": "Producer whose spacious, echo-heavy sound defined Joy Division and the early Factory Records catalog. He used digital delay and separated drum recording to build a cold, open sound.",
+  "know": [
+   "He produced the Buzzcocks' Spiral Scratch EP in 1977 under the name Martin Zero.",
+   "He was a founding director of Factory Records.",
+   "He recorded Stephen Morris's drums in isolation and treated them with digital delay on Unknown Pleasures."
+  ],
+  "born": "05-31",
+  "keyAlbums": [
+   [
+    "Spiral Scratch (Buzzcocks)",
+    1977
+   ],
+   [
+    "Unknown Pleasures (Joy Division)",
+    1979
+   ],
+   [
+    "Closer (Joy Division)",
+    1980
+   ],
+   [
+    "Movement (New Order)",
+    1981
+   ]
+  ],
+  "songs": [
+   "Transmission",
+   "Love Will Tear Us Apart",
+   "Atmosphere",
+   "Ceremony",
+   "Wrote for Luck"
+  ],
+  "influencedBy": [
+   {
+    "id": "brian-eno",
+    "why": "Hannett's use of treated, ambient space follows the studio experiments Eno popularized.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "joy-division",
+    "why": "Produced Unknown Pleasures, Closer and the singles.",
+    "s": 3
+   },
+   {
+    "id": "new-order",
+    "why": "Produced Movement.",
+    "s": 3
+   },
+   {
+    "id": "buzzcocks",
+    "why": "Produced Spiral Scratch.",
+    "s": 3
+   },
+   {
+    "id": "happy-mondays",
+    "why": "Produced Bummed.",
+    "s": 3
+   },
+   {
+    "id": "magazine",
+    "why": "Produced The Correct Use of Soap.",
+    "s": 3
+   },
+   {
+    "id": "u2",
+    "why": "Produced U2's early single 11 O'Clock Tick Tock.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "lee-scratch-perry",
+    "why": "A studio producer who built a cold, echo-filled sound from simple parts."
+   },
+   {
+    "id": "burial",
+    "why": "Makes music whose mood comes from space, reverb and empty city sound."
+   }
+  ]
+ },
+ {
+  "id": "trevor-horn",
+  "years": "1979–present",
+  "origin": "London, England",
+  "genres": [
+   "synth-pop",
+   "new wave",
+   "art pop"
+  ],
+  "summary": "Producer, bassist and singer who led the Buggles and then became a defining producer of 1980s pop. He used the Fairlight sampler and dense layering on records by Frankie Goes to Hollywood, ABC and Yes.",
+  "know": [
+   "He co-wrote and sang Video Killed the Radio Star with the Buggles.",
+   "He was briefly the lead singer of Yes on Drama in 1980.",
+   "He co-founded the ZTT label and the group Art of Noise."
+  ],
+  "born": "07-15",
+  "keyAlbums": [
+   [
+    "The Lexicon of Love (ABC)",
+    1982
+   ],
+   [
+    "90125 (Yes)",
+    1983
+   ],
+   [
+    "Welcome to the Pleasuredome (Frankie Goes to Hollywood)",
+    1984
+   ],
+   [
+    "Seal (Seal)",
+    1991
+   ]
+  ],
+  "songs": [
+   "Video Killed the Radio Star",
+   "Owner of a Lonely Heart",
+   "Relax",
+   "Two Tribes",
+   "Kiss from a Rose"
+  ],
+  "influencedBy": [
+   {
+    "id": "kraftwerk",
+    "why": "Kraftwerk's electronic pop pointed him toward synthesizer-built records.",
+    "s": 1
+   },
+   {
+    "id": "yes",
+    "why": "Joined Yes as singer before producing them.",
+    "s": 3
+   },
+   {
+    "id": "phil-spector",
+    "why": "His dense, layered pop records follow Spector's idea of the producer as author.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "yes",
+    "why": "Produced 90125, including Owner of a Lonely Heart.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "giorgio-moroder",
+    "why": "A synth-driven producer who made the producer the star."
+   },
+   {
+    "id": "mutt-lange",
+    "why": "A meticulous producer behind huge 1980s records."
+   }
+  ]
+ },
+ {
+  "id": "stock-aitken-waterman",
+  "years": "1984–1993",
+  "origin": "London, England",
+  "genres": [
+   "Hi-NRG",
+   "Europop",
+   "dance pop"
+  ],
+  "summary": "British songwriting and production team of Mike Stock, Matt Aitken and Pete Waterman. Their PWL studio turned out a run of 1980s UK hits, including Rick Astley and Kylie Minogue.",
+  "know": [
+   "Their first number one was Dead or Alive's You Spin Me Round in 1985.",
+   "They wrote and produced Rick Astley's Never Gonna Give You Up.",
+   "They wrote Kylie Minogue's I Should Be So Lucky."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Youthquake (Dead or Alive)",
+    1985
+   ],
+   [
+    "Whenever You Need Somebody (Rick Astley)",
+    1987
+   ],
+   [
+    "Kylie (Kylie Minogue)",
+    1988
+   ],
+   [
+    "Another Place and Time (Donna Summer)",
+    1989
+   ]
+  ],
+  "songs": [
+   "You Spin Me Round (Like a Record)",
+   "Never Gonna Give You Up",
+   "I Should Be So Lucky",
+   "This Time I Know It's for Real",
+   "Venus"
+  ],
+  "influencedBy": [
+   {
+    "id": "giorgio-moroder",
+    "why": "Their Hi-NRG beats grew from Moroder's synth disco.",
+    "s": 1
+   },
+   {
+    "id": "chic",
+    "why": "Studied disco-era hit structures like Chic's for their dance pop.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "kylie-minogue",
+    "why": "Wrote and produced Kylie's early hits.",
+    "s": 3
+   },
+   {
+    "id": "donna-summer",
+    "why": "Wrote and produced Another Place and Time.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "nile-rodgers",
+    "why": "Made precise, hook-driven dance records that filled the charts."
+   },
+   {
+    "id": "calvin-harris",
+    "why": "Writes and produces dance-pop hits for a range of singers."
+   }
+  ]
+ },
+ {
+  "id": "babyface",
+  "years": "1977–present",
+  "origin": "Cincinnati, Ohio",
+  "genres": [
+   "R&B",
+   "quiet storm",
+   "pop"
+  ],
+  "summary": "Kenneth 'Babyface' Edmonds, a singer, songwriter and producer who defined late 1980s and 1990s R&B ballads. With L.A. Reid he co-founded LaFace Records and wrote hits for Whitney Houston, Toni Braxton and Boyz II Men.",
+  "know": [
+   "He played in the Cincinnati funk band the Deele with L.A. Reid.",
+   "Bootsy Collins gave him the nickname Babyface.",
+   "He co-wrote and produced Eric Clapton's Change the World."
+  ],
+  "born": "04-10",
+  "keyAlbums": [
+   [
+    "Don't Be Cruel (Bobby Brown)",
+    1988
+   ],
+   [
+    "Toni Braxton (Toni Braxton)",
+    1993
+   ],
+   [
+    "The Bodyguard (Whitney Houston)",
+    1992
+   ],
+   [
+    "Waiting to Exhale soundtrack (various)",
+    1995
+   ]
+  ],
+  "songs": [
+   "End of the Road",
+   "I'll Make Love to You",
+   "Breathe Again",
+   "Exhale (Shoop Shoop)",
+   "Whip Appeal"
+  ],
+  "influencedBy": [
+   {
+    "id": "stevie-wonder",
+    "why": "Babyface has named Stevie Wonder as his biggest songwriting influence.",
+    "s": 2
+   },
+   {
+    "id": "bootsy-collins",
+    "why": "Played in Bootsy's band early on, and Bootsy named him.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "toni-braxton",
+    "why": "Signed Braxton to LaFace and wrote and produced Breathe Again.",
+    "s": 3
+   },
+   {
+    "id": "tlc",
+    "why": "Co-wrote and produced songs for TLC on LaFace.",
+    "s": 3
+   },
+   {
+    "id": "boyz-ii-men",
+    "why": "Wrote and produced End of the Road and I'll Make Love to You.",
+    "s": 3
+   },
+   {
+    "id": "whitney-houston",
+    "why": "Wrote and produced I'm Your Baby Tonight and Exhale (Shoop Shoop).",
+    "s": 3
+   },
+   {
+    "id": "bobby-brown",
+    "why": "Co-wrote and produced Don't Be Cruel and Every Little Step.",
+    "s": 3
+   },
+   {
+    "id": "madonna",
+    "why": "Co-wrote and co-produced Take a Bow.",
+    "s": 3
+   },
+   {
+    "id": "eric-clapton",
+    "why": "Produced Change the World.",
+    "s": 3
+   },
+   {
+    "id": "mariah-carey",
+    "why": "Co-wrote and produced Never Forget You.",
+    "s": 3
+   },
+   {
+    "id": "ariana-grande",
+    "why": "Co-wrote and produced Baby I.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "max-martin",
+    "why": "A songwriter-producer behind a decade of chart ballads and hits."
+   },
+   {
+    "id": "jack-antonoff",
+    "why": "A songwriter-producer who writes closely with stars."
+   }
+  ]
+ },
+ {
+  "id": "la-reid",
+  "years": "1977–present",
+  "origin": "Cincinnati, Ohio",
+  "genres": [
+   "R&B",
+   "new jack swing",
+   "pop"
+  ],
+  "summary": "Antonio 'L.A.' Reid, drummer turned producer and record executive. He co-founded LaFace Records with Babyface and later led Arista, Island Def Jam and Epic.",
+  "know": [
+   "He was the drummer in the Deele.",
+   "LaFace launched TLC, Toni Braxton, OutKast and Usher.",
+   "He signed Rihanna while running Island Def Jam."
+  ],
+  "born": "06-07",
+  "keyAlbums": [
+   [
+    "Don't Be Cruel (Bobby Brown)",
+    1988
+   ],
+   [
+    "CrazySexyCool (TLC)",
+    1994
+   ],
+   [
+    "Southernplayalisticadillacmuzik (OutKast)",
+    1994
+   ],
+   [
+    "Confessions (Usher)",
+    2004
+   ]
+  ],
+  "songs": [
+   "Every Little Step",
+   "Roni",
+   "Rock Steady",
+   "Ain't Too Proud 2 Beg"
+  ],
+  "influencedBy": [
+   {
+    "id": "bootsy-collins",
+    "why": "The Deele came out of the Ohio funk scene Bootsy helped build.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "bobby-brown",
+    "why": "Co-produced Don't Be Cruel with Babyface.",
+    "s": 3
+   },
+   {
+    "id": "tlc",
+    "why": "Signed TLC to LaFace.",
+    "s": 3
+   },
+   {
+    "id": "outkast",
+    "why": "Signed OutKast to LaFace.",
+    "s": 3
+   },
+   {
+    "id": "toni-braxton",
+    "why": "Signed Braxton to LaFace.",
+    "s": 3
+   },
+   {
+    "id": "usher",
+    "why": "Signed Usher to LaFace.",
+    "s": 3
+   },
+   {
+    "id": "pink",
+    "why": "Signed Pink to LaFace.",
+    "s": 3
+   },
+   {
+    "id": "rihanna",
+    "why": "Signed Rihanna to Def Jam.",
+    "s": 3
+   },
+   {
+    "id": "justin-bieber",
+    "why": "Signed Bieber to Island Def Jam with Usher and Scooter Braun.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "leonard-chess",
+    "why": "A label head with a long record of signing stars early."
+   },
+   {
+    "id": "rick-rubin",
+    "why": "Co-founded a label that launched a generation of new stars."
+   }
+  ]
+ },
+ {
+  "id": "the-bomb-squad",
+  "years": "1986–present",
+  "origin": "Hempstead, New York",
+  "genres": [
+   "hip hop",
+   "noise",
+   "sampling"
+  ],
+  "summary": "Production team of Hank Shocklee, Keith Shocklee, Eric 'Vietnam' Sadler and Chuck D. They built Public Enemy's records from dense walls of samples, sirens and noise.",
+  "know": [
+   "They layered dozens of samples on single tracks, such as Fight the Power.",
+   "Their work came before stricter sample clearance rules changed hip hop production.",
+   "They produced Ice Cube's first solo album, AmeriKKKa's Most Wanted."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "It Takes a Nation of Millions to Hold Us Back (Public Enemy)",
+    1988
+   ],
+   [
+    "Fear of a Black Planet (Public Enemy)",
+    1990
+   ],
+   [
+    "AmeriKKKa's Most Wanted (Ice Cube)",
+    1990
+   ],
+   [
+    "The Great Adventures of Slick Rick (Slick Rick)",
+    1988
+   ]
+  ],
+  "songs": [
+   "Rebel Without a Pause",
+   "Bring the Noise",
+   "Fight the Power",
+   "Welcome to the Terrordome"
+  ],
+  "influencedBy": [
+   {
+    "id": "james-brown",
+    "why": "Sampled James Brown records heavily as raw material.",
+    "s": 2
+   },
+   {
+    "id": "afrika-bambaataa",
+    "why": "Bambaataa's collage approach to records helped set their method.",
+    "s": 1
+   },
+   {
+    "id": "grandmaster-flash",
+    "why": "Built on Flash's turntable cutting and layering.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "public-enemy",
+    "why": "Produced Public Enemy's first albums.",
+    "s": 3
+   },
+   {
+    "id": "ice-cube",
+    "why": "Produced AmeriKKKa's Most Wanted.",
+    "s": 3
+   },
+   {
+    "id": "slick-rick",
+    "why": "Co-produced tracks on The Great Adventures of Slick Rick.",
+    "s": 3
+   },
+   {
+    "id": "nine-inch-nails",
+    "why": "Trent Reznor has cited Public Enemy's dense production as an influence.",
+    "s": 2
+   },
+   {
+    "id": "rage-against-the-machine",
+    "why": "Tom Morello and the band have cited Public Enemy's noisy production.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "aphex-twin",
+    "why": "Made aggressive, sample-heavy electronic music."
+   },
+   {
+    "id": "king-tubby",
+    "why": "Rebuilt records in the studio from layers and effects."
+   }
+  ]
+ },
+ {
+  "id": "prince-paul",
+  "years": "1984–present",
+  "origin": "Amityville, New York",
+  "genres": [
+   "alternative hip hop",
+   "jazz rap",
+   "comedy hip hop"
+  ],
+  "summary": "Producer and DJ known for humor, skits and eclectic samples. He produced De La Soul's 3 Feet High and Rising and co-founded Gravediggaz with RZA.",
+  "know": [
+   "He was the DJ for the group Stetsasonic.",
+   "3 Feet High and Rising used samples from Steely Dan, Hall and Oates and French language lessons.",
+   "He made the concept album A Prince Among Thieves in 1999."
+  ],
+  "born": "04-02",
+  "keyAlbums": [
+   [
+    "3 Feet High and Rising (De La Soul)",
+    1989
+   ],
+   [
+    "De La Soul Is Dead (De La Soul)",
+    1991
+   ],
+   [
+    "6 Feet Deep (Gravediggaz)",
+    1994
+   ],
+   [
+    "A Prince Among Thieves (Prince Paul)",
+    1999
+   ]
+  ],
+  "songs": [
+   "Me Myself and I",
+   "Eye Know",
+   "Buddy",
+   "Diary of a Madman"
+  ],
+  "influencedBy": [
+   {
+    "id": "afrika-bambaataa",
+    "why": "Learned from Bambaataa's mix of any record that worked.",
+    "s": 1
+   },
+   {
+    "id": "grandmaster-flash",
+    "why": "Came up DJing in the style Flash pioneered.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "de-la-soul",
+    "why": "Produced their first three albums.",
+    "s": 3
+   },
+   {
+    "id": "rza",
+    "why": "Co-founded Gravediggaz with RZA.",
+    "s": 3
+   },
+   {
+    "id": "danger-mouse",
+    "why": "Danger Mouse's sample-collage projects follow Prince Paul's playful method.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-avalanches",
+    "why": "Builds whole albums out of playful, wide-ranging samples."
+   },
+   {
+    "id": "ween",
+    "why": "A band that mixes humor and eclectic sounds into song."
+   }
+  ]
+ },
+ {
+  "id": "puff-daddy-2",
+  "years": "1990–present",
+  "origin": "New York, New York",
+  "genres": [
+   "East Coast hip hop",
+   "hip hop soul",
+   "R&B"
+  ],
+  "summary": "Sean Combs, producer and founder of Bad Boy Records. As an Uptown Records executive and then label head, he shaped the 1990s fusion of hip hop and R&B.",
+  "know": [
+   "He began as an intern at Uptown Records.",
+   "He founded Bad Boy Records in 1993.",
+   "I'll Be Missing You was a number one single in 1997."
+  ],
+  "born": "11-04",
+  "keyAlbums": [
+   [
+    "What's the 411? (Mary J. Blige)",
+    1992
+   ],
+   [
+    "Ready to Die (The Notorious B.I.G.)",
+    1994
+   ],
+   [
+    "No Way Out (Puff Daddy and the Family)",
+    1997
+   ],
+   [
+    "Hard Core (Lil' Kim)",
+    1996
+   ]
+  ],
+  "songs": [
+   "Juicy",
+   "Real Love",
+   "Can't Nobody Hold Me Down",
+   "Mo Money Mo Problems",
+   "I'll Be Missing You"
+  ],
+  "influencedBy": [
+   {
+    "id": "teddy-riley",
+    "why": "His blend of R&B and hip hop at Uptown built on Riley's new jack swing.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "notorious-big",
+    "why": "Signed Biggie to Bad Boy and executive produced Ready to Die.",
+    "s": 3
+   },
+   {
+    "id": "mary-j-blige",
+    "why": "Executive produced What's the 411? at Uptown.",
+    "s": 3
+   },
+   {
+    "id": "jodeci",
+    "why": "Worked on Jodeci's Forever My Lady at Uptown.",
+    "s": 3
+   },
+   {
+    "id": "lil-kim",
+    "why": "Executive produced Hard Core.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "berry-gordy",
+    "why": "A label head who built a hit roster under one house style."
+   },
+   {
+    "id": "max-martin",
+    "why": "Ran a hit-making system with a signature radio sound."
+   }
+  ]
+ },
+ {
+  "id": "swizz-beatz",
+  "years": "1998–present",
+  "origin": "Bronx, New York",
+  "genres": [
+   "East Coast hip hop",
+   "crunk",
+   "club rap"
+  ],
+  "summary": "Kasseem Dean, a producer who came up with his uncles' Ruff Ryders label. His loud keyboard riffs and chants powered DMX's early hits and many 2000s club records.",
+  "know": [
+   "He produced Ruff Ryders' Anthem for DMX while still a teenager.",
+   "He co-created the Verzuz online battle series with Timbaland in 2020.",
+   "He co-produced Beyonce's Check On It and Ring the Alarm."
+  ],
+  "born": "09-13",
+  "keyAlbums": [
+   [
+    "It's Dark and Hell Is Hot (DMX)",
+    1998
+   ],
+   [
+    "Ryde or Die Vol. 1 (Ruff Ryders)",
+    1999
+   ],
+   [
+    "B'Day (Beyonce)",
+    2006
+   ],
+   [
+    "Poison (Swizz Beatz)",
+    2018
+   ]
+  ],
+  "songs": [
+   "Ruff Ryders' Anthem",
+   "Party Up (Up in Here)",
+   "Money Cash Hoes",
+   "Touch It",
+   "Bring Em Out"
+  ],
+  "influencedBy": [
+   {
+    "id": "teddy-riley",
+    "why": "Swizz has called Teddy Riley a role model for a producer with a signature keyboard sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "dmx",
+    "why": "Produced Ruff Ryders' Anthem and Party Up.",
+    "s": 3
+   },
+   {
+    "id": "jay-z",
+    "why": "Produced Money Cash Hoes and other Jay-Z tracks.",
+    "s": 3
+   },
+   {
+    "id": "beyonce",
+    "why": "Co-produced Check On It and Ring the Alarm.",
+    "s": 3
+   },
+   {
+    "id": "busta-rhymes",
+    "why": "Produced Touch It.",
+    "s": 3
+   },
+   {
+    "id": "t-i",
+    "why": "Produced Bring Em Out.",
+    "s": 3
+   },
+   {
+    "id": "alicia-keys",
+    "why": "Co-wrote and co-produced songs on Alicia Keys's later albums.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "diplo",
+    "why": "Makes loud, chant-driven club records built for crowds."
+   },
+   {
+    "id": "tainy",
+    "why": "A producer whose signature sound runs through a genre's biggest club hits."
+   }
+  ]
+ },
+ {
+  "id": "just-blaze",
+  "years": "1999–present",
+  "origin": "Paterson, New Jersey",
+  "genres": [
+   "East Coast hip hop",
+   "soul sampling",
+   "stadium rap"
+  ],
+  "summary": "Justin Smith, a producer known for big, horn and soul-sample beats. He was a lead producer at Roc-A-Fella Records and made key tracks on Jay-Z's The Blueprint.",
+  "know": [
+   "He produced Girls, Girls, Girls and Song Cry on The Blueprint.",
+   "His track Public Service Announcement is a frequent pick among Jay-Z's best beats.",
+   "He produced Lord Knows on Drake's Take Care."
+  ],
+  "born": "04-15",
+  "keyAlbums": [
+   [
+    "The Blueprint (Jay-Z)",
+    2001
+   ],
+   [
+    "Come Home with Me (Cam'ron)",
+    2002
+   ],
+   [
+    "The Black Album (Jay-Z)",
+    2003
+   ],
+   [
+    "Paper Trail (T.I.)",
+    2008
+   ]
+  ],
+  "songs": [
+   "Public Service Announcement",
+   "Oh Boy",
+   "Song Cry",
+   "Live Your Life",
+   "Lord Knows"
+  ],
+  "influencedBy": [
+   {
+    "id": "pete-rock",
+    "why": "Just Blaze has cited Pete Rock's soul sampling as a model.",
+    "s": 2
+   },
+   {
+    "id": "dj-premier",
+    "why": "Studied DJ Premier's chops and drums.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "jay-z",
+    "why": "Produced key tracks on The Blueprint and The Black Album.",
+    "s": 3
+   },
+   {
+    "id": "camron",
+    "why": "Produced Oh Boy.",
+    "s": 3
+   },
+   {
+    "id": "dipset",
+    "why": "Produced tracks for the Diplomats on Roc-A-Fella.",
+    "s": 3
+   },
+   {
+    "id": "t-i",
+    "why": "Produced Live Your Life.",
+    "s": 3
+   },
+   {
+    "id": "eminem",
+    "why": "Produced No Love.",
+    "s": 3
+   },
+   {
+    "id": "drake",
+    "why": "Produced Lord Knows.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "daft-punk",
+    "why": "Builds big, triumphant tracks from chopped soul and disco samples."
+   },
+   {
+    "id": "nile-rodgers",
+    "why": "A producer whose sound sits at the center of a label's biggest records."
+   }
+  ]
+ },
+ {
+  "id": "dj-mustard",
+  "years": "2011–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "West Coast hip hop",
+   "ratchet",
+   "R&B"
+  ],
+  "summary": "Dijon McFarlane, a Los Angeles producer whose spare, bass-heavy beats and finger snaps defined West Coast club rap in the 2010s. His tag 'Mustard on the beat' became widely known.",
+  "know": [
+   "He was YG's DJ before producing his records.",
+   "He produced Kendrick Lamar's Not Like Us in 2024.",
+   "He won Grammy awards for Not Like Us, including Record of the Year."
+  ],
+  "born": "07-22",
+  "keyAlbums": [
+   [
+    "My Krazy Life (YG)",
+    2014
+   ],
+   [
+    "10 Summers (DJ Mustard)",
+    2014
+   ],
+   [
+    "Perfect Ten (Mustard)",
+    2019
+   ],
+   [
+    "GNX (Kendrick Lamar)",
+    2024
+   ]
+  ],
+  "songs": [
+   "Rack City",
+   "Paranoid",
+   "Needed Me",
+   "Ballin'",
+   "Not Like Us"
+  ],
+  "influencedBy": [
+   {
+    "id": "dj-quik",
+    "why": "Mustard's spare West Coast funk follows the line of DJ Quik's productions.",
+    "s": 1
+   },
+   {
+    "id": "e-40",
+    "why": "Bay Area hyphy and E-40's club records fed into the ratchet style.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "yg",
+    "why": "Produced most of My Krazy Life.",
+    "s": 3
+   },
+   {
+    "id": "ty-dolla-sign",
+    "why": "Produced Paranoid and other Ty Dolla Sign records.",
+    "s": 3
+   },
+   {
+    "id": "kendrick-lamar",
+    "why": "Produced Not Like Us and tracks on GNX.",
+    "s": 3
+   },
+   {
+    "id": "rihanna",
+    "why": "Co-produced Needed Me.",
+    "s": 3
+   },
+   {
+    "id": "2-chainz",
+    "why": "Produced I'm Different.",
+    "s": 3
+   },
+   {
+    "id": "young-jeezy",
+    "why": "Produced R.I.P.",
+    "s": 3
+   },
+   {
+    "id": "roddy-ricch",
+    "why": "Produced Ballin'.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "calvin-harris",
+    "why": "Makes minimal, hook-first club records for radio."
+   },
+   {
+    "id": "tainy",
+    "why": "A producer whose spare beats became the sound of a scene."
+   }
+  ]
+ },
+ {
+  "id": "zaytoven",
+  "years": "2005–present",
+  "origin": "Atlanta, Georgia",
+  "genres": [
+   "trap",
+   "Atlanta hip hop",
+   "gospel-influenced"
+  ],
+  "summary": "Xavier Dotson, an Atlanta producer and church musician whose piano and organ melodies helped shape trap. He produced much of Gucci Mane's early catalog and early Migos and Future records.",
+  "know": [
+   "He learned piano and organ playing in church as a child.",
+   "He produced Gucci Mane and Young Jeezy's So Icy in 2005.",
+   "He made many beats in his home studio while working as a barber."
+  ],
+  "born": "06-24",
+  "keyAlbums": [
+   [
+    "Trap House (Gucci Mane)",
+    2005
+   ],
+   [
+    "Y.R.N. (Migos)",
+    2013
+   ],
+   [
+    "Beast Mode (Future)",
+    2015
+   ],
+   [
+    "Trap Holizay (Zaytoven)",
+    2017
+   ]
+  ],
+  "songs": [
+   "So Icy",
+   "Lemonade",
+   "Versace",
+   "Bando",
+   "Trap House"
+  ],
+  "influencedBy": [
+   {
+    "id": "mannie-fresh",
+    "why": "His synth-heavy Southern beats build on Mannie Fresh's work.",
+    "s": 1
+   },
+   {
+    "id": "organized-noize",
+    "why": "Atlanta production pioneers who showed a local sound could go national.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "gucci-mane",
+    "why": "Produced much of Gucci Mane's early work, including Trap House.",
+    "s": 3
+   },
+   {
+    "id": "young-jeezy",
+    "why": "Produced So Icy with Gucci Mane and Jeezy.",
+    "s": 3
+   },
+   {
+    "id": "migos",
+    "why": "Produced Bando and much of Migos's early mixtapes.",
+    "s": 3
+   },
+   {
+    "id": "future",
+    "why": "Produced Beast Mode and other Future projects.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bernie-worrell",
+    "why": "A keyboardist whose church-trained organ playing shaped funk."
+   },
+   {
+    "id": "tainy",
+    "why": "A producer whose melodic beats defined a new wave of his genre."
+   }
+  ]
+ },
+ {
+  "id": "hit-boy",
+  "years": "2008–present",
+  "origin": "Fontana, California",
+  "genres": [
+   "hip hop",
+   "West Coast hip hop",
+   "trap"
+  ],
+  "summary": "Chauncey Hollis, a producer from the Inland Empire who signed to Kanye West's GOOD Music. He produced tracks on Watch the Throne and later all of Nas's King's Disease series.",
+  "know": [
+   "He was part of the production team Surf Club.",
+   "He co-produced Travis Scott's Sicko Mode.",
+   "King's Disease won the Grammy for Best Rap Album."
+  ],
+  "born": "08-09",
+  "keyAlbums": [
+   [
+    "Watch the Throne (Jay-Z and Kanye West)",
+    2011
+   ],
+   [
+    "good kid, m.A.A.d city (Kendrick Lamar)",
+    2012
+   ],
+   [
+    "Beyonce (Beyonce)",
+    2013
+   ],
+   [
+    "King's Disease (Nas)",
+    2020
+   ]
+  ],
+  "songs": [
+   "Backseat Freestyle",
+   "Sicko Mode",
+   "Flawless",
+   "Ultra Black",
+   "Clique"
+  ],
+  "influencedBy": [
+   {
+    "id": "kanye-west",
+    "why": "Signed to Kanye's GOOD Music as a producer.",
+    "s": 3
+   },
+   {
+    "id": "dj-premier",
+    "why": "Hit-Boy's later boom bap work with Nas leans on DJ Premier's style.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "jay-z",
+    "why": "Produced tracks on Watch the Throne.",
+    "s": 3
+   },
+   {
+    "id": "nas",
+    "why": "Produced the King's Disease albums and Magic.",
+    "s": 3
+   },
+   {
+    "id": "kendrick-lamar",
+    "why": "Produced Backseat Freestyle.",
+    "s": 3
+   },
+   {
+    "id": "travis-scott",
+    "why": "Co-produced Sicko Mode.",
+    "s": 3
+   },
+   {
+    "id": "beyonce",
+    "why": "Co-produced Flawless.",
+    "s": 3
+   },
+   {
+    "id": "big-sean",
+    "why": "Co-produced Clique for GOOD Music.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "jack-antonoff",
+    "why": "A producer who makes full albums with a single star."
+   },
+   {
+    "id": "dave-cobb",
+    "why": "Built a late-career run of albums with veteran artists."
+   }
+  ]
+ },
+ {
+  "id": "dr-luke",
+  "years": "2004–present",
+  "origin": "New York, New York",
+  "genres": [
+   "dance pop",
+   "electropop",
+   "pop rock"
+  ],
+  "summary": "Lukasz Gottwald, a songwriter and producer who co-wrote many 2000s and 2010s pop hits. He worked closely with Max Martin on songs for Kelly Clarkson and Katy Perry.",
+  "know": [
+   "He was the guitarist in the Saturday Night Live house band for about ten years.",
+   "He co-wrote and produced Since U Been Gone with Max Martin.",
+   "He founded the Kemosabe Records label."
+  ],
+  "born": "09-26",
+  "keyAlbums": [
+   [
+    "Breakaway (Kelly Clarkson)",
+    2004
+   ],
+   [
+    "One of the Boys (Katy Perry)",
+    2008
+   ],
+   [
+    "Animal (Kesha)",
+    2010
+   ],
+   [
+    "Hot Pink (Doja Cat)",
+    2019
+   ]
+  ],
+  "songs": [
+   "Since U Been Gone",
+   "I Kissed a Girl",
+   "Party in the U.S.A.",
+   "California Gurls",
+   "Say So"
+  ],
+  "influencedBy": [
+   {
+    "id": "max-martin",
+    "why": "Max Martin mentored him and co-wrote his early hits.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "kelly-clarkson",
+    "why": "Co-wrote and produced Since U Been Gone and Behind These Hazel Eyes.",
+    "s": 3
+   },
+   {
+    "id": "katy-perry",
+    "why": "Co-wrote and produced I Kissed a Girl and California Gurls.",
+    "s": 3
+   },
+   {
+    "id": "kesha",
+    "why": "Co-wrote and produced Animal, including TiK ToK.",
+    "s": 3
+   },
+   {
+    "id": "britney-spears",
+    "why": "Co-produced Circus and Hold It Against Me.",
+    "s": 3
+   },
+   {
+    "id": "pink",
+    "why": "Co-wrote and produced So What.",
+    "s": 3
+   },
+   {
+    "id": "nicki-minaj",
+    "why": "Co-produced Starships.",
+    "s": 3
+   },
+   {
+    "id": "doja-cat",
+    "why": "Co-wrote and produced Say So.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "mutt-lange",
+    "why": "A rock-trained producer who built polished pop and rock hits."
+   },
+   {
+    "id": "calvin-harris",
+    "why": "Writes and produces radio-ready dance pop for big singers."
+   }
+  ]
+ },
+ {
+  "id": "rodney-jerkins",
+  "years": "1993–present",
+  "origin": "Pleasantville, New Jersey",
+  "genres": [
+   "R&B",
+   "pop",
+   "dance pop"
+  ],
+  "summary": "Producer known as Darkchild who made many late 1990s and 2000s R&B and pop hits. He produced The Boy Is Mine for Brandy and Monica and Say My Name for Destiny's Child.",
+  "know": [
+   "He began producing as a teenager and was mentored by Teddy Riley.",
+   "He produced much of Michael Jackson's Invincible.",
+   "He co-wrote and produced Lady Gaga's Telephone."
+  ],
+  "born": "07-29",
+  "keyAlbums": [
+   [
+    "Never Say Never (Brandy)",
+    1998
+   ],
+   [
+    "The Writing's on the Wall (Destiny's Child)",
+    1999
+   ],
+   [
+    "Invincible (Michael Jackson)",
+    2001
+   ],
+   [
+    "The Heat (Toni Braxton)",
+    2000
+   ]
+  ],
+  "songs": [
+   "The Boy Is Mine",
+   "Say My Name",
+   "It's Not Right but It's Okay",
+   "He Wasn't Man Enough",
+   "Telephone"
+  ],
+  "influencedBy": [
+   {
+    "id": "teddy-riley",
+    "why": "Teddy Riley mentored him early in his career.",
+    "s": 3
+   },
+   {
+    "id": "michael-jackson",
+    "why": "Grew up on Jackson's records and later produced him.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "brandy",
+    "why": "Co-wrote and produced The Boy Is Mine with Brandy and Monica.",
+    "s": 3
+   },
+   {
+    "id": "monica",
+    "why": "Co-produced The Boy Is Mine.",
+    "s": 3
+   },
+   {
+    "id": "destinys-child",
+    "why": "Co-wrote and produced Say My Name.",
+    "s": 3
+   },
+   {
+    "id": "michael-jackson",
+    "why": "Produced much of Invincible, including You Rock My World.",
+    "s": 3
+   },
+   {
+    "id": "whitney-houston",
+    "why": "Co-wrote and produced It's Not Right but It's Okay.",
+    "s": 3
+   },
+   {
+    "id": "toni-braxton",
+    "why": "Produced He Wasn't Man Enough.",
+    "s": 3
+   },
+   {
+    "id": "lady-gaga",
+    "why": "Co-wrote and produced Telephone.",
+    "s": 3
+   },
+   {
+    "id": "spice-girls",
+    "why": "Produced Holler.",
+    "s": 3
+   },
+   {
+    "id": "justin-bieber",
+    "why": "Produced As Long as You Love Me.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "max-martin",
+    "why": "A hitmaking producer behind a run of late 1990s chart songs."
+   },
+   {
+    "id": "timbaland",
+    "why": "A fellow R&B producer who shaped radio's sound at the same time."
+   }
+  ]
+ },
+ {
+  "id": "tricky-stewart",
+  "years": "1995–present",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "R&B",
+   "pop",
+   "dance pop"
+  ],
+  "summary": "Christopher 'Tricky' Stewart, a producer who often works with songwriter The-Dream. They co-wrote and produced Rihanna's Umbrella and Beyonce's Single Ladies.",
+  "know": [
+   "He co-founded RedZone Entertainment with family members.",
+   "He co-produced Britney Spears's Me Against the Music.",
+   "He co-wrote and produced Justin Bieber's Baby."
+  ],
+  "born": "01-19",
+  "keyAlbums": [
+   [
+    "Good Girl Gone Bad (Rihanna)",
+    2007
+   ],
+   [
+    "I Am... Sasha Fierce (Beyonce)",
+    2008
+   ],
+   [
+    "E=MC2 (Mariah Carey)",
+    2008
+   ],
+   [
+    "My World 2.0 (Justin Bieber)",
+    2010
+   ]
+  ],
+  "songs": [
+   "Umbrella",
+   "Single Ladies (Put a Ring on It)",
+   "Touch My Body",
+   "Baby",
+   "Me Against the Music"
+  ],
+  "influencedBy": [
+   {
+    "id": "prince",
+    "why": "His R&B production draws on Prince's synth and drum programming.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-dream",
+    "why": "Launched The-Dream's career and co-produced his albums.",
+    "s": 3
+   },
+   {
+    "id": "rihanna",
+    "why": "Co-wrote and produced Umbrella.",
+    "s": 3
+   },
+   {
+    "id": "beyonce",
+    "why": "Co-wrote and produced Single Ladies.",
+    "s": 3
+   },
+   {
+    "id": "mariah-carey",
+    "why": "Co-wrote and produced Touch My Body.",
+    "s": 3
+   },
+   {
+    "id": "justin-bieber",
+    "why": "Co-wrote and produced Baby.",
+    "s": 3
+   },
+   {
+    "id": "britney-spears",
+    "why": "Co-produced Me Against the Music.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "timbaland",
+    "why": "A producer whose drum programming defined 2000s R&B and pop radio."
+   },
+   {
+    "id": "tainy",
+    "why": "A producer behind many of his genre's biggest singles."
+   }
+  ]
+ },
+ {
+  "id": "dan-auerbach",
+  "years": "2002–present",
+  "origin": "Akron, Ohio",
+  "genres": [
+   "blues rock",
+   "garage rock",
+   "soul"
+  ],
+  "summary": "Singer, guitarist and producer of the Black Keys who also runs Easy Eye Sound in Nashville. He produces records with a warm, vintage sound for artists from Dr. John to Lana Del Rey.",
+  "know": [
+   "He formed the Black Keys with drummer Patrick Carney in Akron.",
+   "He founded the label and studio Easy Eye Sound in Nashville.",
+   "He won the Grammy for Producer of the Year in 2013."
+  ],
+  "born": "05-14",
+  "keyAlbums": [
+   [
+    "Brothers (The Black Keys)",
+    2010
+   ],
+   [
+    "Locked Down (Dr. John)",
+    2012
+   ],
+   [
+    "Ultraviolence (Lana Del Rey)",
+    2014
+   ],
+   [
+    "Alone (The Pretenders)",
+    2016
+   ]
+  ],
+  "songs": [
+   "Tighten Up",
+   "Lonely Boy",
+   "Gold on the Ceiling",
+   "Revolution (Dr. John)",
+   "West Coast"
+  ],
+  "influencedBy": [
+   {
+    "id": "rl-burnside",
+    "why": "Auerbach has named RL Burnside's hill country blues as a key influence.",
+    "s": 2
+   },
+   {
+    "id": "muddy-waters",
+    "why": "Learned blues guitar from records by Muddy Waters and other Chicago blues players.",
+    "s": 1
+   },
+   {
+    "id": "howlin-wolf",
+    "why": "Howlin' Wolf's raw electric blues shaped the early Black Keys sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-black-keys",
+    "why": "Co-founded the Black Keys and co-produced their records.",
+    "s": 3
+   },
+   {
+    "id": "dr-john",
+    "why": "Produced Locked Down.",
+    "s": 3
+   },
+   {
+    "id": "lana-del-rey",
+    "why": "Produced Ultraviolence.",
+    "s": 3
+   },
+   {
+    "id": "the-pretenders",
+    "why": "Produced Alone.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "dave-cobb",
+    "why": "A Nashville producer known for warm, live-band records."
+   },
+   {
+    "id": "leon-bridges",
+    "why": "Makes soul with a vintage sound."
+   }
+  ]
+ },
+ {
+  "id": "john-congleton",
+  "years": "2000–present",
+  "origin": "Dallas, Texas",
+  "genres": [
+   "indie rock",
+   "art rock",
+   "post-rock"
+  ],
+  "summary": "Producer and engineer who led the Dallas band the Paper Chase. He became a sought-after indie producer, winning a Grammy for St. Vincent's self-titled album.",
+  "know": [
+   "He fronted the noise rock band the Paper Chase.",
+   "He won the Grammy for Best Alternative Music Album for St. Vincent in 2015.",
+   "He produced Sleater-Kinney's comeback album No Cities to Love."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Earth Is Not a Cold Dead Place (Explosions in the Sky)",
+    2003
+   ],
+   [
+    "St. Vincent (St. Vincent)",
+    2014
+   ],
+   [
+    "No Cities to Love (Sleater-Kinney)",
+    2015
+   ],
+   [
+    "Pollinator (Blondie)",
+    2017
+   ]
+  ],
+  "songs": [
+   "Your Hand in Mine",
+   "Digital Witness",
+   "Bury Our Friends",
+   "Fun"
+  ],
+  "influencedBy": [
+   {
+    "id": "steve-albini",
+    "why": "Congleton's engineer-first approach to noisy guitar bands follows Albini's.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "explosions-in-the-sky",
+    "why": "Recorded The Earth Is Not a Cold Dead Place.",
+    "s": 3
+   },
+   {
+    "id": "sleater-kinney",
+    "why": "Produced No Cities to Love.",
+    "s": 3
+   },
+   {
+    "id": "blondie",
+    "why": "Produced Pollinator.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "dave-cobb",
+    "why": "A producer much in demand for direct, live-feeling records."
+   },
+   {
+    "id": "aaron-dessner",
+    "why": "An indie-world producer who works across many artists."
+   }
+  ]
+ }
+]

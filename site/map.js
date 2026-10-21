@@ -8,10 +8,10 @@
   const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
   // the map is a night sky in both themes, so it uses its own bright genre palette
   const COL = { blues: "#6f97f0", jazz: "#a88bf2", country: "#e0ae55", folk: "#9cc96b", rock: "#f26a5c", alt: "#45cbbd", metal: "#b4b0c2",
-    soul: "#f7ad4f", pop: "#f27fd3", hiphop: "#f4d047", electronic: "#5ec8f5", reggae: "#bede4f", latin: "#e09572" };
+    soul: "#f7ad4f", pop: "#f27fd3", hiphop: "#f4d047", electronic: "#5ec8f5", reggae: "#bede4f", latin: "#e09572", global: "#3ddc97" };
   const UP = "#92a8ff", DOWN = "#ff8c5e";
   // lane order puts neighbours next to each other around the tube
-  const LANES = ["blues", "soul", "hiphop", "electronic", "pop", "latin", "reggae", "jazz", "folk", "country", "rock", "alt", "metal"];
+  const LANES = ["blues", "soul", "hiphop", "electronic", "pop", "latin", "global", "reggae", "jazz", "folk", "country", "rock", "alt", "metal"];
   const DX = 175, R = 330;
 
   let mode = null, built3 = false, builtF = false, G3 = null, F = null, isActive = false;
@@ -48,7 +48,7 @@
     $("#era").oninput = () => { stopPlay(); setCutoff(+$("#era").value); };
     $("#playhist").onclick = () => (playing ? stopPlay() : playHistory());
     $("#zin").onclick = () => zoom(0.7); $("#zout").onclick = () => zoom(1.4); $("#zfit").onclick = fit;
-    $("#mapfocus").addEventListener("click", (e) => { if (e.target.closest(".x")) select(null); });
+    $("#mapfocus").addEventListener("click", (e) => { if (e.target.closest(".x")) { if (mode === "cities") { window.SL_CITIES.clear(); $("#mapfocus").hidden = true; } else select(null); } });
     window.addEventListener("resize", () => { if (isActive) size(); });
   }
   function drawFilter() {
@@ -75,16 +75,23 @@
   }
   function show() {
     document.querySelectorAll("[data-mapmode]").forEach((b) => b.classList.toggle("on", b.dataset.mapmode === mode));
-    $("#graph3d").hidden = mode !== "3d"; $("#graph").hidden = mode !== "flat";
+    $("#graph3d").hidden = mode !== "3d"; $("#graph").hidden = mode !== "flat"; $("#citymap").hidden = mode !== "cities"; $("#scenes").hidden = mode !== "cities";
+    $("#maplede").textContent = mode === "cities"
+      ? "Where the music came from. Each dot is a city, sized by how many artists came up there and colored by its main genre. Ringed cities had a scene. Tap a city to see its artists and where its sound spread."
+      : "Time runs left to right, from ragtime to now. Each genre has its own lane around the timeline. Drag to turn it, scroll or pinch to zoom, tap an artist to see their influences flow in and their legacy flow out.";
     data();
-    if (mode === "3d") { if (!built3) build3(); G3.resumeAnimation(); size(); loop(); }
-    else { G3?.pauseAnimation(); cancelAnimationFrame(raf); $("#labels").innerHTML = ""; labelEls = {}; if (!builtF) buildFlat(); size(); F.draw(); }
-    focusCard();
+    if (mode === "3d") { if (!built3) build3(); G3.resumeAnimation(); size(); loop(); focusCard(); }
+    else if (mode === "flat") { G3?.pauseAnimation(); cancelAnimationFrame(raf); $("#labels").innerHTML = ""; labelEls = {}; if (!builtF) buildFlat(); size(); F.draw(); focusCard(); }
+    else {
+      G3?.pauseAnimation(); cancelAnimationFrame(raf); $("#labels").innerHTML = ""; labelEls = {}; $("#mapfocus").hidden = true;
+      window.SL_CITIES.build({ COL, vis: (a) => !hidden.has(a.family) && C().decIdx(a.decade) <= cutoff }).then(() => { window.SL_CITIES.resize(); if (sel) window.SL_CITIES.selectArtist(sel); });
+    }
   }
   function size() {
     const w = $("#mapwrap").clientWidth, h = $("#mapwrap").clientHeight;
     if (G3 && mode === "3d") G3.width(w).height(h);
     if (F && mode === "flat") { F.canvas.width = 0; F.draw(); }
+    if (mode === "cities") window.SL_CITIES.resize();
   }
 
   /* ---------- 3D ---------- */
@@ -170,6 +177,7 @@
         .linkColor(linkColor).linkWidth((l) => (isHL(l) ? 1.4 : 0)).linkDirectionalParticles((l) => (isHL(l) ? 3 : 0));
     }
     if (F) F.draw();
+    window.SL_CITIES?.refresh();
   }
 
   /* labels: HTML overlay projected each frame */
@@ -185,7 +193,7 @@
     const want = new Map();
     // decade markers along the top of the tube, genre names at the start of each lane
     ctx.DECADES.forEach((d, i) => { if (i <= cutoff) want.set("d:" + d, { x: (i - (ctx.DECADES.length - 1) / 2) * DX, y: R + 95, z: 0, text: d.toUpperCase(), cls: "dec" }); });
-    for (const f of LANES) { if (hidden.has(f)) continue; const t = ang(f); want.set("f:" + f, { x: -((ctx.DECADES.length - 1) / 2) * DX - 70, y: Math.cos(t) * (R + 10), z: Math.sin(t) * (R + 10), text: ctx.FAM[f].short, cls: "dec", color: COL[f] }); }
+    for (const f of LANES) { if (hidden.has(f) || !ctx.FAM[f]) continue; const t = ang(f); want.set("f:" + f, { x: -((ctx.DECADES.length - 1) / 2) * DX - 70, y: Math.cos(t) * (R + 10), z: Math.sin(t) * (R + 10), text: ctx.FAM[f].short, cls: "dec", color: COL[f] }); }
     let pick;
     if (sel) pick = [sel, ...US, ...DS];
     else pick = nodes.filter(vis).sort((a, b) => deg(b.a) - deg(a.a)).slice(0, 70).map((n) => n.id);
@@ -221,16 +229,18 @@
   function frontDist() {
     const cam = G3.camera(), el = $("#mapwrap"), aspect = el.clientWidth / Math.max(1, el.clientHeight);
     const t = Math.tan((cam.fov * Math.PI) / 360);
-    const halfW = aspect < 1 ? DX * 3.2 : ((C().DECADES.length - 1) / 2) * DX + 260, halfH = R + 170;
+    const halfW = aspect < 1 ? DX * 3.2 : ((C().DECADES.length - 1) / 2) * DX + 380, halfH = R + 170;
     return Math.max(halfW / (t * aspect), halfH / t) * 1.02;
   }
   function fit() {
+    if (mode === "cities") { window.SL_CITIES.fit(); return; }
     if (mode === "3d" && G3) {
       const d = frontDist();
       G3.cameraPosition({ x: 0, y: d * 0.22, z: d }, { x: 0, y: 0, z: 0 }, 900);
     } else if (F) F.fit();
   }
   function zoom(f) {
+    if (mode === "cities") { window.SL_CITIES.zoom(f); return; }
     if (mode === "3d" && G3) {
       const c = G3.camera().position, t = G3.controls().target;
       G3.cameraPosition({ x: t.x + (c.x - t.x) * f, y: t.y + (c.y - t.y) * f, z: t.z + (c.z - t.z) * f }, t, 400);
@@ -249,7 +259,9 @@
     sel = id && C().A[id] ? id : null;
     if (sel && C().decIdx(C().A[sel].decade) > cutoff) setCutoff(C().DECADES.length - 1);
     if (sel && hidden.has(C().A[sel].family)) { hidden.delete(C().A[sel].family); C().store.set("sl.mapHide", [...hidden]); drawFilter(); }
-    refresh(); focusCard();
+    refresh();
+    if (mode === "cities") { if (sel && isActive) window.SL_CITIES.selectArtist(sel); return; }
+    focusCard();
     if (sel && fly && isActive) flyTo(sel);
   }
   function focusCard() {

@@ -1,0 +1,5439 @@
+[
+ {
+  "id": "mitski",
+  "years": "2012–present",
+  "origin": "New York, New York",
+  "genres": [
+   "indie rock",
+   "art pop",
+   "indie pop"
+  ],
+  "summary": "Mitski Miyawaki is a Japanese American songwriter whose compact, emotionally direct songs swing between fuzzed-out guitar rock and theatrical art pop. She became one of the defining indie voices of the 2010s.",
+  "know": [
+   "She made her first two albums as student projects while studying composition at SUNY Purchase.",
+   "Bury Me at Makeout Creek and later records were made with her longtime producer Patrick Hyland.",
+   "\"My Love Mine All Mine\" from 2023 became her first song to reach the Billboard Hot 100."
+  ],
+  "born": "09-27",
+  "keyAlbums": [
+   [
+    "Bury Me at Makeout Creek",
+    2014
+   ],
+   [
+    "Puberty 2",
+    2016
+   ],
+   [
+    "Be the Cowboy",
+    2018
+   ],
+   [
+    "The Land Is Inhospitable and So Are We",
+    2023
+   ]
+  ],
+  "songs": [
+   "Your Best American Girl",
+   "Nobody",
+   "First Love / Late Spring",
+   "Washing Machine Heart",
+   "My Love Mine All Mine"
+  ],
+  "influencedBy": [
+   {
+    "id": "pixies",
+    "why": "The sudden quiet-to-loud guitar surges on songs like \"Your Best American Girl\" follow the Pixies dynamic.",
+    "s": 1
+   },
+   {
+    "id": "pj-harvey",
+    "why": "Her raw, confessional guitar songs with a theatrical edge sit in the line PJ Harvey opened.",
+    "s": 1
+   },
+   {
+    "id": "kate-bush",
+    "why": "Her later art-pop records share Kate Bush's mix of drama, character and unusual song structure.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "japanese-breakfast",
+    "why": "Michelle Zauner's project toured with Mitski and works in the same Asian American indie rock lane she helped widen.",
+    "s": 1
+   },
+   {
+    "id": "snail-mail",
+    "why": "Snail Mail's diaristic guitar songs belong to the wave of young indie writers that followed Mitski's breakthrough.",
+    "s": 1
+   },
+   {
+    "id": "beabadoobee",
+    "why": "Beabadoobee's mix of fuzzy guitars and bare emotional lyrics follows the path Mitski's records cleared.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "lorde",
+    "why": "Both write precise, intense songs about loneliness and self-image that reached far beyond their scenes."
+   },
+   {
+    "id": "phoebe-bridgers",
+    "why": "Same generation of quietly devastating songwriters, told through folk instead of guitar rock."
+   },
+   {
+    "id": "kate-bush",
+    "why": "Same taste for theatrical, character-driven pop that feels private and grand at once."
+   }
+  ]
+ },
+ {
+  "id": "alvvays",
+  "years": "2011–present",
+  "origin": "Toronto, Canada",
+  "genres": [
+   "indie pop",
+   "dream pop",
+   "jangle pop"
+  ],
+  "summary": "Alvvays are a Canadian band led by Molly Rankin whose bright melodies sit inside hazy, reverb-soaked guitars. Their records updated 80s and 90s indie pop for a new generation.",
+  "know": [
+   "Singer Molly Rankin grew up on Cape Breton Island in a family of well-known Celtic musicians.",
+   "Their 2014 single \"Archie, Marry Me\" broke them internationally.",
+   "Blue Rev was produced with Shawn Everett and largely tracked in long, continuous live takes."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Alvvays",
+    2014
+   ],
+   [
+    "Antisocialites",
+    2017
+   ],
+   [
+    "Blue Rev",
+    2022
+   ]
+  ],
+  "songs": [
+   "Archie, Marry Me",
+   "Dreams Tonite",
+   "In Undertow",
+   "Belinda Says",
+   "Pharmacist"
+  ],
+  "influencedBy": [
+   {
+    "id": "teenage-fanclub",
+    "why": "The band has named Teenage Fanclub's sweet guitar pop as a touchstone for their melodies.",
+    "s": 2
+   },
+   {
+    "id": "the-jesus-and-mary-chain",
+    "why": "Their pairing of sugary tunes with fuzz and noise comes straight from the Mary Chain template.",
+    "s": 2
+   },
+   {
+    "id": "my-bloody-valentine",
+    "why": "The blurred, wavering guitar textures on Blue Rev draw on shoegaze as My Bloody Valentine defined it.",
+    "s": 1
+   },
+   {
+    "id": "the-smiths",
+    "why": "Their chiming, jangling guitar lines follow the bright jangle pop the Smiths made famous.",
+    "s": 1
+   },
+   {
+    "id": "slowdive",
+    "why": "The dreamy reverb wash around Rankin's voice belongs to Slowdive's lineage.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-ronettes",
+    "why": "Same big, romantic girl-group melody buried in a wall of reverb."
+   },
+   {
+    "id": "weyes-blood",
+    "why": "Both write warm, slightly melancholy melodies dressed in lush, vintage-sounding production."
+   },
+   {
+    "id": "abba",
+    "why": "Same gift for bittersweet hooks that sound happy until you listen closely."
+   }
+  ]
+ },
+ {
+  "id": "venom",
+  "years": "1978–present",
+  "origin": "Newcastle, England",
+  "genres": [
+   "heavy metal",
+   "black metal",
+   "speed metal",
+   "NWOBHM"
+  ],
+  "summary": "Venom were a Newcastle trio who played crude, fast, deliberately rough heavy metal with occult imagery. Their 1982 album Black Metal named an entire genre, and their speed fed thrash.",
+  "know": [
+   "The classic lineup was Cronos on bass and vocals, Mantas on guitar and Abaddon on drums.",
+   "Their second album, Black Metal (1982), gave the black metal genre its name.",
+   "Their raw, distorted recordings were a deliberate rejection of polished metal production."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Welcome to Hell",
+    1981
+   ],
+   [
+    "Black Metal",
+    1982
+   ],
+   [
+    "At War with Satan",
+    1984
+   ]
+  ],
+  "songs": [
+   "Black Metal",
+   "Witching Hour",
+   "Welcome to Hell",
+   "In League with Satan",
+   "Countess Bathory"
+  ],
+  "influencedBy": [
+   {
+    "id": "motorhead",
+    "why": "Venom took Motorhead's loud, fast, distorted bass-led attack and pushed it further.",
+    "s": 2
+   },
+   {
+    "id": "black-sabbath",
+    "why": "Sabbath's dark, occult-themed heavy riffing is the root of Venom's image and sound.",
+    "s": 2
+   },
+   {
+    "id": "judas-priest",
+    "why": "The leather, studs and twin-guitar metal of Judas Priest shaped their look and music.",
+    "s": 2
+   },
+   {
+    "id": "kiss",
+    "why": "The band has cited Kiss as a model for their stage theatrics and pyrotechnics.",
+    "s": 2
+   },
+   {
+    "id": "sex-pistols",
+    "why": "Their sloppy, anti-polish energy owes a lot to the British punk explosion.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "metallica",
+    "why": "Metallica played early shows supporting Venom and absorbed their speed and aggression.",
+    "s": 2
+   },
+   {
+    "id": "slayer",
+    "why": "Slayer's satanic imagery and raw speed on their early records drew on Venom.",
+    "s": 2
+   },
+   {
+    "id": "bathory",
+    "why": "Quorthon's first Bathory records built directly on Venom's crude, occult sound.",
+    "s": 2
+   },
+   {
+    "id": "mayhem",
+    "why": "Mayhem named themselves after the Venom song \"Mayhem with Mercy\".",
+    "s": 3
+   },
+   {
+    "id": "celtic-frost",
+    "why": "Tom G. Warrior's earlier band Hellhammer was built on Venom worship, and Celtic Frost grew from it.",
+    "s": 3
+   },
+   {
+    "id": "kreator",
+    "why": "German thrash bands like Kreator have credited Venom's speed and filth as a starting point.",
+    "s": 2
+   },
+   {
+    "id": "sepultura",
+    "why": "The Cavalera brothers named Venom among the bands that got them started.",
+    "s": 2
+   },
+   {
+    "id": "darkthrone",
+    "why": "Darkthrone's raw black metal follows the lineage Venom started and named.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "misfits",
+    "why": "Same horror-movie theatrics wrapped around fast, simple, loud songs."
+   },
+   {
+    "id": "the-damned",
+    "why": "Both made rough, gleefully macabre British rock that scandalized its moment."
+   }
+  ]
+ },
+ {
+  "id": "saxon",
+  "years": "1977–present",
+  "origin": "Barnsley, England",
+  "genres": [
+   "heavy metal",
+   "NWOBHM",
+   "hard rock"
+  ],
+  "summary": "Saxon are a working-class Yorkshire band who became one of the leading acts of the New Wave of British Heavy Metal. Their galloping, biker-friendly anthems were a template for 80s metal.",
+  "know": [
+   "Singer Biff Byford has fronted the band since it formed out of the group Son of a Bitch.",
+   "A support slot on Motorhead's 1979 Bomber tour helped them break through.",
+   "They played the first Monsters of Rock festival at Castle Donington in 1980."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Wheels of Steel",
+    1980
+   ],
+   [
+    "Strong Arm of the Law",
+    1980
+   ],
+   [
+    "Denim and Leather",
+    1981
+   ],
+   [
+    "Power & the Glory",
+    1983
+   ]
+  ],
+  "songs": [
+   "Wheels of Steel",
+   "747 (Strangers in the Night)",
+   "Princess of the Night",
+   "Denim and Leather",
+   "Strong Arm of the Law"
+  ],
+  "influencedBy": [
+   {
+    "id": "deep-purple",
+    "why": "Saxon's driving riffs and Byford's high vocals follow the Deep Purple hard rock model.",
+    "s": 2
+   },
+   {
+    "id": "motorhead",
+    "why": "Touring with Motorhead in 1979 gave Saxon their audience and toughened their sound.",
+    "s": 3
+   },
+   {
+    "id": "judas-priest",
+    "why": "Priest's twin-guitar British metal was the main model for the NWOBHM bands, Saxon included.",
+    "s": 1
+   },
+   {
+    "id": "led-zeppelin",
+    "why": "Their heavy blues-rock roots trace to Led Zeppelin.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "metallica",
+    "why": "Lars Ulrich's NWOBHM obsession included Saxon, whose riffing fed early Metallica.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "ac-dc",
+    "why": "Same plain, hard-driving rock anthems for working people."
+   },
+   {
+    "id": "thin-lizzy",
+    "why": "Both made tough, melodic British Isles hard rock that bridged 70s rock and 80s metal."
+   }
+  ]
+ },
+ {
+  "id": "def-leppard",
+  "years": "1977–present",
+  "origin": "Sheffield, England",
+  "genres": [
+   "hard rock",
+   "glam metal",
+   "pop metal",
+   "NWOBHM"
+  ],
+  "summary": "Def Leppard started in the New Wave of British Heavy Metal and, with producer Mutt Lange, turned into one of the biggest pop-rock bands of the 80s. Their layered vocals and glossy production set the sound of arena rock in that decade.",
+  "know": [
+   "Mutt Lange produced High 'n' Dry, Pyromania and Hysteria, building their huge stacked-harmony sound.",
+   "Drummer Rick Allen plays a custom hybrid electronic and acoustic kit.",
+   "Hysteria spun off seven US singles and sold tens of millions of copies."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "High 'n' Dry",
+    1981
+   ],
+   [
+    "Pyromania",
+    1983
+   ],
+   [
+    "Hysteria",
+    1987
+   ],
+   [
+    "Adrenalize",
+    1992
+   ]
+  ],
+  "songs": [
+   "Photograph",
+   "Pour Some Sugar on Me",
+   "Hysteria",
+   "Love Bites",
+   "Rock of Ages"
+  ],
+  "influencedBy": [
+   {
+    "id": "mutt-lange",
+    "why": "Lange produced their breakthrough records and shaped their polished, layered sound.",
+    "s": 3
+   },
+   {
+    "id": "t-rex",
+    "why": "Joe Elliott has called T. Rex and glam rock his first musical love.",
+    "s": 3
+   },
+   {
+    "id": "mott-the-hoople",
+    "why": "Elliott is an open Mott the Hoople fan and has worked on their reissues.",
+    "s": 3
+   },
+   {
+    "id": "david-bowie",
+    "why": "Bowie's glam era is a stated influence on the band's style and songwriting.",
+    "s": 3
+   },
+   {
+    "id": "queen",
+    "why": "Their towering multi-tracked vocal harmonies follow Queen's approach.",
+    "s": 2
+   },
+   {
+    "id": "sweet",
+    "why": "The big glam choruses of the Sweet are a clear model for their hooks.",
+    "s": 2
+   },
+   {
+    "id": "thin-lizzy",
+    "why": "Their twin-guitar melodies draw on Thin Lizzy.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "bon-jovi",
+    "why": "Bon Jovi's glossy pop-metal hits followed the radio-friendly model Pyromania set.",
+    "s": 1
+   },
+   {
+    "id": "taylor-swift",
+    "why": "Taylor Swift is a longtime fan and performed with the band on CMT Crossroads in 2008.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "duran-duran",
+    "why": "Same 80s British polish and MTV-era reach, from the synth-pop side."
+   },
+   {
+    "id": "tears-for-fears",
+    "why": "Both built huge, glossy 80s records with studio perfectionism."
+   }
+  ]
+ },
+ {
+  "id": "diamond-head",
+  "years": "1976–present",
+  "origin": "Stourbridge, England",
+  "genres": [
+   "heavy metal",
+   "NWOBHM"
+  ],
+  "summary": "Diamond Head were a New Wave of British Heavy Metal band whose long, riff-packed songs never made them stars but shaped thrash metal. Metallica's covers of their songs made them famous to a later generation.",
+  "know": [
+   "Their 1980 debut Lightning to the Nations was self-released in a plain white sleeve, earning the nickname the White Album.",
+   "Guitarist Brian Tatler and singer Sean Harris wrote the core of their catalog.",
+   "Metallica have recorded versions of \"Am I Evil?\", \"Helpless\", \"The Prince\" and \"It's Electric\"."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Lightning to the Nations",
+    1980
+   ],
+   [
+    "Borrowed Time",
+    1982
+   ],
+   [
+    "Canterbury",
+    1983
+   ]
+  ],
+  "songs": [
+   "Am I Evil?",
+   "Helpless",
+   "The Prince",
+   "It's Electric",
+   "Lightning to the Nations"
+  ],
+  "influencedBy": [
+   {
+    "id": "led-zeppelin",
+    "why": "Sean Harris's vocals and the band's long, shifting riff songs are modeled on Led Zeppelin.",
+    "s": 2
+   },
+   {
+    "id": "black-sabbath",
+    "why": "Their heavy, down-stroked riffs come from the Black Sabbath tradition.",
+    "s": 2
+   },
+   {
+    "id": "deep-purple",
+    "why": "Their hard rock structures and guitar heroics draw on Deep Purple.",
+    "s": 1
+   },
+   {
+    "id": "judas-priest",
+    "why": "Priest's metal was the template for the whole NWOBHM wave Diamond Head came out of.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "metallica",
+    "why": "Metallica covered four Diamond Head songs and built their early riffing on Brian Tatler's style.",
+    "s": 3
+   },
+   {
+    "id": "megadeth",
+    "why": "Dave Mustaine played Diamond Head songs in early Metallica and carried that riff-heavy approach into Megadeth.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "thin-lizzy",
+    "why": "Same melodic British Isles hard rock with long guitar-driven songs."
+   },
+   {
+    "id": "blue-oyster-cult",
+    "why": "Both wrote smart, dark, riff-heavy hard rock that musicians loved more than the charts did."
+   }
+  ]
+ },
+ {
+  "id": "dio",
+  "years": "1982–2010",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "heavy metal",
+   "hard rock"
+  ],
+  "summary": "Dio was the band Ronnie James Dio formed after his runs with Rainbow and Black Sabbath. Its fantasy-themed anthems and his operatic voice made it a staple of 80s heavy metal.",
+  "know": [
+   "Ronnie James Dio had already sung for Rainbow and Black Sabbath before launching the band.",
+   "Dio is credited with popularizing the raised horns hand sign at metal shows.",
+   "Original guitarist Vivian Campbell later joined Def Leppard."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Holy Diver",
+    1983
+   ],
+   [
+    "The Last in Line",
+    1984
+   ],
+   [
+    "Sacred Heart",
+    1985
+   ],
+   [
+    "Dream Evil",
+    1987
+   ]
+  ],
+  "songs": [
+   "Holy Diver",
+   "Rainbow in the Dark",
+   "The Last in Line",
+   "We Rock",
+   "Stand Up and Shout"
+  ],
+  "influencedBy": [
+   {
+    "id": "black-sabbath",
+    "why": "Dio sang on Black Sabbath's Heaven and Hell and Mob Rules before starting his own band.",
+    "s": 3
+   },
+   {
+    "id": "deep-purple",
+    "why": "He fronted Rainbow with Deep Purple guitarist Ritchie Blackmore, which shaped his epic hard rock style.",
+    "s": 3
+   },
+   {
+    "id": "led-zeppelin",
+    "why": "His soaring, mythic vocal approach grew from the 70s hard rock that Led Zeppelin led.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "candlemass",
+    "why": "Candlemass built epic doom on the grand, operatic metal of Dio's Sabbath and solo work.",
+    "s": 2
+   },
+   {
+    "id": "killswitch-engage",
+    "why": "Killswitch Engage recorded a well-known cover of \"Holy Diver\".",
+    "s": 3
+   },
+   {
+    "id": "iron-maiden",
+    "why": "Maiden's mythic, galloping epics share and drew on the fantasy metal Dio had sung since Rainbow.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "queen",
+    "why": "Same operatic vocals and grand, theatrical rock staging."
+   },
+   {
+    "id": "rush",
+    "why": "Both paired virtuoso playing with fantasy and sci-fi storytelling."
+   }
+  ]
+ },
+ {
+  "id": "anthrax",
+  "years": "1981–present",
+  "origin": "New York, New York",
+  "genres": [
+   "thrash metal",
+   "speed metal",
+   "crossover thrash",
+   "rap metal"
+  ],
+  "summary": "Anthrax are the New York member of thrash metal's Big Four, known for mixing speed metal with hardcore punk and, unusually, hip-hop. Their 1991 \"Bring the Noise\" with Public Enemy was a landmark rap-metal crossover.",
+  "know": [
+   "Guitarist Scott Ian and drummer Charlie Benante have been the band's core for decades.",
+   "They are counted with Metallica, Slayer and Megadeth as thrash's Big Four.",
+   "Scott Ian and Benante also made the crossover side project S.O.D. in 1985."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Spreading the Disease",
+    1985
+   ],
+   [
+    "Among the Living",
+    1987
+   ],
+   [
+    "State of Euphoria",
+    1988
+   ],
+   [
+    "Persistence of Time",
+    1990
+   ]
+  ],
+  "songs": [
+   "Caught in a Mosh",
+   "Indians",
+   "I Am the Law",
+   "Madhouse",
+   "Bring the Noise"
+  ],
+  "influencedBy": [
+   {
+    "id": "iron-maiden",
+    "why": "Their melodic speed and galloping riffs draw on Iron Maiden.",
+    "s": 2
+   },
+   {
+    "id": "judas-priest",
+    "why": "Priest's twin-guitar metal was a core early influence.",
+    "s": 2
+   },
+   {
+    "id": "motorhead",
+    "why": "Motorhead's speed and punk attitude fed their thrash.",
+    "s": 2
+   },
+   {
+    "id": "kiss",
+    "why": "Scott Ian and Charlie Benante have long cited Kiss as the band that got them into rock.",
+    "s": 3
+   },
+   {
+    "id": "agnostic-front",
+    "why": "The New York hardcore scene, Agnostic Front included, shaped their crossover sound.",
+    "s": 2
+   },
+   {
+    "id": "public-enemy",
+    "why": "They teamed up with Public Enemy on \"Bring the Noise\" and toured together.",
+    "s": 3
+   },
+   {
+    "id": "black-sabbath",
+    "why": "Sabbath's heavy riffing underlies the whole thrash style.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "rage-against-the-machine",
+    "why": "Anthrax's rap-metal crossover helped clear the path for bands fusing hip-hop and heavy guitars.",
+    "s": 1
+   },
+   {
+    "id": "korn",
+    "why": "Their early mix of metal and hip-hop is part of the background nu metal grew from.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "beastie-boys",
+    "why": "Same New York mix of hip-hop, hardcore punk and a sense of humor."
+   },
+   {
+    "id": "run-dmc",
+    "why": "Both broke down the wall between rap and loud rock guitars."
+   }
+  ]
+ },
+ {
+  "id": "exodus",
+  "years": "1979–present",
+  "origin": "Richmond, California",
+  "genres": [
+   "thrash metal",
+   "Bay Area thrash",
+   "speed metal"
+  ],
+  "summary": "Exodus were one of the first Bay Area thrash bands and a key part of the scene that produced Metallica and Testament. Their debut Bonded by Blood is a cornerstone of the style.",
+  "know": [
+   "Kirk Hammett co-founded the band before leaving to join Metallica in 1983.",
+   "Guitarist Gary Holt is the band's main songwriter and also played in Slayer from 2011.",
+   "Bonded by Blood was recorded in 1984 but delayed until 1985."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Bonded by Blood",
+    1985
+   ],
+   [
+    "Pleasures of the Flesh",
+    1987
+   ],
+   [
+    "Fabulous Disaster",
+    1989
+   ],
+   [
+    "Tempo of the Damned",
+    2004
+   ]
+  ],
+  "songs": [
+   "Bonded by Blood",
+   "Piranha",
+   "The Toxic Waltz",
+   "Strike of the Beast",
+   "Blacklist"
+  ],
+  "influencedBy": [
+   {
+    "id": "judas-priest",
+    "why": "Their twin-guitar attack grows from Judas Priest.",
+    "s": 2
+   },
+   {
+    "id": "iron-maiden",
+    "why": "NWOBHM bands like Iron Maiden shaped their fast, melodic riffing.",
+    "s": 2
+   },
+   {
+    "id": "motorhead",
+    "why": "Motorhead's speed and aggression pushed them toward thrash.",
+    "s": 2
+   },
+   {
+    "id": "diamond-head",
+    "why": "The riff-heavy NWOBHM of Diamond Head was part of the Bay Area thrash diet.",
+    "s": 1
+   },
+   {
+    "id": "venom",
+    "why": "Venom's crude speed metal fed the early Bay Area scene.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "metallica",
+    "why": "Kirk Hammett brought his Exodus playing into Metallica when he joined in 1983.",
+    "s": 3
+   },
+   {
+    "id": "slayer",
+    "why": "Gary Holt joined Slayer and played on their final album and tours.",
+    "s": 3
+   },
+   {
+    "id": "testament",
+    "why": "Singer Steve Souza moved from Testament's earlier lineup to Exodus, and the two bands grew up side by side.",
+    "s": 2
+   },
+   {
+    "id": "sepultura",
+    "why": "Sepultura's thrash era drew on the Bay Area sound Exodus helped create.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "black-flag",
+    "why": "Same raw, high-speed West Coast underground aggression from the punk side."
+   },
+   {
+    "id": "dead-kennedys",
+    "why": "Bay Area peers who made fast, sharp, scene-defining music in the same years."
+   }
+  ]
+ },
+ {
+  "id": "testament",
+  "years": "1983–present",
+  "origin": "Berkeley, California",
+  "genres": [
+   "thrash metal",
+   "Bay Area thrash"
+  ],
+  "summary": "Testament were a leading second-wave Bay Area thrash band, known for strong songwriting and Alex Skolnick's melodic lead guitar. They stayed productive long after thrash's first peak.",
+  "know": [
+   "The band started under the name Legacy before switching to Testament for their 1987 debut.",
+   "Chuck Billy has been the lead singer since 1986.",
+   "Guitarist Alex Skolnick also leads a jazz trio, and drummer Dave Lombardo played on The Gathering."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Legacy",
+    1987
+   ],
+   [
+    "The New Order",
+    1988
+   ],
+   [
+    "Practice What You Preach",
+    1989
+   ],
+   [
+    "The Gathering",
+    1999
+   ]
+  ],
+  "songs": [
+   "Over the Wall",
+   "Into the Pit",
+   "Practice What You Preach",
+   "Souls of Black",
+   "The New Order"
+  ],
+  "influencedBy": [
+   {
+    "id": "exodus",
+    "why": "They came up in the same Bay Area scene and shared singer Steve Souza in their early years.",
+    "s": 3
+   },
+   {
+    "id": "metallica",
+    "why": "Metallica's early albums set the template for Bay Area thrash.",
+    "s": 2
+   },
+   {
+    "id": "iron-maiden",
+    "why": "Their melodic twin-guitar work draws on Iron Maiden.",
+    "s": 2
+   },
+   {
+    "id": "judas-priest",
+    "why": "Judas Priest's twin-guitar metal is a root of their style.",
+    "s": 2
+   },
+   {
+    "id": "slayer",
+    "why": "Former Slayer drummer Dave Lombardo played on The Gathering.",
+    "s": 3
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "thin-lizzy",
+    "why": "Same melodic, harmonized twin lead guitars."
+   },
+   {
+    "id": "van-halen",
+    "why": "Both are guitar-hero bands where the solos are as important as the riffs."
+   }
+  ]
+ },
+ {
+  "id": "kreator",
+  "years": "1982–present",
+  "origin": "Essen, Germany",
+  "genres": [
+   "thrash metal",
+   "Teutonic thrash",
+   "speed metal"
+  ],
+  "summary": "Kreator are the leading German thrash band, led by Mille Petrozza. Their fierce mid-80s records helped define Teutonic thrash and pushed metal toward death metal.",
+  "know": [
+   "Frontman Mille Petrozza has led the band since it started as Tyrant and then Tormentor.",
+   "Pleasure to Kill (1986) is often cited as a bridge between thrash and early death metal.",
+   "In the late 90s they experimented with gothic and industrial textures on Endorama."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Pleasure to Kill",
+    1986
+   ],
+   [
+    "Terrible Certainty",
+    1987
+   ],
+   [
+    "Extreme Aggression",
+    1989
+   ],
+   [
+    "Coma of Souls",
+    1990
+   ]
+  ],
+  "songs": [
+   "Pleasure to Kill",
+   "Flag of Hate",
+   "Extreme Aggression",
+   "People of the Lie",
+   "Phantom Antichrist"
+  ],
+  "influencedBy": [
+   {
+    "id": "venom",
+    "why": "Petrozza has named Venom as a key early influence on the band's speed and rawness.",
+    "s": 2
+   },
+   {
+    "id": "slayer",
+    "why": "Slayer's speed and darkness shaped Kreator's mid-80s albums.",
+    "s": 2
+   },
+   {
+    "id": "motorhead",
+    "why": "Motorhead's punk-fueled metal was a starting point for German thrash.",
+    "s": 2
+   },
+   {
+    "id": "judas-priest",
+    "why": "Classic British metal like Judas Priest underlies their riffing.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "death",
+    "why": "Pleasure to Kill was part of the extreme thrash that early death metal like Death grew out of.",
+    "s": 1
+   },
+   {
+    "id": "sepultura",
+    "why": "Sepultura's early thrash leaned on the German style Kreator led.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "black-flag",
+    "why": "Same relentless, furious energy from the hardcore punk side."
+   },
+   {
+    "id": "dead-kennedys",
+    "why": "Both paired fast, aggressive music with pointed political lyrics."
+   }
+  ]
+ },
+ {
+  "id": "sepultura",
+  "years": "1984–present",
+  "origin": "Belo Horizonte, Brazil",
+  "genres": [
+   "thrash metal",
+   "death metal",
+   "groove metal"
+  ],
+  "summary": "Sepultura rose from Brazil to become one of the most important metal bands of the 90s. They moved from raw thrash to heavy groove and, on Roots, folded in Brazilian percussion and indigenous music.",
+  "know": [
+   "Brothers Max and Igor Cavalera founded the band as teenagers.",
+   "Roots (1996) was produced by Ross Robinson and includes recordings made with the Xavante people.",
+   "After Max left in 1996, Derrick Green became singer in 1998."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Beneath the Remains",
+    1989
+   ],
+   [
+    "Arise",
+    1991
+   ],
+   [
+    "Chaos A.D.",
+    1993
+   ],
+   [
+    "Roots",
+    1996
+   ]
+  ],
+  "songs": [
+   "Roots Bloody Roots",
+   "Refuse/Resist",
+   "Territory",
+   "Arise",
+   "Dead Embryonic Cells"
+  ],
+  "influencedBy": [
+   {
+    "id": "venom",
+    "why": "The Cavaleras have named Venom as one of the bands that started them.",
+    "s": 3
+   },
+   {
+    "id": "slayer",
+    "why": "Slayer's speed and darkness shaped their early thrash.",
+    "s": 2
+   },
+   {
+    "id": "kreator",
+    "why": "German thrash like Kreator was a major early model.",
+    "s": 2
+   },
+   {
+    "id": "celtic-frost",
+    "why": "Max Cavalera has often named Celtic Frost as a core influence.",
+    "s": 2
+   },
+   {
+    "id": "motorhead",
+    "why": "Motorhead's raw attack fed their early sound.",
+    "s": 1
+   },
+   {
+    "id": "korn",
+    "why": "Korn's Jonathan Davis guested on Roots, which also shared Korn's producer Ross Robinson.",
+    "s": 3
+   },
+   {
+    "id": "faith-no-more",
+    "why": "Mike Patton guested on Roots alongside Jonathan Davis.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "slipknot",
+    "why": "Slipknot's tribal percussion and groove owe a lot to Roots, made with their future producer Ross Robinson.",
+    "s": 2
+   },
+   {
+    "id": "gojira",
+    "why": "Joe Duplantier of Gojira later played with Max and Igor in Cavalera Conspiracy and has cited the band.",
+    "s": 2
+   },
+   {
+    "id": "deftones",
+    "why": "Deftones toured with Sepultura and absorbed their groove-heavy 90s sound.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "os-mutantes",
+    "why": "Fellow Brazilians who took a foreign rock style and made it unmistakably Brazilian."
+   },
+   {
+    "id": "public-enemy",
+    "why": "Same furious, political, rhythm-first protest music."
+   }
+  ]
+ },
+ {
+  "id": "celtic-frost",
+  "years": "1984–2008",
+  "origin": "Zurich, Switzerland",
+  "genres": [
+   "extreme metal",
+   "black metal",
+   "death metal",
+   "avant-garde metal"
+  ],
+  "summary": "Celtic Frost grew out of Hellhammer and made some of the most influential extreme metal of the 80s. They mixed crushing, primitive riffs with gothic and orchestral ideas.",
+  "know": [
+   "Tom G. Warrior and Martin Eric Ain formed the band from the ashes of Hellhammer in 1984.",
+   "Into the Pandemonium (1987) added orchestral parts, female vocals and a cover of Wall of Voodoo.",
+   "They returned in 2006 with the slow, heavy Monotheist."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Morbid Tales",
+    1984
+   ],
+   [
+    "To Mega Therion",
+    1985
+   ],
+   [
+    "Into the Pandemonium",
+    1987
+   ],
+   [
+    "Monotheist",
+    2006
+   ]
+  ],
+  "songs": [
+   "Circle of the Tyrants",
+   "Into the Crypts of Rays",
+   "Procreation (of the Wicked)",
+   "Dethroned Emperor",
+   "Return to the Eve"
+  ],
+  "influencedBy": [
+   {
+    "id": "venom",
+    "why": "Hellhammer, the band before Celtic Frost, was openly modeled on Venom.",
+    "s": 3
+   },
+   {
+    "id": "black-sabbath",
+    "why": "Their slow, heavy riffing comes straight from Black Sabbath.",
+    "s": 2
+   },
+   {
+    "id": "motorhead",
+    "why": "Motorhead's raw speed shaped Hellhammer and early Celtic Frost.",
+    "s": 2
+   },
+   {
+    "id": "bauhaus",
+    "why": "Their gothic turn on Into the Pandemonium reflects the dark post-punk Tom G. Warrior loved.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "mayhem",
+    "why": "Early Norwegian black metal, Mayhem included, drew heavily on Hellhammer and Celtic Frost.",
+    "s": 2
+   },
+   {
+    "id": "darkthrone",
+    "why": "Fenriz of Darkthrone has repeatedly named Celtic Frost as a central influence.",
+    "s": 3
+   },
+   {
+    "id": "sepultura",
+    "why": "Max Cavalera has called Celtic Frost one of his main influences.",
+    "s": 2
+   },
+   {
+    "id": "death",
+    "why": "Their primitive, heavy extreme metal fed the early death metal sound.",
+    "s": 2
+   },
+   {
+    "id": "opeth",
+    "why": "Mikael Akerfeldt has named Celtic Frost among his formative extreme metal bands.",
+    "s": 2
+   },
+   {
+    "id": "morbid-angel",
+    "why": "Morbid Angel's dark, heavy approach drew on Celtic Frost.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bauhaus",
+    "why": "Same dark, gothic gloom with dramatic, ritual-like intensity."
+   },
+   {
+    "id": "the-birthday-party",
+    "why": "Both made abrasive, primal, menacing music that defied its scene's rules."
+   }
+  ]
+ },
+ {
+  "id": "bathory",
+  "years": "1983–2004",
+  "origin": "Stockholm, Sweden",
+  "genres": [
+   "black metal",
+   "viking metal",
+   "thrash metal"
+  ],
+  "summary": "Bathory was essentially the solo project of Quorthon, who helped define first-wave black metal and then invented viking metal. His raw early records and later Norse epics were hugely influential in Scandinavia.",
+  "know": [
+   "Quorthon wrote the songs and played most of the instruments himself.",
+   "Bathory never played a proper live concert.",
+   "Blood Fire Death and Hammerheart introduced the slow, epic Norse style later called viking metal."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Bathory",
+    1984
+   ],
+   [
+    "Under the Sign of the Black Mark",
+    1987
+   ],
+   [
+    "Blood Fire Death",
+    1988
+   ],
+   [
+    "Hammerheart",
+    1990
+   ]
+  ],
+  "songs": [
+   "A Fine Day to Die",
+   "Enter the Eternal Fire",
+   "One Rode to Asa Bay",
+   "Call from the Grave",
+   "Shores in Flames"
+  ],
+  "influencedBy": [
+   {
+    "id": "venom",
+    "why": "Bathory's first records drew directly on Venom's raw, occult metal.",
+    "s": 2
+   },
+   {
+    "id": "motorhead",
+    "why": "Quorthon's early speed and distortion come from Motorhead.",
+    "s": 2
+   },
+   {
+    "id": "black-sabbath",
+    "why": "Sabbath's dark heaviness underpins his slower epic material.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "mayhem",
+    "why": "Bathory's raw sound was a major model for Mayhem and Norwegian black metal.",
+    "s": 2
+   },
+   {
+    "id": "darkthrone",
+    "why": "Darkthrone's cold, raw black metal draws on early Bathory.",
+    "s": 2
+   },
+   {
+    "id": "emperor",
+    "why": "Emperor have named Bathory as a key influence on their atmosphere.",
+    "s": 2
+   },
+   {
+    "id": "burzum",
+    "why": "Burzum's early records follow Bathory's lo-fi, atmospheric black metal.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "dead-can-dance",
+    "why": "Same ancient, epic, myth-heavy atmosphere."
+   },
+   {
+    "id": "vangelis",
+    "why": "Both built huge, cinematic soundscapes from a largely solo studio approach."
+   }
+  ]
+ },
+ {
+  "id": "death",
+  "years": "1983–2001",
+  "origin": "Orlando, Florida",
+  "genres": [
+   "death metal",
+   "technical death metal",
+   "progressive metal"
+  ],
+  "summary": "Death was Chuck Schuldiner's band and one of the founders of death metal. Over seven albums he moved from raw gore-themed metal to complex, melodic and progressive music.",
+  "know": [
+   "Chuck Schuldiner was the only constant member and is often called the father of death metal.",
+   "Human (1991) featured Paul Masvidal and Sean Reinert of Cynic and marked a turn toward technical playing.",
+   "Drummer Gene Hoglan played on Individual Thought Patterns and Symbolic."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Scream Bloody Gore",
+    1987
+   ],
+   [
+    "Human",
+    1991
+   ],
+   [
+    "Symbolic",
+    1995
+   ],
+   [
+    "The Sound of Perseverance",
+    1998
+   ]
+  ],
+  "songs": [
+   "Pull the Plug",
+   "Crystal Mountain",
+   "Lack of Comprehension",
+   "Spirit Crusher",
+   "Zombie Ritual"
+  ],
+  "influencedBy": [
+   {
+    "id": "venom",
+    "why": "Schuldiner named Venom among the extreme bands that shaped his early sound.",
+    "s": 2
+   },
+   {
+    "id": "slayer",
+    "why": "Slayer's speed and darkness helped push Death beyond thrash.",
+    "s": 2
+   },
+   {
+    "id": "kreator",
+    "why": "German thrash like Kreator fed his early sound.",
+    "s": 2
+   },
+   {
+    "id": "celtic-frost",
+    "why": "Celtic Frost's heavy extremity was part of the early death metal blueprint.",
+    "s": 2
+   },
+   {
+    "id": "iron-maiden",
+    "why": "Schuldiner loved Iron Maiden, and their melody shows in Death's later work.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "cannibal-corpse",
+    "why": "Cannibal Corpse built on the Florida death metal sound Death helped create.",
+    "s": 2
+   },
+   {
+    "id": "at-the-gates",
+    "why": "Swedish melodic death metal drew on Death's melodic later records.",
+    "s": 1
+   },
+   {
+    "id": "opeth",
+    "why": "Mikael Akerfeldt has named Death as an influence on combining extremity and melody.",
+    "s": 2
+   },
+   {
+    "id": "gojira",
+    "why": "Gojira have cited Death as a formative band.",
+    "s": 2
+   },
+   {
+    "id": "morbid-angel",
+    "why": "The two bands grew up together in Florida and shaped each other's scene.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "rush",
+    "why": "Same drive toward musicianship and complexity inside heavy music."
+   },
+   {
+    "id": "king-crimson",
+    "why": "Both kept reinventing their sound around one restless guitarist-leader."
+   }
+  ]
+ },
+ {
+  "id": "morbid-angel",
+  "years": "1983–present",
+  "origin": "Tampa, Florida",
+  "genres": [
+   "death metal",
+   "technical death metal"
+  ],
+  "summary": "Morbid Angel are one of the founding Florida death metal bands, built around Trey Azagthoth's otherworldly guitar and blinding speed. Their early albums are among the most respected in the genre.",
+  "know": [
+   "Their first albums were released in alphabetical order: Altars, Blessed, Covenant, Domination and so on.",
+   "Covenant (1993) came out through a major-label deal with Giant Records, rare for death metal then.",
+   "Drummer Pete Sandoval's blast beats set a new speed standard."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Altars of Madness",
+    1989
+   ],
+   [
+    "Blessed Are the Sick",
+    1991
+   ],
+   [
+    "Covenant",
+    1993
+   ],
+   [
+    "Domination",
+    1995
+   ]
+  ],
+  "songs": [
+   "Chapel of Ghouls",
+   "Immortal Rites",
+   "God of Emptiness",
+   "Rapture",
+   "Where the Slime Live"
+  ],
+  "influencedBy": [
+   {
+    "id": "slayer",
+    "why": "Slayer's speed and chromatic riffing are a clear root of Morbid Angel's sound.",
+    "s": 2
+   },
+   {
+    "id": "celtic-frost",
+    "why": "Celtic Frost's dark heaviness fed their slower, crushing passages.",
+    "s": 2
+   },
+   {
+    "id": "venom",
+    "why": "Venom's occult extremity was part of the band's starting point.",
+    "s": 1
+   },
+   {
+    "id": "kreator",
+    "why": "German thrash like Kreator helped push them toward death metal speed.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "gojira",
+    "why": "Joe Duplantier has named Morbid Angel as one of Gojira's biggest influences.",
+    "s": 2
+   },
+   {
+    "id": "cannibal-corpse",
+    "why": "Cannibal Corpse moved to Tampa and became part of the scene Morbid Angel anchored.",
+    "s": 1
+   },
+   {
+    "id": "meshuggah",
+    "why": "Morbid Angel's low, heavy riffing is part of the extreme metal background Meshuggah grew from.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "jimi-hendrix",
+    "why": "Same wild, otherworldly lead guitar that bends sound into new shapes."
+   },
+   {
+    "id": "sun-ra",
+    "why": "Both built a whole cosmic mythology around their music."
+   }
+  ]
+ },
+ {
+  "id": "cannibal-corpse",
+  "years": "1988–present",
+  "origin": "Buffalo, New York",
+  "genres": [
+   "death metal",
+   "brutal death metal"
+  ],
+  "summary": "Cannibal Corpse are the best-selling death metal band in the US and one of the genre's most consistent. They formed in Buffalo and became a fixture of the Tampa scene.",
+  "know": [
+   "Bassist Alex Webster is a founding member and a widely admired technical player.",
+   "George \"Corpsegrinder\" Fisher replaced original singer Chris Barnes in 1995.",
+   "The band made a cameo in the 1994 film Ace Ventura: Pet Detective."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Eaten Back to Life",
+    1990
+   ],
+   [
+    "The Bleeding",
+    1994
+   ],
+   [
+    "Vile",
+    1996
+   ],
+   [
+    "Kill",
+    2006
+   ]
+  ],
+  "songs": [
+   "Devoured by Vermin",
+   "Scourge of Iron",
+   "Evisceration Plague",
+   "Sentenced to Burn"
+  ],
+  "influencedBy": [
+   {
+    "id": "slayer",
+    "why": "Slayer's speed and aggression underlie their style.",
+    "s": 2
+   },
+   {
+    "id": "death",
+    "why": "Death's early Florida records set the template they followed.",
+    "s": 2
+   },
+   {
+    "id": "morbid-angel",
+    "why": "They joined the Tampa scene that Morbid Angel helped build.",
+    "s": 1
+   },
+   {
+    "id": "kreator",
+    "why": "German thrash like Kreator fed their early sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "misfits",
+    "why": "Same love of horror-movie imagery played straight and loud."
+   },
+   {
+    "id": "alice-cooper",
+    "why": "Both turned horror theater into a long-running musical career."
+   }
+  ]
+ },
+ {
+  "id": "napalm-death",
+  "years": "1981–present",
+  "origin": "Birmingham, England",
+  "genres": [
+   "grindcore",
+   "death metal",
+   "hardcore punk"
+  ],
+  "summary": "Napalm Death created grindcore, fusing hardcore punk speed with extreme metal heaviness into very short, very fast songs. Their debut Scum is the genre's founding record.",
+  "know": [
+   "\"You Suffer\" is listed by Guinness as the shortest recorded song, at about one second.",
+   "BBC DJ John Peel championed them with radio sessions in the late 80s.",
+   "Early members included Justin Broadrick, later of Godflesh, and Lee Dorrian, later of Cathedral."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Scum",
+    1987
+   ],
+   [
+    "From Enslavement to Obliteration",
+    1988
+   ],
+   [
+    "Harmony Corruption",
+    1990
+   ],
+   [
+    "Utopia Banished",
+    1992
+   ]
+  ],
+  "songs": [
+   "You Suffer",
+   "Scum",
+   "Siege of Power",
+   "Suffer the Children",
+   "Unchallenged Hate"
+  ],
+  "influencedBy": [
+   {
+    "id": "dead-kennedys",
+    "why": "They grew from anarcho and hardcore punk and have long covered a Dead Kennedys song live.",
+    "s": 2
+   },
+   {
+    "id": "black-flag",
+    "why": "American hardcore like Black Flag fed their speed and intensity.",
+    "s": 1
+   },
+   {
+    "id": "celtic-frost",
+    "why": "Celtic Frost's heaviness pushed them from punk toward extreme metal.",
+    "s": 2
+   },
+   {
+    "id": "bad-brains",
+    "why": "Bad Brains' blistering hardcore speed is part of grindcore's DNA.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "carcass",
+    "why": "Bill Steer played guitar in Napalm Death before focusing on Carcass, which began as a grindcore band in their mold.",
+    "s": 3
+   },
+   {
+    "id": "converge",
+    "why": "Converge's fusion of hardcore and extreme metal draws on the grindcore Napalm Death invented.",
+    "s": 2
+   },
+   {
+    "id": "the-dillinger-escape-plan",
+    "why": "Dillinger's blasts and chaos come partly from grindcore.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "minor-threat",
+    "why": "Same short, fast, ethically charged punk songs."
+   },
+   {
+    "id": "fugazi",
+    "why": "Both kept a fiercely independent, politically engaged stance for decades."
+   }
+  ]
+ },
+ {
+  "id": "carcass",
+  "years": "1985–present",
+  "origin": "Liverpool, England",
+  "genres": [
+   "grindcore",
+   "death metal",
+   "melodic death metal"
+  ],
+  "summary": "Carcass began as pioneers of goregrind and then, with Heartwork, helped create melodic death metal. Few bands changed shape so much and stayed this influential.",
+  "know": [
+   "Guitarist Bill Steer also played in Napalm Death in the late 80s.",
+   "Their early lyrics were written in deliberately clinical medical vocabulary.",
+   "Guitarist Michael Amott later formed Arch Enemy."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Reek of Putrefaction",
+    1988
+   ],
+   [
+    "Symphonies of Sickness",
+    1989
+   ],
+   [
+    "Necroticism: Descanting the Insalubrious",
+    1991
+   ],
+   [
+    "Heartwork",
+    1993
+   ]
+  ],
+  "songs": [
+   "Heartwork",
+   "Corporal Jigsore Quandary",
+   "No Love Lost",
+   "Buried Dreams",
+   "Keep On Rotting in the Free World"
+  ],
+  "influencedBy": [
+   {
+    "id": "napalm-death",
+    "why": "Bill Steer played in Napalm Death, and early Carcass grew from the same grindcore.",
+    "s": 3
+   },
+   {
+    "id": "slayer",
+    "why": "Slayer's extreme thrash shaped their riffing.",
+    "s": 2
+   },
+   {
+    "id": "judas-priest",
+    "why": "The twin-guitar melodies of Heartwork draw on classic British metal like Judas Priest.",
+    "s": 1
+   },
+   {
+    "id": "iron-maiden",
+    "why": "Their melodic leads point back to Iron Maiden.",
+    "s": 1
+   },
+   {
+    "id": "celtic-frost",
+    "why": "Celtic Frost's heaviness was part of their early extreme metal palette.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "at-the-gates",
+    "why": "Heartwork's melodic death metal was a direct model for the Gothenburg sound.",
+    "s": 2
+   },
+   {
+    "id": "in-flames",
+    "why": "In Flames built on the melodic extreme metal Heartwork mapped out.",
+    "s": 2
+   },
+   {
+    "id": "killswitch-engage",
+    "why": "Metalcore's melodic riffing traces through Heartwork.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "big-black",
+    "why": "Same abrasive, clinical, provocative take on noise."
+   },
+   {
+    "id": "thin-lizzy",
+    "why": "Both made harmonized twin guitar leads the heart of their sound."
+   }
+  ]
+ },
+ {
+  "id": "at-the-gates",
+  "years": "1990–present",
+  "origin": "Gothenburg, Sweden",
+  "genres": [
+   "melodic death metal",
+   "death metal"
+  ],
+  "summary": "At the Gates were a Gothenburg band whose 1995 album Slaughter of the Soul became the blueprint for melodic death metal and a key source for American metalcore.",
+  "know": [
+   "Tomas Lindberg has been the singer since the band formed.",
+   "Twin brothers Anders and Jonas Bjorler left after Slaughter of the Soul and formed The Haunted.",
+   "The band reunited in 2007 and released new albums starting with At War with Reality in 2014."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Red in the Sky Is Ours",
+    1992
+   ],
+   [
+    "With Fear I Kiss the Burning Darkness",
+    1993
+   ],
+   [
+    "Terminal Spirit Disease",
+    1994
+   ],
+   [
+    "Slaughter of the Soul",
+    1995
+   ]
+  ],
+  "songs": [
+   "Blinded by Fear",
+   "Slaughter of the Soul",
+   "Cold",
+   "Under a Serpent Sun",
+   "Nausea"
+  ],
+  "influencedBy": [
+   {
+    "id": "carcass",
+    "why": "Carcass's melodic turn shaped At the Gates' tight, melodic riffing.",
+    "s": 2
+   },
+   {
+    "id": "death",
+    "why": "Death's later melodic death metal informed their style.",
+    "s": 1
+   },
+   {
+    "id": "iron-maiden",
+    "why": "Their harmonized guitar melodies draw on Iron Maiden.",
+    "s": 1
+   },
+   {
+    "id": "celtic-frost",
+    "why": "Celtic Frost's dark extremity was part of their early sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "killswitch-engage",
+    "why": "Killswitch Engage and American metalcore took Slaughter of the Soul as a template.",
+    "s": 2
+   },
+   {
+    "id": "in-flames",
+    "why": "Fellow Gothenburg band In Flames developed the same melodic style alongside them.",
+    "s": 1
+   },
+   {
+    "id": "avenged-sevenfold",
+    "why": "Avenged Sevenfold's early metalcore riffing drew on the Gothenburg sound.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "black-flag",
+    "why": "Same compact, furious songwriting with a hardcore punk spine."
+   },
+   {
+    "id": "husker-du",
+    "why": "Both put strong melody inside loud, fast, abrasive music."
+   }
+  ]
+ },
+ {
+  "id": "in-flames",
+  "years": "1990–present",
+  "origin": "Gothenburg, Sweden",
+  "genres": [
+   "melodic death metal",
+   "alternative metal",
+   "metalcore"
+  ],
+  "summary": "In Flames were one of the creators of the Gothenburg melodic death metal sound, adding Swedish folk melodies to extreme metal. They later moved toward American alternative metal and reached a wider audience.",
+  "know": [
+   "Guitarist Jesper Stromblad founded the band, and Anders Friden became singer in 1995.",
+   "Friden previously sang in Dark Tranquillity, the other key Gothenburg band.",
+   "Clayman (2000) and Reroute to Remain (2002) started their shift toward cleaner, more modern metal."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Jester Race",
+    1996
+   ],
+   [
+    "Whoracle",
+    1997
+   ],
+   [
+    "Colony",
+    1999
+   ],
+   [
+    "Clayman",
+    2000
+   ]
+  ],
+  "songs": [
+   "Only for the Weak",
+   "Cloud Connected",
+   "Take This Life",
+   "Pinball Map",
+   "Artifacts of the Black Rain"
+  ],
+  "influencedBy": [
+   {
+    "id": "iron-maiden",
+    "why": "Their harmonized twin guitars come straight from Iron Maiden.",
+    "s": 2
+   },
+   {
+    "id": "carcass",
+    "why": "Carcass's melodic death metal helped shape their style.",
+    "s": 1
+   },
+   {
+    "id": "at-the-gates",
+    "why": "They grew up alongside At the Gates in the same Gothenburg scene.",
+    "s": 1
+   },
+   {
+    "id": "metallica",
+    "why": "Metallica's thrash riffing is part of their foundation.",
+    "s": 1
+   },
+   {
+    "id": "deftones",
+    "why": "Their 2000s records drew on the American alternative metal of bands like Deftones.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "killswitch-engage",
+    "why": "Killswitch Engage and American metalcore leaned heavily on In Flames' melodic riffing.",
+    "s": 2
+   },
+   {
+    "id": "avenged-sevenfold",
+    "why": "Avenged Sevenfold's early metalcore drew on Gothenburg melodies.",
+    "s": 1
+   },
+   {
+    "id": "bring-me-the-horizon",
+    "why": "Early metalcore bands like Bring Me the Horizon inherited the In Flames style.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "thin-lizzy",
+    "why": "Same melodic, harmonized twin guitar leads."
+   },
+   {
+    "id": "abba",
+    "why": "Both carry a strong Swedish gift for sweet, melancholy melody."
+   }
+  ]
+ },
+ {
+  "id": "mayhem",
+  "years": "1984–present",
+  "origin": "Oslo, Norway",
+  "genres": [
+   "black metal"
+  ],
+  "summary": "Mayhem are the central band of the Norwegian black metal scene. Their 1994 album De Mysteriis Dom Sathanas is one of the genre's defining records.",
+  "know": [
+   "The band took its name from the Venom song \"Mayhem with Mercy\".",
+   "Hungarian singer Attila Csihar sang on De Mysteriis Dom Sathanas and later rejoined.",
+   "Guitarist Euronymous ran the Oslo record shop Helvete and the label Deathlike Silence, hubs of the early scene."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Deathcrush",
+    1987
+   ],
+   [
+    "De Mysteriis Dom Sathanas",
+    1994
+   ],
+   [
+    "Grand Declaration of War",
+    2000
+   ],
+   [
+    "Daemon",
+    2019
+   ]
+  ],
+  "songs": [
+   "Freezing Moon",
+   "Funeral Fog",
+   "Pagan Fears",
+   "De Mysteriis Dom Sathanas",
+   "Life Eternal"
+  ],
+  "influencedBy": [
+   {
+    "id": "venom",
+    "why": "Mayhem were named after a Venom song and built on their raw occult metal.",
+    "s": 3
+   },
+   {
+    "id": "bathory",
+    "why": "Bathory's cold, raw early records were a central model.",
+    "s": 2
+   },
+   {
+    "id": "celtic-frost",
+    "why": "Hellhammer and Celtic Frost shaped their primitive heaviness.",
+    "s": 2
+   },
+   {
+    "id": "slayer",
+    "why": "Slayer's speed and darkness fed their early sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "darkthrone",
+    "why": "Darkthrone moved from death metal to black metal within the scene Mayhem led.",
+    "s": 2
+   },
+   {
+    "id": "emperor",
+    "why": "Emperor came up in the scene centered on Mayhem and Helvete.",
+    "s": 2
+   },
+   {
+    "id": "burzum",
+    "why": "Varg Vikernes played bass on De Mysteriis Dom Sathanas.",
+    "s": 3
+   },
+   {
+    "id": "sunn-o",
+    "why": "Mayhem singer Attila Csihar became a regular vocalist with Sunn O))).",
+    "s": 3
+   },
+   {
+    "id": "deafheaven",
+    "why": "Deafheaven's tremolo-picked black metal grows from the Norwegian sound Mayhem defined.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bauhaus",
+    "why": "Same theatrical, gothic sense of darkness."
+   },
+   {
+    "id": "joy-division",
+    "why": "Both made cold, bleak, highly atmospheric music that defined a scene."
+   }
+  ]
+ },
+ {
+  "id": "burzum",
+  "years": "1991–2018",
+  "origin": "Bergen, Norway",
+  "genres": [
+   "black metal",
+   "atmospheric black metal",
+   "dark ambient"
+  ],
+  "summary": "Burzum is the one-man project of Varg Vikernes, whose hypnotic, lo-fi records shaped atmospheric black metal. Their repetitive, trance-like style also fed ambient and blackgaze music.",
+  "know": [
+   "Vikernes recorded the albums alone, playing all instruments.",
+   "The early albums were recorded at Grieghallen studio in Bergen with producer Pytten.",
+   "He used a deliberately harsh, fuzzy guitar tone on Filosofem."
+  ],
+  "born": "02-11",
+  "keyAlbums": [
+   [
+    "Burzum",
+    1992
+   ],
+   [
+    "Det som engang var",
+    1993
+   ],
+   [
+    "Hvis lyset tar oss",
+    1994
+   ],
+   [
+    "Filosofem",
+    1996
+   ]
+  ],
+  "songs": [
+   "Dunkelheit",
+   "Det som en gang var",
+   "Feeble Screams from Forests Unknown",
+   "Tomhet"
+  ],
+  "influencedBy": [
+   {
+    "id": "bathory",
+    "why": "Burzum's raw atmosphere draws directly on early Bathory.",
+    "s": 2
+   },
+   {
+    "id": "mayhem",
+    "why": "Vikernes played bass on Mayhem's De Mysteriis Dom Sathanas.",
+    "s": 3
+   },
+   {
+    "id": "celtic-frost",
+    "why": "Celtic Frost's heaviness is part of the early black metal background.",
+    "s": 1
+   },
+   {
+    "id": "venom",
+    "why": "Venom's raw occult metal underlies the whole style.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "deafheaven",
+    "why": "Deafheaven's long, hypnotic black metal builds draw on Burzum's repetitive style.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "brian-eno",
+    "why": "Same slow-moving, hypnotic, ambient-minded repetition."
+   },
+   {
+    "id": "tangerine-dream",
+    "why": "Both built long, trance-like pieces from simple, repeating parts."
+   }
+  ]
+ },
+ {
+  "id": "emperor",
+  "years": "1991–2001",
+  "origin": "Notodden, Norway",
+  "genres": [
+   "symphonic black metal",
+   "black metal"
+  ],
+  "summary": "Emperor were the most ambitious band of Norwegian black metal, adding orchestral keyboards and complex structures to the genre. In the Nightside Eclipse is a landmark of symphonic black metal.",
+  "know": [
+   "Ihsahn and Samoth formed the band as teenagers.",
+   "Their records layered keyboards over tremolo guitars to create an orchestral sound.",
+   "Ihsahn later built a solo career in progressive metal."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "In the Nightside Eclipse",
+    1994
+   ],
+   [
+    "Anthems to the Welkin at Dusk",
+    1997
+   ],
+   [
+    "IX Equilibrium",
+    1999
+   ],
+   [
+    "Prometheus: The Discipline of Fire & Demise",
+    2001
+   ]
+  ],
+  "songs": [
+   "I Am the Black Wizards",
+   "Inno a Satana",
+   "The Loss and Curse of Reverence",
+   "Ye Entrancemperium",
+   "Thus Spake the Nightspirit"
+  ],
+  "influencedBy": [
+   {
+    "id": "bathory",
+    "why": "Bathory's epic atmosphere is a stated influence on the band.",
+    "s": 2
+   },
+   {
+    "id": "mayhem",
+    "why": "They came up in the Oslo-centered scene that Mayhem led.",
+    "s": 2
+   },
+   {
+    "id": "celtic-frost",
+    "why": "Celtic Frost's dark ambition was a model for extreme metal with grand ideas.",
+    "s": 2
+   },
+   {
+    "id": "iron-maiden",
+    "why": "Ihsahn has named Iron Maiden as his first big metal love.",
+    "s": 2
+   },
+   {
+    "id": "venom",
+    "why": "Venom's black metal laid the groundwork.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "deafheaven",
+    "why": "Deafheaven's grand, layered black metal follows the ambition Emperor showed.",
+    "s": 1
+   },
+   {
+    "id": "opeth",
+    "why": "Opeth and Emperor both pushed extreme metal toward progressive structure, and Ihsahn and Mikael Akerfeldt are longtime peers.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "vangelis",
+    "why": "Same grand, synthesizer-built orchestral scale."
+   },
+   {
+    "id": "king-crimson",
+    "why": "Both brought progressive complexity into dark, heavy music."
+   }
+  ]
+ },
+ {
+  "id": "darkthrone",
+  "years": "1986–present",
+  "origin": "Kolbotn, Norway",
+  "genres": [
+   "black metal",
+   "death metal",
+   "crust punk"
+  ],
+  "summary": "Darkthrone are a Norwegian duo whose cold, raw early 90s albums defined lo-fi black metal. Later they embraced crust punk and old-school heavy metal while refusing to tour.",
+  "know": [
+   "The band has long been the duo of Fenriz and Nocturno Culto.",
+   "Their 1991 debut Soulside Journey was a death metal album before they switched to black metal.",
+   "Darkthrone has not played live in decades."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Soulside Journey",
+    1991
+   ],
+   [
+    "A Blaze in the Northern Sky",
+    1992
+   ],
+   [
+    "Under a Funeral Moon",
+    1993
+   ],
+   [
+    "Transilvanian Hunger",
+    1994
+   ]
+  ],
+  "songs": [
+   "Transilvanian Hunger",
+   "Kathaarian Life Code",
+   "Under a Funeral Moon",
+   "In the Shadow of the Horns",
+   "Too Old, Too Cold"
+  ],
+  "influencedBy": [
+   {
+    "id": "celtic-frost",
+    "why": "Fenriz has called Celtic Frost one of the band's most important influences.",
+    "s": 3
+   },
+   {
+    "id": "bathory",
+    "why": "Early Bathory's raw coldness shaped their black metal turn.",
+    "s": 2
+   },
+   {
+    "id": "venom",
+    "why": "Venom's crude metal is at the root of their style.",
+    "s": 2
+   },
+   {
+    "id": "mayhem",
+    "why": "They switched to black metal inside the scene Mayhem led.",
+    "s": 2
+   },
+   {
+    "id": "motorhead",
+    "why": "Their later punk-metal records lean on Motorhead's raw rock.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "deafheaven",
+    "why": "Deafheaven's tremolo picking and raw passages draw on Darkthrone's style.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "black-flag",
+    "why": "Same stubborn DIY punk spirit and raw sound."
+   },
+   {
+    "id": "misfits",
+    "why": "Both made fast, raw, horror-tinged music that stayed underground on purpose."
+   }
+  ]
+ },
+ {
+  "id": "candlemass",
+  "years": "1984–present",
+  "origin": "Stockholm, Sweden",
+  "genres": [
+   "epic doom metal",
+   "doom metal"
+  ],
+  "summary": "Candlemass are the Swedish band that defined epic doom metal, pairing Black Sabbath's slow heaviness with operatic vocals and grand melodies. Their debut gave the style its name.",
+  "know": [
+   "Bassist Leif Edling is the band's founder and main songwriter.",
+   "Their 1986 debut was titled Epicus Doomicus Metallicus, which gave epic doom its label.",
+   "Singer Messiah Marcolin, known for performing in a monk's robe, fronted their classic late-80s albums."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Epicus Doomicus Metallicus",
+    1986
+   ],
+   [
+    "Nightfall",
+    1987
+   ],
+   [
+    "Ancient Dreams",
+    1988
+   ],
+   [
+    "Tales of Creation",
+    1989
+   ]
+  ],
+  "songs": [
+   "Solitude",
+   "Bewitched",
+   "At the Gallows End",
+   "Samarithan",
+   "Dark Reflections"
+  ],
+  "influencedBy": [
+   {
+    "id": "black-sabbath",
+    "why": "Leif Edling has always named Black Sabbath as the foundation of Candlemass.",
+    "s": 3
+   },
+   {
+    "id": "dio",
+    "why": "Their operatic vocals and epic scale follow the Dio-era Sabbath and Dio's own band.",
+    "s": 2
+   },
+   {
+    "id": "iron-maiden",
+    "why": "Their grand melodic heavy metal draws on Iron Maiden.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "my-dying-bride",
+    "why": "Candlemass's epic doom was a key model for the British doom-death bands.",
+    "s": 1
+   },
+   {
+    "id": "ghost",
+    "why": "Ghost's slow, melodic, occult-themed heavy rock draws on Swedish doom like Candlemass.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "dead-can-dance",
+    "why": "Same solemn, ceremonial grandeur."
+   },
+   {
+    "id": "the-moody-blues",
+    "why": "Both built slow, majestic, melancholy songs on a big scale."
+   }
+  ]
+ },
+ {
+  "id": "saint-vitus",
+  "years": "1979–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "doom metal",
+   "traditional doom"
+  ],
+  "summary": "Saint Vitus were Los Angeles doom pioneers who played slow, heavy Sabbath-style metal while signed to a punk label. They became a cornerstone of American doom.",
+  "know": [
+   "They signed to SST Records, the punk label run by Black Flag's Greg Ginn.",
+   "Scott \"Wino\" Weinrich of The Obsessed became their singer in 1986.",
+   "The band took its name from the Black Sabbath song \"St. Vitus Dance\"."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Saint Vitus",
+    1984
+   ],
+   [
+    "Hallow's Victim",
+    1985
+   ],
+   [
+    "Born Too Late",
+    1986
+   ],
+   [
+    "V",
+    1990
+   ]
+  ],
+  "songs": [
+   "Born Too Late",
+   "Saint Vitus",
+   "Clear Windowpane",
+   "War Is Our Destiny",
+   "White Magic / Black Magic"
+  ],
+  "influencedBy": [
+   {
+    "id": "black-sabbath",
+    "why": "They are named after a Sabbath song and built their sound on Sabbath's slow riffs.",
+    "s": 3
+   },
+   {
+    "id": "black-flag",
+    "why": "They toured with and recorded for Black Flag's label SST, and shared their punk attitude.",
+    "s": 2
+   },
+   {
+    "id": "blue-cheer",
+    "why": "Blue Cheer's loud, primitive heaviness is part of their DNA.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "electric-wizard",
+    "why": "Electric Wizard's crushing doom follows the path Saint Vitus laid down.",
+    "s": 2
+   },
+   {
+    "id": "sleep",
+    "why": "Sleep's slow Sabbath-worship grew from the American doom tradition Vitus led.",
+    "s": 1
+   },
+   {
+    "id": "eyehategod",
+    "why": "Sludge bands like Eyehategod took Vitus's punk-meets-doom approach further.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "melvins",
+    "why": "Same slow, heavy riffs played with a punk attitude."
+   },
+   {
+    "id": "the-stooges",
+    "why": "Both made primal, unpolished, ugly-on-purpose rock."
+   }
+  ]
+ },
+ {
+  "id": "electric-wizard",
+  "years": "1993–present",
+  "origin": "Wimborne, England",
+  "genres": [
+   "doom metal",
+   "stoner metal"
+  ],
+  "summary": "Electric Wizard are an English doom band known for extremely heavy, fuzz-drenched riffs and imagery from vintage horror and exploitation films. Dopethrone is one of the most celebrated doom albums.",
+  "know": [
+   "Jus Oborn has led the band since it formed in Dorset.",
+   "Dopethrone (2000) is often ranked among the heaviest doom albums ever made.",
+   "Their artwork and songs borrow heavily from 60s and 70s cult horror films."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Come My Fanatics...",
+    1997
+   ],
+   [
+    "Dopethrone",
+    2000
+   ],
+   [
+    "Let Us Prey",
+    2002
+   ],
+   [
+    "Witchcult Today",
+    2007
+   ]
+  ],
+  "songs": [
+   "Funeralopolis",
+   "Dopethrone",
+   "Return Trip",
+   "Black Mass",
+   "Witchcult Today"
+  ],
+  "influencedBy": [
+   {
+    "id": "black-sabbath",
+    "why": "Black Sabbath is the foundation of their slow, occult riffing.",
+    "s": 2
+   },
+   {
+    "id": "saint-vitus",
+    "why": "American doom like Saint Vitus shaped their approach.",
+    "s": 2
+   },
+   {
+    "id": "hawkwind",
+    "why": "Their spacey, droning psychedelia draws on Hawkwind.",
+    "s": 1
+   },
+   {
+    "id": "blue-cheer",
+    "why": "Blue Cheer's overloaded fuzz is part of their sound.",
+    "s": 1
+   },
+   {
+    "id": "sleep",
+    "why": "Sleep's stoner doom was an early peer influence.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-stooges",
+    "why": "Same raw, overloaded, menacing rock."
+   },
+   {
+    "id": "spacemen-3",
+    "why": "Both used drone and heavy repetition to create a hypnotic haze."
+   }
+  ]
+ },
+ {
+  "id": "type-o-negative",
+  "years": "1989–2010",
+  "origin": "Brooklyn, New York",
+  "genres": [
+   "gothic metal",
+   "doom metal"
+  ],
+  "summary": "Type O Negative were a Brooklyn band led by Peter Steele who mixed slow doom riffs, gothic atmosphere, Beatles-style melodies and dark humor. Bloody Kisses made them unlikely gold-selling stars.",
+  "know": [
+   "Peter Steele had previously led the thrash band Carnivore.",
+   "Bloody Kisses became the first Roadrunner Records album certified platinum.",
+   "Fans nicknamed them the Drab Four, a nod to their love of the Beatles."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Slow, Deep and Hard",
+    1991
+   ],
+   [
+    "Bloody Kisses",
+    1993
+   ],
+   [
+    "October Rust",
+    1996
+   ],
+   [
+    "World Coming Down",
+    1999
+   ]
+  ],
+  "songs": [
+   "Black No. 1",
+   "Christian Woman",
+   "Love You to Death",
+   "My Girlfriend's Girlfriend",
+   "Wolf Moon"
+  ],
+  "influencedBy": [
+   {
+    "id": "black-sabbath",
+    "why": "Their slow, heavy riffs come straight from Black Sabbath.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "Steele openly loved the Beatles, and their melodies run through his songs.",
+    "s": 3
+   },
+   {
+    "id": "the-sisters-of-mercy",
+    "why": "Their deep vocals and gothic atmosphere echo the Sisters of Mercy.",
+    "s": 1
+   },
+   {
+    "id": "bauhaus",
+    "why": "Gothic rock like Bauhaus shaped their mood.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "ghost",
+    "why": "Ghost's mix of heavy riffs, melody and theatrical gloom follows Type O's example.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-sisters-of-mercy",
+    "why": "Same baritone gloom over slow, heavy, synth-laced rock."
+   },
+   {
+    "id": "the-cure",
+    "why": "Both mixed melancholy with lush melody and a dry sense of humor."
+   }
+  ]
+ },
+ {
+  "id": "my-dying-bride",
+  "years": "1990–present",
+  "origin": "Bradford, England",
+  "genres": [
+   "doom metal",
+   "death-doom",
+   "gothic metal"
+  ],
+  "summary": "My Dying Bride are a Yorkshire band who helped create death-doom and gothic metal. They added violin and keyboards to slow, mournful metal.",
+  "know": [
+   "They are one of the Peaceville Three, with Paradise Lost and Anathema.",
+   "Violin and keyboards by Martin Powell were central to their mid-90s sound.",
+   "Singer Aaron Stainthorpe moved between growls and spoken, sung melancholy."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "As the Flower Withers",
+    1992
+   ],
+   [
+    "Turn Loose the Swans",
+    1993
+   ],
+   [
+    "The Angel and the Dark River",
+    1995
+   ],
+   [
+    "Like Gods of the Sun",
+    1996
+   ]
+  ],
+  "songs": [
+   "The Cry of Mankind",
+   "Turn Loose the Swans",
+   "The Snow in My Hand",
+   "She Is the Dark",
+   "Your River"
+  ],
+  "influencedBy": [
+   {
+    "id": "candlemass",
+    "why": "Candlemass's epic doom was a major model for their slow, grand songs.",
+    "s": 2
+   },
+   {
+    "id": "celtic-frost",
+    "why": "Celtic Frost's heavy, dark extremity fed their death-doom.",
+    "s": 2
+   },
+   {
+    "id": "black-sabbath",
+    "why": "Black Sabbath underlies the whole doom tradition.",
+    "s": 1
+   },
+   {
+    "id": "the-sisters-of-mercy",
+    "why": "Gothic rock shaped their romantic, mournful mood.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "opeth",
+    "why": "Opeth's mix of death metal and melancholy draws on the British doom-death of bands like My Dying Bride.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "dead-can-dance",
+    "why": "Same mournful, ornate, old-world atmosphere."
+   },
+   {
+    "id": "nick-cave",
+    "why": "Both write slow, dramatic songs of love and despair."
+   }
+  ]
+ },
+ {
+  "id": "eyehategod",
+  "years": "1988–present",
+  "origin": "New Orleans, Louisiana",
+  "genres": [
+   "sludge metal",
+   "doom metal",
+   "hardcore punk"
+  ],
+  "summary": "Eyehategod are the definitive New Orleans sludge band, mixing slow Sabbath riffs, hardcore punk and Southern blues feedback. They helped build the New Orleans heavy scene.",
+  "know": [
+   "Guitarist Jimmy Bower also played in Down with Phil Anselmo.",
+   "Mike Williams has been the singer since the start.",
+   "They were part of a New Orleans scene that also included Crowbar and Down."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "In the Name of Suffering",
+    1990
+   ],
+   [
+    "Take as Needed for Pain",
+    1993
+   ],
+   [
+    "Dopesick",
+    1996
+   ],
+   [
+    "Eyehategod",
+    2014
+   ]
+  ],
+  "songs": [
+   "Take as Needed for Pain",
+   "Dixie Whiskey",
+   "Revelation/Revolution",
+   "Medicine Noose"
+  ],
+  "influencedBy": [
+   {
+    "id": "black-sabbath",
+    "why": "Their slow, crushing riffs come from Black Sabbath.",
+    "s": 2
+   },
+   {
+    "id": "black-flag",
+    "why": "Black Flag's slowed-down later hardcore shaped their sound.",
+    "s": 2
+   },
+   {
+    "id": "melvins",
+    "why": "The Melvins' sludgy slowness was a key model.",
+    "s": 2
+   },
+   {
+    "id": "saint-vitus",
+    "why": "Saint Vitus showed how doom and punk could fit together.",
+    "s": 1
+   },
+   {
+    "id": "lynyrd-skynyrd",
+    "why": "Their Southern blues swagger draws on Southern rock.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-stooges",
+    "why": "Same feedback-soaked, primal rock."
+   },
+   {
+    "id": "howlin-wolf",
+    "why": "Both carry a heavy, menacing Southern blues feel."
+   }
+  ]
+ },
+ {
+  "id": "neurosis",
+  "years": "1985–present",
+  "origin": "Oakland, California",
+  "genres": [
+   "post-metal",
+   "sludge metal",
+   "hardcore punk"
+  ],
+  "summary": "Neurosis began as a Bay Area hardcore band and became the founders of post-metal, building long, heavy, tribal and atmospheric pieces. Their influence runs through Isis, Mastodon and much of modern heavy music.",
+  "know": [
+   "They started in the hardcore scene around Berkeley's 924 Gilman Street.",
+   "Times of Grace and later albums were recorded by Steve Albini.",
+   "Guitarists Scott Kelly and Steve Von Till run the band's label, Neurot Recordings."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Souls at Zero",
+    1992
+   ],
+   [
+    "Enemy of the Sun",
+    1993
+   ],
+   [
+    "Through Silver in Blood",
+    1996
+   ],
+   [
+    "Times of Grace",
+    1999
+   ]
+  ],
+  "songs": [
+   "Through Silver in Blood",
+   "Locust Star",
+   "Stones from the Sky",
+   "The Last You'll Know",
+   "Souls at Zero"
+  ],
+  "influencedBy": [
+   {
+    "id": "black-flag",
+    "why": "They came out of the hardcore punk world that Black Flag led.",
+    "s": 2
+   },
+   {
+    "id": "pink-floyd",
+    "why": "Their long, atmospheric, slowly building pieces draw on Pink Floyd.",
+    "s": 2
+   },
+   {
+    "id": "melvins",
+    "why": "The Melvins' slow heaviness shaped their turn toward sludge.",
+    "s": 2
+   },
+   {
+    "id": "black-sabbath",
+    "why": "Sabbath's heavy riffs underlie their sound.",
+    "s": 1
+   },
+   {
+    "id": "steve-albini",
+    "why": "Albini recorded Times of Grace and later albums, shaping their raw, live sound.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "isis",
+    "why": "Aaron Turner has called Neurosis the main influence on Isis.",
+    "s": 2
+   },
+   {
+    "id": "mastodon",
+    "why": "Scott Kelly has sung guest vocals on nearly every Mastodon album.",
+    "s": 3
+   },
+   {
+    "id": "converge",
+    "why": "Converge have cited Neurosis for their heavy, atmospheric side.",
+    "s": 2
+   },
+   {
+    "id": "gojira",
+    "why": "Gojira's heavy, atmospheric grooves draw on Neurosis.",
+    "s": 1
+   },
+   {
+    "id": "deafheaven",
+    "why": "Post-metal's long builds, which Neurosis pioneered, run through Deafheaven.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "godspeed-you-black-emperor",
+    "why": "Same long, apocalyptic, slowly building instrumental drama."
+   },
+   {
+    "id": "mogwai",
+    "why": "Both made loud-quiet epics that built to crushing peaks."
+   }
+  ]
+ },
+ {
+  "id": "isis",
+  "years": "1997–2010",
+  "origin": "Boston, Massachusetts",
+  "genres": [
+   "post-metal",
+   "sludge metal"
+  ],
+  "summary": "Isis were a Boston band that took Neurosis's heavy sound in a more melodic, atmospheric direction. Oceanic and Panopticon are landmark post-metal records.",
+  "know": [
+   "Singer and guitarist Aaron Turner also ran the label Hydra Head Records.",
+   "The band moved from Boston to Los Angeles in the early 2000s.",
+   "They toured with Tool, and Adam Jones guested on Wavering Radiant."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Celestial",
+    2000
+   ],
+   [
+    "Oceanic",
+    2002
+   ],
+   [
+    "Panopticon",
+    2004
+   ],
+   [
+    "In the Absence of Truth",
+    2006
+   ]
+  ],
+  "songs": [
+   "The Beginning and the End",
+   "Weight",
+   "In Fiction",
+   "Holy Tears",
+   "Ghost Key"
+  ],
+  "influencedBy": [
+   {
+    "id": "neurosis",
+    "why": "Aaron Turner has named Neurosis as the band's chief influence.",
+    "s": 2
+   },
+   {
+    "id": "melvins",
+    "why": "The Melvins' slow heaviness shaped their early sludge.",
+    "s": 2
+   },
+   {
+    "id": "tool",
+    "why": "They toured with Tool, and Adam Jones played on Wavering Radiant.",
+    "s": 3
+   },
+   {
+    "id": "godspeed-you-black-emperor",
+    "why": "Their long instrumental builds share post-rock's approach.",
+    "s": 1
+   },
+   {
+    "id": "slint",
+    "why": "Slint's quiet-loud post-rock dynamics are part of their structure.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "deafheaven",
+    "why": "Deafheaven's long atmospheric heavy songs follow the post-metal path Isis widened.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "mogwai",
+    "why": "Same patient, wave-like build from quiet to crushing."
+   },
+   {
+    "id": "explosions-in-the-sky",
+    "why": "Both build long, mostly instrumental pieces toward huge climaxes."
+   }
+  ]
+ },
+ {
+  "id": "kyuss",
+  "years": "1987–1995",
+  "origin": "Palm Desert, California",
+  "genres": [
+   "stoner rock",
+   "desert rock"
+  ],
+  "summary": "Kyuss were the band that created desert rock, playing slow, fuzzed-out riffs at generator parties in the California desert. Members went on to Queens of the Stone Age and much of stoner rock.",
+  "know": [
+   "They built their following playing generator-powered parties in the desert.",
+   "Guitarist Josh Homme later formed Queens of the Stone Age.",
+   "Producer Chris Goss shaped their sound on Blues for the Red Sun and Welcome to Sky Valley."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Wretch",
+    1991
+   ],
+   [
+    "Blues for the Red Sun",
+    1992
+   ],
+   [
+    "Welcome to Sky Valley",
+    1994
+   ],
+   [
+    "...And the Circus Leaves Town",
+    1995
+   ]
+  ],
+  "songs": [
+   "Green Machine",
+   "Gardenia",
+   "Thumb",
+   "Demon Cleaner",
+   "One Inch Man"
+  ],
+  "influencedBy": [
+   {
+    "id": "black-sabbath",
+    "why": "Their slow, heavy riffs come from Black Sabbath.",
+    "s": 2
+   },
+   {
+    "id": "black-flag",
+    "why": "Josh Homme has credited Black Flag's later, heavier records as an influence.",
+    "s": 2
+   },
+   {
+    "id": "blue-cheer",
+    "why": "Blue Cheer's overdriven fuzz is a clear ancestor.",
+    "s": 1
+   },
+   {
+    "id": "hawkwind",
+    "why": "Their spacey, repetitive jams draw on Hawkwind.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "queens-of-the-stone-age",
+    "why": "Josh Homme founded Queens of the Stone Age after Kyuss split.",
+    "s": 3
+   },
+   {
+    "id": "fu-manchu",
+    "why": "Kyuss drummer Brant Bjork joined Fu Manchu in 1996.",
+    "s": 3
+   },
+   {
+    "id": "electric-wizard",
+    "why": "Their fuzzed-out riffing helped shape stoner doom.",
+    "s": 1
+   },
+   {
+    "id": "mastodon",
+    "why": "Mastodon's heavy, riff-driven sound owes something to desert rock.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "zz-top",
+    "why": "Same dry, hot, boogie-friendly heavy riffing."
+   },
+   {
+    "id": "the-allman-brothers",
+    "why": "Both used long, jam-heavy grooves as the heart of the music."
+   }
+  ]
+ },
+ {
+  "id": "sleep",
+  "years": "1990–present",
+  "origin": "San Jose, California",
+  "genres": [
+   "stoner metal",
+   "doom metal"
+  ],
+  "summary": "Sleep are a San Jose trio whose devotion to Black Sabbath produced Sleep's Holy Mountain and the hour-long Dopesmoker. They are central to stoner metal.",
+  "know": [
+   "Dopesmoker is a single song about an hour long.",
+   "After the band split, Matt Pike formed High on Fire and Al Cisneros and Chris Hakius formed Om.",
+   "Their 2018 reunion album The Sciences came out on Jack White's Third Man Records."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Volume One",
+    1991
+   ],
+   [
+    "Sleep's Holy Mountain",
+    1992
+   ],
+   [
+    "Dopesmoker",
+    2003
+   ],
+   [
+    "The Sciences",
+    2018
+   ]
+  ],
+  "songs": [
+   "Dragonaut",
+   "Holy Mountain",
+   "Dopesmoker",
+   "Sonic Titan"
+  ],
+  "influencedBy": [
+   {
+    "id": "black-sabbath",
+    "why": "Their whole sound is a devoted extension of Black Sabbath.",
+    "s": 2
+   },
+   {
+    "id": "saint-vitus",
+    "why": "Saint Vitus showed them how to play slow American doom.",
+    "s": 2
+   },
+   {
+    "id": "blue-cheer",
+    "why": "Blue Cheer's thick fuzz is part of their sound.",
+    "s": 1
+   },
+   {
+    "id": "melvins",
+    "why": "The Melvins' slowness shaped their approach.",
+    "s": 1
+   },
+   {
+    "id": "hawkwind",
+    "why": "Their long, droning jams draw on Hawkwind.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "electric-wizard",
+    "why": "Electric Wizard drew on Sleep's slow, fuzz-heavy stoner doom.",
+    "s": 1
+   },
+   {
+    "id": "sunn-o",
+    "why": "Sleep's extremely slow, long riffs pointed toward drone metal.",
+    "s": 1
+   },
+   {
+    "id": "mastodon",
+    "why": "Mastodon have named Sleep and Matt Pike as an influence on their riffing.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "grateful-dead",
+    "why": "Same long, hypnotic, jam-heavy journeys."
+   },
+   {
+    "id": "can",
+    "why": "Both built music on long, repetitive grooves."
+   }
+  ]
+ },
+ {
+  "id": "fu-manchu",
+  "years": "1985–present",
+  "origin": "Orange County, California",
+  "genres": [
+   "stoner rock",
+   "desert rock",
+   "heavy rock"
+  ],
+  "summary": "Fu Manchu are a Southern California band that plays fuzz-heavy, groove-driven stoner rock steeped in 70s riffs and skate and van culture. They were a key band of the 90s stoner rock wave.",
+  "know": [
+   "The band started as the hardcore punk group Virulence.",
+   "Former Kyuss drummer Brant Bjork played with them from 1996 to 2001.",
+   "Their records lean on images of skateboarding, vans and muscle cars."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "No One Rides for Free",
+    1994
+   ],
+   [
+    "In Search Of...",
+    1996
+   ],
+   [
+    "The Action Is Go",
+    1997
+   ],
+   [
+    "King of the Road",
+    1999
+   ]
+  ],
+  "songs": [
+   "Evil Eye",
+   "King of the Road",
+   "Asphalt Rising",
+   "Godzilla",
+   "Mongoose"
+  ],
+  "influencedBy": [
+   {
+    "id": "blue-cheer",
+    "why": "Blue Cheer's thick, overdriven fuzz is the core of their guitar tone.",
+    "s": 2
+   },
+   {
+    "id": "black-flag",
+    "why": "They began as a hardcore band and kept Black Flag's punk drive.",
+    "s": 2
+   },
+   {
+    "id": "kyuss",
+    "why": "Kyuss drummer Brant Bjork joined the band, and the two shaped desert rock together.",
+    "s": 3
+   },
+   {
+    "id": "blue-oyster-cult",
+    "why": "They recorded a well-known cover of Blue Oyster Cult's \"Godzilla\".",
+    "s": 3
+   },
+   {
+    "id": "black-sabbath",
+    "why": "Sabbath's heavy riffs underlie their sound.",
+    "s": 1
+   },
+   {
+    "id": "grand-funk-railroad",
+    "why": "Their simple, heavy 70s groove draws on Grand Funk Railroad.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "descendents",
+    "why": "Same Southern California skate and punk culture."
+   },
+   {
+    "id": "zz-top",
+    "why": "Both play fuzzy, boogie-heavy riffs built for driving."
+   }
+  ]
+ },
+ {
+  "id": "dream-theater",
+  "years": "1985–present",
+  "origin": "Boston, Massachusetts",
+  "genres": [
+   "progressive metal"
+  ],
+  "summary": "Dream Theater are the band most associated with progressive metal, mixing heavy riffs with long, complex compositions and virtuoso playing. Images and Words broke them in 1992.",
+  "know": [
+   "Guitarist John Petrucci, bassist John Myung and drummer Mike Portnoy formed the band as Majesty while studying at Berklee.",
+   "\"Pull Me Under\" became a radio and MTV hit in 1992.",
+   "Mike Portnoy left in 2010 and returned in 2023."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Images and Words",
+    1992
+   ],
+   [
+    "Awake",
+    1994
+   ],
+   [
+    "Metropolis Pt. 2: Scenes from a Memory",
+    1999
+   ],
+   [
+    "Six Degrees of Inner Turbulence",
+    2002
+   ]
+  ],
+  "songs": [
+   "Pull Me Under",
+   "Metropolis Part I: The Miracle and the Sleeper",
+   "Learning to Live",
+   "The Spirit Carries On",
+   "Take the Time"
+  ],
+  "influencedBy": [
+   {
+    "id": "rush",
+    "why": "The band has always named Rush as their biggest model for heavy, complex music.",
+    "s": 3
+   },
+   {
+    "id": "iron-maiden",
+    "why": "Their twin-guitar metal and epic structures draw on Iron Maiden.",
+    "s": 2
+   },
+   {
+    "id": "metallica",
+    "why": "Metallica's heavy riffing shaped their metal side.",
+    "s": 2
+   },
+   {
+    "id": "queensryche",
+    "why": "Queensryche showed them how to blend progressive rock with metal.",
+    "s": 2
+   },
+   {
+    "id": "pink-floyd",
+    "why": "They have played Pink Floyd albums in full live and borrow their concept-album scale.",
+    "s": 2
+   },
+   {
+    "id": "yes",
+    "why": "Yes's long progressive suites inform their song structures.",
+    "s": 1
+   },
+   {
+    "id": "fates-warning",
+    "why": "Fates Warning were early progressive metal peers, and keyboardist Kevin Moore later worked with them.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "periphery",
+    "why": "Periphery's progressive metal grew from the virtuoso style Dream Theater popularized.",
+    "s": 1
+   },
+   {
+    "id": "animals-as-leaders",
+    "why": "Instrumental prog metal like Animals as Leaders follows Dream Theater's virtuoso lead.",
+    "s": 1
+   },
+   {
+    "id": "avenged-sevenfold",
+    "why": "Mike Portnoy drummed on Avenged Sevenfold's Nightmare, and the band has cited Dream Theater.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "weather-report",
+    "why": "Same virtuoso, composition-first approach from the jazz fusion side."
+   },
+   {
+    "id": "emerson-lake-and-palmer",
+    "why": "Both pushed rock toward long, technical, keyboard-heavy compositions."
+   },
+   {
+    "id": "x-japan",
+    "why": "Both blend heavy metal power with grand, classical-minded composition."
+   }
+  ]
+ },
+ {
+  "id": "opeth",
+  "years": "1990–present",
+  "origin": "Stockholm, Sweden",
+  "genres": [
+   "progressive metal",
+   "progressive death metal",
+   "progressive rock"
+  ],
+  "summary": "Opeth are a Swedish band led by Mikael Akerfeldt who combined death metal with 70s progressive rock and acoustic folk. They later dropped growled vocals entirely for pure prog rock.",
+  "know": [
+   "Steven Wilson of Porcupine Tree produced Blackwater Park, Deliverance and Damnation.",
+   "Damnation (2003) was a fully clean, mellow album made alongside the heavy Deliverance.",
+   "Heritage (2011) began their move away from death metal vocals."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Still Life",
+    1999
+   ],
+   [
+    "Blackwater Park",
+    2001
+   ],
+   [
+    "Damnation",
+    2003
+   ],
+   [
+    "Ghost Reveries",
+    2005
+   ]
+  ],
+  "songs": [
+   "The Drapery Falls",
+   "Ghost of Perdition",
+   "Windowpane",
+   "Deliverance",
+   "The Grand Conjuration"
+  ],
+  "influencedBy": [
+   {
+    "id": "porcupine-tree",
+    "why": "Steven Wilson produced their key albums and shaped their lush, layered sound.",
+    "s": 3
+   },
+   {
+    "id": "king-crimson",
+    "why": "Akerfeldt has named King Crimson as a key prog influence.",
+    "s": 2
+   },
+   {
+    "id": "camel",
+    "why": "Akerfeldt is an outspoken Camel fan, and their melodic prog shows in his writing.",
+    "s": 2
+   },
+   {
+    "id": "death",
+    "why": "Death showed them how melody and extreme metal could mix.",
+    "s": 2
+   },
+   {
+    "id": "celtic-frost",
+    "why": "Celtic Frost was among Akerfeldt's formative extreme metal bands.",
+    "s": 2
+   },
+   {
+    "id": "iron-maiden",
+    "why": "Their melodic guitar harmonies draw on Iron Maiden.",
+    "s": 2
+   },
+   {
+    "id": "black-sabbath",
+    "why": "Sabbath's heavy riffs underlie their metal side.",
+    "s": 1
+   },
+   {
+    "id": "candlemass",
+    "why": "Swedish doom like Candlemass shaped their slow, melancholy passages.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "nick-drake",
+    "why": "Same delicate, melancholy acoustic songcraft."
+   },
+   {
+    "id": "van-der-graaf-generator",
+    "why": "Both write dark, dramatic progressive music with sudden shifts."
+   }
+  ]
+ },
+ {
+  "id": "queensryche",
+  "years": "1982–present",
+  "origin": "Bellevue, Washington",
+  "genres": [
+   "progressive metal",
+   "heavy metal"
+  ],
+  "summary": "Queensryche were a Seattle-area band that brought progressive rock ambition to 80s heavy metal. Operation: Mindcrime is one of metal's most praised concept albums.",
+  "know": [
+   "Singer Geoff Tate fronted the band through its classic era.",
+   "Operation: Mindcrime (1988) is a full concept album with a continuous story.",
+   "The ballad \"Silent Lucidity\" reached the US top 10 in 1991."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Warning",
+    1984
+   ],
+   [
+    "Rage for Order",
+    1986
+   ],
+   [
+    "Operation: Mindcrime",
+    1988
+   ],
+   [
+    "Empire",
+    1990
+   ]
+  ],
+  "songs": [
+   "Silent Lucidity",
+   "Eyes of a Stranger",
+   "Queen of the Reich",
+   "Jet City Woman",
+   "Empire"
+  ],
+  "influencedBy": [
+   {
+    "id": "judas-priest",
+    "why": "Their early twin-guitar heavy metal follows Judas Priest.",
+    "s": 2
+   },
+   {
+    "id": "iron-maiden",
+    "why": "Iron Maiden's epic metal shaped their sound.",
+    "s": 2
+   },
+   {
+    "id": "pink-floyd",
+    "why": "Their concept albums and atmosphere draw on Pink Floyd.",
+    "s": 2
+   },
+   {
+    "id": "rush",
+    "why": "Rush showed them how to mix heavy rock with progressive ambition.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "dream-theater",
+    "why": "Dream Theater have cited Queensryche as a key model for progressive metal.",
+    "s": 2
+   },
+   {
+    "id": "fates-warning",
+    "why": "Fates Warning developed progressive metal alongside them in the same years.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-who",
+    "why": "Same ambition for story-driven rock operas."
+   },
+   {
+    "id": "david-bowie",
+    "why": "Both built albums around characters and dark concepts."
+   }
+  ]
+ },
+ {
+  "id": "fates-warning",
+  "years": "1982–present",
+  "origin": "Hartford, Connecticut",
+  "genres": [
+   "progressive metal",
+   "heavy metal"
+  ],
+  "summary": "Fates Warning are a Connecticut band led by guitarist Jim Matheos and among the founders of progressive metal. They moved from Maiden-style metal to complex, atmospheric prog.",
+  "know": [
+   "Guitarist Jim Matheos is the only constant member.",
+   "Ray Alder replaced original singer John Arch in 1987.",
+   "A Pleasant Shade of Gray (1997) is one continuous piece and featured keyboardist Kevin Moore."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Awaken the Guardian",
+    1986
+   ],
+   [
+    "Perfect Symmetry",
+    1989
+   ],
+   [
+    "Parallels",
+    1991
+   ],
+   [
+    "A Pleasant Shade of Gray",
+    1997
+   ]
+  ],
+  "songs": [
+   "The Ivory Gate of Dreams",
+   "Point of View",
+   "Eye to Eye",
+   "Guardian",
+   "Monument"
+  ],
+  "influencedBy": [
+   {
+    "id": "iron-maiden",
+    "why": "Their early records were strongly shaped by Iron Maiden.",
+    "s": 2
+   },
+   {
+    "id": "rush",
+    "why": "Rush's progressive approach drove their move toward complex structures.",
+    "s": 2
+   },
+   {
+    "id": "judas-priest",
+    "why": "Classic Priest-style metal is part of their early sound.",
+    "s": 1
+   },
+   {
+    "id": "queensryche",
+    "why": "Queensryche's progressive metal developed alongside theirs.",
+    "s": 1
+   },
+   {
+    "id": "pink-floyd",
+    "why": "Their atmospheric, long-form later work draws on Pink Floyd.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "dream-theater",
+    "why": "Dream Theater cite Fates Warning as an early progressive metal model.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "genesis",
+    "why": "Same intricate, emotional progressive songwriting."
+   },
+   {
+    "id": "king-crimson",
+    "why": "Both kept pushing heavy music toward complexity."
+   }
+  ]
+ },
+ {
+  "id": "meshuggah",
+  "years": "1987–present",
+  "origin": "Umeå, Sweden",
+  "genres": [
+   "extreme progressive metal",
+   "djent",
+   "groove metal"
+  ],
+  "summary": "Meshuggah are a Swedish band whose polyrhythmic, low-tuned riffs inspired the djent movement. Their interlocking rhythms over steady 4/4 changed how modern metal thinks about groove.",
+  "know": [
+   "Their riffs often run in odd cycles over a steady 4/4 pulse, creating polyrhythms.",
+   "Guitarists Fredrik Thordendal and Mårten Hagström moved to 8-string guitars in the 2000s.",
+   "Drummer Tomas Haake writes many of the band's lyrics."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Destroy Erase Improve",
+    1995
+   ],
+   [
+    "Chaosphere",
+    1998
+   ],
+   [
+    "Nothing",
+    2002
+   ],
+   [
+    "obZen",
+    2008
+   ]
+  ],
+  "songs": [
+   "Bleed",
+   "Future Breed Machine",
+   "Rational Gaze",
+   "New Millennium Cyanide Christ",
+   "Demiurge"
+  ],
+  "influencedBy": [
+   {
+    "id": "metallica",
+    "why": "Their early thrash was built on Metallica, which they have openly acknowledged.",
+    "s": 2
+   },
+   {
+    "id": "slayer",
+    "why": "Slayer's speed and aggression shaped their early work.",
+    "s": 1
+   },
+   {
+    "id": "sepultura",
+    "why": "Sepultura's groove-heavy turn in the 90s paralleled and informed their sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "periphery",
+    "why": "Misha Mansoor has called Meshuggah the foundation of Periphery and djent.",
+    "s": 2
+   },
+   {
+    "id": "animals-as-leaders",
+    "why": "Tosin Abasi's 8-string polyrhythms build on Meshuggah's approach.",
+    "s": 2
+   },
+   {
+    "id": "the-dillinger-escape-plan",
+    "why": "Dillinger's rhythmic complexity drew on Meshuggah.",
+    "s": 2
+   },
+   {
+    "id": "gojira",
+    "why": "Gojira's heavy, rhythmic riffing owes something to Meshuggah.",
+    "s": 1
+   },
+   {
+    "id": "sleep-token",
+    "why": "Sleep Token's heaviest passages use djent-style polyrhythmic riffs.",
+    "s": 1
+   },
+   {
+    "id": "spiritbox",
+    "why": "Spiritbox's low-tuned, rhythmic riffs follow the djent sound Meshuggah started.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "aphex-twin",
+    "why": "Same disorienting, mathematically complex rhythm."
+   },
+   {
+    "id": "autechre",
+    "why": "Both build intricate, machine-like rhythmic patterns."
+   }
+  ]
+ },
+ {
+  "id": "periphery",
+  "years": "2005–present",
+  "origin": "Bethesda, Maryland",
+  "genres": [
+   "progressive metal",
+   "djent"
+  ],
+  "summary": "Periphery started as Misha Mansoor's home-recording project and became the flagship band of djent. Their records mix Meshuggah-style riffs with big melodic choruses.",
+  "know": [
+   "Misha Mansoor built an early following by posting home recordings on online guitar forums.",
+   "The band uses three guitarists.",
+   "\"Marigold\" earned a Grammy nomination for Best Metal Performance."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Periphery",
+    2010
+   ],
+   [
+    "Periphery II: This Time It's Personal",
+    2012
+   ],
+   [
+    "Juggernaut: Alpha",
+    2015
+   ],
+   [
+    "Periphery IV: Hail Stan",
+    2019
+   ]
+  ],
+  "songs": [
+   "Icarus Lives!",
+   "Scarlet",
+   "Marigold",
+   "Blood Eagle",
+   "Make Total Destroy"
+  ],
+  "influencedBy": [
+   {
+    "id": "meshuggah",
+    "why": "Mansoor has called Meshuggah the main source of Periphery's riffing.",
+    "s": 2
+   },
+   {
+    "id": "dream-theater",
+    "why": "Dream Theater's progressive virtuosity shaped their writing.",
+    "s": 2
+   },
+   {
+    "id": "the-dillinger-escape-plan",
+    "why": "Dillinger's chaotic precision fed their heavier parts.",
+    "s": 1
+   },
+   {
+    "id": "tool",
+    "why": "Tool's progressive heaviness is part of their background.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "animals-as-leaders",
+    "why": "Misha Mansoor co-produced the first Animals as Leaders album.",
+    "s": 3
+   },
+   {
+    "id": "spiritbox",
+    "why": "Spiritbox's mix of djent riffs and pop melody follows Periphery's model.",
+    "s": 1
+   },
+   {
+    "id": "sleep-token",
+    "why": "Sleep Token's blend of djent and soaring vocals follows the path Periphery opened.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-mars-volta",
+    "why": "Same technical, high-energy progressive rock."
+   },
+   {
+    "id": "deadmau5",
+    "why": "Both built careers on bedroom production and online fan communities."
+   }
+  ]
+ },
+ {
+  "id": "animals-as-leaders",
+  "years": "2007–present",
+  "origin": "Washington, D.C.",
+  "genres": [
+   "progressive metal",
+   "djent",
+   "jazz fusion"
+  ],
+  "summary": "Animals as Leaders are an instrumental trio led by 8-string guitarist Tosin Abasi. They blend djent heaviness with jazz fusion and intricate tapping.",
+  "know": [
+   "The project began as Tosin Abasi's solo album for Prosthetic Records.",
+   "Guitarist Javier Reyes and drummer Matt Garstka complete the trio.",
+   "Abasi plays 8-string guitars and later designed his own instrument brand."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Animals as Leaders",
+    2009
+   ],
+   [
+    "Weightless",
+    2011
+   ],
+   [
+    "The Joy of Motion",
+    2014
+   ],
+   [
+    "Parrhesia",
+    2022
+   ]
+  ],
+  "songs": [
+   "CAFO",
+   "Physical Education",
+   "Tempting Time",
+   "The Woven Web",
+   "Wave of Babies"
+  ],
+  "influencedBy": [
+   {
+    "id": "meshuggah",
+    "why": "Meshuggah's 8-string polyrhythms are a core part of their sound.",
+    "s": 2
+   },
+   {
+    "id": "periphery",
+    "why": "Misha Mansoor co-produced their debut album.",
+    "s": 3
+   },
+   {
+    "id": "dream-theater",
+    "why": "Dream Theater's virtuoso prog metal is part of their background.",
+    "s": 1
+   },
+   {
+    "id": "weather-report",
+    "why": "Their fluid, jazzy harmony draws on jazz fusion.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "herbie-hancock",
+    "why": "Same virtuosic, harmonically rich jazz-meets-groove playing."
+   },
+   {
+    "id": "the-mars-volta",
+    "why": "Both fuse technical prog rock with jazz and Latin rhythm."
+   }
+  ]
+ },
+ {
+  "id": "converge",
+  "years": "1990–present",
+  "origin": "Salem, Massachusetts",
+  "genres": [
+   "metalcore",
+   "mathcore",
+   "hardcore punk"
+  ],
+  "summary": "Converge are a Massachusetts band who fused hardcore punk with metal into a chaotic, intense style. Their 2001 album Jane Doe is one of the most praised heavy records of its era.",
+  "know": [
+   "Guitarist Kurt Ballou produces records for many heavy bands at his GodCity Studio.",
+   "Singer Jacob Bannon runs Deathwish Inc. and designs the band's artwork.",
+   "They made the album Bloodmoon: I with Chelsea Wolfe in 2021."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Jane Doe",
+    2001
+   ],
+   [
+    "You Fail Me",
+    2004
+   ],
+   [
+    "Axe to Fall",
+    2009
+   ],
+   [
+    "The Dusk in Us",
+    2017
+   ]
+  ],
+  "songs": [
+   "Concubine",
+   "Jane Doe",
+   "Last Light",
+   "Dark Horse",
+   "Eagles Become Vultures"
+  ],
+  "influencedBy": [
+   {
+    "id": "black-flag",
+    "why": "Their hardcore punk base comes from Black Flag.",
+    "s": 2
+   },
+   {
+    "id": "neurosis",
+    "why": "Neurosis's heavy, atmospheric side shaped their slower epics.",
+    "s": 2
+   },
+   {
+    "id": "slayer",
+    "why": "Slayer's metal speed is part of their sound.",
+    "s": 1
+   },
+   {
+    "id": "melvins",
+    "why": "The Melvins' noisy heaviness fed their sound.",
+    "s": 1
+   },
+   {
+    "id": "napalm-death",
+    "why": "Grindcore's speed and blasts fed their most chaotic songs.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "knocked-loose",
+    "why": "Knocked Loose's heavy hardcore draws on the metallic hardcore Converge built.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "fugazi",
+    "why": "Same fierce, independent hardcore ethic."
+   },
+   {
+    "id": "big-black",
+    "why": "Both made abrasive, cathartic noise with total intensity."
+   }
+  ]
+ },
+ {
+  "id": "killswitch-engage",
+  "years": "1999–present",
+  "origin": "Westfield, Massachusetts",
+  "genres": [
+   "metalcore",
+   "melodic metalcore"
+  ],
+  "summary": "Killswitch Engage are a Massachusetts band that helped define 2000s metalcore, pairing Gothenburg riffs and breakdowns with big sung choruses. The End of Heartache was a commercial peak for the style.",
+  "know": [
+   "Guitarist Adam Dutkiewicz produces the band's records and many others.",
+   "Howard Jones sang from 2002 to 2012, and original singer Jesse Leach returned after.",
+   "Their cover of Dio's \"Holy Diver\" became one of their best-known songs."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Alive or Just Breathing",
+    2002
+   ],
+   [
+    "The End of Heartache",
+    2004
+   ],
+   [
+    "As Daylight Dies",
+    2006
+   ],
+   [
+    "Atonement",
+    2019
+   ]
+  ],
+  "songs": [
+   "My Last Serenade",
+   "The End of Heartache",
+   "My Curse",
+   "Rose of Sharyn",
+   "Holy Diver"
+  ],
+  "influencedBy": [
+   {
+    "id": "at-the-gates",
+    "why": "Their melodic riffing takes heavily from At the Gates.",
+    "s": 2
+   },
+   {
+    "id": "in-flames",
+    "why": "In Flames' melodic metal shaped their guitar style.",
+    "s": 2
+   },
+   {
+    "id": "carcass",
+    "why": "Carcass's Heartwork is part of their melodic death metal base.",
+    "s": 1
+   },
+   {
+    "id": "dio",
+    "why": "They recorded a well-known cover of Dio's \"Holy Diver\".",
+    "s": 3
+   },
+   {
+    "id": "iron-maiden",
+    "why": "Iron Maiden's harmonized guitars run through their songs.",
+    "s": 1
+   },
+   {
+    "id": "converge",
+    "why": "They came up in the same Massachusetts hardcore scene as Converge.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "bring-me-the-horizon",
+    "why": "Bring Me the Horizon's early metalcore follows the style Killswitch defined.",
+    "s": 1
+   },
+   {
+    "id": "bad-omens",
+    "why": "Bad Omens grew out of the melodic metalcore tradition Killswitch helped popularize.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "jimmy-eat-world",
+    "why": "Same big, emotional, sing-along choruses."
+   },
+   {
+    "id": "the-used",
+    "why": "Both pair heavy music with soaring, emotional vocals."
+   }
+  ]
+ },
+ {
+  "id": "the-dillinger-escape-plan",
+  "years": "1997–2017",
+  "origin": "Morris Plains, New Jersey",
+  "genres": [
+   "mathcore",
+   "metalcore",
+   "experimental metal"
+  ],
+  "summary": "The Dillinger Escape Plan were a New Jersey band whose jagged, hyper-technical chaos defined mathcore. Calculating Infinity set the template, and later records added melody, electronics and pop hooks.",
+  "know": [
+   "Guitarist Ben Weinman was the founder and only constant member.",
+   "Mike Patton sang on their 2002 EP Irony Is a Dead Scene, which included a cover of Aphex Twin's \"Come to Daddy\".",
+   "Greg Puciato was their singer from 2001 until the band ended in 2017."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Calculating Infinity",
+    1999
+   ],
+   [
+    "Miss Machine",
+    2004
+   ],
+   [
+    "Ire Works",
+    2007
+   ],
+   [
+    "Option Paralysis",
+    2010
+   ]
+  ],
+  "songs": [
+   "43% Burnt",
+   "Sugar Coated Sour",
+   "Panasonic Youth",
+   "Milk Lizard",
+   "Black Bubblegum"
+  ],
+  "influencedBy": [
+   {
+    "id": "faith-no-more",
+    "why": "Mike Patton sang on their 2002 EP, and his eclectic style shaped their later records.",
+    "s": 3
+   },
+   {
+    "id": "meshuggah",
+    "why": "Meshuggah's rhythmic complexity informed their riffing.",
+    "s": 2
+   },
+   {
+    "id": "aphex-twin",
+    "why": "They covered Aphex Twin and brought glitchy electronic ideas into their music.",
+    "s": 2
+   },
+   {
+    "id": "nine-inch-nails",
+    "why": "They toured with Nine Inch Nails, and industrial textures entered their later records.",
+    "s": 2
+   },
+   {
+    "id": "napalm-death",
+    "why": "Grindcore's speed and blasts fed their chaos.",
+    "s": 1
+   },
+   {
+    "id": "black-flag",
+    "why": "Their hardcore punk energy traces to Black Flag.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "periphery",
+    "why": "Periphery's technical, jagged riffs draw on the mathcore Dillinger defined.",
+    "s": 1
+   },
+   {
+    "id": "knocked-loose",
+    "why": "Modern heavy hardcore like Knocked Loose inherits Dillinger's intensity and live chaos.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "frank-zappa",
+    "why": "Same love of complex, abrupt, genre-hopping composition."
+   },
+   {
+    "id": "black-midi",
+    "why": "Both make wildly technical, unpredictable, high-energy music."
+   }
+  ]
+ },
+ {
+  "id": "bring-me-the-horizon",
+  "years": "2004–present",
+  "origin": "Sheffield, England",
+  "genres": [
+   "metalcore",
+   "alternative metal",
+   "electronic rock"
+  ],
+  "summary": "Bring Me the Horizon began as a Sheffield deathcore band and became one of the biggest rock bands of their generation by mixing metalcore with electronics, pop and arena hooks.",
+  "know": [
+   "Singer Oli Sykes has fronted the band since it formed.",
+   "Keyboardist Jordan Fish joined in 2012 and helped steer them toward electronic and pop sounds.",
+   "Their song \"Mantra\" earned a Grammy nomination for Best Rock Song."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Sempiternal",
+    2013
+   ],
+   [
+    "That's the Spirit",
+    2015
+   ],
+   [
+    "Amo",
+    2019
+   ],
+   [
+    "Post Human: Survival Horror",
+    2020
+   ]
+  ],
+  "songs": [
+   "Can You Feel My Heart",
+   "Shadow Moses",
+   "Throne",
+   "Drown",
+   "Parasite Eve"
+  ],
+  "influencedBy": [
+   {
+    "id": "linkin-park",
+    "why": "Oli Sykes has named Linkin Park as a key early influence, and their mix of electronics and metal shows it.",
+    "s": 2
+   },
+   {
+    "id": "killswitch-engage",
+    "why": "Their early metalcore follows the style Killswitch Engage defined.",
+    "s": 1
+   },
+   {
+    "id": "slipknot",
+    "why": "Slipknot's heavy, aggressive sound shaped their early work.",
+    "s": 1
+   },
+   {
+    "id": "deftones",
+    "why": "Deftones' moody, textured heaviness runs through their later records.",
+    "s": 1
+   },
+   {
+    "id": "nine-inch-nails",
+    "why": "Industrial electronics like Nine Inch Nails informed their turn toward synths.",
+    "s": 1
+   },
+   {
+    "id": "my-chemical-romance",
+    "why": "My Chemical Romance's theatrical, emotional rock shaped their arena ambitions.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "bad-omens",
+    "why": "Bad Omens have often been compared to and inspired by Bring Me the Horizon's mix of metalcore and electronics.",
+    "s": 2
+   },
+   {
+    "id": "spiritbox",
+    "why": "Spiritbox's blend of metalcore heaviness and pop melody follows Bring Me's path.",
+    "s": 1
+   },
+   {
+    "id": "sleep-token",
+    "why": "Sleep Token's genre-blending heavy pop follows the door Bring Me opened.",
+    "s": 1
+   },
+   {
+    "id": "yungblud",
+    "why": "Yungblud collaborated with the band on \"Obey\" in 2020.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-prodigy",
+    "why": "Same mix of aggressive electronics and punk energy."
+   },
+   {
+    "id": "skrillex",
+    "why": "Both bridged heavy music and electronic drops for a huge young audience."
+   },
+   {
+    "id": "babymetal",
+    "why": "They collaborated with Babymetal, who share their genre-mixing heavy pop."
+   }
+  ]
+ },
+ {
+  "id": "avenged-sevenfold",
+  "years": "1999–present",
+  "origin": "Huntington Beach, California",
+  "genres": [
+   "heavy metal",
+   "metalcore",
+   "hard rock"
+  ],
+  "summary": "Avenged Sevenfold began as an Orange County metalcore band and became a major arena heavy metal act, known for Synyster Gates's guitar work and big, theatrical songs.",
+  "know": [
+   "Singer M. Shadows and guitarist Synyster Gates have led the band since its early days.",
+   "Dream Theater's Mike Portnoy played drums on their 2010 album Nightmare.",
+   "Hail to the King (2013) reached number one in the US and UK."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Waking the Fallen",
+    2003
+   ],
+   [
+    "City of Evil",
+    2005
+   ],
+   [
+    "Avenged Sevenfold",
+    2007
+   ],
+   [
+    "Nightmare",
+    2010
+   ]
+  ],
+  "songs": [
+   "Bat Country",
+   "Beast and the Harlot",
+   "Afterlife",
+   "Nightmare",
+   "Hail to the King"
+  ],
+  "influencedBy": [
+   {
+    "id": "metallica",
+    "why": "Their arena metal and Hail to the King in particular draw directly on Metallica.",
+    "s": 2
+   },
+   {
+    "id": "iron-maiden",
+    "why": "Their twin-guitar harmonies come from Iron Maiden.",
+    "s": 2
+   },
+   {
+    "id": "guns-n-roses",
+    "why": "The band has named Guns N' Roses as a major influence on their hard rock swagger.",
+    "s": 2
+   },
+   {
+    "id": "pantera",
+    "why": "Pantera's groove and guitar heroics shaped their heavier songs.",
+    "s": 2
+   },
+   {
+    "id": "dream-theater",
+    "why": "Mike Portnoy of Dream Theater drummed on Nightmare.",
+    "s": 3
+   },
+   {
+    "id": "at-the-gates",
+    "why": "Their early metalcore drew on Gothenburg melodic death metal.",
+    "s": 1
+   },
+   {
+    "id": "in-flames",
+    "why": "In Flames' melodic riffing shaped their early albums.",
+    "s": 1
+   },
+   {
+    "id": "megadeth",
+    "why": "Megadeth's technical thrash shaped their lead guitar work.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "queen",
+    "why": "Same theatrical, grand, multi-part arena rock."
+   },
+   {
+    "id": "green-day",
+    "why": "Both came from Southern California punk scenes and grew into arena acts."
+   },
+   {
+    "id": "x-japan",
+    "why": "Both mix virtuoso metal guitar with dramatic, orchestral ballads."
+   }
+  ]
+ },
+ {
+  "id": "linkin-park",
+  "years": "1996–present",
+  "origin": "Agoura Hills, California",
+  "genres": [
+   "nu metal",
+   "alternative rock",
+   "rap rock"
+  ],
+  "summary": "Linkin Park mixed heavy guitars, hip-hop, electronics and huge melodic hooks into one of the best-selling rock sounds of the 21st century. Hybrid Theory made them global stars.",
+  "know": [
+   "Hybrid Theory is one of the best-selling debut albums of the 21st century.",
+   "They made the mash-up EP Collision Course with Jay-Z in 2004.",
+   "Emily Armstrong became co-vocalist in 2024 on the album From Zero."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Hybrid Theory",
+    2000
+   ],
+   [
+    "Meteora",
+    2003
+   ],
+   [
+    "Minutes to Midnight",
+    2007
+   ],
+   [
+    "From Zero",
+    2024
+   ]
+  ],
+  "songs": [
+   "In the End",
+   "Numb",
+   "Crawling",
+   "What I've Done",
+   "The Emptiness Machine"
+  ],
+  "influencedBy": [
+   {
+    "id": "deftones",
+    "why": "Deftones' mix of heaviness and atmosphere shaped their early sound.",
+    "s": 2
+   },
+   {
+    "id": "nine-inch-nails",
+    "why": "Nine Inch Nails' industrial electronics are a key influence on their production.",
+    "s": 2
+   },
+   {
+    "id": "depeche-mode",
+    "why": "Chester Bennington cited Depeche Mode as a major influence.",
+    "s": 2
+   },
+   {
+    "id": "public-enemy",
+    "why": "Mike Shinoda's rapping and production draw on Public Enemy and golden-age hip-hop.",
+    "s": 2
+   },
+   {
+    "id": "rage-against-the-machine",
+    "why": "Rage Against the Machine showed how rap and heavy guitar could fuse.",
+    "s": 2
+   },
+   {
+    "id": "korn",
+    "why": "Korn's nu metal blueprint was the scene they broke into.",
+    "s": 1
+   },
+   {
+    "id": "stone-temple-pilots",
+    "why": "Chester Bennington sang for Stone Temple Pilots from 2013 to 2015 and cited them as an influence.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "bring-me-the-horizon",
+    "why": "Bring Me the Horizon have named Linkin Park as a key early influence.",
+    "s": 2
+   },
+   {
+    "id": "twenty-one-pilots",
+    "why": "Twenty One Pilots' mix of rap, rock and electronics follows the hybrid Linkin Park made mainstream.",
+    "s": 1
+   },
+   {
+    "id": "bad-omens",
+    "why": "Bad Omens' blend of heavy guitars and electronics draws on Linkin Park.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "jay-z",
+    "why": "They made Collision Course together, mixing their songs."
+   },
+   {
+    "id": "eminem",
+    "why": "Same era-defining blend of anger, hooks and rap that crossed every audience."
+   }
+  ]
+ },
+ {
+  "id": "limp-bizkit",
+  "years": "1994–present",
+  "origin": "Jacksonville, Florida",
+  "genres": [
+   "nu metal",
+   "rap metal"
+  ],
+  "summary": "Limp Bizkit were a Jacksonville band that took rap metal to the top of the charts around 2000. Fred Durst's rapping and Wes Borland's inventive guitar defined the commercial peak of nu metal.",
+  "know": [
+   "Producer Ross Robinson, who made Korn's early records, produced their debut.",
+   "Chocolate Starfish and the Hot Dog Flavored Water sold over a million copies in its first week in the US.",
+   "Guitarist Wes Borland is known for elaborate costumes and unusual guitar tones."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Three Dollar Bill, Y'all",
+    1997
+   ],
+   [
+    "Significant Other",
+    1999
+   ],
+   [
+    "Chocolate Starfish and the Hot Dog Flavored Water",
+    2000
+   ],
+   [
+    "Still Sucks",
+    2021
+   ]
+  ],
+  "songs": [
+   "Nookie",
+   "Break Stuff",
+   "Rollin' (Air Raid Vehicle)",
+   "My Way",
+   "Faith"
+  ],
+  "influencedBy": [
+   {
+    "id": "korn",
+    "why": "Korn helped them get signed and shared producer Ross Robinson.",
+    "s": 3
+   },
+   {
+    "id": "rage-against-the-machine",
+    "why": "Rage Against the Machine set the rap-metal template they followed.",
+    "s": 2
+   },
+   {
+    "id": "beastie-boys",
+    "why": "The Beastie Boys' mix of rap and rock attitude shaped Durst's style.",
+    "s": 2
+   },
+   {
+    "id": "run-dmc",
+    "why": "Run-DMC's rap-rock crossover is part of their roots.",
+    "s": 1
+   },
+   {
+    "id": "helmet",
+    "why": "Helmet's tight, drop-tuned riffs are part of the nu metal guitar sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "cypress-hill",
+    "why": "Same heavy, party-ready rap-rock crossover."
+   },
+   {
+    "id": "eminem",
+    "why": "Both were defining, provocative voices of turn-of-the-century youth culture."
+   }
+  ]
+ },
+ {
+  "id": "white-zombie",
+  "years": "1985–1998",
+  "origin": "New York, New York",
+  "genres": [
+   "groove metal",
+   "industrial metal",
+   "noise rock"
+  ],
+  "summary": "White Zombie started in New York's noise rock scene and became a hit groove metal band with B-movie samples and danceable riffs. They launched Rob Zombie's long career.",
+  "know": [
+   "Rob Zombie and bassist Sean Yseult formed the band in the East Village noise scene.",
+   "Iggy Pop guested on \"Black Sunshine\" from La Sexorcisto.",
+   "Astro-Creep: 2000 went double platinum in the US."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Soul-Crusher",
+    1987
+   ],
+   [
+    "La Sexorcisto: Devil Music Volume One",
+    1992
+   ],
+   [
+    "Astro-Creep: 2000",
+    1995
+   ],
+   [
+    "Supersexy Swingin' Sounds",
+    1996
+   ]
+  ],
+  "songs": [
+   "Thunder Kiss '65",
+   "More Human than Human",
+   "Black Sunshine",
+   "Super-Charger Heaven",
+   "Electric Head Pt. 2 (The Ecstasy)"
+  ],
+  "influencedBy": [
+   {
+    "id": "alice-cooper",
+    "why": "Rob Zombie has called Alice Cooper a key influence on his horror theatrics.",
+    "s": 2
+   },
+   {
+    "id": "kiss",
+    "why": "Kiss shaped Rob Zombie's sense of rock as a spectacle.",
+    "s": 2
+   },
+   {
+    "id": "the-stooges",
+    "why": "Iggy Pop sang on \"Black Sunshine\", and the Stooges' raw rock shaped them.",
+    "s": 3
+   },
+   {
+    "id": "black-sabbath",
+    "why": "Sabbath's heavy riffs underlie their groove metal.",
+    "s": 1
+   },
+   {
+    "id": "ministry",
+    "why": "Ministry's industrial metal shaped their samples and machine grooves.",
+    "s": 1
+   },
+   {
+    "id": "sonic-youth",
+    "why": "Their noisy early records came out of the same New York scene as Sonic Youth.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "fu-manchu",
+    "why": "White Zombie guitarist J. Yuenger produced Fu Manchu's The Action Is Go.",
+    "s": 3
+   },
+   {
+    "id": "slipknot",
+    "why": "Slipknot's horror imagery and industrial-groove heaviness owe something to White Zombie.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "misfits",
+    "why": "Same horror-movie camp turned into loud rock."
+   },
+   {
+    "id": "rammstein",
+    "why": "Both make danceable, theatrical industrial metal."
+   }
+  ]
+ },
+ {
+  "id": "ministry",
+  "years": "1981–present",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "industrial metal",
+   "industrial rock",
+   "synth-pop"
+  ],
+  "summary": "Ministry is Al Jourgensen's Chicago band, which started in synth-pop and became the leading force in industrial metal. Their late-80s records welded drum machines to thrash guitars.",
+  "know": [
+   "Al Jourgensen has led the band since 1981.",
+   "Their debut With Sympathy (1983) was a synth-pop record Jourgensen later disowned.",
+   "Butthole Surfers singer Gibby Haynes sang \"Jesus Built My Hotrod\"."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Twitch",
+    1986
+   ],
+   [
+    "The Mind Is a Terrible Thing to Taste",
+    1989
+   ],
+   [
+    "Psalm 69: The Way to Succeed and the Way to Suck Eggs",
+    1992
+   ],
+   [
+    "Filth Pig",
+    1996
+   ]
+  ],
+  "songs": [
+   "Stigmata",
+   "Jesus Built My Hotrod",
+   "N.W.O.",
+   "Thieves",
+   "Burning Inside"
+  ],
+  "influencedBy": [
+   {
+    "id": "cabaret-voltaire",
+    "why": "Cabaret Voltaire's electronic industrial music shaped their early sound.",
+    "s": 2
+   },
+   {
+    "id": "kraftwerk",
+    "why": "Kraftwerk's machine music is part of their electronic roots.",
+    "s": 1
+   },
+   {
+    "id": "depeche-mode",
+    "why": "Their early synth-pop drew on bands like Depeche Mode.",
+    "s": 1
+   },
+   {
+    "id": "public-image-ltd",
+    "why": "Post-punk like Public Image Ltd influenced their abrasive turn.",
+    "s": 1
+   },
+   {
+    "id": "butthole-surfers",
+    "why": "Gibby Haynes sang on \"Jesus Built My Hotrod\".",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "nine-inch-nails",
+    "why": "Nine Inch Nails followed Ministry's fusion of electronics and heavy guitars.",
+    "s": 2
+   },
+   {
+    "id": "white-zombie",
+    "why": "White Zombie's industrial groove metal drew on Ministry.",
+    "s": 1
+   },
+   {
+    "id": "slipknot",
+    "why": "Slipknot's samples and industrial noise trace back to Ministry.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-prodigy",
+    "why": "Same aggressive, guitar-loud electronic music."
+   },
+   {
+    "id": "rammstein",
+    "why": "Both made industrial metal with machine-like precision."
+   },
+   {
+    "id": "aphex-twin",
+    "why": "Both pushed electronic music into harsh, abrasive territory."
+   }
+  ]
+ },
+ {
+  "id": "helmet",
+  "years": "1989–present",
+  "origin": "New York, New York",
+  "genres": [
+   "alternative metal",
+   "noise rock",
+   "post-hardcore"
+  ],
+  "summary": "Helmet were a New York band whose tight, drop-tuned, staccato riffs became a blueprint for alternative and nu metal. Meantime is their landmark album.",
+  "know": [
+   "Page Hamilton studied jazz guitar and played in Glenn Branca's guitar ensemble.",
+   "Their signing to Interscope after one indie album sparked a major-label bidding war.",
+   "Their stop-start, drop-D riffing was widely copied in 90s metal."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Strap It On",
+    1990
+   ],
+   [
+    "Meantime",
+    1992
+   ],
+   [
+    "Betty",
+    1994
+   ],
+   [
+    "Aftertaste",
+    1997
+   ]
+  ],
+  "songs": [
+   "Unsung",
+   "In the Meantime",
+   "Milquetoast",
+   "Give It",
+   "Wilma's Rainbow"
+  ],
+  "influencedBy": [
+   {
+    "id": "big-black",
+    "why": "Big Black's abrasive, precise noise rock shaped their sound.",
+    "s": 2
+   },
+   {
+    "id": "black-sabbath",
+    "why": "Sabbath's heavy riffs are part of their foundation.",
+    "s": 1
+   },
+   {
+    "id": "bad-brains",
+    "why": "Bad Brains' tight hardcore precision influenced their drive.",
+    "s": 1
+   },
+   {
+    "id": "sonic-youth",
+    "why": "The New York noise scene of Sonic Youth was their starting point.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "deftones",
+    "why": "Chino Moreno has cited Helmet as a key influence on Deftones.",
+    "s": 2
+   },
+   {
+    "id": "korn",
+    "why": "Korn's drop-tuned, rhythmic riffs owe a lot to Helmet.",
+    "s": 2
+   },
+   {
+    "id": "linkin-park",
+    "why": "Helmet's tight, staccato riffing runs through the nu metal Linkin Park played.",
+    "s": 1
+   },
+   {
+    "id": "tool",
+    "why": "Tool's early heavy alternative metal shared Helmet's precise riffing.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "fugazi",
+    "why": "Same tight, stop-start, intense rock."
+   },
+   {
+    "id": "minutemen",
+    "why": "Both made sharp, economical, rhythm-driven music."
+   }
+  ]
+ },
+ {
+  "id": "sunn-o",
+  "years": "1998–present",
+  "origin": "Seattle, Washington",
+  "genres": [
+   "drone metal",
+   "experimental",
+   "doom metal"
+  ],
+  "summary": "Sunn O))) are Stephen O'Malley and Greg Anderson's drone metal project, built on extremely slow, loud, sustained guitar tones. They turned metal into immersive sound art.",
+  "know": [
+   "The name comes from the Sunn amplifier brand.",
+   "They perform in hooded robes at very high volume, wrapped in fog.",
+   "They made the album Soused with Scott Walker in 2014, and Steve Albini recorded Life Metal."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "ØØ Void",
+    2000
+   ],
+   [
+    "Black One",
+    2005
+   ],
+   [
+    "Monoliths & Dimensions",
+    2009
+   ],
+   [
+    "Life Metal",
+    2019
+   ]
+  ],
+  "songs": [
+   "Aghartha",
+   "Alice",
+   "It Took the Night to Believe",
+   "Big Church",
+   "Báthory Erzsébet"
+  ],
+  "influencedBy": [
+   {
+    "id": "melvins",
+    "why": "The Melvins' extremely slow heaviness is a direct root of their sound.",
+    "s": 2
+   },
+   {
+    "id": "black-sabbath",
+    "why": "Sabbath's sustained, heavy riffs are the starting point.",
+    "s": 1
+   },
+   {
+    "id": "steve-albini",
+    "why": "Albini recorded Life Metal and Pyroclasts.",
+    "s": 3
+   },
+   {
+    "id": "mayhem",
+    "why": "Mayhem singer Attila Csihar is a regular collaborator.",
+    "s": 3
+   },
+   {
+    "id": "sleep",
+    "why": "Sleep's very slow, long-form riffs pointed toward drone.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "brian-eno",
+    "why": "Same sustained, immersive approach to sound."
+   },
+   {
+    "id": "tangerine-dream",
+    "why": "Both create long, slowly shifting tones meant to surround the listener."
+   }
+  ]
+ },
+ {
+  "id": "deafheaven",
+  "years": "2010–present",
+  "origin": "San Francisco, California",
+  "genres": [
+   "blackgaze",
+   "post-metal",
+   "shoegaze"
+  ],
+  "summary": "Deafheaven are a San Francisco band who fused black metal with shoegaze and post-rock. Their 2013 album Sunbather became a crossover hit far beyond metal.",
+  "know": [
+   "Singer George Clarke and guitarist Kerry McCoy founded the band.",
+   "Sunbather was among the best-reviewed albums of 2013.",
+   "Infinite Granite (2021) mostly dropped screaming for clean vocals."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Sunbather",
+    2013
+   ],
+   [
+    "New Bermuda",
+    2015
+   ],
+   [
+    "Ordinary Corrupt Human Love",
+    2018
+   ],
+   [
+    "Lonely People with Power",
+    2025
+   ]
+  ],
+  "songs": [
+   "Dream House",
+   "The Pecan Tree",
+   "Honeycomb",
+   "Canary Yellow",
+   "Brought to the Water"
+  ],
+  "influencedBy": [
+   {
+    "id": "my-bloody-valentine",
+    "why": "Their shoegaze walls of guitar draw on My Bloody Valentine.",
+    "s": 2
+   },
+   {
+    "id": "slowdive",
+    "why": "Slowdive's dreamy shoegaze is a stated influence.",
+    "s": 2
+   },
+   {
+    "id": "burzum",
+    "why": "Their hypnotic black metal draws on Burzum.",
+    "s": 1
+   },
+   {
+    "id": "mayhem",
+    "why": "Norwegian black metal like Mayhem is part of their roots.",
+    "s": 1
+   },
+   {
+    "id": "isis",
+    "why": "Isis's post-metal builds shaped their structures.",
+    "s": 1
+   },
+   {
+    "id": "neurosis",
+    "why": "Neurosis's long, heavy builds are part of their background.",
+    "s": 1
+   },
+   {
+    "id": "mogwai",
+    "why": "They have covered Mogwai, whose post-rock dynamics run through their songs.",
+    "s": 2
+   },
+   {
+    "id": "the-smiths",
+    "why": "George Clarke has named the Smiths and Morrissey as a favorite.",
+    "s": 2
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "cocteau-twins",
+    "why": "Same dreamy, ethereal, overwhelming beauty."
+   },
+   {
+    "id": "sigur-ros",
+    "why": "Both build slow, soaring, cathartic songs."
+   }
+  ]
+ },
+ {
+  "id": "sleep-token",
+  "years": "2016–present",
+  "origin": "London, England",
+  "genres": [
+   "alternative metal",
+   "progressive metal",
+   "art pop"
+  ],
+  "summary": "Sleep Token are an anonymous, masked London band led by a singer called Vessel. They mix djent-heavy metal with R&B, pop and piano ballads, and became one of the biggest new rock acts of the 2020s.",
+  "know": [
+   "Members perform masked and anonymous, presented through a mythology of worship.",
+   "\"The Summoning\" spread widely online in 2023 and broke them to a mass audience.",
+   "Even in Arcadia (2025) debuted at number one on the US Billboard 200."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Sundowning",
+    2019
+   ],
+   [
+    "This Place Will Become Your Tomb",
+    2021
+   ],
+   [
+    "Take Me Back to Eden",
+    2023
+   ],
+   [
+    "Even in Arcadia",
+    2025
+   ]
+  ],
+  "songs": [
+   "The Summoning",
+   "Granite",
+   "Alkaline",
+   "Aqua Regia",
+   "Emergence"
+  ],
+  "influencedBy": [
+   {
+    "id": "meshuggah",
+    "why": "Their heaviest passages use the polyrhythmic djent riffing Meshuggah pioneered.",
+    "s": 1
+   },
+   {
+    "id": "periphery",
+    "why": "Their blend of djent and soaring melody follows Periphery's path.",
+    "s": 1
+   },
+   {
+    "id": "deftones",
+    "why": "Their mix of crushing guitars and dreamy vocals echoes Deftones.",
+    "s": 1
+   },
+   {
+    "id": "bring-me-the-horizon",
+    "why": "Bring Me the Horizon opened the door for genre-blending heavy pop.",
+    "s": 1
+   },
+   {
+    "id": "the-weeknd",
+    "why": "Vessel's falsetto and R&B phrasing echo modern R&B like the Weeknd.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "james-blake",
+    "why": "Same fragile falsetto over heavy, sparse production."
+   },
+   {
+    "id": "billie-eilish",
+    "why": "Both make intimate, whispery songs that drop into huge low end."
+   }
+  ]
+ },
+ {
+  "id": "spiritbox",
+  "years": "2017–present",
+  "origin": "Victoria, Canada",
+  "genres": [
+   "metalcore",
+   "progressive metal",
+   "alternative metal"
+  ],
+  "summary": "Spiritbox are a Canadian band fronted by Courtney LaPlante, known for switching between brutal screams and airy, melodic singing over djent-influenced riffs. They broke out fast in the early 2020s.",
+  "know": [
+   "Courtney LaPlante and guitarist Mike Stringer previously played in iwrestledabearonce.",
+   "Their 2021 debut Eternal Blue reached the top 15 of the Billboard 200.",
+   "They have received multiple Grammy nominations."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Eternal Blue",
+    2021
+   ],
+   [
+    "Rotoscope",
+    2022
+   ],
+   [
+    "The Fear of Fear",
+    2023
+   ],
+   [
+    "Tsunami Sea",
+    2025
+   ]
+  ],
+  "songs": [
+   "Holy Roller",
+   "Circle with Me",
+   "Constance",
+   "Jaded",
+   "Soft Spine"
+  ],
+  "influencedBy": [
+   {
+    "id": "meshuggah",
+    "why": "Their low, rhythmic riffs follow the djent sound Meshuggah started.",
+    "s": 1
+   },
+   {
+    "id": "periphery",
+    "why": "Periphery's djent-plus-melody approach is a clear model.",
+    "s": 1
+   },
+   {
+    "id": "deftones",
+    "why": "LaPlante has named Deftones as a favorite, and their dreamy heaviness shows in Spiritbox.",
+    "s": 2
+   },
+   {
+    "id": "killswitch-engage",
+    "why": "Their metalcore base follows the style Killswitch Engage helped define.",
+    "s": 1
+   },
+   {
+    "id": "bring-me-the-horizon",
+    "why": "Bring Me the Horizon's mix of metalcore and pop paved their way.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "bjork",
+    "why": "Same fearless, shape-shifting vocal range."
+   },
+   {
+    "id": "paramore",
+    "why": "Both are female-fronted heavy bands with huge melodic hooks."
+   }
+  ]
+ },
+ {
+  "id": "steve-albini",
+  "years": "1981–2024",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "noise rock",
+   "post-hardcore",
+   "alternative rock"
+  ],
+  "summary": "Steve Albini was a Chicago musician and recording engineer who made raw, live-sounding records for Pixies, Nirvana, PJ Harvey and many others. He led Big Black and Shellac and rejected producer royalties on principle.",
+  "know": [
+   "He preferred a \"recorded by\" credit to \"produced by\" and charged a flat fee rather than royalties.",
+   "He built and ran Electrical Audio, a studio in Chicago.",
+   "He led the bands Big Black and Shellac."
+  ],
+  "born": "07-22",
+  "keyAlbums": [
+   [
+    "Surfer Rosa (Pixies)",
+    1988
+   ],
+   [
+    "Pod (The Breeders)",
+    1990
+   ],
+   [
+    "Rid of Me (PJ Harvey)",
+    1993
+   ],
+   [
+    "In Utero (Nirvana)",
+    1993
+   ]
+  ],
+  "songs": [
+   "Where Is My Mind? (Pixies)",
+   "Heart-Shaped Box (Nirvana)",
+   "Rid of Me (PJ Harvey)",
+   "Kerosene (Big Black)"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-stooges",
+    "why": "The Stooges' raw, loud sound is a model for his recording philosophy.",
+    "s": 1
+   },
+   {
+    "id": "wire",
+    "why": "Albini has named Wire as a key influence on his playing and attitude.",
+    "s": 2
+   },
+   {
+    "id": "gang-of-four",
+    "why": "Gang of Four's sharp, scratchy guitar shaped Big Black's sound.",
+    "s": 2
+   },
+   {
+    "id": "the-birthday-party",
+    "why": "The Birthday Party's abrasive post-punk was a touchstone.",
+    "s": 1
+   },
+   {
+    "id": "pere-ubu",
+    "why": "Pere Ubu's noisy, art-damaged rock fed his aesthetic.",
+    "s": 1
+   },
+   {
+    "id": "ramones",
+    "why": "The Ramones were his entry point into punk.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "big-black",
+    "why": "Founded and led Big Black.",
+    "s": 3
+   },
+   {
+    "id": "pixies",
+    "why": "Recorded Surfer Rosa and shaped its loud, raw drum sound.",
+    "s": 3
+   },
+   {
+    "id": "the-breeders",
+    "why": "Recorded the Breeders' debut Pod.",
+    "s": 3
+   },
+   {
+    "id": "nirvana",
+    "why": "Recorded In Utero, giving it a rougher sound than Nevermind.",
+    "s": 3
+   },
+   {
+    "id": "pj-harvey",
+    "why": "Recorded Rid of Me, one of her rawest records.",
+    "s": 3
+   },
+   {
+    "id": "neurosis",
+    "why": "Recorded Times of Grace and later Neurosis albums.",
+    "s": 3
+   },
+   {
+    "id": "sunn-o",
+    "why": "Recorded Sunn O)))'s Life Metal and Pyroclasts.",
+    "s": 3
+   },
+   {
+    "id": "slint",
+    "why": "Recorded Slint's debut Tweez.",
+    "s": 3
+   },
+   {
+    "id": "mogwai",
+    "why": "Recorded Mogwai's My Father My King.",
+    "s": 3
+   },
+   {
+    "id": "godspeed-you-black-emperor",
+    "why": "Recorded Godspeed's Yanqui U.X.O.",
+    "s": 3
+   },
+   {
+    "id": "jawbreaker",
+    "why": "Recorded much of Jawbreaker's 24 Hour Revenge Therapy.",
+    "s": 3
+   },
+   {
+    "id": "manic-street-preachers",
+    "why": "Recorded the Manic Street Preachers' Journal for Plague Lovers.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "rick-rubin",
+    "why": "Same stripped-back philosophy of capturing a band's raw sound."
+   },
+   {
+    "id": "sam-phillips",
+    "why": "Both prized raw, live energy over studio polish."
+   }
+  ]
+ },
+ {
+  "id": "butch-vig",
+  "years": "1983–present",
+  "origin": "Madison, Wisconsin",
+  "genres": [
+   "alternative rock",
+   "grunge",
+   "pop rock"
+  ],
+  "summary": "Butch Vig is a producer and drummer who made Nirvana's Nevermind and Smashing Pumpkins' first albums, shaping the polished, powerful sound of 90s alternative rock. He also co-founded Garbage.",
+  "know": [
+   "He co-founded Smart Studios in Madison, Wisconsin, with Steve Marker.",
+   "He is the drummer and a co-founder of the band Garbage.",
+   "He also produced Sonic Youth's Dirty, L7's Bricks Are Heavy and Green Day's 21st Century Breakdown."
+  ],
+  "born": "08-02",
+  "keyAlbums": [
+   [
+    "Nevermind (Nirvana)",
+    1991
+   ],
+   [
+    "Gish (Smashing Pumpkins)",
+    1991
+   ],
+   [
+    "Siamese Dream (Smashing Pumpkins)",
+    1993
+   ],
+   [
+    "Wasting Light (Foo Fighters)",
+    2011
+   ]
+  ],
+  "songs": [
+   "Smells Like Teen Spirit (Nirvana)",
+   "Cherub Rock (Smashing Pumpkins)",
+   "Stupid Girl (Garbage)",
+   "Rope (Foo Fighters)"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "His focus on layered, melodic pop production follows the Beatles' studio craft.",
+    "s": 1
+   },
+   {
+    "id": "george-martin",
+    "why": "His polished, layered studio approach follows George Martin's model of producer as arranger.",
+    "s": 1
+   },
+   {
+    "id": "cheap-trick",
+    "why": "Cheap Trick's heavy Midwest power pop is part of the sound he brought to grunge.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "nirvana",
+    "why": "Produced Nevermind and gave it its huge, polished punch.",
+    "s": 3
+   },
+   {
+    "id": "smashing-pumpkins",
+    "why": "Produced Gish and Siamese Dream, building their layered guitar sound.",
+    "s": 3
+   },
+   {
+    "id": "sonic-youth",
+    "why": "Produced Sonic Youth's Dirty.",
+    "s": 3
+   },
+   {
+    "id": "l7",
+    "why": "Produced L7's Bricks Are Heavy.",
+    "s": 3
+   },
+   {
+    "id": "foo-fighters",
+    "why": "Produced Wasting Light, recorded on analog tape in Dave Grohl's garage.",
+    "s": 3
+   },
+   {
+    "id": "green-day",
+    "why": "Produced 21st Century Breakdown.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "dr-dre",
+    "why": "Same polished, heavy, radio-ready production that defined a decade."
+   },
+   {
+    "id": "mutt-lange",
+    "why": "Both made loud guitar music sound huge and radio-ready."
+   }
+  ]
+ }
+]

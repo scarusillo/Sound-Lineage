@@ -1,0 +1,137 @@
+wilson-pickett|Wilson Pickett|1960s|soul|artist
+sam-and-dave|Sam & Dave|1960s|soul|artist
+solomon-burke|Solomon Burke|1960s|soul|artist
+jackie-wilson|Jackie Wilson|1950s|soul|artist
+ben-e-king|Ben E. King|1960s|soul|artist
+the-drifters|The Drifters|1950s|soul|artist
+the-impressions|The Impressions|1960s|soul|artist
+the-isley-brothers|The Isley Brothers|1960s|soul|artist
+four-tops|Four Tops|1960s|soul|artist
+martha-and-the-vandellas|Martha and the Vandellas|1960s|soul|artist
+the-marvelettes|The Marvelettes|1960s|soul|artist
+mary-wells|Mary Wells|1960s|soul|artist
+gladys-knight-and-the-pips|Gladys Knight & the Pips|1960s|soul|artist
+tammi-terrell|Tammi Terrell|1960s|soul|artist
+holland-dozier-holland|Holland-Dozier-Holland|1960s|soul|producer
+the-funk-brothers|The Funk Brothers|1960s|soul|session
+norman-whitfield|Norman Whitfield|1960s|soul|producer
+the-shirelles|The Shirelles|1960s|pop|artist
+the-crystals|The Crystals|1960s|pop|artist
+the-shangri-las|The Shangri-Las|1960s|pop|artist
+phil-spector|Phil Spector|1960s|pop|producer
+dionne-warwick|Dionne Warwick|1960s|pop|artist
+burt-bacharach|Burt Bacharach|1960s|pop|producer
+dusty-springfield|Dusty Springfield|1960s|pop|artist
+percy-sledge|Percy Sledge|1960s|soul|artist
+carla-thomas|Carla Thomas|1960s|soul|artist
+rufus-thomas|Rufus Thomas|1960s|soul|artist
+the-staple-singers|The Staple Singers|1960s|soul|artist
+eddie-floyd|Eddie Floyd|1960s|soul|artist
+the-bar-kays|The Bar-Kays|1960s|soul|artist
+irma-thomas|Irma Thomas|1960s|soul|artist
+allen-toussaint|Allen Toussaint|1960s|soul|producer
+dr-john|Dr. John|1960s|soul|artist
+bobby-womack|Bobby Womack|1960s|soul|artist
+jerry-wexler|Jerry Wexler|1960s|soul|producer
+the-swampers|The Swampers (Muscle Shoals Rhythm Section)|1960s|soul|session
+the-o-jays|The O'Jays|1970s|soul|artist
+harold-melvin-and-the-blue-notes|Harold Melvin & the Blue Notes|1970s|soul|artist
+teddy-pendergrass|Teddy Pendergrass|1970s|soul|artist
+gamble-and-huff|Gamble and Huff|1970s|soul|producer
+thom-bell|Thom Bell|1970s|soul|producer
+the-delfonics|The Delfonics|1960s|soul|artist
+the-stylistics|The Stylistics|1970s|soul|artist
+the-spinners|The Spinners|1970s|soul|artist
+mfsb|MFSB|1970s|soul|session
+lou-rawls|Lou Rawls|1960s|soul|artist
+the-chi-lites|The Chi-Lites|1970s|soul|artist
+the-dramatics|The Dramatics|1970s|soul|artist
+barry-white|Barry White|1970s|soul|artist
+roberta-flack|Roberta Flack|1970s|soul|artist
+donny-hathaway|Donny Hathaway|1970s|soul|artist
+minnie-riperton|Minnie Riperton|1970s|soul|artist
+chaka-khan|Chaka Khan|1970s|soul|artist
+ohio-players|Ohio Players|1970s|soul|artist
+kool-and-the-gang|Kool & the Gang|1970s|soul|artist
+the-commodores|The Commodores|1970s|soul|artist
+lionel-richie|Lionel Richie|1980s|pop|artist
+war|War|1970s|soul|artist
+tower-of-power|Tower of Power|1970s|soul|artist
+average-white-band|Average White Band|1970s|soul|artist
+bootsy-collins|Bootsy Collins|1970s|soul|artist
+george-clinton|George Clinton|1970s|soul|artist
+bernie-worrell|Bernie Worrell|1970s|soul|session
+zapp|Zapp & Roger|1980s|soul|artist
+rick-james|Rick James|1970s|soul|artist
+the-gap-band|The Gap Band|1980s|soul|artist
+cameo|Cameo|1980s|soul|artist
+the-jbs|The J.B.'s|1970s|soul|session
+the-time|The Time|1980s|soul|artist
+jimmy-jam-and-terry-lewis|Jimmy Jam and Terry Lewis|1980s|soul|producer
+gloria-gaynor|Gloria Gaynor|1970s|soul|artist
+sylvester|Sylvester|1970s|soul|artist
+kc-and-the-sunshine-band|KC and the Sunshine Band|1970s|soul|artist
+village-people|Village People|1970s|pop|artist
+nile-rodgers|Nile Rodgers|1970s|soul|producer
+sister-sledge|Sister Sledge|1970s|soul|artist
+the-trammps|The Trammps|1970s|soul|artist
+luther-vandross|Luther Vandross|1980s|soul|artist
+anita-baker|Anita Baker|1980s|soul|artist
+sade|Sade|1980s|soul|artist
+frankie-beverly-and-maze|Frankie Beverly & Maze|1970s|soul|artist
+teena-marie|Teena Marie|1980s|soul|artist
+patti-labelle|Patti LaBelle|1970s|soul|artist
+the-pointer-sisters|The Pointer Sisters|1970s|pop|artist
+freddie-jackson|Freddie Jackson|1980s|soul|artist
+babyface|Babyface|1980s|soul|producer
+teddy-riley|Teddy Riley|1980s|soul|producer
+guy|Guy|1980s|soul|artist
+bobby-brown|Bobby Brown|1980s|soul|artist
+new-edition|New Edition|1980s|soul|artist
+bell-biv-devoe|Bell Biv DeVoe|1990s|soul|artist
+keith-sweat|Keith Sweat|1980s|soul|artist
+paula-abdul|Paula Abdul|1980s|pop|artist
+boyz-ii-men|Boyz II Men|1990s|soul|artist
+mariah-carey|Mariah Carey|1990s|pop|artist
+en-vogue|En Vogue|1990s|soul|artist
+jodeci|Jodeci|1990s|soul|artist
+r-kelly|R. Kelly|1990s|soul|artist
+toni-braxton|Toni Braxton|1990s|soul|artist
+brandy|Brandy|1990s|soul|artist
+monica|Monica|1990s|soul|artist
+swv|SWV|1990s|soul|artist
+blackstreet|Blackstreet|1990s|soul|artist
+maxwell|Maxwell|1990s|soul|artist
+tony-toni-tone|Tony! Toni! Toné!|1990s|soul|artist
+jill-scott|Jill Scott|2000s|soul|artist
+musiq-soulchild|Musiq Soulchild|2000s|soul|artist
+india-arie|India.Arie|2000s|soul|artist
+raphael-saadiq|Raphael Saadiq|1990s|soul|artist
+the-neptunes|The Neptunes|2000s|hiphop|producer
+timbaland|Timbaland|1990s|hiphop|producer
+ciara|Ciara|2000s|soul|artist
+ne-yo|Ne-Yo|2000s|soul|artist
+chris-brown|Chris Brown|2000s|soul|artist
+john-legend|John Legend|2000s|soul|artist
+the-dream|The-Dream|2000s|soul|producer
+miguel|Miguel|2010s|soul|artist
+janelle-monae|Janelle Monáe|2010s|soul|artist
+sharon-jones-and-the-dap-kings|Sharon Jones & the Dap-Kings|2000s|soul|artist
+christina-aguilera|Christina Aguilera|2000s|pop|artist
+backstreet-boys|Backstreet Boys|1990s|pop|artist
+spice-girls|Spice Girls|1990s|pop|artist
+max-martin|Max Martin|1990s|pop|producer
+kylie-minogue|Kylie Minogue|1980s|pop|artist
+cyndi-lauper|Cyndi Lauper|1980s|pop|artist
+kelly-clarkson|Kelly Clarkson|2000s|pop|artist
+pink|P!nk|2000s|pop|artist
+gwen-stefani|Gwen Stefani|2000s|pop|artist
+nelly-furtado|Nelly Furtado|2000s|pop|artist
+katy-perry|Katy Perry|2000s|pop|artist
+kesha|Kesha|2010s|pop|artist
+the-pussycat-dolls|The Pussycat Dolls|2000s|pop|artist
+sia|Sia|2010s|pop|artist
+carly-rae-jepsen|Carly Rae Jepsen|2010s|pop|artist
+ariana-grande|Ariana Grande|2010s|pop|artist
+justin-bieber|Justin Bieber|2010s|pop|artist
+one-direction|One Direction|2010s|pop|artist

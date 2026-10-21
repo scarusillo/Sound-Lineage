@@ -1,0 +1,3596 @@
+[
+ {
+  "id": "clifford-brown",
+  "years": "1952–1956",
+  "origin": "Wilmington, Delaware",
+  "genres": [
+   "hard bop",
+   "bebop"
+  ],
+  "summary": "Clifford Brown was a trumpeter whose warm tone and fluent, clean lines made him the model hard bop trumpeter of the 1950s. His quintet with Max Roach set the standard for the style.",
+  "know": [
+   "He co-led the Clifford Brown–Max Roach Quintet, one of the defining hard bop bands.",
+   "He wrote the standards Joy Spring and Daahoud.",
+   "His recording career lasted only about four years."
+  ],
+  "born": "10-30",
+  "keyAlbums": [
+   [
+    "Clifford Brown & Max Roach",
+    1954
+   ],
+   [
+    "Study in Brown",
+    1955
+   ],
+   [
+    "Clifford Brown with Strings",
+    1955
+   ],
+   [
+    "At Basin Street",
+    1956
+   ]
+  ],
+  "songs": [
+   "Joy Spring",
+   "Daahoud",
+   "Cherokee",
+   "Jordu",
+   "Sandu"
+  ],
+  "influencedBy": [
+   {
+    "id": "dizzy-gillespie",
+    "why": "Brown built his fast, harmonically sharp bebop vocabulary on Gillespie's trumpet language.",
+    "s": 2
+   },
+   {
+    "id": "max-roach",
+    "why": "Roach was his co-leader and drummer, and the two shaped the quintet's sound together.",
+    "s": 3
+   },
+   {
+    "id": "art-blakey",
+    "why": "Brown played in Blakey's early band on the live A Night at Birdland sessions in 1954.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "sonny-rollins",
+    "why": "Rollins joined the Brown–Roach Quintet in 1955 and developed his hard bop playing beside Brown.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "buddy-holly",
+    "why": "A short, hugely influential career that set a template for players who followed."
+   },
+   {
+    "id": "sam-cooke",
+    "why": "The same smooth, effortless phrasing that sounds easy but is very hard to copy."
+   }
+  ]
+ },
+ {
+  "id": "gil-evans",
+  "years": "1933–1988",
+  "origin": "New York, New York",
+  "genres": [
+   "cool jazz",
+   "orchestral jazz",
+   "jazz fusion"
+  ],
+  "summary": "Gil Evans was an arranger and bandleader who brought orchestral color and space to jazz. His albums with Miles Davis are some of the most admired large-ensemble jazz records.",
+  "know": [
+   "His small apartment in Manhattan was a meeting place for the musicians who made Birth of the Cool.",
+   "He arranged Miles Ahead, Porgy and Bess and Sketches of Spain for Miles Davis.",
+   "He used French horns and tuba in jazz settings, which was unusual at the time."
+  ],
+  "born": "05-13",
+  "keyAlbums": [
+   [
+    "Miles Ahead (Miles Davis)",
+    1957
+   ],
+   [
+    "Porgy and Bess (Miles Davis)",
+    1959
+   ],
+   [
+    "Sketches of Spain (Miles Davis)",
+    1960
+   ],
+   [
+    "Out of the Cool",
+    1961
+   ]
+  ],
+  "songs": [
+   "Boplicity",
+   "Concierto de Aranjuez",
+   "Summertime",
+   "Blues for Pablo",
+   "La Nevada"
+  ],
+  "influencedBy": [
+   {
+    "id": "duke-ellington",
+    "why": "Evans learned from Ellington how to write for individual voices and tone colors in a band.",
+    "s": 2
+   },
+   {
+    "id": "louis-armstrong",
+    "why": "Evans often named Armstrong as an early inspiration and an example of melodic freedom.",
+    "s": 2
+   },
+   {
+    "id": "charlie-parker",
+    "why": "Evans arranged bebop themes and hosted Parker, and adapted bebop lines into orchestral writing.",
+    "s": 2
+   },
+   {
+    "id": "billy-strayhorn",
+    "why": "His lush, impressionistic voicings follow the path Strayhorn opened in the Ellington band.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "miles-davis",
+    "why": "Evans arranged Davis's great orchestral albums and was one of his closest musical partners.",
+    "s": 3
+   },
+   {
+    "id": "gerry-mulligan",
+    "why": "Mulligan was part of the circle that met at Evans's apartment and wrote for the Birth of the Cool nonet.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "george-martin",
+    "why": "An arranger who used orchestral color to shape a star's records."
+   },
+   {
+    "id": "quincy-jones",
+    "why": "A big-picture arranger and producer who set the sound around a featured artist."
+   }
+  ]
+ },
+ {
+  "id": "chet-baker",
+  "years": "1952–1988",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "cool jazz",
+   "west coast jazz",
+   "vocal jazz"
+  ],
+  "summary": "Chet Baker was a trumpeter and singer whose soft, lyrical sound became the face of West Coast cool jazz. His quiet, close-mic singing shaped how later singers approached a ballad.",
+  "know": [
+   "He first became known in Gerry Mulligan's pianoless quartet.",
+   "Chet Baker Sings made his voice as famous as his trumpet.",
+   "He played the trumpet solo on Elvis Costello's Shipbuilding in 1983."
+  ],
+  "born": "12-23",
+  "keyAlbums": [
+   [
+    "Chet Baker Sings",
+    1954
+   ],
+   [
+    "Chet Baker & Strings",
+    1954
+   ],
+   [
+    "It Could Happen to You",
+    1958
+   ],
+   [
+    "Chet",
+    1959
+   ]
+  ],
+  "songs": [
+   "My Funny Valentine",
+   "I Fall in Love Too Easily",
+   "Let's Get Lost",
+   "Time After Time",
+   "But Not for Me"
+  ],
+  "influencedBy": [
+   {
+    "id": "miles-davis",
+    "why": "Baker's spare, middle-register trumpet followed the cool approach Davis was developing.",
+    "s": 2
+   },
+   {
+    "id": "gerry-mulligan",
+    "why": "Baker's early fame came in Mulligan's quartet, where he learned to play lyrical counterpoint.",
+    "s": 3
+   },
+   {
+    "id": "charlie-parker",
+    "why": "Parker hired him for West Coast dates in 1952, an early break for Baker.",
+    "s": 3
+   },
+   {
+    "id": "bix-beiderbecke",
+    "why": "His clear, lyrical, understated tone is often traced back to Beiderbecke's cornet style.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "joao-gilberto",
+    "why": "Gilberto's hushed bossa nova singing is widely linked to the soft vocal style of Chet Baker Sings.",
+    "s": 2
+   },
+   {
+    "id": "caetano-veloso",
+    "why": "Veloso has named Baker's singing as part of the cool sound that shaped him.",
+    "s": 2
+   },
+   {
+    "id": "astrud-gilberto",
+    "why": "Her calm, unforced delivery follows the same quiet approach Baker made popular.",
+    "s": 1
+   },
+   {
+    "id": "elvis-costello",
+    "why": "Costello sought Baker out to play the trumpet solo on Shipbuilding.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "nick-drake",
+    "why": "Soft, intimate singing that pulls the listener in close."
+   },
+   {
+    "id": "elliott-smith",
+    "why": "Hushed, melancholy delivery with a fragile beauty."
+   }
+  ]
+ },
+ {
+  "id": "gerry-mulligan",
+  "years": "1945–1996",
+  "origin": "New York, New York",
+  "genres": [
+   "cool jazz",
+   "west coast jazz",
+   "baritone saxophone"
+  ],
+  "summary": "Gerry Mulligan was a baritone saxophonist, composer and arranger who helped define cool jazz. His pianoless quartet with Chet Baker showed how much space and counterpoint a small group could use.",
+  "know": [
+   "He wrote and arranged several pieces for Miles Davis's Birth of the Cool sessions.",
+   "His 1952 quartet with Chet Baker had no piano, so the horns carried the harmony.",
+   "He made the baritone sax a lead instrument rather than a background one."
+  ],
+  "born": "04-06",
+  "keyAlbums": [
+   [
+    "Birth of the Cool (Miles Davis)",
+    1957
+   ],
+   [
+    "What Is There to Say?",
+    1959
+   ],
+   [
+    "Gerry Mulligan Meets Ben Webster",
+    1960
+   ],
+   [
+    "Night Lights",
+    1963
+   ]
+  ],
+  "songs": [
+   "Walkin' Shoes",
+   "Bernie's Tune",
+   "Line for Lyons",
+   "Jeru",
+   "Night Lights"
+  ],
+  "influencedBy": [
+   {
+    "id": "lester-young",
+    "why": "Mulligan's light, airy tone and relaxed swing follow Young's tenor approach.",
+    "s": 2
+   },
+   {
+    "id": "gil-evans",
+    "why": "Evans was his mentor in arranging and the center of the Birth of the Cool circle.",
+    "s": 3
+   },
+   {
+    "id": "miles-davis",
+    "why": "Mulligan wrote for and played in Davis's nonet, the core of the cool style.",
+    "s": 3
+   },
+   {
+    "id": "count-basie",
+    "why": "His swinging, riff-based writing draws on the Basie band's economy.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "chet-baker",
+    "why": "Baker came to fame in Mulligan's quartet, learning to play melodic counterpoint with him.",
+    "s": 3
+   },
+   {
+    "id": "astor-piazzolla",
+    "why": "Piazzolla's Octeto Buenos Aires drew on Mulligan's cool jazz groups, and the two later recorded Summit together.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "simon-garfunkel",
+    "why": "Two voices weaving around each other in close counterpoint."
+   },
+   {
+    "id": "steely-dan",
+    "why": "Sophisticated arrangements and cool, controlled musicianship."
+   }
+  ]
+ },
+ {
+  "id": "stan-getz",
+  "years": "1943–1991",
+  "origin": "New York, New York",
+  "genres": [
+   "cool jazz",
+   "bossa nova",
+   "bebop"
+  ],
+  "summary": "Stan Getz was a tenor saxophonist famous for his smooth, light tone. His collaborations with João Gilberto and Antônio Carlos Jobim brought bossa nova to a worldwide audience.",
+  "know": [
+   "He played in Woody Herman's band in the late 1940s and was nicknamed The Sound.",
+   "Jazz Samba with Charlie Byrd started the American bossa nova boom.",
+   "Getz/Gilberto won the Grammy for Album of the Year."
+  ],
+  "born": "02-02",
+  "keyAlbums": [
+   [
+    "Focus",
+    1961
+   ],
+   [
+    "Jazz Samba",
+    1962
+   ],
+   [
+    "Getz/Gilberto",
+    1964
+   ],
+   [
+    "Sweet Rain",
+    1967
+   ]
+  ],
+  "songs": [
+   "The Girl from Ipanema",
+   "Desafinado",
+   "Early Autumn",
+   "Corcovado",
+   "Moonlight in Vermont"
+  ],
+  "influencedBy": [
+   {
+    "id": "lester-young",
+    "why": "Getz named Young as his main model for a light, floating tenor tone.",
+    "s": 3
+   },
+   {
+    "id": "charlie-parker",
+    "why": "His fast bebop lines in the late 1940s came from Parker's language.",
+    "s": 1
+   },
+   {
+    "id": "joao-gilberto",
+    "why": "Gilberto's guitar and voice set the rhythmic feel Getz played over on Getz/Gilberto.",
+    "s": 3
+   },
+   {
+    "id": "antonio-carlos-jobim",
+    "why": "Jobim wrote and played the songs that defined Getz's bossa nova records.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "astrud-gilberto",
+    "why": "Her first recording was the vocal on Getz/Gilberto, which made her a star.",
+    "s": 3
+   },
+   {
+    "id": "horace-silver",
+    "why": "Getz hired the young Silver in 1950, giving him his first big break.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "sade",
+    "why": "Smooth, quiet sophistication with a cool, steady glow."
+   },
+   {
+    "id": "nick-drake",
+    "why": "Gentle tone and understatement that rewards close listening."
+   }
+  ]
+ },
+ {
+  "id": "cannonball-adderley",
+  "years": "1955–1975",
+  "origin": "Tampa, Florida",
+  "genres": [
+   "hard bop",
+   "soul jazz"
+  ],
+  "summary": "Cannonball Adderley was an alto saxophonist with a joyful, blues-soaked sound. He played on Kind of Blue and then led one of the most popular soul jazz bands of the 1960s.",
+  "know": [
+   "He caused a stir sitting in at a New York club in 1955 while still a high school band teacher in Florida.",
+   "He was a member of Miles Davis's sextet on Milestones and Kind of Blue.",
+   "His quintet had a pop hit with Mercy, Mercy, Mercy in 1966."
+  ],
+  "born": "09-15",
+  "keyAlbums": [
+   [
+    "Somethin' Else",
+    1958
+   ],
+   [
+    "Kind of Blue (Miles Davis)",
+    1959
+   ],
+   [
+    "The Cannonball Adderley Quintet in San Francisco",
+    1959
+   ],
+   [
+    "Mercy, Mercy, Mercy! Live at \"The Club\"",
+    1966
+   ]
+  ],
+  "songs": [
+   "Mercy, Mercy, Mercy",
+   "Autumn Leaves",
+   "This Here",
+   "Work Song",
+   "Sack o' Woe"
+  ],
+  "influencedBy": [
+   {
+    "id": "charlie-parker",
+    "why": "Adderley's quick, fluent alto lines grew directly from Parker's style.",
+    "s": 2
+   },
+   {
+    "id": "miles-davis",
+    "why": "Playing in Davis's sextet pushed him toward modal ideas and space.",
+    "s": 3
+   },
+   {
+    "id": "john-coltrane",
+    "why": "He shared the front line with Coltrane in the Davis sextet and the two pushed each other.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "weather-report",
+    "why": "Joe Zawinul spent about nine years in Adderley's band, writing Mercy, Mercy, Mercy, before co-founding Weather Report.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "booker-t",
+    "why": "Warm, gospel-tinged instrumental grooves with broad appeal."
+   },
+   {
+    "id": "the-meters",
+    "why": "Tight, bluesy groove music built for a live crowd."
+   }
+  ]
+ },
+ {
+  "id": "horace-silver",
+  "years": "1950–2004",
+  "origin": "New York, New York",
+  "genres": [
+   "hard bop",
+   "soul jazz"
+  ],
+  "summary": "Horace Silver was a pianist and composer who helped invent hard bop by mixing bebop with blues and gospel feeling. His catchy, groove-based tunes became jazz standards.",
+  "know": [
+   "He co-founded the Jazz Messengers with Art Blakey.",
+   "Song for My Father drew on his father's Cape Verdean musical heritage.",
+   "He spent nearly three decades on Blue Note Records."
+  ],
+  "born": "09-02",
+  "keyAlbums": [
+   [
+    "Horace Silver and the Jazz Messengers",
+    1955
+   ],
+   [
+    "Blowin' the Blues Away",
+    1959
+   ],
+   [
+    "Finger Poppin'",
+    1959
+   ],
+   [
+    "Song for My Father",
+    1965
+   ]
+  ],
+  "songs": [
+   "Song for My Father",
+   "The Preacher",
+   "Doodlin'",
+   "Sister Sadie",
+   "Señor Blues"
+  ],
+  "influencedBy": [
+   {
+    "id": "bud-powell",
+    "why": "Silver built his bebop piano technique on Powell's model.",
+    "s": 2
+   },
+   {
+    "id": "thelonious-monk",
+    "why": "His percussive, spare comping shows Monk's influence.",
+    "s": 1
+   },
+   {
+    "id": "art-blakey",
+    "why": "Blakey was his co-founder and drummer in the first Jazz Messengers.",
+    "s": 3
+   },
+   {
+    "id": "stan-getz",
+    "why": "Getz hired him in 1950 and brought him to New York.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "steely-dan",
+    "why": "Rikki Don't Lose That Number opens with a bass line borrowed from Song for My Father.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "ray-charles",
+    "why": "Gospel and blues feeling poured into a modern form."
+   },
+   {
+    "id": "the-meters",
+    "why": "Catchy, groove-first instrumentals built on repeated figures."
+   }
+  ]
+ },
+ {
+  "id": "the-delmore-brothers",
+  "years": "1931–1952",
+  "origin": "Elkmont, Alabama",
+  "genres": [
+   "close harmony",
+   "old-time country",
+   "hillbilly boogie"
+  ],
+  "summary": "The Delmore Brothers, Alton and Rabon, were a harmony duo who blended country, blues and boogie. Their close harmonies and boogie rhythms pointed toward rockabilly and the great brother duos.",
+  "know": [
+   "They were early stars of the Grand Ole Opry in the 1930s.",
+   "Rabon played a four-string tenor guitar, which gave them a distinct sound.",
+   "Their late 1940s King Records sides like Freight Train Boogie are often called early rock and roll."
+  ],
+  "born": null,
+  "keyAlbums": [],
+  "songs": [
+   "Brown's Ferry Blues",
+   "Blues Stay Away from Me",
+   "Freight Train Boogie",
+   "Gonna Lay Down My Old Guitar",
+   "Hillbilly Boogie"
+  ],
+  "influencedBy": [
+   {
+    "id": "jimmie-rodgers",
+    "why": "Their blues-tinged country songs follow the path Rodgers opened.",
+    "s": 2
+   },
+   {
+    "id": "carter-family",
+    "why": "Their old-time repertoire and harmony singing share roots with the Carter Family's songs.",
+    "s": 1
+   },
+   {
+    "id": "uncle-dave-macon",
+    "why": "Macon was an Opry star they worked alongside early in their career.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "everly-brothers",
+    "why": "The Everlys cited the Delmores as a model for brother harmony singing.",
+    "s": 2
+   },
+   {
+    "id": "the-louvin-brothers",
+    "why": "The Louvins built on the Delmores' close-harmony duet style.",
+    "s": 2
+   },
+   {
+    "id": "doc-watson",
+    "why": "Watson recorded Delmore songs and carried their style into the folk revival.",
+    "s": 2
+   },
+   {
+    "id": "merle-travis",
+    "why": "Travis sang with them in the gospel group the Brown's Ferry Four.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-mills-brothers",
+    "why": "Tight family harmonies that made a small group sound full."
+   },
+   {
+    "id": "simon-garfunkel",
+    "why": "Two voices locked in close harmony."
+   }
+  ]
+ },
+ {
+  "id": "merle-travis",
+  "years": "1937–1983",
+  "origin": "Rosewood, Kentucky",
+  "genres": [
+   "country",
+   "fingerstyle guitar",
+   "western swing"
+  ],
+  "summary": "Merle Travis was a singer, songwriter and guitarist whose thumb-picking style became known as Travis picking. He wrote Sixteen Tons and Dark as a Dungeon about life in Kentucky coal country.",
+  "know": [
+   "Travis picking, a thumb-and-finger style, is named after him.",
+   "He helped design an early solid-body electric guitar with Paul Bigsby in the late 1940s.",
+   "He appeared on the 1972 album Will the Circle Be Unbroken."
+  ],
+  "born": "11-29",
+  "keyAlbums": [
+   [
+    "Folk Songs of the Hills",
+    1947
+   ],
+   [
+    "The Merle Travis Guitar",
+    1956
+   ],
+   [
+    "Back Home",
+    1957
+   ],
+   [
+    "Walkin' the Strings",
+    1960
+   ]
+  ],
+  "songs": [
+   "Sixteen Tons",
+   "Dark as a Dungeon",
+   "Cannonball Rag",
+   "Divorce Me C.O.D.",
+   "Nine Pound Hammer"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-delmore-brothers",
+    "why": "He sang with the Delmores in the Brown's Ferry Four and shared their country-blues blend.",
+    "s": 3
+   },
+   {
+    "id": "jimmie-rodgers",
+    "why": "His bluesy country songwriting follows Rodgers's example.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "chet-atkins",
+    "why": "Atkins said hearing Travis on the radio shaped his own fingerpicking style.",
+    "s": 3
+   },
+   {
+    "id": "doc-watson",
+    "why": "Watson admired Travis so much he named his son Merle.",
+    "s": 3
+   },
+   {
+    "id": "the-nitty-gritty-dirt-band",
+    "why": "They invited Travis to play on Will the Circle Be Unbroken.",
+    "s": 3
+   },
+   {
+    "id": "jerry-reed",
+    "why": "Reed's thumb-driven picking builds on the Travis style.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "elizabeth-cotten",
+    "why": "A self-taught thumb-picking style with a steady alternating bass."
+   },
+   {
+    "id": "mississippi-john-hurt",
+    "why": "Gentle, rolling fingerpicking with the bass on the thumb."
+   }
+  ]
+ },
+ {
+  "id": "the-stanley-brothers",
+  "years": "1946–1966",
+  "origin": "Bristol, Virginia",
+  "genres": [
+   "bluegrass",
+   "old-time",
+   "mountain gospel"
+  ],
+  "summary": "The Stanley Brothers, Carter and Ralph, were among the first groups to follow Bill Monroe's bluegrass model. They kept bluegrass close to the older mountain sound, with high, lonesome harmonies.",
+  "know": [
+   "They became popular on the Farm and Fun Time radio show in Bristol.",
+   "Carter wrote most of their songs and sang lead, with Ralph singing tenor.",
+   "Their version of Man of Constant Sorrow helped make it a standard."
+  ],
+  "born": null,
+  "keyAlbums": [],
+  "songs": [
+   "Man of Constant Sorrow",
+   "Rank Strangers",
+   "The Lonesome River",
+   "White Dove",
+   "How Mountain Girls Can Love"
+  ],
+  "influencedBy": [
+   {
+    "id": "bill-monroe",
+    "why": "They built their band on Monroe's bluegrass sound, and Carter briefly played with Monroe.",
+    "s": 3
+   },
+   {
+    "id": "carter-family",
+    "why": "Their mountain repertoire and family harmony echo the Carter Family.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "ralph-stanley",
+    "why": "Ralph carried the brothers' sound into his long solo career with the Clinch Mountain Boys.",
+    "s": 3
+   },
+   {
+    "id": "ricky-skaggs",
+    "why": "Skaggs learned by copying Stanley Brothers records and later played with Ralph.",
+    "s": 2
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Dylan often named them among his favorites and recorded Rank Strangers to Me.",
+    "s": 3
+   },
+   {
+    "id": "gillian-welch",
+    "why": "Welch's stark harmonies follow the high lonesome Stanley sound.",
+    "s": 2
+   },
+   {
+    "id": "old-crow-medicine-show",
+    "why": "Their string band revival draws on Stanley Brothers material and style.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-staple-singers",
+    "why": "Family harmonies rooted in church singing."
+   },
+   {
+    "id": "dock-boggs",
+    "why": "Raw, lonesome Appalachian music."
+   }
+  ]
+ },
+ {
+  "id": "dock-boggs",
+  "years": "1927–1969",
+  "origin": "Norton, Virginia",
+  "genres": [
+   "old-time",
+   "Appalachian banjo",
+   "mountain blues"
+  ],
+  "summary": "Dock Boggs was a banjo player and singer from the Virginia coalfields whose dark, bluesy recordings stand apart from most old-time music. His songs on Harry Smith's Anthology made him a touchstone for the folk revival.",
+  "know": [
+   "He recorded a handful of sides in 1927 and 1929, then stopped performing for decades.",
+   "Mike Seeger found him in 1963 and recorded him again for Folkways.",
+   "He played banjo with a bluesy, two-finger style learned partly from Black musicians in his area."
+  ],
+  "born": "02-07",
+  "keyAlbums": [
+   [
+    "Legendary Singer and Banjo Player",
+    1964
+   ]
+  ],
+  "songs": [
+   "Country Blues",
+   "Sugar Baby",
+   "Pretty Polly",
+   "Danville Girl",
+   "Down South Blues"
+  ],
+  "influencedBy": [],
+  "influenced": [
+   {
+    "id": "bob-dylan",
+    "why": "Dylan has praised Boggs, and writers often tie his darker folk material to Boggs's recordings.",
+    "s": 2
+   },
+   {
+    "id": "gillian-welch",
+    "why": "Welch's stark, minor-key Appalachian songs follow the mood Boggs's records set.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "skip-james",
+    "why": "Eerie, minor-key 1920s recordings by a player rediscovered in the 1960s."
+   },
+   {
+    "id": "robert-johnson",
+    "why": "A small set of intense early recordings that later players treat as essential."
+   }
+  ]
+ },
+ {
+  "id": "alan-lomax",
+  "years": "1933–1997",
+  "origin": "Austin, Texas",
+  "genres": [
+   "field recording",
+   "folk",
+   "blues"
+  ],
+  "summary": "Alan Lomax was a folklorist and field recordist who documented American and world folk music for decades. His recordings gave the first hearing to many blues and folk musicians and fed the folk revival.",
+  "know": [
+   "He began recording with his father, John Lomax, for the Library of Congress in the 1930s.",
+   "He made the first recordings of Muddy Waters in Mississippi in 1941.",
+   "He recorded long interviews with Jelly Roll Morton about early jazz in 1938."
+  ],
+  "born": "01-31",
+  "keyAlbums": [
+   [
+    "The Library of Congress Recordings (Jelly Roll Morton)",
+    1938
+   ],
+   [
+    "Sounds of the South",
+    1960
+   ],
+   [
+    "The Complete Plantation Recordings (Muddy Waters)",
+    1993
+   ]
+  ],
+  "songs": [
+   "I Be's Troubled (Muddy Waters)",
+   "Goodnight Irene (Lead Belly)",
+   "Bonaparte's Retreat (W. H. Stepp)",
+   "Po' Lazarus (James Carter)"
+  ],
+  "influencedBy": [
+   {
+    "id": "lead-belly",
+    "why": "Working with Lead Belly in the 1930s showed Lomax what a living tradition could sound like.",
+    "s": 3
+   },
+   {
+    "id": "jelly-roll-morton",
+    "why": "His sessions with Morton shaped his idea of recording musicians telling their own history.",
+    "s": 3
+   },
+   {
+    "id": "woody-guthrie",
+    "why": "Lomax recorded and promoted Guthrie, and Guthrie shaped his view of topical folk song.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "muddy-waters",
+    "why": "Lomax made Muddy's first recordings, and Muddy said hearing them convinced him he could make it.",
+    "s": 3
+   },
+   {
+    "id": "son-house",
+    "why": "Lomax recorded House in 1941 and 1942, preserving his playing from that era.",
+    "s": 3
+   },
+   {
+    "id": "lead-belly",
+    "why": "Lomax recorded and promoted Lead Belly, bringing him to New York audiences.",
+    "s": 3
+   },
+   {
+    "id": "woody-guthrie",
+    "why": "His 1940 Library of Congress sessions documented Guthrie's songs and stories.",
+    "s": 3
+   },
+   {
+    "id": "jelly-roll-morton",
+    "why": "The 1938 sessions are a main source for Morton's music and history.",
+    "s": 3
+   },
+   {
+    "id": "pete-seeger",
+    "why": "Lomax hired the young Seeger at the Archive of American Folk Song.",
+    "s": 3
+   },
+   {
+    "id": "moby",
+    "why": "Moby's album Play is built on samples of Lomax field recordings, including Natural Blues.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "rudy-van-gelder",
+    "why": "A recordist whose work captured a whole genre's key players."
+   },
+   {
+    "id": "leonard-chess",
+    "why": "Put southern blues voices on record and into wide circulation."
+   }
+  ]
+ },
+ {
+  "id": "harry-smith",
+  "years": "1952–1991",
+  "origin": "New York, New York",
+  "genres": [
+   "folk",
+   "old-time",
+   "compilation"
+  ],
+  "summary": "Harry Smith was a collector and artist who assembled the Anthology of American Folk Music from his 78 rpm records. The set reintroduced 1920s and 1930s country and blues recordings and became a blueprint for the folk revival.",
+  "know": [
+   "The Anthology was released by Folkways in 1952 as six LPs in three volumes.",
+   "He arranged the tracks by theme, not by race or region, mixing blues and country side by side.",
+   "He was also an experimental filmmaker and painter."
+  ],
+  "born": "05-29",
+  "keyAlbums": [
+   [
+    "Anthology of American Folk Music",
+    1952
+   ],
+   [
+    "Anthology of American Folk Music, Vol. 4",
+    2000
+   ]
+  ],
+  "songs": [
+   "Fishing Blues (Henry Thomas)",
+   "The House Carpenter (Clarence Ashley)",
+   "John the Revelator (Blind Willie Johnson)",
+   "Sugar Baby (Dock Boggs)",
+   "Spike Driver Blues (Mississippi John Hurt)"
+  ],
+  "influencedBy": [
+   {
+    "id": "carter-family",
+    "why": "The Carter Family's records were among the central tracks Smith chose.",
+    "s": 3
+   },
+   {
+    "id": "dock-boggs",
+    "why": "Smith included Boggs's recordings, which became some of the Anthology's best known.",
+    "s": 3
+   },
+   {
+    "id": "mississippi-john-hurt",
+    "why": "Hurt's 1928 sides were part of Smith's collection and the Anthology.",
+    "s": 3
+   },
+   {
+    "id": "blind-willie-johnson",
+    "why": "Smith included Johnson's gospel blues on the Anthology.",
+    "s": 3
+   },
+   {
+    "id": "uncle-dave-macon",
+    "why": "Macon's banjo songs were part of the old-time core of the Anthology.",
+    "s": 3
+   },
+   {
+    "id": "charley-patton",
+    "why": "Smith included Patton's Delta blues in the set.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "bob-dylan",
+    "why": "Dylan learned many songs from the Anthology, and its repertoire runs through his folk work.",
+    "s": 2
+   },
+   {
+    "id": "dave-van-ronk",
+    "why": "Van Ronk described the Anthology as a central text for the Greenwich Village folk scene.",
+    "s": 2
+   },
+   {
+    "id": "grateful-dead",
+    "why": "Jerry Garcia learned old-time and jug band material from the Anthology.",
+    "s": 2
+   },
+   {
+    "id": "gillian-welch",
+    "why": "Welch's songwriting draws on the old-time world the Anthology preserved.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "dj-shadow",
+    "why": "A crate digger who built new art from old records."
+   },
+   {
+    "id": "the-avalanches",
+    "why": "Collage made from forgotten recordings, arranged to tell a story."
+   }
+  ]
+ },
+ {
+  "id": "josh-white",
+  "years": "1928–1969",
+  "origin": "New York, New York",
+  "genres": [
+   "piedmont blues",
+   "folk",
+   "gospel blues"
+  ],
+  "summary": "Josh White was a guitarist and singer who moved from Carolina blues into the New York folk and cabaret scene. He was one of the first Black folk and blues artists to reach a wide white audience.",
+  "know": [
+   "As a boy he worked as a guide for traveling blind street singers.",
+   "He was a featured performer at the Café Society club in New York in the 1940s.",
+   "His albums Chain Gang and Southern Exposure were early protest records."
+  ],
+  "born": "02-11",
+  "keyAlbums": [
+   [
+    "Chain Gang",
+    1940
+   ],
+   [
+    "Southern Exposure",
+    1941
+   ]
+  ],
+  "songs": [
+   "One Meatball",
+   "Free and Equal Blues",
+   "House of the Rising Sun",
+   "Hard Time Blues",
+   "Jesus Gonna Make Up My Dying Bed"
+  ],
+  "influencedBy": [
+   {
+    "id": "lead-belly",
+    "why": "White and Lead Belly performed together in the New York folk scene and shared material.",
+    "s": 2
+   },
+   {
+    "id": "blind-willie-mctell",
+    "why": "His clean Piedmont fingerpicking sits in the same Southeast blues tradition as McTell.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "dave-van-ronk",
+    "why": "Van Ronk cited White's guitar playing and arrangements as a model.",
+    "s": 2
+   },
+   {
+    "id": "harry-belafonte",
+    "why": "White's polished folk act in New York clubs set an example for Belafonte's folk career.",
+    "s": 1
+   },
+   {
+    "id": "lonnie-donegan",
+    "why": "White's 1950s tours of Britain helped spread the folk blues that fed skiffle.",
+    "s": 1
+   },
+   {
+    "id": "the-animals",
+    "why": "White's recorded version of House of the Rising Sun is part of the chain that led to theirs.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "sam-cooke",
+    "why": "A singer who crossed from church and roots music into polished nightclub appeal."
+   },
+   {
+    "id": "nat-king-cole",
+    "why": "Smooth crossover star who reached a mainstream audience with grace."
+   }
+  ]
+ },
+ {
+  "id": "elizabeth-cotten",
+  "years": "1958–1987",
+  "origin": "Washington, D.C.",
+  "genres": [
+   "piedmont blues",
+   "folk",
+   "fingerstyle guitar"
+  ],
+  "summary": "Elizabeth Cotten was a self-taught guitarist who played left-handed on a guitar strung for a right-handed player. Her song Freight Train became a folk standard, and her style is now called Cotten picking.",
+  "know": [
+   "She wrote Freight Train as a young girl in North Carolina.",
+   "She was working for the Seeger family when they discovered her playing.",
+   "She won a Grammy in 1985 for Elizabeth Cotten Live!"
+  ],
+  "born": "01-05",
+  "keyAlbums": [
+   [
+    "Folksongs and Instrumentals with Guitar",
+    1958
+   ],
+   [
+    "Shake Sugaree",
+    1967
+   ],
+   [
+    "When I'm Gone",
+    1979
+   ],
+   [
+    "Elizabeth Cotten Live!",
+    1984
+   ]
+  ],
+  "songs": [
+   "Freight Train",
+   "Shake Sugaree",
+   "Oh Babe It Ain't No Lie",
+   "Washington Blues",
+   "Vastopol"
+  ],
+  "influencedBy": [],
+  "influenced": [
+   {
+    "id": "pete-seeger",
+    "why": "The Seeger family recorded and promoted her, and her songs entered the revival repertoire through them.",
+    "s": 2
+   },
+   {
+    "id": "peter-paul-and-mary",
+    "why": "They recorded Freight Train, spreading it to a large audience.",
+    "s": 2
+   },
+   {
+    "id": "grateful-dead",
+    "why": "Jerry Garcia played Oh Babe It Ain't No Lie and other Cotten songs.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "mississippi-john-hurt",
+    "why": "Gentle fingerpicking and a late-life discovery that won over the folk revival."
+   },
+   {
+    "id": "merle-travis",
+    "why": "A thumb-picking guitar style so personal it carries the player's name."
+   }
+  ]
+ },
+ {
+  "id": "harry-belafonte",
+  "years": "1949–2017",
+  "origin": "New York, New York",
+  "genres": [
+   "calypso",
+   "folk",
+   "pop"
+  ],
+  "summary": "Harry Belafonte was a singer and actor who brought Caribbean calypso and folk songs to a mass audience. His album Calypso was a huge seller and made him one of the biggest stars of the 1950s.",
+  "know": [
+   "Calypso was the first album by a single artist to sell over a million copies in the US, according to many accounts.",
+   "He helped bring Miriam Makeba to American audiences.",
+   "Bob Dylan's first professional recording was playing harmonica on a Belafonte album."
+  ],
+  "born": "03-01",
+  "keyAlbums": [
+   [
+    "Belafonte",
+    1956
+   ],
+   [
+    "Calypso",
+    1956
+   ],
+   [
+    "An Evening with Belafonte",
+    1957
+   ],
+   [
+    "Belafonte at Carnegie Hall",
+    1959
+   ]
+  ],
+  "songs": [
+   "Day-O (The Banana Boat Song)",
+   "Jamaica Farewell",
+   "Matilda",
+   "Jump in the Line",
+   "Island in the Sun"
+  ],
+  "influencedBy": [
+   {
+    "id": "lead-belly",
+    "why": "Belafonte recorded Lead Belly songs and credited him as an influence on his folk repertoire.",
+    "s": 2
+   },
+   {
+    "id": "woody-guthrie",
+    "why": "Guthrie's folk songs were part of the material Belafonte drew on early on.",
+    "s": 1
+   },
+   {
+    "id": "josh-white",
+    "why": "White's polished folk club act was a model for Belafonte's early folk performances.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-kingston-trio",
+    "why": "Belafonte's calypso and folk hits opened the market the Kingston Trio broke into.",
+    "s": 2
+   },
+   {
+    "id": "miriam-makeba",
+    "why": "Belafonte mentored Makeba and they won a Grammy together for An Evening with Belafonte/Makeba.",
+    "s": 3
+   },
+   {
+    "id": "hugh-masekela",
+    "why": "Belafonte helped Masekela come to the US and start his career there.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Dylan played harmonica on Belafonte's Midnight Special in 1962.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bob-marley",
+    "why": "Caribbean music carried to a worldwide audience by a charismatic voice."
+   },
+   {
+    "id": "desmond-dekker",
+    "why": "Jamaican pop with an easy, sing-along appeal that crossed borders."
+   }
+  ]
+ },
+ {
+  "id": "the-ink-spots",
+  "years": "1934–1954",
+  "origin": "Indianapolis, Indiana",
+  "genres": [
+   "vocal group",
+   "traditional pop",
+   "doo-wop precursor"
+  ],
+  "summary": "The Ink Spots were a vocal group whose slow ballads set the template for doo-wop and R&B vocal groups. Their formula of a high tenor lead and a spoken bass part was copied for decades.",
+  "know": [
+   "Bill Kenny's high tenor and Hoppy Jones's spoken bass were their trademarks.",
+   "If I Didn't Care in 1939 became one of the best selling records of its era.",
+   "They recorded Into Each Life Some Rain Must Fall with Ella Fitzgerald."
+  ],
+  "born": null,
+  "keyAlbums": [],
+  "songs": [
+   "If I Didn't Care",
+   "I Don't Want to Set the World on Fire",
+   "Address Unknown",
+   "We Three",
+   "Into Each Life Some Rain Must Fall"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-mills-brothers",
+    "why": "The Mills Brothers had already shown a Black vocal group could top the pop charts with smooth harmony.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-orioles",
+    "why": "The Orioles built their ballad style on the Ink Spots' tenor-led sound.",
+    "s": 2
+   },
+   {
+    "id": "the-platters",
+    "why": "The Platters' slow, dramatic ballads follow the Ink Spots' model.",
+    "s": 2
+   },
+   {
+    "id": "the-dominoes",
+    "why": "Early R&B groups like the Dominoes used the Ink Spots' lead and bass layout.",
+    "s": 1
+   },
+   {
+    "id": "elvis-presley",
+    "why": "Elvis's first home recording at Sun included the Ink Spots' That's When Your Heartaches Begin.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-louvin-brothers",
+    "why": "High tenor harmony with a sad, sweet edge."
+   },
+   {
+    "id": "everly-brothers",
+    "why": "Close harmony ballads that set a template for later groups."
+   }
+  ]
+ },
+ {
+  "id": "the-mills-brothers",
+  "years": "1928–1982",
+  "origin": "Piqua, Ohio",
+  "genres": [
+   "vocal jazz",
+   "traditional pop",
+   "close harmony"
+  ],
+  "summary": "The Mills Brothers were a family vocal group known for imitating instruments with their voices. They were among the first Black performers with national radio shows and had hits across five decades.",
+  "know": [
+   "Early on they used only a guitar and their voices to imitate a whole band.",
+   "They recorded with Louis Armstrong and Bing Crosby.",
+   "Paper Doll was one of the biggest hits of the 1940s."
+  ],
+  "born": null,
+  "keyAlbums": [],
+  "songs": [
+   "Tiger Rag",
+   "Paper Doll",
+   "Glow-Worm",
+   "You Always Hurt the One You Love",
+   "Lazy River"
+  ],
+  "influencedBy": [
+   {
+    "id": "louis-armstrong",
+    "why": "They recorded with Armstrong, and their horn-like vocal phrasing comes from jazz players like him.",
+    "s": 3
+   },
+   {
+    "id": "bing-crosby",
+    "why": "They appeared with Crosby on record and radio early in their career.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-ink-spots",
+    "why": "The Ink Spots followed the Mills Brothers into pop vocal harmony.",
+    "s": 1
+   },
+   {
+    "id": "the-orioles",
+    "why": "Their smooth group harmony fed the sound of late 1940s R&B groups.",
+    "s": 1
+   },
+   {
+    "id": "dean-martin",
+    "why": "Martin named Harry Mills as a key influence on his singing.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-golden-gate-quartet",
+    "why": "Rhythmic close harmony with voices doing an instrument's work."
+   },
+   {
+    "id": "the-delmore-brothers",
+    "why": "Family harmony with a light, swinging touch."
+   }
+  ]
+ },
+ {
+  "id": "the-andrews-sisters",
+  "years": "1937–1967",
+  "origin": "Minneapolis, Minnesota",
+  "genres": [
+   "swing",
+   "boogie-woogie",
+   "close harmony"
+  ],
+  "summary": "The Andrews Sisters were a vocal trio whose tight, swinging harmonies made them the top female group of the swing era. Their songs became part of the sound of the World War II years.",
+  "know": [
+   "Bei Mir Bist Du Schön, a Yiddish song, was their breakthrough in 1937.",
+   "They recorded many duets with Bing Crosby.",
+   "Boogie Woogie Bugle Boy was featured in the 1941 film Buck Privates."
+  ],
+  "born": null,
+  "keyAlbums": [],
+  "songs": [
+   "Bei Mir Bist Du Schön",
+   "Boogie Woogie Bugle Boy",
+   "Don't Sit Under the Apple Tree",
+   "Beer Barrel Polka",
+   "Rum and Coca-Cola"
+  ],
+  "influencedBy": [
+   {
+    "id": "bing-crosby",
+    "why": "They worked with Crosby on dozens of recordings.",
+    "s": 3
+   },
+   {
+    "id": "glenn-miller",
+    "why": "Their swing arrangements came from the big band sound Miller and others made popular.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-pointer-sisters",
+    "why": "The Pointer Sisters' early nostalgic swing harmonies drew on the Andrews Sisters' style.",
+    "s": 2
+   },
+   {
+    "id": "christina-aguilera",
+    "why": "Aguilera's Candyman was modeled on Boogie Woogie Bugle Boy.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-supremes",
+    "why": "A polished female vocal group that defined the pop sound of its time."
+   },
+   {
+    "id": "the-staple-singers",
+    "why": "Family harmonies that carried a whole era's mood."
+   }
+  ]
+ },
+ {
+  "id": "al-jolson",
+  "years": "1911–1950",
+  "origin": "New York, New York",
+  "genres": [
+   "vaudeville",
+   "Tin Pan Alley",
+   "show tunes"
+  ],
+  "summary": "Al Jolson was a singer and entertainer who was among the most popular performers of the early 20th century. He starred in The Jazz Singer, the first feature film with synchronized singing and dialogue.",
+  "know": [
+   "The Jazz Singer in 1927 marked the start of the sound film era.",
+   "His recording of Gershwin's Swanee made it a huge hit in 1920.",
+   "He was known for his big, emotional stage style and direct connection to an audience."
+  ],
+  "born": "05-26",
+  "keyAlbums": [],
+  "songs": [
+   "Swanee",
+   "April Showers",
+   "Rock-a-Bye Your Baby with a Dixie Melody",
+   "Toot, Toot, Tootsie!",
+   "You Made Me Love You"
+  ],
+  "influencedBy": [
+   {
+    "id": "george-gershwin",
+    "why": "Gershwin wrote Swanee, which became Jolson's signature hit.",
+    "s": 3
+   },
+   {
+    "id": "irving-berlin",
+    "why": "Jolson's song choices came largely from Tin Pan Alley writers like Berlin.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "bing-crosby",
+    "why": "Crosby named Jolson as an early idol before developing his own quieter style.",
+    "s": 3
+   },
+   {
+    "id": "jackie-wilson",
+    "why": "Wilson recorded a full tribute album to Jolson, You Ain't Heard Nothin' Yet.",
+    "s": 3
+   },
+   {
+    "id": "jerry-lee-lewis",
+    "why": "Lewis named Jolson among his main early influences as a showman.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "little-richard",
+    "why": "An all-out showman who sang to the back row."
+   },
+   {
+    "id": "james-brown",
+    "why": "A total entertainer who made every performance an event."
+   }
+  ]
+ },
+ {
+  "id": "irving-berlin",
+  "years": "1907–1962",
+  "origin": "New York, New York",
+  "genres": [
+   "Tin Pan Alley",
+   "show tunes",
+   "standards"
+  ],
+  "summary": "Irving Berlin was a songwriter whose simple, memorable melodies helped define American popular song. He wrote hundreds of hits across more than half a century, many of them now standards.",
+  "know": [
+   "Alexander's Ragtime Band in 1911 was his first major hit.",
+   "White Christmas, sung by Bing Crosby, became one of the best selling singles ever.",
+   "He could play piano in only one key and used a special transposing piano."
+  ],
+  "born": "05-11",
+  "keyAlbums": [
+   [
+    "Annie Get Your Gun (Original Broadway Cast)",
+    1946
+   ]
+  ],
+  "songs": [
+   "Alexander's Ragtime Band",
+   "Blue Skies",
+   "Puttin' On the Ritz",
+   "White Christmas",
+   "There's No Business Like Show Business"
+  ],
+  "influencedBy": [
+   {
+    "id": "scott-joplin",
+    "why": "Berlin's early hits rode the ragtime craze that Joplin's music had helped start.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "george-gershwin",
+    "why": "Gershwin admired Berlin deeply and considered him the model American songwriter.",
+    "s": 2
+   },
+   {
+    "id": "bing-crosby",
+    "why": "Crosby's recordings of Berlin songs, above all White Christmas, were central to his career.",
+    "s": 3
+   },
+   {
+    "id": "ella-fitzgerald",
+    "why": "Ella recorded a full Irving Berlin Song Book in 1958.",
+    "s": 3
+   },
+   {
+    "id": "frank-sinatra",
+    "why": "Berlin songs are a large part of the standard repertoire Sinatra drew from.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "holland-dozier-holland",
+    "why": "Songwriters who turned out simple, unforgettable hits for decades."
+   },
+   {
+    "id": "randy-newman",
+    "why": "A songwriter's songwriter with a plain style and a sharp eye."
+   }
+  ]
+ },
+ {
+  "id": "george-gershwin",
+  "years": "1916–1937",
+  "origin": "New York, New York",
+  "genres": [
+   "Tin Pan Alley",
+   "show tunes",
+   "orchestral jazz"
+  ],
+  "summary": "George Gershwin was a composer who joined popular song, jazz and concert music. His songs and Rhapsody in Blue became cornerstones of American music, and Porgy and Bess is a landmark opera.",
+  "know": [
+   "Rhapsody in Blue premiered in 1924 with Paul Whiteman's orchestra.",
+   "He wrote most of his songs with his brother Ira, who wrote the lyrics.",
+   "The chords of I Got Rhythm became one of the most used frameworks in jazz."
+  ],
+  "born": "09-26",
+  "keyAlbums": [
+   [
+    "Rhapsody in Blue",
+    1924
+   ],
+   [
+    "An American in Paris",
+    1928
+   ],
+   [
+    "Porgy and Bess",
+    1935
+   ]
+  ],
+  "songs": [
+   "Rhapsody in Blue",
+   "Summertime",
+   "I Got Rhythm",
+   "Someone to Watch Over Me",
+   "Embraceable You"
+  ],
+  "influencedBy": [
+   {
+    "id": "irving-berlin",
+    "why": "Gershwin saw Berlin as the great model of American songwriting.",
+    "s": 2
+   },
+   {
+    "id": "james-p-johnson",
+    "why": "Gershwin spent time with the Harlem stride pianists and drew on their style.",
+    "s": 2
+   },
+   {
+    "id": "scott-joplin",
+    "why": "His early piano work came out of the ragtime tradition Joplin led.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "ella-fitzgerald",
+    "why": "Ella recorded a full George and Ira Gershwin Song Book.",
+    "s": 3
+   },
+   {
+    "id": "charlie-parker",
+    "why": "The I Got Rhythm chord pattern became a core framework for bebop tunes.",
+    "s": 2
+   },
+   {
+    "id": "miles-davis",
+    "why": "Davis and Gil Evans recorded a full orchestral version of Porgy and Bess.",
+    "s": 2
+   },
+   {
+    "id": "gil-evans",
+    "why": "Evans arranged Porgy and Bess for Miles Davis.",
+    "s": 2
+   },
+   {
+    "id": "nina-simone",
+    "why": "Her first hit was I Loves You, Porgy, from Porgy and Bess.",
+    "s": 2
+   },
+   {
+    "id": "janis-joplin",
+    "why": "Her version of Summertime with Big Brother and the Holding Company is one of her best known.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "duke-ellington",
+    "why": "A composer who wrote long-form works that blurred jazz and concert music."
+   },
+   {
+    "id": "astor-piazzolla",
+    "why": "Blended popular dance music with classical forms."
+   }
+  ]
+ },
+ {
+  "id": "cole-porter",
+  "years": "1915–1958",
+  "origin": "New York, New York",
+  "genres": [
+   "show tunes",
+   "standards",
+   "Tin Pan Alley"
+  ],
+  "summary": "Cole Porter was a songwriter known for witty lyrics and sophisticated melodies. He wrote both words and music, and his songs remain central to the American songbook.",
+  "know": [
+   "Unlike many songwriters of his era, he wrote both music and lyrics.",
+   "Anything Goes and Kiss Me, Kate were among his biggest shows.",
+   "His list songs packed in clever rhymes and cultural references."
+  ],
+  "born": "06-09",
+  "keyAlbums": [
+   [
+    "Anything Goes",
+    1934
+   ],
+   [
+    "Kiss Me, Kate",
+    1948
+   ]
+  ],
+  "songs": [
+   "Night and Day",
+   "I Get a Kick Out of You",
+   "Anything Goes",
+   "Begin the Beguine",
+   "I've Got You Under My Skin"
+  ],
+  "influencedBy": [
+   {
+    "id": "irving-berlin",
+    "why": "Porter worked in the songwriting world Berlin had defined and admired his craft.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "ella-fitzgerald",
+    "why": "The Cole Porter Song Book in 1956 was the first of Ella's famous songbook albums.",
+    "s": 3
+   },
+   {
+    "id": "frank-sinatra",
+    "why": "I've Got You Under My Skin became one of Sinatra's signature recordings.",
+    "s": 2
+   },
+   {
+    "id": "tony-bennett",
+    "why": "Bennett recorded the Porter album Love for Sale with Lady Gaga in 2021.",
+    "s": 2
+   },
+   {
+    "id": "lady-gaga",
+    "why": "Gaga recorded the Cole Porter album Love for Sale with Tony Bennett.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "randy-newman",
+    "why": "A songwriter whose wit and irony live in the lyric."
+   },
+   {
+    "id": "tom-lehrer",
+    "why": "Clever wordplay and rhymes put to good tunes."
+   }
+  ]
+ },
+ {
+  "id": "peggy-lee",
+  "years": "1941–1995",
+  "origin": "Fargo, North Dakota",
+  "genres": [
+   "traditional pop",
+   "vocal jazz",
+   "swing"
+  ],
+  "summary": "Peggy Lee was a singer and songwriter famous for a cool, understated delivery. Her version of Fever and her songwriting made her one of the most respected pop vocalists of her era.",
+  "know": [
+   "She first became known singing with Benny Goodman's band.",
+   "She co-wrote songs for Disney's Lady and the Tramp and voiced several characters.",
+   "Her 1958 Fever was a cover of a Little Willie John hit."
+  ],
+  "born": "05-26",
+  "keyAlbums": [
+   [
+    "Black Coffee",
+    1953
+   ],
+   [
+    "The Man I Love",
+    1957
+   ],
+   [
+    "Beauty and the Beat!",
+    1959
+   ],
+   [
+    "Is That All There Is?",
+    1969
+   ]
+  ],
+  "songs": [
+   "Fever",
+   "Why Don't You Do Right?",
+   "Is That All There Is?",
+   "It's a Good Day",
+   "Black Coffee"
+  ],
+  "influencedBy": [
+   {
+    "id": "billie-holiday",
+    "why": "Lee named Holiday as a model for her relaxed, behind-the-beat phrasing.",
+    "s": 2
+   },
+   {
+    "id": "benny-goodman",
+    "why": "She learned as a band singer with Goodman in the early 1940s.",
+    "s": 3
+   },
+   {
+    "id": "count-basie",
+    "why": "Lee credited the Basie band's restraint as an example of saying more with less.",
+    "s": 2
+   },
+   {
+    "id": "little-willie-john",
+    "why": "She covered his Fever and made it her signature song.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "madonna",
+    "why": "Madonna covered Fever in 1993, drawing on Lee's version.",
+    "s": 2
+   },
+   {
+    "id": "k-d-lang",
+    "why": "lang has named Lee among her influences in torch and pop singing.",
+    "s": 2
+   },
+   {
+    "id": "beyonce",
+    "why": "Beyoncé recorded Fever, following Lee's arrangement.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "patsy-cline",
+    "why": "Warm, controlled torch singing with huge feeling held back."
+   },
+   {
+    "id": "sade",
+    "why": "Cool, smoky, understated delivery."
+   }
+  ]
+ },
+ {
+  "id": "les-paul",
+  "years": "1936–2009",
+  "origin": "Waukesha, Wisconsin",
+  "genres": [
+   "jazz guitar",
+   "traditional pop",
+   "multitrack recording"
+  ],
+  "summary": "Les Paul was a guitarist and inventor who pioneered multitrack recording and the solid-body electric guitar. His hits with Mary Ford used layered guitars and voices in ways no one had heard before.",
+  "know": [
+   "The Gibson Les Paul guitar is named after him.",
+   "He developed sound-on-sound and multitrack tape techniques.",
+   "How High the Moon with Mary Ford was a number one hit in 1951."
+  ],
+  "born": "06-09",
+  "keyAlbums": [
+   [
+    "The New Sound",
+    1950
+   ],
+   [
+    "Bye Bye Blues!",
+    1952
+   ],
+   [
+    "Chester & Lester (with Chet Atkins)",
+    1976
+   ]
+  ],
+  "songs": [
+   "How High the Moon",
+   "Vaya Con Dios",
+   "Lover (When You're Near Me)",
+   "Mockin' Bird Hill",
+   "Bye Bye Blues"
+  ],
+  "influencedBy": [
+   {
+    "id": "django-reinhardt",
+    "why": "Paul said Reinhardt's fast, melodic guitar inspired him.",
+    "s": 3
+   },
+   {
+    "id": "charlie-christian",
+    "why": "His jazz electric guitar grew alongside Christian's single-note style.",
+    "s": 1
+   },
+   {
+    "id": "bing-crosby",
+    "why": "Crosby backed his recording work and gave him an early Ampex tape machine.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "chet-atkins",
+    "why": "Atkins admired Paul and the two made the album Chester & Lester together.",
+    "s": 3
+   },
+   {
+    "id": "jeff-beck",
+    "why": "Beck made a full tribute show and album to Les Paul's music.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "Their studio layering of parts builds on the multitrack methods Paul pioneered.",
+    "s": 1
+   },
+   {
+    "id": "queen",
+    "why": "Brian May's stacked guitar orchestrations follow Paul's layered-guitar approach.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "delia-derbyshire",
+    "why": "A sound pioneer who built new music out of tape tricks."
+   },
+   {
+    "id": "george-martin",
+    "why": "Used the studio as an instrument to create sounds no one had heard."
+   }
+  ]
+ },
+ {
+  "id": "dean-martin",
+  "years": "1946–1985",
+  "origin": "Steubenville, Ohio",
+  "genres": [
+   "traditional pop",
+   "crooner"
+  ],
+  "summary": "Dean Martin was a singer, actor and comedian known for a relaxed, easygoing crooning style. He had a string of pop hits in the 1950s and 1960s and was a central member of the Rat Pack.",
+  "know": [
+   "He first became famous in a comedy duo with Jerry Lewis.",
+   "Everybody Loves Somebody knocked the Beatles from number one in 1964.",
+   "He hosted a long-running TV variety show from 1965 to 1974."
+  ],
+  "born": "06-07",
+  "keyAlbums": [
+   [
+    "Sleep Warm",
+    1959
+   ],
+   [
+    "This Time I'm Swingin'!",
+    1960
+   ],
+   [
+    "Everybody Loves Somebody",
+    1964
+   ],
+   [
+    "Dream with Dean",
+    1964
+   ]
+  ],
+  "songs": [
+   "That's Amore",
+   "Everybody Loves Somebody",
+   "Volare",
+   "Ain't That a Kick in the Head",
+   "Memories Are Made of This"
+  ],
+  "influencedBy": [
+   {
+    "id": "bing-crosby",
+    "why": "Martin modeled his relaxed crooning on Crosby.",
+    "s": 3
+   },
+   {
+    "id": "the-mills-brothers",
+    "why": "Martin named Harry Mills of the Mills Brothers as a key vocal influence.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "elvis-presley",
+    "why": "Elvis admired Martin and his ballad singing.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "george-strait",
+    "why": "Smooth, unhurried singing that makes it sound easy."
+   },
+   {
+    "id": "jim-reeves",
+    "why": "A velvet baritone that never pushes."
+   }
+  ]
+ },
+ {
+  "id": "tony-bennett",
+  "years": "1950–2021",
+  "origin": "New York, New York",
+  "genres": [
+   "traditional pop",
+   "vocal jazz"
+  ],
+  "summary": "Tony Bennett was a singer who kept the Great American Songbook alive for more than seven decades. He moved easily between pop hits and jazz, and late in life found new audiences through duets.",
+  "know": [
+   "I Left My Heart in San Francisco became his signature song in 1962.",
+   "He made two duet albums with pianist Bill Evans.",
+   "His MTV Unplugged album won the Grammy for Album of the Year."
+  ],
+  "born": "08-03",
+  "keyAlbums": [
+   [
+    "I Left My Heart in San Francisco",
+    1962
+   ],
+   [
+    "The Tony Bennett/Bill Evans Album",
+    1975
+   ],
+   [
+    "MTV Unplugged",
+    1994
+   ],
+   [
+    "Cheek to Cheek (with Lady Gaga)",
+    2014
+   ]
+  ],
+  "songs": [
+   "I Left My Heart in San Francisco",
+   "Because of You",
+   "Rags to Riches",
+   "The Best Is Yet to Come",
+   "Stranger in Paradise"
+  ],
+  "influencedBy": [
+   {
+    "id": "frank-sinatra",
+    "why": "Sinatra championed Bennett, and his phrasing set the standard Bennett worked within.",
+    "s": 2
+   },
+   {
+    "id": "bing-crosby",
+    "why": "Bennett grew up listening to Crosby and named him an early model.",
+    "s": 2
+   },
+   {
+    "id": "louis-armstrong",
+    "why": "Bennett named Armstrong as a key influence on his jazz feel.",
+    "s": 2
+   },
+   {
+    "id": "billie-holiday",
+    "why": "Bennett credited Holiday for her phrasing and honesty.",
+    "s": 2
+   },
+   {
+    "id": "art-tatum",
+    "why": "Bennett said he learned phrasing by listening to instrumentalists like Tatum.",
+    "s": 2
+   },
+   {
+    "id": "count-basie",
+    "why": "Bennett made two albums with the Basie band in 1958 and 1959.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "lady-gaga",
+    "why": "Gaga made two jazz duet albums with Bennett, Cheek to Cheek and Love for Sale.",
+    "s": 3
+   },
+   {
+    "id": "amy-winehouse",
+    "why": "Winehouse admired Bennett and recorded Body and Soul with him in 2011.",
+    "s": 3
+   },
+   {
+    "id": "k-d-lang",
+    "why": "lang made the duet album A Wonderful World with Bennett.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "willie-nelson",
+    "why": "Took the standards seriously and sang them for decades."
+   },
+   {
+    "id": "ray-charles",
+    "why": "Moved between genres while keeping a deep feel for a song."
+   }
+  ]
+ },
+ {
+  "id": "the-orioles",
+  "years": "1947–1955",
+  "origin": "Baltimore, Maryland",
+  "genres": [
+   "doo-wop",
+   "rhythm and blues",
+   "vocal group"
+  ],
+  "summary": "The Orioles were a vocal group led by Sonny Til whose ballads helped create the doo-wop sound. Their success started a wave of R&B groups named after birds.",
+  "know": [
+   "It's Too Soon to Know in 1948 was one of the first R&B vocal group hits.",
+   "Their 1953 Crying in the Chapel crossed over to the pop charts.",
+   "Sonny Til's emotional lead singing was widely copied."
+  ],
+  "born": null,
+  "keyAlbums": [],
+  "songs": [
+   "It's Too Soon to Know",
+   "Crying in the Chapel",
+   "Tell Me So",
+   "What Are You Doing New Year's Eve",
+   "Forgive and Forget"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-ink-spots",
+    "why": "The Orioles' ballad style grew straight from the Ink Spots' tenor-led sound.",
+    "s": 2
+   },
+   {
+    "id": "the-mills-brothers",
+    "why": "Their smooth harmonies follow the Mills Brothers' pop vocal model.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-moonglows",
+    "why": "The Moonglows were among the many 1950s groups that followed the Orioles' ballad formula.",
+    "s": 1
+   },
+   {
+    "id": "the-platters",
+    "why": "Their slow, lead-tenor ballads extend the path the Orioles cut.",
+    "s": 1
+   },
+   {
+    "id": "frankie-lymon-and-the-teenagers",
+    "why": "The New York street-corner groups of the 1950s built on the Orioles' model.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-beach-boys",
+    "why": "Rich, stacked group harmony around a sweet lead."
+   },
+   {
+    "id": "the-louvin-brothers",
+    "why": "Tight, high harmonies that ache."
+   }
+  ]
+ },
+ {
+  "id": "the-dominoes",
+  "years": "1950–1965",
+  "origin": "New York, New York",
+  "genres": [
+   "rhythm and blues",
+   "doo-wop",
+   "gospel-inflected R&B"
+  ],
+  "summary": "The Dominoes were a vocal group run by Billy Ward whose gospel-charged leads helped push R&B toward rock and roll and soul. They launched the careers of Clyde McPhatter and Jackie Wilson.",
+  "know": [
+   "Billy Ward was a trained musician who coached and managed the group.",
+   "Clyde McPhatter sang lead on their early hits before leaving to form the Drifters.",
+   "Jackie Wilson replaced McPhatter as lead singer."
+  ],
+  "born": null,
+  "keyAlbums": [],
+  "songs": [
+   "Have Mercy Baby",
+   "Do Something for Me",
+   "The Bells",
+   "Stardust",
+   "Deep Purple"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-ink-spots",
+    "why": "Their lead-and-bass vocal group setup came from the Ink Spots' pattern.",
+    "s": 1
+   },
+   {
+    "id": "the-orioles",
+    "why": "The Orioles' R&B ballads were the immediate model for groups like the Dominoes.",
+    "s": 1
+   },
+   {
+    "id": "the-golden-gate-quartet",
+    "why": "Their gospel-style rhythm singing draws on quartets like the Golden Gate Quartet.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "clyde-mcphatter",
+    "why": "McPhatter developed his gospel-style lead singing as the Dominoes' frontman.",
+    "s": 3
+   },
+   {
+    "id": "the-drifters",
+    "why": "McPhatter took the Dominoes' sound with him when he formed the Drifters.",
+    "s": 3
+   },
+   {
+    "id": "jackie-wilson",
+    "why": "Wilson learned his trade as the Dominoes' lead singer before going solo.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-soul-stirrers",
+    "why": "Gospel quartet singing with a charged, star lead."
+   },
+   {
+    "id": "the-staple-singers",
+    "why": "Church-rooted harmony that crossed over to the pop world."
+   }
+  ]
+ },
+ {
+  "id": "the-drifters",
+  "years": "1953–1976",
+  "origin": "New York, New York",
+  "genres": [
+   "rhythm and blues",
+   "doo-wop",
+   "soul"
+  ],
+  "summary": "The Drifters were a vocal group whose changing lineup produced hits for over two decades. Their records with Leiber and Stoller added strings and Latin rhythms to R&B and shaped 1960s pop production.",
+  "know": [
+   "Clyde McPhatter formed the group in 1953.",
+   "There Goes My Baby in 1959 was one of the first R&B hits with strings.",
+   "Ben E. King sang lead on There Goes My Baby and Save the Last Dance for Me."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Save the Last Dance for Me",
+    1962
+   ],
+   [
+    "Under the Boardwalk",
+    1964
+   ]
+  ],
+  "songs": [
+   "Money Honey",
+   "There Goes My Baby",
+   "Save the Last Dance for Me",
+   "Up on the Roof",
+   "Under the Boardwalk"
+  ],
+  "influencedBy": [
+   {
+    "id": "clyde-mcphatter",
+    "why": "McPhatter founded the group and set its gospel-flavored lead style.",
+    "s": 3
+   },
+   {
+    "id": "the-dominoes",
+    "why": "The early Drifters carried over the Dominoes' sound through McPhatter.",
+    "s": 2
+   },
+   {
+    "id": "leiber-and-stoller",
+    "why": "Leiber and Stoller produced and wrote their late 1950s hits.",
+    "s": 3
+   },
+   {
+    "id": "ahmet-ertegun",
+    "why": "Ertegun signed the group to Atlantic and guided their early records.",
+    "s": 3
+   },
+   {
+    "id": "ben-e-king",
+    "why": "King's lead vocals defined their best-known hits.",
+    "s": 3
+   },
+   {
+    "id": "gerry-goffin",
+    "why": "Goffin co-wrote Up on the Roof for them.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "phil-spector",
+    "why": "Spector apprenticed with Leiber and Stoller on Drifters sessions and played guitar on On Broadway.",
+    "s": 3
+   },
+   {
+    "id": "ben-e-king",
+    "why": "King started his career as the Drifters' lead singer.",
+    "s": 3
+   },
+   {
+    "id": "burt-bacharach",
+    "why": "Bacharach worked on Drifters sessions, which helped shape his pop arranging.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-beach-boys",
+    "why": "Summer, the shore and rich harmonies."
+   },
+   {
+    "id": "everly-brothers",
+    "why": "Polished harmony pop with a youthful ache."
+   }
+  ]
+ },
+ {
+  "id": "the-platters",
+  "years": "1953–1970",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "doo-wop",
+   "vocal pop",
+   "rhythm and blues"
+  ],
+  "summary": "The Platters were a vocal group whose dramatic ballads made them one of the most successful groups of the 1950s. Tony Williams's soaring lead carried hits like Only You and The Great Pretender.",
+  "know": [
+   "Manager and songwriter Buck Ram wrote Only You and The Great Pretender.",
+   "They were one of the first Black vocal groups to top the US pop charts regularly.",
+   "Their Smoke Gets in Your Eyes revived a 1930s show tune."
+  ],
+  "born": null,
+  "keyAlbums": [],
+  "songs": [
+   "Only You (And You Alone)",
+   "The Great Pretender",
+   "My Prayer",
+   "Smoke Gets in Your Eyes",
+   "Twilight Time"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-ink-spots",
+    "why": "Their slow, lead-tenor ballads follow the Ink Spots' pattern.",
+    "s": 2
+   },
+   {
+    "id": "the-mills-brothers",
+    "why": "Their polished pop harmony owes a debt to the Mills Brothers.",
+    "s": 1
+   },
+   {
+    "id": "the-orioles",
+    "why": "They came out of the R&B ballad group style the Orioles started.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "roy-orbison",
+    "why": "Operatic ballads that build to a soaring high note."
+   },
+   {
+    "id": "patsy-cline",
+    "why": "Lush, string-backed heartbreak ballads."
+   }
+  ]
+ },
+ {
+  "id": "frankie-lymon-and-the-teenagers",
+  "years": "1954–1957",
+  "origin": "New York, New York",
+  "genres": [
+   "doo-wop",
+   "rock and roll"
+  ],
+  "summary": "Frankie Lymon and the Teenagers were a Harlem vocal group fronted by the 13-year-old Lymon. Why Do Fools Fall in Love made them stars and set the model for young-voiced pop groups.",
+  "know": [
+   "Frankie Lymon was 13 when Why Do Fools Fall in Love was a hit in 1956.",
+   "They were one of the first all-teen groups to become stars.",
+   "They were inducted into the Rock and Roll Hall of Fame in 1993."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Teenagers Featuring Frankie Lymon",
+    1956
+   ]
+  ],
+  "songs": [
+   "Why Do Fools Fall in Love",
+   "I Want You to Be My Girl",
+   "I'm Not a Juvenile Delinquent",
+   "The ABC's of Love",
+   "Goody Goody"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-orioles",
+    "why": "They came out of the New York street-corner harmony scene that grew from groups like the Orioles.",
+    "s": 1
+   },
+   {
+    "id": "the-ink-spots",
+    "why": "Their harmony setup traces back to the Ink Spots' lead-and-backing model.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "smokey-robinson",
+    "why": "Robinson named Lymon as an early influence on his high, sweet lead singing.",
+    "s": 2
+   },
+   {
+    "id": "the-jackson-5",
+    "why": "Michael Jackson's child lead singing is often compared to Lymon, and Michael cited him.",
+    "s": 2
+   },
+   {
+    "id": "the-ronettes",
+    "why": "Ronnie Spector named Lymon as her main early influence.",
+    "s": 3
+   },
+   {
+    "id": "the-supremes",
+    "why": "Diana Ross later had a hit cover of Why Do Fools Fall in Love.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "nsync",
+    "why": "A young pop vocal group built around a bright lead."
+   },
+   {
+    "id": "bts",
+    "why": "A youth-driven group whose energy and charm define its appeal."
+   }
+  ]
+ },
+ {
+  "id": "the-moonglows",
+  "years": "1952–1960",
+  "origin": "Cleveland, Ohio",
+  "genres": [
+   "doo-wop",
+   "rhythm and blues"
+  ],
+  "summary": "The Moonglows were a vocal group led by Harvey Fuqua whose smooth harmonies made them one of the top doo-wop groups. Their later lineup gave Marvin Gaye his start.",
+  "know": [
+   "Disc jockey Alan Freed helped launch their career in Cleveland.",
+   "Sincerely was a major R&B hit on Chess Records in 1954.",
+   "Marvin Gaye sang with Harvey and the New Moonglows in 1959."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Look! It's the Moonglows",
+    1959
+   ]
+  ],
+  "songs": [
+   "Sincerely",
+   "Most of All",
+   "See Saw",
+   "Ten Commandments of Love",
+   "We Go Together"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-orioles",
+    "why": "They followed the R&B ballad group style the Orioles started.",
+    "s": 1
+   },
+   {
+    "id": "the-ink-spots",
+    "why": "Their smooth ballad harmonies follow the Ink Spots' model.",
+    "s": 1
+   },
+   {
+    "id": "leonard-chess",
+    "why": "Chess Records released and promoted their biggest hits.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "marvin-gaye",
+    "why": "Gaye sang in Harvey Fuqua's New Moonglows and Fuqua became his mentor.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "crosby-stills-nash",
+    "why": "Blended voices with soft, smooth harmony."
+   },
+   {
+    "id": "simon-garfunkel",
+    "why": "Close, gentle harmony that carries the song."
+   }
+  ]
+ },
+ {
+  "id": "the-coasters",
+  "years": "1955–1966",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "rhythm and blues",
+   "rock and roll",
+   "novelty"
+  ],
+  "summary": "The Coasters were a vocal group whose comic, story-driven songs were written and produced by Leiber and Stoller. Their records mixed humor, R&B and sharp production, and became rock and roll classics.",
+  "know": [
+   "They grew out of the Los Angeles group the Robins.",
+   "Yakety Yak was a number one pop hit in 1958.",
+   "King Curtis's saxophone breaks were a big part of their sound."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Coasters",
+    1957
+   ]
+  ],
+  "songs": [
+   "Searchin'",
+   "Young Blood",
+   "Yakety Yak",
+   "Charlie Brown",
+   "Poison Ivy"
+  ],
+  "influencedBy": [
+   {
+    "id": "leiber-and-stoller",
+    "why": "Leiber and Stoller wrote and produced almost all their hits.",
+    "s": 3
+   },
+   {
+    "id": "louis-jordan",
+    "why": "Their comic, story-based R&B follows the jump blues humor of Jordan.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-beatles",
+    "why": "The Beatles played Searchin' and Three Cool Cats at their 1962 Decca audition.",
+    "s": 2
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "The Stones covered Poison Ivy early in their career.",
+    "s": 2
+   },
+   {
+    "id": "the-hollies",
+    "why": "The Hollies had an early hit with a cover of Searchin'.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "weird-al-yankovic",
+    "why": "Comic songs built with real musical skill."
+   },
+   {
+    "id": "the-b-52s",
+    "why": "Fun, playful songs with a party spirit and sharp musicianship."
+   }
+  ]
+ },
+ {
+  "id": "clyde-mcphatter",
+  "years": "1950–1972",
+  "origin": "New York, New York",
+  "genres": [
+   "rhythm and blues",
+   "doo-wop",
+   "soul"
+  ],
+  "summary": "Clyde McPhatter was a singer whose gospel-trained tenor brought church feeling into R&B. He led the Dominoes, founded the Drifters, and had solo hits, helping create the soul style.",
+  "know": [
+   "He sang lead in Billy Ward's Dominoes from 1950 to 1953.",
+   "He formed the original Drifters in 1953.",
+   "He was the first artist inducted twice into the Rock and Roll Hall of Fame, solo and with the Drifters."
+  ],
+  "born": "11-15",
+  "keyAlbums": [
+   [
+    "Clyde McPhatter & the Drifters",
+    1956
+   ],
+   [
+    "Love Ballads",
+    1958
+   ]
+  ],
+  "songs": [
+   "Money Honey",
+   "Treasure of Love",
+   "Without Love (There Is Nothing)",
+   "A Lover's Question",
+   "Lover Please"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-dominoes",
+    "why": "He learned his craft as the Dominoes' lead singer under Billy Ward.",
+    "s": 3
+   },
+   {
+    "id": "the-ink-spots",
+    "why": "His high, emotional tenor followed the lead style the Ink Spots made popular.",
+    "s": 1
+   },
+   {
+    "id": "ahmet-ertegun",
+    "why": "Ertegun signed him to Atlantic and built the Drifters around him.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "jackie-wilson",
+    "why": "Wilson admired McPhatter and replaced him as the Dominoes' lead.",
+    "s": 2
+   },
+   {
+    "id": "smokey-robinson",
+    "why": "Robinson named McPhatter as an early vocal influence.",
+    "s": 2
+   },
+   {
+    "id": "the-drifters",
+    "why": "He founded the Drifters and set their sound.",
+    "s": 3
+   },
+   {
+    "id": "ben-e-king",
+    "why": "King followed McPhatter's gospel-style lead as the later Drifters' singer.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "roy-orbison",
+    "why": "A soaring, high tenor full of feeling."
+   },
+   {
+    "id": "jeff-buckley",
+    "why": "A tenor voice with a church-like intensity."
+   }
+  ]
+ },
+ {
+  "id": "jackie-wilson",
+  "years": "1953–1975",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "rhythm and blues",
+   "soul",
+   "rock and roll"
+  ],
+  "summary": "Jackie Wilson was a singer known for his wide vocal range and athletic stage shows. His hits bridged R&B, rock and roll and soul, and his early records helped fund the start of Motown.",
+  "know": [
+   "He replaced Clyde McPhatter as lead singer of the Dominoes.",
+   "Berry Gordy co-wrote Reet Petite and Lonely Teardrops for him.",
+   "He was nicknamed Mr. Excitement for his live shows."
+  ],
+  "born": "06-09",
+  "keyAlbums": [
+   [
+    "He's So Fine",
+    1958
+   ],
+   [
+    "Lonely Teardrops",
+    1959
+   ],
+   [
+    "Higher and Higher",
+    1967
+   ]
+  ],
+  "songs": [
+   "Reet Petite",
+   "Lonely Teardrops",
+   "To Be Loved",
+   "That's Why (I Love You So)",
+   "(Your Love Keeps Lifting Me) Higher and Higher"
+  ],
+  "influencedBy": [
+   {
+    "id": "clyde-mcphatter",
+    "why": "Wilson admired McPhatter's gospel-style tenor and followed him into the Dominoes.",
+    "s": 2
+   },
+   {
+    "id": "the-dominoes",
+    "why": "He learned stage craft as the Dominoes' lead singer.",
+    "s": 3
+   },
+   {
+    "id": "al-jolson",
+    "why": "Wilson named Jolson as a hero and recorded a full tribute album to him.",
+    "s": 3
+   },
+   {
+    "id": "berry-gordy",
+    "why": "Gordy co-wrote his first hits and shaped his early sound.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "michael-jackson",
+    "why": "Jackson named Wilson as a major influence on his singing and dancing.",
+    "s": 2
+   },
+   {
+    "id": "elvis-presley",
+    "why": "Elvis admired Wilson and can be heard praising him on the Million Dollar Quartet tapes.",
+    "s": 3
+   },
+   {
+    "id": "berry-gordy",
+    "why": "The money Gordy earned writing for Wilson helped him start Motown.",
+    "s": 2
+   },
+   {
+    "id": "van-morrison",
+    "why": "Morrison wrote Jackie Wilson Said as a tribute.",
+    "s": 3
+   },
+   {
+    "id": "the-commodores",
+    "why": "Their song Nightshift pays tribute to Wilson.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "little-richard",
+    "why": "High-energy showmanship with a huge voice."
+   },
+   {
+    "id": "queen",
+    "why": "Big vocal range and theatrical live shows."
+   }
+  ]
+ },
+ {
+  "id": "little-willie-john",
+  "years": "1955–1966",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "rhythm and blues",
+   "soul"
+  ],
+  "summary": "Little Willie John was a singer whose raw, emotional R&B helped point the way to soul music. He first recorded Fever and Need Your Love So Bad, both later covered widely.",
+  "know": [
+   "His 1956 Fever was a number one R&B hit before Peggy Lee covered it.",
+   "He recorded for King Records, the same label as James Brown.",
+   "He was inducted into the Rock and Roll Hall of Fame in 1996."
+  ],
+  "born": "11-15",
+  "keyAlbums": [
+   [
+    "Fever",
+    1956
+   ],
+   [
+    "Talk to Me",
+    1958
+   ]
+  ],
+  "songs": [
+   "All Around the World",
+   "Need Your Love So Bad",
+   "Fever",
+   "Talk to Me, Talk to Me",
+   "Sleep"
+  ],
+  "influencedBy": [
+   {
+    "id": "clyde-mcphatter",
+    "why": "His emotional, gospel-tinged leads follow the path McPhatter opened in R&B.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "james-brown",
+    "why": "Brown named him as an influence and recorded a tribute album, Thinking About Little Willie John and a Few Nice Things.",
+    "s": 3
+   },
+   {
+    "id": "peggy-lee",
+    "why": "Lee covered his Fever and it became her signature song.",
+    "s": 3
+   },
+   {
+    "id": "fleetwood-mac",
+    "why": "Peter Green's Fleetwood Mac covered Need Your Love So Bad.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "patsy-cline",
+    "why": "A big, raw, emotional voice from the 1950s."
+   },
+   {
+    "id": "roy-orbison",
+    "why": "Ballads sung with full, open-hearted feeling."
+   }
+  ]
+ },
+ {
+  "id": "hank-ballard-and-the-midnighters",
+  "years": "1953–1972",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "rhythm and blues",
+   "doo-wop",
+   "rock and roll"
+  ],
+  "summary": "Hank Ballard and the Midnighters were a vocal group whose rough, danceable R&B helped shape early rock and roll. Ballard wrote and first recorded The Twist.",
+  "know": [
+   "The group began as the Royals before taking the name the Midnighters.",
+   "Ballard wrote The Twist, which Chubby Checker turned into a number one hit.",
+   "Their mid 1950s hits drew many answer records from other artists."
+  ],
+  "born": null,
+  "keyAlbums": [],
+  "songs": [
+   "Work with Me, Annie",
+   "Teardrops on Your Letter",
+   "The Twist",
+   "Finger Poppin' Time",
+   "Let's Go, Let's Go, Let's Go"
+  ],
+  "influencedBy": [
+   {
+    "id": "gene-autry",
+    "why": "Ballard named Gene Autry as an early idol and vocal influence.",
+    "s": 3
+   },
+   {
+    "id": "the-dominoes",
+    "why": "Their gospel-tinged group R&B came out of the style the Dominoes popularized.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "etta-james",
+    "why": "Her first hit was an answer record to the Midnighters' Work with Me, Annie.",
+    "s": 3
+   },
+   {
+    "id": "james-brown",
+    "why": "Brown, a King Records labelmate, admired Ballard and later had him in his revue.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-b-52s",
+    "why": "Dance-first songs that start a party."
+   },
+   {
+    "id": "madness",
+    "why": "Energetic, danceable music with a sense of fun."
+   }
+  ]
+ },
+ {
+  "id": "ruth-brown",
+  "years": "1949–2006",
+  "origin": "Portsmouth, Virginia",
+  "genres": [
+   "rhythm and blues",
+   "jump blues",
+   "vocal jazz"
+  ],
+  "summary": "Ruth Brown was a singer whose run of 1950s hits made Atlantic Records a major label. Her strong, playful voice helped define early R&B, and she later fought for musicians' royalties.",
+  "know": [
+   "Atlantic was often called the house that Ruth built because of her hits.",
+   "She won a Tony Award for the Broadway show Black and Blue.",
+   "Her campaign for back royalties helped lead to the Rhythm and Blues Foundation."
+  ],
+  "born": "01-12",
+  "keyAlbums": [
+   [
+    "Blues on Broadway",
+    1989
+   ]
+  ],
+  "songs": [
+   "Teardrops from My Eyes",
+   "5-10-15 Hours",
+   "(Mama) He Treats Your Daughter Mean",
+   "Lucky Lips",
+   "So Long"
+  ],
+  "influencedBy": [
+   {
+    "id": "billie-holiday",
+    "why": "Brown named Holiday among the singers she admired starting out.",
+    "s": 1
+   },
+   {
+    "id": "dinah-washington",
+    "why": "Her blend of jazz and blues singing is close to Washington's style.",
+    "s": 1
+   },
+   {
+    "id": "ahmet-ertegun",
+    "why": "Ertegun signed her to Atlantic and built the label's early R&B around her.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "etta-james",
+    "why": "James followed Brown's model of the powerful female R&B star in the 1950s.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "kitty-wells",
+    "why": "A woman whose hits defined a genre's sound in the 1950s."
+   },
+   {
+    "id": "celia-cruz",
+    "why": "A powerhouse singer who became the queen of her genre."
+   }
+  ]
+ },
+ {
+  "id": "johnny-otis",
+  "years": "1945–2006",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "rhythm and blues",
+   "jump blues",
+   "big band"
+  ],
+  "summary": "Johnny Otis was a bandleader, drummer, producer and talent scout who helped build R&B on the West Coast. His revue launched or boosted many careers, and he produced and played on key early records.",
+  "know": [
+   "He played drums on and helped produce Big Mama Thornton's Hound Dog in 1952.",
+   "He discovered Etta James and produced her first hit.",
+   "Willie and the Hand Jive was a top ten pop hit in 1958."
+  ],
+  "born": "12-28",
+  "keyAlbums": [
+   [
+    "Cold Shot!",
+    1968
+   ]
+  ],
+  "songs": [
+   "Harlem Nocturne",
+   "Double Crossing Blues",
+   "Hound Dog (Big Mama Thornton)",
+   "Willie and the Hand Jive"
+  ],
+  "influencedBy": [
+   {
+    "id": "count-basie",
+    "why": "Otis started as a swing drummer, and his early band was modeled on Basie's.",
+    "s": 2
+   },
+   {
+    "id": "louis-jordan",
+    "why": "His jump blues band style follows Jordan's small group R&B.",
+    "s": 1
+   },
+   {
+    "id": "lionel-hampton",
+    "why": "His vibraphone playing and swing-to-R&B path track Hampton's.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "etta-james",
+    "why": "Otis discovered James and produced her first record.",
+    "s": 3
+   },
+   {
+    "id": "big-mama-thornton",
+    "why": "Otis led the band and helped produce her Hound Dog session.",
+    "s": 3
+   },
+   {
+    "id": "leiber-and-stoller",
+    "why": "The young songwriters got early work writing for Otis's artists, including Hound Dog.",
+    "s": 2
+   },
+   {
+    "id": "jackie-wilson",
+    "why": "Otis said he spotted Wilson at a Detroit talent show early in his career.",
+    "s": 2
+   },
+   {
+    "id": "frank-zappa",
+    "why": "Zappa was a longtime fan of Otis and his R&B shows.",
+    "s": 2
+   },
+   {
+    "id": "eric-clapton",
+    "why": "Clapton covered Willie and the Hand Jive in 1974.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "coxsone-dodd",
+    "why": "A producer and bandleader who built a scene around a house band."
+   },
+   {
+    "id": "sam-phillips",
+    "why": "A talent spotter who caught key artists at the start."
+   }
+  ]
+ },
+ {
+  "id": "ike-turner",
+  "years": "1951–2007",
+  "origin": "Clarksdale, Mississippi",
+  "genres": [
+   "rhythm and blues",
+   "rock and roll",
+   "soul"
+  ],
+  "summary": "Ike Turner was a pianist, guitarist, bandleader and talent scout who played a key part in the birth of rock and roll. His band recorded Rocket 88, and he scouted and played on early records by blues stars.",
+  "know": [
+   "His Kings of Rhythm recorded Rocket 88 at Sam Phillips's studio in 1951, credited to Jackie Brenston.",
+   "He worked as a talent scout in the early 1950s and played on sessions for B.B. King and Howlin' Wolf.",
+   "He won a Grammy for the 2006 album Risin' with the Blues."
+  ],
+  "born": "11-05",
+  "keyAlbums": [
+   [
+    "River Deep – Mountain High (Ike & Tina Turner)",
+    1966
+   ],
+   [
+    "Workin' Together (Ike & Tina Turner)",
+    1970
+   ],
+   [
+    "Risin' with the Blues",
+    2006
+   ]
+  ],
+  "songs": [
+   "Rocket 88",
+   "A Fool in Love",
+   "Proud Mary",
+   "Nutbush City Limits",
+   "I'm Blue (The Gong-Gong Song)"
+  ],
+  "influencedBy": [
+   {
+    "id": "louis-jordan",
+    "why": "His jump blues band sound draws on Jordan's small group R&B.",
+    "s": 1
+   },
+   {
+    "id": "sam-phillips",
+    "why": "Phillips recorded Rocket 88 and early sessions Turner brought in.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "little-richard",
+    "why": "Little Richard said he took the piano intro of Good Golly, Miss Molly from Rocket 88.",
+    "s": 3
+   },
+   {
+    "id": "howlin-wolf",
+    "why": "Turner scouted and played piano on some of Wolf's earliest records.",
+    "s": 3
+   },
+   {
+    "id": "bb-king",
+    "why": "Turner played piano on early B.B. King sessions while scouting for Modern Records.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bo-diddley",
+    "why": "A driving, rhythm-first approach that helped invent rock and roll."
+   },
+   {
+    "id": "chuck-berry",
+    "why": "Early rock and roll built from blues and boogie."
+   }
+  ]
+ },
+ {
+  "id": "arsenio-rodriguez",
+  "years": "1937–1970",
+  "origin": "Havana, Cuba",
+  "genres": [
+   "son montuno",
+   "son cubano",
+   "conjunto"
+  ],
+  "summary": "Arsenio Rodríguez was a tres player, bandleader and composer who expanded the Cuban son. His conjunto, with trumpets, piano and conga, became the model for the salsa bands of New York.",
+  "know": [
+   "He added piano, conga and a section of trumpets to the son group.",
+   "He developed the son montuno with its longer, driving vamp sections.",
+   "He moved to New York in the early 1950s and kept recording there."
+  ],
+  "born": "08-30",
+  "keyAlbums": [
+   [
+    "Quindembo",
+    1963
+   ]
+  ],
+  "songs": [
+   "Bruca Maniguá",
+   "Dame un cachito pa' huelé",
+   "Fuego en el 23",
+   "La vida es un sueño",
+   "El reloj de Pastora"
+  ],
+  "influencedBy": [],
+  "influenced": [
+   {
+    "id": "eddie-palmieri",
+    "why": "Palmieri named Arsenio's conjunto as a model for his band's sound.",
+    "s": 2
+   },
+   {
+    "id": "fania-all-stars",
+    "why": "The Fania sound used the trumpet-and-piano conjunto layout Arsenio created.",
+    "s": 1
+   },
+   {
+    "id": "buena-vista-social-club",
+    "why": "Their repertoire and son montuno feel come from the tradition Arsenio shaped.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "muddy-waters",
+    "why": "Took a rural folk form and gave it a bigger, harder band sound."
+   },
+   {
+    "id": "james-brown",
+    "why": "Built music on a long, driving groove."
+   }
+  ]
+ },
+ {
+  "id": "benny-more",
+  "years": "1945–1963",
+  "origin": "Havana, Cuba",
+  "genres": [
+   "son",
+   "mambo",
+   "bolero"
+  ],
+  "summary": "Benny Moré was a singer and bandleader called the Bárbaro del Ritmo, widely seen as Cuba's greatest popular singer. He moved easily between son, mambo and bolero with his big band.",
+  "know": [
+   "He sang with Pérez Prado's orchestra in Mexico in the late 1940s.",
+   "He led his own big band, the Banda Gigante, in the 1950s.",
+   "He was largely self-taught and did not read music."
+  ],
+  "born": "08-24",
+  "keyAlbums": [],
+  "songs": [
+   "Bonito y sabroso",
+   "Cienfuegos",
+   "Santa Isabel de las Lajas",
+   "Cómo fue",
+   "Qué bueno baila usted"
+  ],
+  "influencedBy": [
+   {
+    "id": "perez-prado",
+    "why": "Moré sang with Prado's orchestra in Mexico and recorded mambo hits with him.",
+    "s": 3
+   },
+   {
+    "id": "arsenio-rodriguez",
+    "why": "His son singing came out of the son conjunto world Arsenio helped modernize.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "buena-vista-social-club",
+    "why": "Ibrahim Ferrer sang in Moré's circle, and the project revived the 1950s Cuban style Moré led.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "frank-sinatra",
+    "why": "A master big-band singer with perfect phrasing."
+   },
+   {
+    "id": "sam-cooke",
+    "why": "A voice so smooth it made every style sound natural."
+   }
+  ]
+ },
+ {
+  "id": "cachao",
+  "years": "1937–2008",
+  "origin": "Havana, Cuba",
+  "genres": [
+   "mambo",
+   "danzón",
+   "descarga"
+  ],
+  "summary": "Israel López, known as Cachao, was a bassist and composer who helped create the mambo. His 1950s descarga sessions brought jam-style improvisation into Cuban dance music.",
+  "know": [
+   "With his brother Orestes López he wrote the 1938 danzón Mambo, an early step toward the style.",
+   "His late 1950s descarga records were informal jam sessions in the studio.",
+   "He had a career revival in the 1990s with the Master Sessions albums."
+  ],
+  "born": "09-14",
+  "keyAlbums": [
+   [
+    "Cuban Jam Sessions in Miniature (Descargas)",
+    1957
+   ],
+   [
+    "Master Sessions Volume 1",
+    1994
+   ]
+  ],
+  "songs": [
+   "Mambo",
+   "Chanchullo",
+   "Descarga cubana"
+  ],
+  "influencedBy": [
+   {
+    "id": "arsenio-rodriguez",
+    "why": "Cachao's mambo rhythms were part of the same push to modernize Cuban son and danzón.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "perez-prado",
+    "why": "Prado's big band mambo built on the rhythmic change the López brothers made in the danzón.",
+    "s": 2
+   },
+   {
+    "id": "tito-puente",
+    "why": "Puente's Oye Como Va drew its riff from Cachao's Chanchullo.",
+    "s": 2
+   },
+   {
+    "id": "fania-all-stars",
+    "why": "The Fania jam-session format follows the descarga Cachao made famous.",
+    "s": 2
+   },
+   {
+    "id": "gloria-estefan",
+    "why": "Cachao played bass on Estefan's album Mi Tierra.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "charles-mingus",
+    "why": "A bassist and composer who led from the bottom of the band."
+   },
+   {
+    "id": "funk-brothers",
+    "why": "Session players whose bass lines set the groove for a whole genre."
+   }
+  ]
+ },
+ {
+  "id": "chano-pozo",
+  "years": "1940–1948",
+  "origin": "Havana, Cuba",
+  "genres": [
+   "Afro-Cuban jazz",
+   "rumba",
+   "conga"
+  ],
+  "summary": "Chano Pozo was a conga player, dancer and composer who joined Dizzy Gillespie's big band in 1947. Their work together started Afro-Cuban jazz.",
+  "know": [
+   "He was introduced to Dizzy Gillespie by Mario Bauzá.",
+   "He co-wrote Manteca with Gillespie.",
+   "His 1947 Carnegie Hall appearance with Gillespie is a landmark of Latin jazz."
+  ],
+  "born": "01-07",
+  "keyAlbums": [],
+  "songs": [
+   "Manteca",
+   "Tin Tin Deo",
+   "Cubana Be, Cubana Bop",
+   "Blen Blen Blen"
+  ],
+  "influencedBy": [
+   {
+    "id": "machito",
+    "why": "Pozo worked in the New York Latin scene around Machito's band, where Cuban rhythm and big band jazz first met.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "dizzy-gillespie",
+    "why": "Pozo joined Gillespie's band and together they created the core of Afro-Cuban jazz.",
+    "s": 3
+   },
+   {
+    "id": "tito-puente",
+    "why": "Puente built on the conga-and-jazz mix Pozo and Gillespie introduced.",
+    "s": 1
+   },
+   {
+    "id": "art-blakey",
+    "why": "Blakey's interest in Afro-Cuban drumming follows the path Pozo opened in jazz.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "tony-allen",
+    "why": "A drummer whose rhythms changed what a genre could be."
+   },
+   {
+    "id": "bo-diddley",
+    "why": "A beat so strong it became a signature for others."
+   }
+  ]
+ },
+ {
+  "id": "trio-los-panchos",
+  "years": "1944–1981",
+  "origin": "New York, New York",
+  "genres": [
+   "bolero",
+   "trío romántico",
+   "Latin pop"
+  ],
+  "summary": "Trío Los Panchos were a guitar and vocal trio formed in New York by two Mexicans and a Puerto Rican. Their romantic boleros, with close harmony and the small requinto guitar, became popular across Latin America.",
+  "know": [
+   "They formed in New York City in 1944.",
+   "Alfredo Gil played the requinto, a small high-pitched guitar, which became their signature.",
+   "They recorded the album Amor with Eydie Gormé in 1964."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Amor (with Eydie Gormé)",
+    1964
+   ]
+  ],
+  "songs": [
+   "Sin ti",
+   "Rayito de luna",
+   "Sabor a mí",
+   "Bésame mucho",
+   "Perfidia"
+  ],
+  "influencedBy": [
+   {
+    "id": "agustin-lara",
+    "why": "They recorded boleros by Lara and worked in the romantic song style he made popular.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "luis-miguel",
+    "why": "His bolero revival albums return to the romantic trio-era repertoire Los Panchos popularized.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "everly-brothers",
+    "why": "Close harmony love songs with guitar at the center."
+   },
+   {
+    "id": "simon-garfunkel",
+    "why": "Gentle vocal harmony over acoustic guitar."
+   }
+  ]
+ },
+ {
+  "id": "agustin-lara",
+  "years": "1928–1970",
+  "origin": "Mexico City, Mexico",
+  "genres": [
+   "bolero",
+   "canción mexicana"
+  ],
+  "summary": "Agustín Lara was a Mexican composer, pianist and singer who wrote hundreds of boleros and romantic songs. Songs like Granada and Solamente una vez became standards around the world.",
+  "know": [
+   "He had a long-running radio show on XEW in Mexico City.",
+   "Granada has been recorded by opera singers and pop crooners alike.",
+   "Solamente una vez became the English-language hit You Belong to My Heart."
+  ],
+  "born": "10-30",
+  "keyAlbums": [],
+  "songs": [
+   "Granada",
+   "Solamente una vez",
+   "María bonita",
+   "Noche de ronda",
+   "Veracruz"
+  ],
+  "influencedBy": [],
+  "influenced": [
+   {
+    "id": "trio-los-panchos",
+    "why": "Los Panchos recorded Lara's boleros as part of their core repertoire.",
+    "s": 2
+   },
+   {
+    "id": "luis-miguel",
+    "why": "Luis Miguel's bolero albums brought Lara-era songs to new audiences.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "cole-porter",
+    "why": "An urbane songwriter whose love songs became standards."
+   },
+   {
+    "id": "irving-berlin",
+    "why": "A songwriter whose melodies became part of a nation's soundtrack."
+   }
+  ]
+ },
+ {
+  "id": "carmen-miranda",
+  "years": "1929–1955",
+  "origin": "Rio de Janeiro, Brazil",
+  "genres": [
+   "samba",
+   "marchinha",
+   "Latin pop"
+  ],
+  "summary": "Carmen Miranda was a Brazilian singer and actress who became a Hollywood star in the 1940s. She was the first major Brazilian star abroad, and her image became one of the most recognized of the era.",
+  "know": [
+   "She was a top recording star in Brazil in the 1930s before going to the US.",
+   "Her fruit-covered hats became her signature look.",
+   "Brazilian Tropicália artists later revisited her image and music."
+  ],
+  "born": "02-09",
+  "keyAlbums": [],
+  "songs": [
+   "Taí (Pra Você Gostar de Mim)",
+   "O Que É Que a Baiana Tem?",
+   "Mamãe Eu Quero",
+   "South American Way",
+   "Chica Chica Boom Chic"
+  ],
+  "influencedBy": [],
+  "influenced": [
+   {
+    "id": "caetano-veloso",
+    "why": "Veloso and the Tropicália movement reclaimed Miranda's image and wrote about her place in Brazilian culture.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "lady-gaga",
+    "why": "A singer whose costumes and persona are part of the art."
+   },
+   {
+    "id": "cab-calloway",
+    "why": "A larger-than-life entertainer with a signature style."
+   }
+  ]
+ },
+ {
+  "id": "pixinguinha",
+  "years": "1911–1973",
+  "origin": "Rio de Janeiro, Brazil",
+  "genres": [
+   "choro",
+   "samba",
+   "maxixe"
+  ],
+  "summary": "Pixinguinha was a Brazilian flutist, saxophonist, composer and arranger and one of the central figures of choro. His compositions and arrangements helped shape early Brazilian popular music.",
+  "know": [
+   "His band Os Oito Batutas toured Paris in 1922.",
+   "He wrote Carinhoso, one of the best loved Brazilian songs.",
+   "Brazil's National Choro Day is held on his birthday."
+  ],
+  "born": "04-23",
+  "keyAlbums": [],
+  "songs": [
+   "Carinhoso",
+   "Lamentos",
+   "Um a Zero",
+   "Rosa",
+   "Naquele Tempo"
+  ],
+  "influencedBy": [],
+  "influenced": [
+   {
+    "id": "antonio-carlos-jobim",
+    "why": "Jobim drew on choro's harmony and melody, the tradition Pixinguinha led.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "scott-joplin",
+    "why": "A composer who gave a young national popular music its classic form."
+   },
+   {
+    "id": "jelly-roll-morton",
+    "why": "An early composer-arranger who shaped a new style on record."
+   }
+  ]
+ }
+]

@@ -1,0 +1,128 @@
+jim-croce|Jim Croce|1970s|folk|artist
+jackson-browne|Jackson Browne|1970s|rock|artist
+warren-zevon|Warren Zevon|1970s|rock|artist
+ween|Ween|1990s|rock|artist
+phish|Phish|1990s|rock|artist
+muse|Muse|2000s|rock|artist
+jethro-tull|Jethro Tull|1960s|rock|artist
+emerson-lake-and-palmer|Emerson, Lake & Palmer|1970s|rock|artist
+camel|Camel|1970s|rock|artist
+gentle-giant|Gentle Giant|1970s|rock|artist
+van-der-graaf-generator|Van der Graaf Generator|1970s|rock|artist
+soft-machine|Soft Machine|1960s|rock|artist
+caravan|Caravan|1970s|rock|artist
+procol-harum|Procol Harum|1960s|rock|artist
+the-moody-blues|The Moody Blues|1960s|rock|artist
+supertramp|Supertramp|1970s|rock|artist
+kansas|Kansas|1970s|rock|artist
+the-alan-parsons-project|The Alan Parsons Project|1970s|rock|producer
+mike-oldfield|Mike Oldfield|1970s|rock|artist
+peter-gabriel|Peter Gabriel|1970s|rock|artist
+marillion|Marillion|1980s|rock|artist
+porcupine-tree|Porcupine Tree|1990s|rock|artist
+hawkwind|Hawkwind|1970s|rock|artist
+john-mayall-and-the-bluesbreakers|John Mayall & the Bluesbreakers|1960s|rock|artist
+alexis-korner|Alexis Korner|1960s|blues|artist
+ten-years-after|Ten Years After|1960s|rock|artist
+savoy-brown|Savoy Brown|1960s|rock|artist
+rory-gallagher|Rory Gallagher|1970s|rock|artist
+free|Free|1960s|rock|artist
+jeff-beck|Jeff Beck|1960s|rock|artist
+paul-butterfield-blues-band|Paul Butterfield Blues Band|1960s|blues|artist
+canned-heat|Canned Heat|1960s|rock|artist
+johnny-winter|Johnny Winter|1960s|rock|artist
+13th-floor-elevators|13th Floor Elevators|1960s|rock|artist
+love|Love|1960s|rock|artist
+buffalo-springfield|Buffalo Springfield|1960s|rock|artist
+quicksilver-messenger-service|Quicksilver Messenger Service|1960s|rock|artist
+iron-butterfly|Iron Butterfly|1960s|rock|artist
+vanilla-fudge|Vanilla Fudge|1960s|rock|artist
+syd-barrett|Syd Barrett|1960s|rock|artist
+the-pretty-things|The Pretty Things|1960s|rock|artist
+traffic|Traffic|1960s|rock|artist
+small-faces|Small Faces|1960s|rock|artist
+faces|Faces|1970s|rock|artist
+the-hollies|The Hollies|1960s|rock|artist
+the-troggs|The Troggs|1960s|rock|artist
+the-sonics|The Sonics|1960s|rock|artist
+steppenwolf|Steppenwolf|1960s|rock|artist
+blue-cheer|Blue Cheer|1960s|rock|artist
+van-morrison|Van Morrison|1960s|rock|artist
+the-lovin-spoonful|The Lovin' Spoonful|1960s|rock|artist
+the-young-rascals|The Young Rascals|1960s|rock|artist
+chicago|Chicago|1960s|rock|artist
+joe-cocker|Joe Cocker|1960s|rock|artist
+leon-russell|Leon Russell|1970s|rock|artist
+john-lennon|John Lennon|1970s|rock|artist
+paul-mccartney-and-wings|Paul McCartney & Wings|1970s|rock|artist
+george-harrison|George Harrison|1970s|rock|artist
+rod-stewart|Rod Stewart|1970s|rock|artist
+lou-reed|Lou Reed|1970s|rock|artist
+the-guess-who|The Guess Who|1960s|rock|artist
+zz-top|ZZ Top|1970s|rock|artist
+the-marshall-tucker-band|The Marshall Tucker Band|1970s|rock|artist
+38-special|.38 Special|1980s|rock|artist
+molly-hatchet|Molly Hatchet|1970s|rock|artist
+little-feat|Little Feat|1970s|rock|artist
+the-doobie-brothers|The Doobie Brothers|1970s|rock|artist
+steve-miller-band|Steve Miller Band|1970s|rock|artist
+thin-lizzy|Thin Lizzy|1970s|rock|artist
+bad-company|Bad Company|1970s|rock|artist
+humble-pie|Humble Pie|1970s|rock|artist
+grand-funk-railroad|Grand Funk Railroad|1970s|rock|artist
+blue-oyster-cult|Blue Öyster Cult|1970s|rock|artist
+mountain|Mountain|1970s|rock|artist
+alice-cooper|Alice Cooper|1970s|rock|artist
+boston|Boston|1970s|rock|artist
+heart|Heart|1970s|rock|artist
+the-runaways|The Runaways|1970s|rock|artist
+joan-jett-and-the-blackhearts|Joan Jett & the Blackhearts|1980s|rock|artist
+def-leppard|Def Leppard|1980s|rock|artist
+bon-jovi|Bon Jovi|1980s|rock|artist
+mott-the-hoople|Mott the Hoople|1970s|rock|artist
+slade|Slade|1970s|rock|artist
+sweet|Sweet|1970s|rock|artist
+suzi-quatro|Suzi Quatro|1970s|rock|artist
+sparks|Sparks|1970s|rock|artist
+journey|Journey|1970s|rock|artist
+foreigner|Foreigner|1970s|rock|artist
+styx|Styx|1970s|rock|artist
+reo-speedwagon|REO Speedwagon|1980s|rock|artist
+toto|Toto|1970s|rock|artist
+peter-frampton|Peter Frampton|1970s|rock|artist
+dire-straits|Dire Straits|1970s|rock|artist
+the-cars|The Cars|1970s|rock|artist
+the-pretenders|The Pretenders|1980s|rock|artist
+pat-benatar|Pat Benatar|1980s|rock|artist
+inxs|INXS|1980s|rock|artist
+midnight-oil|Midnight Oil|1980s|rock|artist
+john-mellencamp|John Mellencamp|1980s|rock|artist
+bob-seger|Bob Seger|1970s|rock|artist
+bryan-adams|Bryan Adams|1980s|rock|artist
+huey-lewis-and-the-news|Huey Lewis and the News|1980s|rock|artist
+the-tragically-hip|The Tragically Hip|1980s|rock|artist
+todd-rundgren|Todd Rundgren|1970s|rock|artist
+badfinger|Badfinger|1970s|rock|artist
+raspberries|Raspberries|1970s|rock|artist
+cheap-trick|Cheap Trick|1970s|rock|artist
+the-knack|The Knack|1970s|rock|artist
+nick-lowe|Nick Lowe|1970s|rock|artist
+teenage-fanclub|Teenage Fanclub|1990s|alt|artist
+fountains-of-wayne|Fountains of Wayne|1990s|rock|artist
+dave-matthews-band|Dave Matthews Band|1990s|rock|artist
+widespread-panic|Widespread Panic|1990s|rock|artist
+blues-traveler|Blues Traveler|1990s|rock|artist
+govt-mule|Gov't Mule|1990s|rock|artist
+lenny-kravitz|Lenny Kravitz|1990s|rock|artist
+sheryl-crow|Sheryl Crow|1990s|rock|artist
+counting-crows|Counting Crows|1990s|rock|artist
+the-wallflowers|The Wallflowers|1990s|rock|artist
+coldplay|Coldplay|2000s|rock|artist
+travis|Travis|1990s|rock|artist
+manic-street-preachers|Manic Street Preachers|1990s|alt|artist
+the-verve|The Verve|1990s|alt|artist
+placebo|Placebo|1990s|alt|artist
+supergrass|Supergrass|1990s|alt|artist
+suede|Suede|1990s|alt|artist
+stereophonics|Stereophonics|1990s|rock|artist
+kasabian|Kasabian|2000s|rock|artist

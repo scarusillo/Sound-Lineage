@@ -1,0 +1,4550 @@
+[
+ {
+  "id": "machito",
+  "years": "1940–1984",
+  "origin": "New York, New York",
+  "genres": [
+   "Afro-Cuban jazz",
+   "mambo",
+   "big band"
+  ],
+  "summary": "Cuban-born singer and bandleader whose Afro-Cubans, built with music director Mario Bauzá, fused Cuban rhythm with swing-band horns. The band laid the groundwork for Latin jazz and later salsa.",
+  "know": [
+   "The Afro-Cubans formed in New York in 1940 with his brother-in-law Mario Bauzá as music director.",
+   "Charlie Parker and Dizzy Gillespie both recorded with the band in the late 1940s.",
+   "He won a Grammy in 1983 for Machito and His Salsa Big Band."
+  ],
+  "born": "02-16",
+  "keyAlbums": [
+   [
+    "Kenya",
+    1958
+   ],
+   [
+    "Afro-Cuban Jazz Moods (with Dizzy Gillespie)",
+    1975
+   ],
+   [
+    "Machito and His Salsa Big Band",
+    1982
+   ]
+  ],
+  "songs": [
+   "Tanga",
+   "Mambo Inn",
+   "Babarabatiri"
+  ],
+  "influencedBy": [
+   {
+    "id": "duke-ellington",
+    "why": "Bauzá shaped the band's horn charts on the voicings of the big swing orchestras, Ellington's above all.",
+    "s": 2
+   },
+   {
+    "id": "chick-webb",
+    "why": "Bauzá came to the Afro-Cubans straight from Chick Webb's band and carried its drive into the new group.",
+    "s": 2
+   },
+   {
+    "id": "cab-calloway",
+    "why": "Bauzá's stint in Calloway's orchestra gave the Afro-Cubans their model of a polished, show-ready big band.",
+    "s": 2
+   },
+   {
+    "id": "arsenio-rodriguez",
+    "why": "The band's montunos and conjunto rhythms draw on the Cuban son that Arsenio was expanding in the same years.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "tito-puente",
+    "why": "Puente played in Machito's band early on and built his own orchestra on the same Afro-Cuban big-band model.",
+    "s": 3
+   },
+   {
+    "id": "dizzy-gillespie",
+    "why": "Through Bauzá and the band, Gillespie absorbed the Cuban rhythm that fed his Afro-Cuban bebop and later shared albums with Machito.",
+    "s": 3
+   },
+   {
+    "id": "charlie-parker",
+    "why": "Parker soloed over the Afro-Cubans on the Afro-Cuban Jazz Suite sessions, an early meeting of bebop and Cuban rhythm.",
+    "s": 3
+   },
+   {
+    "id": "eddie-palmieri",
+    "why": "Palmieri grew up on the Palladium-era sound that Machito helped define and kept its big-band harmony in salsa.",
+    "s": 2
+   },
+   {
+    "id": "fania-all-stars",
+    "why": "The Fania stars inherited the brassy New York Latin orchestra format that Machito pioneered.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "count-basie",
+    "why": "A swinging big band built around riffs and a locked-in rhythm section."
+   },
+   {
+    "id": "fela-kuti",
+    "why": "A large horn band that turned dance rhythm into long, layered workouts."
+   }
+  ]
+ },
+ {
+  "id": "perez-prado",
+  "years": "1949–1989",
+  "origin": "Mexico City, Mexico",
+  "genres": [
+   "mambo",
+   "cha-cha-chá",
+   "Latin big band"
+  ],
+  "summary": "Cuban pianist and bandleader who became the 'King of Mambo' after moving to Mexico City. His blaring trumpets, grunts and tight riffs turned mambo into a worldwide dance craze in the 1950s.",
+  "know": [
+   "He built his career in Mexico City after leaving Cuba in the late 1940s.",
+   "Cherry Pink and Apple Blossom White topped the US charts for 10 weeks in 1955.",
+   "His trademark shouted 'Ugh!' cues his horn section in many recordings."
+  ],
+  "born": "12-11",
+  "keyAlbums": [
+   [
+    "Mambo Mania",
+    1955
+   ],
+   [
+    "Voodoo Suite",
+    1955
+   ],
+   [
+    "Havana 3 A.M.",
+    1956
+   ]
+  ],
+  "songs": [
+   "Mambo No. 5",
+   "Qué Rico el Mambo",
+   "Cherry Pink and Apple Blossom White",
+   "Patricia",
+   "Mambo No. 8"
+  ],
+  "influencedBy": [
+   {
+    "id": "cachao",
+    "why": "The López brothers' late-1930s danzón 'Mambo' introduced the syncopated section Prado blew up into a full style.",
+    "s": 2
+   },
+   {
+    "id": "arsenio-rodriguez",
+    "why": "Arsenio's riff-based montunos are a widely cited root of the mambo Prado popularized.",
+    "s": 2
+   },
+   {
+    "id": "benny-more",
+    "why": "Moré sang with Prado's orchestra in Mexico City, and their records together defined the early mambo sound.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "tito-puente",
+    "why": "Puente's New York mambo orchestra rode the international craze that Prado's hits created.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "glenn-miller",
+    "why": "A big band that turned a dance style into a pop chart phenomenon."
+   },
+   {
+    "id": "james-brown",
+    "why": "Shouted cues and stabbing horns used to drive a dance floor."
+   }
+  ]
+ },
+ {
+  "id": "eddie-palmieri",
+  "years": "1961–2025",
+  "origin": "New York, New York",
+  "genres": [
+   "salsa",
+   "Latin jazz",
+   "descarga"
+  ],
+  "summary": "Pianist and bandleader whose trombone-heavy La Perfecta changed the sound of New York Latin music in the 1960s. He pushed salsa toward jazz harmony and long, open-ended jams.",
+  "know": [
+   "La Perfecta replaced the usual trumpets with two trombones and a flute.",
+   "The Sun of Latin Music won the first Grammy for Best Latin Recording in 1975.",
+   "He often named Thelonious Monk and McCoy Tyner as models for his piano voicings."
+  ],
+  "born": "12-15",
+  "keyAlbums": [
+   [
+    "Azúcar Pa' Ti",
+    1965
+   ],
+   [
+    "Vámonos Pa'l Monte",
+    1971
+   ],
+   [
+    "Harlem River Drive",
+    1971
+   ],
+   [
+    "The Sun of Latin Music",
+    1974
+   ]
+  ],
+  "songs": [
+   "Azúcar",
+   "Vámonos Pa'l Monte",
+   "Muñeca",
+   "Café",
+   "Puerto Rico"
+  ],
+  "influencedBy": [
+   {
+    "id": "tito-puente",
+    "why": "Palmieri came up in the Palladium scene Puente led, learning the big-band mambo idiom.",
+    "s": 2
+   },
+   {
+    "id": "machito",
+    "why": "Machito's fusion of jazz harmony and Cuban rhythm set the template Palmieri pushed further.",
+    "s": 2
+   },
+   {
+    "id": "thelonious-monk",
+    "why": "He credited Monk's angular voicings for the dissonant chords in his piano montunos.",
+    "s": 3
+   },
+   {
+    "id": "arsenio-rodriguez",
+    "why": "His hard-driving montunos follow the son conjunto approach Arsenio created.",
+    "s": 2
+   },
+   {
+    "id": "john-coltrane",
+    "why": "The modal, extended solos on his 1970s records echo the Coltrane quartet, especially McCoy Tyner's piano.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "willie-colon",
+    "why": "La Perfecta's trombone frontline is widely seen as the blueprint for Colón's own trombone-led bands.",
+    "s": 2
+   },
+   {
+    "id": "fania-all-stars",
+    "why": "The long descarga workouts at Fania concerts follow the jam-heavy style Palmieri championed.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "horace-silver",
+    "why": "A pianist-bandleader who built hard-swinging grooves from Latin and gospel roots."
+   },
+   {
+    "id": "fela-kuti",
+    "why": "A bandleader who stretched dance grooves into long, jazz-inflected jams."
+   }
+  ]
+ },
+ {
+  "id": "willie-colon",
+  "years": "1967–present",
+  "origin": "Bronx, New York",
+  "genres": [
+   "salsa",
+   "boogaloo",
+   "salsa dura"
+  ],
+  "summary": "Trombonist and bandleader from the Bronx who signed to Fania as a teenager and helped define the raw New York salsa sound. His partnerships with Héctor Lavoe and Rubén Blades produced some of the genre's most celebrated records.",
+  "know": [
+   "He released his debut El Malo at about 17.",
+   "His band's two-trombone front line gave his records a rough, brassy edge.",
+   "Siembra, made with Rubén Blades, became one of the best-selling salsa albums ever."
+  ],
+  "born": "04-28",
+  "keyAlbums": [
+   [
+    "El Malo",
+    1967
+   ],
+   [
+    "Cosa Nuestra",
+    1969
+   ],
+   [
+    "Asalto Navideño",
+    1971
+   ],
+   [
+    "Siembra (with Rubén Blades)",
+    1978
+   ]
+  ],
+  "songs": [
+   "Che Che Colé",
+   "Calle Luna, Calle Sol",
+   "Plástico",
+   "Pedro Navaja",
+   "El Gran Varón"
+  ],
+  "influencedBy": [
+   {
+    "id": "eddie-palmieri",
+    "why": "Colón took the trombone-led sound of Palmieri's La Perfecta and made it harsher and more street-level.",
+    "s": 2
+   },
+   {
+    "id": "tito-puente",
+    "why": "He grew up on the New York mambo orchestras Puente led.",
+    "s": 1
+   },
+   {
+    "id": "arsenio-rodriguez",
+    "why": "His bands drew on the son montuno structure and conjunto feel Arsenio established.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "hector-lavoe",
+    "why": "Colón made Lavoe his lead singer, and their run of Fania albums launched Lavoe's career.",
+    "s": 3
+   },
+   {
+    "id": "ruben-blades",
+    "why": "Colón co-led Siembra and other albums with Blades, giving his socially minded songs a major platform.",
+    "s": 3
+   },
+   {
+    "id": "fania-all-stars",
+    "why": "As a core member he helped shape the group's sound and repertoire.",
+    "s": 3
+   },
+   {
+    "id": "marc-anthony",
+    "why": "Anthony's salsa draws on the Colón and Lavoe catalog that defined the New York style.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bob-marley",
+    "why": "Dance music that carried pointed social commentary."
+   },
+   {
+    "id": "fela-kuti",
+    "why": "A horn-driven bandleader who wrote about city life and politics."
+   }
+  ]
+ },
+ {
+  "id": "hector-lavoe",
+  "years": "1967–1993",
+  "origin": "New York, New York",
+  "genres": [
+   "salsa",
+   "son montuno",
+   "salsa dura"
+  ],
+  "summary": "Puerto Rican singer known as 'El Cantante' whose nasal, quick-witted voice fronted Willie Colón's band and later his own. He became one of salsa's most beloved stars and its definitive improvising sonero.",
+  "know": [
+   "He moved from Ponce, Puerto Rico, to New York at 17.",
+   "His recordings with Willie Colón began with El Malo in 1967.",
+   "Rubén Blades wrote El Cantante for him, and it became his signature song."
+  ],
+  "born": "09-30",
+  "keyAlbums": [
+   [
+    "El Malo (with Willie Colón)",
+    1967
+   ],
+   [
+    "La Voz",
+    1975
+   ],
+   [
+    "De Ti Depende",
+    1976
+   ],
+   [
+    "Comedia",
+    1978
+   ]
+  ],
+  "songs": [
+   "El Cantante",
+   "Periódico de Ayer",
+   "Mi Gente",
+   "Aguanile",
+   "Todo Tiene Su Final"
+  ],
+  "influencedBy": [
+   {
+    "id": "willie-colon",
+    "why": "Colón made him his singer and shaped his early career and sound.",
+    "s": 3
+   },
+   {
+    "id": "ruben-blades",
+    "why": "Blades wrote El Cantante for him, giving Lavoe his defining song.",
+    "s": 3
+   },
+   {
+    "id": "benny-more",
+    "why": "His improvised soneos follow the Cuban sonero tradition that Moré personified.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "marc-anthony",
+    "why": "Anthony has called Lavoe a major influence and played him in the 2006 film El Cantante.",
+    "s": 3
+   },
+   {
+    "id": "fania-all-stars",
+    "why": "His lead vocals, such as Mi Gente at Yankee Stadium, became Fania All-Stars landmarks.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "sam-cooke",
+    "why": "A golden voice whose phrasing defined a genre's lead singer."
+   },
+   {
+    "id": "otis-redding",
+    "why": "A singer who sounded best improvising over a live band."
+   }
+  ]
+ },
+ {
+  "id": "ruben-blades",
+  "years": "1969–present",
+  "origin": "Panama City, Panama",
+  "genres": [
+   "salsa",
+   "salsa consciente",
+   "Latin pop"
+  ],
+  "summary": "Panamanian singer, songwriter and actor who brought story-driven, socially observant lyrics to salsa. His albums with Willie Colón and later with Seis del Solar widened what salsa songs could be about.",
+  "know": [
+   "He joined Fania in New York in the 1970s after starting out in Panama.",
+   "Siembra, his 1978 album with Willie Colón, is one of salsa's best-selling records.",
+   "He earned a law degree and later ran for president of Panama in 1994."
+  ],
+  "born": "07-16",
+  "keyAlbums": [
+   [
+    "Siembra (with Willie Colón)",
+    1978
+   ],
+   [
+    "Maestra Vida",
+    1980
+   ],
+   [
+    "Buscando América",
+    1984
+   ],
+   [
+    "Escenas",
+    1985
+   ]
+  ],
+  "songs": [
+   "Pedro Navaja",
+   "Plástico",
+   "Buscando América",
+   "Patria",
+   "Decisiones"
+  ],
+  "influencedBy": [
+   {
+    "id": "willie-colon",
+    "why": "Colón was his main creative partner, co-leading the albums that made him a star.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "Blades has said the Beatles' songwriting shaped his ambitions as a young musician in Panama.",
+    "s": 2
+   },
+   {
+    "id": "benny-more",
+    "why": "His singing sits in the Cuban sonero line Moré made famous.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "hector-lavoe",
+    "why": "He wrote El Cantante, which became Lavoe's signature song.",
+    "s": 3
+   },
+   {
+    "id": "calle-13",
+    "why": "Calle 13's narrative, socially pointed songwriting follows Blades, who joined them on La Perla.",
+    "s": 2
+   },
+   {
+    "id": "marc-anthony",
+    "why": "Anthony's salsa repertoire leans on the narrative songs Blades made standard.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bruce-springsteen",
+    "why": "A songwriter who tells detailed stories about working people."
+   },
+   {
+    "id": "gil-scott-heron",
+    "why": "Pointed social observation set to a groove."
+   }
+  ]
+ },
+ {
+  "id": "fania-all-stars",
+  "years": "1968–present",
+  "origin": "New York, New York",
+  "genres": [
+   "salsa",
+   "descarga",
+   "Latin jazz"
+  ],
+  "summary": "The house supergroup of Fania Records, assembled by Johnny Pacheco and Jerry Masucci, that gathered the label's top bandleaders and singers on one stage. Their concerts and films spread New York salsa worldwide.",
+  "know": [
+   "The 1971 Cheetah club concert became the film Our Latin Thing.",
+   "Their 1973 Yankee Stadium show drew a huge crowd and was released as a live album.",
+   "Members included Héctor Lavoe, Celia Cruz, Rubén Blades, Willie Colón and Ray Barretto."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Live at the Cheetah, Vol. 1",
+    1972
+   ],
+   [
+    "Latin-Soul-Rock",
+    1974
+   ],
+   [
+    "Live at Yankee Stadium",
+    1975
+   ],
+   [
+    "Rhythm Machine",
+    1977
+   ]
+  ],
+  "songs": [
+   "Quítate Tú",
+   "Anacaona",
+   "Mi Gente",
+   "Ponte Duro"
+  ],
+  "influencedBy": [
+   {
+    "id": "cachao",
+    "why": "Their open jam format follows the Cuban descargas Cachao led in the 1950s.",
+    "s": 2
+   },
+   {
+    "id": "machito",
+    "why": "The all-star big-band lineup carries on Machito's model of New York Latin orchestras.",
+    "s": 2
+   },
+   {
+    "id": "tito-puente",
+    "why": "Puente's Palladium-era showmanship set the standard the Fania stars aimed at.",
+    "s": 1
+   },
+   {
+    "id": "arsenio-rodriguez",
+    "why": "Many of their tunes rest on the son montuno structure Arsenio built.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "hector-lavoe",
+    "why": "The group backed Lavoe on Mi Gente, one of his most famous live performances.",
+    "s": 3
+   },
+   {
+    "id": "celia-cruz",
+    "why": "Fania and the All-Stars gave Cruz a new audience in the 1970s salsa boom.",
+    "s": 3
+   },
+   {
+    "id": "ruben-blades",
+    "why": "Blades sang with the All-Stars as he was breaking through at Fania.",
+    "s": 3
+   },
+   {
+    "id": "willie-colon",
+    "why": "Colón was a member whose trombone sound was part of the group's identity.",
+    "s": 3
+   },
+   {
+    "id": "marc-anthony",
+    "why": "Anthony's generation learned salsa from the Fania catalog and concerts.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "funk-brothers",
+    "why": "A label's house band that defined its signature sound."
+   },
+   {
+    "id": "wrecking-crew",
+    "why": "Top session players backing a whole label's worth of hits."
+   }
+  ]
+ },
+ {
+  "id": "marc-anthony",
+  "years": "1988–present",
+  "origin": "New York, New York",
+  "genres": [
+   "salsa",
+   "Latin pop",
+   "salsa romántica"
+  ],
+  "summary": "New York singer of Puerto Rican descent who began in freestyle and house before becoming the top-selling tropical salsa artist of his era. He also crossed into English-language pop in the late 1990s.",
+  "know": [
+   "He first worked as a house and freestyle vocalist with Little Louie Vega.",
+   "His 1993 debut Otra Nota opened with a salsa cover of Juan Gabriel's Hasta Que Te Conocí.",
+   "He played Héctor Lavoe in the 2006 film El Cantante."
+  ],
+  "born": "09-16",
+  "keyAlbums": [
+   [
+    "Otra Nota",
+    1993
+   ],
+   [
+    "Todo a Su Tiempo",
+    1995
+   ],
+   [
+    "Contra la Corriente",
+    1997
+   ],
+   [
+    "3.0",
+    2013
+   ]
+  ],
+  "songs": [
+   "Vivir Mi Vida",
+   "Valió la Pena",
+   "Hasta Ayer",
+   "Te Conozco Bien",
+   "I Need to Know"
+  ],
+  "influencedBy": [
+   {
+    "id": "hector-lavoe",
+    "why": "Anthony has named Lavoe as a key influence and later portrayed him on film.",
+    "s": 3
+   },
+   {
+    "id": "juan-gabriel",
+    "why": "He broke through by recasting Juan Gabriel's Hasta Que Te Conocí as salsa.",
+    "s": 2
+   },
+   {
+    "id": "ruben-blades",
+    "why": "His dramatic, lyric-driven salsa owes a debt to Blades's songwriting.",
+    "s": 1
+   },
+   {
+    "id": "willie-colon",
+    "why": "He draws on the Colón and Lavoe catalog that defined New York salsa.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "luther-vandross",
+    "why": "A big romantic voice who made ballads feel like events."
+   },
+   {
+    "id": "george-michael",
+    "why": "A singer who moved between club music and grown-up balladry."
+   }
+  ]
+ },
+ {
+  "id": "buena-vista-social-club",
+  "years": "1996–2016",
+  "origin": "Havana, Cuba",
+  "genres": [
+   "son cubano",
+   "bolero",
+   "danzón"
+  ],
+  "summary": "An ensemble of veteran Cuban musicians gathered in Havana by Juan de Marcos González and Ry Cooder. Their 1997 album and Wim Wenders's film revived global interest in prewar Cuban son and bolero.",
+  "know": [
+   "The album was recorded in about six days at Havana's EGREM studios in 1996.",
+   "Its featured singers included Ibrahim Ferrer, Compay Segundo and Omara Portuondo.",
+   "The 1997 album won a Grammy and sold millions of copies worldwide."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Buena Vista Social Club",
+    1997
+   ],
+   [
+    "Buena Vista Social Club Presents Ibrahim Ferrer",
+    1999
+   ],
+   [
+    "Lost and Found",
+    2015
+   ]
+  ],
+  "songs": [
+   "Chan Chan",
+   "El Cuarto de Tula",
+   "Dos Gardenias",
+   "Candela",
+   "Veinte Años"
+  ],
+  "influencedBy": [
+   {
+    "id": "arsenio-rodriguez",
+    "why": "Pianist Rubén González and the group drew on the son conjunto style Arsenio shaped.",
+    "s": 2
+   },
+   {
+    "id": "benny-more",
+    "why": "Ibrahim Ferrer had sung with Moré's circle, and the album revives that era's son and bolero.",
+    "s": 2
+   },
+   {
+    "id": "trio-los-panchos",
+    "why": "The group's boleros follow the guitar-trio romantic style Los Panchos made popular.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "ali-farka-toure",
+    "why": "Veteran musicians brought to world audiences with help from Ry Cooder."
+   },
+   {
+    "id": "mississippi-john-hurt",
+    "why": "An older master whose late recordings revived an overlooked style."
+   }
+  ]
+ },
+ {
+  "id": "gloria-estefan",
+  "years": "1975–present",
+  "origin": "Miami, Florida",
+  "genres": [
+   "Latin pop",
+   "dance-pop",
+   "Cuban son"
+  ],
+  "summary": "Cuban-born singer who fronted Miami Sound Machine and became the first major Latin pop crossover star of the 1980s. Working with Emilio Estefan, she mixed conga rhythms with American dance-pop and later returned to Cuban roots on Mi Tierra.",
+  "know": [
+   "She joined Emilio Estefan's Miami Latin Boys in 1975, and the group became Miami Sound Machine.",
+   "Conga in 1985 was a breakthrough single for Latin rhythm on US pop radio.",
+   "Mi Tierra in 1993 was a Spanish-language album of traditional Cuban styles that won a Grammy."
+  ],
+  "born": "09-01",
+  "keyAlbums": [
+   [
+    "Primitive Love",
+    1985
+   ],
+   [
+    "Let It Loose",
+    1987
+   ],
+   [
+    "Cuts Both Ways",
+    1989
+   ],
+   [
+    "Mi Tierra",
+    1993
+   ]
+  ],
+  "songs": [
+   "Conga",
+   "Rhythm Is Gonna Get You",
+   "Anything for You",
+   "Mi Tierra",
+   "Get On Your Feet"
+  ],
+  "influencedBy": [
+   {
+    "id": "celia-cruz",
+    "why": "Cruz was the leading Cuban exile voice whose music she grew up hearing in Miami.",
+    "s": 2
+   },
+   {
+    "id": "benny-more",
+    "why": "Mi Tierra revisits the classic Cuban son and orchestra sound of Moré's era.",
+    "s": 1
+   },
+   {
+    "id": "trio-los-panchos",
+    "why": "Her Spanish ballads and boleros follow the romantic style Los Panchos popularized.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "shakira",
+    "why": "The Estefans' Miami team helped guide Shakira's late-1990s move toward a wider market.",
+    "s": 2
+   },
+   {
+    "id": "ricky-martin",
+    "why": "Her crossover proved a Latin artist could top US pop charts, the path Martin followed.",
+    "s": 1
+   },
+   {
+    "id": "selena",
+    "why": "Selena's mix of Latin roots and dance-pop followed the lane Estefan opened.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "madonna",
+    "why": "1980s dance-pop built to fill a club and a stadium."
+   },
+   {
+    "id": "cyndi-lauper",
+    "why": "A bright 1980s pop voice with a big personality."
+   }
+  ]
+ },
+ {
+  "id": "los-lobos",
+  "years": "1973–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "roots rock",
+   "Chicano rock",
+   "Tex-Mex"
+  ],
+  "summary": "East Los Angeles band that moves between Mexican folk, R&B, blues and rock, often on the same album. They are best known for their 1987 La Bamba remake and the experimental 1992 album Kiko.",
+  "know": [
+   "They spent years playing traditional Mexican music before turning to rock in the early 1980s.",
+   "Their cover of La Bamba for the 1987 Ritchie Valens biopic hit number one in the US.",
+   "Kiko, produced by Mitchell Froom, is often called their creative peak."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "How Will the Wolf Survive?",
+    1984
+   ],
+   [
+    "By the Light of the Moon",
+    1987
+   ],
+   [
+    "La Pistola y El Corazón",
+    1988
+   ],
+   [
+    "Kiko",
+    1992
+   ]
+  ],
+  "songs": [
+   "La Bamba",
+   "Will the Wolf Survive?",
+   "Kiko and the Lavender Moon",
+   "Shakin' Shakin' Shakes",
+   "Mas y Mas"
+  ],
+  "influencedBy": [
+   {
+    "id": "t-bone-burnett",
+    "why": "Burnett co-produced How Will the Wolf Survive?, framing their roots sound for a national audience.",
+    "s": 3
+   },
+   {
+    "id": "creedence",
+    "why": "Their tight, rootsy rock follows the Creedence model of American roots made concise.",
+    "s": 1
+   },
+   {
+    "id": "the-band",
+    "why": "They share the Band's habit of blending several American traditions into one ensemble sound.",
+    "s": 1
+   },
+   {
+    "id": "fats-domino",
+    "why": "Their R&B side leans on the New Orleans rhythm and blues of Fats Domino.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-band",
+    "why": "An ensemble that wove many American roots styles into one voice."
+   },
+   {
+    "id": "wilco",
+    "why": "A band that moved from roots music into studio experiments."
+   }
+  ]
+ },
+ {
+  "id": "astor-piazzolla",
+  "years": "1946–1990",
+  "origin": "Buenos Aires, Argentina",
+  "genres": [
+   "nuevo tango",
+   "tango",
+   "chamber music"
+  ],
+  "summary": "Argentine bandoneón player and composer who reinvented tango by bringing in jazz harmony and classical form. Tango traditionalists resisted him at first, but his nuevo tango became the style's best-known modern voice.",
+  "know": [
+   "He grew up partly in New York, where as a boy he met and played for Carlos Gardel.",
+   "He studied in Paris with Nadia Boulanger, who urged him to build on tango rather than abandon it.",
+   "He recorded the album Summit with saxophonist Gerry Mulligan in 1974."
+  ],
+  "born": "03-11",
+  "keyAlbums": [
+   [
+    "Libertango",
+    1974
+   ],
+   [
+    "Summit (with Gerry Mulligan)",
+    1974
+   ],
+   [
+    "Tango: Zero Hour",
+    1986
+   ],
+   [
+    "La Camorra",
+    1989
+   ]
+  ],
+  "songs": [
+   "Libertango",
+   "Adiós Nonino",
+   "Oblivion",
+   "Verano Porteño",
+   "Balada para un Loco"
+  ],
+  "influencedBy": [
+   {
+    "id": "carlos-gardel",
+    "why": "As a teenager in New York he played for Gardel and appeared in one of his films.",
+    "s": 3
+   },
+   {
+    "id": "gerry-mulligan",
+    "why": "Hearing Mulligan's octet in Paris in the 1950s inspired the jazz-leaning Octeto Buenos Aires.",
+    "s": 2
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "charles-mingus",
+    "why": "A composer-bandleader who stretched a popular form with classical scope."
+   },
+   {
+    "id": "gil-evans",
+    "why": "Rich, unexpected harmony applied to a familiar idiom."
+   }
+  ]
+ },
+ {
+  "id": "carlos-gardel",
+  "years": "1912–1935",
+  "origin": "Buenos Aires, Argentina",
+  "genres": [
+   "tango",
+   "tango-canción"
+  ],
+  "summary": "Singer, songwriter and film star who made tango a sung art form and became its first international star. His recordings and films in the 1920s and 1930s set the standard for tango vocalists.",
+  "know": [
+   "Mi Noche Triste, recorded in 1917, is often cited as the first tango-canción.",
+   "He starred in Spanish-language films shot in France and New York in the 1930s.",
+   "He wrote many classics with lyricist Alfredo Le Pera, including Volver and Por una Cabeza."
+  ],
+  "born": "12-11",
+  "keyAlbums": [],
+  "songs": [
+   "Mi Noche Triste",
+   "Por una Cabeza",
+   "Volver",
+   "El Día Que Me Quieras",
+   "Mi Buenos Aires Querido"
+  ],
+  "influencedBy": [],
+  "influenced": [
+   {
+    "id": "astor-piazzolla",
+    "why": "Piazzolla played for Gardel as a teen in New York and came up inside the tango world Gardel defined.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bing-crosby",
+    "why": "A crooner who became a film and radio star and set a style for singers."
+   },
+   {
+    "id": "edith-piaf",
+    "why": "A national voice whose songs came to stand for a city."
+   }
+  ]
+ },
+ {
+  "id": "mercedes-sosa",
+  "years": "1959–2009",
+  "origin": "San Miguel de Tucumán, Argentina",
+  "genres": [
+   "nueva canción",
+   "Argentine folk",
+   "zamba"
+  ],
+  "summary": "Argentine singer known as 'La Negra' whose deep voice made her the leading interpreter of Latin American folk and nueva canción. She sang songs by many writers and became a symbol of Argentine popular music.",
+  "know": [
+   "She helped launch the Nuevo Cancionero movement in Mendoza in 1963.",
+   "She lived in exile in Europe from 1979 and returned to Argentina in 1982.",
+   "Her final album Cantora featured duets with Shakira, Caetano Veloso, Gustavo Cerati and others."
+  ],
+  "born": "07-09",
+  "keyAlbums": [
+   [
+    "Canciones con Fundamento",
+    1965
+   ],
+   [
+    "Mujeres Argentinas",
+    1969
+   ],
+   [
+    "Homenaje a Violeta Parra",
+    1971
+   ],
+   [
+    "Cantora",
+    2009
+   ]
+  ],
+  "songs": [
+   "Gracias a la Vida",
+   "Alfonsina y el Mar",
+   "Todo Cambia",
+   "Solo le Pido a Dios",
+   "Como la Cigarra"
+  ],
+  "influencedBy": [
+   {
+    "id": "charly-garcia",
+    "why": "She recorded his songs and performed with him, linking folk to Argentine rock in the 1980s.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "shakira",
+    "why": "Shakira dueted with her on Cantora and has named her as an important Latin American voice.",
+    "s": 2
+   },
+   {
+    "id": "gustavo-cerati",
+    "why": "Cerati recorded with her on Cantora, a sign of her reach into rock.",
+    "s": 2
+   },
+   {
+    "id": "natalia-lafourcade",
+    "why": "Lafourcade's turn to Latin American folk on Musas follows the path Sosa set.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "joan-baez",
+    "why": "A great voice that carried other writers' songs into a movement."
+   },
+   {
+    "id": "odetta",
+    "why": "A powerful folk singer who stood for more than her songs."
+   }
+  ]
+ },
+ {
+  "id": "victor-jara",
+  "years": "1957–1973",
+  "origin": "Santiago, Chile",
+  "genres": [
+   "nueva canción",
+   "Chilean folk"
+  ],
+  "summary": "Chilean singer, songwriter and theater director who became a leading figure in nueva canción. His plain, direct songs about rural workers and ordinary life made him one of Latin America's most honored songwriters.",
+  "know": [
+   "He was also an acclaimed theater director in Santiago.",
+   "He worked with the folk groups Cuncumén and Quilapayún.",
+   "He died in September 1973."
+  ],
+  "born": "09-28",
+  "keyAlbums": [
+   [
+    "Víctor Jara",
+    1966
+   ],
+   [
+    "Pongo en Tus Manos Abiertas",
+    1969
+   ],
+   [
+    "El Derecho de Vivir en Paz",
+    1971
+   ],
+   [
+    "Manifiesto",
+    1974
+   ]
+  ],
+  "songs": [
+   "Te Recuerdo Amanda",
+   "El Derecho de Vivir en Paz",
+   "Plegaria a un Labrador",
+   "Manifiesto",
+   "Luchín"
+  ],
+  "influencedBy": [],
+  "influenced": [
+   {
+    "id": "the-clash",
+    "why": "The Clash named him in Washington Bullets, carrying his name to rock audiences.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "woody-guthrie",
+    "why": "A songwriter whose plain songs spoke for working people."
+   },
+   {
+    "id": "pete-seeger",
+    "why": "A folk singer who built songs for people to sing together."
+   }
+  ]
+ },
+ {
+  "id": "gilberto-gil",
+  "years": "1962–present",
+  "origin": "Salvador, Brazil",
+  "genres": [
+   "Tropicália",
+   "MPB",
+   "samba"
+  ],
+  "summary": "Bahian singer, guitarist and songwriter who co-founded Tropicália with Caetano Veloso, mixing Brazilian forms with rock and psychedelia. He later folded reggae, funk and northeastern styles into a long, influential career.",
+  "know": [
+   "He has said hearing João Gilberto made him take up the guitar seriously.",
+   "He lived in exile in London from 1969 to 1972 with Caetano Veloso.",
+   "He served as Brazil's Minister of Culture from 2003 to 2008."
+  ],
+  "born": "06-26",
+  "keyAlbums": [
+   [
+    "Gilberto Gil",
+    1968
+   ],
+   [
+    "Expresso 2222",
+    1972
+   ],
+   [
+    "Refazenda",
+    1975
+   ],
+   [
+    "Refavela",
+    1977
+   ]
+  ],
+  "songs": [
+   "Aquele Abraço",
+   "Domingo no Parque",
+   "Expresso 2222",
+   "Toda Menina Baiana",
+   "Andar com Fé"
+  ],
+  "influencedBy": [
+   {
+    "id": "joao-gilberto",
+    "why": "Gil has credited João Gilberto's guitar with pulling him into bossa nova and songwriting.",
+    "s": 3
+   },
+   {
+    "id": "caetano-veloso",
+    "why": "His closest collaborator, with whom he built the Tropicália movement.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "Sgt. Pepper-era Beatles shaped Tropicália's mix of studio experiment and pop.",
+    "s": 2
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "Hendrix's electric guitar fed Gil's late-1960s rock turn.",
+    "s": 2
+   },
+   {
+    "id": "bob-marley",
+    "why": "He embraced reggae in the 1970s and later recorded a full album of Marley songs.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "os-mutantes",
+    "why": "Os Mutantes backed him on Domingo no Parque at the 1967 festival, a starting point for Tropicália.",
+    "s": 3
+   },
+   {
+    "id": "tom-ze",
+    "why": "Tom Zé worked alongside him on the Tropicália project and its group album.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bob-marley",
+    "why": "Joyful dance music with a spiritual and social message."
+   },
+   {
+    "id": "fela-kuti",
+    "why": "A bandleader who fused local rhythm with funk and politics."
+   }
+  ]
+ },
+ {
+  "id": "jorge-ben-jor",
+  "years": "1963–present",
+  "origin": "Rio de Janeiro, Brazil",
+  "genres": [
+   "samba rock",
+   "MPB",
+   "Brazilian funk"
+  ],
+  "summary": "Rio singer and guitarist whose percussive guitar style blended samba with rock, soul and funk. Songs like Mas Que Nada and País Tropical became Brazilian standards and reached audiences worldwide.",
+  "know": [
+   "His 1963 debut Samba Esquema Novo included Mas Que Nada.",
+   "He changed his professional name from Jorge Ben to Jorge Ben Jor in the late 1980s.",
+   "A Tábua de Esmeralda in 1974 drew on alchemy and mysticism for its themes."
+  ],
+  "born": "03-22",
+  "keyAlbums": [
+   [
+    "Samba Esquema Novo",
+    1963
+   ],
+   [
+    "Força Bruta",
+    1970
+   ],
+   [
+    "A Tábua de Esmeralda",
+    1974
+   ],
+   [
+    "África Brasil",
+    1976
+   ]
+  ],
+  "songs": [
+   "Mas Que Nada",
+   "País Tropical",
+   "Taj Mahal",
+   "Chove Chuva",
+   "Fio Maravilha"
+  ],
+  "influencedBy": [
+   {
+    "id": "joao-gilberto",
+    "why": "He began from bossa nova's guitar language, then pushed it toward heavier rhythm.",
+    "s": 2
+   },
+   {
+    "id": "antonio-carlos-jobim",
+    "why": "His early songs sit in the bossa nova world Jobim shaped.",
+    "s": 1
+   },
+   {
+    "id": "james-brown",
+    "why": "The electric funk of África Brasil follows the James Brown groove.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "sergio-mendes",
+    "why": "Mendes's 1966 version of Mas Que Nada made the song an international hit.",
+    "s": 3
+   },
+   {
+    "id": "os-mutantes",
+    "why": "Os Mutantes covered his songs, including A Minha Menina, on their 1968 debut.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Party music that mixes funk, rock and soul in one band."
+   },
+   {
+    "id": "fela-kuti",
+    "why": "Long, guitar-driven grooves rooted in local rhythm."
+   }
+  ]
+ },
+ {
+  "id": "milton-nascimento",
+  "years": "1967–present",
+  "origin": "Belo Horizonte, Brazil",
+  "genres": [
+   "MPB",
+   "Clube da Esquina",
+   "Brazilian jazz"
+  ],
+  "summary": "Singer and songwriter from Minas Gerais whose soaring voice and modal, folk-tinged songs anchored the Clube da Esquina collective. His work drew in jazz musicians from Wayne Shorter to Herbie Hancock.",
+  "know": [
+   "Elis Regina recorded his early song Canção do Sal before he was widely known.",
+   "Clube da Esquina in 1972 was a double album made with Lô Borges and friends from Belo Horizonte.",
+   "Wayne Shorter's 1975 album Native Dancer was built around his songs."
+  ],
+  "born": "10-26",
+  "keyAlbums": [
+   [
+    "Clube da Esquina (with Lô Borges)",
+    1972
+   ],
+   [
+    "Milagre dos Peixes",
+    1973
+   ],
+   [
+    "Minas",
+    1975
+   ],
+   [
+    "Native Dancer (Wayne Shorter)",
+    1975
+   ]
+  ],
+  "songs": [
+   "Travessia",
+   "Cais",
+   "Maria Maria",
+   "Ponta de Areia",
+   "Canção da América"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "The Clube da Esquina circle openly took harmonic ideas from the Beatles.",
+    "s": 2
+   },
+   {
+    "id": "joao-gilberto",
+    "why": "His intimate guitar and vocal phrasing grow out of bossa nova.",
+    "s": 1
+   },
+   {
+    "id": "miles-davis",
+    "why": "Modal jazz, especially Miles Davis's late-1950s work, colors his harmony.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "herbie-hancock",
+    "why": "Hancock played on Native Dancer, the Shorter album built around Nascimento's songs.",
+    "s": 3
+   },
+   {
+    "id": "esperanza-spalding",
+    "why": "Spalding has cited him as a model and recorded a joint album with him.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "joni-mitchell",
+    "why": "Open-tuned, harmonically adventurous songwriting."
+   },
+   {
+    "id": "peter-gabriel",
+    "why": "A singer drawing on many global traditions in lush settings."
+   }
+  ]
+ },
+ {
+  "id": "elis-regina",
+  "years": "1961–1982",
+  "origin": "Porto Alegre, Brazil",
+  "genres": [
+   "MPB",
+   "bossa nova",
+   "samba"
+  ],
+  "summary": "Singer from southern Brazil widely regarded as the country's greatest vocalist of her era. She launched the careers of songwriters such as Milton Nascimento and Belchior by recording their songs.",
+  "know": [
+   "She won the 1965 TV Excelsior festival singing Arrastão.",
+   "Elis & Tom, recorded with Antônio Carlos Jobim in Los Angeles in 1974, is a bossa nova landmark.",
+   "She died in January 1982 at age 36."
+  ],
+  "born": "03-17",
+  "keyAlbums": [
+   [
+    "Dois na Bossa (with Jair Rodrigues)",
+    1965
+   ],
+   [
+    "Elis & Tom",
+    1974
+   ],
+   [
+    "Falso Brilhante",
+    1976
+   ],
+   [
+    "Transversal do Tempo",
+    1978
+   ]
+  ],
+  "songs": [
+   "Águas de Março",
+   "Como Nossos Pais",
+   "O Bêbado e a Equilibrista",
+   "Arrastão",
+   "Madalena"
+  ],
+  "influencedBy": [
+   {
+    "id": "antonio-carlos-jobim",
+    "why": "She recorded the landmark Elis & Tom with Jobim, singing his songs with him.",
+    "s": 3
+   },
+   {
+    "id": "joao-gilberto",
+    "why": "Her phrasing on bossa material builds on João Gilberto's model, though she sang with far more force.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "milton-nascimento",
+    "why": "She recorded his songs early and helped launch his career.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "ella-fitzgerald",
+    "why": "A virtuoso interpreter who could define a songwriter's catalog."
+   },
+   {
+    "id": "aretha-franklin",
+    "why": "A powerhouse singer who made other people's songs her own."
+   }
+  ]
+ },
+ {
+  "id": "tom-ze",
+  "years": "1967–present",
+  "origin": "São Paulo, Brazil",
+  "genres": [
+   "Tropicália",
+   "experimental pop",
+   "MPB"
+  ],
+  "summary": "Bahian songwriter and inventor who was part of Tropicália and later built homemade instruments and fragmented, rhythmic songs. He fell out of view in Brazil until David Byrne reissued his work in 1990.",
+  "know": [
+   "He took part in the 1968 group album Tropicália: ou Panis et Circencis.",
+   "He won the 1968 TV Record festival with São São Paulo.",
+   "David Byrne's Luaka Bop label introduced him to new audiences in 1990."
+  ],
+  "born": "10-11",
+  "keyAlbums": [
+   [
+    "Grande Liquidação",
+    1968
+   ],
+   [
+    "Todos os Olhos",
+    1973
+   ],
+   [
+    "Estudando o Samba",
+    1976
+   ],
+   [
+    "Com Defeito de Fabricação",
+    1998
+   ]
+  ],
+  "songs": [
+   "São São Paulo",
+   "Mã",
+   "Toc",
+   "Augusta, Angélica e Consolação"
+  ],
+  "influencedBy": [
+   {
+    "id": "caetano-veloso",
+    "why": "He worked with Veloso on the Tropicália project that shaped his early career.",
+    "s": 3
+   },
+   {
+    "id": "gilberto-gil",
+    "why": "Gil was a key partner on the Tropicália album and festivals.",
+    "s": 3
+   },
+   {
+    "id": "joao-gilberto",
+    "why": "His deconstructed samba starts from the bossa nova rethink João Gilberto began.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "talking-heads",
+    "why": "David Byrne championed him, reissuing his records on Luaka Bop.",
+    "s": 3
+   },
+   {
+    "id": "tortoise",
+    "why": "Tortoise served as his backing band on a late-1990s US tour.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "captain-beefheart",
+    "why": "Angular, homemade-sounding music that rewrites song form."
+   },
+   {
+    "id": "frank-zappa",
+    "why": "A satirist who built unusual sounds and studio pieces."
+   }
+  ]
+ },
+ {
+  "id": "tim-maia",
+  "years": "1968–1998",
+  "origin": "Rio de Janeiro, Brazil",
+  "genres": [
+   "Brazilian soul",
+   "funk",
+   "MPB"
+  ],
+  "summary": "Singer and bandleader who brought American soul and funk into Brazilian pop after living in the United States as a young man. His rich voice and horn-heavy records made him the father of Brazilian soul.",
+  "know": [
+   "He lived in the United States in the early 1960s and absorbed soul and doo-wop there.",
+   "His 1970 debut album was a major hit in Brazil.",
+   "The Racional albums of the mid-1970s were later rediscovered and reissued to wide acclaim."
+  ],
+  "born": "09-28",
+  "keyAlbums": [
+   [
+    "Tim Maia",
+    1970
+   ],
+   [
+    "Racional Vol. 1",
+    1975
+   ],
+   [
+    "Disco Club",
+    1978
+   ]
+  ],
+  "songs": [
+   "Primavera",
+   "Azul da Cor do Mar",
+   "Não Quero Dinheiro",
+   "Gostava Tanto de Você",
+   "Do Leme ao Pontal"
+  ],
+  "influencedBy": [
+   {
+    "id": "ray-charles",
+    "why": "His gospel-rooted, gritty soul singing draws on the Ray Charles model.",
+    "s": 2
+   },
+   {
+    "id": "sam-cooke",
+    "why": "His smooth ballad phrasing follows Cooke's soul style.",
+    "s": 1
+   },
+   {
+    "id": "james-brown",
+    "why": "His tight, horn-driven funk grooves follow the James Brown template.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "marvin-gaye",
+    "why": "A soul singer who moved from love songs to spiritual searching."
+   },
+   {
+    "id": "al-green",
+    "why": "Warm, gospel-tinged soul with a big horn section."
+   }
+  ]
+ },
+ {
+  "id": "sergio-mendes",
+  "years": "1961–2024",
+  "origin": "Rio de Janeiro, Brazil",
+  "genres": [
+   "bossa nova",
+   "Brazilian jazz",
+   "Latin pop"
+  ],
+  "summary": "Pianist and bandleader who became one of the most commercially successful Brazilian musicians abroad. His group Brasil '66 blended bossa nova with American pop for a huge 1960s audience.",
+  "know": [
+   "He played in the Rio bossa nova scene before moving to the United States in the mid-1960s.",
+   "Brasil '66's version of Mas Que Nada was an international hit in 1966.",
+   "Brasileiro won a Grammy for Best World Music Album in 1993."
+  ],
+  "born": "02-11",
+  "keyAlbums": [
+   [
+    "Herb Alpert Presents Sergio Mendes & Brasil '66",
+    1966
+   ],
+   [
+    "Fool on the Hill",
+    1968
+   ],
+   [
+    "Brasileiro",
+    1992
+   ],
+   [
+    "Timeless",
+    2006
+   ]
+  ],
+  "songs": [
+   "Mas Que Nada",
+   "The Look of Love",
+   "Never Gonna Let You Go",
+   "The Fool on the Hill",
+   "Magalenha"
+  ],
+  "influencedBy": [
+   {
+    "id": "antonio-carlos-jobim",
+    "why": "Jobim was a mentor and collaborator during his Rio years.",
+    "s": 3
+   },
+   {
+    "id": "joao-gilberto",
+    "why": "His group's light rhythmic feel rests on João Gilberto's bossa nova guitar.",
+    "s": 2
+   },
+   {
+    "id": "jorge-ben-jor",
+    "why": "He built his breakthrough hit on Jorge Ben's Mas Que Nada.",
+    "s": 2
+   },
+   {
+    "id": "cannonball-adderley",
+    "why": "He recorded with Adderley on Cannonball's Bossa Nova in 1962, an early US calling card.",
+    "s": 3
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "burt-bacharach",
+    "why": "Sophisticated, airy pop arrangements."
+   },
+   {
+    "id": "dave-brubeck",
+    "why": "A pianist who brought jazz to a mainstream pop audience."
+   }
+  ]
+ },
+ {
+  "id": "astrud-gilberto",
+  "years": "1963–2002",
+  "origin": "Rio de Janeiro, Brazil",
+  "genres": [
+   "bossa nova",
+   "jazz vocal",
+   "easy listening"
+  ],
+  "summary": "Brazilian singer whose cool, unadorned English vocal on The Girl from Ipanema made her the international face of bossa nova. She went on to a long solo career in the United States.",
+  "know": [
+   "She had no professional experience when she sang on the Getz/Gilberto sessions in 1963.",
+   "The Girl from Ipanema single won the 1965 Grammy for Record of the Year.",
+   "Gil Evans arranged her 1966 album Look to the Rainbow."
+  ],
+  "born": "03-29",
+  "keyAlbums": [
+   [
+    "Getz/Gilberto",
+    1964
+   ],
+   [
+    "The Astrud Gilberto Album",
+    1965
+   ],
+   [
+    "Look to the Rainbow",
+    1966
+   ],
+   [
+    "Beach Samba",
+    1967
+   ]
+  ],
+  "songs": [
+   "The Girl from Ipanema",
+   "Corcovado",
+   "Água de Beber",
+   "Fly Me to the Moon",
+   "Look to the Rainbow"
+  ],
+  "influencedBy": [
+   {
+    "id": "joao-gilberto",
+    "why": "Her then-husband brought her into the Getz/Gilberto sessions, and her style mirrors his restraint.",
+    "s": 3
+   },
+   {
+    "id": "stan-getz",
+    "why": "Getz featured her on the session and album that launched her.",
+    "s": 3
+   },
+   {
+    "id": "antonio-carlos-jobim",
+    "why": "Jobim wrote and played on the songs that made her famous.",
+    "s": 3
+   },
+   {
+    "id": "gil-evans",
+    "why": "Evans arranged her album Look to the Rainbow.",
+    "s": 3
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "francoise-hardy",
+    "why": "A soft, cool 1960s voice that became an icon abroad."
+   },
+   {
+    "id": "chet-baker",
+    "why": "Understated, intimate singing that charmed through restraint."
+   }
+  ]
+ },
+ {
+  "id": "anitta",
+  "years": "2010–present",
+  "origin": "Rio de Janeiro, Brazil",
+  "genres": [
+   "funk carioca",
+   "Latin pop",
+   "reggaeton"
+  ],
+  "summary": "Rio singer who came out of funk carioca to become Brazil's biggest global pop star, singing in Portuguese, Spanish and English. In 2022 Envolver made her the first Brazilian solo artist to top Spotify's global chart.",
+  "know": [
+   "She broke through in 2013 with Show das Poderosas.",
+   "She has recorded with J Balvin, Major Lazer and Cardi B.",
+   "Envolver reached number one on Spotify's global chart in 2022."
+  ],
+  "born": "03-30",
+  "keyAlbums": [
+   [
+    "Anitta",
+    2013
+   ],
+   [
+    "Bang",
+    2015
+   ],
+   [
+    "Kisses",
+    2019
+   ],
+   [
+    "Versions of Me",
+    2022
+   ]
+  ],
+  "songs": [
+   "Show das Poderosas",
+   "Vai Malandra",
+   "Downtown",
+   "Envolver",
+   "Bang"
+  ],
+  "influencedBy": [
+   {
+    "id": "j-balvin",
+    "why": "Their duet Downtown helped carry her into the Spanish-language market.",
+    "s": 3
+   },
+   {
+    "id": "diplo",
+    "why": "Her work with Diplo's Major Lazer, including Sua Cara, opened global dance audiences.",
+    "s": 3
+   },
+   {
+    "id": "daddy-yankee",
+    "why": "Her Spanish-language singles build on the reggaeton style Daddy Yankee spread.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "rihanna",
+    "why": "A global pop star who moves between Caribbean rhythm and pop."
+   },
+   {
+    "id": "megan-thee-stallion",
+    "why": "A confident, club-focused star rooted in a regional sound."
+   }
+  ]
+ },
+ {
+  "id": "soda-stereo",
+  "years": "1982–1997",
+  "origin": "Buenos Aires, Argentina",
+  "genres": [
+   "rock en español",
+   "new wave",
+   "post-punk"
+  ],
+  "summary": "Argentine trio of Gustavo Cerati, Zeta Bosio and Charly Alberti that became the most influential rock en español band. Their tours across Latin America in the 1980s showed rock in Spanish could fill stadiums region-wide.",
+  "know": [
+   "Their Signos tour in 1986 and 1987 took them across Latin America.",
+   "Dynamo in 1992 moved toward shoegaze and dense guitar textures.",
+   "Their 1997 farewell concert was released as El Último Concierto."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Nada Personal",
+    1985
+   ],
+   [
+    "Signos",
+    1986
+   ],
+   [
+    "Canción Animal",
+    1990
+   ],
+   [
+    "Dynamo",
+    1992
+   ]
+  ],
+  "songs": [
+   "De Música Ligera",
+   "Persiana Americana",
+   "Cuando Pase el Temblor",
+   "Nada Personal",
+   "En la Ciudad de la Furia"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-police",
+    "why": "Their early trio sound and reggae-tinged guitar are widely traced to the Police.",
+    "s": 2
+   },
+   {
+    "id": "the-cure",
+    "why": "The moody new wave of Signos draws on the Cure.",
+    "s": 2
+   },
+   {
+    "id": "charly-garcia",
+    "why": "García had already proven rock in Spanish could be a major art form in Argentina.",
+    "s": 2
+   },
+   {
+    "id": "my-bloody-valentine",
+    "why": "Dynamo's wall of guitars follows the shoegaze sound of My Bloody Valentine.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "gustavo-cerati",
+    "why": "Cerati's solo career grew directly from his work as the band's leader and writer.",
+    "s": 3
+   },
+   {
+    "id": "shakira",
+    "why": "Shakira has named Soda Stereo and Cerati as key influences on her rock side.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "u2",
+    "why": "A band whose tours turned it into a continental phenomenon."
+   },
+   {
+    "id": "depeche-mode",
+    "why": "Moody, synth-tinged rock that filled stadiums."
+   }
+  ]
+ },
+ {
+  "id": "gustavo-cerati",
+  "years": "1982–2010",
+  "origin": "Buenos Aires, Argentina",
+  "genres": [
+   "rock en español",
+   "electronic rock",
+   "art pop"
+  ],
+  "summary": "Singer, guitarist and songwriter who led Soda Stereo and then built a solo career mixing rock with electronics and orchestral textures. He is widely seen as the most important figure in Latin American rock.",
+  "know": [
+   "He founded Soda Stereo in 1982 with Zeta Bosio and Charly Alberti.",
+   "His solo album Bocanada in 1999 brought in sampling and trip-hop textures.",
+   "He suffered a stroke in 2010 after a concert in Caracas and died in 2014."
+  ],
+  "born": "08-11",
+  "keyAlbums": [
+   [
+    "Amor Amarillo",
+    1993
+   ],
+   [
+    "Bocanada",
+    1999
+   ],
+   [
+    "Siempre Es Hoy",
+    2002
+   ],
+   [
+    "Fuerza Natural",
+    2009
+   ]
+  ],
+  "songs": [
+   "Puente",
+   "Crimen",
+   "Adiós",
+   "Lago en el Cielo",
+   "Deja Vu"
+  ],
+  "influencedBy": [
+   {
+    "id": "soda-stereo",
+    "why": "His solo work grew from the band he led and wrote for.",
+    "s": 3
+   },
+   {
+    "id": "david-bowie",
+    "why": "Cerati often cited Bowie's shifting, art-minded approach to rock.",
+    "s": 2
+   },
+   {
+    "id": "the-police",
+    "why": "His guitar style took a lot from Andy Summers's clean, chorused playing.",
+    "s": 2
+   },
+   {
+    "id": "charly-garcia",
+    "why": "García was the Argentine rock songwriter of the generation before him.",
+    "s": 2
+   },
+   {
+    "id": "massive-attack",
+    "why": "The trip-hop beats and textures on Bocanada follow Massive Attack's sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "shakira",
+    "why": "Shakira has called Cerati an inspiration and covered his music in tribute.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "david-bowie",
+    "why": "A rock star who kept reinventing his sound with each record."
+   },
+   {
+    "id": "radiohead",
+    "why": "A guitar band that moved toward electronics and atmosphere."
+   }
+  ]
+ },
+ {
+  "id": "cafe-tacvba",
+  "years": "1989–present",
+  "origin": "Naucalpan, Mexico",
+  "genres": [
+   "rock en español",
+   "alternative rock",
+   "Mexican folk fusion"
+  ],
+  "summary": "Band from Ciudad Satélite outside Mexico City that blends punk, new wave and electronics with Mexican folk forms like son jarocho and norteño. Their 1994 album Re is often ranked among the best Latin rock albums.",
+  "know": [
+   "They took their name from a historic Mexico City café.",
+   "Re, produced by Gustavo Santaolalla, jumps between dozens of styles across 20 tracks.",
+   "Avalancha de Éxitos in 1996 was an album of covers, including Juan Luis Guerra's Ojalá Que Llueva Café."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Café Tacvba",
+    1992
+   ],
+   [
+    "Re",
+    1994
+   ],
+   [
+    "Avalancha de Éxitos",
+    1996
+   ],
+   [
+    "Cuatro Caminos",
+    2003
+   ]
+  ],
+  "songs": [
+   "Las Flores",
+   "La Ingrata",
+   "Chilanga Banda",
+   "Eres",
+   "Ojalá Que Llueva Café"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-cure",
+    "why": "Singer Rubén Albarrán and the band have cited the Cure among their early influences.",
+    "s": 2
+   },
+   {
+    "id": "los-tigres-del-norte",
+    "why": "La Ingrata and similar songs borrow the norteño form Los Tigres made famous.",
+    "s": 1
+   },
+   {
+    "id": "juan-luis-guerra",
+    "why": "They covered Guerra's Ojalá Que Llueva Café, turning it into one of their best-known songs.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "natalia-lafourcade",
+    "why": "Her mix of Mexican tradition and alternative pop follows the path Café Tacvba opened.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "beck",
+    "why": "Genre-hopping records stitched together with humor."
+   },
+   {
+    "id": "talking-heads",
+    "why": "Art-school rock that draws on global rhythms."
+   }
+  ]
+ },
+ {
+  "id": "mana",
+  "years": "1986–present",
+  "origin": "Guadalajara, Mexico",
+  "genres": [
+   "Latin pop rock",
+   "rock en español",
+   "reggae rock"
+  ],
+  "summary": "Guadalajara band led by singer Fher Olvera that became one of the best-selling Latin rock acts. Their melodic pop rock with reggae and Latin touches filled arenas across the Americas.",
+  "know": [
+   "The band took the name Maná in 1986 after starting as Sombrero Verde.",
+   "¿Dónde Jugarán los Niños? in 1992 became one of the best-selling Spanish-language rock albums.",
+   "They played on Santana's Corazón Espinado from Supernatural in 1999."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "¿Dónde Jugarán los Niños?",
+    1992
+   ],
+   [
+    "Sueños Líquidos",
+    1997
+   ],
+   [
+    "MTV Unplugged",
+    1999
+   ],
+   [
+    "Revolución de Amor",
+    2002
+   ]
+  ],
+  "songs": [
+   "Rayando el Sol",
+   "Oye Mi Amor",
+   "Vivir Sin Aire",
+   "Clavado en un Bar",
+   "Labios Compartidos"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-police",
+    "why": "Their reggae-tinged pop rock is widely compared to the Police, whom the band admired.",
+    "s": 2
+   },
+   {
+    "id": "bob-marley",
+    "why": "Reggae rhythms run through their records, in the line of Marley.",
+    "s": 1
+   },
+   {
+    "id": "santana",
+    "why": "Working with Santana on Corazón Espinado tied them to his Latin rock.",
+    "s": 3
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "u2",
+    "why": "Anthemic, earnest rock built for arenas."
+   },
+   {
+    "id": "bon-jovi",
+    "why": "A hugely popular band known for big choruses and power ballads."
+   }
+  ]
+ },
+ {
+  "id": "los-fabulosos-cadillacs",
+  "years": "1985–present",
+  "origin": "Buenos Aires, Argentina",
+  "genres": [
+   "ska",
+   "rock en español",
+   "Latin rock"
+  ],
+  "summary": "Buenos Aires band led by Vicentico and Flavio Cianciarulo that mixed ska and punk with salsa, cumbia and tango. Their hit Matador became one of the defining songs of rock en español.",
+  "know": [
+   "They formed in the mid-1980s inspired by British two-tone ska.",
+   "Vasos Vacíos in 1993 included a duet with Celia Cruz.",
+   "Fabulosos Calavera won a Grammy for Best Latin Rock/Alternative Performance in 1998."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "El León",
+    1992
+   ],
+   [
+    "Vasos Vacíos",
+    1993
+   ],
+   [
+    "Rey Azúcar",
+    1995
+   ],
+   [
+    "Fabulosos Calavera",
+    1997
+   ]
+  ],
+  "songs": [
+   "Matador",
+   "Vasos Vacíos",
+   "Mal Bicho",
+   "Siguiendo la Luna",
+   "El Satánico Dr. Cadillac"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-specials",
+    "why": "The band started out playing the two-tone ska of the Specials.",
+    "s": 2
+   },
+   {
+    "id": "madness",
+    "why": "Madness's brassy ska pop was another early model.",
+    "s": 2
+   },
+   {
+    "id": "the-clash",
+    "why": "The Clash's mix of punk, reggae and politics shaped their direction.",
+    "s": 2
+   },
+   {
+    "id": "celia-cruz",
+    "why": "Cruz sang with them on Vasos Vacíos, linking them to salsa.",
+    "s": 3
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "rancid",
+    "why": "Punk bands that live on ska rhythms."
+   },
+   {
+    "id": "the-pogues",
+    "why": "Punk energy fused with a local folk tradition."
+   }
+  ]
+ },
+ {
+  "id": "charly-garcia",
+  "years": "1969–present",
+  "origin": "Buenos Aires, Argentina",
+  "genres": [
+   "rock nacional",
+   "progressive rock",
+   "new wave"
+  ],
+  "summary": "Argentine songwriter and keyboardist who led Sui Generis, La Máquina de Hacer Pájaros and Serú Girán before a major solo career. He is regarded as the central figure of Argentine rock.",
+  "know": [
+   "Sui Generis, his first band, formed in the late 1960s with Nito Mestre.",
+   "Serú Girán was one of Argentina's most popular bands of the late 1970s.",
+   "Clics Modernos was recorded in New York in 1983 and moved him toward synths and drum machines."
+  ],
+  "born": "10-23",
+  "keyAlbums": [
+   [
+    "Vida (Sui Generis)",
+    1972
+   ],
+   [
+    "Yendo de la Cama al Living",
+    1982
+   ],
+   [
+    "Clics Modernos",
+    1983
+   ],
+   [
+    "Piano Bar",
+    1984
+   ]
+  ],
+  "songs": [
+   "Rasguña las Piedras",
+   "Los Dinosaurios",
+   "Nos Siguen Pegando Abajo",
+   "Demoliendo Hoteles",
+   "Yo No Quiero Volverme Tan Loco"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "García has often credited the Beatles as his first and lasting influence.",
+    "s": 2
+   },
+   {
+    "id": "bob-dylan",
+    "why": "The acoustic, lyric-focused songs of Sui Generis follow Dylan's model.",
+    "s": 1
+   },
+   {
+    "id": "prince",
+    "why": "The synths and drum machines of Clics Modernos reflect early-1980s Prince.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "soda-stereo",
+    "why": "His success made the case for ambitious rock in Spanish that Soda Stereo built on.",
+    "s": 2
+   },
+   {
+    "id": "gustavo-cerati",
+    "why": "Cerati grew up on García's records and followed his path into art rock.",
+    "s": 2
+   },
+   {
+    "id": "mercedes-sosa",
+    "why": "Sosa recorded his songs and performed with him, linking folk and rock.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "david-bowie",
+    "why": "A restless rock artist who reinvented himself across eras."
+   },
+   {
+    "id": "elvis-costello",
+    "why": "A prolific, clever songwriter who kept changing styles."
+   }
+  ]
+ },
+ {
+  "id": "manu-chao",
+  "years": "1987–present",
+  "origin": "Paris, France",
+  "genres": [
+   "Latin alternative",
+   "mestizo",
+   "reggae rock"
+  ],
+  "summary": "French-Spanish singer who led Mano Negra and then made the multilingual solo album Clandestino. His mix of punk, reggae, rumba and folk, sung in several languages, defined the 'mestizo' sound.",
+  "know": [
+   "Mano Negra formed in Paris in 1987 and toured Latin America extensively.",
+   "Clandestino in 1998 was recorded largely on a portable setup while traveling.",
+   "He sings in Spanish, French, English, Portuguese and other languages."
+  ],
+  "born": "06-21",
+  "keyAlbums": [
+   [
+    "King of Bongo (Mano Negra)",
+    1991
+   ],
+   [
+    "Clandestino",
+    1998
+   ],
+   [
+    "Próxima Estación: Esperanza",
+    2001
+   ],
+   [
+    "La Radiolina",
+    2007
+   ]
+  ],
+  "songs": [
+   "Clandestino",
+   "Me Gustas Tú",
+   "Bongo Bong",
+   "Mala Vida",
+   "Desaparecido"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-clash",
+    "why": "Mano Negra's punk mixed with reggae and global rhythm follows the Clash's Sandinista! era.",
+    "s": 2
+   },
+   {
+    "id": "bob-marley",
+    "why": "Reggae's loping rhythm underlies much of Clandestino.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "bomba-estereo",
+    "why": "Bomba Estéreo's mix of Latin folk rhythm and electronic and punk energy follows the mestizo sound.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-pogues",
+    "why": "Punk energy built on traditional music."
+   },
+   {
+    "id": "rachid-taha",
+    "why": "A singer who mixed rock and North African sounds with Clash-style attitude."
+   }
+  ]
+ },
+ {
+  "id": "natalia-lafourcade",
+  "years": "2002–present",
+  "origin": "Mexico City, Mexico",
+  "genres": [
+   "Latin pop",
+   "Mexican folk",
+   "bolero"
+  ],
+  "summary": "Mexican singer-songwriter who began in pop-rock and turned toward Latin American folk and bolero. Her later albums revive older song traditions with careful, acoustic arrangements.",
+  "know": [
+   "She grew up partly in Coatepec, Veracruz.",
+   "Mujer Divina in 2012 was a tribute to the songs of Agustín Lara.",
+   "Musas, made with the guitar duo Los Macorinos, revisited classic Latin American songs."
+  ],
+  "born": "02-26",
+  "keyAlbums": [
+   [
+    "Natalia Lafourcade",
+    2002
+   ],
+   [
+    "Hasta la Raíz",
+    2015
+   ],
+   [
+    "Musas",
+    2017
+   ],
+   [
+    "De Todas las Flores",
+    2022
+   ]
+  ],
+  "songs": [
+   "En el 2000",
+   "Hasta la Raíz",
+   "Tú Sí Sabes Quererme",
+   "Nunca Es Suficiente",
+   "Mi Tierra Veracruzana"
+  ],
+  "influencedBy": [
+   {
+    "id": "agustin-lara",
+    "why": "She recorded a full tribute album, Mujer Divina, to Lara's songs.",
+    "s": 3
+   },
+   {
+    "id": "cafe-tacvba",
+    "why": "Her blend of Mexican tradition and alternative pop follows Café Tacvba's lead.",
+    "s": 1
+   },
+   {
+    "id": "mercedes-sosa",
+    "why": "Her folk revival on Musas follows the path of pan-Latin interpreters like Sosa.",
+    "s": 1
+   },
+   {
+    "id": "jose-alfredo-jimenez",
+    "why": "Her ranchera and bolero side draws on the Mexican song canon Jiménez built.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "norah-jones",
+    "why": "A warm voice in soft, acoustic, roots-leaning arrangements."
+   },
+   {
+    "id": "joni-mitchell",
+    "why": "A songwriter who turned inward toward acoustic and folk forms."
+   }
+  ]
+ },
+ {
+  "id": "juanes",
+  "years": "1988–present",
+  "origin": "Medellín, Colombia",
+  "genres": [
+   "Latin rock",
+   "Latin pop",
+   "Colombian folk-pop"
+  ],
+  "summary": "Colombian singer and guitarist who started in the metal band Ekhymosis and became a leading Latin pop-rock star. His songs mix rock guitar with Colombian rhythms like cumbia and vallenato.",
+  "know": [
+   "He played in the Medellín metal band Ekhymosis before going solo.",
+   "His solo debut Fíjate Bien in 2000 won three Latin Grammys.",
+   "La Camisa Negra was a hit across Latin America and Europe in 2005."
+  ],
+  "born": "08-09",
+  "keyAlbums": [
+   [
+    "Fíjate Bien",
+    2000
+   ],
+   [
+    "Un Día Normal",
+    2002
+   ],
+   [
+    "Mi Sangre",
+    2004
+   ],
+   [
+    "MTV Unplugged",
+    2012
+   ]
+  ],
+  "songs": [
+   "A Dios le Pido",
+   "La Camisa Negra",
+   "Es Por Ti",
+   "Me Enamora",
+   "Fotografía"
+  ],
+  "influencedBy": [
+   {
+    "id": "metallica",
+    "why": "Juanes has said Metallica drove his early guitar playing and his time in Ekhymosis.",
+    "s": 3
+   },
+   {
+    "id": "soda-stereo",
+    "why": "Soda Stereo showed his generation that rock in Spanish could be mainstream.",
+    "s": 2
+   },
+   {
+    "id": "gustavo-cerati",
+    "why": "His melodic rock guitar sits in the line Cerati defined.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "bryan-adams",
+    "why": "Heartfelt pop rock with sing-along choruses."
+   },
+   {
+    "id": "coldplay",
+    "why": "Earnest, radio-friendly guitar pop with a global audience."
+   }
+  ]
+ },
+ {
+  "id": "calle-13",
+  "years": "2004–2015",
+  "origin": "San Juan, Puerto Rico",
+  "genres": [
+   "alternative reggaeton",
+   "Latin hip-hop",
+   "Latin alternative"
+  ],
+  "summary": "Puerto Rican group of stepbrothers Residente and Visitante, with their sister iLe, who started inside reggaeton and widened into Latin American folk, rock and hip-hop. They won more Latin Grammys than any act of their time.",
+  "know": [
+   "Atrévete-te-te in 2005 made them stars.",
+   "Latinoamérica featured singers Totó la Momposina, Susana Baca and Maria Rita.",
+   "They won more than 20 Latin Grammy awards."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Calle 13",
+    2005
+   ],
+   [
+    "Residente o Visitante",
+    2007
+   ],
+   [
+    "Los de Atrás Vienen Conmigo",
+    2008
+   ],
+   [
+    "Entren los que Quieran",
+    2010
+   ]
+  ],
+  "songs": [
+   "Atrévete-te-te",
+   "Latinoamérica",
+   "No Hay Nadie Como Tú",
+   "La Vuelta al Mundo",
+   "La Perla"
+  ],
+  "influencedBy": [
+   {
+    "id": "ruben-blades",
+    "why": "Blades joined them on La Perla, and their narrative social songwriting follows his.",
+    "s": 3
+   },
+   {
+    "id": "tego-calderon",
+    "why": "Their Afro-Caribbean, lyric-heavy take on reggaeton follows Tego's lead.",
+    "s": 1
+   },
+   {
+    "id": "daddy-yankee",
+    "why": "They started inside the reggaeton boom Daddy Yankee led.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "beastie-boys",
+    "why": "Wordplay-heavy hip-hop that keeps jumping genres."
+   },
+   {
+    "id": "outkast",
+    "why": "Rap that broke out of its scene into wide experiment."
+   }
+  ]
+ },
+ {
+  "id": "tego-calderon",
+  "years": "2002–present",
+  "origin": "San Juan, Puerto Rico",
+  "genres": [
+   "reggaeton",
+   "Latin hip-hop",
+   "bomba"
+  ],
+  "summary": "Puerto Rican rapper whose 2002 album El Abayarde brought Afro-Puerto Rican rhythms like bomba and salsa samples into reggaeton. His style gave the genre a more rooted, lyric-focused direction.",
+  "know": [
+   "El Abayarde in 2002 is widely seen as a breakthrough reggaeton album.",
+   "He draws heavily on bomba and plena, Afro-Puerto Rican traditions.",
+   "He has also acted in films, including the Fast and Furious series."
+  ],
+  "born": "02-01",
+  "keyAlbums": [
+   [
+    "El Abayarde",
+    2002
+   ],
+   [
+    "El Enemy de los Guasíbiri",
+    2004
+   ],
+   [
+    "The Underdog/El Subestimado",
+    2006
+   ]
+  ],
+  "songs": [
+   "Pa' Que Retozen",
+   "Guasa Guasa",
+   "Al Natural",
+   "Métele Sazón",
+   "Dando Break"
+  ],
+  "influencedBy": [
+   {
+    "id": "shabba-ranks",
+    "why": "Reggaeton's dancehall rhythm, and Tego's gruff delivery, trace back to 1990s dancehall like Shabba's.",
+    "s": 1
+   },
+   {
+    "id": "hector-lavoe",
+    "why": "His salsa samples and sonero-style wit draw on the Fania-era salsa he grew up with.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "calle-13",
+    "why": "Calle 13 followed his rooted, lyric-heavy approach to reggaeton.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "mos-def",
+    "why": "A rapper who centers Black history and culture in his rhymes."
+   },
+   {
+    "id": "damian-marley",
+    "why": "Dancehall-rooted music that carries a strong sense of heritage."
+   }
+  ]
+ },
+ {
+  "id": "don-omar",
+  "years": "2003–present",
+  "origin": "San Juan, Puerto Rico",
+  "genres": [
+   "reggaeton",
+   "Latin urban",
+   "dancehall"
+  ],
+  "summary": "Puerto Rican singer and rapper who helped carry reggaeton to a global audience in the 2000s. His melodic delivery and later Latin-electro hits like Danza Kuduro made him one of the genre's biggest stars.",
+  "know": [
+   "His debut The Last Don in 2003 was a major reggaeton breakthrough.",
+   "King of Kings in 2006 was one of the best-selling reggaeton albums of its time.",
+   "Danza Kuduro with Lucenzo in 2010 borrowed from Angolan kuduro and became a worldwide hit."
+  ],
+  "born": "02-10",
+  "keyAlbums": [
+   [
+    "The Last Don",
+    2003
+   ],
+   [
+    "King of Kings",
+    2006
+   ],
+   [
+    "iDon",
+    2009
+   ],
+   [
+    "Meet the Orphans",
+    2010
+   ]
+  ],
+  "songs": [
+   "Dile",
+   "Dale Don Dale",
+   "Salió el Sol",
+   "Danza Kuduro",
+   "Taboo"
+  ],
+  "influencedBy": [
+   {
+    "id": "shabba-ranks",
+    "why": "His rhythms and vocal cadences come out of the 1990s dancehall that seeded reggaeton.",
+    "s": 1
+   },
+   {
+    "id": "daddy-yankee",
+    "why": "He rose alongside Daddy Yankee in the same Puerto Rican underground scene.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "j-balvin",
+    "why": "Balvin's melodic, pop-facing reggaeton builds on the style Don Omar spread.",
+    "s": 1
+   },
+   {
+    "id": "maluma",
+    "why": "Maluma's romantic reggaeton singing follows Don Omar's melodic lead.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "sean-paul",
+    "why": "Dancehall-rooted club hits that crossed into global pop."
+   },
+   {
+    "id": "usher",
+    "why": "A smooth singer who dominated club radio in the 2000s."
+   }
+  ]
+ },
+ {
+  "id": "wisin-y-yandel",
+  "years": "1998–present",
+  "origin": "Cayey, Puerto Rico",
+  "genres": [
+   "reggaeton",
+   "Latin urban",
+   "Latin pop"
+  ],
+  "summary": "Puerto Rican duo of rapper Wisin and singer Yandel whose run of hits in the 2000s made them reggaeton's most successful pair. Their records helped shape the genre's polished, club-ready sound.",
+  "know": [
+   "Both members grew up in Cayey, Puerto Rico.",
+   "Pa'l Mundo in 2005 was a major commercial breakthrough.",
+   "They worked closely with the Luny Tunes production team, where Tainy got his start."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Pa'l Mundo",
+    2005
+   ],
+   [
+    "Los Vaqueros",
+    2006
+   ],
+   [
+    "Wisin vs. Yandel: Los Extraterrestres",
+    2007
+   ],
+   [
+    "La Revolución",
+    2009
+   ]
+  ],
+  "songs": [
+   "Rakata",
+   "Pam Pam",
+   "Llamé Pa' Verte",
+   "Ahora Es",
+   "Algo Me Gusta de Ti"
+  ],
+  "influencedBy": [
+   {
+    "id": "daddy-yankee",
+    "why": "They came up in the same Puerto Rican mixtape scene that Daddy Yankee led.",
+    "s": 2
+   },
+   {
+    "id": "shabba-ranks",
+    "why": "Their rhythms rest on the dancehall that seeded reggaeton.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "tainy",
+    "why": "Tainy began producing for the duo as a teenager within the Luny Tunes team.",
+    "s": 3
+   },
+   {
+    "id": "j-balvin",
+    "why": "Balvin's crossover reggaeton followed the polished sound the duo popularized.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "outkast",
+    "why": "A duo pairing a rapper and a melodic singer-rapper."
+   },
+   {
+    "id": "sam-and-dave",
+    "why": "A two-man act whose voices played off each other."
+   }
+  ]
+ },
+ {
+  "id": "ivy-queen",
+  "years": "1995–present",
+  "origin": "San Juan, Puerto Rico",
+  "genres": [
+   "reggaeton",
+   "Latin hip-hop",
+   "dancehall"
+  ],
+  "summary": "Puerto Rican rapper and singer known as 'La Diva' who was the leading woman in early reggaeton. Her deep voice and assertive lyrics made her a pioneer for women in the genre.",
+  "know": [
+   "She began in the mid-1990s with the crew The Noise.",
+   "Quiero Bailar from her 2003 album Diva became a reggaeton standard.",
+   "She is often called the 'Queen of Reggaeton.'"
+  ],
+  "born": "03-04",
+  "keyAlbums": [
+   [
+    "En Mi Imperio",
+    1997
+   ],
+   [
+    "Diva",
+    2003
+   ],
+   [
+    "Flashback",
+    2005
+   ],
+   [
+    "Sentimiento",
+    2007
+   ]
+  ],
+  "songs": [
+   "Quiero Bailar",
+   "Te He Querido, Te He Llorado",
+   "Que Lloren",
+   "Cuéntale"
+  ],
+  "influencedBy": [
+   {
+    "id": "queen-latifah",
+    "why": "Her commanding, self-assured persona follows the path of women rappers like Latifah.",
+    "s": 1
+   },
+   {
+    "id": "shabba-ranks",
+    "why": "Her early riddims come out of the 1990s dancehall that seeded reggaeton.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "karol-g",
+    "why": "Karol G has credited Ivy Queen as a pioneer who opened reggaeton to women.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "missy-elliott",
+    "why": "A trailblazing woman in a male-dominated rap scene."
+   },
+   {
+    "id": "mc-lyte",
+    "why": "A strong, confident early female MC."
+   }
+  ]
+ },
+ {
+  "id": "j-balvin",
+  "years": "2009–present",
+  "origin": "Medellín, Colombia",
+  "genres": [
+   "reggaeton",
+   "Latin pop",
+   "Latin trap"
+  ],
+  "summary": "Colombian singer who helped shift reggaeton's center from Puerto Rico to Medellín and toward a softer, global pop sound. Mi Gente in 2017 became one of the most streamed songs in the world.",
+  "know": [
+   "He spent time in the United States as a teen before returning to Medellín.",
+   "Mi Gente, with Willy William, became a global hit in 2017 and was remixed with Beyoncé.",
+   "He released the joint album Oasis with Bad Bunny in 2019."
+  ],
+  "born": "05-07",
+  "keyAlbums": [
+   [
+    "Energía",
+    2016
+   ],
+   [
+    "Vibras",
+    2018
+   ],
+   [
+    "Oasis (with Bad Bunny)",
+    2019
+   ],
+   [
+    "Colores",
+    2020
+   ]
+  ],
+  "songs": [
+   "Ay Vamos",
+   "Ginza",
+   "Mi Gente",
+   "Safari",
+   "Rojo"
+  ],
+  "influencedBy": [
+   {
+    "id": "daddy-yankee",
+    "why": "Balvin has called Daddy Yankee a key influence who showed reggaeton could go global.",
+    "s": 2
+   },
+   {
+    "id": "don-omar",
+    "why": "His melodic approach builds on Don Omar's singing style.",
+    "s": 1
+   },
+   {
+    "id": "tainy",
+    "why": "Tainy produced much of Oasis and helped shape its sound.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "bad-bunny",
+    "why": "Their joint album Oasis was a major step in Bad Bunny's rise.",
+    "s": 3
+   },
+   {
+    "id": "anitta",
+    "why": "Their duet Downtown helped carry Anitta into Spanish-language markets.",
+    "s": 3
+   },
+   {
+    "id": "rosalia",
+    "why": "Their 2019 single Con Altura was a breakthrough hit for Rosalía.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "drake",
+    "why": "A melodic rapper-singer who reshaped global pop."
+   },
+   {
+    "id": "dua-lipa",
+    "why": "Bright, dance-focused pop made for global charts."
+   }
+  ]
+ },
+ {
+  "id": "maluma",
+  "years": "2011–present",
+  "origin": "Medellín, Colombia",
+  "genres": [
+   "reggaeton",
+   "Latin pop",
+   "Latin trap"
+  ],
+  "summary": "Colombian singer from Medellín who became one of reggaeton's top crossover stars with romantic hits and many collaborations. He has worked with Shakira, Madonna and The Weeknd.",
+  "know": [
+   "His breakthrough came with Pretty Boy, Dirty Boy in 2015.",
+   "Felices los 4 in 2017 was one of the biggest Latin songs of that year.",
+   "He dueted with Shakira on Chantaje and Clandestino."
+  ],
+  "born": "01-28",
+  "keyAlbums": [
+   [
+    "Pretty Boy, Dirty Boy",
+    2015
+   ],
+   [
+    "F.A.M.E.",
+    2018
+   ],
+   [
+    "11:11",
+    2019
+   ],
+   [
+    "Papi Juancho",
+    2020
+   ]
+  ],
+  "songs": [
+   "Felices los 4",
+   "Borró Cassette",
+   "Hawái",
+   "Corazón",
+   "Chantaje"
+  ],
+  "influencedBy": [
+   {
+    "id": "daddy-yankee",
+    "why": "He grew up on Daddy Yankee's reggaeton and followed his move into pop.",
+    "s": 2
+   },
+   {
+    "id": "don-omar",
+    "why": "His romantic reggaeton singing follows Don Omar's melodic lead.",
+    "s": 1
+   },
+   {
+    "id": "shakira",
+    "why": "Their duets, starting with Chantaje, greatly widened his audience.",
+    "s": 3
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "justin-bieber",
+    "why": "A young pop star whose romantic hits ran global charts."
+   },
+   {
+    "id": "chris-brown",
+    "why": "A dancer-singer in the pop and R&B mold."
+   }
+  ]
+ },
+ {
+  "id": "karol-g",
+  "years": "2010–present",
+  "origin": "Medellín, Colombia",
+  "genres": [
+   "reggaeton",
+   "Latin pop",
+   "Latin trap"
+  ],
+  "summary": "Colombian singer from Medellín who became the most successful woman in modern reggaeton. Her 2023 album Mañana Será Bonito was the first all-Spanish album by a woman to top the Billboard 200.",
+  "know": [
+   "She worked for years in Medellín before her 2017 debut album Unstoppable.",
+   "Tusa with Nicki Minaj in 2019 was a global hit.",
+   "Mañana Será Bonito reached number one on the Billboard 200 in 2023."
+  ],
+  "born": "02-14",
+  "keyAlbums": [
+   [
+    "Unstoppable",
+    2017
+   ],
+   [
+    "Ocean",
+    2019
+   ],
+   [
+    "KG0516",
+    2021
+   ],
+   [
+    "Mañana Será Bonito",
+    2023
+   ]
+  ],
+  "songs": [
+   "Tusa",
+   "Bichota",
+   "Provenza",
+   "Mientras Me Curo del Cora",
+   "TQG"
+  ],
+  "influencedBy": [
+   {
+    "id": "ivy-queen",
+    "why": "She has credited Ivy Queen with opening reggaeton to women.",
+    "s": 2
+   },
+   {
+    "id": "daddy-yankee",
+    "why": "Her early sound sits squarely in the reggaeton style Daddy Yankee spread.",
+    "s": 1
+   },
+   {
+    "id": "shakira",
+    "why": "Shakira is a fellow Colombian pioneer, and they recorded TQG together in 2023.",
+    "s": 3
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "rihanna",
+    "why": "A Caribbean-rooted pop star with a long run of club hits."
+   },
+   {
+    "id": "nicki-minaj",
+    "why": "A bold, colorful star who crossed hip-hop into pop."
+   }
+  ]
+ },
+ {
+  "id": "rauw-alejandro",
+  "years": "2016–present",
+  "origin": "San Juan, Puerto Rico",
+  "genres": [
+   "reggaeton",
+   "Latin R&B",
+   "Latin pop"
+  ],
+  "summary": "Puerto Rican singer and dancer who blends reggaeton with R&B, synth-pop and electronic dance music. His dance-heavy shows and polished production made him one of the 2020s' biggest Latin stars.",
+  "know": [
+   "He played soccer seriously before turning to music.",
+   "Todo de Ti in 2021 became a global hit.",
+   "He has named Michael Jackson as his biggest influence as a performer."
+  ],
+  "born": "01-10",
+  "keyAlbums": [
+   [
+    "Afrodisíaco",
+    2020
+   ],
+   [
+    "Vice Versa",
+    2021
+   ],
+   [
+    "Saturno",
+    2022
+   ],
+   [
+    "Cosa Nuestra",
+    2024
+   ]
+  ],
+  "songs": [
+   "Todo de Ti",
+   "Desesperados",
+   "Punto 40",
+   "Baby Hello"
+  ],
+  "influencedBy": [
+   {
+    "id": "michael-jackson",
+    "why": "He has named Jackson as his biggest influence on singing and dancing.",
+    "s": 3
+   },
+   {
+    "id": "chris-brown",
+    "why": "His mix of R&B singing and choreography follows Chris Brown's model.",
+    "s": 1
+   },
+   {
+    "id": "daddy-yankee",
+    "why": "His reggaeton base comes from the style Daddy Yankee spread.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "usher",
+    "why": "An R&B singer whose shows center on dance."
+   },
+   {
+    "id": "the-weeknd",
+    "why": "R&B with 1980s synth-pop gloss."
+   }
+  ]
+ },
+ {
+  "id": "tainy",
+  "years": "2005–present",
+  "origin": "San Juan, Puerto Rico",
+  "genres": [
+   "reggaeton",
+   "Latin trap",
+   "Latin electronic"
+  ],
+  "summary": "Puerto Rican producer who started as a teenager on the Luny Tunes team and became the key sound designer of modern reggaeton. His atmospheric, genre-blending beats shaped records by Bad Bunny and J Balvin.",
+  "know": [
+   "He was discovered by Luny Tunes as a teenager in the mid-2000s.",
+   "He produced much of J Balvin and Bad Bunny's Oasis in 2019.",
+   "His own album Data came out in 2023."
+  ],
+  "born": "02-09",
+  "keyAlbums": [
+   [
+    "Oasis (J Balvin & Bad Bunny)",
+    2019
+   ],
+   [
+    "YHLQMDLG (Bad Bunny)",
+    2020
+   ],
+   [
+    "El Último Tour del Mundo (Bad Bunny)",
+    2020
+   ],
+   [
+    "Data",
+    2023
+   ]
+  ],
+  "songs": [
+   "Callaita",
+   "Dákiti",
+   "Lo Siento BB:/",
+   "Agua"
+  ],
+  "influencedBy": [
+   {
+    "id": "wisin-y-yandel",
+    "why": "He made early beats for the duo while working within the Luny Tunes team.",
+    "s": 3
+   },
+   {
+    "id": "daddy-yankee",
+    "why": "His foundation is the classic reggaeton sound Daddy Yankee spread.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "bad-bunny",
+    "why": "Produced key Bad Bunny tracks such as Callaita and Dákiti and shaped his sound.",
+    "s": 3
+   },
+   {
+    "id": "j-balvin",
+    "why": "Produced most of Oasis and other Balvin records.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "metro-boomin",
+    "why": "A producer whose sound defined a generation of hits."
+   },
+   {
+    "id": "timbaland",
+    "why": "A producer known for futuristic, genre-bending beats."
+   }
+  ]
+ },
+ {
+  "id": "bizarrap",
+  "years": "2017–present",
+  "origin": "Buenos Aires, Argentina",
+  "genres": [
+   "Argentine trap",
+   "EDM",
+   "Latin urban"
+  ],
+  "summary": "Argentine producer and DJ known for his Bzrp Music Sessions, one-take videos in which he produces a track for a guest artist. His sessions with Quevedo and Shakira became global streaming hits.",
+  "know": [
+   "He started by making videos about Argentine freestyle rap battles.",
+   "His sessions feature him at his desk with the guest artist in a single studio setting.",
+   "Shakira's Bzrp Music Sessions, Vol. 53 broke YouTube viewing records for a Latin song in 2023."
+  ],
+  "born": "08-28",
+  "keyAlbums": [
+   [
+    "Bzrp Music Sessions, Vol. 52 (Quevedo)",
+    2022
+   ],
+   [
+    "Bzrp Music Sessions, Vol. 53 (Shakira)",
+    2023
+   ],
+   [
+    "Bzrp Music Sessions, Vol. 55 (Peso Pluma)",
+    2023
+   ]
+  ],
+  "songs": [
+   "Quevedo: Bzrp Music Sessions, Vol. 52",
+   "Shakira: Bzrp Music Sessions, Vol. 53",
+   "Peso Pluma: Bzrp Music Sessions, Vol. 55",
+   "Nathy Peluso: Bzrp Music Sessions, Vol. 36"
+  ],
+  "influencedBy": [
+   {
+    "id": "skrillex",
+    "why": "His big electronic drops follow the EDM style Skrillex made popular.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "shakira",
+    "why": "Produced Shakira's Bzrp Music Sessions, Vol. 53.",
+    "s": 3
+   },
+   {
+    "id": "peso-pluma",
+    "why": "Produced Peso Pluma's Bzrp Music Sessions, Vol. 55.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "kenny-beats",
+    "why": "A producer who built a video series around making tracks with guests."
+   },
+   {
+    "id": "fred-again",
+    "why": "A producer who builds tracks around other people's voices."
+   }
+  ]
+ },
+ {
+  "id": "peso-pluma",
+  "years": "2020–present",
+  "origin": "Guadalajara, Mexico",
+  "genres": [
+   "corridos tumbados",
+   "regional Mexican",
+   "Latin trap"
+  ],
+  "summary": "Mexican singer from Jalisco who took corridos tumbados to global charts in 2023. His raspy voice over guitar-and-tuba arrangements made regional Mexican music a streaming force.",
+  "know": [
+   "Ella Baila Sola with Eslabón Armado reached the Billboard Hot 100 top five in 2023.",
+   "Génesis debuted at number three on the Billboard 200 in 2023.",
+   "He performed his Bzrp Music Session with Bizarrap in 2023."
+  ],
+  "born": "06-15",
+  "keyAlbums": [
+   [
+    "Ah y Qué?",
+    2020
+   ],
+   [
+    "Génesis",
+    2023
+   ],
+   [
+    "Éxodo",
+    2024
+   ]
+  ],
+  "songs": [
+   "Ella Baila Sola",
+   "AMG",
+   "La Bebé (Remix)",
+   "PRC",
+   "Bzrp Music Sessions, Vol. 55"
+  ],
+  "influencedBy": [
+   {
+    "id": "natanael-cano",
+    "why": "Cano popularized the corridos tumbados style Peso Pluma took worldwide, and they recorded together.",
+    "s": 2
+   },
+   {
+    "id": "chalino-sanchez",
+    "why": "The rough, unpolished corrido singing of Chalino is a core root of his style.",
+    "s": 2
+   },
+   {
+    "id": "los-tigres-del-norte",
+    "why": "His corridos follow the norteño storytelling tradition of Los Tigres.",
+    "s": 1
+   },
+   {
+    "id": "bizarrap",
+    "why": "Bizarrap produced his Bzrp session, widening his global audience.",
+    "s": 3
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "future",
+    "why": "A raspy, melodic voice at the center of a new trap sound."
+   },
+   {
+    "id": "young-thug",
+    "why": "A distinctive vocal style that reshaped a genre's sound."
+   }
+  ]
+ },
+ {
+  "id": "natanael-cano",
+  "years": "2018–present",
+  "origin": "Hermosillo, Mexico",
+  "genres": [
+   "corridos tumbados",
+   "regional Mexican",
+   "Latin trap"
+  ],
+  "summary": "Singer from Sonora who is credited with launching corridos tumbados, a fusion of traditional corridos with trap attitude and imagery. His 2019 album Corridos Tumbados named the movement.",
+  "know": [
+   "He released Corridos Tumbados in 2019 while still a teenager.",
+   "Bad Bunny joined the remix of his song Soy El Diablo in 2019.",
+   "He recorded PRC with Peso Pluma in 2023."
+  ],
+  "born": "03-27",
+  "keyAlbums": [
+   [
+    "Todo Es Diferente",
+    2019
+   ],
+   [
+    "Corridos Tumbados",
+    2019
+   ],
+   [
+    "Nata Montana",
+    2023
+   ]
+  ],
+  "songs": [
+   "Amor Tumbado",
+   "Soy El Diablo",
+   "Mi Bello Ángel",
+   "PRC"
+  ],
+  "influencedBy": [
+   {
+    "id": "chalino-sanchez",
+    "why": "His unpolished corrido singing descends from Chalino's raw style.",
+    "s": 2
+   },
+   {
+    "id": "los-tigres-del-norte",
+    "why": "His story songs follow the corrido tradition Los Tigres popularized.",
+    "s": 1
+   },
+   {
+    "id": "bad-bunny",
+    "why": "Bad Bunny's remix of Soy El Diablo connected him to the trap and reggaeton world.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "peso-pluma",
+    "why": "Peso Pluma built his rise on the corridos tumbados lane Cano opened, and they recorded together.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "travis-scott",
+    "why": "A young artist who fused a regional sound with trap."
+   },
+   {
+    "id": "zach-bryan",
+    "why": "A young singer who made a roots form huge on streaming."
+   }
+  ]
+ },
+ {
+  "id": "chalino-sanchez",
+  "years": "1984–1992",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "corrido",
+   "norteño",
+   "banda"
+  ],
+  "summary": "Sinaloa-born singer who built a following in Los Angeles by selling his own cassettes and writing commissioned corridos. His rough, untrained voice became the model for generations of corrido singers.",
+  "know": [
+   "He began by writing custom corridos for clients in Los Angeles.",
+   "He sold his tapes directly at swap meets and shows before signing larger deals.",
+   "He died in May 1992."
+  ],
+  "born": "08-30",
+  "keyAlbums": [],
+  "songs": [
+   "Nieves de Enero",
+   "Alma Enamorada",
+   "Baraja de Oro"
+  ],
+  "influencedBy": [
+   {
+    "id": "los-tigres-del-norte",
+    "why": "His corridos follow the norteño story-song form Los Tigres made popular.",
+    "s": 1
+   },
+   {
+    "id": "jose-alfredo-jimenez",
+    "why": "His romantic songs draw on the ranchera tradition of José Alfredo.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "peso-pluma",
+    "why": "Peso Pluma's raw corrido singing traces back to Chalino.",
+    "s": 2
+   },
+   {
+    "id": "natanael-cano",
+    "why": "Cano's corridos tumbados draw on Chalino's unpolished style.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "hank-williams",
+    "why": "A raw, untrained voice that became a genre's model."
+   },
+   {
+    "id": "merle-haggard",
+    "why": "A singer whose plain-spoken songs came from hard experience."
+   }
+  ]
+ },
+ {
+  "id": "los-tigres-del-norte",
+  "years": "1968–present",
+  "origin": "San Jose, California",
+  "genres": [
+   "norteño",
+   "corrido",
+   "regional Mexican"
+  ],
+  "summary": "Norteño band of the Hernández brothers and cousins, from Sinaloa and based in San Jose, California. Their corridos about migrant life and border stories made them the most famous norteño act in the world.",
+  "know": [
+   "The group moved from Mexico to San Jose in the late 1960s.",
+   "Contrabando y Traición in 1974 became their first major hit.",
+   "Their 2011 MTV Unplugged album featured many guest singers."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Contrabando y Traición",
+    1974
+   ],
+   [
+    "Jefe de Jefes",
+    1997
+   ],
+   [
+    "MTV Unplugged: Los Tigres del Norte and Friends",
+    2011
+   ]
+  ],
+  "songs": [
+   "La Puerta Negra",
+   "Jaula de Oro",
+   "De Paisano a Paisano",
+   "Contrabando y Traición",
+   "Ni Aquí Ni Allá"
+  ],
+  "influencedBy": [
+   {
+    "id": "jose-alfredo-jimenez",
+    "why": "Their ranchera ballads draw on José Alfredo's songbook and style.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "chalino-sanchez",
+    "why": "Chalino built on the corrido form Los Tigres made popular.",
+    "s": 2
+   },
+   {
+    "id": "peso-pluma",
+    "why": "His corridos follow the storytelling Los Tigres made famous.",
+    "s": 1
+   },
+   {
+    "id": "natanael-cano",
+    "why": "Corridos tumbados update the tradition Los Tigres carried.",
+    "s": 1
+   },
+   {
+    "id": "cafe-tacvba",
+    "why": "Café Tacvba borrowed the norteño form for songs like La Ingrata.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "johnny-cash",
+    "why": "Story songs about working people and outsiders."
+   },
+   {
+    "id": "woody-guthrie",
+    "why": "Songs about migrants and the road."
+   }
+  ]
+ },
+ {
+  "id": "vicente-fernandez",
+  "years": "1966–2021",
+  "origin": "Guadalajara, Mexico",
+  "genres": [
+   "ranchera",
+   "mariachi",
+   "bolero ranchero"
+  ],
+  "summary": "Mexican ranchera singer known as 'Chente' whose powerful voice and mariachi shows made him the genre's defining star for half a century. He also starred in many Mexican films.",
+  "know": [
+   "He started as a street and restaurant singer in Guadalajara.",
+   "El Rey, written by José Alfredo Jiménez, became his signature closing song.",
+   "He won several Grammy and Latin Grammy awards."
+  ],
+  "born": "02-17",
+  "keyAlbums": [
+   [
+    "Lástima Que Seas Ajena",
+    1993
+   ],
+   [
+    "Para Siempre",
+    2007
+   ]
+  ],
+  "songs": [
+   "Volver, Volver",
+   "El Rey",
+   "Mujeres Divinas",
+   "Por Tu Maldito Amor",
+   "Acá Entre Nos"
+  ],
+  "influencedBy": [
+   {
+    "id": "jose-alfredo-jimenez",
+    "why": "He made José Alfredo's El Rey his signature and built his repertoire on that songbook.",
+    "s": 2
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "frank-sinatra",
+    "why": "A towering voice who defined how a national songbook was sung."
+   },
+   {
+    "id": "george-jones",
+    "why": "A singer whose voice became the standard for a whole genre."
+   }
+  ]
+ },
+ {
+  "id": "jose-alfredo-jimenez",
+  "years": "1948–1973",
+  "origin": "Mexico City, Mexico",
+  "genres": [
+   "ranchera",
+   "mariachi",
+   "canción ranchera"
+  ],
+  "summary": "Mexican songwriter who wrote hundreds of rancheras, many of them standards. Though he could not read music, his songs became the core repertoire of mariachi and Mexican popular music.",
+  "know": [
+   "He was born in Dolores Hidalgo, Guanajuato, in 1926.",
+   "He could not play an instrument or read music and composed by singing his melodies.",
+   "El Rey, Si Nos Dejan and Ella are among his most covered songs."
+  ],
+  "born": "01-19",
+  "keyAlbums": [],
+  "songs": [
+   "El Rey",
+   "Ella",
+   "Si Nos Dejan",
+   "Paloma Querida",
+   "Amanecí en Tus Brazos"
+  ],
+  "influencedBy": [],
+  "influenced": [
+   {
+    "id": "vicente-fernandez",
+    "why": "Fernández made El Rey his signature and built a career on the songbook.",
+    "s": 2
+   },
+   {
+    "id": "los-tigres-del-norte",
+    "why": "Los Tigres drew on his rancheras in their ballad repertoire.",
+    "s": 1
+   },
+   {
+    "id": "juan-gabriel",
+    "why": "Juan Gabriel carried his ranchera songwriting into a new era.",
+    "s": 1
+   },
+   {
+    "id": "chalino-sanchez",
+    "why": "Chalino drew on his romantic ranchera tradition.",
+    "s": 1
+   },
+   {
+    "id": "natalia-lafourcade",
+    "why": "Lafourcade's ranchera side draws on the canon he wrote.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "hank-williams",
+    "why": "A songwriter whose songs became a genre's basic repertoire."
+   },
+   {
+    "id": "edith-piaf",
+    "why": "A voice of national song, full of heartbreak."
+   }
+  ]
+ },
+ {
+  "id": "juan-gabriel",
+  "years": "1971–2016",
+  "origin": "Ciudad Juárez, Mexico",
+  "genres": [
+   "ranchera",
+   "Latin pop",
+   "balada"
+  ],
+  "summary": "Mexican singer and songwriter known as 'El Divo de Juárez' who wrote more than a thousand songs across ranchera, pop ballad and disco. His flamboyant performances and catalog made him one of Latin music's most beloved figures.",
+  "know": [
+   "He grew up in Ciudad Juárez and began performing there as a teenager.",
+   "His 1990 concerts at the Palacio de Bellas Artes with a symphony orchestra were landmark events.",
+   "Los Dúo in 2015 paired him with many guest singers on his classics."
+  ],
+  "born": "01-07",
+  "keyAlbums": [
+   [
+    "El Alma Joven",
+    1971
+   ],
+   [
+    "Recuerdos, Vol. II",
+    1984
+   ],
+   [
+    "En el Palacio de Bellas Artes",
+    1990
+   ],
+   [
+    "Los Dúo",
+    2015
+   ]
+  ],
+  "songs": [
+   "Querida",
+   "Amor Eterno",
+   "Hasta Que Te Conocí",
+   "Así Fue",
+   "No Tengo Dinero"
+  ],
+  "influencedBy": [
+   {
+    "id": "jose-alfredo-jimenez",
+    "why": "His rancheras follow the songwriting tradition José Alfredo defined.",
+    "s": 1
+   },
+   {
+    "id": "agustin-lara",
+    "why": "His romantic ballads continue the Mexican songwriter line Lara started.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "marc-anthony",
+    "why": "Anthony broke through with a salsa version of Hasta Que Te Conocí.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "elton-john",
+    "why": "A flamboyant performer and prolific hit songwriter."
+   },
+   {
+    "id": "dolly-parton",
+    "why": "A songwriter with a vast catalog and a larger-than-life persona."
+   }
+  ]
+ },
+ {
+  "id": "luis-miguel",
+  "years": "1982–present",
+  "origin": "Mexico City, Mexico",
+  "genres": [
+   "bolero",
+   "Latin pop",
+   "mariachi"
+  ],
+  "summary": "Singer known as 'El Sol de México' who started as a child star and became Latin America's leading romantic voice. His Romance albums revived the classic bolero for a new generation.",
+  "know": [
+   "He released his first album at about 11 years old.",
+   "Romance in 1991 was an album of classic boleros produced with Armando Manzanero.",
+   "He sang Come Fly With Me with Frank Sinatra on Duets II in 1994."
+  ],
+  "born": "04-19",
+  "keyAlbums": [
+   [
+    "Romance",
+    1991
+   ],
+   [
+    "Aries",
+    1993
+   ],
+   [
+    "Segundo Romance",
+    1994
+   ],
+   [
+    "Romances",
+    1997
+   ]
+  ],
+  "songs": [
+   "La Incondicional",
+   "No Sé Tú",
+   "Cuando Calienta el Sol",
+   "Ahora Te Puedes Marchar",
+   "Será Que No Me Amas"
+  ],
+  "influencedBy": [
+   {
+    "id": "frank-sinatra",
+    "why": "He admired Sinatra's phrasing and sang with him on Duets II.",
+    "s": 3
+   },
+   {
+    "id": "trio-los-panchos",
+    "why": "His Romance albums revive the bolero repertoire Los Panchos popularized.",
+    "s": 1
+   },
+   {
+    "id": "agustin-lara",
+    "why": "His bolero albums lean on the classic Mexican songbook Lara wrote.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "tony-bennett",
+    "why": "A crooner who kept the classic songbook alive."
+   },
+   {
+    "id": "george-michael",
+    "why": "A polished pop voice who moved between dance pop and ballads."
+   }
+  ]
+ },
+ {
+  "id": "ricky-martin",
+  "years": "1984–present",
+  "origin": "San Juan, Puerto Rico",
+  "genres": [
+   "Latin pop",
+   "dance-pop",
+   "pop rock"
+  ],
+  "summary": "Puerto Rican singer who began in the boy band Menudo and led the late-1990s Latin pop explosion. His performance at the 1999 Grammys and Livin' la Vida Loca brought Latin pop to a mass US audience.",
+  "know": [
+   "He was a member of Menudo from 1984 to 1989.",
+   "La Copa de la Vida was the official song of the 1998 World Cup.",
+   "Livin' la Vida Loca topped the US Hot 100 in 1999."
+  ],
+  "born": "12-24",
+  "keyAlbums": [
+   [
+    "A Medio Vivir",
+    1995
+   ],
+   [
+    "Vuelve",
+    1998
+   ],
+   [
+    "Ricky Martin",
+    1999
+   ],
+   [
+    "Almas del Silencio",
+    2003
+   ]
+  ],
+  "songs": [
+   "Livin' la Vida Loca",
+   "María",
+   "La Copa de la Vida",
+   "Vuelve",
+   "Tal Vez"
+  ],
+  "influencedBy": [
+   {
+    "id": "gloria-estefan",
+    "why": "Estefan's crossover set the blueprint his late-1990s success followed.",
+    "s": 1
+   },
+   {
+    "id": "michael-jackson",
+    "why": "His dance-driven pop stardom follows the Jackson model.",
+    "s": 1
+   },
+   {
+    "id": "madonna",
+    "why": "He recorded the duet Be Careful with Madonna in 1999.",
+    "s": 3
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "george-michael",
+    "why": "A boy band alumnus who became a major solo star."
+   },
+   {
+    "id": "justin-timberlake",
+    "why": "A boy band star who became a solo dance-pop leader."
+   }
+  ]
+ },
+ {
+  "id": "paco-de-lucia",
+  "years": "1961–2014",
+  "origin": "Algeciras, Spain",
+  "genres": [
+   "flamenco",
+   "nuevo flamenco",
+   "jazz fusion"
+  ],
+  "summary": "Spanish guitarist who transformed flamenco with new harmony, speed and outside influences. He brought the cajón into flamenco and also worked with jazz guitarists John McLaughlin and Al Di Meola.",
+  "know": [
+   "Entre Dos Aguas in 1973 became a surprise hit in Spain.",
+   "He introduced the Peruvian cajón into flamenco after a tour in Peru.",
+   "Friday Night in San Francisco, with McLaughlin and Di Meola, became a best-selling guitar record."
+  ],
+  "born": "12-21",
+  "keyAlbums": [
+   [
+    "Fuente y Caudal",
+    1973
+   ],
+   [
+    "Almoraima",
+    1976
+   ],
+   [
+    "Friday Night in San Francisco",
+    1981
+   ],
+   [
+    "Siroco",
+    1987
+   ]
+  ],
+  "songs": [
+   "Entre Dos Aguas",
+   "Río Ancho",
+   "Zyryab",
+   "Mediterranean Sundance",
+   "Almoraima"
+  ],
+  "influencedBy": [
+   {
+    "id": "camaron-de-la-isla",
+    "why": "His long partnership with Camarón shaped his playing for the cante.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "camaron-de-la-isla",
+    "why": "He accompanied Camarón on many records, helping define his sound.",
+    "s": 3
+   },
+   {
+    "id": "rosalia",
+    "why": "Rosalía's modern flamenco grows out of the nuevo flamenco he opened.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "django-reinhardt",
+    "why": "A guitar virtuoso who reshaped a tradition."
+   },
+   {
+    "id": "ravi-shankar",
+    "why": "A master of a traditional form who brought it to global audiences."
+   }
+  ]
+ },
+ {
+  "id": "camaron-de-la-isla",
+  "years": "1968–1992",
+  "origin": "San Fernando, Spain",
+  "genres": [
+   "flamenco",
+   "nuevo flamenco",
+   "cante jondo"
+  ],
+  "summary": "Gitano singer from San Fernando, Cádiz, widely seen as the greatest flamenco singer of his era. His 1979 album La Leyenda del Tiempo brought rock and jazz elements into flamenco.",
+  "know": [
+   "He recorded a series of albums with Paco de Lucía beginning in 1969.",
+   "La Leyenda del Tiempo set poems by Federico García Lorca and used electric instruments.",
+   "He died in July 1992."
+  ],
+  "born": "12-05",
+  "keyAlbums": [
+   [
+    "Al Verte las Flores Lloran",
+    1969
+   ],
+   [
+    "La Leyenda del Tiempo",
+    1979
+   ],
+   [
+    "Soy Gitano",
+    1989
+   ],
+   [
+    "Potro de Rabia y Miel",
+    1992
+   ]
+  ],
+  "songs": [
+   "La Leyenda del Tiempo",
+   "Como el Agua",
+   "Volando Voy",
+   "Soy Gitano",
+   "Rosa María"
+  ],
+  "influencedBy": [
+   {
+    "id": "paco-de-lucia",
+    "why": "His key partner, who accompanied and arranged for him on many records.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "rosalia",
+    "why": "Rosalía has cited Camarón as a key influence on her flamenco-based music.",
+    "s": 2
+   },
+   {
+    "id": "paco-de-lucia",
+    "why": "Their partnership pushed de Lucía's playing in new directions.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "nusrat-fateh-ali-khan",
+    "why": "A singer of a devotional tradition with huge emotional power."
+   },
+   {
+    "id": "umm-kulthum",
+    "why": "A voice who stood at the top of a whole tradition."
+   }
+  ]
+ },
+ {
+  "id": "juan-luis-guerra",
+  "years": "1984–present",
+  "origin": "Santo Domingo, Dominican Republic",
+  "genres": [
+   "merengue",
+   "bachata",
+   "Latin pop"
+  ],
+  "summary": "Dominican singer and songwriter who studied at Berklee and brought jazz harmony and poetic lyrics to merengue and bachata. His 1990 album Bachata Rosa helped bring bachata to an international audience.",
+  "know": [
+   "He studied at Berklee College of Music in Boston.",
+   "His group 4.40 released its first album in 1984.",
+   "Bachata Rosa in 1990 sold millions of copies and won a Grammy."
+  ],
+  "born": "06-07",
+  "keyAlbums": [
+   [
+    "Ojalá Que Llueva Café",
+    1989
+   ],
+   [
+    "Bachata Rosa",
+    1990
+   ],
+   [
+    "Areíto",
+    1992
+   ],
+   [
+    "La Llave de Mi Corazón",
+    2007
+   ]
+  ],
+  "songs": [
+   "Ojalá Que Llueva Café",
+   "Burbujas de Amor",
+   "Bachata Rosa",
+   "La Bilirrubina",
+   "A Pedir Su Mano"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "He has cited the Beatles as a major influence on his songwriting.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "romeo-santos",
+    "why": "Romeo Santos's bachata stardom built on the respect Guerra won for the genre.",
+    "s": 1
+   },
+   {
+    "id": "cafe-tacvba",
+    "why": "Café Tacvba covered Ojalá Que Llueva Café.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "simon-garfunkel",
+    "why": "Literate songwriting with gentle melodies."
+   },
+   {
+    "id": "steely-dan",
+    "why": "Jazz harmony slipped into polished pop songs."
+   }
+  ]
+ },
+ {
+  "id": "romeo-santos",
+  "years": "1994–present",
+  "origin": "Bronx, New York",
+  "genres": [
+   "bachata",
+   "Latin pop",
+   "R&B"
+  ],
+  "summary": "Bronx-born singer who led the group Aventura and became the biggest star in bachata. He mixed the Dominican guitar style with R&B and hip-hop for a new generation.",
+  "know": [
+   "Aventura formed in the Bronx in the mid-1990s.",
+   "Obsesión in 2002 became a hit across Europe and Latin America.",
+   "He sold out Yankee Stadium as a solo artist in 2014."
+  ],
+  "born": "07-21",
+  "keyAlbums": [
+   [
+    "We Broke the Rules (Aventura)",
+    2002
+   ],
+   [
+    "God's Project (Aventura)",
+    2005
+   ],
+   [
+    "Formula, Vol. 1",
+    2011
+   ],
+   [
+    "Formula, Vol. 2",
+    2014
+   ]
+  ],
+  "songs": [
+   "Obsesión",
+   "Propuesta Indecente",
+   "Eres Mía",
+   "Odio",
+   "Imitadora"
+  ],
+  "influencedBy": [
+   {
+    "id": "juan-luis-guerra",
+    "why": "Guerra's success with bachata helped open the international path he followed.",
+    "s": 2
+   },
+   {
+    "id": "usher",
+    "why": "He recorded the duet Promise with Usher in 2011.",
+    "s": 3
+   },
+   {
+    "id": "marc-anthony",
+    "why": "He worked with Marc Anthony on Formula, Vol. 2.",
+    "s": 3
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "boyz-ii-men",
+    "why": "Smooth, romantic ballads sung with emotion."
+   },
+   {
+    "id": "ne-yo",
+    "why": "Melodic R&B love songs."
+   }
+  ]
+ },
+ {
+  "id": "bomba-estereo",
+  "years": "2005–present",
+  "origin": "Bogotá, Colombia",
+  "genres": [
+   "electro-cumbia",
+   "Latin alternative",
+   "champeta"
+  ],
+  "summary": "Colombian band led by Simón Mejía and singer Li Saumet that fuses cumbia and Caribbean coastal rhythms with electronic music. Their song Fuego became an international club hit.",
+  "know": [
+   "Simón Mejía founded the project in Bogotá in 2005.",
+   "Li Saumet's vocals draw on rap, dancehall and coastal Colombian styles.",
+   "Deja in 2021 was nominated for a Grammy."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Estalla",
+    2008
+   ],
+   [
+    "Blow Up",
+    2009
+   ],
+   [
+    "Amanecer",
+    2015
+   ],
+   [
+    "Deja",
+    2021
+   ]
+  ],
+  "songs": [
+   "Fuego",
+   "To My Love",
+   "Soy Yo",
+   "Amanecer",
+   "Somos Dos"
+  ],
+  "influencedBy": [
+   {
+    "id": "manu-chao",
+    "why": "Their mix of Latin folk rhythm with electronic and punk energy follows the mestizo sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "diplo",
+    "why": "Electronic producer drawing on global club rhythms."
+   },
+   {
+    "id": "caribou",
+    "why": "Electronic music with a warm, organic pulse."
+   }
+  ]
+ },
+ {
+  "id": "king-sunny-ade",
+  "years": "1967–present",
+  "origin": "Lagos, Nigeria",
+  "genres": [
+   "jùjú",
+   "Afropop",
+   "Yoruba music"
+  ],
+  "summary": "Nigerian guitarist and bandleader who modernized jùjú with layered guitars, pedal steel and synthesizers. Island Records released his music worldwide in the early 1980s, making him one of the first African stars of the world music boom.",
+  "know": [
+   "He led the African Beats, a large band with several guitars and talking drums.",
+   "Island Records released Juju Music in 1982.",
+   "He added pedal steel guitar and synthesizers to jùjú."
+  ],
+  "born": "09-22",
+  "keyAlbums": [
+   [
+    "Juju Music",
+    1982
+   ],
+   [
+    "Synchro System",
+    1983
+   ],
+   [
+    "Aura",
+    1984
+   ]
+  ],
+  "songs": [
+   "Ja Funmi",
+   "Synchro System",
+   "Penkele",
+   "Ma Jaiye Oni"
+  ],
+  "influencedBy": [],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "bob-marley",
+    "why": "Island Records promoted him as its next global star after Marley."
+   },
+   {
+    "id": "the-meters",
+    "why": "Interlocking guitars and drums in a deep groove."
+   }
+  ]
+ },
+ {
+  "id": "tony-allen",
+  "years": "1964–2020",
+  "origin": "Lagos, Nigeria",
+  "genres": [
+   "Afrobeat",
+   "Afro-funk",
+   "jazz"
+  ],
+  "summary": "Nigerian drummer who co-created Afrobeat as Fela Kuti's drummer and musical director. Fela said Afrobeat would not exist without him, and he later worked with Damon Albarn, Flea and Jeff Mills.",
+  "know": [
+   "He played drums in Fela's Africa 70 from the late 1960s until 1979.",
+   "He taught himself drums partly by studying Art Blakey and Max Roach records.",
+   "His final album, Rejoice, was made with Hugh Masekela and released in 2020."
+  ],
+  "born": "08-12",
+  "keyAlbums": [
+   [
+    "Gentleman (Fela Kuti)",
+    1973
+   ],
+   [
+    "Jealousy",
+    1975
+   ],
+   [
+    "Black Voices",
+    1999
+   ],
+   [
+    "Rejoice (with Hugh Masekela)",
+    2020
+   ]
+  ],
+  "songs": [
+   "Water No Get Enemy",
+   "Zombie",
+   "Jealousy",
+   "Ariya"
+  ],
+  "influencedBy": [
+   {
+    "id": "art-blakey",
+    "why": "He has said Blakey's drumming was a central model when he taught himself.",
+    "s": 3
+   },
+   {
+    "id": "max-roach",
+    "why": "He studied Roach's playing as he developed his own style.",
+    "s": 2
+   },
+   {
+    "id": "fela-kuti",
+    "why": "Fela was his bandleader and partner in building Afrobeat.",
+    "s": 3
+   },
+   {
+    "id": "james-brown",
+    "why": "Afrobeat's tight funk grooves draw on the James Brown band.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "fela-kuti",
+    "why": "His drumming was the rhythmic core of Fela's Afrobeat.",
+    "s": 3
+   },
+   {
+    "id": "hugh-masekela",
+    "why": "They made the album Rejoice together.",
+    "s": 3
+   },
+   {
+    "id": "blur",
+    "why": "Damon Albarn named him in Blur's Music Is My Radar and later formed bands with him.",
+    "s": 2
+   },
+   {
+    "id": "red-hot-chili-peppers",
+    "why": "Flea played with him in Rocket Juice & the Moon.",
+    "s": 3
+   },
+   {
+    "id": "jeff-mills",
+    "why": "He and Mills recorded together, including the 2018 EP Tomorrow Comes the Harvest.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-meters",
+    "why": "Deep, loose funk drumming at the center of a sound."
+   },
+   {
+    "id": "the-jbs",
+    "why": "A band built on tight, interlocking funk."
+   }
+  ]
+ },
+ {
+  "id": "franco-tpok-jazz",
+  "years": "1956–1993",
+  "origin": "Kinshasa, DR Congo",
+  "genres": [
+   "soukous",
+   "Congolese rumba",
+   "Afropop"
+  ],
+  "summary": "Congolese band led by guitarist Franco Luambo Makiadi that was the dominant force in African popular music for three decades. TPOK Jazz built Congolese rumba from Cuban son and local rhythm.",
+  "know": [
+   "Franco co-founded OK Jazz in Kinshasa in 1956.",
+   "The band often had dozens of members, with multiple singers and guitarists.",
+   "Franco's guitar style earned him the nickname 'the Sorcerer of the Guitar.'"
+  ],
+  "born": null,
+  "keyAlbums": [],
+  "songs": [
+   "Mario",
+   "Infidelité Mado",
+   "Liberté",
+   "Azda"
+  ],
+  "influencedBy": [
+   {
+    "id": "arsenio-rodriguez",
+    "why": "Cuban son records like Arsenio's were heard widely in Congo and shaped Congolese rumba.",
+    "s": 2
+   },
+   {
+    "id": "benny-more",
+    "why": "The Cuban big-band singing of Moré's era fed the rumba style.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "duke-ellington",
+    "why": "A long-running big band led by a strong musical voice."
+   },
+   {
+    "id": "james-brown",
+    "why": "A bandleader who kept a huge, tight band at peak form."
+   }
+  ]
+ },
+ {
+  "id": "miriam-makeba",
+  "years": "1952–2008",
+  "origin": "Johannesburg, South Africa",
+  "genres": [
+   "mbube",
+   "South African jazz",
+   "Afropop"
+  ],
+  "summary": "South African singer known as 'Mama Africa' who brought South African music to the world. Her hit Pata Pata and her work with Harry Belafonte made her an international star.",
+  "know": [
+   "She sang with the Manhattan Brothers and the Skylarks in the 1950s.",
+   "Harry Belafonte helped bring her to the United States in 1959.",
+   "An Evening with Belafonte/Makeba won the 1966 Grammy for Best Folk Recording."
+  ],
+  "born": "03-04",
+  "keyAlbums": [
+   [
+    "Miriam Makeba",
+    1960
+   ],
+   [
+    "An Evening with Belafonte/Makeba",
+    1965
+   ],
+   [
+    "Pata Pata",
+    1967
+   ]
+  ],
+  "songs": [
+   "Pata Pata",
+   "Qongqothwane",
+   "Malaika",
+   "Mbube",
+   "Soweto Blues"
+  ],
+  "influencedBy": [
+   {
+    "id": "harry-belafonte",
+    "why": "Belafonte was her mentor in the US and recorded a Grammy-winning album with her.",
+    "s": 3
+   },
+   {
+    "id": "hugh-masekela",
+    "why": "Masekela was her husband and collaborator in the 1960s.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "angelique-kidjo",
+    "why": "Kidjo has named Makeba as her idol and later recorded a tribute to her.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "nina-simone",
+    "why": "A singer whose music carried a strong message."
+   },
+   {
+    "id": "odetta",
+    "why": "A powerful voice who stood for more than music."
+   }
+  ]
+ }
+]

@@ -1,0 +1,177 @@
+dead-kennedys|Dead Kennedys|1980s|alt|artist
+the-damned|The Damned|1970s|alt|artist
+wire|Wire|1970s|alt|artist
+the-fall|The Fall|1970s|alt|artist
+gang-of-four|Gang of Four|1970s|alt|artist
+public-image-ltd|Public Image Ltd|1970s|alt|artist
+x-ray-spex|X-Ray Spex|1970s|alt|artist
+the-slits|The Slits|1970s|alt|artist
+pere-ubu|Pere Ubu|1970s|alt|artist
+suicide|Suicide|1970s|alt|artist
+richard-hell|Richard Hell and the Voidoids|1970s|alt|artist
+the-undertones|The Undertones|1970s|alt|artist
+stiff-little-fingers|Stiff Little Fingers|1970s|alt|artist
+the-jam|The Jam|1970s|alt|artist
+magazine|Magazine|1970s|alt|artist
+the-germs|The Germs|1970s|alt|artist
+x|X|1980s|alt|artist
+descendents|Descendents|1980s|alt|artist
+circle-jerks|Circle Jerks|1980s|alt|artist
+misfits|Misfits|1980s|alt|artist
+minutemen|Minutemen|1980s|alt|artist
+fugazi|Fugazi|1980s|alt|artist
+bad-religion|Bad Religion|1980s|alt|artist
+gorilla-biscuits|Gorilla Biscuits|1980s|alt|artist
+youth-of-today|Youth of Today|1980s|alt|artist
+agnostic-front|Agnostic Front|1980s|alt|artist
+the-birthday-party|The Birthday Party|1980s|alt|artist
+nick-cave|Nick Cave and the Bad Seeds|1980s|alt|artist
+bauhaus|Bauhaus|1980s|alt|artist
+the-sisters-of-mercy|The Sisters of Mercy|1980s|alt|artist
+echo-and-the-bunnymen|Echo & the Bunnymen|1980s|alt|artist
+cocteau-twins|Cocteau Twins|1980s|alt|artist
+dead-can-dance|Dead Can Dance|1980s|alt|artist
+the-psychedelic-furs|The Psychedelic Furs|1980s|alt|artist
+tears-for-fears|Tears for Fears|1980s|pop|artist
+duran-duran|Duran Duran|1980s|pop|artist
+the-b-52s|The B-52's|1980s|alt|artist
+the-go-gos|The Go-Go's|1980s|alt|artist
+violent-femmes|Violent Femmes|1980s|alt|artist
+dinosaur-jr|Dinosaur Jr.|1980s|alt|artist
+meat-puppets|Meat Puppets|1980s|alt|artist
+butthole-surfers|Butthole Surfers|1980s|alt|artist
+big-black|Big Black|1980s|alt|artist
+the-feelies|The Feelies|1980s|alt|artist
+the-pogues|The Pogues|1980s|alt|artist
+the-church|The Church|1980s|alt|artist
+throwing-muses|Throwing Muses|1980s|alt|artist
+the-breeders|The Breeders|1990s|alt|artist
+galaxie-500|Galaxie 500|1980s|alt|artist
+spacemen-3|Spacemen 3|1980s|alt|artist
+happy-mondays|Happy Mondays|1980s|alt|artist
+melvins|Melvins|1980s|alt|artist
+green-river|Green River|1980s|alt|artist
+mudhoney|Mudhoney|1980s|alt|artist
+mother-love-bone|Mother Love Bone|1980s|alt|artist
+jane-s-addiction|Jane's Addiction|1980s|alt|artist
+faith-no-more|Faith No More|1980s|alt|artist
+stone-temple-pilots|Stone Temple Pilots|1990s|alt|artist
+screaming-trees|Screaming Trees|1990s|alt|artist
+hole|Hole|1990s|alt|artist
+l7|L7|1990s|alt|artist
+bikini-kill|Bikini Kill|1990s|alt|artist
+sleater-kinney|Sleater-Kinney|1990s|alt|artist
+slowdive|Slowdive|1990s|alt|artist
+ride|Ride|1990s|alt|artist
+lush|Lush|1990s|alt|artist
+mazzy-star|Mazzy Star|1990s|alt|artist
+pulp|Pulp|1990s|alt|artist
+suede|Suede|1990s|alt|artist
+the-verve|The Verve|1990s|alt|artist
+elastica|Elastica|1990s|alt|artist
+supergrass|Supergrass|1990s|alt|artist
+manic-street-preachers|Manic Street Preachers|1990s|alt|artist
+primal-scream|Primal Scream|1990s|alt|artist
+rites-of-spring|Rites of Spring|1980s|alt|artist
+sunny-day-real-estate|Sunny Day Real Estate|1990s|alt|artist
+jawbreaker|Jawbreaker|1990s|alt|artist
+american-football|American Football|1990s|alt|artist
+cap-n-jazz|Cap'n Jazz|1990s|alt|artist
+the-get-up-kids|The Get Up Kids|1990s|alt|artist
+jimmy-eat-world|Jimmy Eat World|2000s|alt|artist
+dashboard-confessional|Dashboard Confessional|2000s|alt|artist
+brand-new|Brand New|2000s|alt|artist
+taking-back-sunday|Taking Back Sunday|2000s|alt|artist
+fall-out-boy|Fall Out Boy|2000s|alt|artist
+the-used|The Used|2000s|alt|artist
+blink-182|Blink-182|1990s|alt|artist
+the-offspring|The Offspring|1990s|alt|artist
+nofx|NOFX|1990s|alt|artist
+rancid|Rancid|1990s|alt|artist
+sum-41|Sum 41|2000s|alt|artist
+the-wonder-years|The Wonder Years|2010s|alt|artist
+the-hotelier|The Hotelier|2010s|alt|artist
+slint|Slint|1990s|alt|artist
+tortoise|Tortoise|1990s|alt|artist
+godspeed-you-black-emperor|Godspeed You! Black Emperor|1990s|alt|artist
+mogwai|Mogwai|1990s|alt|artist
+sigur-ros|Sigur Rós|1990s|alt|artist
+explosions-in-the-sky|Explosions in the Sky|2000s|alt|artist
+don-caballero|Don Caballero|1990s|alt|artist
+battles|Battles|2000s|alt|artist
+built-to-spill|Built to Spill|1990s|alt|artist
+yo-la-tengo|Yo La Tengo|1990s|alt|artist
+the-shins|The Shins|2000s|alt|artist
+death-cab-for-cutie|Death Cab for Cutie|2000s|alt|artist
+bright-eyes|Bright Eyes|2000s|alt|artist
+tv-on-the-radio|TV on the Radio|2000s|alt|artist
+franz-ferdinand|Franz Ferdinand|2000s|alt|artist
+bloc-party|Bloc Party|2000s|alt|artist
+the-libertines|The Libertines|2000s|alt|artist
+spoon|Spoon|2000s|alt|artist
+wilco|Wilco|2000s|alt|artist
+animal-collective|Animal Collective|2000s|alt|artist
+broken-social-scene|Broken Social Scene|2000s|alt|artist
+the-mars-volta|The Mars Volta|2000s|alt|artist
+at-the-drive-in|At the Drive-In|2000s|alt|artist
+deerhunter|Deerhunter|2000s|alt|artist
+beach-house|Beach House|2000s|alt|artist
+mitski|Mitski|2010s|alt|artist
+alvvays|Alvvays|2010s|alt|artist
+venom|Venom|1980s|metal|artist
+saxon|Saxon|1980s|metal|artist
+def-leppard|Def Leppard|1980s|rock|artist
+diamond-head|Diamond Head|1980s|metal|artist
+dio|Dio|1980s|metal|artist
+anthrax|Anthrax|1980s|metal|artist
+exodus|Exodus|1980s|metal|artist
+testament|Testament|1980s|metal|artist
+kreator|Kreator|1980s|metal|artist
+sepultura|Sepultura|1980s|metal|artist
+celtic-frost|Celtic Frost|1980s|metal|artist
+bathory|Bathory|1980s|metal|artist
+death|Death|1980s|metal|artist
+morbid-angel|Morbid Angel|1980s|metal|artist
+cannibal-corpse|Cannibal Corpse|1990s|metal|artist
+napalm-death|Napalm Death|1980s|metal|artist
+carcass|Carcass|1980s|metal|artist
+at-the-gates|At the Gates|1990s|metal|artist
+in-flames|In Flames|1990s|metal|artist
+mayhem|Mayhem|1980s|metal|artist
+burzum|Burzum|1990s|metal|artist
+emperor|Emperor|1990s|metal|artist
+darkthrone|Darkthrone|1990s|metal|artist
+candlemass|Candlemass|1980s|metal|artist
+saint-vitus|Saint Vitus|1980s|metal|artist
+electric-wizard|Electric Wizard|1990s|metal|artist
+type-o-negative|Type O Negative|1990s|metal|artist
+my-dying-bride|My Dying Bride|1990s|metal|artist
+eyehategod|Eyehategod|1990s|metal|artist
+neurosis|Neurosis|1990s|metal|artist
+isis|Isis|2000s|metal|artist
+kyuss|Kyuss|1990s|metal|artist
+sleep|Sleep|1990s|metal|artist
+fu-manchu|Fu Manchu|1990s|metal|artist
+dream-theater|Dream Theater|1990s|metal|artist
+opeth|Opeth|1990s|metal|artist
+queensryche|Queensrÿche|1980s|metal|artist
+fates-warning|Fates Warning|1980s|metal|artist
+meshuggah|Meshuggah|1990s|metal|artist
+periphery|Periphery|2010s|metal|artist
+animals-as-leaders|Animals as Leaders|2010s|metal|artist
+converge|Converge|1990s|metal|artist
+killswitch-engage|Killswitch Engage|2000s|metal|artist
+the-dillinger-escape-plan|The Dillinger Escape Plan|1990s|metal|artist
+bring-me-the-horizon|Bring Me the Horizon|2010s|metal|artist
+avenged-sevenfold|Avenged Sevenfold|2000s|metal|artist
+linkin-park|Linkin Park|2000s|metal|artist
+limp-bizkit|Limp Bizkit|1990s|metal|artist
+white-zombie|White Zombie|1990s|metal|artist
+ministry|Ministry|1980s|metal|artist
+helmet|Helmet|1990s|metal|artist
+sunn-o|Sunn O)))|2000s|metal|artist
+deafheaven|Deafheaven|2010s|metal|artist
+sleep-token|Sleep Token|2020s|metal|artist
+spiritbox|Spiritbox|2020s|metal|artist
+steve-albini|Steve Albini|1990s|alt|producer
+butch-vig|Butch Vig|1990s|alt|producer

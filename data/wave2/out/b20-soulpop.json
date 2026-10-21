@@ -1,0 +1,5034 @@
+[
+ {
+  "id": "village-people",
+  "years": "1977–present",
+  "origin": "New York, New York",
+  "genres": [
+   "disco",
+   "hi-NRG",
+   "dance-pop"
+  ],
+  "summary": "Village People were a disco group put together by French producers Jacques Morali and Henri Belolo, built around costumed characters and big singalong choruses. Their late 1970s hits became some of the best-known party songs of the disco era.",
+  "know": [
+   "Morali and Belolo created the group in 1977 after the producers' studio project needed a live act.",
+   "Original lead singer Victor Willis co-wrote many of the group's biggest hits.",
+   "Y.M.C.A. reached number two in the US and topped the charts in the UK in 1979."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Village People",
+    1977
+   ],
+   [
+    "Macho Man",
+    1978
+   ],
+   [
+    "Cruisin'",
+    1978
+   ],
+   [
+    "Go West",
+    1979
+   ]
+  ],
+  "songs": [
+   "Y.M.C.A.",
+   "Macho Man",
+   "In the Navy",
+   "Go West",
+   "San Francisco (You've Got Me)"
+  ],
+  "influencedBy": [
+   {
+    "id": "mfsb",
+    "why": "The lush strings and steady four-on-the-floor beat of Philadelphia disco gave Morali's productions their backbone.",
+    "s": 1
+   },
+   {
+    "id": "donna-summer",
+    "why": "Summer's mid 1970s club hits showed that disco could cross over to pop radio, the lane Village People aimed for.",
+    "s": 1
+   },
+   {
+    "id": "kc-and-the-sunshine-band",
+    "why": "KC's simple, chant-along party funk was a model for the group's shout-along choruses.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "kc-and-the-sunshine-band",
+    "why": "Bright, simple party records built for everyone to sing along."
+   },
+   {
+    "id": "the-b-52s",
+    "why": "Costumed, playful dance music with a camp sense of humor."
+   }
+  ]
+ },
+ {
+  "id": "nile-rodgers",
+  "years": "1970–present",
+  "origin": "New York, New York",
+  "genres": [
+   "disco",
+   "funk",
+   "dance-pop",
+   "post-disco"
+  ],
+  "summary": "Nile Rodgers is a guitarist and producer who co-founded Chic and became one of the most sought-after producers in pop. His clipped, chordal rhythm guitar and clean, danceable arrangements shaped records from disco through the 2010s.",
+  "know": [
+   "He co-founded Chic with bassist Bernard Edwards in 1976, and the pair wrote and produced Sister Sledge's We Are Family.",
+   "He produced David Bowie's Let's Dance and Madonna's Like a Virgin within about a year of each other.",
+   "He played guitar on Daft Punk's Get Lucky, which won Record of the Year at the 2014 Grammys."
+  ],
+  "born": "09-19",
+  "keyAlbums": [
+   [
+    "We Are Family (Sister Sledge)",
+    1979
+   ],
+   [
+    "Let's Dance (David Bowie)",
+    1983
+   ],
+   [
+    "Like a Virgin (Madonna)",
+    1984
+   ],
+   [
+    "Random Access Memories (Daft Punk)",
+    2013
+   ]
+  ],
+  "songs": [
+   "Le Freak",
+   "Good Times",
+   "We Are Family",
+   "Let's Dance",
+   "Get Lucky"
+  ],
+  "influencedBy": [
+   {
+    "id": "roxy-music",
+    "why": "Rodgers has said seeing Roxy Music's stylish, concept-driven presentation inspired the look and idea behind Chic.",
+    "s": 3
+   },
+   {
+    "id": "james-brown",
+    "why": "Brown's tight, choppy funk guitar parts are the root of Rodgers' percussive rhythm playing.",
+    "s": 2
+   },
+   {
+    "id": "wes-montgomery",
+    "why": "Rodgers trained on jazz guitar, and the extended jazz chord voicings in his playing come from that world.",
+    "s": 1
+   },
+   {
+    "id": "curtis-mayfield",
+    "why": "Mayfield's light, melodic rhythm guitar is a clear ancestor of Rodgers' chording style.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "chic",
+    "why": "He co-founded Chic, co-wrote its hits and played its signature guitar parts.",
+    "s": 3
+   },
+   {
+    "id": "sister-sledge",
+    "why": "He and Bernard Edwards wrote and produced We Are Family and turned the group into disco stars.",
+    "s": 3
+   },
+   {
+    "id": "david-bowie",
+    "why": "He produced Let's Dance and gave Bowie his biggest-selling, most dance-oriented album.",
+    "s": 3
+   },
+   {
+    "id": "madonna",
+    "why": "He produced Like a Virgin and shaped its crisp, dance-pop sound.",
+    "s": 3
+   },
+   {
+    "id": "duran-duran",
+    "why": "He remixed The Reflex and produced the Notorious album, pushing the band toward funk.",
+    "s": 3
+   },
+   {
+    "id": "inxs",
+    "why": "He produced Original Sin, an early INXS single that brought a dance groove to their rock.",
+    "s": 3
+   },
+   {
+    "id": "daft-punk",
+    "why": "He played rhythm guitar on Random Access Memories, including Get Lucky and Lose Yourself to Dance.",
+    "s": 3
+   },
+   {
+    "id": "beyonce",
+    "why": "He played guitar on Cuff It from Renaissance, a disco-inspired album.",
+    "s": 3
+   },
+   {
+    "id": "sugarhill-gang",
+    "why": "Rapper's Delight was built on the groove of Chic's Good Times, which Rodgers co-wrote.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "max-martin",
+    "why": "A behind-the-scenes hitmaker whose name is on decades of pop records."
+   },
+   {
+    "id": "giorgio-moroder",
+    "why": "A producer who defined how dance music sounded in his era."
+   },
+   {
+    "id": "trevor-horn",
+    "why": "A producer with a polished signature sound across many big 1980s records."
+   }
+  ]
+ },
+ {
+  "id": "sister-sledge",
+  "years": "1971–present",
+  "origin": "Philadelphia, Pennsylvania",
+  "genres": [
+   "disco",
+   "R&B",
+   "soul"
+  ],
+  "summary": "Sister Sledge are four sisters from Philadelphia who became disco stars after teaming with Chic's Nile Rodgers and Bernard Edwards. Their 1979 album produced several of the era's most lasting dance songs.",
+  "know": [
+   "The group was made up of sisters Debbie, Joni, Kim and Kathy Sledge.",
+   "They recorded for several years before Atlantic paired them with Chic's writing and production team.",
+   "We Are Family became a stadium anthem when the 1979 Pittsburgh Pirates adopted it during their World Series run."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Circle of Love",
+    1975
+   ],
+   [
+    "We Are Family",
+    1979
+   ],
+   [
+    "Love Somebody Today",
+    1980
+   ],
+   [
+    "All American Girls",
+    1981
+   ]
+  ],
+  "songs": [
+   "We Are Family",
+   "He's the Greatest Dancer",
+   "Lost in Music",
+   "Thinking of You",
+   "Frankie"
+  ],
+  "influencedBy": [
+   {
+    "id": "nile-rodgers",
+    "why": "Rodgers co-wrote and produced We Are Family and gave the group its defining sound.",
+    "s": 3
+   },
+   {
+    "id": "chic",
+    "why": "The Chic band played on their breakthrough album, giving it the same sleek groove as Chic's own records.",
+    "s": 3
+   },
+   {
+    "id": "gamble-and-huff",
+    "why": "They came up in Philadelphia, where Gamble and Huff's orchestral soul set the local style.",
+    "s": 1
+   },
+   {
+    "id": "the-supremes",
+    "why": "The polished family-harmony girl-group model of Motown shaped how the sisters were presented and sang.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-pointer-sisters",
+    "why": "Sister groups with tight harmonies and dance-floor hits."
+   },
+   {
+    "id": "abba",
+    "why": "Joyful, melodic disco-era songs that everyone knows the words to."
+   }
+  ]
+ },
+ {
+  "id": "the-trammps",
+  "years": "1972–1981",
+  "origin": "Philadelphia, Pennsylvania",
+  "genres": [
+   "disco",
+   "Philadelphia soul",
+   "funk"
+  ],
+  "summary": "The Trammps were a Philadelphia vocal group whose members also played on many of the city's soul sessions. Drummer Earl Young's steady, open hi-hat beat helped define the disco rhythm, and Disco Inferno became one of the genre's signature songs.",
+  "know": [
+   "Drummer Earl Young, bassist Ron Baker and guitarist Norman Harris were also core members of the MFSB studio band.",
+   "Jimmy Ellis sang lead with a gritty baritone that set them apart from smoother Philly groups.",
+   "Disco Inferno reached a wider audience when it appeared on the Saturday Night Fever soundtrack in 1977."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Trammps",
+    1975
+   ],
+   [
+    "Where the Happy People Go",
+    1976
+   ],
+   [
+    "Disco Inferno",
+    1976
+   ],
+   [
+    "The Trammps III",
+    1977
+   ]
+  ],
+  "songs": [
+   "Disco Inferno",
+   "Zing Went the Strings of My Heart",
+   "Hold Back the Night",
+   "That's Where the Happy People Go"
+  ],
+  "influencedBy": [
+   {
+    "id": "mfsb",
+    "why": "They shared players with MFSB, and the same Philadelphia rhythm section drives their records.",
+    "s": 3
+   },
+   {
+    "id": "gamble-and-huff",
+    "why": "Gamble and Huff's lush Philadelphia soul set the sound the Trammps sped up for the dance floor.",
+    "s": 2
+   },
+   {
+    "id": "harold-melvin-and-the-blue-notes",
+    "why": "Earl Young drummed on Blue Notes records, and the Trammps carried that gospel-tinged Philly vocal style.",
+    "s": 1
+   },
+   {
+    "id": "the-drifters",
+    "why": "Their roots in doo-wop and harmony groups show in their stacked vocals and old-standard covers.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "frankie-knuckles",
+    "why": "Philly disco records like Disco Inferno were the club staples early house DJs built their sets and edits around.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bee-gees",
+    "why": "Disco hits that defined the Saturday Night Fever era."
+   },
+   {
+    "id": "abba",
+    "why": "Big, joyful disco-era songs made for dancing."
+   }
+  ]
+ },
+ {
+  "id": "luther-vandross",
+  "years": "1974–2005",
+  "origin": "New York, New York",
+  "genres": [
+   "R&B",
+   "quiet storm",
+   "soul",
+   "post-disco"
+  ],
+  "summary": "Luther Vandross was a singer, songwriter and producer whose silky tenor made him the leading romantic soul voice of the 1980s and 1990s. He began as a top session and jingle singer before launching a long run of hit albums.",
+  "know": [
+   "He sang backup and co-wrote Fascination on David Bowie's 1975 album Young Americans.",
+   "He was the lead voice on The Glow of Love by the studio group Change before going solo.",
+   "Dance with My Father won the Grammy for Song of the Year in 2004."
+  ],
+  "born": "04-20",
+  "keyAlbums": [
+   [
+    "Never Too Much",
+    1981
+   ],
+   [
+    "Forever, for Always, for Love",
+    1982
+   ],
+   [
+    "The Night I Fell in Love",
+    1985
+   ],
+   [
+    "Power of Love",
+    1991
+   ]
+  ],
+  "songs": [
+   "Never Too Much",
+   "A House Is Not a Home",
+   "Here and Now",
+   "Dance with My Father",
+   "Stop to Love"
+  ],
+  "influencedBy": [
+   {
+    "id": "dionne-warwick",
+    "why": "Vandross called Warwick his favorite singer and remade her A House Is Not a Home into a long, slow showcase.",
+    "s": 3
+   },
+   {
+    "id": "aretha-franklin",
+    "why": "He often named Franklin as a key influence and later produced her comeback single Jump to It.",
+    "s": 3
+   },
+   {
+    "id": "the-supremes",
+    "why": "He was a devoted fan of Diana Ross and the Supremes, and their polished pop-soul shaped his taste.",
+    "s": 3
+   },
+   {
+    "id": "david-bowie",
+    "why": "Working on Young Americans gave him his first major studio and songwriting credit.",
+    "s": 3
+   },
+   {
+    "id": "roberta-flack",
+    "why": "He sang backup for Flack, whose soft, controlled ballads match his own approach.",
+    "s": 3
+   },
+   {
+    "id": "burt-bacharach",
+    "why": "Bacharach's sophisticated songs were a template for the elegant pop-soul Vandross sang.",
+    "s": 2
+   },
+   {
+    "id": "donny-hathaway",
+    "why": "Hathaway's warm, gospel-rooted ballad singing is a clear forerunner of Vandross' style.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "freddie-jackson",
+    "why": "Jackson's smooth mid-1980s ballads followed directly in Vandross' quiet storm lane.",
+    "s": 1
+   },
+   {
+    "id": "john-legend",
+    "why": "Legend's piano-led romantic soul draws on the elegant style Vandross made popular.",
+    "s": 1
+   },
+   {
+    "id": "usher",
+    "why": "Usher has named Vandross among the singers whose ballads he studied.",
+    "s": 2
+   },
+   {
+    "id": "mariah-carey",
+    "why": "She recorded a duet of Endless Love with him in 1994 and has cited him as a favorite.",
+    "s": 2
+   },
+   {
+    "id": "boyz-ii-men",
+    "why": "Their lush, sweetly sung ballads continue the romantic style Vandross defined.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "frank-sinatra",
+    "why": "Master interpreters of romantic songs with flawless phrasing."
+   },
+   {
+    "id": "nat-king-cole",
+    "why": "A smooth, warm voice that made love songs feel effortless."
+   }
+  ]
+ },
+ {
+  "id": "anita-baker",
+  "years": "1975–present",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "R&B",
+   "quiet storm",
+   "jazz-soul"
+  ],
+  "summary": "Anita Baker is a Detroit singer whose rich contralto and jazz-leaning ballads defined adult soul in the mid 1980s. Rapture made her one of the biggest R&B stars of the decade and a cornerstone of quiet storm radio.",
+  "know": [
+   "She first recorded as lead singer of the Detroit funk band Chapter 8 in the late 1970s.",
+   "Rapture sold millions of copies and won her two Grammys in 1987.",
+   "She co-produced much of her own work and kept arrangements spare so her phrasing stayed in front."
+  ],
+  "born": "01-26",
+  "keyAlbums": [
+   [
+    "The Songstress",
+    1983
+   ],
+   [
+    "Rapture",
+    1986
+   ],
+   [
+    "Giving You the Best That I Got",
+    1988
+   ],
+   [
+    "Compositions",
+    1990
+   ]
+  ],
+  "songs": [
+   "Sweet Love",
+   "Caught Up in the Rapture",
+   "Giving You the Best That I Got",
+   "Angel",
+   "Same Ole Love"
+  ],
+  "influencedBy": [
+   {
+    "id": "sarah-vaughan",
+    "why": "Baker has named Vaughan as a major influence, and her rich low register and jazz phrasing follow Vaughan's example.",
+    "s": 3
+   },
+   {
+    "id": "mahalia-jackson",
+    "why": "She grew up singing in church and has cited Jackson's gospel power as a foundation.",
+    "s": 2
+   },
+   {
+    "id": "aretha-franklin",
+    "why": "Franklin's mix of church and pop shaped the soul tradition Baker came up in.",
+    "s": 1
+   },
+   {
+    "id": "ella-fitzgerald",
+    "why": "Her improvised, jazzy turns on a melody echo the classic jazz singers like Fitzgerald.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "toni-braxton",
+    "why": "Braxton's low, smoky ballads extend the contralto style Baker brought to R&B radio.",
+    "s": 1
+   },
+   {
+    "id": "india-arie",
+    "why": "India.Arie's warm, understated adult soul follows the mood Baker set.",
+    "s": 1
+   },
+   {
+    "id": "jill-scott",
+    "why": "Scott's jazz-touched grown-up soul draws on the sophistication of Baker's records.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "norah-jones",
+    "why": "Warm, low-key jazz-pop vocals made for late nights."
+   },
+   {
+    "id": "dinah-washington",
+    "why": "A singer who moved easily between jazz and R&B with a commanding tone."
+   }
+  ]
+ },
+ {
+  "id": "sade",
+  "years": "1982–present",
+  "origin": "London, England",
+  "genres": [
+   "sophisti-pop",
+   "quiet storm",
+   "smooth soul"
+  ],
+  "summary": "Sade is a London band fronted by Nigerian-born singer Sade Adu, known for cool, minimal soul with jazz touches. Their sparse grooves and restrained vocals made them a lasting influence on later R&B.",
+  "know": [
+   "The band grew out of the London group Pride, where Adu sang backing vocals before forming Sade with Stuart Matthewman, Paul Denman and Andrew Hale.",
+   "Their 1984 debut Diamond Life won the Brit Award for Best British Album.",
+   "They release albums rarely, with long gaps such as the ten years between Lovers Rock and Soldier of Love."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Diamond Life",
+    1984
+   ],
+   [
+    "Promise",
+    1985
+   ],
+   [
+    "Love Deluxe",
+    1992
+   ],
+   [
+    "Lovers Rock",
+    2000
+   ]
+  ],
+  "songs": [
+   "Smooth Operator",
+   "Your Love Is King",
+   "The Sweetest Taboo",
+   "No Ordinary Love",
+   "By Your Side"
+  ],
+  "influencedBy": [
+   {
+    "id": "marvin-gaye",
+    "why": "Adu has cited the smooth, introspective soul of Marvin Gaye as a touchstone for the band.",
+    "s": 2
+   },
+   {
+    "id": "curtis-mayfield",
+    "why": "Mayfield's understated vocals and lean grooves are a clear model for Sade's restraint.",
+    "s": 2
+   },
+   {
+    "id": "bill-withers",
+    "why": "Withers' plain, warm delivery and simple arrangements echo in their sparse sound.",
+    "s": 1
+   },
+   {
+    "id": "miles-davis",
+    "why": "The cool, unhurried jazz mood of Davis' quieter records runs through their saxophone and space.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "maxwell",
+    "why": "Maxwell has praised Sade, and his slow, sensual neo soul shares their hush.",
+    "s": 2
+   },
+   {
+    "id": "drake",
+    "why": "Drake has repeatedly called Sade a favorite, and his moody R&B side draws on her atmosphere.",
+    "s": 2
+   },
+   {
+    "id": "frank-ocean",
+    "why": "Ocean's minimal, intimate soul echoes the mood and space of Sade's records.",
+    "s": 1
+   },
+   {
+    "id": "sza",
+    "why": "SZA's hazy, low-key R&B shows the lasting pull of Sade's cool style.",
+    "s": 1
+   },
+   {
+    "id": "the-weeknd",
+    "why": "His smooth, nocturnal R&B carries the late-night feel Sade made famous.",
+    "s": 1
+   },
+   {
+    "id": "kali-uchis",
+    "why": "Uchis' soft, jazzy soul ballads follow Sade's understated approach.",
+    "s": 1
+   },
+   {
+    "id": "jorja-smith",
+    "why": "The young British singer's cool, restrained soul is often traced back to Sade.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "portishead",
+    "why": "Cool, slow and moody music where the voice floats over space."
+   },
+   {
+    "id": "norah-jones",
+    "why": "Gentle, jazz-touched songs with a hushed delivery."
+   },
+   {
+    "id": "beach-house",
+    "why": "Dreamy, slow-burning music meant for late at night."
+   }
+  ]
+ },
+ {
+  "id": "frankie-beverly-and-maze",
+  "years": "1970–2019",
+  "origin": "San Francisco, California",
+  "genres": [
+   "soul",
+   "funk",
+   "quiet storm"
+  ],
+  "summary": "Frankie Beverly & Maze were a soul band led by Philadelphia-born singer Frankie Beverly that built a devoted following through warm, mid-tempo grooves and live shows. Their songs became fixtures at Black family reunions and cookouts.",
+  "know": [
+   "Beverly first led a Philadelphia group called Raw Soul before moving the band to the San Francisco Bay Area.",
+   "Marvin Gaye took them on tour as an opening act and suggested they rename themselves Maze.",
+   "Live in New Orleans, recorded in 1980, is considered one of the great soul live albums."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Maze featuring Frankie Beverly",
+    1977
+   ],
+   [
+    "Golden Time of Day",
+    1978
+   ],
+   [
+    "Live in New Orleans",
+    1981
+   ],
+   [
+    "Can't Stop the Love",
+    1985
+   ]
+  ],
+  "songs": [
+   "Before I Let Go",
+   "Joy and Pain",
+   "Happy Feelin's",
+   "Southern Girl",
+   "We Are One"
+  ],
+  "influencedBy": [
+   {
+    "id": "marvin-gaye",
+    "why": "Gaye mentored the band, brought them on tour and gave them their name.",
+    "s": 3
+   },
+   {
+    "id": "earth-wind-fire",
+    "why": "The big, positive band-soul of Earth, Wind & Fire was a model for Maze's warm, communal sound.",
+    "s": 1
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Sly's Bay Area band funk shaped the region's scene where Maze came up.",
+    "s": 1
+   },
+   {
+    "id": "the-isley-brothers",
+    "why": "The Isleys' mellow mid-tempo grooves are close kin to Maze's steady, easy rhythms.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "beyonce",
+    "why": "She covered Before I Let Go for her Homecoming album in 2019, bringing the song to a new audience.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "toots",
+    "why": "Feel-good, communal music that brings a crowd together."
+   },
+   {
+    "id": "the-doobie-brothers",
+    "why": "Easy, rolling grooves that work at any summer gathering."
+   }
+  ]
+ },
+ {
+  "id": "teena-marie",
+  "years": "1979–2010",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "R&B",
+   "funk",
+   "soul",
+   "quiet storm"
+  ],
+  "summary": "Teena Marie was a singer, songwriter and producer signed to Motown, mentored by Rick James, who became one of the most respected voices in funk and soul. She wrote and produced most of her own material.",
+  "know": [
+   "Rick James produced her 1979 debut Wild and Peaceful, and they recorded the duet I'm a Sucker for Your Love.",
+   "Her legal fight to leave Motown led to a California law change often called the Brockert Initiative, after her real name.",
+   "Square Biz, from 1981, features her own rap verses."
+  ],
+  "born": "03-05",
+  "keyAlbums": [
+   [
+    "Wild and Peaceful",
+    1979
+   ],
+   [
+    "Irons in the Fire",
+    1980
+   ],
+   [
+    "It Must Be Magic",
+    1981
+   ],
+   [
+    "Starchild",
+    1984
+   ]
+  ],
+  "songs": [
+   "Square Biz",
+   "I Need Your Lovin'",
+   "Lovergirl",
+   "Portuguese Love",
+   "Ooo La La La"
+  ],
+  "influencedBy": [
+   {
+    "id": "rick-james",
+    "why": "James was her mentor and producer, and his punk-funk energy shaped her early records.",
+    "s": 3
+   },
+   {
+    "id": "berry-gordy",
+    "why": "Gordy's Motown signed her and gave her the label's songwriting and studio support.",
+    "s": 3
+   },
+   {
+    "id": "smokey-robinson",
+    "why": "She admired Motown's songwriting craft, with Robinson as a model of romantic soul writing.",
+    "s": 1
+   },
+   {
+    "id": "stevie-wonder",
+    "why": "Wonder's self-produced, musically ambitious 1970s soul set the path she followed as a writer-producer.",
+    "s": 1
+   },
+   {
+    "id": "marvin-gaye",
+    "why": "Gaye's sensual, layered vocal style is a clear forerunner of her ballads.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "fugees",
+    "why": "Fu-Gee-La is built on a sample of her Ooo La La La.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "dusty-springfield",
+    "why": "A white singer whose deep soul feeling won over R&B audiences."
+   },
+   {
+    "id": "christina-aguilera",
+    "why": "A pop singer with a big, gospel-style soul voice."
+   }
+  ]
+ },
+ {
+  "id": "patti-labelle",
+  "years": "1960–present",
+  "origin": "Philadelphia, Pennsylvania",
+  "genres": [
+   "soul",
+   "R&B",
+   "gospel",
+   "disco"
+  ],
+  "summary": "Patti LaBelle is a Philadelphia singer known for one of the most powerful voices in soul. She led the girl group Patti LaBelle and the Bluebelles, then the trio Labelle, before a long solo career.",
+  "know": [
+   "Labelle's 1974 hit Lady Marmalade topped the US charts and was produced by Allen Toussaint in New Orleans.",
+   "Labelle was the first Black vocal group to play the Metropolitan Opera House in New York.",
+   "Her duet with Michael McDonald, On My Own, reached number one in 1986."
+  ],
+  "born": "05-24",
+  "keyAlbums": [
+   [
+    "Nightbirds (Labelle)",
+    1974
+   ],
+   [
+    "Patti LaBelle",
+    1977
+   ],
+   [
+    "I'm in Love Again",
+    1983
+   ],
+   [
+    "Winner in You",
+    1986
+   ]
+  ],
+  "songs": [
+   "Lady Marmalade",
+   "If Only You Knew",
+   "On My Own",
+   "New Attitude",
+   "You Are My Friend"
+  ],
+  "influencedBy": [
+   {
+    "id": "allen-toussaint",
+    "why": "Toussaint produced Nightbirds and gave Labelle its New Orleans funk backbone.",
+    "s": 3
+   },
+   {
+    "id": "gamble-and-huff",
+    "why": "She recorded her early 1980s solo hits for Gamble and Huff's Philadelphia International label.",
+    "s": 3
+   },
+   {
+    "id": "mahalia-jackson",
+    "why": "Her full-throated, church-trained belting follows the gospel tradition Jackson defined.",
+    "s": 1
+   },
+   {
+    "id": "dinah-washington",
+    "why": "Washington's mix of blues grit and pop polish is an ancestor of LaBelle's style.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "luther-vandross",
+    "why": "Vandross was a devoted fan and friend, and her emotional delivery shaped his taste in big soul voices.",
+    "s": 2
+   },
+   {
+    "id": "christina-aguilera",
+    "why": "Aguilera covered Lady Marmalade in 2001, and her big, ornamented belting draws on LaBelle's style.",
+    "s": 2
+   },
+   {
+    "id": "pink",
+    "why": "P!nk also sang on the 2001 Lady Marmalade remake, which topped the US charts.",
+    "s": 1
+   },
+   {
+    "id": "mary-j-blige",
+    "why": "Blige's raw, gospel-charged ballads follow the emotional power of singers like LaBelle.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "janis-joplin",
+    "why": "A singer who poured everything into each note."
+   },
+   {
+    "id": "celia-cruz",
+    "why": "A larger-than-life voice and stage presence that ruled for decades."
+   }
+  ]
+ },
+ {
+  "id": "the-pointer-sisters",
+  "years": "1969–present",
+  "origin": "Oakland, California",
+  "genres": [
+   "R&B",
+   "pop",
+   "dance-pop",
+   "jazz vocal"
+  ],
+  "summary": "The Pointer Sisters are an Oakland vocal group of sisters who started with retro jazz and R&B and moved into polished pop and dance hits in the 1980s. Their range ran from swing-style harmonies to synth-pop.",
+  "know": [
+   "They began as backing singers for Bay Area acts before signing to Blue Thumb Records in 1972.",
+   "Fairytale, written by Anita and Bonnie Pointer, won a country Grammy in 1975.",
+   "Bruce Springsteen wrote their 1978 hit Fire."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Pointer Sisters",
+    1973
+   ],
+   [
+    "Energy",
+    1978
+   ],
+   [
+    "Special Things",
+    1980
+   ],
+   [
+    "Break Out",
+    1983
+   ]
+  ],
+  "songs": [
+   "Yes We Can Can",
+   "Fire",
+   "Slow Hand",
+   "I'm So Excited",
+   "Jump (For My Love)"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-andrews-sisters",
+    "why": "Their early retro look and close swing-era harmonies drew on the 1940s sister-group style.",
+    "s": 1
+   },
+   {
+    "id": "allen-toussaint",
+    "why": "Their first hit, Yes We Can Can, was a Toussaint song, and his New Orleans funk shaped their early sound.",
+    "s": 2
+   },
+   {
+    "id": "bruce-springsteen",
+    "why": "Springsteen wrote Fire, which gave them a major hit and pushed them toward pop-rock.",
+    "s": 3
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "They came up in the Bay Area soul and funk scene that Sly defined.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-staple-singers",
+    "why": "Family harmony groups with deep gospel roots."
+   },
+   {
+    "id": "en-vogue",
+    "why": "Tight group harmonies across many styles."
+   },
+   {
+    "id": "sister-sledge",
+    "why": "Sisters singing upbeat dance-floor hits."
+   }
+  ]
+ },
+ {
+  "id": "freddie-jackson",
+  "years": "1985–present",
+  "origin": "New York, New York",
+  "genres": [
+   "R&B",
+   "quiet storm",
+   "soul"
+  ],
+  "summary": "Freddie Jackson is a Harlem-raised singer whose smooth ballads made him one of the top R&B stars of the mid 1980s. His first singles held the top of the R&B chart for weeks at a time.",
+  "know": [
+   "He sang in church in Harlem and later worked as a backing singer for Melba Moore.",
+   "He was a member of the funk band Mystic Merlin before going solo.",
+   "His debut Rock Me Tonight produced two number one R&B singles in 1985."
+  ],
+  "born": "10-02",
+  "keyAlbums": [
+   [
+    "Rock Me Tonight",
+    1985
+   ],
+   [
+    "Just Like the First Time",
+    1986
+   ],
+   [
+    "Don't Let Love Slip Away",
+    1988
+   ],
+   [
+    "Do Me Again",
+    1990
+   ]
+  ],
+  "songs": [
+   "Rock Me Tonight (For Old Times Sake)",
+   "You Are My Lady",
+   "Have You Ever Loved Somebody",
+   "Jam Tonight",
+   "Nice 'N' Slow"
+  ],
+  "influencedBy": [
+   {
+    "id": "luther-vandross",
+    "why": "Jackson's silky, romantic ballads follow the quiet storm style Vandross had just made dominant.",
+    "s": 1
+   },
+   {
+    "id": "teddy-pendergrass",
+    "why": "Pendergrass' grown-up love songs were a model for Jackson's mature romantic image.",
+    "s": 1
+   },
+   {
+    "id": "marvin-gaye",
+    "why": "Gaye's smooth, intimate soul is a clear ancestor of Jackson's late-night records.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "tony-bennett",
+    "why": "A crooner devoted to classic romantic ballads."
+   },
+   {
+    "id": "nat-king-cole",
+    "why": "A smooth, gentle voice made for love songs."
+   }
+  ]
+ },
+ {
+  "id": "guy",
+  "years": "1987–1991",
+  "origin": "New York, New York",
+  "genres": [
+   "new jack swing",
+   "R&B"
+  ],
+  "summary": "Guy was a Harlem trio led by producer Teddy Riley with singers Aaron and Damion Hall. Their records helped define new jack swing, pairing gospel-style vocals with hard hip-hop drum programming.",
+  "know": [
+   "Teddy Riley formed the group in 1987 with Aaron Hall and Timmy Gatling, and Damion Hall later replaced Gatling.",
+   "Their 1988 debut went double platinum and became a blueprint for late 1980s R&B.",
+   "The group reunited for the album Guy III in 2000."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Guy",
+    1988
+   ],
+   [
+    "The Future",
+    1990
+   ],
+   [
+    "Guy III",
+    2000
+   ]
+  ],
+  "songs": [
+   "Groove Me",
+   "Teddy's Jam",
+   "I Like",
+   "Piece of My Love",
+   "Let's Chill"
+  ],
+  "influencedBy": [
+   {
+    "id": "teddy-riley",
+    "why": "Riley founded and produced the group, and his swinging drum programming is their sound.",
+    "s": 3
+   },
+   {
+    "id": "jimmy-jam-and-terry-lewis",
+    "why": "Jam and Lewis' drum-machine R&B for Janet Jackson and others set the stage for new jack swing.",
+    "s": 1
+   },
+   {
+    "id": "zapp",
+    "why": "The electro-funk of Roger Troutman and Zapp fed Riley's synth bass and talk box touches.",
+    "s": 1
+   },
+   {
+    "id": "the-time",
+    "why": "The Minneapolis funk of the Time showed how tight machine grooves could carry an R&B group.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "blackstreet",
+    "why": "Riley formed Blackstreet after Guy split, carrying the same sound into the 1990s.",
+    "s": 3
+   },
+   {
+    "id": "jodeci",
+    "why": "Jodeci's mix of gospel vocals and hip-hop beats built on what Guy had made popular.",
+    "s": 2
+   },
+   {
+    "id": "bell-biv-devoe",
+    "why": "BBD's tough, hip-hop leaning R&B followed the new jack swing template Guy helped set.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "dj-jazzy-jeff-fresh-prince",
+    "why": "Late 1980s records where hip-hop beats met pop and R&B."
+   },
+   {
+    "id": "salt-n-pepa",
+    "why": "New York party records built on hard drum machines and hooks."
+   },
+   {
+    "id": "mc-hammer",
+    "why": "Dance-heavy hits from the same new jack era."
+   }
+  ]
+ },
+ {
+  "id": "bobby-brown",
+  "years": "1981–present",
+  "origin": "Boston, Massachusetts",
+  "genres": [
+   "new jack swing",
+   "R&B",
+   "dance-pop"
+  ],
+  "summary": "Bobby Brown is a singer and dancer who left New Edition and became the biggest solo star of new jack swing. Don't Be Cruel made him the top-selling R&B artist of 1989.",
+  "know": [
+   "He was a founding member of New Edition as a child in Boston's Roxbury neighborhood.",
+   "Don't Be Cruel was produced largely by Teddy Riley and the team of L.A. Reid and Babyface.",
+   "My Prerogative topped the US charts in early 1989."
+  ],
+  "born": "02-05",
+  "keyAlbums": [
+   [
+    "King of Stage",
+    1986
+   ],
+   [
+    "Don't Be Cruel",
+    1988
+   ],
+   [
+    "Bobby",
+    1992
+   ],
+   [
+    "Forever",
+    1997
+   ]
+  ],
+  "songs": [
+   "My Prerogative",
+   "Every Little Step",
+   "Don't Be Cruel",
+   "Roni",
+   "Rock Wit'cha"
+  ],
+  "influencedBy": [
+   {
+    "id": "new-edition",
+    "why": "He came up in New Edition, which gave him his start and his stage training.",
+    "s": 3
+   },
+   {
+    "id": "teddy-riley",
+    "why": "Riley produced My Prerogative and gave Brown his hard-edged new jack swing sound.",
+    "s": 3
+   },
+   {
+    "id": "babyface",
+    "why": "Babyface co-wrote and co-produced several hits on Don't Be Cruel.",
+    "s": 3
+   },
+   {
+    "id": "la-reid",
+    "why": "L.A. Reid co-produced Don't Be Cruel's hits alongside Babyface.",
+    "s": 3
+   },
+   {
+    "id": "michael-jackson",
+    "why": "Jackson's mix of singing and sharp dance moves was the model for Brown's stage act.",
+    "s": 2
+   },
+   {
+    "id": "james-brown",
+    "why": "James Brown's footwork and showmanship run through Bobby Brown's performances.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "usher",
+    "why": "Usher has cited Bobby Brown as a model for combining R&B singing with dance-driven performance.",
+    "s": 2
+   },
+   {
+    "id": "chris-brown",
+    "why": "Chris Brown's dance-heavy R&B stagecraft follows the path Bobby Brown opened.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "mc-hammer",
+    "why": "High-energy dance stars of the late 1980s charts."
+   },
+   {
+    "id": "justin-timberlake",
+    "why": "A boy-band member who became a dance-pop solo star."
+   }
+  ]
+ },
+ {
+  "id": "new-edition",
+  "years": "1978–present",
+  "origin": "Boston, Massachusetts",
+  "genres": [
+   "R&B",
+   "new jack swing",
+   "bubblegum soul"
+  ],
+  "summary": "New Edition is a Boston vocal group that started as teenagers and became the template for the modern boy band. Its members later launched Bobby Brown's solo career, Bell Biv DeVoe and Johnny Gill's solo hits.",
+  "know": [
+   "Producer Maurice Starr discovered them at a talent show and shaped their bubblegum debut Candy Girl.",
+   "Johnny Gill joined in 1987 after Bobby Brown left, and Heart Break was produced by Jimmy Jam and Terry Lewis.",
+   "Boyz II Men took their name from the New Edition song Boys to Men."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Candy Girl",
+    1983
+   ],
+   [
+    "New Edition",
+    1984
+   ],
+   [
+    "Heart Break",
+    1988
+   ],
+   [
+    "Home Again",
+    1996
+   ]
+  ],
+  "songs": [
+   "Candy Girl",
+   "Cool It Now",
+   "Mr. Telephone Man",
+   "If It Isn't Love",
+   "Can You Stand the Rain"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-jackson-5",
+    "why": "Candy Girl was modeled on the young Jackson 5 sound, with a boy lead and bright group vocals.",
+    "s": 2
+   },
+   {
+    "id": "jimmy-jam-and-terry-lewis",
+    "why": "Jam and Lewis produced Heart Break and moved the group into mature new jack swing.",
+    "s": 3
+   },
+   {
+    "id": "the-temptations",
+    "why": "Their matched choreography and harmony roles follow classic Motown groups like the Temptations.",
+    "s": 1
+   },
+   {
+    "id": "the-delfonics",
+    "why": "Their sweet ballads draw on the falsetto-led harmony of 1970s Philly groups.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "bobby-brown",
+    "why": "Brown began his career as a New Edition founder before going solo.",
+    "s": 3
+   },
+   {
+    "id": "bell-biv-devoe",
+    "why": "Three members formed BBD as a spinoff group in 1989.",
+    "s": 3
+   },
+   {
+    "id": "boyz-ii-men",
+    "why": "Michael Bivins mentored Boyz II Men, who named themselves after a New Edition song.",
+    "s": 3
+   },
+   {
+    "id": "backstreet-boys",
+    "why": "Their harmony-and-choreography boy band format followed the model New Edition had set.",
+    "s": 1
+   },
+   {
+    "id": "nsync",
+    "why": "The polished teen vocal group format that New Edition pioneered fed directly into late 1990s boy bands.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bts",
+    "why": "A boy group built on harmonies, sharp choreography and a devoted fan base."
+   },
+   {
+    "id": "one-direction",
+    "why": "A boy band that made teenagers into stars."
+   }
+  ]
+ },
+ {
+  "id": "bell-biv-devoe",
+  "years": "1989–present",
+  "origin": "Boston, Massachusetts",
+  "genres": [
+   "new jack swing",
+   "hip-hop soul",
+   "R&B"
+  ],
+  "summary": "Bell Biv DeVoe is a trio of New Edition members Ricky Bell, Michael Bivins and Ronnie DeVoe. Their 1990 debut mixed street-level hip-hop attitude with R&B harmonies and helped shape hip-hop soul.",
+  "know": [
+   "The group formed while New Edition was on a break after Heart Break.",
+   "Their debut Poison went quadruple platinum.",
+   "Members of Public Enemy's production team, the Bomb Squad, worked on the Poison album."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Poison",
+    1990
+   ],
+   [
+    "Hootie Mack",
+    1993
+   ],
+   [
+    "BBD",
+    2001
+   ],
+   [
+    "Three Stripes",
+    2017
+   ]
+  ],
+  "songs": [
+   "Poison",
+   "Do Me!",
+   "When Will I See You Smile Again?",
+   "She's Dope!"
+  ],
+  "influencedBy": [
+   {
+    "id": "new-edition",
+    "why": "All three members came from New Edition, which shaped their harmonies and stagecraft.",
+    "s": 3
+   },
+   {
+    "id": "the-bomb-squad",
+    "why": "The Bomb Squad's dense, hard-hitting production gave parts of Poison a rougher hip-hop edge.",
+    "s": 3
+   },
+   {
+    "id": "teddy-riley",
+    "why": "Riley's new jack swing set the beat-heavy style they leaned into.",
+    "s": 1
+   },
+   {
+    "id": "guy",
+    "why": "Guy's mix of gospel vocals and hip-hop drums was the immediate template for their sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "boyz-ii-men",
+    "why": "Michael Bivins discovered and managed Boyz II Men and helped launch their career.",
+    "s": 3
+   },
+   {
+    "id": "mary-j-blige",
+    "why": "BBD's blend of rap swagger and R&B singing anticipated the hip-hop soul Blige made famous.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "naughty-by-nature",
+    "why": "Early 1990s party records with a hip-hop edge."
+   },
+   {
+    "id": "public-enemy",
+    "why": "Dense, hard-hitting beats from the same Bomb Squad circle."
+   }
+  ]
+ },
+ {
+  "id": "keith-sweat",
+  "years": "1987–present",
+  "origin": "New York, New York",
+  "genres": [
+   "new jack swing",
+   "R&B",
+   "quiet storm"
+  ],
+  "summary": "Keith Sweat is a Harlem singer and producer whose pleading, emotional ballads over new jack swing beats made him a major R&B star from the late 1980s. He also produced and launched other R&B acts.",
+  "know": [
+   "He worked on Wall Street as a brokerage clerk while singing in local clubs.",
+   "His debut Make It Last Forever, co-produced with Teddy Riley, went triple platinum.",
+   "He discovered and produced the R&B group Silk and later the group Kut Klose."
+  ],
+  "born": "07-22",
+  "keyAlbums": [
+   [
+    "Make It Last Forever",
+    1987
+   ],
+   [
+    "I'll Give All My Love to You",
+    1990
+   ],
+   [
+    "Keep It Comin'",
+    1991
+   ],
+   [
+    "Keith Sweat",
+    1996
+   ]
+  ],
+  "songs": [
+   "I Want Her",
+   "Make It Last Forever",
+   "Right and a Wrong Way",
+   "Twisted",
+   "Nobody"
+  ],
+  "influencedBy": [
+   {
+    "id": "teddy-riley",
+    "why": "Riley co-produced Make It Last Forever and gave it its new jack swing drums.",
+    "s": 3
+   },
+   {
+    "id": "marvin-gaye",
+    "why": "Sweat's romantic, pleading delivery follows the intimate soul of Marvin Gaye.",
+    "s": 1
+   },
+   {
+    "id": "the-isley-brothers",
+    "why": "The Isleys' slow-burning love songs are a clear model for Sweat's ballads.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "jodeci",
+    "why": "Jodeci's emotional, pleading ballads over hip-hop beats follow the style Sweat made popular.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "ll-cool-j",
+    "why": "Romantic ballads delivered with streetwise New York cool."
+   },
+   {
+    "id": "george-michael",
+    "why": "A singer who made heartfelt love songs into big hits."
+   }
+  ]
+ },
+ {
+  "id": "paula-abdul",
+  "years": "1986–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "dance-pop",
+   "new jack swing",
+   "pop"
+  ],
+  "summary": "Paula Abdul was a choreographer who became a pop star with a run of number one dance hits from her debut album. Her video-ready mix of pop and new jack swing made her a fixture of late 1980s MTV.",
+  "know": [
+   "She started as a Los Angeles Lakers cheerleader and choreographer.",
+   "She choreographed Janet Jackson's videos from the Control era before launching her own career.",
+   "Forever Your Girl produced four US number one singles."
+  ],
+  "born": "06-19",
+  "keyAlbums": [
+   [
+    "Forever Your Girl",
+    1988
+   ],
+   [
+    "Shut Up and Dance",
+    1990
+   ],
+   [
+    "Spellbound",
+    1991
+   ],
+   [
+    "Head over Heels",
+    1995
+   ]
+  ],
+  "songs": [
+   "Straight Up",
+   "Forever Your Girl",
+   "Cold Hearted",
+   "Opposites Attract",
+   "Rush Rush"
+  ],
+  "influencedBy": [
+   {
+    "id": "janet-jackson",
+    "why": "Abdul choreographed Jackson's Control-era videos, and that crisp dance-pop look shaped her own career.",
+    "s": 3
+   },
+   {
+    "id": "babyface",
+    "why": "Babyface co-wrote and co-produced Knocked Out on her debut.",
+    "s": 3
+   },
+   {
+    "id": "la-reid",
+    "why": "L.A. Reid co-produced Knocked Out with Babyface.",
+    "s": 3
+   },
+   {
+    "id": "michael-jackson",
+    "why": "She choreographed for the Jacksons, and Michael's music-plus-dance approach was her model.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "britney-spears",
+    "why": "Spears' choreography-driven dance-pop videos follow the template Abdul helped build.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "ciara",
+    "why": "A singer whose dance skills are central to her records."
+   },
+   {
+    "id": "bobby-brown",
+    "why": "Late 1980s dance-heavy new jack swing hits."
+   }
+  ]
+ },
+ {
+  "id": "boyz-ii-men",
+  "years": "1987–present",
+  "origin": "Philadelphia, Pennsylvania",
+  "genres": [
+   "R&B",
+   "new jack swing",
+   "vocal harmony soul"
+  ],
+  "summary": "Boyz II Men are a Philadelphia vocal group whose four-part harmonies made them the best-selling R&B group of the 1990s. Their ballads set chart records that lasted for decades.",
+  "know": [
+   "They met at the Philadelphia High School for Creative and Performing Arts.",
+   "Michael Bivins of New Edition and Bell Biv DeVoe discovered them and signed them to Motown.",
+   "One Sweet Day, with Mariah Carey, held number one on the Hot 100 for sixteen weeks."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Cooleyhighharmony",
+    1991
+   ],
+   [
+    "Christmas Interpretations",
+    1993
+   ],
+   [
+    "II",
+    1994
+   ],
+   [
+    "Evolution",
+    1997
+   ]
+  ],
+  "songs": [
+   "Motownphilly",
+   "End of the Road",
+   "I'll Make Love to You",
+   "On Bended Knee",
+   "One Sweet Day"
+  ],
+  "influencedBy": [
+   {
+    "id": "new-edition",
+    "why": "They named themselves after a New Edition song and modeled their early act on the group.",
+    "s": 3
+   },
+   {
+    "id": "bell-biv-devoe",
+    "why": "Michael Bivins mentored them and helped craft the hip-hop flavored Motownphilly.",
+    "s": 3
+   },
+   {
+    "id": "babyface",
+    "why": "Babyface wrote and produced End of the Road and I'll Make Love to You.",
+    "s": 3
+   },
+   {
+    "id": "jimmy-jam-and-terry-lewis",
+    "why": "Jam and Lewis wrote and produced On Bended Knee.",
+    "s": 3
+   },
+   {
+    "id": "the-temptations",
+    "why": "Their classic Motown-style harmony roles and covers draw on the Temptations.",
+    "s": 2
+   },
+   {
+    "id": "the-delfonics",
+    "why": "Their sweet falsetto harmonies follow Philadelphia vocal groups like the Delfonics.",
+    "s": 1
+   },
+   {
+    "id": "the-stylistics",
+    "why": "The lush Philly soul ballads of the Stylistics are an ancestor of their slow songs.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "backstreet-boys",
+    "why": "The Backstreet Boys have named Boyz II Men as an influence on their harmony ballads.",
+    "s": 2
+   },
+   {
+    "id": "nsync",
+    "why": "NSYNC's harmony-led ballads followed the vocal group style Boyz II Men made dominant.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-golden-gate-quartet",
+    "why": "Close, precise vocal harmony as the main instrument."
+   },
+   {
+    "id": "ladysmith-black-mambazo",
+    "why": "Rich group harmonies that need little backing."
+   }
+  ]
+ },
+ {
+  "id": "mariah-carey",
+  "years": "1990–present",
+  "origin": "New York, New York",
+  "genres": [
+   "R&B",
+   "pop",
+   "hip-hop soul"
+  ],
+  "summary": "Mariah Carey is a singer, songwriter and producer known for a five-octave range and whistle register. She co-wrote nearly all of her hits and helped bring hip-hop into mainstream pop with her 1990s remixes.",
+  "know": [
+   "She has had nineteen number one singles on the Billboard Hot 100, the most of any solo artist.",
+   "The 1995 Fantasy remix with Ol' Dirty Bastard was an early major pairing of a pop star and a rapper.",
+   "All I Want for Christmas Is You, from 1994, has topped the Hot 100 in multiple holiday seasons."
+  ],
+  "born": "03-27",
+  "keyAlbums": [
+   [
+    "Mariah Carey",
+    1990
+   ],
+   [
+    "Music Box",
+    1993
+   ],
+   [
+    "Daydream",
+    1995
+   ],
+   [
+    "The Emancipation of Mimi",
+    2005
+   ]
+  ],
+  "songs": [
+   "Vision of Love",
+   "Hero",
+   "Fantasy",
+   "Always Be My Baby",
+   "We Belong Together"
+  ],
+  "influencedBy": [
+   {
+    "id": "minnie-riperton",
+    "why": "Riperton's whistle register is the clearest ancestor of Carey's signature high notes, and Carey has cited her.",
+    "s": 2
+   },
+   {
+    "id": "aretha-franklin",
+    "why": "Carey has named Franklin as a primary influence on her gospel-rooted singing.",
+    "s": 3
+   },
+   {
+    "id": "billie-holiday",
+    "why": "Carey has cited Holiday as a favorite singer and phrasing influence.",
+    "s": 2
+   },
+   {
+    "id": "stevie-wonder",
+    "why": "Wonder's melodic soul songwriting is a model for Carey's own writing.",
+    "s": 1
+   },
+   {
+    "id": "whitney-houston",
+    "why": "Houston's success with big pop-soul ballads opened the lane Carey entered in 1990.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "ariana-grande",
+    "why": "Grande has called Carey a major influence, and her whistle notes and vocal runs follow Carey's style.",
+    "s": 3
+   },
+   {
+    "id": "christina-aguilera",
+    "why": "Aguilera's melisma-heavy pop singing draws on Carey's example.",
+    "s": 2
+   },
+   {
+    "id": "brandy",
+    "why": "Brandy's layered vocal runs share the R&B-pop approach Carey popularized.",
+    "s": 1
+   },
+   {
+    "id": "beyonce",
+    "why": "Beyonce's vocal runs and pop-R&B crossover follow the path Carey opened.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "mary-j-blige",
+    "why": "Singers who merged R&B vocals with hip-hop production in the 1990s."
+   },
+   {
+    "id": "luis-miguel",
+    "why": "A huge voice built for lush, dramatic ballads."
+   }
+  ]
+ },
+ {
+  "id": "en-vogue",
+  "years": "1989–present",
+  "origin": "Oakland, California",
+  "genres": [
+   "R&B",
+   "new jack swing",
+   "funk"
+  ],
+  "summary": "En Vogue is an Oakland vocal group assembled by producers Denzil Foster and Thomas McElroy. Their tight four-part harmonies and polished style made them a leading girl group of the early 1990s.",
+  "know": [
+   "Foster and McElroy held auditions in 1989 to form a modern girl group in the spirit of the classic Motown acts.",
+   "Funky Divas went triple platinum and included both R&B ballads and the rock-tinged Free Your Mind.",
+   "They sang on Salt-N-Pepa's 1993 hit Whatta Man."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Born to Sing",
+    1990
+   ],
+   [
+    "Funky Divas",
+    1992
+   ],
+   [
+    "EV3",
+    1997
+   ],
+   [
+    "Electric Café",
+    2018
+   ]
+  ],
+  "songs": [
+   "Hold On",
+   "My Lovin' (You're Never Gonna Get It)",
+   "Free Your Mind",
+   "Giving Him Something He Can Feel",
+   "Don't Let Go (Love)"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-supremes",
+    "why": "The group was designed as an update of glamorous 1960s girl groups like the Supremes.",
+    "s": 2
+   },
+   {
+    "id": "curtis-mayfield",
+    "why": "They covered Mayfield's Giving Him Something He Can Feel, written for Aretha Franklin's Sparkle soundtrack.",
+    "s": 2
+   },
+   {
+    "id": "the-pointer-sisters",
+    "why": "The Pointer Sisters' Bay Area mix of close harmony and genre-hopping is a clear model.",
+    "s": 1
+   },
+   {
+    "id": "the-andrews-sisters",
+    "why": "Their precise, close-knit harmony owes something to the classic sister-group style.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "destinys-child",
+    "why": "Destiny's Child has cited En Vogue as a model for a harmony-driven R&B girl group.",
+    "s": 2
+   },
+   {
+    "id": "tlc",
+    "why": "TLC came up in the girl group lane En Vogue reopened in the early 1990s.",
+    "s": 1
+   },
+   {
+    "id": "swv",
+    "why": "SWV's polished harmony R&B followed the success En Vogue had just found.",
+    "s": 1
+   },
+   {
+    "id": "spice-girls",
+    "why": "The Spice Girls followed the girl group revival that En Vogue helped spark.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-andrews-sisters",
+    "why": "Classic tight harmonies from a vocal group."
+   },
+   {
+    "id": "the-staple-singers",
+    "why": "Group harmonies with soul and gospel feeling."
+   },
+   {
+    "id": "salt-n-pepa",
+    "why": "Confident female crews of the early 1990s."
+   }
+  ]
+ },
+ {
+  "id": "jodeci",
+  "years": "1988–present",
+  "origin": "Charlotte, North Carolina",
+  "genres": [
+   "new jack swing",
+   "hip-hop soul",
+   "R&B"
+  ],
+  "summary": "Jodeci is an R&B group of two pairs of brothers, K-Ci and JoJo Hailey with DeVante Swing and Mr. Dalvin. They paired gospel-trained vocals with a rough hip-hop image and production, shaping 1990s R&B.",
+  "know": [
+   "The Hailey brothers grew up singing gospel, and DeVante Swing wrote and produced most of the group's music.",
+   "Their debut Forever My Lady went triple platinum.",
+   "DeVante's Swing Mob collective in the early 1990s included a young Missy Elliott and Timbaland."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Forever My Lady",
+    1991
+   ],
+   [
+    "Diary of a Mad Band",
+    1993
+   ],
+   [
+    "The Show, the After Party, the Hotel",
+    1995
+   ],
+   [
+    "The Past, the Present, the Future",
+    2015
+   ]
+  ],
+  "songs": [
+   "Forever My Lady",
+   "Come and Talk to Me",
+   "Stay",
+   "Lately",
+   "Cry for You"
+  ],
+  "influencedBy": [
+   {
+    "id": "guy",
+    "why": "Guy's gospel vocals over hip-hop drums were the direct template for Jodeci's early sound.",
+    "s": 2
+   },
+   {
+    "id": "prince",
+    "why": "DeVante Swing has named Prince as a key influence on his writing and production.",
+    "s": 2
+   },
+   {
+    "id": "stevie-wonder",
+    "why": "They covered Lately, and Wonder's soul writing shaped their ballads.",
+    "s": 1
+   },
+   {
+    "id": "teddy-riley",
+    "why": "Riley's new jack swing production set the sound they started from.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "missy-elliott",
+    "why": "Missy Elliott came up in DeVante Swing's Swing Mob collective and wrote for Jodeci-related projects.",
+    "s": 3
+   },
+   {
+    "id": "timbaland",
+    "why": "Timbaland started his production career inside DeVante's Swing Mob circle.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bone-thugs-n-harmony",
+    "why": "Smooth harmonies wrapped in a rough street image."
+   },
+   {
+    "id": "wu-tang-clan",
+    "why": "Gritty, crew-based 1990s records with a strong image."
+   }
+  ]
+ },
+ {
+  "id": "r-kelly",
+  "years": "1989–2019",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "R&B",
+   "hip-hop soul",
+   "new jack swing"
+  ],
+  "summary": "R. Kelly is a Chicago singer, songwriter and producer whose records blended R&B with hip-hop and gospel and dominated the R&B charts in the 1990s and 2000s. He also wrote and produced hits for other artists.",
+  "know": [
+   "He first recorded with the Chicago group Public Announcement in the early 1990s.",
+   "He wrote and produced Michael Jackson's 1995 number one You Are Not Alone.",
+   "I Believe I Can Fly, from the Space Jam soundtrack, won three Grammys."
+  ],
+  "born": "01-08",
+  "keyAlbums": [
+   [
+    "12 Play",
+    1993
+   ],
+   [
+    "R. Kelly",
+    1995
+   ],
+   [
+    "R.",
+    1998
+   ],
+   [
+    "TP-2.com",
+    2000
+   ]
+  ],
+  "songs": [
+   "I Believe I Can Fly",
+   "Ignition (Remix)",
+   "Step in the Name of Love",
+   "Bump n' Grind"
+  ],
+  "influencedBy": [
+   {
+    "id": "marvin-gaye",
+    "why": "Kelly's sensual soul ballads follow the template of Marvin Gaye's 1970s records.",
+    "s": 2
+   },
+   {
+    "id": "the-isley-brothers",
+    "why": "He later wrote and produced for Ronald Isley, whose smooth style shaped his own.",
+    "s": 2
+   },
+   {
+    "id": "sam-cooke",
+    "why": "His gospel-to-pop vocal approach follows the path Sam Cooke laid out.",
+    "s": 1
+   },
+   {
+    "id": "stevie-wonder",
+    "why": "Wonder's model of the singer as writer and producer runs through Kelly's career.",
+    "s": 1
+   },
+   {
+    "id": "al-green",
+    "why": "Green's soft, pleading delivery is an ancestor of Kelly's ballad style.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "michael-jackson",
+    "why": "He wrote and produced You Are Not Alone for Jackson's HIStory album.",
+    "s": 3
+   },
+   {
+    "id": "the-dream",
+    "why": "The-Dream's writer-producer R&B, built on melodic hooks over hip-hop beats, follows Kelly's approach.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "lionel-richie",
+    "why": "A singer-songwriter whose ballads were huge crossover hits."
+   },
+   {
+    "id": "nate-dogg",
+    "why": "Smooth sung hooks over hip-hop production."
+   }
+  ]
+ },
+ {
+  "id": "toni-braxton",
+  "years": "1989–present",
+  "origin": "Severn, Maryland",
+  "genres": [
+   "R&B",
+   "quiet storm",
+   "adult contemporary"
+  ],
+  "summary": "Toni Braxton is a Maryland singer whose deep contralto and torch-song ballads made her one of LaFace Records' first big stars. Her 1990s albums sold tens of millions of copies worldwide.",
+  "know": [
+   "She first recorded with her sisters as the Braxtons before L.A. Reid and Babyface signed her to LaFace.",
+   "Her debut Toni Braxton won her the Grammy for Best New Artist in 1994.",
+   "Un-Break My Heart, written by Diane Warren, spent eleven weeks at number one in 1996."
+  ],
+  "born": "10-07",
+  "keyAlbums": [
+   [
+    "Toni Braxton",
+    1993
+   ],
+   [
+    "Secrets",
+    1996
+   ],
+   [
+    "The Heat",
+    2000
+   ],
+   [
+    "Love, Marriage & Divorce",
+    2014
+   ]
+  ],
+  "songs": [
+   "Another Sad Love Song",
+   "Breathe Again",
+   "Un-Break My Heart",
+   "You're Makin' Me High",
+   "He Wasn't Man Enough"
+  ],
+  "influencedBy": [
+   {
+    "id": "babyface",
+    "why": "Babyface wrote and produced much of her first two albums and later made a duet album with her.",
+    "s": 3
+   },
+   {
+    "id": "la-reid",
+    "why": "Reid co-founded LaFace, signed her and co-produced her early records.",
+    "s": 3
+   },
+   {
+    "id": "anita-baker",
+    "why": "Braxton's low, smoky ballad singing follows the contralto style Baker made popular.",
+    "s": 1
+   },
+   {
+    "id": "chaka-khan",
+    "why": "Khan's big, expressive soul singing was part of the R&B tradition Braxton came from.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "adele",
+    "why": "Heartbreak ballads sung in a deep, rich voice."
+   },
+   {
+    "id": "k-d-lang",
+    "why": "A low, velvety voice that suits torch songs."
+   }
+  ]
+ },
+ {
+  "id": "brandy",
+  "years": "1994–present",
+  "origin": "Carson, California",
+  "genres": [
+   "R&B",
+   "pop",
+   "hip-hop soul"
+  ],
+  "summary": "Brandy is a singer and actress who became a teen R&B star in the mid 1990s. Her layered, intricate background vocals earned her the nickname the Vocal Bible among other singers.",
+  "know": [
+   "Her 1994 debut went multi-platinum when she was fifteen.",
+   "The Boy Is Mine, her duet with Monica, topped the Hot 100 for thirteen weeks in 1998.",
+   "She starred in the TV sitcom Moesha and in a 1997 TV version of Cinderella with Whitney Houston."
+  ],
+  "born": "02-11",
+  "keyAlbums": [
+   [
+    "Brandy",
+    1994
+   ],
+   [
+    "Never Say Never",
+    1998
+   ],
+   [
+    "Full Moon",
+    2002
+   ],
+   [
+    "Afrodisiac",
+    2004
+   ]
+  ],
+  "songs": [
+   "I Wanna Be Down",
+   "Baby",
+   "Sittin' Up in My Room",
+   "The Boy Is Mine",
+   "Have You Ever?"
+  ],
+  "influencedBy": [
+   {
+    "id": "whitney-houston",
+    "why": "Brandy has called Houston her idol and later co-starred with her in Cinderella.",
+    "s": 3
+   },
+   {
+    "id": "babyface",
+    "why": "Babyface wrote and produced Sittin' Up in My Room.",
+    "s": 3
+   },
+   {
+    "id": "rodney-jerkins",
+    "why": "Jerkins produced much of Never Say Never and Full Moon, shaping her late 1990s sound.",
+    "s": 3
+   },
+   {
+    "id": "timbaland",
+    "why": "Timbaland produced most of Afrodisiac.",
+    "s": 3
+   },
+   {
+    "id": "mariah-carey",
+    "why": "Carey's stacked harmonies and runs were part of the R&B-pop style Brandy grew up with.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "ariana-grande",
+    "why": "Grande's layered background vocals follow the stacked harmony style Brandy is known for.",
+    "s": 1
+   },
+   {
+    "id": "kehlani",
+    "why": "Kehlani's airy, layered R&B vocals echo Brandy's approach.",
+    "s": 1
+   },
+   {
+    "id": "h-e-r",
+    "why": "H.E.R.'s smooth, harmony-rich R&B draws on the 1990s style Brandy helped define.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "utada-hikaru",
+    "why": "R&B-flavored pop built on layered vocals."
+   },
+   {
+    "id": "raye",
+    "why": "A pop singer with deep R&B vocal technique."
+   }
+  ]
+ },
+ {
+  "id": "monica",
+  "years": "1995–present",
+  "origin": "Atlanta, Georgia",
+  "genres": [
+   "R&B",
+   "hip-hop soul"
+  ],
+  "summary": "Monica is an Atlanta singer who signed a record deal as a young teenager and became one of the leading R&B voices of the late 1990s and 2000s. Her strong, church-trained voice carried hits from hip-hop soul to big ballads.",
+  "know": [
+   "Producer Dallas Austin signed her to his Rowdy Records label when she was around twelve.",
+   "Her debut single Don't Take It Personal (Just One of Dem Days) topped the R&B chart in 1995.",
+   "So Gone, produced by Missy Elliott, was a number one R&B hit in 2003."
+  ],
+  "born": "10-24",
+  "keyAlbums": [
+   [
+    "Miss Thang",
+    1995
+   ],
+   [
+    "The Boy Is Mine",
+    1998
+   ],
+   [
+    "After the Storm",
+    2003
+   ],
+   [
+    "Still Standing",
+    2010
+   ]
+  ],
+  "songs": [
+   "Don't Take It Personal (Just One of Dem Days)",
+   "Before You Walk Out of My Life",
+   "The Boy Is Mine",
+   "Angel of Mine",
+   "So Gone"
+  ],
+  "influencedBy": [
+   {
+    "id": "whitney-houston",
+    "why": "Houston's gospel-rooted power singing was the model for Monica's big ballads.",
+    "s": 1
+   },
+   {
+    "id": "mary-j-blige",
+    "why": "Blige's mix of raw R&B vocals and hip-hop beats shaped the hip-hop soul style Monica came up in.",
+    "s": 1
+   },
+   {
+    "id": "rodney-jerkins",
+    "why": "Jerkins produced The Boy Is Mine and several tracks on her second album.",
+    "s": 3
+   },
+   {
+    "id": "missy-elliott",
+    "why": "Missy Elliott produced So Gone and much of After the Storm.",
+    "s": 3
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "kelly-clarkson",
+    "why": "A powerhouse voice built for heartbreak songs."
+   },
+   {
+    "id": "miranda-lambert",
+    "why": "Strong-voiced Southern songs about love going wrong."
+   }
+  ]
+ },
+ {
+  "id": "swv",
+  "years": "1990–present",
+  "origin": "New York, New York",
+  "genres": [
+   "new jack swing",
+   "hip-hop soul",
+   "R&B"
+  ],
+  "summary": "SWV, short for Sisters With Voices, is a New York trio of Coko, Taj and Lelee whose gospel-trained harmonies and hip-hop beats made them a top R&B girl group of the 1990s.",
+  "know": [
+   "The three singers met through church and gospel singing in New York.",
+   "Their debut It's About Time produced the hits Right Here, Weak and I'm So Into You.",
+   "Teddy Riley's Human Nature remix of Right Here samples Michael Jackson's Human Nature."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "It's About Time",
+    1992
+   ],
+   [
+    "New Beginning",
+    1996
+   ],
+   [
+    "Release Some Tension",
+    1997
+   ],
+   [
+    "I Missed Us",
+    2012
+   ]
+  ],
+  "songs": [
+   "Right Here (Human Nature Remix)",
+   "Weak",
+   "I'm So Into You",
+   "You're the One",
+   "Rain"
+  ],
+  "influencedBy": [
+   {
+    "id": "teddy-riley",
+    "why": "Riley remixed Right Here into their signature hit and helped set their new jack swing sound.",
+    "s": 3
+   },
+   {
+    "id": "michael-jackson",
+    "why": "Their biggest remix is built on Jackson's Human Nature.",
+    "s": 2
+   },
+   {
+    "id": "en-vogue",
+    "why": "En Vogue's success reopened the market for harmony girl groups that SWV entered.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "destinys-child",
+    "why": "Destiny's Child followed SWV's mix of church harmonies and hip-hop production.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "salt-n-pepa",
+    "why": "New York women's groups with hip-hop swagger."
+   },
+   {
+    "id": "the-ronettes",
+    "why": "Girl group harmonies with a street-smart edge."
+   }
+  ]
+ },
+ {
+  "id": "blackstreet",
+  "years": "1991–present",
+  "origin": "New York, New York",
+  "genres": [
+   "new jack swing",
+   "R&B",
+   "hip-hop soul"
+  ],
+  "summary": "Blackstreet is the R&B group Teddy Riley formed after Guy, best known for No Diggity. The group carried new jack swing into a smoother, more hip-hop leaning 1990s sound.",
+  "know": [
+   "Riley formed the group in 1991 with Chauncey Hannibal and other singers, and the lineup changed several times.",
+   "No Diggity, featuring Dr. Dre and Queen Pen, topped the Hot 100 in 1996 and won a Grammy.",
+   "No Diggity is built on a sample of Bill Withers' Grandma's Hands."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Blackstreet",
+    1994
+   ],
+   [
+    "Another Level",
+    1996
+   ],
+   [
+    "Finally",
+    1999
+   ],
+   [
+    "Level II",
+    2003
+   ]
+  ],
+  "songs": [
+   "No Diggity",
+   "Before I Let You Go",
+   "Don't Leave Me",
+   "Joy",
+   "Take Me There"
+  ],
+  "influencedBy": [
+   {
+    "id": "teddy-riley",
+    "why": "Riley founded, wrote for and produced the group.",
+    "s": 3
+   },
+   {
+    "id": "guy",
+    "why": "Blackstreet continued the sound Riley had built with Guy.",
+    "s": 3
+   },
+   {
+    "id": "dr-dre",
+    "why": "Dr. Dre rapped on No Diggity and the track leans into his West Coast style.",
+    "s": 3
+   },
+   {
+    "id": "bill-withers",
+    "why": "No Diggity's piano hook is a sample of Withers' Grandma's Hands.",
+    "s": 2
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "nate-dogg",
+    "why": "Smooth singing over hip-hop beats in the 1990s."
+   },
+   {
+    "id": "warren-g",
+    "why": "Laid-back 1990s grooves where R&B and rap meet."
+   }
+  ]
+ },
+ {
+  "id": "maxwell",
+  "years": "1991–present",
+  "origin": "Brooklyn, New York",
+  "genres": [
+   "neo soul",
+   "R&B",
+   "quiet storm"
+  ],
+  "summary": "Maxwell is a Brooklyn singer whose falsetto and slow, jazzy grooves helped launch neo soul in the mid 1990s. He records rarely, and each album is treated as an event.",
+  "know": [
+   "His 1996 debut Maxwell's Urban Hang Suite was co-written with Leon Ware, who had worked with Marvin Gaye.",
+   "He recorded Kate Bush's This Woman's Work for an MTV Unplugged performance and later released it as a single.",
+   "BLACKsummers'night, released in 2009 after an eight-year gap, won two Grammys."
+  ],
+  "born": "05-23",
+  "keyAlbums": [
+   [
+    "Maxwell's Urban Hang Suite",
+    1996
+   ],
+   [
+    "Embrya",
+    1998
+   ],
+   [
+    "Now",
+    2001
+   ],
+   [
+    "BLACKsummers'night",
+    2009
+   ]
+  ],
+  "songs": [
+   "Ascension (Don't Ever Wonder)",
+   "Sumthin' Sumthin'",
+   "Fortunate",
+   "This Woman's Work",
+   "Pretty Wings"
+  ],
+  "influencedBy": [
+   {
+    "id": "marvin-gaye",
+    "why": "His debut was co-written with Gaye's collaborator Leon Ware and follows Gaye's sensual soul.",
+    "s": 2
+   },
+   {
+    "id": "prince",
+    "why": "Prince's falsetto and genre-blending were key influences Maxwell has acknowledged.",
+    "s": 2
+   },
+   {
+    "id": "sade",
+    "why": "Maxwell has praised Sade, and his hushed, spacious grooves share her mood.",
+    "s": 2
+   },
+   {
+    "id": "kate-bush",
+    "why": "His version of This Woman's Work became one of his signature performances.",
+    "s": 2
+   },
+   {
+    "id": "stevie-wonder",
+    "why": "Wonder's melodic, musician-led soul is part of the foundation of Maxwell's sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "miguel",
+    "why": "Miguel's sensual falsetto R&B follows the path Maxwell opened in the 1990s.",
+    "s": 1
+   },
+   {
+    "id": "daniel-caesar",
+    "why": "Caesar's slow, gospel-tinged romantic soul draws on the neo soul Maxwell helped start.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "jeff-buckley",
+    "why": "A soaring falsetto in slow, romantic songs."
+   },
+   {
+    "id": "bon-iver",
+    "why": "Intimate falsetto singing with a lot of space."
+   }
+  ]
+ },
+ {
+  "id": "tony-toni-tone",
+  "years": "1986–1997",
+  "origin": "Oakland, California",
+  "genres": [
+   "new jack swing",
+   "R&B",
+   "funk",
+   "neo soul"
+  ],
+  "summary": "Tony! Toni! Toné! was an Oakland band of Raphael Saadiq, his brother D'wayne Wiggins and cousin Timothy Christian Riley. They mixed new jack swing with live-band funk and classic soul, pointing toward neo soul.",
+  "know": [
+   "They played their own instruments, unusual for an R&B group of the new jack swing era.",
+   "Sons of Soul went platinum in 1993 and is often cited as an early neo soul record.",
+   "After the group split, Raphael Saadiq went on to a solo and production career."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Who?",
+    1988
+   ],
+   [
+    "The Revival",
+    1990
+   ],
+   [
+    "Sons of Soul",
+    1993
+   ],
+   [
+    "House of Music",
+    1996
+   ]
+  ],
+  "songs": [
+   "Little Walter",
+   "Feels Good",
+   "It Never Rains (In Southern California)",
+   "Anniversary",
+   "Let's Get Down"
+  ],
+  "influencedBy": [
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Sly's Bay Area band funk is a direct ancestor of the Tonies' live, family-band sound.",
+    "s": 2
+   },
+   {
+    "id": "al-green",
+    "why": "Their ballads draw on Al Green's warm, gospel-tinged Memphis soul.",
+    "s": 1
+   },
+   {
+    "id": "earth-wind-fire",
+    "why": "Earth, Wind & Fire's musician-led band soul shaped their approach.",
+    "s": 1
+   },
+   {
+    "id": "prince",
+    "why": "Prince's mix of funk, rock and R&B fed their genre-blending.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "raphael-saadiq",
+    "why": "Saadiq developed his songwriting and production as the group's lead singer and bassist.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-roots",
+    "why": "Live-band music that mixes hip-hop and soul."
+   },
+   {
+    "id": "pharcyde",
+    "why": "Warm, playful 1990s grooves from the West Coast."
+   }
+  ]
+ },
+ {
+  "id": "jill-scott",
+  "years": "1999–present",
+  "origin": "Philadelphia, Pennsylvania",
+  "genres": [
+   "neo soul",
+   "R&B",
+   "spoken word"
+  ],
+  "summary": "Jill Scott is a Philadelphia singer and poet who came out of the city's open-mic and Roots-connected scene. Her blend of jazz-soul singing and spoken word made her a leading neo soul artist of the 2000s.",
+  "know": [
+   "She co-wrote the Roots' Grammy-winning You Got Me, though Erykah Badu sang it on the record.",
+   "Her debut Who Is Jill Scott? Words and Sounds Vol. 1 went double platinum.",
+   "She has also acted, including in the TV series The No. 1 Ladies' Detective Agency."
+  ],
+  "born": "04-04",
+  "keyAlbums": [
+   [
+    "Who Is Jill Scott? Words and Sounds Vol. 1",
+    2000
+   ],
+   [
+    "Beautifully Human: Words and Sounds Vol. 2",
+    2004
+   ],
+   [
+    "The Real Thing: Words and Sounds Vol. 3",
+    2007
+   ],
+   [
+    "The Light of the Sun",
+    2011
+   ]
+  ],
+  "songs": [
+   "A Long Walk",
+   "Gettin' in the Way",
+   "Golden",
+   "He Loves Me (Lyzel in E Flat)",
+   "Hate on Me"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-roots",
+    "why": "She came up in the Roots' Philadelphia circle and co-wrote their hit You Got Me.",
+    "s": 3
+   },
+   {
+    "id": "nina-simone",
+    "why": "Scott has cited Simone, and her mix of jazz, soul and message follows Simone's path.",
+    "s": 2
+   },
+   {
+    "id": "gil-scott-heron",
+    "why": "Her spoken-word passages over grooves descend from Gil Scott-Heron's poetry and soul.",
+    "s": 1
+   },
+   {
+    "id": "minnie-riperton",
+    "why": "Her light, soaring upper register recalls Riperton's style.",
+    "s": 1
+   },
+   {
+    "id": "erykah-badu",
+    "why": "Badu's late 1990s neo soul opened the space Scott stepped into.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "common",
+    "why": "Poetic, warm records that sit between soul and hip-hop."
+   },
+   {
+    "id": "ani-difranco",
+    "why": "A poet-songwriter who mixes spoken word with song."
+   }
+  ]
+ },
+ {
+  "id": "musiq-soulchild",
+  "years": "2000–present",
+  "origin": "Philadelphia, Pennsylvania",
+  "genres": [
+   "neo soul",
+   "R&B"
+  ],
+  "summary": "Musiq Soulchild is a Philadelphia singer whose smooth, conversational neo soul made him a steady hitmaker in the 2000s. His songs mix classic soul melody with hip-hop rhythms.",
+  "know": [
+   "He sang at Philadelphia open-mic nights before signing with Def Soul.",
+   "His debut Aijuswanaseing went platinum and included the hit Love.",
+   "Just Friends (Sunny) was featured on the soundtrack of the film Nutty Professor II."
+  ],
+  "born": "09-16",
+  "keyAlbums": [
+   [
+    "Aijuswanaseing",
+    2000
+   ],
+   [
+    "Juslisen",
+    2002
+   ],
+   [
+    "Soulstar",
+    2003
+   ],
+   [
+    "Luvanmusiq",
+    2007
+   ]
+  ],
+  "songs": [
+   "Just Friends (Sunny)",
+   "Love",
+   "Halfcrazy",
+   "Teachme",
+   "B.U.D.D.Y."
+  ],
+  "influencedBy": [
+   {
+    "id": "stevie-wonder",
+    "why": "His melodic phrasing is often compared to Stevie Wonder, whom he has named as an influence.",
+    "s": 2
+   },
+   {
+    "id": "dj-jazzy-jeff-fresh-prince",
+    "why": "He came up through the Philadelphia neo soul network around DJ Jazzy Jeff's A Touch of Jazz studio.",
+    "s": 2
+   },
+   {
+    "id": "donny-hathaway",
+    "why": "Hathaway's warm, gospel-rooted soul is a model for Musiq's ballads.",
+    "s": 1
+   },
+   {
+    "id": "gamble-and-huff",
+    "why": "He carries on the Philadelphia soul tradition Gamble and Huff built.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-roots",
+    "why": "Philadelphia records where live soul meets hip-hop rhythm."
+   },
+   {
+    "id": "norah-jones",
+    "why": "Gentle, melodic songs with a jazz touch."
+   }
+  ]
+ },
+ {
+  "id": "india-arie",
+  "years": "1999–present",
+  "origin": "Atlanta, Georgia",
+  "genres": [
+   "neo soul",
+   "acoustic soul",
+   "folk-soul"
+  ],
+  "summary": "India.Arie is a singer-songwriter who came out of Atlanta's Groovement scene with guitar-based soul about self-worth and identity. Her debut Acoustic Soul earned seven Grammy nominations.",
+  "know": [
+   "She was born in Denver and moved to Atlanta, where she joined the independent artist collective Groovement.",
+   "Acoustic Soul was nominated for seven Grammys in 2002.",
+   "She won the Grammy for Best R&B Album for Voyage to India."
+  ],
+  "born": "10-03",
+  "keyAlbums": [
+   [
+    "Acoustic Soul",
+    2001
+   ],
+   [
+    "Voyage to India",
+    2002
+   ],
+   [
+    "Testimony: Vol. 1, Life & Relationship",
+    2006
+   ],
+   [
+    "Songversation",
+    2013
+   ]
+  ],
+  "songs": [
+   "Video",
+   "Brown Skin",
+   "Little Things",
+   "I Am Not My Hair",
+   "Ready for Love"
+  ],
+  "influencedBy": [
+   {
+    "id": "stevie-wonder",
+    "why": "She has cited Wonder as a key influence, and his positive, melodic soul shapes her songs.",
+    "s": 2
+   },
+   {
+    "id": "bill-withers",
+    "why": "Withers' plainspoken, guitar-based soul is a clear model for her style.",
+    "s": 2
+   },
+   {
+    "id": "tracy-chapman",
+    "why": "Chapman's acoustic guitar songs about identity and dignity point toward India.Arie's approach.",
+    "s": 1
+   },
+   {
+    "id": "donny-hathaway",
+    "why": "Hathaway's warm, uplifting soul is part of her foundation.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "tracy-chapman",
+    "why": "Acoustic guitar songs with a message."
+   },
+   {
+    "id": "rhiannon-giddens",
+    "why": "Roots music that celebrates Black heritage and identity."
+   }
+  ]
+ },
+ {
+  "id": "raphael-saadiq",
+  "years": "1984–present",
+  "origin": "Oakland, California",
+  "genres": [
+   "neo soul",
+   "retro soul",
+   "R&B",
+   "funk"
+  ],
+  "summary": "Raphael Saadiq is an Oakland singer, bassist and producer who led Tony! Toni! Toné! and became a key producer of neo soul. His solo records range from modern R&B to faithful 1960s-style soul.",
+  "know": [
+   "As a teenager he played bass on tour with Sheila E. during Prince's Parade era.",
+   "He co-wrote and co-produced D'Angelo's Untitled (How Does It Feel).",
+   "The Way I See It, from 2008, is a tribute to Motown and 1960s soul."
+  ],
+  "born": "05-14",
+  "keyAlbums": [
+   [
+    "Instant Vintage",
+    2002
+   ],
+   [
+    "The Way I See It",
+    2008
+   ],
+   [
+    "Stone Rollin'",
+    2011
+   ],
+   [
+    "Jimmy Lee",
+    2019
+   ]
+  ],
+  "songs": [
+   "Ask of You",
+   "Still Ray",
+   "100 Yard Dash",
+   "Good Man",
+   "Be Here"
+  ],
+  "influencedBy": [
+   {
+    "id": "tony-toni-tone",
+    "why": "He built his writing and producing skills as leader of Tony! Toni! Toné!",
+    "s": 3
+   },
+   {
+    "id": "prince",
+    "why": "Touring as a bassist in Sheila E.'s band on Prince's tour was a formative experience.",
+    "s": 2
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Sly's Bay Area funk is a lasting root of his bass playing and production.",
+    "s": 2
+   },
+   {
+    "id": "the-temptations",
+    "why": "The Way I See It deliberately recreates the sound of 1960s Motown groups.",
+    "s": 2
+   },
+   {
+    "id": "stevie-wonder",
+    "why": "Wonder played harmonica on The Way I See It, and his soul writing runs through Saadiq's work.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "d-angelo",
+    "why": "He co-wrote and co-produced Untitled (How Does It Feel) and Lady.",
+    "s": 3
+   },
+   {
+    "id": "solange",
+    "why": "He co-produced and played on A Seat at the Table.",
+    "s": 3
+   },
+   {
+    "id": "leon-bridges",
+    "why": "Bridges' faithful retro soul follows the vintage-minded approach Saadiq took on The Way I See It.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "dan-auerbach",
+    "why": "Producer-musicians who love vintage sounds."
+   },
+   {
+    "id": "mark-ronson",
+    "why": "A producer who revives classic soul for modern records."
+   }
+  ]
+ },
+ {
+  "id": "ciara",
+  "years": "2004–present",
+  "origin": "Atlanta, Georgia",
+  "genres": [
+   "R&B",
+   "crunk&B",
+   "dance-pop"
+  ],
+  "summary": "Ciara is an Atlanta singer and dancer whose debut single Goodies made her the leading voice of crunk&B. Her choreography-driven records drew comparisons to Janet Jackson.",
+  "know": [
+   "Goodies, produced by Lil Jon, topped the Hot 100 in 2004.",
+   "1, 2 Step and Lose Control both featured Missy Elliott.",
+   "She has said seeing Destiny's Child perform inspired her to pursue music."
+  ],
+  "born": "10-25",
+  "keyAlbums": [
+   [
+    "Goodies",
+    2004
+   ],
+   [
+    "Ciara: The Evolution",
+    2006
+   ],
+   [
+    "Fantasy Ride",
+    2009
+   ],
+   [
+    "Ciara",
+    2013
+   ]
+  ],
+  "songs": [
+   "Goodies",
+   "1, 2 Step",
+   "Oh",
+   "Promise",
+   "Level Up"
+  ],
+  "influencedBy": [
+   {
+    "id": "janet-jackson",
+    "why": "Ciara has named Janet Jackson as a role model for combining singing and dance.",
+    "s": 2
+   },
+   {
+    "id": "lil-jon",
+    "why": "Lil Jon produced Goodies and gave her early sound its crunk drums.",
+    "s": 3
+   },
+   {
+    "id": "missy-elliott",
+    "why": "Missy Elliott collaborated on 1, 2 Step and Lose Control and shaped her playful dance tracks.",
+    "s": 3
+   },
+   {
+    "id": "aaliyah",
+    "why": "Aaliyah's cool, airy vocals over bold beats are a clear model for Ciara's style.",
+    "s": 2
+   },
+   {
+    "id": "destinys-child",
+    "why": "Destiny's Child inspired her to become a performer.",
+    "s": 2
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "britney-spears",
+    "why": "Dance-pop stars whose choreography is part of the music."
+   },
+   {
+    "id": "paula-abdul",
+    "why": "A dancer-turned-singer who made video-ready dance hits."
+   }
+  ]
+ },
+ {
+  "id": "ne-yo",
+  "years": "2004–present",
+  "origin": "Las Vegas, Nevada",
+  "genres": [
+   "R&B",
+   "pop",
+   "dance-pop"
+  ],
+  "summary": "Ne-Yo is a singer and songwriter who became known first for writing hits for others and then for his own smooth, melodic R&B. His records bridged R&B balladry and dance-pop in the late 2000s.",
+  "know": [
+   "He wrote Mario's 2004 number one Let Me Love You before his own breakthrough.",
+   "He co-wrote Beyonce's Irreplaceable and Rihanna's Take a Bow.",
+   "Year of the Gentleman drew on the style of classic crooners like Frank Sinatra."
+  ],
+  "born": "10-18",
+  "keyAlbums": [
+   [
+    "In My Own Words",
+    2006
+   ],
+   [
+    "Because of You",
+    2007
+   ],
+   [
+    "Year of the Gentleman",
+    2008
+   ],
+   [
+    "Libra Scale",
+    2010
+   ]
+  ],
+  "songs": [
+   "So Sick",
+   "Because of You",
+   "Miss Independent",
+   "Closer",
+   "Let Me Love You (Until You Learn to Love Yourself)"
+  ],
+  "influencedBy": [
+   {
+    "id": "michael-jackson",
+    "why": "Ne-Yo has called Jackson his biggest influence, from his melodies to his dancing.",
+    "s": 2
+   },
+   {
+    "id": "frank-sinatra",
+    "why": "Year of the Gentleman borrowed Sinatra's sharp-dressed crooner image.",
+    "s": 2
+   },
+   {
+    "id": "babyface",
+    "why": "His career as a songwriter writing for many singers follows the path Babyface made famous.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "beyonce",
+    "why": "He co-wrote Irreplaceable, one of her biggest solo hits.",
+    "s": 3
+   },
+   {
+    "id": "rihanna",
+    "why": "He co-wrote Take a Bow and Unfaithful for her.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bruno-mars",
+    "why": "A singer-writer who blends classic R&B and pop."
+   },
+   {
+    "id": "justin-timberlake",
+    "why": "Smooth, dance-ready pop-R&B with strong melodies."
+   }
+  ]
+ },
+ {
+  "id": "chris-brown",
+  "years": "2005–present",
+  "origin": "Tappahannock, Virginia",
+  "genres": [
+   "R&B",
+   "pop",
+   "hip-hop"
+  ],
+  "summary": "Chris Brown is a Virginia-born singer and dancer who broke through as a teenager in 2005. His records cover smooth R&B, dance-pop and rap-leaning tracks, and his dancing is central to his performances.",
+  "know": [
+   "His debut single Run It! reached number one on the Hot 100 in 2005.",
+   "F.A.M.E. won the Grammy for Best R&B Album in 2012.",
+   "He grew up singing in his church choir and performing at talent shows in Virginia."
+  ],
+  "born": "05-05",
+  "keyAlbums": [
+   [
+    "Chris Brown",
+    2005
+   ],
+   [
+    "Exclusive",
+    2007
+   ],
+   [
+    "F.A.M.E.",
+    2011
+   ],
+   [
+    "Indigo",
+    2019
+   ]
+  ],
+  "songs": [
+   "Run It!",
+   "With You",
+   "Forever",
+   "Look at Me Now",
+   "No Guidance"
+  ],
+  "influencedBy": [
+   {
+    "id": "michael-jackson",
+    "why": "Brown has named Jackson as his biggest influence as a singer and dancer.",
+    "s": 3
+   },
+   {
+    "id": "usher",
+    "why": "Usher's R&B-and-dance style was the model Brown followed into his career.",
+    "s": 2
+   },
+   {
+    "id": "bobby-brown",
+    "why": "Bobby Brown's dance-heavy new jack swing is an earlier version of his approach.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "justin-timberlake",
+    "why": "Dance-driven pop-R&B performers."
+   },
+   {
+    "id": "justin-bieber",
+    "why": "A young pop-R&B star who broke through as a teenager."
+   }
+  ]
+ },
+ {
+  "id": "john-legend",
+  "years": "2004–present",
+  "origin": "Philadelphia, Pennsylvania",
+  "genres": [
+   "R&B",
+   "neo soul",
+   "soul",
+   "pop"
+  ],
+  "summary": "John Legend is a singer, pianist and songwriter who came up as a session player in Philadelphia and New York before signing with Kanye West. His piano-led soul made him one of the leading R&B voices of the 2000s and 2010s.",
+  "know": [
+   "He played piano on Lauryn Hill's Everything Is Everything before his solo career.",
+   "His debut Get Lifted was released on Kanye West's GOOD Music label and won the Grammy for Best R&B Album.",
+   "Glory, with Common, from the film Selma won an Academy Award for Best Original Song."
+  ],
+  "born": "12-28",
+  "keyAlbums": [
+   [
+    "Get Lifted",
+    2004
+   ],
+   [
+    "Once Again",
+    2006
+   ],
+   [
+    "Wake Up! (with the Roots)",
+    2010
+   ],
+   [
+    "Love in the Future",
+    2013
+   ]
+  ],
+  "songs": [
+   "Ordinary People",
+   "Used to Love U",
+   "Green Light",
+   "All of Me",
+   "Glory"
+  ],
+  "influencedBy": [
+   {
+    "id": "kanye-west",
+    "why": "West signed him, produced parts of Get Lifted and featured him on early GOOD Music records.",
+    "s": 3
+   },
+   {
+    "id": "lauryn-hill",
+    "why": "He played piano on The Miseducation of Lauryn Hill, an early major credit.",
+    "s": 3
+   },
+   {
+    "id": "the-roots",
+    "why": "He made Wake Up! with the Roots, a set of 1960s and 1970s protest soul covers.",
+    "s": 3
+   },
+   {
+    "id": "stevie-wonder",
+    "why": "Legend has named Wonder as a key influence on his songwriting and piano playing.",
+    "s": 2
+   },
+   {
+    "id": "marvin-gaye",
+    "why": "Gaye's mix of romance and social message shaped Legend's soul.",
+    "s": 2
+   },
+   {
+    "id": "donny-hathaway",
+    "why": "Hathaway's gospel-rooted piano soul is a clear model for Legend's style.",
+    "s": 2
+   },
+   {
+    "id": "luther-vandross",
+    "why": "Vandross' elegant romantic ballads are part of the tradition Legend works in.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "elton-john",
+    "why": "Piano-led songs built around big melodies."
+   },
+   {
+    "id": "billy-joel",
+    "why": "A singer-pianist who writes timeless ballads."
+   }
+  ]
+ },
+ {
+  "id": "the-dream",
+  "years": "2001–present",
+  "origin": "Atlanta, Georgia",
+  "genres": [
+   "R&B",
+   "pop",
+   "contemporary R&B"
+  ],
+  "summary": "The-Dream is an Atlanta songwriter and producer, often working with Tricky Stewart, who wrote some of the biggest pop and R&B hits of the late 2000s. He also released his own albums of melodic, synth-heavy R&B.",
+  "know": [
+   "He co-wrote Rihanna's Umbrella with Tricky Stewart in 2007.",
+   "He co-wrote Beyonce's Single Ladies (Put a Ring on It), which won the Grammy for Song of the Year.",
+   "He later worked on Beyonce's Renaissance album in 2022."
+  ],
+  "born": "09-20",
+  "keyAlbums": [
+   [
+    "Good Girl Gone Bad (Rihanna)",
+    2007
+   ],
+   [
+    "Love/Hate",
+    2007
+   ],
+   [
+    "I Am... Sasha Fierce (Beyonce)",
+    2008
+   ],
+   [
+    "Renaissance (Beyonce)",
+    2022
+   ]
+  ],
+  "songs": [
+   "Umbrella",
+   "Single Ladies (Put a Ring on It)",
+   "Baby",
+   "Shawty Is a 10",
+   "Touch My Body"
+  ],
+  "influencedBy": [
+   {
+    "id": "tricky-stewart",
+    "why": "Stewart is his long-time production partner on most of his biggest hits.",
+    "s": 3
+   },
+   {
+    "id": "prince",
+    "why": "The-Dream has named Prince as a key influence, and it shows in his synth-heavy, sensual R&B.",
+    "s": 2
+   },
+   {
+    "id": "r-kelly",
+    "why": "His writer-producer R&B with big melodic hooks follows the 1990s model R. Kelly set.",
+    "s": 1
+   },
+   {
+    "id": "michael-jackson",
+    "why": "Jackson's pop-R&B melodies are a basic template for his writing.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "rihanna",
+    "why": "He co-wrote Umbrella, which made Rihanna a global star.",
+    "s": 3
+   },
+   {
+    "id": "beyonce",
+    "why": "He co-wrote Single Ladies and worked on Renaissance.",
+    "s": 3
+   },
+   {
+    "id": "justin-bieber",
+    "why": "He co-wrote and co-produced Bieber's 2010 hit Baby.",
+    "s": 3
+   },
+   {
+    "id": "mariah-carey",
+    "why": "He co-wrote Touch My Body and produced much of Memoirs of an Imperfect Angel.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "max-martin",
+    "why": "A songwriter-producer behind many of pop's biggest hits."
+   },
+   {
+    "id": "dr-luke",
+    "why": "A producer of sticky, chart-topping pop hooks in the same era."
+   }
+  ]
+ },
+ {
+  "id": "miguel",
+  "years": "2004–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "alternative R&B",
+   "funk",
+   "psychedelic soul"
+  ],
+  "summary": "Miguel is a Los Angeles singer, songwriter and producer whose R&B mixes funk, rock guitar and psychedelic textures. Kaleidoscope Dream made him a leading figure in alternative R&B.",
+  "know": [
+   "He grew up in the San Pedro area of Los Angeles with a Mexican American father and African American mother.",
+   "Adorn won the Grammy for Best R&B Song in 2013.",
+   "Lenny Kravitz played guitar on face the sun from Wildheart."
+  ],
+  "born": "10-23",
+  "keyAlbums": [
+   [
+    "All I Want Is You",
+    2010
+   ],
+   [
+    "Kaleidoscope Dream",
+    2012
+   ],
+   [
+    "Wildheart",
+    2015
+   ],
+   [
+    "War & Leisure",
+    2017
+   ]
+  ],
+  "songs": [
+   "Adorn",
+   "Sure Thing",
+   "Coffee",
+   "Do You...",
+   "Sky Walker"
+  ],
+  "influencedBy": [
+   {
+    "id": "prince",
+    "why": "Miguel has cited Prince as a major influence on his mix of funk, rock and sensual R&B.",
+    "s": 2
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "Hendrix's psychedelic guitar and sound shape Miguel's rock-leaning side.",
+    "s": 2
+   },
+   {
+    "id": "lenny-kravitz",
+    "why": "Kravitz played on Wildheart, and his retro rock-soul blend is close to Miguel's style.",
+    "s": 3
+   },
+   {
+    "id": "marvin-gaye",
+    "why": "Adorn is widely compared to Gaye's Sexual Healing in its groove and mood.",
+    "s": 1
+   },
+   {
+    "id": "d-angelo",
+    "why": "D'Angelo's loose, layered neo soul paved the way for Miguel's textures.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "tame-impala",
+    "why": "Psychedelic textures and lush, hazy grooves."
+   },
+   {
+    "id": "lenny-kravitz",
+    "why": "Retro rock guitar blended with soul."
+   }
+  ]
+ },
+ {
+  "id": "janelle-monae",
+  "years": "2003–present",
+  "origin": "Atlanta, Georgia",
+  "genres": [
+   "funk",
+   "R&B",
+   "art pop",
+   "psychedelic soul"
+  ],
+  "summary": "Janelle Monáe is a singer, songwriter and actor whose concept albums mix funk, soul, rock and science fiction storytelling. She came up through Atlanta's Wondaland collective and was championed by Big Boi and Prince.",
+  "know": [
+   "Her early records follow an android alter ego named Cindi Mayweather.",
+   "Big Boi of OutKast helped bring her to a wider audience and to Bad Boy Records.",
+   "Prince worked with her on The Electric Lady and contributed to the sound of Dirty Computer."
+  ],
+  "born": "12-01",
+  "keyAlbums": [
+   [
+    "Metropolis: The Chase Suite",
+    2007
+   ],
+   [
+    "The ArchAndroid",
+    2010
+   ],
+   [
+    "The Electric Lady",
+    2013
+   ],
+   [
+    "Dirty Computer",
+    2018
+   ]
+  ],
+  "songs": [
+   "Tightrope",
+   "Cold War",
+   "Q.U.E.E.N.",
+   "Make Me Feel",
+   "PYNK"
+  ],
+  "influencedBy": [
+   {
+    "id": "prince",
+    "why": "Prince mentored her and appeared on Givin Em What They Love from The Electric Lady.",
+    "s": 3
+   },
+   {
+    "id": "outkast",
+    "why": "Big Boi signed and promoted her, and OutKast's genre-bending Atlanta sound shaped hers.",
+    "s": 3
+   },
+   {
+    "id": "james-brown",
+    "why": "Her footwork and tight funk on Tightrope draw directly on James Brown.",
+    "s": 2
+   },
+   {
+    "id": "david-bowie",
+    "why": "Bowie's character-driven concept albums are a model for her alter egos.",
+    "s": 2
+   },
+   {
+    "id": "parliament-funkadelic",
+    "why": "Her Afrofuturist funk storytelling follows George Clinton's space-age concepts.",
+    "s": 1
+   },
+   {
+    "id": "stevie-wonder",
+    "why": "Wonder's musically ambitious soul albums shaped her approach to the full-length record.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "bjork",
+    "why": "Concept-driven pop that builds its own world."
+   },
+   {
+    "id": "kate-bush",
+    "why": "Theatrical, imaginative art pop with a strong vision."
+   }
+  ]
+ },
+ {
+  "id": "sharon-jones-and-the-dap-kings",
+  "years": "1996–2016",
+  "origin": "Brooklyn, New York",
+  "genres": [
+   "retro soul",
+   "funk",
+   "deep soul"
+  ],
+  "summary": "Sharon Jones & the Dap-Kings were a Brooklyn soul and funk band led by singer Sharon Jones, recording for Daptone Records. Their analog, 1960s-style records helped spark a revival of classic soul in the 2000s.",
+  "know": [
+   "Jones worked day jobs for years while singing on the side, and did not release her first album until her forties.",
+   "The Dap-Kings were the backing band on Amy Winehouse's Back to Black.",
+   "Daptone co-founder Gabriel Roth, known as Bosco Mann, played bass and produced the band's records."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Dap-Dippin' with Sharon Jones and the Dap-Kings",
+    2002
+   ],
+   [
+    "Naturally",
+    2005
+   ],
+   [
+    "100 Days, 100 Nights",
+    2007
+   ],
+   [
+    "Give the People What They Want",
+    2014
+   ]
+  ],
+  "songs": [
+   "100 Days, 100 Nights",
+   "How Long Do I Have to Wait for You?",
+   "I Learned the Hard Way",
+   "Retreat!",
+   "Get Up and Get Out"
+  ],
+  "influencedBy": [
+   {
+    "id": "james-brown",
+    "why": "The band's tight horn hits and Jones' stage energy draw directly on James Brown's funk.",
+    "s": 2
+   },
+   {
+    "id": "otis-redding",
+    "why": "Jones' raw, pleading deep soul follows Otis Redding's style.",
+    "s": 1
+   },
+   {
+    "id": "aretha-franklin",
+    "why": "Jones' gospel-rooted power echoes Franklin's 1960s Atlantic records.",
+    "s": 1
+   },
+   {
+    "id": "the-meters",
+    "why": "The Dap-Kings' spare, syncopated funk grooves recall the Meters.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "amy-winehouse",
+    "why": "The Dap-Kings played on Back to Black and gave it its vintage soul sound.",
+    "s": 3
+   },
+   {
+    "id": "mark-ronson",
+    "why": "Ronson built his retro soul productions around the Dap-Kings' band sound.",
+    "s": 3
+   },
+   {
+    "id": "leon-bridges",
+    "why": "Bridges came up in the classic soul revival that Daptone helped build.",
+    "s": 1
+   },
+   {
+    "id": "black-pumas",
+    "why": "Black Pumas' vintage soul follows the revival path the Dap-Kings led.",
+    "s": 1
+   },
+   {
+    "id": "nathaniel-rateliff-and-the-night-sweats",
+    "why": "Their horn-driven retro soul follows the Daptone revival style.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-black-keys",
+    "why": "Raw, vintage-sounding records made with old-school gear."
+   },
+   {
+    "id": "gary-clark-jr",
+    "why": "A modern artist keeping classic roots music alive."
+   }
+  ]
+ },
+ {
+  "id": "christina-aguilera",
+  "years": "1998–present",
+  "origin": "Pittsburgh, Pennsylvania",
+  "genres": [
+   "pop",
+   "R&B",
+   "soul"
+  ],
+  "summary": "Christina Aguilera is a singer who came up on The Mickey Mouse Club and became a teen pop star in 1999. Her powerful, soul-styled voice later carried her into more R&B and retro soul records.",
+  "know": [
+   "She was a cast member of The Mickey Mouse Club in the early 1990s alongside Britney Spears and Justin Timberlake.",
+   "Genie in a Bottle topped the Hot 100 in 1999.",
+   "Back to Basics was built around 1920s to 1940s jazz, blues and soul styles."
+  ],
+  "born": "12-18",
+  "keyAlbums": [
+   [
+    "Christina Aguilera",
+    1999
+   ],
+   [
+    "Mi Reflejo",
+    2000
+   ],
+   [
+    "Stripped",
+    2002
+   ],
+   [
+    "Back to Basics",
+    2006
+   ]
+  ],
+  "songs": [
+   "Genie in a Bottle",
+   "What a Girl Wants",
+   "Beautiful",
+   "Fighter",
+   "Ain't No Other Man"
+  ],
+  "influencedBy": [
+   {
+    "id": "etta-james",
+    "why": "Aguilera has named Etta James as her favorite singer and a key influence.",
+    "s": 3
+   },
+   {
+    "id": "whitney-houston",
+    "why": "Houston's big pop-soul voice was a model for her early singing.",
+    "s": 2
+   },
+   {
+    "id": "mariah-carey",
+    "why": "Carey's runs and range shaped Aguilera's melisma-heavy style.",
+    "s": 2
+   },
+   {
+    "id": "billie-holiday",
+    "why": "Back to Basics drew on Holiday-era jazz and blues.",
+    "s": 2
+   },
+   {
+    "id": "patti-labelle",
+    "why": "She covered Lady Marmalade, and her ornamented belting follows LaBelle's style.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "ariana-grande",
+    "why": "Grande's big, runs-heavy pop singing draws on the Aguilera era.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "amy-winehouse",
+    "why": "Modern singers drawing on classic jazz and soul."
+   },
+   {
+    "id": "shakira",
+    "why": "A pop star with a powerful, distinctive voice."
+   }
+  ]
+ },
+ {
+  "id": "backstreet-boys",
+  "years": "1993–present",
+  "origin": "Orlando, Florida",
+  "genres": [
+   "pop",
+   "teen pop",
+   "dance-pop"
+  ],
+  "summary": "The Backstreet Boys are an Orlando vocal group that became the best-selling boy band in history. Their late 1990s records, many written with Max Martin, set the sound of teen pop.",
+  "know": [
+   "They found success in Europe before breaking through in the US.",
+   "Millennium sold more than a million copies in the US in its first week.",
+   "Max Martin co-wrote and produced I Want It That Way and other hits."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Backstreet Boys",
+    1996
+   ],
+   [
+    "Backstreet's Back",
+    1997
+   ],
+   [
+    "Millennium",
+    1999
+   ],
+   [
+    "Black & Blue",
+    2000
+   ]
+  ],
+  "songs": [
+   "I Want It That Way",
+   "Everybody (Backstreet's Back)",
+   "As Long as You Love Me",
+   "Quit Playing Games (With My Heart)",
+   "Shape of My Heart"
+  ],
+  "influencedBy": [
+   {
+    "id": "max-martin",
+    "why": "Martin wrote and produced many of their biggest songs.",
+    "s": 3
+   },
+   {
+    "id": "boyz-ii-men",
+    "why": "The group has cited Boyz II Men's harmonies as a model.",
+    "s": 2
+   },
+   {
+    "id": "new-edition",
+    "why": "New Edition's harmony-and-choreography format is the boy band template they followed.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "nsync",
+    "why": "NSYNC followed the same Orlando boy band model and Max Martin sound.",
+    "s": 1
+   },
+   {
+    "id": "one-direction",
+    "why": "One Direction carried the Backstreet-style boy band into the 2010s.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bts",
+    "why": "A boy group with harmonies, choreography and a huge fan base."
+   },
+   {
+    "id": "boyz-ii-men",
+    "why": "Smooth group harmony ballads."
+   }
+  ]
+ },
+ {
+  "id": "spice-girls",
+  "years": "1994–2000",
+  "origin": "London, England",
+  "genres": [
+   "pop",
+   "dance-pop",
+   "teen pop"
+  ],
+  "summary": "The Spice Girls were a British five-piece pop group whose 1996 debut Wannabe launched a worldwide craze. They became the best-selling girl group of all time.",
+  "know": [
+   "The group formed through a 1994 open audition advertised in a trade paper.",
+   "Wannabe topped the charts in more than thirty countries.",
+   "The members became known by nicknames such as Scary, Sporty, Baby, Ginger and Posh."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Spice",
+    1996
+   ],
+   [
+    "Spiceworld",
+    1997
+   ],
+   [
+    "Forever",
+    2000
+   ]
+  ],
+  "songs": [
+   "Wannabe",
+   "Say You'll Be There",
+   "2 Become 1",
+   "Spice Up Your Life",
+   "Stop"
+  ],
+  "influencedBy": [
+   {
+    "id": "madonna",
+    "why": "Madonna's bold pop image and confidence were a stated model for the group.",
+    "s": 2
+   },
+   {
+    "id": "abba",
+    "why": "ABBA's sunny, singalong European pop is a clear forebear of their sound.",
+    "s": 1
+   },
+   {
+    "id": "en-vogue",
+    "why": "En Vogue's success revived the girl group as a chart force before the Spice Girls arrived.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "charli-xcx",
+    "why": "Charli XCX has called the Spice Girls one of her first loves in pop.",
+    "s": 2
+   },
+   {
+    "id": "blackpink",
+    "why": "BLACKPINK's distinct-member girl group format follows the Spice Girls blueprint.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "blackpink",
+    "why": "A girl group with big personalities and global hits."
+   },
+   {
+    "id": "tlc",
+    "why": "A 1990s girl group with distinct members and a strong image."
+   }
+  ]
+ },
+ {
+  "id": "kylie-minogue",
+  "years": "1987–present",
+  "origin": "Melbourne, Australia",
+  "genres": [
+   "dance-pop",
+   "disco",
+   "synth-pop"
+  ],
+  "summary": "Kylie Minogue is an Australian singer who went from soap opera actor to one of the most successful dance-pop artists in the world. Her career runs from Stock Aitken Waterman bubblegum to sleek 2000s club pop and disco revival.",
+  "know": [
+   "She became famous playing Charlene on the Australian soap Neighbours before her music career.",
+   "Her first hits, including I Should Be So Lucky, were written and produced by Stock Aitken Waterman.",
+   "Can't Get You Out of My Head reached number one in more than forty countries."
+  ],
+  "born": "05-28",
+  "keyAlbums": [
+   [
+    "Kylie",
+    1988
+   ],
+   [
+    "Light Years",
+    2000
+   ],
+   [
+    "Fever",
+    2001
+   ],
+   [
+    "Disco",
+    2020
+   ]
+  ],
+  "songs": [
+   "I Should Be So Lucky",
+   "Spinning Around",
+   "Can't Get You Out of My Head",
+   "Love at First Sight",
+   "Padam Padam"
+  ],
+  "influencedBy": [
+   {
+    "id": "stock-aitken-waterman",
+    "why": "The trio wrote and produced her first albums and shaped her bright, high-energy early sound.",
+    "s": 3
+   },
+   {
+    "id": "madonna",
+    "why": "Madonna's control of image and dance-pop was a model for Minogue's reinvention in the 1990s.",
+    "s": 2
+   },
+   {
+    "id": "abba",
+    "why": "Minogue has cited ABBA, and their melodic disco-pop is a clear ancestor of her sound.",
+    "s": 2
+   },
+   {
+    "id": "donna-summer",
+    "why": "Her disco records, especially Disco, draw on the sound Summer defined.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "dua-lipa",
+    "why": "Dua Lipa's disco-pop draws on Minogue, and the two recorded Real Groove together.",
+    "s": 2
+   },
+   {
+    "id": "troye-sivan",
+    "why": "Sivan's club-oriented pop follows the dance-pop path Minogue built.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "chic",
+    "why": "Sleek disco grooves made for the dance floor."
+   },
+   {
+    "id": "daft-punk",
+    "why": "Dance music with a polished pop touch."
+   }
+  ]
+ },
+ {
+  "id": "cyndi-lauper",
+  "years": "1977–present",
+  "origin": "New York, New York",
+  "genres": [
+   "new wave",
+   "pop",
+   "synth-pop"
+  ],
+  "summary": "Cyndi Lauper is a Queens-raised singer and songwriter whose quirky voice and bold style made her a defining pop star of the 1980s. Her debut She's So Unusual produced several of the decade's best-known songs.",
+  "know": [
+   "She first sang with the rockabilly-influenced band Blue Angel before going solo.",
+   "She's So Unusual made her the first woman to have four top five singles from a debut album.",
+   "She wrote the music and lyrics for the Broadway musical Kinky Boots, which won the Tony for Best Original Score."
+  ],
+  "born": "06-22",
+  "keyAlbums": [
+   [
+    "She's So Unusual",
+    1983
+   ],
+   [
+    "True Colors",
+    1986
+   ],
+   [
+    "Hat Full of Stars",
+    1993
+   ],
+   [
+    "Memphis Blues",
+    2010
+   ]
+  ],
+  "songs": [
+   "Girls Just Want to Have Fun",
+   "Time After Time",
+   "True Colors",
+   "She Bop",
+   "All Through the Night"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "Lauper has named the Beatles as a key early influence on her songwriting.",
+    "s": 2
+   },
+   {
+    "id": "the-ronettes",
+    "why": "Her girl group-style vocals and retro touches draw on 1960s groups like the Ronettes.",
+    "s": 1
+   },
+   {
+    "id": "blondie",
+    "why": "Blondie's mix of new wave and pop opened the door for Lauper's sound and image.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "lady-gaga",
+    "why": "Gaga has cited Lauper's bold style and the two worked together on a MAC Viva Glam campaign.",
+    "s": 2
+   },
+   {
+    "id": "katy-perry",
+    "why": "Perry's colorful, playful pop image follows the path Lauper opened.",
+    "s": 1
+   },
+   {
+    "id": "gwen-stefani",
+    "why": "Stefani's quirky, fashion-forward pop persona draws on Lauper's example.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-b-52s",
+    "why": "Quirky, colorful new wave pop."
+   },
+   {
+    "id": "blondie",
+    "why": "New York new wave with a fearless frontwoman."
+   }
+  ]
+ },
+ {
+  "id": "kelly-clarkson",
+  "years": "2002–present",
+  "origin": "Burleson, Texas",
+  "genres": [
+   "pop",
+   "pop rock",
+   "soul"
+  ],
+  "summary": "Kelly Clarkson is a Texas singer who won the first season of American Idol in 2002. Her powerhouse voice carried her from Idol ballads to pop rock hits and later country and soul-tinged records.",
+  "know": [
+   "She won American Idol's first season and her single A Moment Like This topped the Hot 100.",
+   "Since U Been Gone, co-written by Max Martin and Dr. Luke, turned her toward pop rock.",
+   "She has won three Grammys and later hosted her own daytime talk show."
+  ],
+  "born": "04-24",
+  "keyAlbums": [
+   [
+    "Thankful",
+    2003
+   ],
+   [
+    "Breakaway",
+    2004
+   ],
+   [
+    "My December",
+    2007
+   ],
+   [
+    "Stronger",
+    2011
+   ]
+  ],
+  "songs": [
+   "A Moment Like This",
+   "Since U Been Gone",
+   "Behind These Hazel Eyes",
+   "Because of You",
+   "Stronger (What Doesn't Kill You)"
+  ],
+  "influencedBy": [
+   {
+    "id": "max-martin",
+    "why": "Martin co-wrote and produced Since U Been Gone and Behind These Hazel Eyes.",
+    "s": 3
+   },
+   {
+    "id": "dr-luke",
+    "why": "Dr. Luke co-wrote and produced Since U Been Gone and other hits on Breakaway.",
+    "s": 3
+   },
+   {
+    "id": "reba-mcentire",
+    "why": "Clarkson has called Reba McEntire a major influence and they have recorded together.",
+    "s": 3
+   },
+   {
+    "id": "whitney-houston",
+    "why": "Houston's big ballad singing shaped Clarkson's early vocal style.",
+    "s": 2
+   },
+   {
+    "id": "aretha-franklin",
+    "why": "Clarkson has cited Franklin, and her soul belting draws on her.",
+    "s": 2
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "carrie-underwood",
+    "why": "A big-voiced American Idol winner who became a star."
+   },
+   {
+    "id": "paramore",
+    "why": "Emotional, guitar-driven pop rock anthems."
+   }
+  ]
+ },
+ {
+  "id": "pink",
+  "years": "1995–present",
+  "origin": "Philadelphia, Pennsylvania",
+  "genres": [
+   "pop rock",
+   "pop",
+   "R&B"
+  ],
+  "summary": "P!nk is a singer and songwriter from the Philadelphia area who started in R&B and became a major pop rock star. She is known for a raspy voice, candid lyrics and acrobatic live shows.",
+  "know": [
+   "She first recorded in the R&B girl group Choice, signed to LaFace Records.",
+   "Missundaztood, co-written with Linda Perry, moved her from R&B to pop rock.",
+   "Her stage shows often feature aerial acrobatics performed while singing."
+  ],
+  "born": "09-08",
+  "keyAlbums": [
+   [
+    "Can't Take Me Home",
+    2000
+   ],
+   [
+    "Missundaztood",
+    2001
+   ],
+   [
+    "Funhouse",
+    2008
+   ],
+   [
+    "The Truth About Love",
+    2012
+   ]
+  ],
+  "songs": [
+   "There You Go",
+   "Get the Party Started",
+   "Just Like a Pill",
+   "So What",
+   "Just Give Me a Reason"
+  ],
+  "influencedBy": [
+   {
+    "id": "la-reid",
+    "why": "Reid signed her to LaFace and guided her R&B debut.",
+    "s": 3
+   },
+   {
+    "id": "janis-joplin",
+    "why": "P!nk has named Joplin as her main influence, and her raspy, raw singing follows Joplin's style.",
+    "s": 2
+   },
+   {
+    "id": "max-martin",
+    "why": "Martin co-wrote and produced So What.",
+    "s": 3
+   },
+   {
+    "id": "madonna",
+    "why": "Madonna's bold, provocative pop image was a model for P!nk's persona.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "paramore",
+    "why": "Raw-voiced, rock-leaning anthems with a fierce frontwoman."
+   },
+   {
+    "id": "joan-jett-and-the-blackhearts",
+    "why": "Tough, defiant rock with attitude."
+   }
+  ]
+ },
+ {
+  "id": "gwen-stefani",
+  "years": "1986–present",
+  "origin": "Anaheim, California",
+  "genres": [
+   "pop",
+   "ska punk",
+   "new wave"
+  ],
+  "summary": "Gwen Stefani is the singer of the Orange County ska band No Doubt and a solo pop star. Her solo records mixed new wave, hip-hop and dance-pop with a strong fashion identity.",
+  "know": [
+   "She joined No Doubt, the band her brother Eric co-founded, in 1986.",
+   "No Doubt's Tragic Kingdom sold over ten million copies in the US.",
+   "Hollaback Girl, produced by the Neptunes, was the first US digital download to sell a million copies."
+  ],
+  "born": "10-03",
+  "keyAlbums": [
+   [
+    "Tragic Kingdom (No Doubt)",
+    1995
+   ],
+   [
+    "Love. Angel. Music. Baby.",
+    2004
+   ],
+   [
+    "The Sweet Escape",
+    2006
+   ],
+   [
+    "This Is What the Truth Feels Like",
+    2016
+   ]
+  ],
+  "songs": [
+   "Don't Speak",
+   "Just a Girl",
+   "Hollaback Girl",
+   "Rich Girl",
+   "The Sweet Escape"
+  ],
+  "influencedBy": [
+   {
+    "id": "madness",
+    "why": "No Doubt started as a ska band inspired by Madness and the British 2 Tone scene.",
+    "s": 2
+   },
+   {
+    "id": "the-specials",
+    "why": "The Specials' 2 Tone ska was a key early influence on No Doubt.",
+    "s": 2
+   },
+   {
+    "id": "blondie",
+    "why": "Debbie Harry's new wave cool is a clear model for Stefani's persona.",
+    "s": 1
+   },
+   {
+    "id": "the-neptunes",
+    "why": "The Neptunes produced Hollaback Girl and other tracks on her solo debut.",
+    "s": 3
+   },
+   {
+    "id": "dr-dre",
+    "why": "Dr. Dre produced Rich Girl.",
+    "s": 3
+   },
+   {
+    "id": "cyndi-lauper",
+    "why": "Lauper's quirky, colorful 1980s pop image fed Stefani's solo style.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "paramore",
+    "why": "A band led by a magnetic frontwoman blending punk and pop."
+   },
+   {
+    "id": "rancid",
+    "why": "Ska-punk energy from the same 1990s California scene."
+   }
+  ]
+ },
+ {
+  "id": "nelly-furtado",
+  "years": "1996–present",
+  "origin": "Victoria, Canada",
+  "genres": [
+   "pop",
+   "folk-pop",
+   "R&B",
+   "Latin pop"
+  ],
+  "summary": "Nelly Furtado is a Canadian singer of Portuguese descent whose debut mixed folk, trip-hop and world music. She later reinvented herself with Timbaland on the club-focused Loose.",
+  "know": [
+   "Her parents emigrated from the Azores, and Portuguese music runs through her work.",
+   "I'm Like a Bird won the Grammy for Best Female Pop Vocal Performance in 2002.",
+   "Loose, produced largely by Timbaland, produced the US number ones Promiscuous and Say It Right."
+  ],
+  "born": "12-02",
+  "keyAlbums": [
+   [
+    "Whoa, Nelly!",
+    2000
+   ],
+   [
+    "Folklore",
+    2003
+   ],
+   [
+    "Loose",
+    2006
+   ],
+   [
+    "Mi Plan",
+    2009
+   ]
+  ],
+  "songs": [
+   "I'm Like a Bird",
+   "Turn Off the Light",
+   "Maneater",
+   "Say It Right",
+   "Força"
+  ],
+  "influencedBy": [
+   {
+    "id": "timbaland",
+    "why": "Timbaland produced most of Loose and shaped her mid 2000s sound.",
+    "s": 3
+   },
+   {
+    "id": "caetano-veloso",
+    "why": "Her mix of Portuguese-language music and pop draws on Brazilian artists like Veloso.",
+    "s": 1
+   },
+   {
+    "id": "lauryn-hill",
+    "why": "Hill's blend of hip-hop, soul and singing points toward Furtado's genre-mixing debut.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "shakira",
+    "why": "A pop star who blends Latin roots with global pop."
+   },
+   {
+    "id": "juanes",
+    "why": "Latin pop rock with folk roots."
+   }
+  ]
+ },
+ {
+  "id": "katy-perry",
+  "years": "2001–present",
+  "origin": "Santa Barbara, California",
+  "genres": [
+   "pop",
+   "dance-pop",
+   "pop rock"
+  ],
+  "summary": "Katy Perry is a singer who began in Christian music and became one of the biggest pop stars of the 2010s. Teenage Dream tied Michael Jackson's record for number one singles from one album.",
+  "know": [
+   "She released a gospel album under her birth name Katy Hudson in 2001.",
+   "Teenage Dream produced five Hot 100 number ones, matching Michael Jackson's Bad.",
+   "Max Martin and Dr. Luke co-wrote and produced many of her biggest hits."
+  ],
+  "born": "10-25",
+  "keyAlbums": [
+   [
+    "One of the Boys",
+    2008
+   ],
+   [
+    "Teenage Dream",
+    2010
+   ],
+   [
+    "Prism",
+    2013
+   ],
+   [
+    "Witness",
+    2017
+   ]
+  ],
+  "songs": [
+   "Hot n Cold",
+   "Teenage Dream",
+   "Firework",
+   "California Gurls",
+   "Roar"
+  ],
+  "influencedBy": [
+   {
+    "id": "max-martin",
+    "why": "Martin co-wrote and produced many of her hits from One of the Boys onward.",
+    "s": 3
+   },
+   {
+    "id": "dr-luke",
+    "why": "Dr. Luke co-wrote and produced Teenage Dream's hits.",
+    "s": 3
+   },
+   {
+    "id": "queen",
+    "why": "Perry has named Freddie Mercury and Queen as a turning point in her taste in music.",
+    "s": 2
+   },
+   {
+    "id": "cyndi-lauper",
+    "why": "Her bright, playful pop persona follows Cyndi Lauper's example.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "fall-out-boy",
+    "why": "Catchy, big-chorus anthems built to be sung along."
+   },
+   {
+    "id": "the-killers",
+    "why": "Glossy, hook-heavy songs made for arenas."
+   }
+  ]
+ },
+ {
+  "id": "kesha",
+  "years": "2005–present",
+  "origin": "Nashville, Tennessee",
+  "genres": [
+   "electropop",
+   "dance-pop",
+   "pop rock"
+  ],
+  "summary": "Kesha is a singer and songwriter who broke through with the party pop of Tik Tok in 2009. Her later work turned toward personal songwriting with rock, country and gospel touches.",
+  "know": [
+   "She moved to Los Angeles from Nashville at seventeen to pursue music.",
+   "Tik Tok topped the Hot 100 for nine weeks.",
+   "Her mother, Pebe Sebert, co-wrote Old Flames Can't Hold a Candle to You, which Kesha recorded with Dolly Parton on Rainbow."
+  ],
+  "born": "03-01",
+  "keyAlbums": [
+   [
+    "Animal",
+    2010
+   ],
+   [
+    "Cannibal",
+    2010
+   ],
+   [
+    "Warrior",
+    2012
+   ],
+   [
+    "Rainbow",
+    2017
+   ]
+  ],
+  "songs": [
+   "Tik Tok",
+   "Blah Blah Blah",
+   "We R Who We R",
+   "Praying",
+   "Timber"
+  ],
+  "influencedBy": [
+   {
+    "id": "dr-luke",
+    "why": "He produced her early albums and shaped their electropop sound.",
+    "s": 3
+   },
+   {
+    "id": "beastie-boys",
+    "why": "Kesha has cited the Beastie Boys, and her talk-sung verses echo their style.",
+    "s": 2
+   },
+   {
+    "id": "dolly-parton",
+    "why": "She grew up around Nashville songwriting and recorded with Parton on Rainbow.",
+    "s": 3
+   },
+   {
+    "id": "max-martin",
+    "why": "Martin co-wrote and co-produced tracks on her early albums.",
+    "s": 2
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "beastie-boys",
+    "why": "Bratty, playful party music."
+   },
+   {
+    "id": "the-go-gos",
+    "why": "Fun, upbeat songs with attitude."
+   }
+  ]
+ },
+ {
+  "id": "the-pussycat-dolls",
+  "years": "2003–2010",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "pop",
+   "dance-pop",
+   "R&B"
+  ],
+  "summary": "The Pussycat Dolls began as a Los Angeles burlesque dance troupe created by choreographer Robin Antin and became a chart-topping pop group led by Nicole Scherzinger.",
+  "know": [
+   "Robin Antin started the troupe in 1995, years before the singing group formed.",
+   "Don't Cha, featuring Busta Rhymes, was co-written and produced by CeeLo Green.",
+   "Their debut PCD sold millions of copies worldwide."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "PCD",
+    2005
+   ],
+   [
+    "Doll Domination",
+    2008
+   ]
+  ],
+  "songs": [
+   "Don't Cha",
+   "Buttons",
+   "Stickwitu",
+   "Beep",
+   "When I Grow Up"
+  ],
+  "influencedBy": [
+   {
+    "id": "busta-rhymes",
+    "why": "Busta Rhymes rapped on Don't Cha, their breakout single.",
+    "s": 3
+   },
+   {
+    "id": "timbaland",
+    "why": "Timbaland produced Wait a Minute and worked on the second album.",
+    "s": 3
+   },
+   {
+    "id": "spice-girls",
+    "why": "The idea of a girl group with distinct personalities follows the Spice Girls.",
+    "s": 1
+   },
+   {
+    "id": "en-vogue",
+    "why": "En Vogue's polished, glamorous harmony group was a model.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "destinys-child",
+    "why": "A glamorous 2000s girl group with dance hits."
+   },
+   {
+    "id": "blackpink",
+    "why": "A girl group built on choreography and style."
+   }
+  ]
+ },
+ {
+  "id": "sia",
+  "years": "1993–present",
+  "origin": "Adelaide, Australia",
+  "genres": [
+   "pop",
+   "electropop",
+   "downtempo"
+  ],
+  "summary": "Sia is an Australian singer and songwriter who moved from acid jazz and downtempo to writing hits for other stars. She became a solo pop star with Chandelier, often performing with her face hidden.",
+  "know": [
+   "She sang with the Adelaide acid jazz band Crisp and later with the British group Zero 7.",
+   "Breathe Me gained fame when it closed the final episode of Six Feet Under.",
+   "She wrote Diamonds for Rihanna and Titanium with David Guetta."
+  ],
+  "born": "12-18",
+  "keyAlbums": [
+   [
+    "Colour the Small One",
+    2004
+   ],
+   [
+    "Some People Have Real Problems",
+    2008
+   ],
+   [
+    "1000 Forms of Fear",
+    2014
+   ],
+   [
+    "This Is Acting",
+    2016
+   ]
+  ],
+  "songs": [
+   "Breathe Me",
+   "Chandelier",
+   "Elastic Heart",
+   "Titanium",
+   "Cheap Thrills"
+  ],
+  "influencedBy": [
+   {
+    "id": "massive-attack",
+    "why": "Her early work with Zero 7 came out of the trip-hop and downtempo world Massive Attack shaped.",
+    "s": 1
+   },
+   {
+    "id": "aretha-franklin",
+    "why": "Sia has named Franklin among the soul singers she grew up on.",
+    "s": 1
+   },
+   {
+    "id": "stevie-wonder",
+    "why": "Wonder's soul melodies are part of the music Sia has said she grew up loving.",
+    "s": 1
+   },
+   {
+    "id": "david-guetta",
+    "why": "Writing and singing Titanium with Guetta launched her move into big pop.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "rihanna",
+    "why": "She wrote Diamonds, a number one hit for Rihanna.",
+    "s": 3
+   },
+   {
+    "id": "beyonce",
+    "why": "She co-wrote Pretty Hurts for Beyonce's 2013 album.",
+    "s": 3
+   },
+   {
+    "id": "christina-aguilera",
+    "why": "She co-wrote songs on Aguilera's Bionic including You Lost Me.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bjork",
+    "why": "Strange, powerful voices in experimental pop."
+   },
+   {
+    "id": "portishead",
+    "why": "Moody downtempo with a striking voice."
+   }
+  ]
+ },
+ {
+  "id": "carly-rae-jepsen",
+  "years": "2007–present",
+  "origin": "Vancouver, Canada",
+  "genres": [
+   "synth-pop",
+   "dance-pop",
+   "pop"
+  ],
+  "summary": "Carly Rae Jepsen is a Canadian singer-songwriter who broke through worldwide with Call Me Maybe in 2012. Her 1980s-inspired album Emotion made her a favorite of critics and devoted pop fans.",
+  "know": [
+   "She placed third on Canadian Idol in 2007.",
+   "Call Me Maybe topped the Hot 100 for nine weeks in 2012.",
+   "She has said she wrote around two hundred songs for Emotion before choosing the final track list."
+  ],
+  "born": "11-21",
+  "keyAlbums": [
+   [
+    "Tug of War",
+    2008
+   ],
+   [
+    "Kiss",
+    2012
+   ],
+   [
+    "Emotion",
+    2015
+   ],
+   [
+    "Dedicated",
+    2019
+   ]
+  ],
+  "songs": [
+   "Call Me Maybe",
+   "I Really Like You",
+   "Run Away with Me",
+   "Cut to the Feeling",
+   "Party for One"
+  ],
+  "influencedBy": [
+   {
+    "id": "robyn",
+    "why": "Jepsen has cited Robyn, and Emotion shares her bittersweet dance-pop style.",
+    "s": 2
+   },
+   {
+    "id": "prince",
+    "why": "Emotion drew on Prince-era 1980s synth-pop and funk.",
+    "s": 1
+   },
+   {
+    "id": "cyndi-lauper",
+    "why": "Her bright, earnest 1980s-style pop follows Cyndi Lauper.",
+    "s": 1
+   },
+   {
+    "id": "madonna",
+    "why": "Madonna's early 1980s dance-pop is a clear reference point for Emotion.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-1975",
+    "why": "Glossy, 1980s-inspired pop hooks."
+   },
+   {
+    "id": "porter-robinson",
+    "why": "Bright, emotional synth music with big feelings."
+   }
+  ]
+ },
+ {
+  "id": "ariana-grande",
+  "years": "2008–present",
+  "origin": "Boca Raton, Florida",
+  "genres": [
+   "pop",
+   "R&B",
+   "trap-pop"
+  ],
+  "summary": "Ariana Grande is a singer and actor who moved from Broadway and Nickelodeon to become one of the defining pop stars of the 2010s. Her four-octave range and whistle notes draw comparisons to Mariah Carey.",
+  "know": [
+   "She appeared in the Broadway musical 13 at fifteen and later starred on Nickelodeon's Victorious.",
+   "Thank U, Next made her the first solo artist since the Beatles to hold the top three spots on the Hot 100 at once.",
+   "Pharrell Williams produced much of Sweetener."
+  ],
+  "born": "06-26",
+  "keyAlbums": [
+   [
+    "Yours Truly",
+    2013
+   ],
+   [
+    "Sweetener",
+    2018
+   ],
+   [
+    "Thank U, Next",
+    2019
+   ],
+   [
+    "Eternal Sunshine",
+    2024
+   ]
+  ],
+  "songs": [
+   "The Way",
+   "Problem",
+   "Into You",
+   "Thank U, Next",
+   "7 Rings"
+  ],
+  "influencedBy": [
+   {
+    "id": "mariah-carey",
+    "why": "Grande has called Carey a major influence, and her whistle notes and runs follow Carey's style.",
+    "s": 3
+   },
+   {
+    "id": "whitney-houston",
+    "why": "Houston's big pop-soul singing is one of Grande's stated models.",
+    "s": 2
+   },
+   {
+    "id": "max-martin",
+    "why": "Martin co-wrote and produced many of her biggest hits.",
+    "s": 3
+   },
+   {
+    "id": "the-neptunes",
+    "why": "Pharrell produced much of Sweetener and shaped its sound.",
+    "s": 3
+   },
+   {
+    "id": "babyface",
+    "why": "Babyface co-produced tracks on Yours Truly, giving it its 1990s R&B feel.",
+    "s": 3
+   },
+   {
+    "id": "brandy",
+    "why": "Her layered background vocals draw on Brandy's style.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "sza",
+    "why": "Breezy, modern R&B with a light vocal touch."
+   },
+   {
+    "id": "brandy",
+    "why": "Sweet, layered R&B harmonies."
+   }
+  ]
+ },
+ {
+  "id": "justin-bieber",
+  "years": "2008–present",
+  "origin": "Stratford, Canada",
+  "genres": [
+   "pop",
+   "R&B",
+   "dance-pop"
+  ],
+  "summary": "Justin Bieber is a Canadian singer discovered on YouTube as a teenager who became one of the world's biggest pop stars. His sound grew from teen pop into electronic-tinged pop and R&B.",
+  "know": [
+   "Manager Scooter Braun found him through YouTube videos and introduced him to Usher.",
+   "Baby, co-written with The-Dream, made him a global star in 2010.",
+   "Purpose, with production from Skrillex and others, produced three Hot 100 number ones."
+  ],
+  "born": "03-01",
+  "keyAlbums": [
+   [
+    "My World 2.0",
+    2010
+   ],
+   [
+    "Purpose",
+    2015
+   ],
+   [
+    "Justice",
+    2021
+   ],
+   [
+    "Swag",
+    2025
+   ]
+  ],
+  "songs": [
+   "Baby",
+   "What Do You Mean?",
+   "Sorry",
+   "Love Yourself",
+   "Peaches"
+  ],
+  "influencedBy": [
+   {
+    "id": "usher",
+    "why": "Usher mentored him and co-signed him to his label partnership.",
+    "s": 3
+   },
+   {
+    "id": "the-dream",
+    "why": "The-Dream co-wrote and co-produced Baby.",
+    "s": 3
+   },
+   {
+    "id": "skrillex",
+    "why": "Skrillex produced Sorry and Where Are U Now, moving him toward electronic pop.",
+    "s": 3
+   },
+   {
+    "id": "michael-jackson",
+    "why": "Bieber has cited Jackson as a key influence on his singing and performance.",
+    "s": 2
+   },
+   {
+    "id": "boyz-ii-men",
+    "why": "He has named Boyz II Men among the R&B singers he grew up on.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "chris-brown",
+    "why": "A pop-R&B star who broke through as a teenager."
+   },
+   {
+    "id": "daniel-caesar",
+    "why": "Smooth modern R&B, as heard on Peaches."
+   }
+  ]
+ },
+ {
+  "id": "one-direction",
+  "years": "2010–2016",
+  "origin": "London, England",
+  "genres": [
+   "pop",
+   "pop rock",
+   "teen pop"
+  ],
+  "summary": "One Direction was a British-Irish boy band put together on The X Factor in 2010. They became one of the biggest pop acts of the 2010s before going on hiatus, with members launching solo careers.",
+  "know": [
+   "Harry Styles, Niall Horan, Liam Payne, Louis Tomlinson and Zayn Malik auditioned as solo acts and were grouped by the show's judges.",
+   "Up All Night made them the first UK group to debut at number one in the US with a first album.",
+   "Ed Sheeran wrote Little Things and Moments for the group."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Up All Night",
+    2011
+   ],
+   [
+    "Take Me Home",
+    2012
+   ],
+   [
+    "Midnight Memories",
+    2013
+   ],
+   [
+    "Four",
+    2014
+   ]
+  ],
+  "songs": [
+   "What Makes You Beautiful",
+   "Live While We're Young",
+   "Story of My Life",
+   "Drag Me Down",
+   "Night Changes"
+  ],
+  "influencedBy": [
+   {
+    "id": "ed-sheeran",
+    "why": "Sheeran wrote Little Things and Moments for the group.",
+    "s": 3
+   },
+   {
+    "id": "backstreet-boys",
+    "why": "Their boy band model of harmonies and pop hooks follows the Backstreet Boys.",
+    "s": 1
+   },
+   {
+    "id": "the-beatles",
+    "why": "Their British boy band mania was often compared to the Beatles, and their later pop rock leaned on classic British guitar pop.",
+    "s": 1
+   },
+   {
+    "id": "nsync",
+    "why": "NSYNC's teen pop group format is part of their lineage.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "harry-styles",
+    "why": "Styles came up in One Direction before launching his solo career.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bts",
+    "why": "A huge boy group with a devoted global fan base."
+   },
+   {
+    "id": "the-1975",
+    "why": "Catchy British pop rock that appeals to young fans."
+   }
+  ]
+ }
+]

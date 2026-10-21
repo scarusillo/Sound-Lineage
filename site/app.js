@@ -104,7 +104,7 @@
   let IDX = null;
   function searchIndex() {
     return IDX ??= [
-      ...ARTISTS.map((a) => ({ t: "artist", id: a.id, label: a.name, sub: `${a.decade} · ${FAM[a.family].short}`, f: a.family, s: norm(a.name + " " + (a.genres || []).join(" ")), w: 3 + a.reach / 40 })),
+      ...ARTISTS.map((a) => ({ t: "artist", id: a.id, label: a.name, sub: `${a.role ? (a.role === "producer" ? "Producer · " : "Session · ") : ""}${a.decade} · ${FAM[a.family].short}`, f: a.family, s: norm(a.name + " " + (a.genres || []).join(" ")), w: 3 + a.reach / 40 })),
       ...ALBUMS.map((x) => ({ t: "album", id: x.id, label: x.title, sub: `${A[x.artist]?.name || ""} · ${x.year}`, f: A[x.artist]?.family, s: norm(x.title + " " + (A[x.artist]?.name || "")), w: 2 })),
       ...SONGS.map((x) => ({ t: "song", id: x.id, label: x.title, sub: `${x.artistName || A[x.artist]?.name || ""} · ${x.year}`, f: A[x.artist]?.family || "metal", s: norm(x.title + " " + (x.artistName || A[x.artist]?.name || "")), w: 1 })),
     ];
@@ -151,18 +151,19 @@
         <input class="field" id="bf" type="search" placeholder="${kind === "artist" ? "Filter by name, style or city" : kind === "album" ? "Filter by title, artist or style" : "Filter by song or artist"}" value="${esc(st.t || "")}" autocomplete="off">
         <select id="bfam" aria-label="Genre"><option value="">All genres</option>${FAMS.map((f) => `<option value="${f.id}" ${st.f === f.id ? "selected" : ""}>${esc(f.name)}</option>`).join("")}</select>
         <select id="bdec" aria-label="Decade"><option value="">All decades</option>${DECADES.map((d) => `<option ${st.d === d ? "selected" : ""}>${d}</option>`).join("")}</select>
+        ${kind === "artist" ? `<select id="brole" aria-label="Role"><option value="">Everyone</option><option value="artist" ${st.r === "artist" ? "selected" : ""}>Artists</option><option value="maker" ${st.r === "maker" ? "selected" : ""}>Producers and session players</option></select>` : ""}
         <select id="bsort" aria-label="Sort">${(kind === "artist" ? [["reach", "Most influential"], ["name", "A to Z"], ["old", "Oldest first"], ["new", "Newest first"]] : kind === "album" ? [["old", "Oldest first"], ["new", "Newest first"], ["name", "A to Z"], ["reach", "Most connected"]] : [["reach", "Most reused"], ["old", "Oldest first"], ["new", "Newest first"], ["name", "A to Z"]]).map(([v, l]) => `<option value="${v}" ${st.s === v ? "selected" : ""}>${l}</option>`).join("")}</select>
       </div>
       <p class="qmeta" id="bcount" style="margin:0"></p>
       <ul class="rows" id="blist"></ul>`;
     const draw = () => {
-      const t = norm($("#bf").value), f = $("#bfam").value, d = $("#bdec").value, so = $("#bsort").value;
-      store.set("sl.browseF", { t: $("#bf").value, f, d, s: so });
+      const t = norm($("#bf").value), f = $("#bfam").value, d = $("#bdec").value, so = $("#bsort").value, ro = $("#brole")?.value || "";
+      store.set("sl.browseF", { t: $("#bf").value, f, d, s: so, r: ro });
       let rows, html;
       if (kind === "artist") {
-        rows = ARTISTS.filter((a) => (!f || a.family === f) && (!d || a.decade === d) && (!t || norm(`${a.name} ${(a.genres || []).join(" ")} ${a.origin || ""}`).includes(t)));
+        rows = ARTISTS.filter((a) => (!ro || (ro === "maker" ? !!a.role : !a.role)) && (!f || a.family === f) && (!d || a.decade === d) && (!t || norm(`${a.name} ${(a.genres || []).join(" ")} ${a.origin || ""}`).includes(t)));
         rows.sort((a, b) => so === "name" ? a.name.localeCompare(b.name) : so === "old" ? decIdx(a.decade) - decIdx(b.decade) || b.reach - a.reach : so === "new" ? decIdx(b.decade) - decIdx(a.decade) || b.reach - a.reach : b.reach - a.reach);
-        html = rows.map((a) => `<li><button data-id="${a.id}" class="pa" ${famStyle(a.family)}><span class="dot"></span><b>${esc(a.name)}</b><span class="r">${a.decade}</span><span class="s">${esc((a.genres || [])[0] || FAM[a.family].name)}${a.origin ? ` · ${esc(a.origin)}` : ""} · ${a.up.length} in, ${a.down.length} out</span></button></li>`).join("");
+        html = rows.map((a) => `<li><button data-id="${a.id}" class="pa" ${famStyle(a.family)}><span class="dot"></span><b>${esc(a.name)}</b><span class="r">${a.decade}</span><span class="s">${a.role ? `${a.role === "producer" ? "Producer" : "Session players"} · ` : ""}${esc((a.genres || [])[0] || FAM[a.family].name)}${a.origin ? ` · ${esc(a.origin)}` : ""} · ${a.up.length} in, ${a.down.length} out</span></button></li>`).join("");
       } else if (kind === "album") {
         rows = ALBUMS.filter((x) => { const a = A[x.artist]; return (!f || a?.family === f) && (!d || `${Math.floor(x.year / 10) * 10}s` === d) && (!t || norm(`${x.title} ${a?.name} ${x.sub}`).includes(t)); });
         rows.sort((a, b) => so === "name" ? a.title.localeCompare(b.title) : so === "new" ? b.year - a.year : so === "reach" ? (b.up.length + b.down.length) - (a.up.length + a.down.length) : a.year - b.year);
@@ -178,7 +179,7 @@
       $("#blist").innerHTML = lis.slice(0, lim).join("</li>") + (lis.length > lim ? `</li><li style="border:0"><button class="ghost" data-blim style="width:auto;display:inline-flex;margin-top:12px">Show ${Math.min(240, lis.length - lim)} more</button></li>` : lis.length ? "</li>" : "");
     };
     root._lim = 120;
-    ["#bf", "#bfam", "#bdec", "#bsort"].forEach((s) => $(s, root).addEventListener("input", () => { root._lim = 120; draw(); }));
+    ["#bf", "#bfam", "#bdec", "#bsort", "#brole"].forEach((s) => $(s, root)?.addEventListener("input", () => { root._lim = 120; draw(); }));
     root.onclick = (e) => { if (e.target.closest("[data-blim]")) { root._lim += 240; draw(); return; } const b = e.target.closest("[data-bk]"); if (b) { store.set("sl.browse", b.dataset.bk); store.set("sl.browseF", {}); renderBrowse(root); } };
     draw();
   }
@@ -198,7 +199,7 @@
     const keyAl = (a.keyAlbums || []).filter(([t]) => !albumsBy.some((x) => norm(x.title) === norm(t)));
     const fav = window.SL_YOU?.isFav(a.id);
     $("#pbody").innerHTML = `<div ${famStyle(a.family)}>
-      <div class="p-eyebrow"><span class="dot"></span>${esc(FAM[a.family].name)} · ${esc(a.decade)}</div>
+      <div class="p-eyebrow"><span class="dot"></span>${a.role ? `<span class="role">${a.role === "producer" ? "Producer" : "Session players"}</span>` : ""}${esc(FAM[a.family].name)} · ${esc(a.decade)}</div>
       <h2 class="p-name">${esc(a.name)}</h2>
       <div class="p-sub">${[a.years, a.origin].filter(Boolean).map(esc).join(" · ")}</div>
       ${(a.genres || []).length ? `<div class="chips" style="margin-top:10px">${a.genres.map((g) => `<span class="tag">${esc(g)}</span>`).join("")}</div>` : ""}
@@ -214,7 +215,7 @@
       </form>
       ${a.summary ? `<div class="p-sec"><p>${esc(a.summary)}</p></div>` : ""}
       <div class="p-sec"><h3 style="color:var(--up)">Influenced by · ${up.length}</h3>${up.length ? relList(up) : `<p class="qmeta">A root of the tree here.</p>`}</div>
-      <div class="p-sec"><h3 style="color:var(--down)">Influenced · ${down.length}</h3>${down.length ? relList(down) : `<p class="qmeta">No one mapped downstream yet.</p>`}</div>
+      <div class="p-sec"><h3 style="color:var(--down)">${a.role ? "Produced, played on or shaped" : "Influenced"} · ${down.length}</h3>${down.length ? relList(down) : `<p class="qmeta">No one mapped downstream yet.</p>`}</div>
       ${(a.cousins || []).filter((c) => A[c.id]).length ? `<div class="p-sec"><h3>If you like ${esc(a.name)}, try</h3><ul class="rels">${a.cousins.filter((c) => A[c.id]).map((c) => `<li><div class="hd">${chip(c.id)}<span class="qmeta" style="font-size:.8rem">${esc(FAM[A[c.id].family].name)}</span></div><span class="why">${esc(c.why)}</span></li>`).join("")}</ul></div>` : ""}
       ${window.SL_SPOT?.panelHTML(a) || ""}
       ${albumsBy.length || keyAl.length ? `<div class="p-sec"><h3>Albums</h3><div class="mini">${albumsBy.map((x) => `<button data-tree="album" data-id="${x.id}"><span><b>${esc(x.title)}</b> <span class="qmeta" style="font-size:.8rem">· lineage</span></span><span class="yr">${x.year}</span></button>`).join("")}${keyAl.map(([t, y]) => `<div><span>${esc(t)}</span><span class="yr">${y || ""}</span></div>`).join("")}</div></div>` : ""}

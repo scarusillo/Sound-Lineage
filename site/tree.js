@@ -67,7 +67,7 @@
     const fam = famOf(k, x.id);
     let centerHTML;
     if (k === "artist") {
-      centerHTML = `<div class="k"><span class="dot" style="background:var(--c)"></span>${esc(ctx.FAM[x.family].name)} · ${esc(x.decade)}</div>
+      centerHTML = `<div class="k"><span class="dot" style="background:var(--c)"></span>${x.role ? `<span class="role">${x.role === "producer" ? "Producer" : "Session players"}</span>` : ""}${esc(ctx.FAM[x.family].name)} · ${esc(x.decade)}</div>
         <h2>${esc(x.name)}</h2>
         <div class="meta">${x.years ? `<span class="tag mono">${esc(x.years)}</span>` : ""}${x.origin ? `<span class="tag">${esc(x.origin)}</span>` : ""}${(x.genres || []).slice(0, 2).map((g) => `<span class="tag">${esc(g)}</span>`).join("")}</div>
         ${x.summary ? `<p>${esc(x.summary)}</p>` : ""}
@@ -86,6 +86,7 @@
         <div class="meta">${a ? ctx.chip(a.id) : `<span class="tag">${esc(x.artistName || "")}</span>`}</div>
         ${ctx.listenLinks(`${x.title} ${x.artistName || a?.name || ""}`)}`;
     }
+    const KD = k === "artist" && x.role ? "Produced, played on or shaped" : K.down;
     const col = (cls, title, items, rel, moreKey, total) => `<div class="col ${cls}"><h3>${title}${total ? ` · ${total}` : ""}</h3>${items.length ? items.map((r) => nodeBtn(k, r.id, rel)).join("") : `<span class="empty-col">${rel === "up" ? "A root of the tree here" : rel === "down" ? "Nothing mapped yet" : "—"}</span>`}${moreKey && total > N ? `<button class="more-n" data-more2="${moreKey}">${more[moreKey] ? "Show fewer" : `+ ${total - N} more`}</button>` : ""}</div>`;
     const crumbs = t.trail.length > 1 ? `<nav class="crumbs" aria-label="Your path">${t.trail.map((id, i) => `${i ? `<span class="sep">›</span>` : ""}<button class="${i === t.trail.length - 1 ? "here" : ""}" data-crumb="${id}">${esc(nameOf(k, id))}</button>`).join("")}</nav>` : "";
     const cousins = (x.cousins || []).filter((c) => m[c.id]);
@@ -107,7 +108,7 @@
         <div class="center" ${ctx.famStyle(fam)} id="center">${centerHTML}
           <div class="why-bar" id="whybar"><span>${k === "artist" ? "Hover any name to see why it's connected." : "Hover any name to see how it's connected."}</span></div>
         </div>
-        ${col("right down", K.down, downShown, "down", `${k}:${x.id}:d`, downs.length)}
+        ${col("right down", KD, downShown, "down", `${k}:${x.id}:d`, downs.length)}
         ${gen === 2 ? col("right down gp-col", K.gdown, gdowns, "gdown") : ""}
       </div>
       ${cousins.length ? `<section class="cousins"><h3>${k === "artist" ? `If you like ${esc(x.name)}, try these in other genres` : "Same spirit, different genre"}</h3><ul>${cousins.map((c) => `<li>${k === "artist" ? ctx.chip(c.id) : `<button class="chip" data-nav="${c.id}" ${ctx.famStyle(famOf(k, c.id))}>${esc(nameOf(k, c.id))}</button>`}<span>${esc(c.why)}</span></li>`).join("")}</ul></section>` : ""}

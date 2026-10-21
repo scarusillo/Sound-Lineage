@@ -1,0 +1,121 @@
+big-bill-broonzy|Big Bill Broonzy|1930s|blues|artist
+memphis-minnie|Memphis Minnie|1930s|blues|artist
+thomas-a-dorsey|Thomas A. Dorsey|1930s|blues|artist
+tampa-red|Tampa Red|1920s|blues|artist
+leroy-carr|Leroy Carr|1920s|blues|artist
+blind-willie-johnson|Blind Willie Johnson|1920s|blues|artist
+blind-willie-mctell|Blind Willie McTell|1920s|blues|artist
+lonnie-johnson|Lonnie Johnson|1920s|blues|artist
+mamie-smith|Mamie Smith|1920s|blues|artist
+w-c-handy|W.C. Handy|1910s|blues|artist
+tommy-johnson|Tommy Johnson|1920s|blues|artist
+mississippi-sheiks|Mississippi Sheiks|1930s|blues|artist
+sonny-boy-williamson-i|Sonny Boy Williamson I|1930s|blues|artist
+sonny-boy-williamson-ii|Sonny Boy Williamson II|1950s|blues|artist
+big-joe-turner|Big Joe Turner|1940s|blues|artist
+lightnin-hopkins|Lightnin' Hopkins|1940s|blues|artist
+wynonie-harris|Wynonie Harris|1940s|blues|artist
+roy-brown|Roy Brown|1940s|blues|artist
+big-mama-thornton|Big Mama Thornton|1950s|blues|artist
+professor-longhair|Professor Longhair|1940s|blues|artist
+otis-spann|Otis Spann|1950s|blues|artist
+jimmy-rogers|Jimmy Rogers|1950s|blues|artist
+slim-harpo|Slim Harpo|1950s|blues|artist
+charles-brown|Charles Brown|1940s|blues|artist
+leonard-chess|Leonard Chess|1950s|blues|producer
+the-golden-gate-quartet|The Golden Gate Quartet|1930s|blues|artist
+the-soul-stirrers|The Soul Stirrers|1940s|blues|artist
+the-dixie-hummingbirds|The Dixie Hummingbirds|1940s|blues|artist
+clara-ward|Clara Ward|1940s|blues|artist
+the-staple-singers|The Staple Singers|1950s|blues|artist
+cab-calloway|Cab Calloway|1930s|jazz|artist
+chick-webb|Chick Webb|1930s|jazz|artist
+fletcher-henderson|Fletcher Henderson|1920s|jazz|artist
+sidney-bechet|Sidney Bechet|1920s|jazz|artist
+james-p-johnson|James P. Johnson|1920s|jazz|artist
+earl-hines|Earl Hines|1920s|jazz|artist
+glenn-miller|Glenn Miller|1930s|jazz|artist
+tommy-dorsey|Tommy Dorsey|1930s|jazz|artist
+lionel-hampton|Lionel Hampton|1930s|jazz|artist
+ben-webster|Ben Webster|1940s|jazz|artist
+roy-eldridge|Roy Eldridge|1930s|jazz|artist
+mary-lou-williams|Mary Lou Williams|1930s|jazz|artist
+sarah-vaughan|Sarah Vaughan|1940s|jazz|artist
+dinah-washington|Dinah Washington|1940s|jazz|artist
+bud-powell|Bud Powell|1940s|jazz|artist
+kenny-clarke|Kenny Clarke|1940s|jazz|artist
+max-roach|Max Roach|1940s|jazz|artist
+billy-strayhorn|Billy Strayhorn|1940s|jazz|artist
+dexter-gordon|Dexter Gordon|1940s|jazz|artist
+clifford-brown|Clifford Brown|1950s|jazz|artist
+gil-evans|Gil Evans|1950s|jazz|artist
+chet-baker|Chet Baker|1950s|jazz|artist
+gerry-mulligan|Gerry Mulligan|1950s|jazz|artist
+stan-getz|Stan Getz|1950s|jazz|artist
+cannonball-adderley|Cannonball Adderley|1950s|jazz|artist
+horace-silver|Horace Silver|1950s|jazz|artist
+rudy-van-gelder|Rudy Van Gelder|1950s|jazz|producer
+hank-snow|Hank Snow|1940s|country|artist
+ernest-tubb|Ernest Tubb|1940s|country|artist
+roy-acuff|Roy Acuff|1930s|country|artist
+gene-autry|Gene Autry|1930s|country|artist
+uncle-dave-macon|Uncle Dave Macon|1920s|country|artist
+the-delmore-brothers|The Delmore Brothers|1930s|country|artist
+merle-travis|Merle Travis|1940s|country|artist
+the-louvin-brothers|The Louvin Brothers|1950s|country|artist
+kitty-wells|Kitty Wells|1950s|country|artist
+flatt-and-scruggs|Flatt & Scruggs|1950s|country|artist
+the-stanley-brothers|The Stanley Brothers|1950s|country|artist
+marty-robbins|Marty Robbins|1950s|country|artist
+jim-reeves|Jim Reeves|1950s|country|artist
+chet-atkins|Chet Atkins|1950s|country|artist
+owen-bradley|Owen Bradley|1950s|country|producer
+dock-boggs|Dock Boggs|1920s|folk|artist
+alan-lomax|Alan Lomax|1930s|folk|producer
+harry-smith|Harry Smith|1950s|folk|producer
+the-weavers|The Weavers|1950s|folk|artist
+josh-white|Josh White|1940s|folk|artist
+elizabeth-cotten|Elizabeth Cotten|1950s|folk|artist
+the-kingston-trio|The Kingston Trio|1950s|folk|artist
+ramblin-jack-elliott|Ramblin' Jack Elliott|1950s|folk|artist
+harry-belafonte|Harry Belafonte|1950s|pop|artist
+the-ink-spots|The Ink Spots|1930s|pop|artist
+the-mills-brothers|The Mills Brothers|1930s|pop|artist
+the-andrews-sisters|The Andrews Sisters|1940s|pop|artist
+al-jolson|Al Jolson|1920s|pop|artist
+irving-berlin|Irving Berlin|1910s|pop|artist
+george-gershwin|George Gershwin|1920s|pop|artist
+cole-porter|Cole Porter|1930s|pop|artist
+peggy-lee|Peggy Lee|1940s|pop|artist
+les-paul|Les Paul|1940s|pop|artist
+dean-martin|Dean Martin|1950s|pop|artist
+tony-bennett|Tony Bennett|1950s|pop|artist
+sam-phillips|Sam Phillips|1950s|rock|producer
+the-orioles|The Orioles|1940s|soul|artist
+the-dominoes|The Dominoes|1950s|soul|artist
+the-drifters|The Drifters|1950s|soul|artist
+the-platters|The Platters|1950s|soul|artist
+frankie-lymon-and-the-teenagers|Frankie Lymon & the Teenagers|1950s|soul|artist
+the-moonglows|The Moonglows|1950s|soul|artist
+the-coasters|The Coasters|1950s|soul|artist
+clyde-mcphatter|Clyde McPhatter|1950s|soul|artist
+jackie-wilson|Jackie Wilson|1950s|soul|artist
+little-willie-john|Little Willie John|1950s|soul|artist
+hank-ballard-and-the-midnighters|Hank Ballard and the Midnighters|1950s|soul|artist
+ruth-brown|Ruth Brown|1950s|soul|artist
+johnny-otis|Johnny Otis|1940s|soul|artist
+ike-turner|Ike Turner|1950s|soul|artist
+leiber-and-stoller|Leiber and Stoller|1950s|soul|producer
+ahmet-ertegun|Ahmet Ertegun|1950s|soul|producer
+perez-prado|Pérez Prado|1950s|latin|artist
+machito|Machito|1940s|latin|artist
+arsenio-rodriguez|Arsenio Rodríguez|1940s|latin|artist
+benny-more|Benny Moré|1950s|latin|artist
+cachao|Cachao|1950s|latin|artist
+chano-pozo|Chano Pozo|1940s|latin|artist
+carlos-gardel|Carlos Gardel|1920s|latin|artist
+astor-piazzolla|Astor Piazzolla|1950s|latin|artist
+trio-los-panchos|Trío Los Panchos|1940s|latin|artist
+agustin-lara|Agustín Lara|1930s|latin|artist
+carmen-miranda|Carmen Miranda|1940s|latin|artist
+pixinguinha|Pixinguinha|1920s|latin|artist

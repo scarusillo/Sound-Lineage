@@ -1,0 +1,3781 @@
+[
+ {
+  "id": "avicii",
+  "years": "2008–2018",
+  "origin": "Stockholm, Sweden",
+  "genres": [
+   "progressive house",
+   "EDM",
+   "folktronica"
+  ],
+  "summary": "Swedish producer Tim Bergling, who turned big-room house into melodic pop and blended it with folk and country on a global scale.",
+  "know": [
+   "His instrumental 'Levels' sampled an Etta James vocal and became a defining EDM anthem of the early 2010s.",
+   "'Wake Me Up' paired acoustic guitar and Aloe Blacc's soul vocal with a house drop, a mix many dance fans first resisted.",
+   "He co-produced Coldplay's 'A Sky Full of Stars'."
+  ],
+  "born": "09-08",
+  "keyAlbums": [
+   [
+    "True",
+    2013
+   ],
+   [
+    "Stories",
+    2015
+   ],
+   [
+    "Avīci (01)",
+    2017
+   ],
+   [
+    "TIM",
+    2019
+   ]
+  ],
+  "songs": [
+   "Levels",
+   "Wake Me Up",
+   "Hey Brother",
+   "The Nights",
+   "Waiting for Love"
+  ],
+  "influencedBy": [
+   {
+    "id": "swedish-house-mafia",
+    "why": "The Stockholm progressive house of Axwell, Steve Angello and Sebastian Ingrosso was the scene he grew up in and built on.",
+    "s": 2
+   },
+   {
+    "id": "tiesto",
+    "why": "Tiësto championed and remixed his early tracks, and his trance-rooted melodic leads fed Avicii's style.",
+    "s": 2
+   },
+   {
+    "id": "daft-punk",
+    "why": "Their filtered, sample-driven French house showed how a dance track could carry a pop melody.",
+    "s": 1
+   },
+   {
+    "id": "deadmau5",
+    "why": "The long builds and clean synth leads of late 2000s progressive house shaped his early productions.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "coldplay",
+    "why": "He co-produced 'A Sky Full of Stars', bringing a house piano and drop into the band's sound.",
+    "s": 3
+   },
+   {
+    "id": "the-chainsmokers",
+    "why": "His melodic, vocal-led EDM pop set the template they followed into the charts.",
+    "s": 1
+   },
+   {
+    "id": "marshmello",
+    "why": "The bright chords and sing-along drops of Avicii's hits run straight into Marshmello's style.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "ed-sheeran",
+    "why": "Acoustic-guitar hooks built for huge crowds."
+   },
+   {
+    "id": "abba",
+    "why": "Swedish melodic craft with simple, sticky choruses."
+   }
+  ]
+ },
+ {
+  "id": "swedish-house-mafia",
+  "years": "2008–present",
+  "origin": "Stockholm, Sweden",
+  "genres": [
+   "progressive house",
+   "EDM",
+   "big room house"
+  ],
+  "summary": "Trio of Axwell, Steve Angello and Sebastian Ingrosso who made progressive house a stadium act and helped launch the American EDM boom.",
+  "know": [
+   "They were the first dance act to headline Madison Square Garden, in 2011.",
+   "They split up after a farewell tour in 2013 and reunited in 2018.",
+   "'Moth to a Flame' with The Weeknd came from their 2022 return album."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Until One",
+    2010
+   ],
+   [
+    "Until Now",
+    2012
+   ],
+   [
+    "Paradise Again",
+    2022
+   ]
+  ],
+  "songs": [
+   "One",
+   "Miami 2 Ibiza",
+   "Save the World",
+   "Don't You Worry Child",
+   "Moth to a Flame"
+  ],
+  "influencedBy": [
+   {
+    "id": "daft-punk",
+    "why": "French house's filtered loops and sense of spectacle were a starting point for all three members.",
+    "s": 1
+   },
+   {
+    "id": "frankie-knuckles",
+    "why": "Their productions sit on the four-on-the-floor house groove that Chicago house established.",
+    "s": 1
+   },
+   {
+    "id": "basement-jaxx",
+    "why": "The 1990s and 2000s UK house crossover showed them how club records could become radio hits.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "avicii",
+    "why": "Their Stockholm progressive house sound and arena shows were the model Avicii came up inside.",
+    "s": 2
+   },
+   {
+    "id": "the-chainsmokers",
+    "why": "Their festival-sized vocal anthems paved the road for 2010s EDM pop acts.",
+    "s": 1
+   },
+   {
+    "id": "calvin-harris",
+    "why": "Their success with big vocal house crossovers helped open the US market Harris later dominated.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "coldplay",
+    "why": "Stadium anthems built for crowd sing-alongs."
+   },
+   {
+    "id": "the-weeknd",
+    "why": "Moody, cinematic pop that met them on 'Moth to a Flame'."
+   }
+  ]
+ },
+ {
+  "id": "calvin-harris",
+  "years": "2006–present",
+  "origin": "Dumfries, Scotland",
+  "genres": [
+   "electro house",
+   "dance-pop",
+   "nu-disco"
+  ],
+  "summary": "Scottish producer who moved from bedroom electro-pop to become one of the most successful hitmakers in dance-pop.",
+  "know": [
+   "He made his first album, 'I Created Disco', largely on a home computer.",
+   "He produced and wrote Rihanna's 'We Found Love'.",
+   "'Funk Wav Bounces Vol. 1' traded EDM drops for laid-back funk and disco grooves."
+  ],
+  "born": "01-17",
+  "keyAlbums": [
+   [
+    "I Created Disco",
+    2007
+   ],
+   [
+    "Ready for the Weekend",
+    2009
+   ],
+   [
+    "18 Months",
+    2012
+   ],
+   [
+    "Funk Wav Bounces Vol. 1",
+    2017
+   ]
+  ],
+  "songs": [
+   "Acceptable in the 80s",
+   "Feel So Close",
+   "We Found Love",
+   "Summer",
+   "One Kiss"
+  ],
+  "influencedBy": [
+   {
+    "id": "daft-punk",
+    "why": "Their mix of house, disco and robotic vocals is a clear root of his early electro sound.",
+    "s": 2
+   },
+   {
+    "id": "the-human-league",
+    "why": "His debut leaned on bright 1980s synth-pop sounds and hooks.",
+    "s": 1
+   },
+   {
+    "id": "chic",
+    "why": "The clean funk guitar and disco bass of 'Funk Wav Bounces' trace back to Chic's records.",
+    "s": 1
+   },
+   {
+    "id": "basement-jaxx",
+    "why": "UK house that worked as pop music was the model for his crossover singles.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "rihanna",
+    "why": "He wrote and produced 'We Found Love', one of her biggest hits.",
+    "s": 3
+   },
+   {
+    "id": "dua-lipa",
+    "why": "He produced and co-wrote 'One Kiss', which helped define her disco-leaning dance-pop.",
+    "s": 3
+   },
+   {
+    "id": "frank-ocean",
+    "why": "He recruited Ocean for 'Slide', bringing him into a sunny funk-pop setting.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "max-martin",
+    "why": "A hit-factory producer with a pop craftsman's ear."
+   },
+   {
+    "id": "timbaland",
+    "why": "A producer whose sound defines the singers he works with."
+   }
+  ]
+ },
+ {
+  "id": "david-guetta",
+  "years": "2002–present",
+  "origin": "Paris, France",
+  "genres": [
+   "electro house",
+   "dance-pop",
+   "EDM"
+  ],
+  "summary": "French DJ and producer who brought club house into mainstream American pop and R&B in the late 2000s.",
+  "know": [
+   "He spent years as a Paris club DJ and promoter before his recording career took off.",
+   "His 2009 album 'One Love' paired house beats with US pop and rap vocalists.",
+   "'Titanium' featured Sia, then mainly known as a songwriter."
+  ],
+  "born": "11-07",
+  "keyAlbums": [
+   [
+    "Just a Little More Love",
+    2002
+   ],
+   [
+    "Pop Life",
+    2007
+   ],
+   [
+    "One Love",
+    2009
+   ],
+   [
+    "Nothing but the Beat",
+    2011
+   ]
+  ],
+  "songs": [
+   "Love Is Gone",
+   "When Love Takes Over",
+   "Memories",
+   "Titanium",
+   "Without You"
+  ],
+  "influencedBy": [
+   {
+    "id": "frankie-knuckles",
+    "why": "Chicago house, which he played as a Paris club DJ, is the base of his sound.",
+    "s": 1
+   },
+   {
+    "id": "larry-levan",
+    "why": "The New York club tradition of vocal, soulful house shaped his early work.",
+    "s": 1
+   },
+   {
+    "id": "daft-punk",
+    "why": "He rose in the same French house wave and shared its love of filtered, punchy loops.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "sia",
+    "why": "'Titanium' put Sia's own voice on a global dance hit and boosted her solo career.",
+    "s": 3
+   },
+   {
+    "id": "nicki-minaj",
+    "why": "He produced dance-pop crossovers with her, including 'Turn Me On'.",
+    "s": 3
+   },
+   {
+    "id": "kid-cudi",
+    "why": "He produced 'Memories' with Cudi, pairing a rap vocalist with a house track.",
+    "s": 3
+   },
+   {
+    "id": "rihanna",
+    "why": "He produced 'Who's That Chick?', part of pop's turn toward club beats.",
+    "s": 3
+   },
+   {
+    "id": "avicii",
+    "why": "His success turning EDM into Top 40 pop opened the door for the next wave of producers.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "max-martin",
+    "why": "Builds pop hits for big-name singers."
+   },
+   {
+    "id": "the-neptunes",
+    "why": "Producers whose beat is the star of the record."
+   }
+  ]
+ },
+ {
+  "id": "diplo",
+  "years": "2003–present",
+  "origin": "Philadelphia, Pennsylvania",
+  "genres": [
+   "dancehall-pop",
+   "moombahton",
+   "trap",
+   "electronic dance"
+  ],
+  "summary": "DJ and producer who pulled global club sounds like baile funk and dancehall into US pop, through Major Lazer, Jack Ü and his own productions.",
+  "know": [
+   "He was born in Mississippi but built his career DJing and running parties in Philadelphia.",
+   "He co-produced M.I.A.'s 'Paper Planes'.",
+   "He founded the Mad Decent label and the dancehall-inspired project Major Lazer."
+  ],
+  "born": "11-10",
+  "keyAlbums": [
+   [
+    "Florida (Diplo)",
+    2004
+   ],
+   [
+    "Kala (M.I.A.)",
+    2007
+   ],
+   [
+    "Guns Don't Kill People... Lazers Do (Major Lazer)",
+    2009
+   ],
+   [
+    "Skrillex and Diplo Present Jack Ü",
+    2015
+   ]
+  ],
+  "songs": [
+   "Paper Planes",
+   "Pon de Floor",
+   "Lean On",
+   "Where Are Ü Now",
+   "Electricity"
+  ],
+  "influencedBy": [
+   {
+    "id": "dj-shadow",
+    "why": "His first album was a sample-based instrumental record in the DJ Shadow mold.",
+    "s": 1
+   },
+   {
+    "id": "shabba-ranks",
+    "why": "Major Lazer is built on the riddims and toasting of dancehall's 1990s golden era.",
+    "s": 1
+   },
+   {
+    "id": "timbaland",
+    "why": "Timbaland's sparse, global-sounding beats were a model for his club-pop productions.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "justin-bieber",
+    "why": "Jack Ü's 'Where Are Ü Now' reshaped Bieber's sound around a pitched vocal drop.",
+    "s": 3
+   },
+   {
+    "id": "skrillex",
+    "why": "His partner in Jack Ü, the pairing pushed Skrillex further into pop.",
+    "s": 3
+   },
+   {
+    "id": "beyonce",
+    "why": "'Run the World (Girls)' was built on Major Lazer's 'Pon de Floor'.",
+    "s": 3
+   },
+   {
+    "id": "dua-lipa",
+    "why": "He produced 'Electricity' with Mark Ronson as Silk City.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-neptunes",
+    "why": "Producers who carried club rhythms into pop radio."
+   },
+   {
+    "id": "j-balvin",
+    "why": "Global party rhythms pushed into the mainstream."
+   }
+  ]
+ },
+ {
+  "id": "flume",
+  "years": "2011–present",
+  "origin": "Sydney, Australia",
+  "genres": [
+   "future bass",
+   "wonky",
+   "electronica"
+  ],
+  "summary": "Australian producer Harley Streten, whose warped synth chords and chopped vocals helped define future bass in the 2010s.",
+  "know": [
+   "His self-titled debut topped the Australian albums chart in 2012.",
+   "'Skin' won the Grammy for Best Dance/Electronic Album.",
+   "He often builds tracks from heavily processed vocal samples and detuned synths."
+  ],
+  "born": "11-05",
+  "keyAlbums": [
+   [
+    "Flume",
+    2012
+   ],
+   [
+    "Skin",
+    2016
+   ],
+   [
+    "Hi This Is Flume",
+    2019
+   ],
+   [
+    "Palaces",
+    2022
+   ]
+  ],
+  "songs": [
+   "Holdin On",
+   "Sleepless",
+   "Never Be Like You",
+   "Say It",
+   "Rushing Back"
+  ],
+  "influencedBy": [
+   {
+    "id": "j-dilla",
+    "why": "His loose, off-grid hip-hop drums are a core reference for Flume's beat-making.",
+    "s": 2
+   },
+   {
+    "id": "flying-lotus",
+    "why": "The LA beat scene's mix of hip-hop and glitchy electronics shaped his early sound.",
+    "s": 2
+   },
+   {
+    "id": "burial",
+    "why": "Pitched, smeared vocal samples in his tracks follow a path Burial opened.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-chainsmokers",
+    "why": "The future bass drop with swelling, detuned chords that Flume popularized became a staple of their pop hits.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "tame-impala",
+    "why": "An Australian studio obsessive with a woozy, layered sound."
+   },
+   {
+    "id": "bon-iver",
+    "why": "Processed vocals used as texture and emotion."
+   }
+  ]
+ },
+ {
+  "id": "porter-robinson",
+  "years": "2010–present",
+  "origin": "Chapel Hill, North Carolina",
+  "genres": [
+   "electro house",
+   "synth-pop",
+   "future bass"
+  ],
+  "summary": "North Carolina producer who moved from hard electro house to emotional, story-driven electronic albums inspired by games and anime.",
+  "know": [
+   "His 2011 'Spitfire' EP was the first release on Skrillex's OWSLA label.",
+   "'Worlds' turned away from festival drops toward dreamy synth-pop.",
+   "'Shelter', made with Madeon, came with an animated music video produced with A-1 Pictures."
+  ],
+  "born": "07-23",
+  "keyAlbums": [
+   [
+    "Spitfire",
+    2011
+   ],
+   [
+    "Worlds",
+    2014
+   ],
+   [
+    "Nurture",
+    2021
+   ],
+   [
+    "Smile! :D",
+    2024
+   ]
+  ],
+  "songs": [
+   "Language",
+   "Sad Machine",
+   "Shelter",
+   "Look at the Sky",
+   "Cheerleader"
+  ],
+  "influencedBy": [
+   {
+    "id": "skrillex",
+    "why": "Skrillex signed and released 'Spitfire' on OWSLA, giving him his breakthrough.",
+    "s": 3
+   },
+   {
+    "id": "daft-punk",
+    "why": "Their robotic vocals and blend of synth-pop and house run through his work.",
+    "s": 1
+   },
+   {
+    "id": "boards-of-canada",
+    "why": "The hazy, nostalgic textures of 'Worlds' follow the Boards of Canada mood.",
+    "s": 1
+   },
+   {
+    "id": "deadmau5",
+    "why": "His early electro house sound came out of the late 2000s progressive and electro wave.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "caroline-polachek",
+    "why": "Glossy, emotional pop with art-school ambition."
+   },
+   {
+    "id": "tame-impala",
+    "why": "A one-person studio project with a dreamy, cinematic feel."
+   }
+  ]
+ },
+ {
+  "id": "disclosure",
+  "years": "2010–present",
+  "origin": "Reigate, England",
+  "genres": [
+   "UK garage",
+   "deep house",
+   "dance-pop"
+  ],
+  "summary": "Brothers Guy and Howard Lawrence, who revived UK garage and classic house for a pop audience in the 2010s.",
+  "know": [
+   "They were teenagers when they started releasing records.",
+   "'Latch' introduced Sam Smith to a wide audience.",
+   "Their debut 'Settle' was nominated for the Mercury Prize."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Settle",
+    2013
+   ],
+   [
+    "Caracal",
+    2015
+   ],
+   [
+    "Energy",
+    2020
+   ],
+   [
+    "Alchemy",
+    2023
+   ]
+  ],
+  "songs": [
+   "Latch",
+   "White Noise",
+   "You & Me",
+   "Omen",
+   "When a Fire Starts to Burn"
+  ],
+  "influencedBy": [
+   {
+    "id": "burial",
+    "why": "Burial's take on UK garage was a key gateway for the brothers into the genre.",
+    "s": 2
+   },
+   {
+    "id": "larry-heard",
+    "why": "The warm chords and basslines of classic deep house shape much of their sound.",
+    "s": 1
+   },
+   {
+    "id": "frankie-knuckles",
+    "why": "Their vocal house singles follow the Chicago house template.",
+    "s": 1
+   },
+   {
+    "id": "james-blake",
+    "why": "Blake's moody post-dubstep was part of the UK scene they came up in.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "fred-again",
+    "why": "The emotional, vocal-led UK house that Disclosure brought to the charts is a clear forerunner of Fred again..'s sound.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "sade",
+    "why": "Smooth, soulful vocals over a steady groove."
+   },
+   {
+    "id": "amy-winehouse",
+    "why": "UK soul singing with a retro edge."
+   }
+  ]
+ },
+ {
+  "id": "bonobo",
+  "years": "1999–present",
+  "origin": "Brighton, England",
+  "genres": [
+   "downtempo",
+   "trip hop",
+   "electronica"
+  ],
+  "summary": "British producer Simon Green, known for lush, organic downtempo that mixes live instruments, global samples and electronic beats.",
+  "know": [
+   "He has released most of his albums on the London label Ninja Tune.",
+   "He tours with a full live band rather than only DJing.",
+   "'Migration' was nominated for two Grammy awards."
+  ],
+  "born": "03-30",
+  "keyAlbums": [
+   [
+    "Animal Magic",
+    2000
+   ],
+   [
+    "Black Sands",
+    2010
+   ],
+   [
+    "The North Borders",
+    2013
+   ],
+   [
+    "Migration",
+    2017
+   ]
+  ],
+  "songs": [
+   "Kiara",
+   "Black Sands",
+   "Cirrus",
+   "Kerala",
+   "Know You"
+  ],
+  "influencedBy": [
+   {
+    "id": "dj-shadow",
+    "why": "His early sample-based downtempo follows the path of 'Endtroducing'.",
+    "s": 2
+   },
+   {
+    "id": "massive-attack",
+    "why": "Bristol trip hop's slow beats and dark atmosphere shaped his first albums.",
+    "s": 1
+   },
+   {
+    "id": "boards-of-canada",
+    "why": "Warm, nostalgic textures in his later work echo Boards of Canada.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "madlib",
+    "why": "Crate-digging beats with a jazzy, global ear."
+   },
+   {
+    "id": "herbie-hancock",
+    "why": "Grooves that mix live playing and electronics."
+   }
+  ]
+ },
+ {
+  "id": "tiesto",
+  "years": "1994–present",
+  "origin": "Breda, Netherlands",
+  "genres": [
+   "trance",
+   "big room house",
+   "EDM"
+  ],
+  "summary": "Dutch DJ Tijs Verwest, the leading star of 2000s trance who later reinvented himself as an EDM and pop-house hitmaker.",
+  "know": [
+   "He played a live set during the opening ceremony of the 2004 Athens Olympics.",
+   "His trance version of 'Adagio for Strings' became a signature of his sets.",
+   "In the 2010s he shifted from trance to big room and pop-leaning house."
+  ],
+  "born": "01-17",
+  "keyAlbums": [
+   [
+    "In My Memory",
+    2001
+   ],
+   [
+    "Just Be",
+    2004
+   ],
+   [
+    "Elements of Life",
+    2007
+   ],
+   [
+    "A Town Called Paradise",
+    2014
+   ]
+  ],
+  "songs": [
+   "Lethal Industry",
+   "Adagio for Strings",
+   "Traffic",
+   "Red Lights",
+   "The Business"
+  ],
+  "influencedBy": [
+   {
+    "id": "jean-michel-jarre",
+    "why": "Jarre's sweeping, melodic synth instrumentals are an ancestor of epic trance.",
+    "s": 1
+   },
+   {
+    "id": "giorgio-moroder",
+    "why": "Moroder's pulsing sequencer arpeggios underpin the trance sound Tiësto worked in.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "avicii",
+    "why": "He supported and remixed Avicii early, and his melodic leads fed Avicii's style.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "pink-floyd",
+    "why": "Long, slow-building tracks aimed at a big emotional peak."
+   },
+   {
+    "id": "coldplay",
+    "why": "Uplifting anthems built for huge crowds."
+   }
+  ]
+ },
+ {
+  "id": "the-chainsmokers",
+  "years": "2012–present",
+  "origin": "New York City, New York",
+  "genres": [
+   "EDM",
+   "future bass",
+   "electropop"
+  ],
+  "summary": "Duo of Alex Pall and Drew Taggart who turned soft future-bass drops and sung choruses into some of the biggest pop hits of the late 2010s.",
+  "know": [
+   "'Closer' with Halsey spent 12 weeks at number one on the Billboard Hot 100.",
+   "Taggart moved from DJ to lead singer on many of their songs.",
+   "They recorded 'Something Just Like This' with Coldplay."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Collage",
+    2016
+   ],
+   [
+    "Memories...Do Not Open",
+    2017
+   ],
+   [
+    "Sick Boy",
+    2018
+   ],
+   [
+    "So Far So Good",
+    2022
+   ]
+  ],
+  "songs": [
+   "Roses",
+   "Don't Let Me Down",
+   "Closer",
+   "Something Just Like This",
+   "Paris"
+  ],
+  "influencedBy": [
+   {
+    "id": "avicii",
+    "why": "His vocal-led, melodic EDM hits were the template for their crossover songs.",
+    "s": 1
+   },
+   {
+    "id": "flume",
+    "why": "Their gentle future-bass drops borrow the warped chords Flume popularized.",
+    "s": 1
+   },
+   {
+    "id": "swedish-house-mafia",
+    "why": "Festival-sized vocal house anthems set the stage they started on.",
+    "s": 1
+   },
+   {
+    "id": "coldplay",
+    "why": "Their soft-rock melancholy and arena choruses fed the duo's songwriting, leading to a joint single.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "halsey",
+    "why": "Moody, diary-style pop for a young audience."
+   },
+   {
+    "id": "ed-sheeran",
+    "why": "Plain-spoken pop songs built to fill stadiums."
+   }
+  ]
+ },
+ {
+  "id": "marshmello",
+  "years": "2015–present",
+  "origin": "Philadelphia, Pennsylvania",
+  "genres": [
+   "future bass",
+   "EDM",
+   "electropop"
+  ],
+  "summary": "Masked producer Chris Comstock, whose cheerful future-bass pop and gaming crossovers made him one of the most-streamed DJs of his era.",
+  "know": [
+   "He performs in a white helmet shaped like a marshmallow.",
+   "He played a virtual concert inside the video game Fortnite in 2019.",
+   "'Happier' with Bastille spent more than a year on the Billboard Hot 100."
+  ],
+  "born": "05-19",
+  "keyAlbums": [
+   [
+    "Joytime",
+    2016
+   ],
+   [
+    "Joytime II",
+    2018
+   ],
+   [
+    "Shockwave",
+    2021
+   ]
+  ],
+  "songs": [
+   "Alone",
+   "Silence",
+   "Friends",
+   "Happier",
+   "Wolves"
+  ],
+  "influencedBy": [
+   {
+    "id": "avicii",
+    "why": "Bright chords and singalong vocal drops trace back to Avicii's pop-house hits.",
+    "s": 1
+   },
+   {
+    "id": "daft-punk",
+    "why": "A masked, anonymous stage persona follows the example Daft Punk set.",
+    "s": 1
+   },
+   {
+    "id": "deadmau5",
+    "why": "The full-head helmet as a DJ trademark was first made famous by deadmau5.",
+    "s": 1
+   },
+   {
+    "id": "skrillex",
+    "why": "His early tracks came out of the 2010s EDM and trap wave that Skrillex led.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "kiss",
+    "why": "A masked, cartoon-like persona as part of the show."
+   },
+   {
+    "id": "khalid",
+    "why": "Easy, soft-voiced pop that met him on 'Silence'."
+   }
+  ]
+ },
+ {
+  "id": "thefatrat",
+  "years": "2011–present",
+  "origin": "Göttingen, Germany",
+  "genres": [
+   "electro house",
+   "glitch hop",
+   "video game music"
+  ],
+  "summary": "German producer Christian Büttner, whose bright, game-like electronic tracks spread widely through YouTube and gaming videos.",
+  "know": [
+   "He lets online creators use his music, which helped it spread through gaming videos.",
+   "His melodies often sound like chiptune or video game themes.",
+   "Several of his tracks feature the singer Laura Brehm."
+  ],
+  "born": null,
+  "keyAlbums": [],
+  "songs": [
+   "Unity",
+   "Monody",
+   "Xenogenesis",
+   "Fly Away",
+   "The Calling"
+  ],
+  "influencedBy": [
+   {
+    "id": "skrillex",
+    "why": "Glitchy drops and cut-up synths in his tracks come from the 2010s electro and dubstep wave.",
+    "s": 1
+   },
+   {
+    "id": "deadmau5",
+    "why": "His long synth builds follow late 2000s electro and progressive house.",
+    "s": 1
+   },
+   {
+    "id": "daft-punk",
+    "why": "Catchy synth riffs that work like vocal hooks follow the Daft Punk model.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "linkin-park",
+    "why": "A staple soundtrack for gaming and online video culture."
+   },
+   {
+    "id": "queen",
+    "why": "Big, theatrical melodies that feel like a soundtrack."
+   }
+  ]
+ },
+ {
+  "id": "sophie",
+  "years": "2013–2021",
+  "origin": "Glasgow, Scotland",
+  "genres": [
+   "hyperpop",
+   "experimental pop",
+   "bubblegum bass"
+  ],
+  "summary": "Producer and artist Sophie Xeon, whose rubbery, hyper-real synth sounds reshaped pop production and laid groundwork for hyperpop.",
+  "know": [
+   "Early singles like 'Bipp' and 'Lemonade' built songs from synthesized sounds that mimicked latex, metal and bubbles.",
+   "She produced Charli XCX's 'Vroom Vroom' EP.",
+   "Her album 'Oil of Every Pearl's Un-Insides' was nominated for a Grammy."
+  ],
+  "born": "09-17",
+  "keyAlbums": [
+   [
+    "Product",
+    2015
+   ],
+   [
+    "Vroom Vroom (Charli XCX)",
+    2016
+   ],
+   [
+    "Oil of Every Pearl's Un-Insides",
+    2018
+   ]
+  ],
+  "songs": [
+   "Bipp",
+   "Lemonade",
+   "Hard",
+   "It's Okay to Cry",
+   "Immaterial"
+  ],
+  "influencedBy": [
+   {
+    "id": "a-g-cook",
+    "why": "They worked in the same PC Music circle and pushed glossy, exaggerated pop sounds together.",
+    "s": 2
+   },
+   {
+    "id": "aphex-twin",
+    "why": "Her hard-edged, physical synth design draws on the IDM tradition of sound sculpture.",
+    "s": 1
+   },
+   {
+    "id": "max-martin",
+    "why": "Her songs take the shiny hooks of turn-of-the-century pop production and exaggerate them.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "charli-xcx",
+    "why": "She produced the 'Vroom Vroom' EP, which pushed Charli toward experimental pop.",
+    "s": 3
+   },
+   {
+    "id": "vince-staples",
+    "why": "She produced his single 'Yeah Right', bringing her sound to rap.",
+    "s": 3
+   },
+   {
+    "id": "100-gecs",
+    "why": "Her distorted, cartoonish pop sounds are a direct root of hyperpop.",
+    "s": 2
+   },
+   {
+    "id": "rina-sawayama",
+    "why": "Rina's metallic, maximal pop builds on the sound SOPHIE created.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "kate-bush",
+    "why": "Art-pop that invents its own sound world."
+   },
+   {
+    "id": "david-bowie",
+    "why": "A shape-shifting persona and futurist pop."
+   }
+  ]
+ },
+ {
+  "id": "the-skatalites",
+  "years": "1964–present",
+  "origin": "Kingston, Jamaica",
+  "genres": [
+   "ska",
+   "jazz",
+   "rocksteady"
+  ],
+  "summary": "Jamaica's great ska house band, a group of jazz-trained players who backed most of the island's early hits and set the sound of ska.",
+  "know": [
+   "Members included Tommy McCook, Don Drummond, Roland Alphonso, Jackie Mittoo and Lloyd Knibb.",
+   "They backed the young Wailers on 'Simmer Down' at Studio One.",
+   "Their first run lasted only about 14 months before they reformed decades later."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Ska Authentic",
+    1964
+   ],
+   [
+    "Ska-Boo-Da-Ba",
+    1966
+   ],
+   [
+    "Foundation Ska",
+    1997
+   ]
+  ],
+  "songs": [
+   "Guns of Navarone",
+   "Eastern Standard Time",
+   "Man in the Street",
+   "Phoenix City",
+   "Freedom Sounds"
+  ],
+  "influencedBy": [
+   {
+    "id": "coxsone-dodd",
+    "why": "He used them as the house band at Studio One, where most of their records were cut.",
+    "s": 3
+   },
+   {
+    "id": "duke-reid",
+    "why": "They also recorded for Reid's Treasure Isle label.",
+    "s": 3
+   },
+   {
+    "id": "louis-jordan",
+    "why": "The shuffle rhythm of jump blues, popular on Jamaican sound systems, fed directly into ska.",
+    "s": 2
+   },
+   {
+    "id": "fats-domino",
+    "why": "New Orleans R&B with its offbeat piano was a key root of the ska beat.",
+    "s": 2
+   },
+   {
+    "id": "count-basie",
+    "why": "The horn players brought big-band swing and jazz soloing into ska.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "bob-marley",
+    "why": "They backed the early Wailers on 'Simmer Down' and other Studio One sides.",
+    "s": 3
+   },
+   {
+    "id": "the-specials",
+    "why": "2 Tone bands built on their horn-led ska, and The Specials covered 'Guns of Navarone'.",
+    "s": 2
+   },
+   {
+    "id": "madness",
+    "why": "Madness modeled their horn-driven ska on Jamaican records the Skatalites played on.",
+    "s": 2
+   },
+   {
+    "id": "the-beat",
+    "why": "The Beat's upbeat ska revival came straight from the 1960s Jamaican sound.",
+    "s": 1
+   },
+   {
+    "id": "prince-buster",
+    "why": "Members played on many of his early ska records.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "art-blakey",
+    "why": "A hard-swinging jazz group full of star soloists."
+   },
+   {
+    "id": "booker-t",
+    "why": "A house band whose players defined a label's sound."
+   }
+  ]
+ },
+ {
+  "id": "prince-buster",
+  "years": "1961–2016",
+  "origin": "Kingston, Jamaica",
+  "genres": [
+   "ska",
+   "rocksteady",
+   "sound system"
+  ],
+  "summary": "Singer, producer and sound system operator Cecil Campbell, one of the main architects of ska and a hero of the British 2 Tone revival.",
+  "know": [
+   "He worked on Coxsone Dodd's sound system before launching his own, Voice of the People.",
+   "He produced the Folkes Brothers' 'Oh Carolina', an early landmark of Jamaican music.",
+   "The band Madness took its name from one of his songs."
+  ],
+  "born": "05-24",
+  "keyAlbums": [
+   [
+    "I Feel the Spirit",
+    1963
+   ],
+   [
+    "Ten Commandments",
+    1967
+   ],
+   [
+    "Fabulous Greatest Hits",
+    1967
+   ]
+  ],
+  "songs": [
+   "Oh Carolina",
+   "Madness",
+   "Al Capone",
+   "One Step Beyond",
+   "Enjoy Yourself"
+  ],
+  "influencedBy": [
+   {
+    "id": "coxsone-dodd",
+    "why": "He started out working for Dodd's Downbeat sound system before becoming his rival.",
+    "s": 3
+   },
+   {
+    "id": "louis-jordan",
+    "why": "Jump blues shuffles played on Kingston sound systems shaped his early ska beat.",
+    "s": 2
+   },
+   {
+    "id": "fats-domino",
+    "why": "New Orleans R&B was a staple of the sound systems he grew up around.",
+    "s": 2
+   },
+   {
+    "id": "the-skatalites",
+    "why": "Members of the Skatalites played on many of his early ska sessions.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "madness",
+    "why": "They named themselves after his song and covered 'One Step Beyond' as their breakout.",
+    "s": 3
+   },
+   {
+    "id": "the-specials",
+    "why": "They covered and borrowed from his songs, including 'Enjoy Yourself'.",
+    "s": 2
+   },
+   {
+    "id": "the-beat",
+    "why": "They covered his 'Rough Rider' and drew on his upbeat ska style.",
+    "s": 2
+   },
+   {
+    "id": "shaggy",
+    "why": "Shaggy's breakout hit was a cover of 'Oh Carolina', which Buster produced.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "chuck-berry",
+    "why": "An early architect who set the template for a whole genre."
+   },
+   {
+    "id": "dj-kool-herc",
+    "why": "A sound system DJ who built a new music from the party."
+   }
+  ]
+ },
+ {
+  "id": "desmond-dekker",
+  "years": "1963–2006",
+  "origin": "Kingston, Jamaica",
+  "genres": [
+   "ska",
+   "rocksteady",
+   "early reggae"
+  ],
+  "summary": "Singer whose 'Israelites' was the first Jamaican hit to top the UK charts, carrying ska and rocksteady to an international audience.",
+  "know": [
+   "He recorded his biggest hits with producer Leslie Kong.",
+   "'Israelites' reached number one in the UK in 1969 and the US Top 10.",
+   "He helped the young Bob Marley get an audition with Kong."
+  ],
+  "born": "07-16",
+  "keyAlbums": [
+   [
+    "007 Shanty Town",
+    1967
+   ],
+   [
+    "Israelites",
+    1969
+   ],
+   [
+    "This Is Desmond Dekkar",
+    1969
+   ],
+   [
+    "Black and Dekker",
+    1980
+   ]
+  ],
+  "songs": [
+   "007 (Shanty Town)",
+   "Israelites",
+   "It Mek",
+   "Honour Your Mother and Father",
+   "You Can Get It If You Really Want"
+  ],
+  "influencedBy": [
+   {
+    "id": "sam-cooke",
+    "why": "His smooth, high tenor and phrasing owe a lot to American soul singers like Cooke.",
+    "s": 1
+   },
+   {
+    "id": "fats-domino",
+    "why": "New Orleans R&B was part of the music that shaped Jamaican singers of his generation.",
+    "s": 1
+   },
+   {
+    "id": "the-skatalites",
+    "why": "He came up in the ska sound their sessions defined.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "bob-marley",
+    "why": "He brought Marley to Leslie Kong for his first recording.",
+    "s": 2
+   },
+   {
+    "id": "the-specials",
+    "why": "2 Tone bands revered his records, and he recorded a comeback album for Stiff during the revival.",
+    "s": 2
+   },
+   {
+    "id": "madness",
+    "why": "His rude boy ska songs were a core reference for the 2 Tone generation.",
+    "s": 1
+   },
+   {
+    "id": "ub40",
+    "why": "His crossover success showed British bands that Jamaican music could top UK charts.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "otis-redding",
+    "why": "A soul singer with a raw, urgent delivery."
+   },
+   {
+    "id": "the-impressions",
+    "why": "Uplifting vocal hits with a message."
+   }
+  ]
+ },
+ {
+  "id": "alton-ellis",
+  "years": "1959–2008",
+  "origin": "Kingston, Jamaica",
+  "genres": [
+   "rocksteady",
+   "ska",
+   "lovers rock"
+  ],
+  "summary": "Singer known as the Godfather of Rocksteady, whose soulful ballads slowed ska down and set the template for Jamaican love songs.",
+  "know": [
+   "His 1967 song 'Rock Steady' helped name the genre.",
+   "He recorded for both rival producers Duke Reid and Coxsone Dodd.",
+   "He spent many later years living and performing in London."
+  ],
+  "born": "09-01",
+  "keyAlbums": [
+   [
+    "Mr Soul of Jamaica",
+    1967
+   ],
+   [
+    "Sunday Coming",
+    1970
+   ]
+  ],
+  "songs": [
+   "Girl I've Got a Date",
+   "Rock Steady",
+   "I'm Still in Love with You",
+   "Get Ready",
+   "Cry Tough"
+  ],
+  "influencedBy": [
+   {
+    "id": "sam-cooke",
+    "why": "His smooth, gospel-touched singing is modeled on American soul greats like Cooke.",
+    "s": 2
+   },
+   {
+    "id": "the-impressions",
+    "why": "Curtis Mayfield's harmony soul was a major model for rocksteady singers.",
+    "s": 2
+   },
+   {
+    "id": "duke-reid",
+    "why": "Reid produced his biggest rocksteady hits at Treasure Isle.",
+    "s": 3
+   },
+   {
+    "id": "coxsone-dodd",
+    "why": "He also recorded classic sides for Dodd at Studio One.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "dennis-brown",
+    "why": "His soulful rocksteady style was a model for Brown's ballads.",
+    "s": 2
+   },
+   {
+    "id": "gregory-isaacs",
+    "why": "His romantic ballads helped shape the lovers rock tradition Isaacs led.",
+    "s": 1
+   },
+   {
+    "id": "sean-paul",
+    "why": "Sean Paul built 'I'm Still in Love with You' on Ellis's song.",
+    "s": 2
+   },
+   {
+    "id": "ub40",
+    "why": "Their love-song covers came from the rocksteady tradition he defined.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "smokey-robinson",
+    "why": "Sweet, soulful love songs with a light touch."
+   },
+   {
+    "id": "marvin-gaye",
+    "why": "A soul singer who could be tender and pointed."
+   }
+  ]
+ },
+ {
+  "id": "coxsone-dodd",
+  "years": "1954–2004",
+  "origin": "Kingston, Jamaica",
+  "genres": [
+   "ska",
+   "rocksteady",
+   "sound system"
+  ],
+  "summary": "Producer and founder of Studio One, the 'Motown of Jamaica', where ska, rocksteady and early reggae stars from the Wailers to Burning Spear got their start.",
+  "know": [
+   "He ran the Downbeat sound system before opening the Studio One studio and label in 1963.",
+   "He recorded the Wailers' first hit, 'Simmer Down'.",
+   "Studio One riddims like 'Real Rock' have been reused on thousands of later records."
+  ],
+  "born": "01-26",
+  "keyAlbums": [
+   [
+    "The Wailing Wailers (The Wailers)",
+    1965
+   ],
+   [
+    "Sunday Coming (Alton Ellis)",
+    1970
+   ],
+   [
+    "Studio One Presents Burning Spear (Burning Spear)",
+    1973
+   ],
+   [
+    "Satta Massagana (The Abyssinians)",
+    1976
+   ]
+  ],
+  "songs": [
+   "Simmer Down",
+   "Real Rock",
+   "Satta Massagana",
+   "Rock Fort Rock",
+   "Door Peep"
+  ],
+  "influencedBy": [
+   {
+    "id": "louis-jordan",
+    "why": "US jump blues and R&B were the records he spun on his Downbeat sound system.",
+    "s": 2
+   },
+   {
+    "id": "fats-domino",
+    "why": "New Orleans R&B was a sound system favorite before Jamaicans made their own records.",
+    "s": 1
+   },
+   {
+    "id": "duke-reid",
+    "why": "His rivalry with Reid's Trojan sound system pushed both men into producing.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-skatalites",
+    "why": "They were the Studio One house band and cut most of their records for him.",
+    "s": 3
+   },
+   {
+    "id": "bob-marley",
+    "why": "He produced the Wailers' early records, starting with 'Simmer Down'.",
+    "s": 3
+   },
+   {
+    "id": "burning-spear",
+    "why": "He recorded Burning Spear's first albums at Studio One.",
+    "s": 3
+   },
+   {
+    "id": "alton-ellis",
+    "why": "He produced classic Ellis sides at Studio One.",
+    "s": 3
+   },
+   {
+    "id": "prince-buster",
+    "why": "Buster worked on his sound system before going out on his own.",
+    "s": 3
+   },
+   {
+    "id": "lee-scratch-perry",
+    "why": "Perry worked for him at Studio One before starting his own productions.",
+    "s": 3
+   },
+   {
+    "id": "dennis-brown",
+    "why": "Brown made his first recordings as a child at Studio One.",
+    "s": 3
+   },
+   {
+    "id": "toots",
+    "why": "The Maytals cut early ska hits at Studio One.",
+    "s": 3
+   },
+   {
+    "id": "dj-kool-herc",
+    "why": "The Jamaican sound system culture he helped build was carried to the Bronx by Herc.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "berry-gordy",
+    "why": "A label boss whose studio defined a national sound."
+   },
+   {
+    "id": "sam-phillips",
+    "why": "A producer who discovered and first recorded future legends."
+   }
+  ]
+ },
+ {
+  "id": "duke-reid",
+  "years": "1953–1975",
+  "origin": "Kingston, Jamaica",
+  "genres": [
+   "rocksteady",
+   "ska",
+   "sound system"
+  ],
+  "summary": "Sound system boss and producer behind Treasure Isle, the label that defined rocksteady and launched the DJ toasting of U-Roy.",
+  "know": [
+   "His Trojan sound system was one of the biggest in 1950s Kingston.",
+   "Treasure Isle's polished rocksteady sides set the standard for the genre.",
+   "He produced U-Roy's toasting hits over Treasure Isle rhythms, which made the DJ a recording star."
+  ],
+  "born": "07-21",
+  "keyAlbums": [
+   [
+    "Mr Soul of Jamaica (Alton Ellis)",
+    1967
+   ],
+   [
+    "On the Beach (The Paragons)",
+    1967
+   ],
+   [
+    "Version Galore (U-Roy)",
+    1971
+   ]
+  ],
+  "songs": [
+   "Girl I've Got a Date",
+   "The Tide Is High",
+   "Wake the Town",
+   "Wear You to the Ball"
+  ],
+  "influencedBy": [
+   {
+    "id": "louis-jordan",
+    "why": "His sound system made its name playing American jump blues and R&B.",
+    "s": 2
+   },
+   {
+    "id": "fats-domino",
+    "why": "New Orleans R&B was core to his early sound system sets.",
+    "s": 1
+   },
+   {
+    "id": "coxsone-dodd",
+    "why": "The rivalry with Dodd pushed him to start making his own records.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "alton-ellis",
+    "why": "He produced Ellis's biggest rocksteady hits.",
+    "s": 3
+   },
+   {
+    "id": "u-roy",
+    "why": "He produced U-Roy's breakthrough toasting records over Treasure Isle rhythms.",
+    "s": 3
+   },
+   {
+    "id": "the-skatalites",
+    "why": "They recorded many ska sides for his Treasure Isle label.",
+    "s": 3
+   },
+   {
+    "id": "king-tubby",
+    "why": "Tubby cut dub plates from Treasure Isle tapes, a step toward his dub mixes.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "phil-spector",
+    "why": "A producer whose polished studio sound defined a style."
+   },
+   {
+    "id": "leonard-chess",
+    "why": "A label boss whose house sound shaped a genre."
+   }
+  ]
+ },
+ {
+  "id": "peter-tosh",
+  "years": "1963–1987",
+  "origin": "Kingston, Jamaica",
+  "genres": [
+   "roots reggae",
+   "rocksteady",
+   "ska"
+  ],
+  "summary": "Founding Wailer and solo star whose militant, uncompromising roots reggae made him one of the genre's strongest voices for equal rights.",
+  "know": [
+   "He co-wrote 'Get Up, Stand Up' with Bob Marley.",
+   "He signed to Rolling Stones Records and sang '(You Gotta Walk) Don't Look Back' with Mick Jagger.",
+   "Sly Dunbar and Robbie Shakespeare were the core of his backing band, Word, Sound and Power."
+  ],
+  "born": "10-19",
+  "keyAlbums": [
+   [
+    "Equal Rights",
+    1977
+   ],
+   [
+    "Bush Doctor",
+    1978
+   ],
+   [
+    "Mystic Man",
+    1979
+   ],
+   [
+    "Mama Africa",
+    1983
+   ]
+  ],
+  "songs": [
+   "Get Up, Stand Up",
+   "Equal Rights",
+   "Stepping Razor",
+   "(You Gotta Walk) Don't Look Back",
+   "Johnny B. Goode"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-marley",
+    "why": "They founded the Wailers together and wrote side by side for a decade.",
+    "s": 3
+   },
+   {
+    "id": "coxsone-dodd",
+    "why": "Dodd produced the early Wailers records at Studio One.",
+    "s": 3
+   },
+   {
+    "id": "the-impressions",
+    "why": "The Wailers built their vocal harmonies on Curtis Mayfield's group.",
+    "s": 2
+   },
+   {
+    "id": "chuck-berry",
+    "why": "He covered 'Johnny B. Goode' as a reggae single.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "sly-and-robbie",
+    "why": "They were his rhythm section, and his records helped make their name.",
+    "s": 3
+   },
+   {
+    "id": "black-uhuru",
+    "why": "His hard, militant roots sound fed the next wave of protest reggae.",
+    "s": 1
+   },
+   {
+    "id": "steel-pulse",
+    "why": "His equal-rights message shaped the UK roots band's outlook.",
+    "s": 1
+   },
+   {
+    "id": "bad-brains",
+    "why": "His militant reggae was part of the music behind their reggae songs.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-clash",
+    "why": "Rebel music with a hard political edge."
+   },
+   {
+    "id": "gil-scott-heron",
+    "why": "Pointed social commentary over a groove."
+   }
+  ]
+ },
+ {
+  "id": "bunny-wailer",
+  "years": "1963–2021",
+  "origin": "Kingston, Jamaica",
+  "genres": [
+   "roots reggae",
+   "rocksteady",
+   "ska"
+  ],
+  "summary": "Founding Wailer Neville Livingston, whose spiritual solo debut 'Blackheart Man' is counted among the finest roots reggae albums.",
+  "know": [
+   "He grew up alongside Bob Marley and sang in the original Wailers harmony trio.",
+   "He left the group in 1973, partly because he did not want to tour abroad.",
+   "He won three Grammy awards for Best Reggae Album."
+  ],
+  "born": "04-10",
+  "keyAlbums": [
+   [
+    "Blackheart Man",
+    1976
+   ],
+   [
+    "Protest",
+    1977
+   ],
+   [
+    "Struggle",
+    1978
+   ],
+   [
+    "Hall of Fame: A Tribute to Bob Marley's 50th Anniversary",
+    1995
+   ]
+  ],
+  "songs": [
+   "Blackheart Man",
+   "Dreamland",
+   "Battering Down Sentence",
+   "Rockers",
+   "Armagideon"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-marley",
+    "why": "They grew up together and formed the Wailers as teenagers.",
+    "s": 3
+   },
+   {
+    "id": "peter-tosh",
+    "why": "Tosh was his fellow founding Wailer and harmony partner.",
+    "s": 3
+   },
+   {
+    "id": "coxsone-dodd",
+    "why": "Dodd produced their first records at Studio One.",
+    "s": 3
+   },
+   {
+    "id": "the-impressions",
+    "why": "The Wailers' harmony style was modeled on the Impressions.",
+    "s": 2
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "curtis-mayfield",
+    "why": "Gentle, spiritual songs with a message."
+   },
+   {
+    "id": "fela-kuti",
+    "why": "Music rooted in African identity and resistance."
+   }
+  ]
+ },
+ {
+  "id": "burning-spear",
+  "years": "1969–present",
+  "origin": "Saint Ann's Bay, Jamaica",
+  "genres": [
+   "roots reggae",
+   "dub"
+  ],
+  "summary": "Winston Rodney, whose hypnotic, chant-like roots reggae about African history and Marcus Garvey made him one of reggae's most serious voices.",
+  "know": [
+   "Bob Marley, also from St. Ann, suggested he audition at Studio One.",
+   "'Marcus Garvey' was released on Island and became a roots reggae landmark.",
+   "He has won the Grammy for Best Reggae Album twice."
+  ],
+  "born": "03-01",
+  "keyAlbums": [
+   [
+    "Marcus Garvey",
+    1975
+   ],
+   [
+    "Man in the Hills",
+    1976
+   ],
+   [
+    "Dry & Heavy",
+    1977
+   ],
+   [
+    "Social Living",
+    1978
+   ]
+  ],
+  "songs": [
+   "Marcus Garvey",
+   "Slavery Days",
+   "Door Peep",
+   "Man in the Hills",
+   "Columbus"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-marley",
+    "why": "Marley pointed him to Coxsone Dodd and Studio One.",
+    "s": 3
+   },
+   {
+    "id": "coxsone-dodd",
+    "why": "Dodd recorded his first two albums at Studio One.",
+    "s": 3
+   },
+   {
+    "id": "the-impressions",
+    "why": "His soulful, message-driven singing draws on 1960s American harmony soul.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "steel-pulse",
+    "why": "His African history themes and roots sound shaped the UK band's early work.",
+    "s": 2
+   },
+   {
+    "id": "chronixx",
+    "why": "The roots revival of the 2010s drew on his conscious, chant-based style.",
+    "s": 1
+   },
+   {
+    "id": "damian-marley",
+    "why": "His Africa-focused lyrics and heavy roots grooves are part of the tradition Damian works in.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "john-coltrane",
+    "why": "Spiritual music built on repetition and intensity."
+   },
+   {
+    "id": "fela-kuti",
+    "why": "Long, hypnotic grooves with a political message."
+   }
+  ]
+ },
+ {
+  "id": "augustus-pablo",
+  "years": "1969–1999",
+  "origin": "Kingston, Jamaica",
+  "genres": [
+   "dub",
+   "roots reggae",
+   "instrumental reggae"
+  ],
+  "summary": "Melodica player and producer Horace Swaby, whose eerie 'Far East' sound and work with King Tubby made him a key figure in dub.",
+  "know": [
+   "He made the toy-like melodica a lead instrument in reggae.",
+   "'King Tubbys Meets Rockers Uptown' is often called one of the greatest dub albums.",
+   "He ran the Rockers label and produced younger singers like Hugh Mundell."
+  ],
+  "born": "06-21",
+  "keyAlbums": [
+   [
+    "This Is Augustus Pablo",
+    1974
+   ],
+   [
+    "King Tubbys Meets Rockers Uptown",
+    1976
+   ],
+   [
+    "East of the River Nile",
+    1977
+   ],
+   [
+    "Original Rockers",
+    1979
+   ]
+  ],
+  "songs": [
+   "Java",
+   "King Tubby Meets Rockers Uptown",
+   "East of the River Nile",
+   "Cassava Piece",
+   "Rockers Rock"
+  ],
+  "influencedBy": [
+   {
+    "id": "king-tubby",
+    "why": "Tubby mixed his most famous dub records, shaping their deep, spacious sound.",
+    "s": 3
+   },
+   {
+    "id": "lee-scratch-perry",
+    "why": "Perry's experimental studio work was part of the dub world Pablo entered.",
+    "s": 1
+   },
+   {
+    "id": "the-skatalites",
+    "why": "He continued the Jamaican tradition of instrumental records led by a melody instrument.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "adrian-sherwood",
+    "why": "His mystical dub sound was a model for UK dub producers like Sherwood.",
+    "s": 1
+   },
+   {
+    "id": "massive-attack",
+    "why": "Bristol trip hop grew from dub records like his, with deep bass and space.",
+    "s": 1
+   },
+   {
+    "id": "the-orb",
+    "why": "Ambient house borrowed the echo and drift of 1970s dub.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "brian-eno",
+    "why": "Atmospheric music built on space and mood."
+   },
+   {
+    "id": "miles-davis",
+    "why": "Spare, haunting melodies over a deep groove."
+   }
+  ]
+ },
+ {
+  "id": "u-roy",
+  "years": "1961–2021",
+  "origin": "Kingston, Jamaica",
+  "genres": [
+   "toasting",
+   "deejay",
+   "roots reggae"
+  ],
+  "summary": "Ewart Beckford, known as the Originator, who turned sound system toasting over instrumental versions into a recorded art and set the stage for dancehall and rap.",
+  "know": [
+   "In 1970 he held the top three spots on the Jamaican chart at once.",
+   "He toasted on King Tubby's Hometown Hi-Fi sound system.",
+   "His hits for Duke Reid were made by talking over Treasure Isle rocksteady rhythms."
+  ],
+  "born": "09-21",
+  "keyAlbums": [
+   [
+    "Version Galore",
+    1971
+   ],
+   [
+    "Dread in a Babylon",
+    1975
+   ],
+   [
+    "Natty Rebel",
+    1976
+   ],
+   [
+    "Rasta Ambassador",
+    1977
+   ]
+  ],
+  "songs": [
+   "Wake the Town",
+   "Wear You to the Ball",
+   "Rule the Nation",
+   "Natty Rebel",
+   "Version Galore"
+  ],
+  "influencedBy": [
+   {
+    "id": "duke-reid",
+    "why": "Reid produced his breakthrough records over Treasure Isle rhythms.",
+    "s": 3
+   },
+   {
+    "id": "king-tubby",
+    "why": "He was the star toaster on Tubby's sound system, working over Tubby's versions.",
+    "s": 3
+   },
+   {
+    "id": "prince-buster",
+    "why": "Sound system bosses like Buster set the tradition of talking over records at dances.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "dj-kool-herc",
+    "why": "Herc brought the Jamaican toasting tradition U-Roy defined to Bronx parties.",
+    "s": 2
+   },
+   {
+    "id": "yellowman",
+    "why": "Dancehall deejays followed the path U-Roy opened for vocal performers over riddims.",
+    "s": 2
+   },
+   {
+    "id": "shabba-ranks",
+    "why": "He is a root of the deejay lineage that led to dancehall stars like Shabba.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "gil-scott-heron",
+    "why": "A rhythmic speaking voice over a groove."
+   },
+   {
+    "id": "run-dmc",
+    "why": "MCs who made the voice over the beat the star."
+   }
+  ]
+ },
+ {
+  "id": "gregory-isaacs",
+  "years": "1968–2010",
+  "origin": "Kingston, Jamaica",
+  "genres": [
+   "lovers rock",
+   "roots reggae",
+   "early dancehall"
+  ],
+  "summary": "The Cool Ruler, a smooth-voiced singer who moved easily between romantic lovers rock and roots reggae and became one of Jamaica's most loved vocalists.",
+  "know": [
+   "He co-founded the African Museum label in the early 1970s.",
+   "'Night Nurse' was recorded with the Roots Radics band and released on Island.",
+   "His relaxed, almost conversational delivery became his trademark."
+  ],
+  "born": "07-15",
+  "keyAlbums": [
+   [
+    "Cool Ruler",
+    1978
+   ],
+   [
+    "Soon Forward",
+    1979
+   ],
+   [
+    "The Lonely Lover",
+    1980
+   ],
+   [
+    "Night Nurse",
+    1982
+   ]
+  ],
+  "songs": [
+   "Night Nurse",
+   "Number One",
+   "Love Is Overdue",
+   "Tune In",
+   "Soon Forward"
+  ],
+  "influencedBy": [
+   {
+    "id": "alton-ellis",
+    "why": "Rocksteady's soulful love songs were the base for his lovers style.",
+    "s": 1
+   },
+   {
+    "id": "sam-cooke",
+    "why": "His smooth phrasing follows the American soul crooners loved in Jamaica.",
+    "s": 1
+   },
+   {
+    "id": "sly-and-robbie",
+    "why": "They played on many of his records, including 'Soon Forward'.",
+    "s": 3
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "marvin-gaye",
+    "why": "Silky, sensual soul singing."
+   },
+   {
+    "id": "sade",
+    "why": "Cool, understated delivery over a smooth groove."
+   }
+  ]
+ },
+ {
+  "id": "dennis-brown",
+  "years": "1968–1999",
+  "origin": "Kingston, Jamaica",
+  "genres": [
+   "roots reggae",
+   "lovers rock",
+   "rocksteady"
+  ],
+  "summary": "The Crown Prince of Reggae, a child star who grew into one of reggae's finest singers, equally strong on love songs and roots anthems.",
+  "know": [
+   "He made his first recordings at Studio One while still a boy.",
+   "Bob Marley named him as his favorite singer.",
+   "Much of his best 1970s work was produced by Joe Gibbs."
+  ],
+  "born": "02-01",
+  "keyAlbums": [
+   [
+    "Just Dennis",
+    1975
+   ],
+   [
+    "Visions of Dennis Brown",
+    1978
+   ],
+   [
+    "Words of Wisdom",
+    1979
+   ],
+   [
+    "Love Has Found Its Way",
+    1982
+   ]
+  ],
+  "songs": [
+   "Money in My Pocket",
+   "Here I Come",
+   "Westbound Train",
+   "Revolution",
+   "Love Has Found Its Way"
+  ],
+  "influencedBy": [
+   {
+    "id": "alton-ellis",
+    "why": "Ellis's soulful rocksteady singing was a model for the young Brown.",
+    "s": 2
+   },
+   {
+    "id": "coxsone-dodd",
+    "why": "Dodd recorded his first songs at Studio One.",
+    "s": 3
+   },
+   {
+    "id": "nat-king-cole",
+    "why": "He grew up admiring American ballad singers like Nat King Cole.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "stevie-wonder",
+    "why": "A child star who became a mature, masterful artist."
+   },
+   {
+    "id": "sam-cooke",
+    "why": "A warm voice equally at home with love songs and message songs."
+   }
+  ]
+ },
+ {
+  "id": "sly-and-robbie",
+  "years": "1975–present",
+  "origin": "Kingston, Jamaica",
+  "genres": [
+   "reggae",
+   "dancehall",
+   "dub"
+  ],
+  "summary": "Drummer Sly Dunbar and bassist Robbie Shakespeare, the most recorded rhythm section in reggae, who also shaped records far outside Jamaica.",
+  "know": [
+   "They played in Peter Tosh's band and on records for Black Uhuru and Gregory Isaacs.",
+   "They formed the Compass Point house rhythm section for Grace Jones's 'Nightclubbing'.",
+   "They played on Bob Dylan's 'Infidels'."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Red (Black Uhuru)",
+    1981
+   ],
+   [
+    "Nightclubbing (Grace Jones)",
+    1981
+   ],
+   [
+    "Night Nurse (Gregory Isaacs)",
+    1982
+   ],
+   [
+    "Infidels (Bob Dylan)",
+    1983
+   ]
+  ],
+  "songs": [
+   "Pull Up to the Bumper",
+   "Sponji Reggae",
+   "Boops (Here to Go)",
+   "Baltimore"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-skatalites",
+    "why": "Sly has named Skatalites drummer Lloyd Knibb as a key early influence.",
+    "s": 2
+   },
+   {
+    "id": "peter-tosh",
+    "why": "As Tosh's band they developed the tight, heavy style that made their name.",
+    "s": 3
+   },
+   {
+    "id": "james-brown",
+    "why": "Their locked-in, funky drum and bass approach echoes James Brown's rhythm sections.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "black-uhuru",
+    "why": "They produced and played on Black Uhuru's classic records, defining the band's sound.",
+    "s": 3
+   },
+   {
+    "id": "gregory-isaacs",
+    "why": "They were the rhythm section on many Isaacs records.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "They played on 'Infidels', bringing a reggae rhythm section to his rock record.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "funk-brothers",
+    "why": "An unsung house band behind a mountain of hits."
+   },
+   {
+    "id": "booker-t",
+    "why": "A tight rhythm section that defined a label's sound."
+   }
+  ]
+ },
+ {
+  "id": "scientist",
+  "years": "1978–present",
+  "origin": "Kingston, Jamaica",
+  "genres": [
+   "dub",
+   "dancehall"
+  ],
+  "summary": "Dub mixer Hopeton Brown, a King Tubby protégé whose sharp, playful early 1980s mixes became some of the best-known dub records.",
+  "know": [
+   "He trained as a teenager at King Tubby's studio.",
+   "He mixed many records for producer Henry 'Junjo' Lawes at Channel One, often with the Roots Radics.",
+   "His album titles framed dub as comic-book contests, such as 'Scientist Meets the Space Invaders'."
+  ],
+  "born": "04-18",
+  "keyAlbums": [
+   [
+    "Scientist v Prince Jammy: Big Showdown",
+    1980
+   ],
+   [
+    "Heavyweight Dub Champion",
+    1980
+   ],
+   [
+    "Scientist Meets the Space Invaders",
+    1981
+   ],
+   [
+    "Scientist Rids the World of the Evil Curse of the Vampires",
+    1981
+   ]
+  ],
+  "songs": [
+   "Plague of Zombies",
+   "Your Teeth in My Neck",
+   "Dance of the Vampires"
+  ],
+  "influencedBy": [
+   {
+    "id": "king-tubby",
+    "why": "He learned to mix at Tubby's studio and carried on his dub methods.",
+    "s": 3
+   },
+   {
+    "id": "lee-scratch-perry",
+    "why": "Perry's experimental approach to the mixing desk set the bar for dub engineers.",
+    "s": 1
+   },
+   {
+    "id": "augustus-pablo",
+    "why": "The deep, spacious 1970s dub of the Tubby school was the tradition he built on.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "yellowman",
+    "why": "He mixed many of the early Junjo Lawes dancehall records that featured Yellowman.",
+    "s": 2
+   },
+   {
+    "id": "adrian-sherwood",
+    "why": "His punchy, effects-heavy mixes fed the UK dub scene Sherwood led.",
+    "s": 1
+   },
+   {
+    "id": "massive-attack",
+    "why": "Bristol trip hop drew on the deep bass and echo of dub mixers like him.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "brian-eno",
+    "why": "Treating the studio itself as the instrument."
+   },
+   {
+    "id": "j-dilla",
+    "why": "A beatmaker who reshapes existing music into something new."
+   }
+  ]
+ },
+ {
+  "id": "linton-kwesi-johnson",
+  "years": "1978–present",
+  "origin": "London, England",
+  "genres": [
+   "dub poetry",
+   "reggae"
+  ],
+  "summary": "Jamaican-born British poet who set his verse to reggae rhythms, defining dub poetry and documenting Black British life in Brixton.",
+  "know": [
+   "He worked closely with producer and bassist Dennis Bovell.",
+   "He writes and performs in Jamaican patois.",
+   "He became only the second living poet published in the Penguin Modern Classics series."
+  ],
+  "born": "08-24",
+  "keyAlbums": [
+   [
+    "Dread Beat an' Blood",
+    1978
+   ],
+   [
+    "Forces of Victory",
+    1979
+   ],
+   [
+    "Bass Culture",
+    1980
+   ],
+   [
+    "Making History",
+    1984
+   ]
+  ],
+  "songs": [
+   "Bass Culture",
+   "Want Fi Goh Rave",
+   "Sonny's Lettah",
+   "Making History",
+   "Independant Intavenshan"
+  ],
+  "influencedBy": [
+   {
+    "id": "u-roy",
+    "why": "The Jamaican deejays who talked over rhythms pointed him toward reciting verse over reggae.",
+    "s": 2
+   },
+   {
+    "id": "king-tubby",
+    "why": "His records use the stripped, bass-heavy sound of dub as a frame for poems.",
+    "s": 1
+   },
+   {
+    "id": "gil-scott-heron",
+    "why": "Spoken word set to a band was a model for politically charged poetry with music.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "bob-dylan",
+    "why": "Poetry-first songs about the times."
+   },
+   {
+    "id": "the-clash",
+    "why": "Music about life and politics in late 1970s London."
+   }
+  ]
+ },
+ {
+  "id": "steel-pulse",
+  "years": "1975–present",
+  "origin": "Birmingham, England",
+  "genres": [
+   "roots reggae",
+   "British reggae"
+  ],
+  "summary": "Roots reggae band from Handsworth, Birmingham, led by David Hinds, whose political songs made them the leading British reggae group of the late 1970s.",
+  "know": [
+   "Their debut 'Handsworth Revolution' was named after their home neighborhood.",
+   "They played Rock Against Racism shows and toured alongside punk bands.",
+   "'Babylon the Bandit' made them the first non-Jamaican act to win the Grammy for Best Reggae Album."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Handsworth Revolution",
+    1978
+   ],
+   [
+    "Tribute to the Martyrs",
+    1979
+   ],
+   [
+    "True Democracy",
+    1982
+   ],
+   [
+    "Babylon the Bandit",
+    1986
+   ]
+  ],
+  "songs": [
+   "Handsworth Revolution",
+   "Prodigal Son",
+   "Sound System",
+   "Your House",
+   "Steppin' Out"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-marley",
+    "why": "Marley's international roots reggae was the model for the band, and they opened for him on tour.",
+    "s": 2
+   },
+   {
+    "id": "burning-spear",
+    "why": "Spear's African history themes and heavy roots grooves shaped their early albums.",
+    "s": 2
+   },
+   {
+    "id": "peter-tosh",
+    "why": "Tosh's militant equal-rights songs fed their political outlook.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "ub40",
+    "why": "They showed that a Birmingham band could make serious, chart-reaching reggae.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-clash",
+    "why": "Late 1970s British rebel music that shared their stages."
+   },
+   {
+    "id": "bad-brains",
+    "why": "Hard-edged political music with deep reggae roots."
+   }
+  ]
+ },
+ {
+  "id": "madness",
+  "years": "1976–present",
+  "origin": "London, England",
+  "genres": [
+   "ska",
+   "2 Tone",
+   "pop"
+  ],
+  "summary": "London band whose 'nutty' ska-pop made them one of the biggest British singles acts of the early 1980s.",
+  "know": [
+   "They named themselves after a Prince Buster song.",
+   "Their first single, 'The Prince', was a tribute to Buster released on 2 Tone.",
+   "'Our House' reached the US Top 10 in 1983."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "One Step Beyond...",
+    1979
+   ],
+   [
+    "Absolutely",
+    1980
+   ],
+   [
+    "7",
+    1981
+   ],
+   [
+    "The Rise & Fall",
+    1982
+   ]
+  ],
+  "songs": [
+   "One Step Beyond",
+   "My Girl",
+   "Baggy Trousers",
+   "House of Fun",
+   "Our House"
+  ],
+  "influencedBy": [
+   {
+    "id": "prince-buster",
+    "why": "They took their name from his song and made their name covering 'One Step Beyond'.",
+    "s": 3
+   },
+   {
+    "id": "the-skatalites",
+    "why": "Their horn-driven ska drew on 1960s Jamaican records the Skatalites played on.",
+    "s": 2
+   },
+   {
+    "id": "desmond-dekker",
+    "why": "Rude boy ska hits like Dekker's were core records for the 2 Tone generation.",
+    "s": 1
+   },
+   {
+    "id": "the-kinks",
+    "why": "Their wry songs about everyday London life follow Ray Davies's very English songwriting.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "blur",
+    "why": "Their music-hall humor and London character were a touchstone for Britpop.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-kinks",
+    "why": "Witty, very English songs about ordinary life."
+   },
+   {
+    "id": "the-jam",
+    "why": "Sharp British singles with a mod style."
+   }
+  ]
+ },
+ {
+  "id": "the-beat",
+  "years": "1978–1983",
+  "origin": "Birmingham, England",
+  "genres": [
+   "ska",
+   "2 Tone",
+   "new wave"
+  ],
+  "summary": "Multiracial Birmingham band, known in the US as The English Beat, who mixed ska, pop, soul and reggae toasting into some of 2 Tone's brightest singles.",
+  "know": [
+   "Saxophonist Saxa had played on Jamaican records in the 1960s.",
+   "Ranking Roger added reggae toasting to their songs.",
+   "After the split, members formed General Public and Fine Young Cannibals."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "I Just Can't Stop It",
+    1980
+   ],
+   [
+    "Wha'ppen?",
+    1981
+   ],
+   [
+    "Special Beat Service",
+    1982
+   ]
+  ],
+  "songs": [
+   "Mirror in the Bathroom",
+   "Tears of a Clown",
+   "Hands Off...She's Mine",
+   "Save It for Later",
+   "Ranking Full Stop"
+  ],
+  "influencedBy": [
+   {
+    "id": "prince-buster",
+    "why": "They covered his 'Rough Rider' and drew on his upbeat ska style.",
+    "s": 2
+   },
+   {
+    "id": "smokey-robinson",
+    "why": "Their first hit was a ska cover of 'The Tears of a Clown'.",
+    "s": 2
+   },
+   {
+    "id": "the-skatalites",
+    "why": "Their fast offbeat rhythms come from 1960s Jamaican ska.",
+    "s": 1
+   },
+   {
+    "id": "u-roy",
+    "why": "Ranking Roger's toasting follows the Jamaican deejay style U-Roy created.",
+    "s": 1
+   },
+   {
+    "id": "desmond-dekker",
+    "why": "Rude boy ska hits were a core reference for the band.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-police",
+    "why": "Reggae rhythms blended into punchy new wave."
+   },
+   {
+    "id": "the-clash",
+    "why": "British bands mixing punk energy with Jamaican sounds."
+   }
+  ]
+ },
+ {
+  "id": "ub40",
+  "years": "1978–present",
+  "origin": "Birmingham, England",
+  "genres": [
+   "reggae",
+   "pop reggae",
+   "lovers rock"
+  ],
+  "summary": "Multiracial Birmingham band who began with political reggae and became one of the best-selling reggae acts in the world with smooth pop covers.",
+  "know": [
+   "They named themselves after a British unemployment benefit form.",
+   "'Labour of Love' was an album of reggae covers, including 'Red Red Wine'.",
+   "Their version of '(I Can't Help) Falling in Love with You' was a US number one in 1993."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Signing Off",
+    1980
+   ],
+   [
+    "Present Arms",
+    1981
+   ],
+   [
+    "Labour of Love",
+    1983
+   ],
+   [
+    "Promises and Lies",
+    1993
+   ]
+  ],
+  "songs": [
+   "Food for Thought",
+   "One in Ten",
+   "Red Red Wine",
+   "Kingston Town",
+   "(I Can't Help) Falling in Love with You"
+  ],
+  "influencedBy": [
+   {
+    "id": "jimmy-cliff",
+    "why": "They covered his 'Many Rivers to Cross' on 'Labour of Love'.",
+    "s": 2
+   },
+   {
+    "id": "elvis-presley",
+    "why": "Their biggest US hit was a reggae remake of his 'Can't Help Falling in Love'.",
+    "s": 2
+   },
+   {
+    "id": "bob-marley",
+    "why": "Marley's global reggae inspired the band's founding.",
+    "s": 1
+   },
+   {
+    "id": "steel-pulse",
+    "why": "They came out of the same Birmingham reggae scene Steel Pulse led.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-police",
+    "why": "Reggae rhythms turned into big pop hits."
+   },
+   {
+    "id": "smokey-robinson",
+    "why": "Smooth, easygoing love songs."
+   }
+  ]
+ },
+ {
+  "id": "black-uhuru",
+  "years": "1972–present",
+  "origin": "Kingston, Jamaica",
+  "genres": [
+   "roots reggae",
+   "dancehall",
+   "dub"
+  ],
+  "summary": "Vocal group led in its classic years by Michael Rose, Duckie Simpson and Puma Jones, whose hard, modern roots sound won reggae's first Grammy.",
+  "know": [
+   "Sly and Robbie produced and played on their classic records.",
+   "'Anthem' won the first Grammy for Best Reggae Album.",
+   "Their early 1980s records used electronic drums and heavy effects that pointed toward dancehall."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Showcase",
+    1979
+   ],
+   [
+    "Red",
+    1981
+   ],
+   [
+    "Chill Out",
+    1982
+   ],
+   [
+    "Anthem",
+    1983
+   ]
+  ],
+  "songs": [
+   "Guess Who's Coming to Dinner",
+   "Sponji Reggae",
+   "Shine Eye Gal",
+   "Plastic Smile",
+   "What Is Life?"
+  ],
+  "influencedBy": [
+   {
+    "id": "sly-and-robbie",
+    "why": "They produced the group's classic albums and built its sound.",
+    "s": 3
+   },
+   {
+    "id": "peter-tosh",
+    "why": "His militant roots style shaped their hard-edged message songs.",
+    "s": 1
+   },
+   {
+    "id": "bob-marley",
+    "why": "Marley's success opened the international path they followed on Island.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "public-image-ltd",
+    "why": "Heavy, bass-led music with a cold, modern edge."
+   },
+   {
+    "id": "talking-heads",
+    "why": "Tight, groove-driven songs with an experimental streak."
+   }
+  ]
+ },
+ {
+  "id": "yellowman",
+  "years": "1979–present",
+  "origin": "Kingston, Jamaica",
+  "genres": [
+   "dancehall",
+   "deejay",
+   "reggae"
+  ],
+  "summary": "Winston Foster, the flamboyant deejay who became dancehall's first superstar in the early 1980s and carried it to an international audience.",
+  "know": [
+   "He was the first dancehall deejay signed to a major US label, Columbia.",
+   "Many of his early hits were produced by Henry 'Junjo' Lawes with the Roots Radics.",
+   "The melody of 'Zungguzungguguzungguzeng' has been borrowed by many hip-hop artists."
+  ],
+  "born": "01-15",
+  "keyAlbums": [
+   [
+    "Mister Yellowman",
+    1982
+   ],
+   [
+    "Zungguzungguguzungguzeng",
+    1983
+   ],
+   [
+    "King Yellowman",
+    1984
+   ],
+   [
+    "Nobody Move Nobody Get Hurt",
+    1984
+   ]
+  ],
+  "songs": [
+   "Zungguzungguguzungguzeng",
+   "Mad Over Me",
+   "Nobody Move Nobody Get Hurt",
+   "Mr. Chin",
+   "I'm Getting Married"
+  ],
+  "influencedBy": [
+   {
+    "id": "u-roy",
+    "why": "He followed the deejay path U-Roy opened, talking and chanting over rhythms.",
+    "s": 2
+   },
+   {
+    "id": "scientist",
+    "why": "Scientist mixed many of the Junjo Lawes records that made him a star.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "krs-one",
+    "why": "Boogie Down Productions borrowed the 'Zunguzung' melody for 'The Bridge Is Over'.",
+    "s": 2
+   },
+   {
+    "id": "shabba-ranks",
+    "why": "His crossover success set the path for the next generation of dancehall deejays.",
+    "s": 2
+   },
+   {
+    "id": "beenie-man",
+    "why": "Beenie Man grew up in the dancehall era Yellowman ruled and followed his showman style.",
+    "s": 1
+   },
+   {
+    "id": "shaggy",
+    "why": "His playful, comic deejay style is a root of Shaggy's approach.",
+    "s": 1
+   },
+   {
+    "id": "sean-paul",
+    "why": "He is part of the deejay lineage that led to dancehall's 2000s pop crossover.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "little-richard",
+    "why": "An outrageous, unstoppable showman."
+   },
+   {
+    "id": "slick-rick",
+    "why": "A storytelling MC with humor and swagger."
+   }
+  ]
+ },
+ {
+  "id": "adrian-sherwood",
+  "years": "1975–present",
+  "origin": "London, England",
+  "genres": [
+   "dub",
+   "post-punk",
+   "industrial dub"
+  ],
+  "summary": "British producer and founder of On-U Sound, who fused Jamaican dub with post-punk, industrial and electronic music.",
+  "know": [
+   "He started On-U Sound in 1980, home to African Head Charge, Dub Syndicate and Tackhead.",
+   "He produced Lee 'Scratch' Perry's 'Time Boom X De Devil Dead'.",
+   "He remixed Depeche Mode and Primal Scream, bringing dub techniques to rock and synth-pop."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "My Life in a Hole in the Ground (African Head Charge)",
+    1981
+   ],
+   [
+    "Learning to Cope with Cowardice (Mark Stewart)",
+    1983
+   ],
+   [
+    "Time Boom X De Devil Dead (Lee Perry)",
+    1987
+   ],
+   [
+    "Echo Dek (Primal Scream)",
+    1997
+   ]
+  ],
+  "songs": [
+   "Hypnotised",
+   "What's My Mission Now?",
+   "Human Nature"
+  ],
+  "influencedBy": [
+   {
+    "id": "lee-scratch-perry",
+    "why": "Perry was a longtime friend and collaborator whose albums he produced.",
+    "s": 3
+   },
+   {
+    "id": "king-tubby",
+    "why": "Tubby's dub mixing is the foundation of the On-U sound.",
+    "s": 2
+   },
+   {
+    "id": "augustus-pablo",
+    "why": "1970s Jamaican dub like Pablo's shaped his ideas about space and echo.",
+    "s": 1
+   },
+   {
+    "id": "scientist",
+    "why": "The sharp early 1980s dub mixes of Scientist were part of the scene he learned from.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "primal-scream",
+    "why": "He made 'Echo Dek', a dub version of their 'Vanishing Point'.",
+    "s": 3
+   },
+   {
+    "id": "depeche-mode",
+    "why": "He remixed Depeche Mode in the 1980s, adding dub space to their synth-pop.",
+    "s": 3
+   },
+   {
+    "id": "the-slits",
+    "why": "Ari Up sang in his New Age Steppers project, linking the band to his dub world.",
+    "s": 3
+   },
+   {
+    "id": "massive-attack",
+    "why": "His fusion of dub with post-punk and electronics fed the Bristol sound.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "brian-eno",
+    "why": "A producer who treats the studio as an instrument."
+   },
+   {
+    "id": "conny-plank",
+    "why": "A producer at the meeting point of rock and electronic experiment."
+   }
+  ]
+ },
+ {
+  "id": "shabba-ranks",
+  "years": "1985–present",
+  "origin": "Kingston, Jamaica",
+  "genres": [
+   "dancehall",
+   "ragga"
+  ],
+  "summary": "Deep-voiced deejay Rexton Gordon, who became dancehall's biggest international star in the early 1990s and the first to win a Grammy.",
+  "know": [
+   "'As Raw as Ever' won the Grammy for Best Reggae Album, and 'X-tra Naked' won the next year.",
+   "He recorded with producers Bobby Digital and Steely & Clevie.",
+   "The riddim of his song 'Dem Bow' became the base of the reggaeton beat."
+  ],
+  "born": "01-17",
+  "keyAlbums": [
+   [
+    "Just Reality",
+    1990
+   ],
+   [
+    "Rappin' with the Ladies",
+    1990
+   ],
+   [
+    "As Raw as Ever",
+    1991
+   ],
+   [
+    "X-tra Naked",
+    1992
+   ]
+  ],
+  "songs": [
+   "Mr. Loverman",
+   "Ting-A-Ling",
+   "Trailer Load a Girls",
+   "Dem Bow",
+   "Housecall"
+  ],
+  "influencedBy": [
+   {
+    "id": "yellowman",
+    "why": "Yellowman's success as a star deejay paved the way Shabba followed.",
+    "s": 2
+   },
+   {
+    "id": "u-roy",
+    "why": "He comes from the deejay tradition U-Roy started.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "daddy-yankee",
+    "why": "The 'Dem Bow' rhythm became the backbone of the reggaeton Daddy Yankee took worldwide.",
+    "s": 2
+   },
+   {
+    "id": "bad-bunny",
+    "why": "Reggaeton's dembow beat, which Bad Bunny builds on, traces to Shabba's 'Dem Bow'.",
+    "s": 1
+   },
+   {
+    "id": "sean-paul",
+    "why": "His international dancehall success opened the door Sean Paul walked through.",
+    "s": 2
+   },
+   {
+    "id": "buju-banton",
+    "why": "His gravelly, powerful delivery set the model for the early 1990s deejays who followed.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "krs-one",
+    "why": "A booming MC who joined him on 'The Jam'."
+   },
+   {
+    "id": "ll-cool-j",
+    "why": "A ladies' man rap star with a big crossover."
+   }
+  ]
+ },
+ {
+  "id": "buju-banton",
+  "years": "1987–present",
+  "origin": "Kingston, Jamaica",
+  "genres": [
+   "dancehall",
+   "roots reggae",
+   "ragga"
+  ],
+  "summary": "Mark Myrie, a gravel-voiced deejay who rose as dancehall's hottest act in the early 1990s and then turned toward Rastafari roots reggae.",
+  "know": [
+   "In 1992 he scored a run of Jamaican number one singles that was widely compared to Bob Marley's.",
+   "'Til Shiloh' marked his shift to conscious roots reggae.",
+   "'Before the Dawn' won the Grammy for Best Reggae Album."
+  ],
+  "born": "07-15",
+  "keyAlbums": [
+   [
+    "Mr. Mention",
+    1992
+   ],
+   [
+    "Voice of Jamaica",
+    1993
+   ],
+   [
+    "'Til Shiloh",
+    1995
+   ],
+   [
+    "Before the Dawn",
+    2010
+   ]
+  ],
+  "songs": [
+   "Love Me Browning",
+   "Champion",
+   "Untold Stories",
+   "Destiny",
+   "Not an Easy Road"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-marley",
+    "why": "His turn to roots on 'Til Shiloh' follows Marley's spiritual songwriting.",
+    "s": 2
+   },
+   {
+    "id": "shabba-ranks",
+    "why": "Shabba's deep-voiced dancehall style set the template for his early hits.",
+    "s": 1
+   },
+   {
+    "id": "peter-tosh",
+    "why": "Tosh's hard roots message is part of the tradition he joined.",
+    "s": 1
+   },
+   {
+    "id": "dennis-brown",
+    "why": "He grew up on the roots and lovers singing of Brown's era.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "chronixx",
+    "why": "His move from dancehall to conscious roots helped pave the way for the 2010s roots revival.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "johnny-cash",
+    "why": "A rough, low voice singing about struggle and faith."
+   },
+   {
+    "id": "tupac",
+    "why": "Street-level songs that turned reflective and spiritual."
+   }
+  ]
+ },
+ {
+  "id": "beenie-man",
+  "years": "1981–present",
+  "origin": "Kingston, Jamaica",
+  "genres": [
+   "dancehall",
+   "ragga"
+  ],
+  "summary": "Anthony Davis, the self-styled King of the Dancehall, a child star deejay who became one of the genre's most successful and versatile performers.",
+  "know": [
+   "He began deejaying as a small child and recorded his first album before his teens.",
+   "'Girls Dem Sugar' was produced by The Neptunes and featured Mýa.",
+   "'Art and Life' won the Grammy for Best Reggae Album."
+  ],
+  "born": "08-22",
+  "keyAlbums": [
+   [
+    "Blessed",
+    1995
+   ],
+   [
+    "Maestro",
+    1996
+   ],
+   [
+    "Many Moods of Moses",
+    1997
+   ],
+   [
+    "Art and Life",
+    2000
+   ]
+  ],
+  "songs": [
+   "Who Am I",
+   "Girls Dem Sugar",
+   "Dude",
+   "Street Life",
+   "King of the Dancehall"
+  ],
+  "influencedBy": [
+   {
+    "id": "yellowman",
+    "why": "He grew up in Yellowman's dancehall era and took on his showman's role.",
+    "s": 2
+   },
+   {
+    "id": "shabba-ranks",
+    "why": "Shabba's international success set the stage for his crossover.",
+    "s": 1
+   },
+   {
+    "id": "u-roy",
+    "why": "He comes from the deejay line U-Roy started.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "sean-paul",
+    "why": "His crossover dancehall hits helped open the US market Sean Paul later topped.",
+    "s": 1
+   },
+   {
+    "id": "vybz-kartel",
+    "why": "Kartel came up in the dancehall Beenie Man ruled, and the two had a famous rivalry.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-neptunes",
+    "why": "Producers who met him on a bright, bouncy crossover hit."
+   },
+   {
+    "id": "missy-elliott",
+    "why": "A playful, inventive vocal style over club beats."
+   }
+  ]
+ },
+ {
+  "id": "shaggy",
+  "years": "1991–present",
+  "origin": "Brooklyn, New York",
+  "genres": [
+   "reggae fusion",
+   "dancehall",
+   "pop"
+  ],
+  "summary": "Kingston-born, Brooklyn-raised singer Orville Burrell, whose playful, deep-voiced dancehall pop made him one of reggae's best-selling artists.",
+  "know": [
+   "His breakout was a 1993 cover of 'Oh Carolina'.",
+   "'Boombastic' won the Grammy for Best Reggae Album.",
+   "He later recorded the album '44/876' with Sting, which also won the reggae Grammy."
+  ],
+  "born": "10-22",
+  "keyAlbums": [
+   [
+    "Pure Pleasure",
+    1993
+   ],
+   [
+    "Boombastic",
+    1995
+   ],
+   [
+    "Hot Shot",
+    2000
+   ],
+   [
+    "44/876",
+    2018
+   ]
+  ],
+  "songs": [
+   "Oh Carolina",
+   "Boombastic",
+   "It Wasn't Me",
+   "Angel",
+   "Strength of a Woman"
+  ],
+  "influencedBy": [
+   {
+    "id": "prince-buster",
+    "why": "His first hit remade 'Oh Carolina', which Buster produced.",
+    "s": 2
+   },
+   {
+    "id": "yellowman",
+    "why": "His comic, warm deejay style follows Yellowman's showmanship.",
+    "s": 1
+   },
+   {
+    "id": "shabba-ranks",
+    "why": "Shabba's deep-voiced crossover dancehall set the model for his early hits.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "sean-paul",
+    "why": "His run of global dancehall-pop hits helped open radio to Sean Paul.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-police",
+    "why": "Reggae rhythms turned into worldwide pop, a link that led to his work with Sting."
+   },
+   {
+    "id": "dj-jazzy-jeff-fresh-prince",
+    "why": "Fun, good-natured crossover hits."
+   }
+  ]
+ },
+ {
+  "id": "sean-paul",
+  "years": "1996–present",
+  "origin": "Kingston, Jamaica",
+  "genres": [
+   "dancehall",
+   "reggae fusion",
+   "pop"
+  ],
+  "summary": "Kingston deejay whose quick, catchy flow made dancehall a fixture of 2000s pop radio around the world.",
+  "know": [
+   "'Dutty Rock' won the Grammy for Best Reggae Album.",
+   "'Temperature' reached number one on the Billboard Hot 100.",
+   "He played water polo for Jamaica at the youth level before focusing on music."
+  ],
+  "born": "01-09",
+  "keyAlbums": [
+   [
+    "Stage One",
+    2000
+   ],
+   [
+    "Dutty Rock",
+    2002
+   ],
+   [
+    "The Trinity",
+    2005
+   ],
+   [
+    "Mad Love the Prequel",
+    2018
+   ]
+  ],
+  "songs": [
+   "Get Busy",
+   "I'm Still in Love with You",
+   "Temperature",
+   "Like Glue",
+   "Cheap Thrills"
+  ],
+  "influencedBy": [
+   {
+    "id": "shabba-ranks",
+    "why": "Shabba's international dancehall success was the path he followed.",
+    "s": 2
+   },
+   {
+    "id": "alton-ellis",
+    "why": "He built 'I'm Still in Love with You' on Ellis's rocksteady song.",
+    "s": 2
+   },
+   {
+    "id": "beenie-man",
+    "why": "He came up in the 1990s dancehall Beenie Man led.",
+    "s": 1
+   },
+   {
+    "id": "yellowman",
+    "why": "He is part of the deejay line that runs back through Yellowman.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "beyonce",
+    "why": "His verse on 'Baby Boy' brought a dancehall flow into her early solo work.",
+    "s": 2
+   },
+   {
+    "id": "sia",
+    "why": "He featured on the hit version of 'Cheap Thrills'.",
+    "s": 3
+   },
+   {
+    "id": "rihanna",
+    "why": "His dancehall-pop success helped set up the sound of her early singles.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "daddy-yankee",
+    "why": "A club-music star who took a Caribbean style global."
+   },
+   {
+    "id": "j-balvin",
+    "why": "Laid-back party anthems that crossed over worldwide."
+   }
+  ]
+ },
+ {
+  "id": "damian-marley",
+  "years": "1996–present",
+  "origin": "Kingston, Jamaica",
+  "genres": [
+   "reggae",
+   "dancehall",
+   "hip-hop"
+  ],
+  "summary": "Bob Marley's youngest son, known as Jr. Gong, who blends roots reggae, dancehall toasting and hip-hop into socially focused records.",
+  "know": [
+   "'Welcome to Jamrock' won two Grammy awards.",
+   "He made the joint album 'Distant Relatives' with Nas.",
+   "He was part of the group SuperHeavy with Mick Jagger."
+  ],
+  "born": "07-21",
+  "keyAlbums": [
+   [
+    "Mr. Marley",
+    1996
+   ],
+   [
+    "Halfway Tree",
+    2001
+   ],
+   [
+    "Welcome to Jamrock",
+    2005
+   ],
+   [
+    "Distant Relatives (with Nas)",
+    2010
+   ]
+  ],
+  "songs": [
+   "Welcome to Jamrock",
+   "Road to Zion",
+   "Affairs of the Heart",
+   "Patience",
+   "Set Up Shop"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-marley",
+    "why": "His father's songs and message are the core of his work.",
+    "s": 3
+   },
+   {
+    "id": "sly-and-robbie",
+    "why": "'Welcome to Jamrock' is built on a rhythm from a Sly and Robbie production.",
+    "s": 2
+   },
+   {
+    "id": "burning-spear",
+    "why": "His Africa-centered roots lyrics follow the tradition of Spear.",
+    "s": 1
+   },
+   {
+    "id": "nas",
+    "why": "Nas was a close collaborator, and their joint album blends their styles.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "nas",
+    "why": "Their album 'Distant Relatives' pulled Nas into reggae and African themes.",
+    "s": 3
+   },
+   {
+    "id": "skrillex",
+    "why": "Their song 'Make It Bun Dem' fused dancehall vocals with dubstep.",
+    "s": 2
+   },
+   {
+    "id": "chronixx",
+    "why": "His modern take on roots reggae helped pave the way for the 2010s revival.",
+    "s": 1
+   },
+   {
+    "id": "koffee",
+    "why": "Her quick mix of reggae and hip-hop flow follows his example.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "lauryn-hill",
+    "why": "Conscious music that moves between hip-hop and reggae."
+   },
+   {
+    "id": "fugees",
+    "why": "Hip-hop with deep Caribbean roots."
+   }
+  ]
+ },
+ {
+  "id": "vybz-kartel",
+  "years": "1993–present",
+  "origin": "Portmore, Jamaica",
+  "genres": [
+   "dancehall"
+  ],
+  "summary": "Adidja Palmer, a prolific and inventive deejay who dominated 2000s dancehall and shaped the Caribbean-influenced sound of later pop and rap.",
+  "know": [
+   "He began as a writer and collaborator with dancehall star Bounty Killer.",
+   "He featured on Major Lazer's 'Pon de Floor'.",
+   "'Kingston Story' was made with Brooklyn producer Dre Skull."
+  ],
+  "born": "01-07",
+  "keyAlbums": [
+   [
+    "Up 2 Di Time",
+    2003
+   ],
+   [
+    "Pon Di Gaza 2.0",
+    2010
+   ],
+   [
+    "Kingston Story",
+    2011
+   ],
+   [
+    "King of the Dancehall",
+    2016
+   ]
+  ],
+  "songs": [
+   "Clarks",
+   "Summer Time",
+   "Ever Blessed",
+   "Fever"
+  ],
+  "influencedBy": [
+   {
+    "id": "beenie-man",
+    "why": "He came up in Beenie Man's era, and their rivalry pushed him forward.",
+    "s": 1
+   },
+   {
+    "id": "shabba-ranks",
+    "why": "He is part of the deejay line that Shabba carried to the world.",
+    "s": 1
+   },
+   {
+    "id": "yellowman",
+    "why": "Yellowman's showmanship set the standard for dancehall stars.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "drake",
+    "why": "Drake has openly cited Kartel and borrowed his phrasing and dancehall style.",
+    "s": 2
+   },
+   {
+    "id": "diplo",
+    "why": "His vocal anchored Major Lazer's 'Pon de Floor', a key early Diplo record.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "lil-wayne",
+    "why": "A hugely prolific star who ruled the mixtape era."
+   },
+   {
+    "id": "young-thug",
+    "why": "A melodic, shape-shifting vocal style."
+   }
+  ]
+ },
+ {
+  "id": "chronixx",
+  "years": "2011–present",
+  "origin": "Spanish Town, Jamaica",
+  "genres": [
+   "roots reggae",
+   "reggae revival"
+  ],
+  "summary": "Jamar McNaughton, the leading voice of Jamaica's 2010s reggae revival, who brought conscious roots reggae back to a young audience.",
+  "know": [
+   "He is the son of the reggae singer Chronicle.",
+   "His 2014 EP 'Dread & Terrible' made him a star of the roots revival.",
+   "His album 'Chronology' was nominated for the Grammy for Best Reggae Album."
+  ],
+  "born": "10-10",
+  "keyAlbums": [
+   [
+    "Dread & Terrible",
+    2014
+   ],
+   [
+    "Chronology",
+    2017
+   ]
+  ],
+  "songs": [
+   "Here Comes Trouble",
+   "Smile Jamaica",
+   "Skankin' Sweet",
+   "Ain't No Giving In",
+   "Likes"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-marley",
+    "why": "His positive, spiritual roots songs follow Marley's model.",
+    "s": 2
+   },
+   {
+    "id": "burning-spear",
+    "why": "His chant-like, conscious style draws on 1970s roots singers like Spear.",
+    "s": 1
+   },
+   {
+    "id": "buju-banton",
+    "why": "Buju's turn from dancehall to roots helped shape the revival he led.",
+    "s": 1
+   },
+   {
+    "id": "damian-marley",
+    "why": "Damian's modern roots sound pointed the way for his generation.",
+    "s": 1
+   },
+   {
+    "id": "peter-tosh",
+    "why": "He draws on Tosh's message of equal rights and justice.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "koffee",
+    "why": "She has named him as an influence, and her conscious reggae follows his path.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "lauryn-hill",
+    "why": "Soulful, conscious music with a spiritual core."
+   },
+   {
+    "id": "burna-boy",
+    "why": "Modern music rooted in African and Caribbean tradition."
+   }
+  ]
+ },
+ {
+  "id": "koffee",
+  "years": "2017–present",
+  "origin": "Spanish Town, Jamaica",
+  "genres": [
+   "reggae",
+   "dancehall",
+   "reggae revival"
+  ],
+  "summary": "Mikayla Simpson, a young singer and deejay whose bright, positive reggae made her the first woman to win the Grammy for Best Reggae Album.",
+  "know": [
+   "She first got attention with a tribute song to Usain Bolt.",
+   "'Rapture' won the reggae Grammy when she was 19, making her the youngest winner of the award.",
+   "'Toast' became a worldwide hit in 2019."
+  ],
+  "born": "02-16",
+  "keyAlbums": [
+   [
+    "Rapture",
+    2019
+   ],
+   [
+    "Gifted",
+    2022
+   ]
+  ],
+  "songs": [
+   "Toast",
+   "Burning",
+   "Raggamuffin",
+   "W",
+   "Pull Up"
+  ],
+  "influencedBy": [
+   {
+    "id": "chronixx",
+    "why": "She has named Chronixx as a key influence on her conscious reggae.",
+    "s": 2
+   },
+   {
+    "id": "damian-marley",
+    "why": "Her quick, rap-like flow over reggae follows his example.",
+    "s": 1
+   },
+   {
+    "id": "bob-marley",
+    "why": "She draws on Marley's uplifting, spiritual message.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "little-simz",
+    "why": "A young, sharp voice with a positive message."
+   },
+   {
+    "id": "tems",
+    "why": "A rising star bringing her home sound to the world."
+   }
+  ]
+ }
+]

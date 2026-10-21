@@ -1,0 +1,93 @@
+delia-derbyshire|Delia Derbyshire|1960s|electronic|artist
+wendy-carlos|Wendy Carlos|1960s|electronic|artist
+silver-apples|Silver Apples|1960s|electronic|artist
+tangerine-dream|Tangerine Dream|1970s|electronic|artist
+jean-michel-jarre|Jean-Michel Jarre|1970s|electronic|artist
+klaus-schulze|Klaus Schulze|1970s|electronic|artist
+vangelis|Vangelis|1970s|electronic|artist
+suicide|Suicide|1970s|electronic|artist
+cabaret-voltaire|Cabaret Voltaire|1970s|electronic|artist
+the-human-league|The Human League|1980s|electronic|artist
+gary-numan|Gary Numan|1970s|electronic|artist
+orchestral-manoeuvres-in-the-dark|Orchestral Manoeuvres in the Dark|1980s|electronic|artist
+larry-levan|Larry Levan|1980s|electronic|producer
+marshall-jefferson|Marshall Jefferson|1980s|electronic|producer
+larry-heard|Larry Heard|1980s|electronic|producer
+phuture|Phuture|1980s|electronic|artist
+derrick-may|Derrick May|1980s|electronic|producer
+kevin-saunderson|Kevin Saunderson|1980s|electronic|producer
+jeff-mills|Jeff Mills|1990s|electronic|producer
+underground-resistance|Underground Resistance|1990s|electronic|artist
+carl-craig|Carl Craig|1990s|electronic|producer
+drexciya|Drexciya|1990s|electronic|artist
+richie-hawtin|Richie Hawtin|1990s|electronic|producer
+808-state|808 State|1980s|electronic|artist
+the-orb|The Orb|1990s|electronic|artist
+the-klf|The KLF|1990s|electronic|artist
+orbital|Orbital|1990s|electronic|artist
+underworld|Underworld|1990s|electronic|artist
+leftfield|Leftfield|1990s|electronic|artist
+goldie|Goldie|1990s|electronic|artist
+roni-size|Roni Size|1990s|electronic|artist
+tricky|Tricky|1990s|electronic|artist
+moby|Moby|1990s|electronic|artist
+fatboy-slim|Fatboy Slim|1990s|electronic|artist
+basement-jaxx|Basement Jaxx|1990s|electronic|artist
+autechre|Autechre|1990s|electronic|artist
+boards-of-canada|Boards of Canada|1990s|electronic|artist
+squarepusher|Squarepusher|1990s|electronic|artist
+air|Air|1990s|electronic|artist
+justice|Justice|2000s|electronic|artist
+the-postal-service|The Postal Service|2000s|electronic|artist
+four-tet|Four Tet|2000s|electronic|artist
+caribou|Caribou|2000s|electronic|artist
+deadmau5|deadmau5|2000s|electronic|artist
+skream|Skream|2000s|electronic|producer
+james-blake|James Blake|2010s|electronic|artist
+jamie-xx|Jamie xx|2010s|electronic|artist
+avicii|Avicii|2010s|electronic|artist
+swedish-house-mafia|Swedish House Mafia|2010s|electronic|artist
+calvin-harris|Calvin Harris|2010s|electronic|artist
+david-guetta|David Guetta|2000s|electronic|artist
+diplo|Diplo|2000s|electronic|producer
+flume|Flume|2010s|electronic|artist
+porter-robinson|Porter Robinson|2010s|electronic|artist
+disclosure|Disclosure|2010s|electronic|artist
+bonobo|Bonobo|2000s|electronic|artist
+tiesto|Tiësto|2000s|electronic|artist
+the-chainsmokers|The Chainsmokers|2010s|electronic|artist
+marshmello|Marshmello|2010s|electronic|artist
+thefatrat|TheFatRat|2010s|electronic|artist
+sophie|SOPHIE|2010s|electronic|producer
+the-skatalites|The Skatalites|1960s|reggae|session
+prince-buster|Prince Buster|1960s|reggae|artist
+desmond-dekker|Desmond Dekker|1960s|reggae|artist
+alton-ellis|Alton Ellis|1960s|reggae|artist
+coxsone-dodd|Clement "Coxsone" Dodd|1960s|reggae|producer
+duke-reid|Duke Reid|1960s|reggae|producer
+peter-tosh|Peter Tosh|1970s|reggae|artist
+bunny-wailer|Bunny Wailer|1970s|reggae|artist
+burning-spear|Burning Spear|1970s|reggae|artist
+augustus-pablo|Augustus Pablo|1970s|reggae|artist
+u-roy|U-Roy|1970s|reggae|artist
+gregory-isaacs|Gregory Isaacs|1970s|reggae|artist
+dennis-brown|Dennis Brown|1970s|reggae|artist
+sly-and-robbie|Sly and Robbie|1970s|reggae|session
+scientist|Scientist|1980s|reggae|producer
+linton-kwesi-johnson|Linton Kwesi Johnson|1970s|reggae|artist
+steel-pulse|Steel Pulse|1970s|reggae|artist
+madness|Madness|1970s|reggae|artist
+the-beat|The Beat|1980s|reggae|artist
+ub40|UB40|1980s|reggae|artist
+black-uhuru|Black Uhuru|1980s|reggae|artist
+yellowman|Yellowman|1980s|reggae|artist
+adrian-sherwood|Adrian Sherwood|1980s|reggae|producer
+shabba-ranks|Shabba Ranks|1990s|reggae|artist
+buju-banton|Buju Banton|1990s|reggae|artist
+beenie-man|Beenie Man|1990s|reggae|artist
+shaggy|Shaggy|1990s|reggae|artist
+sean-paul|Sean Paul|2000s|reggae|artist
+damian-marley|Damian Marley|2000s|reggae|artist
+vybz-kartel|Vybz Kartel|2000s|reggae|artist
+chronixx|Chronixx|2010s|reggae|artist
+koffee|Koffee|2010s|reggae|artist

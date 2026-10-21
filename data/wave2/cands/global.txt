@@ -1,0 +1,126 @@
+machito|Machito|1940s|latin|artist
+perez-prado|Pérez Prado|1950s|latin|artist
+eddie-palmieri|Eddie Palmieri|1960s|latin|artist
+willie-colon|Willie Colón|1960s|latin|artist
+hector-lavoe|Héctor Lavoe|1970s|latin|artist
+ruben-blades|Rubén Blades|1970s|latin|artist
+fania-all-stars|Fania All-Stars|1970s|latin|session
+marc-anthony|Marc Anthony|1990s|latin|artist
+buena-vista-social-club|Buena Vista Social Club|1990s|latin|artist
+gloria-estefan|Gloria Estefan|1980s|latin|artist
+los-lobos|Los Lobos|1980s|latin|artist
+astor-piazzolla|Astor Piazzolla|1950s|latin|artist
+carlos-gardel|Carlos Gardel|1920s|latin|artist
+mercedes-sosa|Mercedes Sosa|1960s|latin|artist
+victor-jara|Víctor Jara|1960s|latin|artist
+gilberto-gil|Gilberto Gil|1960s|latin|artist
+jorge-ben-jor|Jorge Ben Jor|1960s|latin|artist
+milton-nascimento|Milton Nascimento|1970s|latin|artist
+elis-regina|Elis Regina|1960s|latin|artist
+tom-ze|Tom Zé|1960s|latin|artist
+tim-maia|Tim Maia|1970s|latin|artist
+sergio-mendes|Sérgio Mendes|1960s|latin|artist
+astrud-gilberto|Astrud Gilberto|1960s|latin|artist
+anitta|Anitta|2010s|latin|artist
+soda-stereo|Soda Stereo|1980s|latin|artist
+gustavo-cerati|Gustavo Cerati|1990s|latin|artist
+cafe-tacvba|Café Tacvba|1990s|latin|artist
+mana|Maná|1990s|latin|artist
+los-fabulosos-cadillacs|Los Fabulosos Cadillacs|1980s|latin|artist
+charly-garcia|Charly García|1970s|latin|artist
+manu-chao|Manu Chao|1990s|latin|artist
+natalia-lafourcade|Natalia Lafourcade|2000s|latin|artist
+juanes|Juanes|2000s|latin|artist
+calle-13|Calle 13|2000s|latin|artist
+tego-calderon|Tego Calderón|2000s|latin|artist
+don-omar|Don Omar|2000s|latin|artist
+wisin-y-yandel|Wisin & Yandel|2000s|latin|artist
+ivy-queen|Ivy Queen|2000s|latin|artist
+j-balvin|J Balvin|2010s|latin|artist
+maluma|Maluma|2010s|latin|artist
+karol-g|Karol G|2010s|latin|artist
+rauw-alejandro|Rauw Alejandro|2020s|latin|artist
+tainy|Tainy|2010s|latin|producer
+bizarrap|Bizarrap|2020s|latin|producer
+peso-pluma|Peso Pluma|2020s|latin|artist
+natanael-cano|Natanael Cano|2020s|latin|artist
+chalino-sanchez|Chalino Sánchez|1980s|latin|artist
+los-tigres-del-norte|Los Tigres del Norte|1970s|latin|artist
+vicente-fernandez|Vicente Fernández|1970s|latin|artist
+jose-alfredo-jimenez|José Alfredo Jiménez|1950s|latin|artist
+juan-gabriel|Juan Gabriel|1970s|latin|artist
+luis-miguel|Luis Miguel|1980s|latin|artist
+ricky-martin|Ricky Martin|1990s|latin|artist
+paco-de-lucia|Paco de Lucía|1970s|latin|artist
+camaron-de-la-isla|Camarón de la Isla|1970s|latin|artist
+juan-luis-guerra|Juan Luis Guerra|1980s|latin|artist
+romeo-santos|Romeo Santos|2000s|latin|artist
+bomba-estereo|Bomba Estéreo|2010s|latin|artist
+king-sunny-ade|King Sunny Adé|1970s|global|artist
+tony-allen|Tony Allen|1970s|global|artist
+franco-tpok-jazz|Franco & TPOK Jazz|1960s|global|artist
+miriam-makeba|Miriam Makeba|1960s|global|artist
+hugh-masekela|Hugh Masekela|1960s|global|artist
+ladysmith-black-mambazo|Ladysmith Black Mambazo|1970s|global|artist
+youssou-ndour|Youssou N'Dour|1980s|global|artist
+salif-keita|Salif Keita|1980s|global|artist
+ali-farka-toure|Ali Farka Touré|1980s|global|artist
+tinariwen|Tinariwen|2000s|global|artist
+mulatu-astatke|Mulatu Astatke|1970s|global|artist
+angelique-kidjo|Angélique Kidjo|1990s|global|artist
+wizkid|Wizkid|2010s|global|artist
+davido|Davido|2010s|global|artist
+tems|Tems|2020s|global|artist
+rema|Rema|2020s|global|artist
+tyla|Tyla|2020s|global|artist
+kabza-de-small|Kabza De Small|2010s|global|producer
+black-coffee|Black Coffee|2010s|global|producer
+seo-taiji-and-boys|Seo Taiji and Boys|1990s|global|artist
+big-bang|Big Bang|2000s|global|artist
+psy|Psy|2010s|global|artist
+bts|BTS|2010s|global|artist
+blackpink|Blackpink|2010s|global|artist
+newjeans|NewJeans|2020s|global|artist
+ryuichi-sakamoto|Ryuichi Sakamoto|1980s|global|artist
+happy-end|Happy End|1970s|global|artist
+tatsuro-yamashita|Tatsuro Yamashita|1970s|global|artist
+haruomi-hosono|Haruomi Hosono|1970s|global|artist
+x-japan|X Japan|1980s|global|artist
+boredoms|Boredoms|1980s|global|artist
+utada-hikaru|Utada Hikaru|1990s|global|artist
+babymetal|Babymetal|2010s|global|artist
+yoasobi|Yoasobi|2020s|global|artist
+r-d-burman|R.D. Burman|1960s|global|artist
+lata-mangeshkar|Lata Mangeshkar|1940s|global|artist
+asha-bhosle|Asha Bhosle|1950s|global|artist
+mohammed-rafi|Mohammed Rafi|1950s|global|artist
+a-r-rahman|A.R. Rahman|1990s|global|artist
+ilaiyaraaja|Ilaiyaraaja|1970s|global|artist
+nusrat-fateh-ali-khan|Nusrat Fateh Ali Khan|1980s|global|artist
+umm-kulthum|Umm Kulthum|1930s|global|artist
+fairuz|Fairuz|1950s|global|artist
+cheb-khaled|Khaled|1980s|global|artist
+rachid-taha|Rachid Taha|1980s|global|artist
+ofra-haza|Ofra Haza|1980s|global|artist
+edith-piaf|Édith Piaf|1940s|global|artist
+jacques-brel|Jacques Brel|1950s|global|artist
+serge-gainsbourg|Serge Gainsbourg|1960s|global|artist
+francoise-hardy|Françoise Hardy|1960s|global|artist
+stromae|Stromae|2010s|global|artist
+neu|Neu!|1970s|global|artist
+faust|Faust|1970s|global|artist
+tangerine-dream|Tangerine Dream|1970s|global|artist
+harmonia|Harmonia|1970s|global|artist
+conny-plank|Conny Plank|1970s|global|producer
+popol-vuh|Popol Vuh|1970s|global|artist
+rammstein|Rammstein|1990s|global|artist
+sugarcubes|The Sugarcubes|1980s|global|artist
+sigur-ros|Sigur Rós|1990s|global|artist
+olafur-arnalds|Ólafur Arnalds|2000s|global|artist
+royksopp|Röyksopp|2000s|global|artist
+the-knife|The Knife|2000s|global|artist
+the-chieftains|The Chieftains|1960s|global|artist
+clannad|Clannad|1970s|global|artist
+the-dubliners|The Dubliners|1960s|global|artist
+enya|Enya|1980s|global|artist
+the-pogues|The Pogues|1980s|global|artist

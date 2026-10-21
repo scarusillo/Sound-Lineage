@@ -1,0 +1,132 @@
+halsey|Halsey|2010s|pop|artist
+shawn-mendes|Shawn Mendes|2010s|pop|artist
+camila-cabello|Camila Cabello|2010s|pop|artist
+lizzo|Lizzo|2010s|pop|artist
+doja-cat|Doja Cat|2010s|pop|artist
+troye-sivan|Troye Sivan|2010s|pop|artist
+lewis-capaldi|Lewis Capaldi|2010s|pop|artist
+caroline-polachek|Caroline Polachek|2010s|pop|artist
+joji|Joji|2010s|pop|artist
+rex-orange-county|Rex Orange County|2010s|pop|artist
+conan-gray|Conan Gray|2020s|pop|artist
+gracie-abrams|Gracie Abrams|2020s|pop|artist
+raye|Raye|2020s|pop|artist
+rina-sawayama|Rina Sawayama|2020s|pop|artist
+pinkpantheress|PinkPantheress|2020s|pop|artist
+twenty-one-pilots|Twenty One Pilots|2010s|alt|artist
+mitski|Mitski|2010s|alt|artist
+japanese-breakfast|Japanese Breakfast|2010s|alt|artist
+snail-mail|Snail Mail|2010s|alt|artist
+big-thief|Big Thief|2010s|alt|artist
+alvvays|Alvvays|2010s|alt|artist
+car-seat-headrest|Car Seat Headrest|2010s|alt|artist
+courtney-barnett|Courtney Barnett|2010s|alt|artist
+waxahatchee|Waxahatchee|2010s|alt|artist
+boygenius|boygenius|2010s|alt|artist
+lucy-dacus|Lucy Dacus|2010s|alt|artist
+alex-g|Alex G|2010s|alt|artist
+black-midi|Black Midi|2010s|alt|artist
+clairo|Clairo|2010s|alt|artist
+beabadoobee|beabadoobee|2020s|alt|artist
+wet-leg|Wet Leg|2020s|alt|artist
+black-country-new-road|Black Country, New Road|2020s|alt|artist
+turnstile|Turnstile|2020s|alt|artist
+mj-lenderman|MJ Lenderman|2020s|alt|artist
+ethel-cain|Ethel Cain|2020s|alt|artist
+geese|Geese|2020s|alt|artist
+mk-gee|Mk.gee|2020s|alt|artist
+yungblud|Yungblud|2010s|rock|artist
+maneskin|Måneskin|2020s|rock|artist
+christone-kingfish-ingram|Christone "Kingfish" Ingram|2010s|blues|artist
+sleep-token|Sleep Token|2020s|metal|artist
+spiritbox|Spiritbox|2020s|metal|artist
+bad-omens|Bad Omens|2020s|metal|artist
+cardi-b|Cardi B|2010s|hiphop|artist
+megan-thee-stallion|Megan Thee Stallion|2010s|hiphop|artist
+post-malone|Post Malone|2010s|hiphop|artist
+21-savage|21 Savage|2010s|hiphop|artist
+lil-baby|Lil Baby|2010s|hiphop|artist
+juice-wrld|Juice WRLD|2010s|hiphop|artist
+xxxtentacion|XXXTentacion|2010s|hiphop|artist
+lil-peep|Lil Peep|2010s|hiphop|artist
+youngboy-never-broke-again|YoungBoy Never Broke Again|2010s|hiphop|artist
+lil-nas-x|Lil Nas X|2010s|hiphop|artist
+denzel-curry|Denzel Curry|2010s|hiphop|artist
+jid|JID|2010s|hiphop|artist
+vince-staples|Vince Staples|2010s|hiphop|artist
+noname|Noname|2010s|hiphop|artist
+brockhampton|Brockhampton|2010s|hiphop|artist
+tierra-whack|Tierra Whack|2010s|hiphop|artist
+jpegmafia|JPEGMAFIA|2010s|hiphop|artist
+billy-woods|billy woods|2010s|hiphop|artist
+westside-gunn|Westside Gunn|2010s|hiphop|artist
+stormzy|Stormzy|2010s|hiphop|artist
+dave|Dave|2010s|hiphop|artist
+little-simz|Little Simz|2010s|hiphop|artist
+central-cee|Central Cee|2020s|hiphop|artist
+king-von|King Von|2020s|hiphop|artist
+ice-spice|Ice Spice|2020s|hiphop|artist
+glorilla|GloRilla|2020s|hiphop|artist
+jack-harlow|Jack Harlow|2020s|hiphop|artist
+baby-keem|Baby Keem|2020s|hiphop|artist
+yeat|Yeat|2020s|hiphop|artist
+metro-boomin|Metro Boomin|2010s|hiphop|producer
+kenny-beats|Kenny Beats|2010s|hiphop|producer
+pierre-bourne|Pi'erre Bourne|2010s|hiphop|producer
+h-e-r|H.E.R.|2010s|soul|artist
+daniel-caesar|Daniel Caesar|2010s|soul|artist
+summer-walker|Summer Walker|2010s|soul|artist
+brent-faiyaz|Brent Faiyaz|2010s|soul|artist
+bryson-tiller|Bryson Tiller|2010s|soul|artist
+partynextdoor|PartyNextDoor|2010s|soul|artist
+khalid|Khalid|2010s|soul|artist
+jorja-smith|Jorja Smith|2010s|soul|artist
+kali-uchis|Kali Uchis|2010s|soul|artist
+steve-lacy|Steve Lacy|2010s|soul|artist
+sampha|Sampha|2010s|soul|artist
+moses-sumney|Moses Sumney|2010s|soul|artist
+sault|Sault|2010s|soul|artist
+michael-kiwanuka|Michael Kiwanuka|2010s|soul|artist
+black-pumas|Black Pumas|2010s|soul|artist
+nathaniel-rateliff-and-the-night-sweats|Nathaniel Rateliff & the Night Sweats|2010s|soul|artist
+giveon|Giveon|2020s|soul|artist
+victoria-monet|Victoria Monét|2020s|soul|artist
+omar-apollo|Omar Apollo|2020s|soul|artist
+dijon|Dijon|2020s|soul|artist
+luke-combs|Luke Combs|2010s|country|artist
+kane-brown|Kane Brown|2010s|country|artist
+maren-morris|Maren Morris|2010s|country|artist
+margo-price|Margo Price|2010s|country|artist
+colter-wall|Colter Wall|2010s|country|artist
+charley-crockett|Charley Crockett|2010s|country|artist
+orville-peck|Orville Peck|2010s|country|artist
+billy-strings|Billy Strings|2010s|country|artist
+dave-cobb|Dave Cobb|2010s|country|producer
+lainey-wilson|Lainey Wilson|2020s|country|artist
+jelly-roll|Jelly Roll|2020s|country|artist
+shaboozey|Shaboozey|2020s|country|artist
+sierra-ferrell|Sierra Ferrell|2020s|country|artist
+father-john-misty|Father John Misty|2010s|folk|artist
+weyes-blood|Weyes Blood|2010s|folk|artist
+rhiannon-giddens|Rhiannon Giddens|2010s|folk|artist
+aaron-dessner|Aaron Dessner|2020s|folk|producer
+flume|Flume|2010s|electronic|artist
+kaytranada|Kaytranada|2010s|electronic|artist
+porter-robinson|Porter Robinson|2010s|electronic|artist
+marshmello|Marshmello|2010s|electronic|artist
+the-chainsmokers|The Chainsmokers|2010s|electronic|artist
+jamie-xx|Jamie xx|2010s|electronic|artist
+bicep|Bicep|2010s|electronic|artist
+peggy-gou|Peggy Gou|2010s|electronic|artist
+sophie|SOPHIE|2010s|electronic|artist
+arca|Arca|2010s|electronic|artist
+100-gecs|100 gecs|2010s|electronic|artist
+bladee|Bladee|2010s|electronic|artist
+a-g-cook|A. G. Cook|2010s|electronic|producer
+jack-antonoff|Jack Antonoff|2010s|pop|producer
+finneas|Finneas|2010s|pop|producer
+dan-nigro|Dan Nigro|2020s|pop|producer
+thundercat|Thundercat|2010s|jazz|artist
+jacob-collier|Jacob Collier|2010s|jazz|artist
+samara-joy|Samara Joy|2020s|jazz|artist
+laufey|Laufey|2020s|jazz|artist

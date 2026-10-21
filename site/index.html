@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="description" content="A music family tree from 1900 to now: who influenced whom, album lineages, sample trails and daily picks.">
+<meta name="description" content="A music family tree from 1900 to now: who influenced whom, album lineages, sample trails, music scenes and daily picks.">
 <title>Sound Lineage</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -41,13 +41,15 @@
     <div class="map-head">
       <div>
         <h1>A century of music, and who shaped whom</h1>
-        <p class="lede">Time runs left to right, from ragtime to now. Each genre has its own lane around the timeline. Drag to turn it, scroll or pinch to zoom, tap an artist to see their influences flow in and their legacy flow out.</p>
+        <p class="lede" id="maplede">Time runs left to right, from ragtime to now. Each genre has its own lane around the timeline. Drag to turn it, scroll or pinch to zoom, tap an artist to see their influences flow in and their legacy flow out.</p>
       </div>
-      <div class="seg" role="group" aria-label="Map style"><button data-mapmode="3d">3D</button><button data-mapmode="flat">Flat</button></div>
+      <div class="seg" role="group" aria-label="Map style"><button data-mapmode="3d">3D</button><button data-mapmode="flat">Flat</button><button data-mapmode="cities">Cities</button></div>
     </div>
     <div class="map-wrap" id="mapwrap">
       <div id="graph3d" class="g3d" hidden></div>
       <canvas id="graph" aria-label="Network map of musical influence" hidden></canvas>
+      <canvas id="citymap" aria-label="World map of music cities" hidden></canvas>
+      <p class="citynote" id="citynote" hidden></p>
       <div id="labels" class="labels" aria-hidden="true"></div>
       <div class="map-tools">
         <button id="zin" aria-label="Zoom in">+</button>
@@ -64,6 +66,7 @@
       <div class="bigyear mono" id="bigyear" hidden></div>
     </div>
     <div class="map-filter" id="mapfilter" role="group" aria-label="Show genres"></div>
+    <div class="map-filter scenes" id="scenes" role="group" aria-label="Music scenes" hidden></div>
   </section>
   <section id="view-tree" class="view" hidden></section>
   <section id="view-journeys" class="view" hidden></section>
@@ -83,11 +86,13 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/3d-force-graph@1.80.0/dist/3d-force-graph.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
 <script src="games.js"></script>
 <script src="today.js"></script>
 <script src="spotify.js"></script>
 <script src="you.js"></script>
 <script src="tree.js"></script>
+<script src="cities.js"></script>
 <script src="map.js"></script>
 <script src="app.js"></script>
 </body>

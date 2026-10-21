@@ -1,0 +1,4703 @@
+[
+ {
+  "id": "hole",
+  "years": "1989–2012",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "grunge",
+   "alternative rock",
+   "punk rock"
+  ],
+  "summary": "Courtney Love's band moved from abrasive noise rock to big, melodic grunge, and Live Through This became one of the defining rock albums of the 1990s.",
+  "know": [
+   "Their 1991 debut Pretty on the Inside was produced by Kim Gordon of Sonic Youth and Don Fleming.",
+   "Live Through This came out on DGC in 1994 and went platinum.",
+   "Billy Corgan co-wrote several songs on Celebrity Skin, their most polished record."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Pretty on the Inside",
+    1991
+   ],
+   [
+    "Live Through This",
+    1994
+   ],
+   [
+    "Celebrity Skin",
+    1998
+   ]
+  ],
+  "songs": [
+   "Violet",
+   "Doll Parts",
+   "Miss World",
+   "Celebrity Skin",
+   "Malibu"
+  ],
+  "influencedBy": [
+   {
+    "id": "sonic-youth",
+    "why": "Kim Gordon produced their debut and steered its raw, noisy sound.",
+    "s": 3
+   },
+   {
+    "id": "smashing-pumpkins",
+    "why": "Billy Corgan co-wrote much of Celebrity Skin and pushed it toward glossy hooks.",
+    "s": 3
+   },
+   {
+    "id": "pixies",
+    "why": "Their loud-quiet dynamics shaped the structure of Hole's best known songs.",
+    "s": 2
+   },
+   {
+    "id": "echo-and-the-bunnymen",
+    "why": "Courtney Love spent time in the Liverpool post-punk scene and often named the band as a touchstone.",
+    "s": 2
+   },
+   {
+    "id": "the-germs",
+    "why": "The chaotic LA punk of the Germs is part of the band's local roots.",
+    "s": 1
+   },
+   {
+    "id": "patti-smith",
+    "why": "Love's confrontational poet-rocker stance follows the path Patti Smith opened.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "olivia-rodrigo",
+    "why": "Her guitar-driven, scorned-but-tuneful rock songs echo the Live Through This blueprint.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "joan-jett-and-the-blackhearts",
+    "why": "A tough female-fronted rock band built on loud guitars and attitude."
+   },
+   {
+    "id": "janis-joplin",
+    "why": "A raw, cracked lead voice that sounds like it is giving everything."
+   }
+  ]
+ },
+ {
+  "id": "l7",
+  "years": "1985–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "grunge",
+   "punk rock",
+   "alternative metal"
+  ],
+  "summary": "An all-female LA band that mixed punk speed with heavy, sludgy riffs and became a fixture of the early 1990s grunge boom.",
+  "know": [
+   "Donita Sparks and Suzi Gardner founded the band in Los Angeles in 1985.",
+   "Their second album, Smell the Magic, came out on Seattle's Sub Pop label.",
+   "Bricks Are Heavy was produced by Butch Vig and contained their best known single, Pretend We're Dead."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "L7",
+    1988
+   ],
+   [
+    "Smell the Magic",
+    1990
+   ],
+   [
+    "Bricks Are Heavy",
+    1992
+   ],
+   [
+    "Hungry for Stink",
+    1994
+   ]
+  ],
+  "songs": [
+   "Pretend We're Dead",
+   "Andres",
+   "Fast and Frightening",
+   "Monster",
+   "Everglade"
+  ],
+  "influencedBy": [
+   {
+    "id": "butch-vig",
+    "why": "Produced Bricks Are Heavy and gave their sludge a tight, radio-ready punch.",
+    "s": 3
+   },
+   {
+    "id": "ramones",
+    "why": "Their fast, short, catchy punk songs are the base of L7's songwriting.",
+    "s": 2
+   },
+   {
+    "id": "the-runaways",
+    "why": "The earlier LA all-female hard rock band is the obvious model for L7.",
+    "s": 2
+   },
+   {
+    "id": "black-sabbath",
+    "why": "The slow, heavy downtuned riffs on their records come from Sabbath.",
+    "s": 1
+   },
+   {
+    "id": "melvins",
+    "why": "Shared the sludgy, heavy end of the Pacific Northwest and LA underground.",
+    "s": 1
+   },
+   {
+    "id": "motorhead",
+    "why": "Loud, fast, unpolished hard rock with a punk attitude.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "motorhead",
+    "why": "Fast, loud riffs that sit right between punk and metal."
+   },
+   {
+    "id": "the-runaways",
+    "why": "A hard rocking all-female band from Los Angeles."
+   }
+  ]
+ },
+ {
+  "id": "bikini-kill",
+  "years": "1990–present",
+  "origin": "Olympia, Washington",
+  "genres": [
+   "riot grrrl",
+   "punk rock",
+   "hardcore punk"
+  ],
+  "summary": "The leading band of the riot grrrl movement, Bikini Kill paired raw punk with feminist politics and a do-it-yourself network of zines and shows.",
+  "know": [
+   "Kathleen Hanna, Tobi Vail, Kathi Wilcox and Billy Karren formed the band in Olympia in 1990.",
+   "Joan Jett produced their single Rebel Girl.",
+   "A phrase Hanna wrote on a wall gave Nirvana the title Smells Like Teen Spirit."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Revolution Girl Style Now!",
+    1991
+   ],
+   [
+    "Bikini Kill",
+    1992
+   ],
+   [
+    "Pussy Whipped",
+    1993
+   ],
+   [
+    "Reject All American",
+    1996
+   ]
+  ],
+  "songs": [
+   "Rebel Girl",
+   "Double Dare Ya",
+   "Feels Blind",
+   "Alien She"
+  ],
+  "influencedBy": [
+   {
+    "id": "joan-jett-and-the-blackhearts",
+    "why": "Joan Jett produced Rebel Girl and mentored the band.",
+    "s": 3
+   },
+   {
+    "id": "fugazi",
+    "why": "Ian MacKaye recorded their self-titled EP and modeled the DIY ethic they followed.",
+    "s": 3
+   },
+   {
+    "id": "x-ray-spex",
+    "why": "Poly Styrene's shouted, female-led punk is a direct ancestor of riot grrrl.",
+    "s": 2
+   },
+   {
+    "id": "the-slits",
+    "why": "An all-female punk band that showed women could build their own scene.",
+    "s": 2
+   },
+   {
+    "id": "black-flag",
+    "why": "Hardcore's raw, fast sound underpins their early records.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "sleater-kinney",
+    "why": "Grew directly out of the riot grrrl scene Bikini Kill led in Olympia.",
+    "s": 2
+   },
+   {
+    "id": "nirvana",
+    "why": "Hanna's wall writing gave Smells Like Teen Spirit its title, and Tobi Vail was close to Kurt Cobain.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-runaways",
+    "why": "A loud, young all-female band that refused to play nice."
+   },
+   {
+    "id": "ani-difranco",
+    "why": "A fiercely independent artist who ran her own label and sang about politics."
+   }
+  ]
+ },
+ {
+  "id": "sleater-kinney",
+  "years": "1994–present",
+  "origin": "Olympia, Washington",
+  "genres": [
+   "punk rock",
+   "riot grrrl",
+   "indie rock"
+  ],
+  "summary": "A trio that turned riot grrrl into sharp, interlocking guitar rock and became one of the most acclaimed American rock bands of their era.",
+  "know": [
+   "For most of their career they used two guitars and drums with no bass player.",
+   "Corin Tucker and Carrie Brownstein trade and overlap lead vocals.",
+   "Dave Fridmann produced The Woods in 2005, their loudest and heaviest album."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Call the Doctor",
+    1996
+   ],
+   [
+    "Dig Me Out",
+    1997
+   ],
+   [
+    "The Woods",
+    2005
+   ],
+   [
+    "No Cities to Love",
+    2015
+   ]
+  ],
+  "songs": [
+   "Dig Me Out",
+   "One More Hour",
+   "Words and Guitar",
+   "Entertain",
+   "Jumpers"
+  ],
+  "influencedBy": [
+   {
+    "id": "bikini-kill",
+    "why": "Came out of the Olympia riot grrrl scene that Bikini Kill led.",
+    "s": 2
+   },
+   {
+    "id": "patti-smith",
+    "why": "Tucker and Brownstein have named Patti Smith as a model for their stance and voice.",
+    "s": 2
+   },
+   {
+    "id": "sonic-youth",
+    "why": "Their angular guitar interplay draws on Sonic Youth's approach.",
+    "s": 2
+   },
+   {
+    "id": "wire",
+    "why": "The terse, wiry post-punk guitar parts show a Wire influence.",
+    "s": 1
+   },
+   {
+    "id": "gang-of-four",
+    "why": "Choppy, rhythmic guitars and political edge.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-who",
+    "why": "Big, kinetic guitar rock with a drummer who never sits still."
+   },
+   {
+    "id": "joan-jett-and-the-blackhearts",
+    "why": "Loud, direct rock with a strong female lead."
+   }
+  ]
+ },
+ {
+  "id": "slowdive",
+  "years": "1989–present",
+  "origin": "Reading, England",
+  "genres": [
+   "shoegaze",
+   "dream pop",
+   "ambient"
+  ],
+  "summary": "Slowdive made washed-out, reverb-heavy guitar music that was ignored at the time and later became one of the most loved shoegaze catalogs.",
+  "know": [
+   "Brian Eno co-wrote and played on two songs on Souvlaki.",
+   "They were signed to Creation Records, also home to My Bloody Valentine and Ride.",
+   "After the split Neil Halstead and Rachel Goswell formed Mojave 3, then Slowdive returned with a new album in 2017."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Just for a Day",
+    1991
+   ],
+   [
+    "Souvlaki",
+    1993
+   ],
+   [
+    "Pygmalion",
+    1995
+   ],
+   [
+    "Slowdive",
+    2017
+   ]
+  ],
+  "songs": [
+   "Alison",
+   "When the Sun Hits",
+   "Catch the Breeze",
+   "Souvlaki Space Station",
+   "Sugar for the Pill"
+  ],
+  "influencedBy": [
+   {
+    "id": "brian-eno",
+    "why": "Worked with them on Souvlaki and fed their move toward ambient textures.",
+    "s": 3
+   },
+   {
+    "id": "cocteau-twins",
+    "why": "Their blurred, airy vocals and guitar haze are a clear model.",
+    "s": 2
+   },
+   {
+    "id": "my-bloody-valentine",
+    "why": "The defining shoegaze band whose sound Slowdive grew from.",
+    "s": 2
+   },
+   {
+    "id": "the-cure",
+    "why": "The band has named the Cure's moody, chorus-drenched guitars as an early love.",
+    "s": 2
+   },
+   {
+    "id": "the-jesus-and-mary-chain",
+    "why": "Pop melodies buried in guitar noise.",
+    "s": 1
+   },
+   {
+    "id": "spacemen-3",
+    "why": "Slow, droning, hypnotic guitar music.",
+    "s": 1
+   },
+   {
+    "id": "galaxie-500",
+    "why": "Slow tempos and dreamy, minimal arrangements.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "deafheaven",
+    "why": "Deafheaven have openly cited Slowdive and fused their shimmer with black metal.",
+    "s": 2
+   },
+   {
+    "id": "deerhunter",
+    "why": "Their ambient-leaning guitar haze follows Slowdive's lead.",
+    "s": 1
+   },
+   {
+    "id": "alvvays",
+    "why": "Their fuzzy, sweet guitar pop draws on early 1990s shoegaze like Slowdive.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "boards-of-canada",
+    "why": "Hazy, warm, slightly blurred music that feels like a memory."
+   },
+   {
+    "id": "olafur-arnalds",
+    "why": "Slow, glowing music built for drifting."
+   }
+  ]
+ },
+ {
+  "id": "ride",
+  "years": "1988–present",
+  "origin": "Oxford, England",
+  "genres": [
+   "shoegaze",
+   "alternative rock",
+   "Britpop"
+  ],
+  "summary": "Ride combined shoegaze noise with strong melodies and harmonies, then moved toward 1960s-style rock as Britpop took over.",
+  "know": [
+   "Their debut Nowhere came out on Creation Records in 1990.",
+   "Guitarist Andy Bell later played bass in Oasis.",
+   "The band reunited in 2014 and released Weather Diaries in 2017."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Nowhere",
+    1990
+   ],
+   [
+    "Going Blank Again",
+    1992
+   ],
+   [
+    "Carnival of Light",
+    1994
+   ],
+   [
+    "Weather Diaries",
+    2017
+   ]
+  ],
+  "songs": [
+   "Vapour Trail",
+   "Leave Them All Behind",
+   "Taste",
+   "Twisterella",
+   "Seagull"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-jesus-and-mary-chain",
+    "why": "Pop songs drenched in feedback were the starting point for their sound.",
+    "s": 2
+   },
+   {
+    "id": "my-bloody-valentine",
+    "why": "The Creation Records labelmates set the template for shoegaze.",
+    "s": 2
+   },
+   {
+    "id": "the-byrds",
+    "why": "Their chiming twelve-string guitars and close harmonies run through Ride's songs.",
+    "s": 2
+   },
+   {
+    "id": "the-stone-roses",
+    "why": "Shared the late 1980s British mix of jangle and psychedelia.",
+    "s": 1
+   },
+   {
+    "id": "the-beatles",
+    "why": "Their harmonies and later mod-rock turn lean on 1960s British pop.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-byrds",
+    "why": "Ringing guitars and stacked harmonies."
+   },
+   {
+    "id": "the-beach-boys",
+    "why": "Layered vocal harmonies over a dreamy wall of sound."
+   }
+  ]
+ },
+ {
+  "id": "lush",
+  "years": "1987–2016",
+  "origin": "London, England",
+  "genres": [
+   "shoegaze",
+   "dream pop",
+   "Britpop"
+  ],
+  "summary": "A 4AD band led by Miki Berenyi and Emma Anderson whose sweet vocals floated over swirling guitars, later turning to sharper Britpop songs.",
+  "know": [
+   "They were signed to 4AD, the label of Cocteau Twins.",
+   "Robin Guthrie of Cocteau Twins produced their first full album, Spooky.",
+   "Lovelife in 1996 gave them their biggest UK hits, including Ladykillers."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Gala",
+    1990
+   ],
+   [
+    "Spooky",
+    1992
+   ],
+   [
+    "Split",
+    1994
+   ],
+   [
+    "Lovelife",
+    1996
+   ]
+  ],
+  "songs": [
+   "Sweetness and Light",
+   "De-Luxe",
+   "For Love",
+   "Ladykillers",
+   "Single Girl"
+  ],
+  "influencedBy": [
+   {
+    "id": "cocteau-twins",
+    "why": "Robin Guthrie produced Spooky and gave it his signature shimmer.",
+    "s": 3
+   },
+   {
+    "id": "the-jesus-and-mary-chain",
+    "why": "Melody pushed through layers of guitar noise.",
+    "s": 1
+   },
+   {
+    "id": "my-bloody-valentine",
+    "why": "Shared the swirling, blurred guitar sound of early shoegaze.",
+    "s": 1
+   },
+   {
+    "id": "siouxsie",
+    "why": "A strong female-led British post-punk tradition they grew from.",
+    "s": 1
+   },
+   {
+    "id": "buzzcocks",
+    "why": "The punchy pop songwriting that surfaced on Lovelife.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "kate-bush",
+    "why": "Ethereal, inventive female-led British pop."
+   },
+   {
+    "id": "the-byrds",
+    "why": "Jangly, ringing guitar pop with sweet harmonies."
+   }
+  ]
+ },
+ {
+  "id": "mazzy-star",
+  "years": "1988–present",
+  "origin": "Santa Monica, California",
+  "genres": [
+   "dream pop",
+   "psychedelic folk",
+   "slowcore"
+  ],
+  "summary": "David Roback and Hope Sandoval made slow, hazy, blues-tinged psychedelia, and Fade Into You became an unlikely 1990s hit.",
+  "know": [
+   "The band grew out of Opal, Roback's earlier group with Kendra Smith.",
+   "Fade Into You reached the US top 50 in 1994.",
+   "Hope Sandoval later sang on Massive Attack's Paradise Circus."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "She Hangs Brightly",
+    1990
+   ],
+   [
+    "So Tonight That I Might See",
+    1993
+   ],
+   [
+    "Among My Swan",
+    1996
+   ],
+   [
+    "Seasons of Your Day",
+    2013
+   ]
+  ],
+  "songs": [
+   "Fade Into You",
+   "Halah",
+   "Flowers in December",
+   "Into Dust",
+   "Blue Light"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-velvet-underground",
+    "why": "Their slow, droning, hushed songs owe a lot to the quieter Velvet Underground records.",
+    "s": 2
+   },
+   {
+    "id": "the-doors",
+    "why": "Moody, organ-tinged psychedelia from Los Angeles.",
+    "s": 1
+   },
+   {
+    "id": "love",
+    "why": "Roback came from the LA Paisley Underground, which revived 1960s bands like Love.",
+    "s": 1
+   },
+   {
+    "id": "syd-barrett",
+    "why": "Fragile, dreamy psychedelic songcraft.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "beach-house",
+    "why": "Their slow, hazy dream pop with a low, smoky lead voice follows Mazzy Star.",
+    "s": 1
+   },
+   {
+    "id": "lana-del-rey",
+    "why": "Her languid, cinematic ballads draw on Sandoval's whispery style.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "nick-drake",
+    "why": "Quiet, intimate songs that sound half asleep."
+   },
+   {
+    "id": "portishead",
+    "why": "Slow, smoky and melancholy with a haunting female voice."
+   }
+  ]
+ },
+ {
+  "id": "pulp",
+  "years": "1978–present",
+  "origin": "Sheffield, England",
+  "genres": [
+   "Britpop",
+   "art rock",
+   "synth-pop"
+  ],
+  "summary": "Jarvis Cocker's band spent years in obscurity before becoming Britpop stars with witty, observational songs about class and everyday life.",
+  "know": [
+   "Cocker started the band as a teenager in Sheffield in 1978.",
+   "Different Class won the Mercury Prize in 1996.",
+   "Common People reached number two in the UK and became their signature song."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "His 'n' Hers",
+    1994
+   ],
+   [
+    "Different Class",
+    1995
+   ],
+   [
+    "This Is Hardcore",
+    1998
+   ],
+   [
+    "More",
+    2025
+   ]
+  ],
+  "songs": [
+   "Common People",
+   "Disco 2000",
+   "Babies",
+   "Do You Remember the First Time?",
+   "Something Changed"
+  ],
+  "influencedBy": [
+   {
+    "id": "david-bowie",
+    "why": "Cocker's theatrical, arch persona draws on Bowie.",
+    "s": 2
+   },
+   {
+    "id": "roxy-music",
+    "why": "Art-school glamour and synth textures shape their sound.",
+    "s": 2
+   },
+   {
+    "id": "serge-gainsbourg",
+    "why": "Spoken, sly, worldly vocal delivery.",
+    "s": 1
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "Deadpan storytelling about ordinary lives.",
+    "s": 1
+   },
+   {
+    "id": "the-human-league",
+    "why": "Sheffield's synth-pop scene was part of their background.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "arctic-monkeys",
+    "why": "The younger Sheffield band picked up Cocker's sharp, local storytelling.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "leonard-cohen",
+    "why": "Wry, literate songs sung in a low, conversational voice."
+   },
+   {
+    "id": "sparks",
+    "why": "Clever, theatrical art pop with a knowing wink."
+   }
+  ]
+ },
+ {
+  "id": "suede",
+  "years": "1989–present",
+  "origin": "London, England",
+  "genres": [
+   "Britpop",
+   "glam rock",
+   "alternative rock"
+  ],
+  "summary": "Suede brought back glam rock drama to British guitar music and are often credited with kicking off Britpop.",
+  "know": [
+   "Their 1993 debut won the Mercury Prize.",
+   "Guitarist Bernard Butler left during the making of Dog Man Star.",
+   "Ed Buller produced their early albums."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Suede",
+    1993
+   ],
+   [
+    "Dog Man Star",
+    1994
+   ],
+   [
+    "Coming Up",
+    1996
+   ],
+   [
+    "Autofiction",
+    2022
+   ]
+  ],
+  "songs": [
+   "Animal Nitrate",
+   "The Drowners",
+   "Trash",
+   "Beautiful Ones",
+   "Stay Together"
+  ],
+  "influencedBy": [
+   {
+    "id": "david-bowie",
+    "why": "Brett Anderson's glam persona and vocal swoops draw on Bowie.",
+    "s": 2
+   },
+   {
+    "id": "the-smiths",
+    "why": "Butler's guitar work and the band's literate gloom follow the Smiths.",
+    "s": 2
+   },
+   {
+    "id": "t-rex",
+    "why": "Glam swagger and simple, stomping riffs.",
+    "s": 2
+   },
+   {
+    "id": "roxy-music",
+    "why": "Art-rock glamour and decadence.",
+    "s": 1
+   },
+   {
+    "id": "siouxsie",
+    "why": "Dark, dramatic British post-punk.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "mott-the-hoople",
+    "why": "Swaggering British glam rock."
+   },
+   {
+    "id": "lana-del-rey",
+    "why": "Lush, melodramatic songs about doomed glamour."
+   }
+  ]
+ },
+ {
+  "id": "the-verve",
+  "years": "1990–2009",
+  "origin": "Wigan, England",
+  "genres": [
+   "Britpop",
+   "psychedelic rock",
+   "shoegaze"
+  ],
+  "summary": "The Verve began as a sprawling psychedelic band and ended up making Urban Hymns, one of the best selling British albums of the 1990s.",
+  "know": [
+   "Bitter Sweet Symphony is built on a string sample from an orchestral version of the Rolling Stones' The Last Time.",
+   "They first went by Verve and added 'The' after a dispute with the jazz label Verve Records.",
+   "Richard Ashcroft sang, and Nick McCabe's guitar textures shaped their early sound."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "A Storm in Heaven",
+    1993
+   ],
+   [
+    "A Northern Soul",
+    1995
+   ],
+   [
+    "Urban Hymns",
+    1997
+   ],
+   [
+    "Forth",
+    2008
+   ]
+  ],
+  "songs": [
+   "Bitter Sweet Symphony",
+   "Lucky Man",
+   "Sonnet",
+   "History",
+   "Slide Away"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-rolling-stones",
+    "why": "Their biggest hit rests on a sample of a Stones song arrangement.",
+    "s": 2
+   },
+   {
+    "id": "pink-floyd",
+    "why": "Long, spacey psychedelic jams on their early records.",
+    "s": 1
+   },
+   {
+    "id": "can",
+    "why": "Hypnotic, repetitive grooves under McCabe's guitar.",
+    "s": 1
+   },
+   {
+    "id": "spacemen-3",
+    "why": "Droning, blissed-out British psychedelia.",
+    "s": 1
+   },
+   {
+    "id": "the-stone-roses",
+    "why": "Northern English guitar rock with a psychedelic tint.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-moody-blues",
+    "why": "Big orchestral rock with a searching, spiritual mood."
+   },
+   {
+    "id": "massive-attack",
+    "why": "Sweeping strings over slow, heavy grooves."
+   }
+  ]
+ },
+ {
+  "id": "elastica",
+  "years": "1992–2001",
+  "origin": "London, England",
+  "genres": [
+   "Britpop",
+   "post-punk revival",
+   "new wave"
+  ],
+  "summary": "Justine Frischmann's band played terse, catchy post-punk inspired songs and their debut was one of the fastest selling in UK history.",
+  "know": [
+   "Their 1995 debut became the fastest selling debut album in the UK at the time.",
+   "Connection drew comparisons to Wire's Three Girl Rhumba, leading to a settlement.",
+   "Frischmann was an early member of Suede before starting Elastica."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Elastica",
+    1995
+   ],
+   [
+    "The Menace",
+    2000
+   ]
+  ],
+  "songs": [
+   "Connection",
+   "Waking Up",
+   "Line Up",
+   "Stutter",
+   "Car Song"
+  ],
+  "influencedBy": [
+   {
+    "id": "wire",
+    "why": "Their clipped riffs and short songs borrow heavily from Wire.",
+    "s": 2
+   },
+   {
+    "id": "suede",
+    "why": "Frischmann co-founded Suede before leaving to form Elastica.",
+    "s": 2
+   },
+   {
+    "id": "buzzcocks",
+    "why": "Fast, catchy punk pop songs.",
+    "s": 1
+   },
+   {
+    "id": "blondie",
+    "why": "Cool, female-fronted new wave.",
+    "s": 1
+   },
+   {
+    "id": "gang-of-four",
+    "why": "Choppy, rhythmic post-punk guitars.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-cars",
+    "why": "Tight, catchy new wave with deadpan cool."
+   },
+   {
+    "id": "the-knack",
+    "why": "Short, punchy pop songs built on one sharp riff."
+   }
+  ]
+ },
+ {
+  "id": "supergrass",
+  "years": "1993–2022",
+  "origin": "Oxford, England",
+  "genres": [
+   "Britpop",
+   "power pop",
+   "alternative rock"
+  ],
+  "summary": "A young, energetic Britpop trio whose debut I Should Coco topped the UK chart on the back of the hit Alright.",
+  "know": [
+   "Gaz Coombes, Danny Goffey and Mick Quinn formed the band in Oxford.",
+   "I Should Coco reached number one in the UK in 1995.",
+   "Keyboardist Rob Coombes, Gaz's brother, later joined the lineup."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "I Should Coco",
+    1995
+   ],
+   [
+    "In It for the Money",
+    1997
+   ],
+   [
+    "Supergrass",
+    1999
+   ],
+   [
+    "Life on Other Planets",
+    2002
+   ]
+  ],
+  "songs": [
+   "Alright",
+   "Pumping on Your Stereo",
+   "Moving",
+   "Richard III",
+   "Sun Hits the Sky"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-kinks",
+    "why": "Cheeky, very English pop songwriting.",
+    "s": 2
+   },
+   {
+    "id": "small-faces",
+    "why": "Mod energy and bouncy piano-driven rock.",
+    "s": 2
+   },
+   {
+    "id": "the-who",
+    "why": "Big, loud, energetic drumming and power chords.",
+    "s": 1
+   },
+   {
+    "id": "the-jam",
+    "why": "Sharp, mod-styled British guitar pop.",
+    "s": 1
+   },
+   {
+    "id": "buzzcocks",
+    "why": "Fast, catchy punk pop.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "cheap-trick",
+    "why": "Hooky, fun power pop with a hard rock kick."
+   },
+   {
+    "id": "madness",
+    "why": "Cheerful, cheeky British pop with bounce."
+   }
+  ]
+ },
+ {
+  "id": "manic-street-preachers",
+  "years": "1986–present",
+  "origin": "Blackwood, Wales",
+  "genres": [
+   "alternative rock",
+   "glam punk",
+   "Britpop"
+  ],
+  "summary": "A Welsh band that went from political glam punk to stadium-sized rock anthems while keeping a literary, political edge.",
+  "know": [
+   "Bassist Nicky Wire writes most of their lyrics.",
+   "Everything Must Go won Best British Album at the 1997 Brit Awards.",
+   "If You Tolerate This Your Children Will Be Next was their first UK number one in 1998."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Generation Terrorists",
+    1992
+   ],
+   [
+    "The Holy Bible",
+    1994
+   ],
+   [
+    "Everything Must Go",
+    1996
+   ],
+   [
+    "This Is My Truth Tell Me Yours",
+    1998
+   ]
+  ],
+  "songs": [
+   "Motorcycle Emptiness",
+   "A Design for Life",
+   "If You Tolerate This Your Children Will Be Next",
+   "Faster",
+   "You Love Us"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-clash",
+    "why": "Political, slogan-heavy punk was the band's founding model.",
+    "s": 2
+   },
+   {
+    "id": "public-enemy",
+    "why": "The band have named Public Enemy's political rage as a key influence.",
+    "s": 2
+   },
+   {
+    "id": "guns-n-roses",
+    "why": "Their early glam punk image and hard rock riffs nod to Guns N' Roses.",
+    "s": 2
+   },
+   {
+    "id": "sex-pistols",
+    "why": "Confrontational British punk attitude.",
+    "s": 1
+   },
+   {
+    "id": "magazine",
+    "why": "Dark, literate post-punk that shaped The Holy Bible.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "u2",
+    "why": "Anthemic rock with a political conscience."
+   },
+   {
+    "id": "guns-n-roses",
+    "why": "Big, swaggering rock riffs."
+   }
+  ]
+ },
+ {
+  "id": "primal-scream",
+  "years": "1982–present",
+  "origin": "Glasgow, Scotland",
+  "genres": [
+   "alternative dance",
+   "neo-psychedelia",
+   "electronic rock"
+  ],
+  "summary": "Bobby Gillespie's band reinvented itself many times, most famously on Screamadelica, which fused rock songs with acid house.",
+  "know": [
+   "Gillespie played drums in The Jesus and Mary Chain before focusing on Primal Scream.",
+   "Screamadelica, shaped by producer Andrew Weatherall, won the first Mercury Prize in 1992.",
+   "Give Out But Don't Give Up was partly recorded in Memphis with Tom Dowd."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Screamadelica",
+    1991
+   ],
+   [
+    "Give Out But Don't Give Up",
+    1994
+   ],
+   [
+    "Vanishing Point",
+    1997
+   ],
+   [
+    "XTRMNTR",
+    2000
+   ]
+  ],
+  "songs": [
+   "Loaded",
+   "Movin' On Up",
+   "Come Together",
+   "Higher Than the Sun",
+   "Rocks"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-jesus-and-mary-chain",
+    "why": "Gillespie was their drummer and brought their noise-pop sense with him.",
+    "s": 3
+   },
+   {
+    "id": "the-orb",
+    "why": "The Orb produced Higher Than the Sun and its ambient house sound.",
+    "s": 3
+   },
+   {
+    "id": "tom-dowd",
+    "why": "Produced sessions for Give Out But Don't Give Up in Memphis.",
+    "s": 3
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Swaggering rock and gospel touches on Movin' On Up and Rocks.",
+    "s": 2
+   },
+   {
+    "id": "the-byrds",
+    "why": "Their early jangle pop came straight from the Byrds.",
+    "s": 2
+   },
+   {
+    "id": "the-stooges",
+    "why": "Raw, aggressive rock behind their later records.",
+    "s": 2
+   },
+   {
+    "id": "mc5",
+    "why": "High-energy Detroit rock that fed XTRMNTR.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "kasabian",
+    "why": "Their mix of rock swagger and dance beats follows the Screamadelica model.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-chemical-brothers",
+    "why": "Rock energy driven by big electronic beats."
+   },
+   {
+    "id": "underworld",
+    "why": "Euphoric dance music with a rock band's pulse."
+   }
+  ]
+ },
+ {
+  "id": "rites-of-spring",
+  "years": "1984–1986",
+  "origin": "Washington, D.C.",
+  "genres": [
+   "emo",
+   "post-hardcore",
+   "hardcore punk"
+  ],
+  "summary": "A short-lived D.C. band whose emotional, melodic take on hardcore is widely seen as the starting point of emo.",
+  "know": [
+   "Their only album was produced by Ian MacKaye and released on Dischord in 1985.",
+   "They were central to D.C.'s 1985 'Revolution Summer'.",
+   "Guy Picciotto and Brendan Canty later formed Fugazi with Ian MacKaye."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Rites of Spring",
+    1985
+   ],
+   [
+    "All Through a Life",
+    1987
+   ],
+   [
+    "End on End",
+    1991
+   ]
+  ],
+  "songs": [
+   "For Want Of",
+   "Drink Deep",
+   "All Through a Life",
+   "Spring",
+   "Deeper Than Inside"
+  ],
+  "influencedBy": [
+   {
+    "id": "minor-threat",
+    "why": "Ian MacKaye produced their album, and his D.C. hardcore was their starting point.",
+    "s": 3
+   },
+   {
+    "id": "bad-brains",
+    "why": "The D.C. hardcore scene they came from was built on Bad Brains' speed.",
+    "s": 2
+   },
+   {
+    "id": "husker-du",
+    "why": "Melodic, emotional hardcore that pointed the same direction.",
+    "s": 1
+   },
+   {
+    "id": "wire",
+    "why": "Angular post-punk structures in their guitar parts.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "fugazi",
+    "why": "Picciotto and Canty joined Ian MacKaye to form Fugazi.",
+    "s": 3
+   },
+   {
+    "id": "sunny-day-real-estate",
+    "why": "Carried their raw, emotional hardcore into 1990s emo.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "converge",
+    "why": "Cathartic, screamed hardcore that pushes emotion to the edge."
+   },
+   {
+    "id": "jeff-buckley",
+    "why": "Singing that sounds like it is pouring everything out."
+   }
+  ]
+ },
+ {
+  "id": "sunny-day-real-estate",
+  "years": "1992–2010",
+  "origin": "Seattle, Washington",
+  "genres": [
+   "emo",
+   "indie rock",
+   "post-hardcore"
+  ],
+  "summary": "Sunny Day Real Estate's Diary helped define 1990s emo with soaring vocals and dynamic, ringing guitars.",
+  "know": [
+   "They were signed to Sub Pop, home of the grunge boom.",
+   "Diary was produced by Brad Wood in Chicago.",
+   "Bassist Nate Mendel and drummer William Goldsmith joined the Foo Fighters."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Diary",
+    1994
+   ],
+   [
+    "LP2",
+    1995
+   ],
+   [
+    "How It Feels to Be Something On",
+    1998
+   ],
+   [
+    "The Rising Tide",
+    2000
+   ]
+  ],
+  "songs": [
+   "Seven",
+   "In Circles",
+   "47",
+   "Song About an Angel",
+   "The Prophet"
+  ],
+  "influencedBy": [
+   {
+    "id": "rites-of-spring",
+    "why": "Emotional, melodic hardcore that set up 1990s emo.",
+    "s": 1
+   },
+   {
+    "id": "husker-du",
+    "why": "Big melodic guitars with an aggressive core.",
+    "s": 1
+   },
+   {
+    "id": "fugazi",
+    "why": "Dynamic, tense post-hardcore structures.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "foo-fighters",
+    "why": "Mendel and Goldsmith became the Foo Fighters' rhythm section.",
+    "s": 3
+   },
+   {
+    "id": "jimmy-eat-world",
+    "why": "Their soaring, dynamic emo grew from Diary's sound.",
+    "s": 1
+   },
+   {
+    "id": "the-get-up-kids",
+    "why": "Picked up their melodic emo template.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "jeff-buckley",
+    "why": "A soaring, emotional lead voice over atmospheric guitars."
+   },
+   {
+    "id": "u2",
+    "why": "Ringing guitars and big, yearning vocals."
+   }
+  ]
+ },
+ {
+  "id": "jawbreaker",
+  "years": "1986–present",
+  "origin": "San Francisco, California",
+  "genres": [
+   "punk rock",
+   "emo",
+   "pop-punk"
+  ],
+  "summary": "A trio led by Blake Schwarzenbach that wrote literate, raspy punk songs and became hugely influential on later emo.",
+  "know": [
+   "The band formed in New York and made their name in San Francisco.",
+   "Part of 24 Hour Revenge Therapy was recorded by Steve Albini.",
+   "Dear You came out on DGC in 1995 and was later embraced as a classic."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Unfun",
+    1990
+   ],
+   [
+    "Bivouac",
+    1992
+   ],
+   [
+    "24 Hour Revenge Therapy",
+    1994
+   ],
+   [
+    "Dear You",
+    1995
+   ]
+  ],
+  "songs": [
+   "Boxcar",
+   "Kiss the Bottle",
+   "Accident Prone",
+   "Chesterfield King",
+   "Save Your Generation"
+  ],
+  "influencedBy": [
+   {
+    "id": "husker-du",
+    "why": "Melodic punk with heart and gritty guitars.",
+    "s": 2
+   },
+   {
+    "id": "the-replacements",
+    "why": "Raspy, confessional rock songs.",
+    "s": 2
+   },
+   {
+    "id": "steve-albini",
+    "why": "Recorded part of 24 Hour Revenge Therapy.",
+    "s": 3
+   },
+   {
+    "id": "descendents",
+    "why": "Fast, melodic, personal punk.",
+    "s": 1
+   },
+   {
+    "id": "the-clash",
+    "why": "Punk with literary, political lyrics.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-get-up-kids",
+    "why": "Their melodic emo drew on Jawbreaker's raspy hooks.",
+    "s": 1
+   },
+   {
+    "id": "the-wonder-years",
+    "why": "Picked up Jawbreaker's literate, emotional punk.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bruce-springsteen",
+    "why": "Literate, working-class anthems about getting out."
+   },
+   {
+    "id": "jason-isbell",
+    "why": "Plainspoken, detailed songwriting about hard lives."
+   }
+  ]
+ },
+ {
+  "id": "american-football",
+  "years": "1997–present",
+  "origin": "Urbana, Illinois",
+  "genres": [
+   "emo",
+   "math rock",
+   "midwest emo"
+  ],
+  "summary": "American Football's 1999 album, with its clean, interlocking guitars and odd time signatures, became the defining record of midwest emo.",
+  "know": [
+   "Mike Kinsella had played in Cap'n Jazz before forming the band.",
+   "Their 1999 debut came out on Polyvinyl.",
+   "The house on the album cover in Urbana became a fan landmark."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "American Football",
+    1999
+   ],
+   [
+    "LP2",
+    2016
+   ],
+   [
+    "LP3",
+    2019
+   ]
+  ],
+  "songs": [
+   "Never Meant",
+   "Honestly?",
+   "The Summer Ends",
+   "Stay Home",
+   "Uncomfortably Numb"
+  ],
+  "influencedBy": [
+   {
+    "id": "cap-n-jazz",
+    "why": "Mike Kinsella came from Cap'n Jazz and kept its intricate guitar style.",
+    "s": 3
+   },
+   {
+    "id": "slint",
+    "why": "Quiet, intricate guitars and slow builds.",
+    "s": 1
+   },
+   {
+    "id": "tortoise",
+    "why": "Chicago-area post-rock and jazzy time signatures.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-hotelier",
+    "why": "Part of the emo revival that revered their debut.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bon-iver",
+    "why": "Quiet, intimate songs with soft-voiced vulnerability."
+   },
+   {
+    "id": "boards-of-canada",
+    "why": "Wistful, warm music full of nostalgia."
+   }
+  ]
+ },
+ {
+  "id": "cap-n-jazz",
+  "years": "1989–2010",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "emo",
+   "math rock",
+   "post-hardcore"
+  ],
+  "summary": "Cap'n Jazz were a chaotic suburban Chicago band whose members went on to seed much of midwest emo.",
+  "know": [
+   "Brothers Tim and Mike Kinsella were founding members.",
+   "Members later formed Joan of Arc, The Promise Ring, American Football and Owls.",
+   "They recorded a cover of a-ha's Take On Me."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Burritos, Inspiration Point, Fork Balloon Sports, Cards in the Spokes, Automatic Biographies, Kites, Kung Fu, Trophies, Banana Peels We've Slipped On and Egg Shells We've Tippy Toed Over",
+    1995
+   ],
+   [
+    "Analphabetapolothology",
+    1998
+   ]
+  ],
+  "songs": [
+   "Little League",
+   "Oh Messy Life",
+   "Basil's Kite",
+   "Puddle Splashers",
+   "Take On Me"
+  ],
+  "influencedBy": [
+   {
+    "id": "rites-of-spring",
+    "why": "Emotional, melodic hardcore at the root of emo.",
+    "s": 1
+   },
+   {
+    "id": "fugazi",
+    "why": "Tense, unpredictable post-hardcore structures.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "american-football",
+    "why": "Mike Kinsella took Cap'n Jazz's twinkly guitars into American Football.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "captain-beefheart",
+    "why": "Chaotic, unpredictable songs that still feel joyful."
+   },
+   {
+    "id": "the-dillinger-escape-plan",
+    "why": "Spazzy, start-stop music played with total abandon."
+   }
+  ]
+ },
+ {
+  "id": "the-get-up-kids",
+  "years": "1995–present",
+  "origin": "Kansas City, Missouri",
+  "genres": [
+   "emo",
+   "pop-punk",
+   "indie rock"
+  ],
+  "summary": "The Get Up Kids brought catchy pop-punk hooks to midwest emo and Something to Write Home About became a genre touchstone.",
+  "know": [
+   "Something to Write Home About came out on Vagrant Records in 1999.",
+   "Keyboardist James Dewees also records as Reggie and the Full Effect.",
+   "Matt Pryor and Jim Suptic share guitar and songwriting duties."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Four Minute Mile",
+    1997
+   ],
+   [
+    "Something to Write Home About",
+    1999
+   ],
+   [
+    "On a Wire",
+    2002
+   ],
+   [
+    "Problems",
+    2019
+   ]
+  ],
+  "songs": [
+   "Holiday",
+   "Ten Minutes",
+   "Action & Action",
+   "I'm a Loner Dottie, a Rebel",
+   "Don't Hate Me"
+  ],
+  "influencedBy": [
+   {
+    "id": "weezer",
+    "why": "Their crunchy, hooky guitar pop shaped the band's sound.",
+    "s": 2
+   },
+   {
+    "id": "sunny-day-real-estate",
+    "why": "Emotional, dynamic 1990s emo.",
+    "s": 1
+   },
+   {
+    "id": "jawbreaker",
+    "why": "Raspy, melodic punk songs with heart.",
+    "s": 1
+   },
+   {
+    "id": "husker-du",
+    "why": "Fast, melodic punk with feeling.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "fall-out-boy",
+    "why": "Their early pop-punk drew on the Get Up Kids' hooky emo.",
+    "s": 1
+   },
+   {
+    "id": "the-wonder-years",
+    "why": "Pop-punk with emo openness in the same line.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "big-star",
+    "why": "Sweet, heartfelt power pop with jangly guitars."
+   },
+   {
+    "id": "the-cars",
+    "why": "Catchy guitar songs with keyboard hooks."
+   }
+  ]
+ },
+ {
+  "id": "jimmy-eat-world",
+  "years": "1993–present",
+  "origin": "Mesa, Arizona",
+  "genres": [
+   "emo",
+   "alternative rock",
+   "pop-punk"
+  ],
+  "summary": "Jimmy Eat World took emo to the mainstream with Bleed American and its hit The Middle.",
+  "know": [
+   "The Middle reached the top five of the Billboard Hot 100.",
+   "Mark Trombino produced Clarity and Bleed American.",
+   "Clarity sold poorly on release but grew into a cult favorite."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Clarity",
+    1999
+   ],
+   [
+    "Bleed American",
+    2001
+   ],
+   [
+    "Futures",
+    2004
+   ],
+   [
+    "Integrity Blues",
+    2016
+   ]
+  ],
+  "songs": [
+   "The Middle",
+   "Sweetness",
+   "Lucky Denver Mint",
+   "Pain",
+   "23"
+  ],
+  "influencedBy": [
+   {
+    "id": "sunny-day-real-estate",
+    "why": "Soaring, dynamic emo that they built on.",
+    "s": 1
+   },
+   {
+    "id": "husker-du",
+    "why": "Melodic punk with big guitars.",
+    "s": 1
+   },
+   {
+    "id": "weezer",
+    "why": "Crunchy power pop hooks.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "paramore",
+    "why": "Their arena-sized emo pop follows the path Bleed American opened.",
+    "s": 1
+   },
+   {
+    "id": "the-wonder-years",
+    "why": "Big, earnest pop-punk choruses.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "u2",
+    "why": "Big, sincere, chiming rock anthems."
+   },
+   {
+    "id": "tom-petty",
+    "why": "Direct, catchy rock songs with heart."
+   }
+  ]
+ },
+ {
+  "id": "dashboard-confessional",
+  "years": "1999–present",
+  "origin": "Boca Raton, Florida",
+  "genres": [
+   "emo",
+   "acoustic rock",
+   "pop-punk"
+  ],
+  "summary": "Chris Carrabba's project made acoustic, diary-like emo songs that crowds sang back word for word.",
+  "know": [
+   "It began as Carrabba's side project while he was in Further Seems Forever.",
+   "Their 2002 MTV Unplugged was famous for the crowd singing every line.",
+   "Vindicated appeared on the Spider-Man 2 soundtrack."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Swiss Army Romance",
+    2000
+   ],
+   [
+    "The Places You Have Come to Fear the Most",
+    2001
+   ],
+   [
+    "A Mark, a Mission, a Brand, a Scar",
+    2003
+   ],
+   [
+    "Crooked Shadows",
+    2018
+   ]
+  ],
+  "songs": [
+   "Screaming Infidelities",
+   "Hands Down",
+   "Vindicated",
+   "Stolen",
+   "The Best Deceptions"
+  ],
+  "influencedBy": [
+   {
+    "id": "sunny-day-real-estate",
+    "why": "Emotional, soaring emo vocals.",
+    "s": 1
+   },
+   {
+    "id": "the-get-up-kids",
+    "why": "Melodic midwest emo songwriting.",
+    "s": 1
+   },
+   {
+    "id": "jawbreaker",
+    "why": "Confessional punk lyrics.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "elliott-smith",
+    "why": "Quiet, confessional acoustic songs."
+   },
+   {
+    "id": "conor-oberst",
+    "why": "Raw, diary-like songs sung with a shaking voice."
+   }
+  ]
+ },
+ {
+  "id": "brand-new",
+  "years": "2000–2018",
+  "origin": "Levittown, New York",
+  "genres": [
+   "emo",
+   "alternative rock",
+   "post-hardcore"
+  ],
+  "summary": "A Long Island band that grew from pop-punk into dark, ambitious alternative rock on Deja Entendu and The Devil and God Are Raging Inside Me.",
+  "know": [
+   "Jesse Lacey led the band and wrote its songs.",
+   "Mike Sapone produced their key albums.",
+   "Science Fiction debuted at number one on the Billboard 200 in 2017."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Your Favorite Weapon",
+    2001
+   ],
+   [
+    "Deja Entendu",
+    2003
+   ],
+   [
+    "The Devil and God Are Raging Inside Me",
+    2006
+   ],
+   [
+    "Science Fiction",
+    2017
+   ]
+  ],
+  "songs": [
+   "Sic Transit Gloria... Glory Fades",
+   "The Quiet Things That No One Ever Knows",
+   "Jesus Christ",
+   "You Won't Know",
+   "Millstone"
+  ],
+  "influencedBy": [
+   {
+    "id": "radiohead",
+    "why": "Their moodier later records show a Radiohead turn.",
+    "s": 1
+   },
+   {
+    "id": "nirvana",
+    "why": "Loud-quiet dynamics and raw vocals.",
+    "s": 1
+   },
+   {
+    "id": "pixies",
+    "why": "Sudden shifts from quiet to loud.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-wonder-years",
+    "why": "Their intense, emotional pop-punk follows Brand New.",
+    "s": 1
+   },
+   {
+    "id": "the-hotelier",
+    "why": "Part of the emo revival that cited Brand New.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "deftones",
+    "why": "Dark, dynamic heavy music with a moody edge."
+   },
+   {
+    "id": "elliott-smith",
+    "why": "Bleak, intimate songwriting."
+   }
+  ]
+ },
+ {
+  "id": "taking-back-sunday",
+  "years": "1999–present",
+  "origin": "Amityville, New York",
+  "genres": [
+   "emo",
+   "pop-punk",
+   "post-hardcore"
+  ],
+  "summary": "A Long Island band known for dual vocals and dramatic, hooky songs that helped make emo a mainstream force in the 2000s.",
+  "know": [
+   "Adam Lazzara and John Nolan traded and overlapped vocal lines.",
+   "Their debut Tell All Your Friends came out on Victory Records in 2002.",
+   "Louder Now was their first album on Warner Bros."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Tell All Your Friends",
+    2002
+   ],
+   [
+    "Where You Want to Be",
+    2004
+   ],
+   [
+    "Louder Now",
+    2006
+   ],
+   [
+    "152",
+    2023
+   ]
+  ],
+  "songs": [
+   "Cute Without the 'E' (Cut from the Team)",
+   "MakeDamnSure",
+   "A Decade Under the Influence",
+   "You're So Last Summer"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-get-up-kids",
+    "why": "Midwest emo hooks.",
+    "s": 1
+   },
+   {
+    "id": "jimmy-eat-world",
+    "why": "Emo songs with big, polished choruses.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "bon-jovi",
+    "why": "Arena-sized hooks and dramatic, singalong choruses."
+   },
+   {
+    "id": "bring-me-the-horizon",
+    "why": "Heavy music with emo-style hooks and screams."
+   }
+  ]
+ },
+ {
+  "id": "fall-out-boy",
+  "years": "2001–present",
+  "origin": "Wilmette, Illinois",
+  "genres": [
+   "pop-punk",
+   "emo",
+   "pop rock"
+  ],
+  "summary": "Fall Out Boy came out of the Chicago hardcore scene and became one of the biggest rock bands of the 2000s with wordy, hooky pop-punk.",
+  "know": [
+   "Pete Wentz writes most of the lyrics, and Patrick Stump writes the music and sings.",
+   "From Under the Cork Tree went double platinum.",
+   "After a hiatus from 2009 to 2012 they returned with Save Rock and Roll."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Take This to Your Grave",
+    2003
+   ],
+   [
+    "From Under the Cork Tree",
+    2005
+   ],
+   [
+    "Infinity on High",
+    2007
+   ],
+   [
+    "Save Rock and Roll",
+    2013
+   ]
+  ],
+  "songs": [
+   "Sugar, We're Goin Down",
+   "Dance, Dance",
+   "Thnks fr th Mmrs",
+   "My Songs Know What You Did in the Dark",
+   "Centuries"
+  ],
+  "influencedBy": [
+   {
+    "id": "green-day",
+    "why": "Big, catchy pop-punk.",
+    "s": 1
+   },
+   {
+    "id": "blink-182",
+    "why": "Melodic pop-punk with personality.",
+    "s": 1
+   },
+   {
+    "id": "jawbreaker",
+    "why": "Literate, emotional punk.",
+    "s": 1
+   },
+   {
+    "id": "prince",
+    "why": "Stump's soulful vocal style draws on R&B and Prince.",
+    "s": 1
+   },
+   {
+    "id": "michael-jackson",
+    "why": "They covered Beat It and Stump's phrasing borrows from Jackson.",
+    "s": 2
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "queen",
+    "why": "Theatrical, anthemic rock with huge choruses."
+   },
+   {
+    "id": "journey",
+    "why": "Big, polished arena rock hooks."
+   }
+  ]
+ },
+ {
+  "id": "the-used",
+  "years": "2001–present",
+  "origin": "Orem, Utah",
+  "genres": [
+   "post-hardcore",
+   "emo",
+   "screamo"
+  ],
+  "summary": "A Utah band that mixed screaming, melody and theatrics, making them one of the leading screamo-leaning bands of the 2000s.",
+  "know": [
+   "John Feldmann produced their early albums.",
+   "Their self-titled debut went gold.",
+   "They recorded a cover of Queen and David Bowie's Under Pressure with My Chemical Romance."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Used",
+    2002
+   ],
+   [
+    "In Love and Death",
+    2004
+   ],
+   [
+    "Lies for the Liars",
+    2007
+   ],
+   [
+    "Artwork",
+    2009
+   ]
+  ],
+  "songs": [
+   "The Taste of Ink",
+   "Buried Myself Alive",
+   "All That I've Got",
+   "Take It Away",
+   "Blue and Yellow"
+  ],
+  "influencedBy": [
+   {
+    "id": "nirvana",
+    "why": "Raw, cathartic loud-quiet rock.",
+    "s": 1
+   },
+   {
+    "id": "queen",
+    "why": "Theatrical vocals and drama, shown by their Under Pressure cover.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "linkin-park",
+    "why": "Heavy guitars with screams and catchy melody."
+   },
+   {
+    "id": "bring-me-the-horizon",
+    "why": "Screamed vocals mixed with big emo hooks."
+   }
+  ]
+ },
+ {
+  "id": "blink-182",
+  "years": "1992–present",
+  "origin": "Poway, California",
+  "genres": [
+   "pop-punk",
+   "skate punk",
+   "alternative rock"
+  ],
+  "summary": "Blink-182 made fast, funny, melodic pop-punk and became one of the defining rock bands of the late 1990s and 2000s.",
+  "know": [
+   "Drummer Travis Barker joined in 1998.",
+   "Enema of the State, produced by Jerry Finn, sold millions.",
+   "Robert Smith of the Cure sang on All of This from their 2003 album."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Dude Ranch",
+    1997
+   ],
+   [
+    "Enema of the State",
+    1999
+   ],
+   [
+    "Take Off Your Pants and Jacket",
+    2001
+   ],
+   [
+    "Blink-182",
+    2003
+   ]
+  ],
+  "songs": [
+   "All the Small Things",
+   "What's My Age Again?",
+   "Dammit",
+   "I Miss You",
+   "First Date"
+  ],
+  "influencedBy": [
+   {
+    "id": "descendents",
+    "why": "Fast, melodic, goofy and heartfelt punk is the Blink template.",
+    "s": 2
+   },
+   {
+    "id": "the-cure",
+    "why": "Mark Hoppus is a big fan, and Robert Smith sang on their 2003 album.",
+    "s": 3
+   },
+   {
+    "id": "bad-religion",
+    "why": "Southern California melodic punk.",
+    "s": 1
+   },
+   {
+    "id": "ramones",
+    "why": "Short, fast, catchy punk songs.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "sum-41",
+    "why": "Their fast, jokey pop-punk followed Blink's lead.",
+    "s": 1
+   },
+   {
+    "id": "fall-out-boy",
+    "why": "Pop-punk with hooky melody.",
+    "s": 1
+   },
+   {
+    "id": "the-wonder-years",
+    "why": "Pop-punk built on Blink's melodic punk.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "beastie-boys",
+    "why": "Snotty humor and skate culture."
+   },
+   {
+    "id": "cheap-trick",
+    "why": "Bright hooks with a loud, fun edge."
+   }
+  ]
+ },
+ {
+  "id": "the-offspring",
+  "years": "1984–present",
+  "origin": "Huntington Beach, California",
+  "genres": [
+   "punk rock",
+   "skate punk",
+   "pop-punk"
+  ],
+  "summary": "The Offspring helped bring Southern California punk into the mainstream with Smash, one of the best selling independent albums ever.",
+  "know": [
+   "Smash came out on Epitaph in 1994 and sold millions.",
+   "Singer Dexter Holland earned a PhD in molecular biology.",
+   "Thom Wilson produced their early records, including Smash."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Smash",
+    1994
+   ],
+   [
+    "Ixnay on the Hombre",
+    1997
+   ],
+   [
+    "Americana",
+    1998
+   ],
+   [
+    "Conspiracy of One",
+    2000
+   ]
+  ],
+  "songs": [
+   "Come Out and Play",
+   "Self Esteem",
+   "Gotta Get Away",
+   "Pretty Fly (for a White Guy)",
+   "The Kids Aren't Alright"
+  ],
+  "influencedBy": [
+   {
+    "id": "bad-religion",
+    "why": "Their Epitaph labelmates set the Southern California punk sound.",
+    "s": 2
+   },
+   {
+    "id": "ramones",
+    "why": "Simple, fast, catchy punk.",
+    "s": 1
+   },
+   {
+    "id": "dead-kennedys",
+    "why": "Fast California punk with a snarl.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "sum-41",
+    "why": "Their skate-punk hooks follow the Offspring.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "rage-against-the-machine",
+    "why": "Huge, simple riffs for a mainstream rock audience."
+   },
+   {
+    "id": "avenged-sevenfold",
+    "why": "Southern California heavy rock with big hooks."
+   }
+  ]
+ },
+ {
+  "id": "nofx",
+  "years": "1983–2024",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "skate punk",
+   "punk rock",
+   "melodic hardcore"
+  ],
+  "summary": "NOFX played fast, melodic, irreverent punk for four decades and built an independent empire around Fat Wreck Chords.",
+  "know": [
+   "Bassist and singer Fat Mike co-founded the label Fat Wreck Chords.",
+   "Punk in Drublic went gold without major label backing.",
+   "They played their final shows in 2024."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "White Trash, Two Heebs and a Bean",
+    1992
+   ],
+   [
+    "Punk in Drublic",
+    1994
+   ],
+   [
+    "So Long and Thanks for All the Shoes",
+    1997
+   ],
+   [
+    "The War on Errorism",
+    2003
+   ]
+  ],
+  "songs": [
+   "Linoleum",
+   "Don't Call Me White",
+   "Bob",
+   "Leave It Alone",
+   "The Brews"
+  ],
+  "influencedBy": [
+   {
+    "id": "bad-religion",
+    "why": "Their melodic hardcore and Epitaph label shaped NOFX.",
+    "s": 2
+   },
+   {
+    "id": "descendents",
+    "why": "Fast, catchy and humorous punk.",
+    "s": 1
+   },
+   {
+    "id": "black-flag",
+    "why": "Raw Southern California hardcore roots.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "blink-182",
+    "why": "Their skate-punk speed and humor came from the NOFX world.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-specials",
+    "why": "Punk energy with ska rhythms."
+   },
+   {
+    "id": "weird-al-yankovic",
+    "why": "Songs where the humor is the point."
+   }
+  ]
+ },
+ {
+  "id": "rancid",
+  "years": "1991–present",
+  "origin": "Berkeley, California",
+  "genres": [
+   "punk rock",
+   "ska punk",
+   "street punk"
+  ],
+  "summary": "Rancid mixed Clash-style street punk with ska and became one of the leading bands of the mid-1990s punk revival.",
+  "know": [
+   "Tim Armstrong and Matt Freeman had played together in Operation Ivy.",
+   "They were signed to Epitaph Records.",
+   "...And Out Come the Wolves went platinum in the US."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Rancid",
+    1993
+   ],
+   [
+    "Let's Go",
+    1994
+   ],
+   [
+    "...And Out Come the Wolves",
+    1995
+   ],
+   [
+    "Life Won't Wait",
+    1998
+   ]
+  ],
+  "songs": [
+   "Ruby Soho",
+   "Time Bomb",
+   "Salvation",
+   "Olympia WA.",
+   "Fall Back Down"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-clash",
+    "why": "Their mix of punk, ska and street-level storytelling comes straight from the Clash.",
+    "s": 2
+   },
+   {
+    "id": "the-specials",
+    "why": "Two-tone ska rhythms run through songs like Time Bomb.",
+    "s": 2
+   },
+   {
+    "id": "stiff-little-fingers",
+    "why": "Raw, shouted British Isles street punk.",
+    "s": 1
+   },
+   {
+    "id": "sex-pistols",
+    "why": "Snarling early punk attitude.",
+    "s": 1
+   },
+   {
+    "id": "the-skatalites",
+    "why": "Original Jamaican ska behind their offbeat songs.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "toots",
+    "why": "Joyful, upbeat Jamaican rhythms with a rough voice."
+   },
+   {
+    "id": "the-skatalites",
+    "why": "The original ska bounce that punk bands borrowed."
+   }
+  ]
+ },
+ {
+  "id": "sum-41",
+  "years": "1996–2024",
+  "origin": "Ajax, Canada",
+  "genres": [
+   "pop-punk",
+   "skate punk",
+   "alternative metal"
+  ],
+  "summary": "A Canadian band that combined pop-punk, metal riffs and a bit of rap, with Fat Lip as their breakout hit.",
+  "know": [
+   "Deryck Whibley sang and wrote most of the songs.",
+   "Fat Lip topped the Billboard Modern Rock chart in 2001.",
+   "They ended the band in 2024 with a final album and tour."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "All Killer No Filler",
+    2001
+   ],
+   [
+    "Does This Look Infected?",
+    2002
+   ],
+   [
+    "Chuck",
+    2004
+   ],
+   [
+    "Heaven :x: Hell",
+    2024
+   ]
+  ],
+  "songs": [
+   "Fat Lip",
+   "In Too Deep",
+   "Still Waiting",
+   "The Hell Song",
+   "Pieces"
+  ],
+  "influencedBy": [
+   {
+    "id": "blink-182",
+    "why": "Fast, jokey and melodic pop-punk.",
+    "s": 1
+   },
+   {
+    "id": "the-offspring",
+    "why": "Skate-punk with big, simple hooks.",
+    "s": 1
+   },
+   {
+    "id": "nofx",
+    "why": "Fast melodic punk with humor.",
+    "s": 1
+   },
+   {
+    "id": "iron-maiden",
+    "why": "Guitarist Dave Baksh's metal leads draw on Iron Maiden, which they have often named.",
+    "s": 2
+   },
+   {
+    "id": "beastie-boys",
+    "why": "The rap verses on Fat Lip owe a debt to the Beastie Boys.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "linkin-park",
+    "why": "Heavy guitars mixed with rap and big pop hooks."
+   },
+   {
+    "id": "beastie-boys",
+    "why": "Bratty fun mixing rap and punk."
+   }
+  ]
+ },
+ {
+  "id": "the-wonder-years",
+  "years": "2005–present",
+  "origin": "Lansdale, Pennsylvania",
+  "genres": [
+   "pop-punk",
+   "emo",
+   "indie rock"
+  ],
+  "summary": "A Philadelphia-area band that pushed pop-punk toward detailed, literary songwriting about growing up and anxiety.",
+  "know": [
+   "Singer Dan Campbell also records as Aaron West and the Roaring Twenties.",
+   "The title of Suburbia I've Given You All and Now I'm Nothing comes from Allen Ginsberg's poem America.",
+   "The Greatest Generation came out on Hopeless Records in 2013."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Upsides",
+    2010
+   ],
+   [
+    "Suburbia I've Given You All and Now I'm Nothing",
+    2011
+   ],
+   [
+    "The Greatest Generation",
+    2013
+   ],
+   [
+    "No Closer to Heaven",
+    2015
+   ]
+  ],
+  "songs": [
+   "Came Out Swinging",
+   "Washington Square Park",
+   "There, There",
+   "Passing Through a Screen Door",
+   "Cardinals"
+  ],
+  "influencedBy": [
+   {
+    "id": "jawbreaker",
+    "why": "Literate, emotional punk.",
+    "s": 1
+   },
+   {
+    "id": "the-get-up-kids",
+    "why": "Pop-punk with emo openness.",
+    "s": 1
+   },
+   {
+    "id": "brand-new",
+    "why": "Intense, dark emotional rock.",
+    "s": 1
+   },
+   {
+    "id": "blink-182",
+    "why": "Melodic pop-punk basics.",
+    "s": 1
+   },
+   {
+    "id": "weezer",
+    "why": "Crunchy guitars and nerdy, personal lyrics.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "bruce-springsteen",
+    "why": "Detailed songs about suburbs, family and getting out."
+   },
+   {
+    "id": "tom-petty",
+    "why": "Direct, heartfelt rock about everyday life."
+   }
+  ]
+ },
+ {
+  "id": "the-hotelier",
+  "years": "2009–present",
+  "origin": "Worcester, Massachusetts",
+  "genres": [
+   "emo",
+   "indie rock",
+   "pop-punk"
+  ],
+  "summary": "A Massachusetts band whose album Home, Like Noplace Is There became a landmark of the 2010s emo revival.",
+  "know": [
+   "They started out under the name The Hotel Year.",
+   "Home, Like Noplace Is There came out on Tiny Engines in 2014.",
+   "Christian Holden sings and plays bass."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "It Never Goes Out",
+    2011
+   ],
+   [
+    "Home, Like Noplace Is There",
+    2014
+   ],
+   [
+    "Goodness",
+    2016
+   ]
+  ],
+  "songs": [
+   "Your Deep Rest",
+   "An Introduction to the Album",
+   "Among the Wildflowers",
+   "Life in Drag",
+   "Piano Player"
+  ],
+  "influencedBy": [
+   {
+    "id": "american-football",
+    "why": "Midwest emo guitars and soft-loud shifts.",
+    "s": 1
+   },
+   {
+    "id": "brand-new",
+    "why": "Raw, emotional vocals and dark themes.",
+    "s": 1
+   },
+   {
+    "id": "jawbreaker",
+    "why": "Gritty, literate punk.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "phoebe-bridgers",
+    "why": "Sad, intensely personal songs that build to big moments."
+   },
+   {
+    "id": "conor-oberst",
+    "why": "Shaking, cathartic vocals over confessional lyrics."
+   }
+  ]
+ },
+ {
+  "id": "slint",
+  "years": "1986–2014",
+  "origin": "Louisville, Kentucky",
+  "genres": [
+   "post-rock",
+   "math rock",
+   "post-hardcore"
+  ],
+  "summary": "Slint's second album Spiderland, with its whispered vocals and sudden bursts of noise, became a founding record of post-rock and math rock.",
+  "know": [
+   "Steve Albini recorded their debut Tweez.",
+   "Spiderland was recorded by Brian Paulson and released by Touch and Go in 1991.",
+   "Guitarist David Pajo later joined Tortoise."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Tweez",
+    1989
+   ],
+   [
+    "Spiderland",
+    1991
+   ],
+   [
+    "Slint",
+    1994
+   ]
+  ],
+  "songs": [
+   "Good Morning, Captain",
+   "Breadcrumb Trail",
+   "Washer",
+   "Nosferatu Man",
+   "For Dinner..."
+  ],
+  "influencedBy": [
+   {
+    "id": "steve-albini",
+    "why": "Recorded Tweez and shaped their dry, heavy guitar tone.",
+    "s": 3
+   },
+   {
+    "id": "big-black",
+    "why": "Harsh, precise post-punk guitar from the same underground.",
+    "s": 1
+   },
+   {
+    "id": "television",
+    "why": "Interlocking clean guitars and long instrumental passages.",
+    "s": 1
+   },
+   {
+    "id": "sonic-youth",
+    "why": "Unusual guitar tones and noise used as texture.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "tortoise",
+    "why": "David Pajo carried Slint's ideas into Tortoise.",
+    "s": 3
+   },
+   {
+    "id": "mogwai",
+    "why": "Mogwai have named Spiderland as a key influence on their quiet-loud instrumentals.",
+    "s": 2
+   },
+   {
+    "id": "american-football",
+    "why": "Clean, intricate guitars and slow builds.",
+    "s": 1
+   },
+   {
+    "id": "explosions-in-the-sky",
+    "why": "Instrumental rock built on long builds and releases.",
+    "s": 1
+   },
+   {
+    "id": "godspeed-you-black-emperor",
+    "why": "Post-rock structure that Slint helped invent.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "isis",
+    "why": "Slow, heavy builds with spoken or buried vocals."
+   },
+   {
+    "id": "neu",
+    "why": "Patient, repetitive guitar music that builds tension."
+   }
+  ]
+ },
+ {
+  "id": "tortoise",
+  "years": "1990–present",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "post-rock",
+   "experimental rock",
+   "jazz fusion"
+  ],
+  "summary": "A Chicago instrumental band that blended krautrock, dub, jazz and electronics, and helped make post-rock a recognized genre.",
+  "know": [
+   "Drummer John McEntire is also a producer and runs Soma studio.",
+   "Djed, from Millions Now Living Will Never Die, runs about 21 minutes.",
+   "Guitarist Jeff Parker brought a jazz background to the band."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Tortoise",
+    1994
+   ],
+   [
+    "Millions Now Living Will Never Die",
+    1996
+   ],
+   [
+    "TNT",
+    1998
+   ],
+   [
+    "Standards",
+    2001
+   ]
+  ],
+  "songs": [
+   "Djed",
+   "Glass Museum",
+   "TNT",
+   "Seneca",
+   "Ten-Day Interval"
+  ],
+  "influencedBy": [
+   {
+    "id": "can",
+    "why": "Long, locked grooves and studio editing come from Can.",
+    "s": 2
+   },
+   {
+    "id": "neu",
+    "why": "The steady motorik pulse in their tracks comes from Neu!.",
+    "s": 2
+   },
+   {
+    "id": "king-tubby",
+    "why": "Dub techniques like echo and dropouts shape their mixes.",
+    "s": 1
+   },
+   {
+    "id": "miles-davis",
+    "why": "Electric-era jazz fusion and studio construction.",
+    "s": 1
+   },
+   {
+    "id": "slint",
+    "why": "David Pajo of Slint joined the band.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "battles",
+    "why": "Their instrumental mix of rock and electronic loops follows Tortoise.",
+    "s": 1
+   },
+   {
+    "id": "broken-social-scene",
+    "why": "John McEntire produced Forgiveness Rock Record.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "weather-report",
+    "why": "Groove-based fusion that blurs jazz and rock."
+   },
+   {
+    "id": "four-tet",
+    "why": "Electronic music built from jazzy loops and live textures."
+   }
+  ]
+ },
+ {
+  "id": "godspeed-you-black-emperor",
+  "years": "1994–present",
+  "origin": "Montreal, Canada",
+  "genres": [
+   "post-rock",
+   "drone",
+   "chamber rock"
+  ],
+  "summary": "A large Montreal collective known for long, orchestral instrumental pieces that build from near silence to huge crescendos.",
+  "know": [
+   "They record for the Montreal label Constellation.",
+   "East Hastings was used in the film 28 Days Later.",
+   "Allelujah! Don't Bend! Ascend! won the Polaris Music Prize in 2013."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "F♯ A♯ ∞",
+    1997
+   ],
+   [
+    "Lift Your Skinny Fists Like Antennas to Heaven",
+    2000
+   ],
+   [
+    "Allelujah! Don't Bend! Ascend!",
+    2012
+   ]
+  ],
+  "songs": [
+   "The Dead Flag Blues",
+   "East Hastings",
+   "Storm",
+   "Moya",
+   "Sleep"
+  ],
+  "influencedBy": [
+   {
+    "id": "slint",
+    "why": "Instrumental structure built on tension and release.",
+    "s": 1
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "Droning strings and repetition.",
+    "s": 1
+   },
+   {
+    "id": "sonic-youth",
+    "why": "Guitar noise used as texture.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "explosions-in-the-sky",
+    "why": "Long crescendo-based instrumentals in the same vein.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "neurosis",
+    "why": "Slow, massive builds that feel apocalyptic."
+   },
+   {
+    "id": "olafur-arnalds",
+    "why": "Strings and slow-moving melody."
+   }
+  ]
+ },
+ {
+  "id": "mogwai",
+  "years": "1995–present",
+  "origin": "Glasgow, Scotland",
+  "genres": [
+   "post-rock",
+   "instrumental rock",
+   "ambient"
+  ],
+  "summary": "Glasgow's Mogwai made loud-quiet instrumental rock that became a model for post-rock, and later became sought-after film composers.",
+  "know": [
+   "Dave Fridmann produced Come On Die Young.",
+   "As the Love Continues reached number one in the UK in 2021.",
+   "They scored the French TV series Les Revenants."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Young Team",
+    1997
+   ],
+   [
+    "Come On Die Young",
+    1999
+   ],
+   [
+    "Rock Action",
+    2001
+   ],
+   [
+    "As the Love Continues",
+    2021
+   ]
+  ],
+  "songs": [
+   "Mogwai Fear Satan",
+   "Like Herod",
+   "Auto Rock",
+   "Hunted by a Freak",
+   "Take Me Somewhere Nice"
+  ],
+  "influencedBy": [
+   {
+    "id": "slint",
+    "why": "They have named Spiderland as a key influence on their dynamics.",
+    "s": 2
+   },
+   {
+    "id": "my-bloody-valentine",
+    "why": "Walls of guitar noise used for emotional effect.",
+    "s": 2
+   },
+   {
+    "id": "sonic-youth",
+    "why": "Unusual guitar tones and noise passages.",
+    "s": 1
+   },
+   {
+    "id": "joy-division",
+    "why": "Dark, spare, atmospheric rock.",
+    "s": 1
+   },
+   {
+    "id": "the-cure",
+    "why": "Moody, effects-laden guitar atmospheres.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "explosions-in-the-sky",
+    "why": "Their loud-quiet instrumentals follow Mogwai's lead.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "boards-of-canada",
+    "why": "Melancholy, textured instrumental music."
+   },
+   {
+    "id": "popol-vuh",
+    "why": "Atmospheric music often used in film."
+   }
+  ]
+ },
+ {
+  "id": "sigur-ros",
+  "years": "1994–present",
+  "origin": "Reykjavík, Iceland",
+  "genres": [
+   "post-rock",
+   "ambient",
+   "dream pop"
+  ],
+  "summary": "Sigur Rós make slow, glacial music with falsetto vocals and bowed guitar, and became Iceland's best known band after Björk.",
+  "know": [
+   "Singer Jónsi often plays guitar with a cello bow.",
+   "Some songs are sung in an invented language called Hopelandic.",
+   "They built their own studio, Sundlaugin, in a former swimming pool."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Ágætis byrjun",
+    1999
+   ],
+   [
+    "( )",
+    2002
+   ],
+   [
+    "Takk...",
+    2005
+   ],
+   [
+    "Með suð í eyrum við spilum endalaust",
+    2008
+   ]
+  ],
+  "songs": [
+   "Svefn-g-englar",
+   "Starálfur",
+   "Hoppípolla",
+   "Glósóli",
+   "Untitled #1"
+  ],
+  "influencedBy": [
+   {
+    "id": "my-bloody-valentine",
+    "why": "Washes of guitar used as atmosphere.",
+    "s": 1
+   },
+   {
+    "id": "cocteau-twins",
+    "why": "Vocals used for sound and feeling more than words.",
+    "s": 1
+   },
+   {
+    "id": "bjork",
+    "why": "Iceland's breakout artist who showed local music could travel.",
+    "s": 1
+   },
+   {
+    "id": "sugarcubes",
+    "why": "The Reykjavík band that came before them.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "olafur-arnalds",
+    "why": "Icelandic music built on slow strings and piano."
+   },
+   {
+    "id": "enya",
+    "why": "Layered, ethereal vocals that wash over you."
+   }
+  ]
+ },
+ {
+  "id": "explosions-in-the-sky",
+  "years": "1999–present",
+  "origin": "Austin, Texas",
+  "genres": [
+   "post-rock",
+   "instrumental rock"
+  ],
+  "summary": "A Texas instrumental band known for emotional, guitar-driven crescendos and for scoring Friday Night Lights.",
+  "know": [
+   "They scored the 2004 film Friday Night Lights.",
+   "They record for the label Temporary Residence.",
+   "Their music is entirely instrumental with three guitars common in their lineup."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever",
+    2001
+   ],
+   [
+    "The Earth Is Not a Cold Dead Place",
+    2003
+   ],
+   [
+    "All of a Sudden I Miss Everyone",
+    2007
+   ],
+   [
+    "Take Care, Take Care, Take Care",
+    2011
+   ]
+  ],
+  "songs": [
+   "Your Hand in Mine",
+   "First Breath After Coma",
+   "The Only Moment We Were Alone",
+   "Welcome, Ghosts"
+  ],
+  "influencedBy": [
+   {
+    "id": "mogwai",
+    "why": "Loud-quiet instrumental structures.",
+    "s": 1
+   },
+   {
+    "id": "godspeed-you-black-emperor",
+    "why": "Long crescendo-based instrumentals.",
+    "s": 1
+   },
+   {
+    "id": "slint",
+    "why": "The post-rock blueprint of tension and release.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "u2",
+    "why": "Chiming, reverb-heavy guitars reaching for something big."
+   },
+   {
+    "id": "bon-iver",
+    "why": "Emotional, atmospheric music that rises slowly."
+   }
+  ]
+ },
+ {
+  "id": "don-caballero",
+  "years": "1991–2011",
+  "origin": "Pittsburgh, Pennsylvania",
+  "genres": [
+   "math rock",
+   "post-rock",
+   "instrumental rock"
+  ],
+  "summary": "A Pittsburgh instrumental band built around Damon Che's dense drumming and tangled guitars, central to 1990s math rock.",
+  "know": [
+   "Drummer Damon Che was the band's constant member.",
+   "Guitarist Ian Williams later founded Battles.",
+   "They recorded for the Chicago label Touch and Go."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "For Respect",
+    1993
+   ],
+   [
+    "Don Caballero 2",
+    1995
+   ],
+   [
+    "What Burns Never Returns",
+    1998
+   ],
+   [
+    "American Don",
+    2000
+   ]
+  ],
+  "songs": [
+   "Delivering the Groceries at 138 Beats per Minute",
+   "Our Caballero",
+   "Room Temperature Suite"
+  ],
+  "influencedBy": [
+   {
+    "id": "king-crimson",
+    "why": "Complex rhythms and interlocking guitars.",
+    "s": 1
+   },
+   {
+    "id": "slint",
+    "why": "Instrumental rock with odd time signatures.",
+    "s": 1
+   },
+   {
+    "id": "big-black",
+    "why": "Harsh, precise guitar sound.",
+    "s": 1
+   },
+   {
+    "id": "helmet",
+    "why": "Tight, heavy, rhythm-first riffing.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "battles",
+    "why": "Ian Williams took the band's looping guitar ideas into Battles.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "king-crimson",
+    "why": "Knotty, complex rhythms played with precision."
+   },
+   {
+    "id": "meshuggah",
+    "why": "Rhythms so complex they become the hook."
+   }
+  ]
+ },
+ {
+  "id": "battles",
+  "years": "2002–present",
+  "origin": "New York, New York",
+  "genres": [
+   "math rock",
+   "experimental rock",
+   "electronic rock"
+  ],
+  "summary": "A New York band that mixed looped guitars, electronics and huge drumming, best known for the single Atlas.",
+  "know": [
+   "Founder Ian Williams came from Don Caballero.",
+   "Drummer John Stanier previously played in Helmet.",
+   "They record for Warp Records, the British electronic label."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Mirrored",
+    2007
+   ],
+   [
+    "Gloss Drop",
+    2011
+   ],
+   [
+    "La Di Da Di",
+    2015
+   ],
+   [
+    "Juice B Crypts",
+    2019
+   ]
+  ],
+  "songs": [
+   "Atlas",
+   "Tonto",
+   "Ice Cream",
+   "Futura",
+   "Tij"
+  ],
+  "influencedBy": [
+   {
+    "id": "don-caballero",
+    "why": "Ian Williams brought Don Caballero's tangled guitars to Battles.",
+    "s": 3
+   },
+   {
+    "id": "helmet",
+    "why": "John Stanier's precise, heavy drumming came from Helmet.",
+    "s": 3
+   },
+   {
+    "id": "tortoise",
+    "why": "Instrumental rock mixed with electronics.",
+    "s": 1
+   },
+   {
+    "id": "can",
+    "why": "Repetitive grooves built in the studio.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "squarepusher",
+    "why": "Hyper-detailed, rhythmic electronic music."
+   },
+   {
+    "id": "flying-lotus",
+    "why": "Dense, playful beats with live-sounding parts."
+   }
+  ]
+ },
+ {
+  "id": "built-to-spill",
+  "years": "1992–present",
+  "origin": "Boise, Idaho",
+  "genres": [
+   "indie rock",
+   "alternative rock",
+   "neo-psychedelia"
+  ],
+  "summary": "Doug Martsch's band made long, guitar-rich indie rock songs and became one of the most respected American indie bands of the 1990s.",
+  "know": [
+   "Doug Martsch is the only constant member.",
+   "They signed to Warner Bros. in 1995 while keeping creative control.",
+   "Producer Phil Ek worked on their key albums."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "There's Nothing Wrong with Love",
+    1994
+   ],
+   [
+    "Perfect from Now On",
+    1997
+   ],
+   [
+    "Keep It Like a Secret",
+    1999
+   ],
+   [
+    "Untethered Moon",
+    2015
+   ]
+  ],
+  "songs": [
+   "Carry the Zero",
+   "Car",
+   "Big Dipper",
+   "Randy Described Eternity",
+   "Goin' Against Your Mind"
+  ],
+  "influencedBy": [
+   {
+    "id": "neil-young",
+    "why": "Long, raw guitar solos owe a lot to Neil Young with Crazy Horse.",
+    "s": 2
+   },
+   {
+    "id": "dinosaur-jr",
+    "why": "Loud, melodic indie guitar rock.",
+    "s": 2
+   },
+   {
+    "id": "meat-puppets",
+    "why": "Psychedelic, twangy indie guitar.",
+    "s": 1
+   },
+   {
+    "id": "husker-du",
+    "why": "Melodic noise and big guitar sound.",
+    "s": 1
+   },
+   {
+    "id": "pavement",
+    "why": "Loose, offbeat indie rock songcraft.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "modest-mouse",
+    "why": "The Pacific Northwest band shared Built to Spill's sprawling guitar style.",
+    "s": 1
+   },
+   {
+    "id": "death-cab-for-cutie",
+    "why": "Their melodic Northwest indie rock follows Built to Spill.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "grateful-dead",
+    "why": "Long, exploratory guitar jams."
+   },
+   {
+    "id": "the-allman-brothers",
+    "why": "Extended, melodic guitar playing."
+   }
+  ]
+ },
+ {
+  "id": "yo-la-tengo",
+  "years": "1984–present",
+  "origin": "Hoboken, New Jersey",
+  "genres": [
+   "indie rock",
+   "noise pop",
+   "dream pop"
+  ],
+  "summary": "Ira Kaplan, Georgia Hubley and James McNew have spent decades moving between quiet pop, long feedback jams and covers, becoming an indie institution.",
+  "know": [
+   "Kaplan and Hubley are a married couple, and McNew joined on bass in the early 1990s.",
+   "They have recorded for Matador Records since the 1990s.",
+   "They were known for their yearly Hanukkah shows at Maxwell's in Hoboken."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Painful",
+    1993
+   ],
+   [
+    "Electr-O-Pura",
+    1995
+   ],
+   [
+    "I Can Hear the Heart Beating as One",
+    1997
+   ],
+   [
+    "And Then Nothing Turned Itself Inside-Out",
+    2000
+   ]
+  ],
+  "songs": [
+   "Autumn Sweater",
+   "Sugarcube",
+   "Tom Courtenay",
+   "From a Motel 6",
+   "Our Way to Fall"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-velvet-underground",
+    "why": "Drones, feedback and hushed songs come from the Velvets.",
+    "s": 2
+   },
+   {
+    "id": "the-feelies",
+    "why": "The nearby New Jersey band's jangly, nervy guitar pop.",
+    "s": 1
+   },
+   {
+    "id": "love",
+    "why": "1960s psychedelic pop they love to cover.",
+    "s": 1
+   },
+   {
+    "id": "the-kinks",
+    "why": "Warm, melodic pop songwriting.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-zombies",
+    "why": "Soft, moody pop with lovely harmonies."
+   },
+   {
+    "id": "astrud-gilberto",
+    "why": "Hushed, intimate singing."
+   }
+  ]
+ },
+ {
+  "id": "the-shins",
+  "years": "1996–present",
+  "origin": "Albuquerque, New Mexico",
+  "genres": [
+   "indie rock",
+   "indie pop",
+   "folk rock"
+  ],
+  "summary": "James Mercer's band wrote bright, intricate indie pop, and New Slang became a signature song of 2000s indie.",
+  "know": [
+   "The band was signed to Sub Pop for their first three albums.",
+   "New Slang was featured in the film Garden State.",
+   "Wincing the Night Away debuted at number two on the Billboard 200."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Oh, Inverted World",
+    2001
+   ],
+   [
+    "Chutes Too Narrow",
+    2003
+   ],
+   [
+    "Wincing the Night Away",
+    2007
+   ],
+   [
+    "Heartworms",
+    2017
+   ]
+  ],
+  "songs": [
+   "New Slang",
+   "Caring Is Creepy",
+   "Kissing the Lipless",
+   "Australia",
+   "Simple Song"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beach-boys",
+    "why": "Layered harmonies and sunny melodies.",
+    "s": 2
+   },
+   {
+    "id": "the-kinks",
+    "why": "Witty, melodic British pop.",
+    "s": 1
+   },
+   {
+    "id": "the-zombies",
+    "why": "Moody 1960s pop chords.",
+    "s": 1
+   },
+   {
+    "id": "the-smiths",
+    "why": "Jangly guitars and wordy lyrics.",
+    "s": 1
+   },
+   {
+    "id": "the-beatles",
+    "why": "Classic pop songcraft.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "simon-garfunkel",
+    "why": "Gentle, literate folk pop with sweet harmonies."
+   },
+   {
+    "id": "the-zombies",
+    "why": "Melodic, slightly melancholy 1960s pop."
+   }
+  ]
+ },
+ {
+  "id": "death-cab-for-cutie",
+  "years": "1997–present",
+  "origin": "Bellingham, Washington",
+  "genres": [
+   "indie rock",
+   "indie pop",
+   "emo"
+  ],
+  "summary": "Ben Gibbard's band went from a lo-fi solo project to one of the biggest indie rock bands of the 2000s with Transatlanticism and Plans.",
+  "know": [
+   "It began as Ben Gibbard's solo project in Bellingham.",
+   "Guitarist Chris Walla produced their early albums.",
+   "Narrow Stairs debuted at number one on the Billboard 200 in 2008."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "We Have the Facts and We're Voting Yes",
+    2000
+   ],
+   [
+    "Transatlanticism",
+    2003
+   ],
+   [
+    "Plans",
+    2005
+   ],
+   [
+    "Narrow Stairs",
+    2008
+   ]
+  ],
+  "songs": [
+   "Transatlanticism",
+   "I Will Follow You into the Dark",
+   "Soul Meets Body",
+   "The Sound of Settling",
+   "I Will Possess Your Heart"
+  ],
+  "influencedBy": [
+   {
+    "id": "built-to-spill",
+    "why": "Melodic Pacific Northwest indie guitar rock.",
+    "s": 1
+   },
+   {
+    "id": "the-smiths",
+    "why": "Wistful, literate guitar pop.",
+    "s": 1
+   },
+   {
+    "id": "rem",
+    "why": "Jangly, emotional American indie rock.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-postal-service",
+    "why": "Gibbard's soft, wistful voice over electronic beats."
+   },
+   {
+    "id": "iron-and-wine",
+    "why": "Gentle, intimate songs full of detail."
+   }
+  ]
+ },
+ {
+  "id": "bright-eyes",
+  "years": "1995–present",
+  "origin": "Omaha, Nebraska",
+  "genres": [
+   "indie folk",
+   "emo",
+   "folk rock"
+  ],
+  "summary": "Conor Oberst's main project, with Mike Mogis and Nate Walcott, made raw, wordy folk rock that defined the Saddle Creek scene.",
+  "know": [
+   "They are the flagship act of Omaha's Saddle Creek Records.",
+   "Emmylou Harris sang on I'm Wide Awake, It's Morning.",
+   "In 2004 Lua and Take It Easy (Love Nothing) held the top two spots on the Billboard singles sales chart."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Fevers and Mirrors",
+    2000
+   ],
+   [
+    "Lifted or The Story Is in the Soil, Keep Your Ear to the Ground",
+    2002
+   ],
+   [
+    "I'm Wide Awake, It's Morning",
+    2005
+   ],
+   [
+    "Digital Ash in a Digital Urn",
+    2005
+   ]
+  ],
+  "songs": [
+   "Lua",
+   "First Day of My Life",
+   "Bowl of Oranges",
+   "Road to Joy",
+   "At the Bottom of Everything"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-dylan",
+    "why": "Oberst's wordy, folk-rooted songs follow Dylan.",
+    "s": 2
+   },
+   {
+    "id": "emmylou-harris",
+    "why": "Sang harmonies on I'm Wide Awake, It's Morning.",
+    "s": 2
+   },
+   {
+    "id": "neutral-milk-hotel",
+    "why": "Raw, cracked vocals over folky noise.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "phoebe-bridgers",
+    "why": "Oberst and Bridgers formed Better Oblivion Community Center together.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "elliott-smith",
+    "why": "Fragile, confessional songwriting."
+   },
+   {
+    "id": "townes-van-zandt",
+    "why": "Sad, poetic folk songs."
+   }
+  ]
+ },
+ {
+  "id": "tv-on-the-radio",
+  "years": "2001–present",
+  "origin": "Brooklyn, New York",
+  "genres": [
+   "art rock",
+   "indie rock",
+   "experimental rock"
+  ],
+  "summary": "A Brooklyn band that mixed post-punk, soul, doo-wop and noise into some of the most acclaimed rock of the 2000s.",
+  "know": [
+   "David Bowie sang on Province from Return to Cookie Mountain.",
+   "Guitarist Dave Sitek also produced records for other Brooklyn bands.",
+   "Tunde Adebimpe and Kyp Malone share vocals."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Desperate Youth, Blood Thirsty Babes",
+    2004
+   ],
+   [
+    "Return to Cookie Mountain",
+    2006
+   ],
+   [
+    "Dear Science",
+    2008
+   ],
+   [
+    "Nine Types of Light",
+    2011
+   ]
+  ],
+  "songs": [
+   "Staring at the Sun",
+   "Wolf Like Me",
+   "Golden Age",
+   "DLZ",
+   "Province"
+  ],
+  "influencedBy": [
+   {
+    "id": "david-bowie",
+    "why": "Bowie championed the band and sang on Province.",
+    "s": 2
+   },
+   {
+    "id": "talking-heads",
+    "why": "Art rock mixed with funk and soul.",
+    "s": 1
+   },
+   {
+    "id": "brian-eno",
+    "why": "Studio textures and layered sound.",
+    "s": 1
+   },
+   {
+    "id": "prince",
+    "why": "Falsetto vocals and funk on Golden Age.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "massive-attack",
+    "why": "Dark, soulful music built from layers and loops."
+   },
+   {
+    "id": "peter-gabriel",
+    "why": "Art rock with a soulful, rhythmic heart."
+   }
+  ]
+ },
+ {
+  "id": "franz-ferdinand",
+  "years": "2002–present",
+  "origin": "Glasgow, Scotland",
+  "genres": [
+   "post-punk revival",
+   "indie rock",
+   "dance-punk"
+  ],
+  "summary": "A Glasgow band that made angular, danceable guitar rock, with Take Me Out as their breakout single.",
+  "know": [
+   "Their 2004 debut won the Mercury Prize.",
+   "They are named after Archduke Franz Ferdinand of Austria.",
+   "In 2015 they made an album with Sparks as the group FFS."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Franz Ferdinand",
+    2004
+   ],
+   [
+    "You Could Have It So Much Better",
+    2005
+   ],
+   [
+    "Tonight",
+    2009
+   ],
+   [
+    "Right Thoughts, Right Words, Right Action",
+    2013
+   ]
+  ],
+  "songs": [
+   "Take Me Out",
+   "Do You Want To",
+   "The Dark of the Matinée",
+   "This Fire",
+   "No You Girls"
+  ],
+  "influencedBy": [
+   {
+    "id": "gang-of-four",
+    "why": "Choppy, danceable post-punk guitars.",
+    "s": 2
+   },
+   {
+    "id": "sparks",
+    "why": "Theatrical art pop; they later made an album together as FFS.",
+    "s": 2
+   },
+   {
+    "id": "talking-heads",
+    "why": "Nervy, danceable art rock.",
+    "s": 1
+   },
+   {
+    "id": "roxy-music",
+    "why": "Art-school style and glamour.",
+    "s": 1
+   },
+   {
+    "id": "wire",
+    "why": "Angular, minimal post-punk.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "chic",
+    "why": "Guitar music built to make people dance."
+   },
+   {
+    "id": "the-human-league",
+    "why": "Cool, stylish British dance pop."
+   }
+  ]
+ },
+ {
+  "id": "bloc-party",
+  "years": "1999–present",
+  "origin": "London, England",
+  "genres": [
+   "indie rock",
+   "post-punk revival",
+   "dance-punk"
+  ],
+  "summary": "Kele Okereke's band made jittery, urgent guitar rock on Silent Alarm, then pushed further into electronic sounds.",
+  "know": [
+   "Silent Alarm was produced by Paul Epworth.",
+   "Guitarist Russell Lissack's effects-heavy playing is central to their sound.",
+   "They released a remix album, Silent Alarm Remixed, in 2005."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Silent Alarm",
+    2005
+   ],
+   [
+    "A Weekend in the City",
+    2007
+   ],
+   [
+    "Intimacy",
+    2008
+   ],
+   [
+    "Alpha Games",
+    2022
+   ]
+  ],
+  "songs": [
+   "Banquet",
+   "Helicopter",
+   "This Modern Love",
+   "Flux",
+   "Like Eating Glass"
+  ],
+  "influencedBy": [
+   {
+    "id": "gang-of-four",
+    "why": "Choppy, rhythmic post-punk guitars.",
+    "s": 2
+   },
+   {
+    "id": "siouxsie",
+    "why": "Okereke has often named Siouxsie and the Banshees as a key influence.",
+    "s": 2
+   },
+   {
+    "id": "the-cure",
+    "why": "Moody, atmospheric guitar lines.",
+    "s": 1
+   },
+   {
+    "id": "joy-division",
+    "why": "Tense, driving post-punk rhythms.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-chemical-brothers",
+    "why": "Rock energy fused with electronic beats."
+   },
+   {
+    "id": "depeche-mode",
+    "why": "Dark, emotional electronic rock."
+   }
+  ]
+ },
+ {
+  "id": "the-libertines",
+  "years": "1997–present",
+  "origin": "London, England",
+  "genres": [
+   "garage rock revival",
+   "indie rock",
+   "post-punk revival"
+  ],
+  "summary": "Carl Barât and Pete Doherty's ramshackle band revived British guitar rock in the early 2000s.",
+  "know": [
+   "Mick Jones of the Clash produced their first two albums.",
+   "Can't Stand Me Now reached number two in the UK in 2004.",
+   "They returned in 2015 with Anthems for Doomed Youth."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Up the Bracket",
+    2002
+   ],
+   [
+    "The Libertines",
+    2004
+   ],
+   [
+    "Anthems for Doomed Youth",
+    2015
+   ],
+   [
+    "All Quiet on the Eastern Esplanade",
+    2024
+   ]
+  ],
+  "songs": [
+   "Don't Look Back into the Sun",
+   "Can't Stand Me Now",
+   "Up the Bracket",
+   "Time for Heroes",
+   "What Became of the Likely Lads"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-clash",
+    "why": "Mick Jones produced their first two albums.",
+    "s": 3
+   },
+   {
+    "id": "the-smiths",
+    "why": "Romantic, literate English guitar songs.",
+    "s": 2
+   },
+   {
+    "id": "the-kinks",
+    "why": "Very English songwriting about London life.",
+    "s": 2
+   },
+   {
+    "id": "the-jam",
+    "why": "Sharp, mod-styled guitar rock.",
+    "s": 1
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "Loose, raw guitar rock.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "arctic-monkeys",
+    "why": "Their early sharp, very English guitar rock followed the Libertines.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "faces",
+    "why": "Ramshackle, warm rock and roll played like a party."
+   },
+   {
+    "id": "the-streets",
+    "why": "Vivid, funny stories of London life."
+   }
+  ]
+ },
+ {
+  "id": "spoon",
+  "years": "1993–present",
+  "origin": "Austin, Texas",
+  "genres": [
+   "indie rock",
+   "art rock",
+   "garage rock"
+  ],
+  "summary": "Britt Daniel and Jim Eno's band make lean, rhythmic rock songs where every part counts, and have been one of indie rock's most consistent bands.",
+  "know": [
+   "Britt Daniel and drummer Jim Eno are the core members.",
+   "They were dropped by Elektra after one album and later thrived on Merge.",
+   "Ga Ga Ga Ga Ga reached the Billboard top 10 in 2007."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Girls Can Tell",
+    2001
+   ],
+   [
+    "Kill the Moonlight",
+    2002
+   ],
+   [
+    "Gimme Fiction",
+    2005
+   ],
+   [
+    "Ga Ga Ga Ga Ga",
+    2007
+   ]
+  ],
+  "songs": [
+   "The Underdog",
+   "The Way We Get By",
+   "I Turn My Camera On",
+   "Don't You Evah",
+   "Inside Out"
+  ],
+  "influencedBy": [
+   {
+    "id": "wire",
+    "why": "Minimal, clipped post-punk songs.",
+    "s": 2
+   },
+   {
+    "id": "elvis-costello",
+    "why": "Sharp, hooky songwriting.",
+    "s": 1
+   },
+   {
+    "id": "prince",
+    "why": "Falsetto and tight funk on I Turn My Camera On.",
+    "s": 1
+   },
+   {
+    "id": "pixies",
+    "why": "Short, punchy, odd rock songs.",
+    "s": 1
+   },
+   {
+    "id": "the-kinks",
+    "why": "Catchy, economical pop songs.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "elvis-costello",
+    "why": "Smart, tight songs with a snarl."
+   },
+   {
+    "id": "the-meters",
+    "why": "Lean, locked-in grooves with space between notes."
+   }
+  ]
+ },
+ {
+  "id": "wilco",
+  "years": "1994–present",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "alternative country",
+   "indie rock",
+   "art rock"
+  ],
+  "summary": "Jeff Tweedy's band grew from alt-country into experimental rock, and Yankee Hotel Foxtrot became one of the key albums of the 2000s.",
+  "know": [
+   "Tweedy formed Wilco after the breakup of Uncle Tupelo.",
+   "Reprise rejected Yankee Hotel Foxtrot, and Nonesuch released it in 2002.",
+   "With Billy Bragg they set unrecorded Woody Guthrie lyrics to music on Mermaid Avenue."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Being There",
+    1996
+   ],
+   [
+    "Summerteeth",
+    1999
+   ],
+   [
+    "Yankee Hotel Foxtrot",
+    2002
+   ],
+   [
+    "A Ghost Is Born",
+    2004
+   ]
+  ],
+  "songs": [
+   "Jesus, Etc.",
+   "I Am Trying to Break Your Heart",
+   "Heavy Metal Drummer",
+   "Impossible Germany",
+   "Via Chicago"
+  ],
+  "influencedBy": [
+   {
+    "id": "uncle-tupelo",
+    "why": "Tweedy's earlier band, where Wilco's alt-country roots lie.",
+    "s": 3
+   },
+   {
+    "id": "woody-guthrie",
+    "why": "They set Guthrie's lyrics to music on Mermaid Avenue.",
+    "s": 2
+   },
+   {
+    "id": "neil-young",
+    "why": "Mix of tender country and noisy guitar.",
+    "s": 2
+   },
+   {
+    "id": "gram-parsons",
+    "why": "Country rock roots.",
+    "s": 1
+   },
+   {
+    "id": "the-beatles",
+    "why": "Pop craft on Summerteeth.",
+    "s": 1
+   },
+   {
+    "id": "the-band",
+    "why": "Rootsy American rock.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-band",
+    "why": "Rootsy, warm American rock."
+   },
+   {
+    "id": "lucinda-williams",
+    "why": "Gritty, heartfelt alt-country songwriting."
+   }
+  ]
+ },
+ {
+  "id": "animal-collective",
+  "years": "1999–present",
+  "origin": "Baltimore, Maryland",
+  "genres": [
+   "experimental pop",
+   "psychedelic pop",
+   "freak folk"
+  ],
+  "summary": "A group of childhood friends from Baltimore whose loop-based, psychedelic pop peaked with Merriweather Post Pavilion.",
+  "know": [
+   "Members go by the names Avey Tare, Panda Bear, Geologist and Deakin.",
+   "Merriweather Post Pavilion is named after an amphitheater in Maryland.",
+   "Panda Bear's solo album Person Pitch fed into the group's later sound."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Sung Tongs",
+    2004
+   ],
+   [
+    "Feels",
+    2005
+   ],
+   [
+    "Strawberry Jam",
+    2007
+   ],
+   [
+    "Merriweather Post Pavilion",
+    2009
+   ]
+  ],
+  "songs": [
+   "My Girls",
+   "Summertime Clothes",
+   "Fireworks",
+   "Peacebone",
+   "Leaf House"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beach-boys",
+    "why": "Layered harmonies and Brian Wilson's studio ideas run through their records.",
+    "s": 2
+   },
+   {
+    "id": "syd-barrett",
+    "why": "Whimsical, childlike psychedelia.",
+    "s": 1
+   },
+   {
+    "id": "pink-floyd",
+    "why": "Early psychedelic experimentation.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "boredoms",
+    "why": "Joyful, chaotic, tribal experimental music."
+   },
+   {
+    "id": "the-avalanches",
+    "why": "Euphoric collages of sound and samples."
+   }
+  ]
+ },
+ {
+  "id": "broken-social-scene",
+  "years": "1999–present",
+  "origin": "Toronto, Canada",
+  "genres": [
+   "indie rock",
+   "post-rock",
+   "baroque pop"
+  ],
+  "summary": "A sprawling Toronto collective whose You Forgot It in People helped launch a wave of Canadian indie rock.",
+  "know": [
+   "Kevin Drew and Brendan Canning lead the group.",
+   "Members and contributors have included Feist, Emily Haines and Amy Millan.",
+   "You Forgot It in People won a Juno Award for Alternative Album of the Year."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Feel Good Lost",
+    2001
+   ],
+   [
+    "You Forgot It in People",
+    2002
+   ],
+   [
+    "Broken Social Scene",
+    2005
+   ],
+   [
+    "Forgiveness Rock Record",
+    2010
+   ]
+  ],
+  "songs": [
+   "Anthems for a Seventeen-Year-Old Girl",
+   "Cause = Time",
+   "7/4 (Shoreline)",
+   "Almost Crimes",
+   "Lover's Spit"
+  ],
+  "influencedBy": [
+   {
+    "id": "tortoise",
+    "why": "John McEntire produced Forgiveness Rock Record.",
+    "s": 3
+   },
+   {
+    "id": "sonic-youth",
+    "why": "Noisy, layered guitars.",
+    "s": 1
+   },
+   {
+    "id": "pavement",
+    "why": "Loose, offbeat indie rock.",
+    "s": 1
+   },
+   {
+    "id": "my-bloody-valentine",
+    "why": "Hazy walls of guitar.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "sufjan-stevens",
+    "why": "Big, layered arrangements with many instruments."
+   },
+   {
+    "id": "the-band",
+    "why": "A loose collective sound with many voices."
+   }
+  ]
+ },
+ {
+  "id": "the-mars-volta",
+  "years": "2001–present",
+  "origin": "El Paso, Texas",
+  "genres": [
+   "progressive rock",
+   "experimental rock",
+   "post-hardcore"
+  ],
+  "summary": "Omar Rodríguez-López and Cedric Bixler-Zavala's band mixed prog, salsa, punk and psychedelia into long, intense albums.",
+  "know": [
+   "They formed after At the Drive-In went on hiatus.",
+   "De-Loused in the Comatorium was produced by Rick Rubin with Flea on bass.",
+   "Wax Simulacra won the Grammy for Best Hard Rock Performance in 2009."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "De-Loused in the Comatorium",
+    2003
+   ],
+   [
+    "Frances the Mute",
+    2005
+   ],
+   [
+    "Amputechture",
+    2006
+   ],
+   [
+    "The Bedlam in Goliath",
+    2008
+   ]
+  ],
+  "songs": [
+   "Inertiatic ESP",
+   "The Widow",
+   "Televators",
+   "Goliath",
+   "L'Via L'Viaquez"
+  ],
+  "influencedBy": [
+   {
+    "id": "at-the-drive-in",
+    "why": "Both leaders came from At the Drive-In.",
+    "s": 3
+   },
+   {
+    "id": "rick-rubin",
+    "why": "Produced De-Loused in the Comatorium.",
+    "s": 3
+   },
+   {
+    "id": "red-hot-chili-peppers",
+    "why": "Flea played bass and John Frusciante guested on their records.",
+    "s": 3
+   },
+   {
+    "id": "king-crimson",
+    "why": "Complex, long progressive rock pieces.",
+    "s": 2
+   },
+   {
+    "id": "led-zeppelin",
+    "why": "Heavy, dramatic rock and high vocals.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "santana",
+    "why": "Latin rhythms fused with blazing rock guitar."
+   },
+   {
+    "id": "dream-theater",
+    "why": "Long, complex progressive pieces."
+   }
+  ]
+ },
+ {
+  "id": "at-the-drive-in",
+  "years": "1994–2018",
+  "origin": "El Paso, Texas",
+  "genres": [
+   "post-hardcore",
+   "emo",
+   "alternative rock"
+  ],
+  "summary": "An El Paso band known for frantic live shows, whose Relationship of Command became a landmark of post-hardcore.",
+  "know": [
+   "Relationship of Command was produced by Ross Robinson in 2000.",
+   "Iggy Pop guested on the album.",
+   "Omar Rodríguez-López and Cedric Bixler-Zavala later formed The Mars Volta."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Acrobatic Tenement",
+    1996
+   ],
+   [
+    "In/Casino/Out",
+    1998
+   ],
+   [
+    "Relationship of Command",
+    2000
+   ]
+  ],
+  "songs": [
+   "One Armed Scissor",
+   "Invalid Litter Dept.",
+   "Pattern Against User",
+   "Arcarsenal",
+   "Napoleon Solo"
+  ],
+  "influencedBy": [
+   {
+    "id": "fugazi",
+    "why": "Tense, angular post-hardcore.",
+    "s": 2
+   },
+   {
+    "id": "the-stooges",
+    "why": "Wild, physical rock energy, and Iggy Pop sang on their record.",
+    "s": 2
+   },
+   {
+    "id": "bad-brains",
+    "why": "Fast, intense hardcore.",
+    "s": 1
+   },
+   {
+    "id": "rites-of-spring",
+    "why": "Emotional, cathartic hardcore.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-mars-volta",
+    "why": "Two members formed The Mars Volta after the band split.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "rage-against-the-machine",
+    "why": "Explosive, riff-heavy rock with intense vocals."
+   },
+   {
+    "id": "deftones",
+    "why": "Heavy guitars with wild, emotional vocals."
+   }
+  ]
+ },
+ {
+  "id": "deerhunter",
+  "years": "2001–present",
+  "origin": "Atlanta, Georgia",
+  "genres": [
+   "indie rock",
+   "neo-psychedelia",
+   "shoegaze"
+  ],
+  "summary": "Bradford Cox's Atlanta band blended ambient noise, garage rock and pop, peaking with Microcastle and Halcyon Digest.",
+  "know": [
+   "Bradford Cox also records solo as Atlas Sound.",
+   "Guitarist Lockett Pundt also records as Lotus Plaza.",
+   "Halcyon Digest came out on 4AD in 2010."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Cryptograms",
+    2007
+   ],
+   [
+    "Microcastle",
+    2008
+   ],
+   [
+    "Halcyon Digest",
+    2010
+   ],
+   [
+    "Why Hasn't Everything Already Disappeared?",
+    2019
+   ]
+  ],
+  "songs": [
+   "Nothing Ever Happened",
+   "Desire Lines",
+   "Helicopter",
+   "Revival",
+   "Agoraphobia"
+  ],
+  "influencedBy": [
+   {
+    "id": "my-bloody-valentine",
+    "why": "Hazy, dreamy guitar noise.",
+    "s": 1
+   },
+   {
+    "id": "brian-eno",
+    "why": "Ambient textures and studio atmosphere.",
+    "s": 1
+   },
+   {
+    "id": "sonic-youth",
+    "why": "Guitar noise used as texture.",
+    "s": 1
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "Drone and simple, hypnotic songs.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "neu",
+    "why": "Hypnotic, repeating grooves that drift."
+   },
+   {
+    "id": "13th-floor-elevators",
+    "why": "Strange, hazy garage psychedelia."
+   }
+  ]
+ },
+ {
+  "id": "beach-house",
+  "years": "2004–present",
+  "origin": "Baltimore, Maryland",
+  "genres": [
+   "dream pop",
+   "indie pop",
+   "shoegaze"
+  ],
+  "summary": "Victoria Legrand and Alex Scally make slow, lush dream pop, and became one of the defining bands of the genre in the 2010s.",
+  "know": [
+   "The duo is Victoria Legrand on vocals and keyboards and Alex Scally on guitar.",
+   "Teen Dream, their first album on Sub Pop, came out in 2010.",
+   "Space Song became a streaming hit years after its 2015 release."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Teen Dream",
+    2010
+   ],
+   [
+    "Bloom",
+    2012
+   ],
+   [
+    "Depression Cherry",
+    2015
+   ],
+   [
+    "Once Twice Melody",
+    2022
+   ]
+  ],
+  "songs": [
+   "Space Song",
+   "Myth",
+   "Zebra",
+   "Norway",
+   "Silver Soul"
+  ],
+  "influencedBy": [
+   {
+    "id": "mazzy-star",
+    "why": "Slow, hazy dream pop with a low, smoky voice.",
+    "s": 1
+   },
+   {
+    "id": "cocteau-twins",
+    "why": "Dreamy, glowing guitar and vocal textures.",
+    "s": 1
+   },
+   {
+    "id": "slowdive",
+    "why": "Reverb-heavy, drifting guitars.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "lana-del-rey",
+    "why": "Slow, cinematic songs with a dreamy voice."
+   },
+   {
+    "id": "enya",
+    "why": "Lush, layered music that washes over you."
+   }
+  ]
+ }
+]

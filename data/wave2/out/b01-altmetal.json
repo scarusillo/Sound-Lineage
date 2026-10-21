@@ -1,0 +1,5125 @@
+[
+ {
+  "id": "dead-kennedys",
+  "years": "1978–present",
+  "origin": "San Francisco, California",
+  "genres": [
+   "hardcore punk",
+   "political punk",
+   "surf punk"
+  ],
+  "summary": "San Francisco punk band led by Jello Biafra, known for sharp political satire set to fast, surf-tinged guitar. They were among the most influential American hardcore bands and helped build the scene's independent infrastructure.",
+  "know": [
+   "East Bay Ray's reverb-heavy guitar borrowed from 1960s surf music.",
+   "Jello Biafra founded the Alternative Tentacles label in 1979.",
+   "Biafra ran for mayor of San Francisco in 1979 and finished fourth."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Fresh Fruit for Rotting Vegetables",
+    1980
+   ],
+   [
+    "In God We Trust, Inc.",
+    1981
+   ],
+   [
+    "Plastic Surgery Disasters",
+    1982
+   ],
+   [
+    "Frankenchrist",
+    1985
+   ]
+  ],
+  "songs": [
+   "California Über Alles",
+   "Holiday in Cambodia",
+   "Moon Over Marin",
+   "Halloween"
+  ],
+  "influencedBy": [
+   {
+    "id": "ramones",
+    "why": "Biafra has described seeing the Ramones in 1977 as the push that drew him into punk.",
+    "s": 2
+   },
+   {
+    "id": "the-stooges",
+    "why": "Biafra is a longtime Stooges devotee, and their raw attack shaped the band's early sound.",
+    "s": 2
+   },
+   {
+    "id": "sex-pistols",
+    "why": "The Pistols showed how punk could be confrontational and openly political.",
+    "s": 1
+   },
+   {
+    "id": "mc5",
+    "why": "The MC5's mix of loud rock and radical politics prefigured the Dead Kennedys' approach.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "napalm-death",
+    "why": "Napalm Death recorded a Dead Kennedys cover, carrying their politics into grindcore.",
+    "s": 2
+   },
+   {
+    "id": "nofx",
+    "why": "NOFX built on the Dead Kennedys' blend of fast punk and satirical humor.",
+    "s": 1
+   },
+   {
+    "id": "green-day",
+    "why": "Bay Area punk that followed, including Green Day, grew up in a scene the Dead Kennedys helped define.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "public-enemy",
+    "why": "Both used noisy, urgent music as a vehicle for blunt political commentary."
+   },
+   {
+    "id": "rage-against-the-machine",
+    "why": "Same fusion of aggressive music and pointed political message."
+   }
+  ]
+ },
+ {
+  "id": "the-damned",
+  "years": "1976–present",
+  "origin": "London, England",
+  "genres": [
+   "punk rock",
+   "gothic rock",
+   "garage rock"
+  ],
+  "summary": "One of the first British punk bands, the Damned released the first UK punk single and album. They later moved into gothic and psychedelic rock, helping shape goth.",
+  "know": [
+   "Their single New Rose (1976) is often cited as the first British punk single.",
+   "They were the first UK punk band to tour the United States, playing CBGB in 1977.",
+   "Guitarist Captain Sensible later scored a UK number one as a solo artist with Happy Talk in 1982."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Damned Damned Damned",
+    1977
+   ],
+   [
+    "Machine Gun Etiquette",
+    1979
+   ],
+   [
+    "The Black Album",
+    1980
+   ],
+   [
+    "Phantasmagoria",
+    1985
+   ]
+  ],
+  "songs": [
+   "New Rose",
+   "Neat Neat Neat",
+   "Smash It Up",
+   "Love Song",
+   "Eloise"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-stooges",
+    "why": "They covered the Stooges on their debut and borrowed their blunt, fast attack.",
+    "s": 2
+   },
+   {
+    "id": "mc5",
+    "why": "The band covered the MC5 and shared their high-energy garage approach.",
+    "s": 2
+   },
+   {
+    "id": "new-york-dolls",
+    "why": "The Dolls' trashy glam-punk was a clear model for the early Damned.",
+    "s": 1
+   },
+   {
+    "id": "nick-lowe",
+    "why": "Nick Lowe produced their debut album for Stiff Records.",
+    "s": 3
+   },
+   {
+    "id": "pink-floyd",
+    "why": "Pink Floyd drummer Nick Mason produced their second album, Music for Pleasure.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "guns-n-roses",
+    "why": "Guns N' Roses covered New Rose on The Spaghetti Incident?.",
+    "s": 2
+   },
+   {
+    "id": "misfits",
+    "why": "The Damned's horror imagery and dark theatrics anticipated the Misfits' horror punk.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "motorhead",
+    "why": "Lemmy briefly played with members of the Damned, and both bands share a loud, fast, no-frills drive."
+   },
+   {
+    "id": "alice-cooper",
+    "why": "Same mix of theatrical horror imagery and hard-hitting rock."
+   }
+  ]
+ },
+ {
+  "id": "wire",
+  "years": "1976–present",
+  "origin": "London, England",
+  "genres": [
+   "post-punk",
+   "art punk",
+   "minimalism"
+  ],
+  "summary": "Art-school band whose terse, minimalist songs pushed punk toward post-punk. Their first three albums are touchstones for generations of indie and punk bands.",
+  "know": [
+   "Their debut Pink Flag packs 21 songs into about 35 minutes.",
+   "R.E.M. covered their song Strange on the album Document.",
+   "The band was formed by art students, and that background shows in their abstract lyrics and structures."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Pink Flag",
+    1977
+   ],
+   [
+    "Chairs Missing",
+    1978
+   ],
+   [
+    "154",
+    1979
+   ],
+   [
+    "The Ideal Copy",
+    1987
+   ]
+  ],
+  "songs": [
+   "Outdoor Miner",
+   "I Am the Fly",
+   "Three Girl Rhumba",
+   "Dot Dash",
+   "Ex Lion Tamer"
+  ],
+  "influencedBy": [
+   {
+    "id": "ramones",
+    "why": "Wire took the Ramones' brevity and stripped it down even further.",
+    "s": 1
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "Their drone and art-world approach echo the Velvet Underground.",
+    "s": 1
+   },
+   {
+    "id": "brian-eno",
+    "why": "Eno's art-school experimentalism parallels Wire's move into texture on Chairs Missing and 154.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "rem",
+    "why": "R.E.M. covered Wire's Strange on Document.",
+    "s": 2
+   },
+   {
+    "id": "minor-threat",
+    "why": "Minor Threat covered Wire's 12XU.",
+    "s": 2
+   },
+   {
+    "id": "big-black",
+    "why": "Big Black covered Wire's Heartbeat and shared their clipped, angular style.",
+    "s": 2
+   },
+   {
+    "id": "elastica",
+    "why": "Elastica's Connection drew directly on the riff of Three Girl Rhumba.",
+    "s": 2
+   },
+   {
+    "id": "blur",
+    "why": "Blur's members have cited Wire, and their angular guitar shows on Modern Life Is Rubbish era songs.",
+    "s": 2
+   },
+   {
+    "id": "bloc-party",
+    "why": "Bloc Party's jagged post-punk revival guitar draws on Wire's template.",
+    "s": 1
+   },
+   {
+    "id": "franz-ferdinand",
+    "why": "Franz Ferdinand's tight, angular songs follow the Wire model.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "kraftwerk",
+    "why": "Both reduced music to precise, minimal parts."
+   },
+   {
+    "id": "can",
+    "why": "Same art-minded willingness to rebuild rock from repetition and texture."
+   }
+  ]
+ },
+ {
+  "id": "the-fall",
+  "years": "1976–2018",
+  "origin": "Manchester, England",
+  "genres": [
+   "post-punk",
+   "art punk",
+   "garage rock"
+  ],
+  "summary": "Mark E. Smith's long-running band, built on repetitive, abrasive grooves and his sardonic spoken-sung delivery. With dozens of lineup changes, they released more than 30 studio albums.",
+  "know": [
+   "Mark E. Smith was the only constant member through dozens of lineup changes.",
+   "They recorded 24 sessions for John Peel, who called them his favorite band.",
+   "Guitarist Brix Smith joined in 1983 and brought a poppier edge to their mid-1980s albums."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Live at the Witch Trials",
+    1979
+   ],
+   [
+    "Hex Enduction Hour",
+    1982
+   ],
+   [
+    "The Wonderful and Frightening World of The Fall",
+    1984
+   ],
+   [
+    "This Nation's Saving Grace",
+    1985
+   ]
+  ],
+  "songs": [
+   "Totally Wired",
+   "Repetition",
+   "Hit the North",
+   "How I Wrote 'Elastic Man'",
+   "Big New Prinz"
+  ],
+  "influencedBy": [
+   {
+    "id": "can",
+    "why": "Smith wrote I Am Damo Suzuki as a tribute to Can's singer, and Can's repetition runs through the band.",
+    "s": 3
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "The Velvets' drone and repetition are a documented root of the Fall's sound.",
+    "s": 2
+   },
+   {
+    "id": "captain-beefheart",
+    "why": "Smith admired Beefheart, whose skewed rhythms and wordplay echo through the Fall.",
+    "s": 2
+   },
+   {
+    "id": "the-stooges",
+    "why": "Their primitive garage drive owes a debt to the Stooges.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "pavement",
+    "why": "Pavement's slack, cryptic indie rock is widely traced to the Fall.",
+    "s": 2
+   },
+   {
+    "id": "sonic-youth",
+    "why": "Sonic Youth recorded an EP of Fall covers, 4 Tunna Brix.",
+    "s": 2
+   },
+   {
+    "id": "lcd-soundsystem",
+    "why": "James Murphy's talk-sung delivery over repetitive grooves follows the Fall's lead.",
+    "s": 1
+   },
+   {
+    "id": "fontaines-dc",
+    "why": "Fontaines D.C.'s deadpan vocals over driving post-punk echo the Fall.",
+    "s": 1
+   },
+   {
+    "id": "happy-mondays",
+    "why": "Manchester's later bands, including Happy Mondays, inherited the Fall's loose, sardonic style.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-streets",
+    "why": "Both deliver wry, conversational vocals rooted in everyday English life."
+   },
+   {
+    "id": "tom-waits",
+    "why": "Same love of strange characters, odd words and rough-edged delivery."
+   }
+  ]
+ },
+ {
+  "id": "gang-of-four",
+  "years": "1976–present",
+  "origin": "Leeds, England",
+  "genres": [
+   "post-punk",
+   "dance-punk",
+   "funk rock"
+  ],
+  "summary": "Leeds band that merged punk's sharpness with funk rhythms and politically minded lyrics. Their debut Entertainment! became a blueprint for dance-punk.",
+  "know": [
+   "Andy Gill's choppy, trebly guitar left gaps for the bass and drums to carry the groove.",
+   "The founding members met as students at the University of Leeds.",
+   "Andy Gill produced the Red Hot Chili Peppers' debut album in 1984."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Entertainment!",
+    1979
+   ],
+   [
+    "Solid Gold",
+    1981
+   ],
+   [
+    "Songs of the Free",
+    1982
+   ]
+  ],
+  "songs": [
+   "Damaged Goods",
+   "At Home He's a Tourist",
+   "Natural's Not in It",
+   "I Love a Man in a Uniform",
+   "To Hell with Poverty"
+  ],
+  "influencedBy": [
+   {
+    "id": "parliament-funkadelic",
+    "why": "Funk was central to their rhythm section, and they took cues from Funkadelic's grooves.",
+    "s": 2
+   },
+   {
+    "id": "james-brown",
+    "why": "Their interlocking, rhythm-first arrangements recall James Brown's funk.",
+    "s": 1
+   },
+   {
+    "id": "king-tubby",
+    "why": "Dub's use of space and dropouts shaped their sparse mixes.",
+    "s": 1
+   },
+   {
+    "id": "sex-pistols",
+    "why": "The Pistols' arrival gave the Leeds students the push to form a band.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "red-hot-chili-peppers",
+    "why": "Andy Gill produced the Chili Peppers' debut album.",
+    "s": 3
+   },
+   {
+    "id": "rem",
+    "why": "Michael Stipe has named Gang of Four as an important early influence.",
+    "s": 2
+   },
+   {
+    "id": "nirvana",
+    "why": "Kurt Cobain listed Entertainment! among his favorite albums.",
+    "s": 2
+   },
+   {
+    "id": "franz-ferdinand",
+    "why": "Franz Ferdinand's angular dance rock is widely traced to Gang of Four.",
+    "s": 2
+   },
+   {
+    "id": "lcd-soundsystem",
+    "why": "LCD Soundsystem's dance-punk follows the Gang of Four template.",
+    "s": 2
+   },
+   {
+    "id": "bloc-party",
+    "why": "Bloc Party's spiky guitar and danceable drums draw on Entertainment!.",
+    "s": 1
+   },
+   {
+    "id": "fugazi",
+    "why": "Fugazi's tense, funk-inflected post-hardcore echoes Gang of Four.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "chic",
+    "why": "Both built songs around tight, choppy rhythm guitar and bass."
+   },
+   {
+    "id": "fela-kuti",
+    "why": "Same fusion of hard groove and political message."
+   }
+  ]
+ },
+ {
+  "id": "public-image-ltd",
+  "years": "1978–present",
+  "origin": "London, England",
+  "genres": [
+   "post-punk",
+   "dub",
+   "experimental rock"
+  ],
+  "summary": "John Lydon's band after the Sex Pistols, built on dub bass, abrasive guitar and long, hypnotic songs. Metal Box is one of post-punk's defining records.",
+  "know": [
+   "Metal Box was first issued as three 12-inch records packed in a metal film canister.",
+   "Jah Wobble's deep, dub-style bass anchored the early lineup alongside Keith Levene's guitar.",
+   "Album (1986) was produced by Bill Laswell and featured Steve Vai and Ginger Baker."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Public Image: First Issue",
+    1978
+   ],
+   [
+    "Metal Box",
+    1979
+   ],
+   [
+    "The Flowers of Romance",
+    1981
+   ],
+   [
+    "Album",
+    1986
+   ]
+  ],
+  "songs": [
+   "Public Image",
+   "Poptones",
+   "This Is Not a Love Song",
+   "Rise",
+   "Careering"
+  ],
+  "influencedBy": [
+   {
+    "id": "sex-pistols",
+    "why": "PiL was Lydon's next step after leaving the Sex Pistols.",
+    "s": 3
+   },
+   {
+    "id": "can",
+    "why": "Lydon and the band admired Can, whose long, repetitive grooves shaped Metal Box.",
+    "s": 2
+   },
+   {
+    "id": "captain-beefheart",
+    "why": "Lydon has named Beefheart as a favorite, and his skewed approach shows in PiL.",
+    "s": 2
+   },
+   {
+    "id": "king-tubby",
+    "why": "PiL's heavy, spacious bass sound grew from the band's love of dub.",
+    "s": 2
+   },
+   {
+    "id": "van-der-graaf-generator",
+    "why": "Lydon has cited Peter Hammill of Van der Graaf Generator as an influence on his singing.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "faith-no-more",
+    "why": "Faith No More's Bill Gould has cited PiL's bass-heavy sound.",
+    "s": 2
+   },
+   {
+    "id": "lcd-soundsystem",
+    "why": "LCD Soundsystem's long, bass-driven dance-punk grooves follow PiL.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "massive-attack",
+    "why": "Both built dark, bass-heavy music out of dub."
+   },
+   {
+    "id": "adrian-sherwood",
+    "why": "Same interest in pushing dub into post-punk territory."
+   }
+  ]
+ },
+ {
+  "id": "x-ray-spex",
+  "years": "1976–1979",
+  "origin": "London, England",
+  "genres": [
+   "punk rock",
+   "art punk"
+  ],
+  "summary": "London punk band fronted by Poly Styrene, whose sharp songs about consumerism and identity stood out in 1977. Their one album of the era is a punk classic.",
+  "know": [
+   "Poly Styrene was still a teenager when the band formed.",
+   "Saxophone, first played by Lora Logic, gave them a sound unlike other punk bands.",
+   "Their songs took on plastic consumer culture and personal identity."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Germfree Adolescents",
+    1978
+   ],
+   [
+    "Conscious Consumer",
+    1995
+   ]
+  ],
+  "songs": [
+   "Oh Bondage Up Yours!",
+   "The Day the World Turned Day-Glo",
+   "Identity",
+   "Germfree Adolescents",
+   "Art-I-Ficial"
+  ],
+  "influencedBy": [
+   {
+    "id": "sex-pistols",
+    "why": "Poly Styrene decided to form a band after seeing the Sex Pistols play in 1976.",
+    "s": 3
+   },
+   {
+    "id": "patti-smith",
+    "why": "Patti Smith opened the door for a woman to lead a punk band on her own terms.",
+    "s": 1
+   },
+   {
+    "id": "roxy-music",
+    "why": "Roxy Music had already put saxophone into art-minded rock.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "bikini-kill",
+    "why": "Riot grrrl bands like Bikini Kill cited Poly Styrene as a model.",
+    "s": 2
+   },
+   {
+    "id": "sleater-kinney",
+    "why": "Sleater-Kinney's sharp, woman-led punk follows the path X-Ray Spex opened.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "kate-bush",
+    "why": "Both were young British women with singular, unconventional voices in the late 1970s."
+   },
+   {
+    "id": "the-specials",
+    "why": "Same sharp social commentary set to energetic British music."
+   }
+  ]
+ },
+ {
+  "id": "the-slits",
+  "years": "1976–1982",
+  "origin": "London, England",
+  "genres": [
+   "post-punk",
+   "punk rock",
+   "dub"
+  ],
+  "summary": "All-woman London band that mixed punk with reggae and dub. Their album Cut is one of post-punk's most original records.",
+  "know": [
+   "Singer Ari Up was 14 when the band started.",
+   "Cut was produced by reggae producer Dennis Bovell.",
+   "They toured with the Clash on the 1977 White Riot tour."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Cut",
+    1979
+   ],
+   [
+    "Return of the Giant Slits",
+    1981
+   ]
+  ],
+  "songs": [
+   "Typical Girls",
+   "I Heard It Through the Grapevine",
+   "Instant Hit",
+   "Newtown"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-clash",
+    "why": "The Slits toured with the Clash and came up in the same London punk circle.",
+    "s": 3
+   },
+   {
+    "id": "sex-pistols",
+    "why": "The Pistols' early shows set off the London scene the Slits came out of.",
+    "s": 1
+   },
+   {
+    "id": "lee-scratch-perry",
+    "why": "Their open, echoing rhythms draw on Perry's dub production.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "bikini-kill",
+    "why": "Riot grrrl bands cited the Slits as a model for women making punk on their own terms.",
+    "s": 2
+   },
+   {
+    "id": "sleater-kinney",
+    "why": "Sleater-Kinney follows the Slits' path of fierce, woman-led punk.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "linton-kwesi-johnson",
+    "why": "Both were part of the British meeting of punk and reggae, and both worked with Dennis Bovell."
+   },
+   {
+    "id": "bjork",
+    "why": "Same playful, untrained vocal freedom and genre mixing."
+   }
+  ]
+ },
+ {
+  "id": "pere-ubu",
+  "years": "1975–present",
+  "origin": "Cleveland, Ohio",
+  "genres": [
+   "art punk",
+   "post-punk",
+   "experimental rock"
+  ],
+  "summary": "Cleveland band led by David Thomas that mixed garage rock with synthesizer noise and odd song structures. Their early records helped invent post-punk before the term existed.",
+  "know": [
+   "They took their name from a play by French writer Alfred Jarry.",
+   "Allen Ravenstine's synthesizer added noise and texture rather than melody.",
+   "Several members came from the earlier Cleveland band Rocket from the Tombs."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Modern Dance",
+    1978
+   ],
+   [
+    "Dub Housing",
+    1978
+   ],
+   [
+    "New Picnic Time",
+    1979
+   ],
+   [
+    "The Tenement Year",
+    1988
+   ]
+  ],
+  "songs": [
+   "Non-Alignment Pact",
+   "Street Waves",
+   "Heart of Darkness",
+   "The Modern Dance",
+   "Navvy"
+  ],
+  "influencedBy": [
+   {
+    "id": "captain-beefheart",
+    "why": "Beefheart's fractured rhythms and voice are a documented root of Pere Ubu.",
+    "s": 2
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "The Velvets' noise and art-rock attitude shaped the band.",
+    "s": 2
+   },
+   {
+    "id": "the-stooges",
+    "why": "Their Midwestern garage drive owes a debt to the Stooges.",
+    "s": 1
+   },
+   {
+    "id": "mc5",
+    "why": "The MC5's loud Midwestern rock set the scene Pere Ubu came out of.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "pixies",
+    "why": "Black Francis has named Pere Ubu as a favorite band.",
+    "s": 2
+   },
+   {
+    "id": "joy-division",
+    "why": "Joy Division's bleak, industrial post-punk followed early Pere Ubu.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "silver-apples",
+    "why": "Both used raw electronics as noise inside rock."
+   },
+   {
+    "id": "tom-waits",
+    "why": "Same strange, theatrical vocal style and junkyard textures."
+   }
+  ]
+ },
+ {
+  "id": "suicide",
+  "years": "1970–2016",
+  "origin": "New York City, New York",
+  "genres": [
+   "synth-punk",
+   "electronic",
+   "proto-punk"
+  ],
+  "summary": "New York duo of singer Alan Vega and keyboardist Martin Rev who made stark, repetitive rock with only cheap keyboards and a drum machine. They were a key link between punk and electronic music.",
+  "know": [
+   "The band was only two people: Vega's voice and Rev's keyboards and rhythm machine.",
+   "Ric Ocasek of the Cars produced their second album in 1980.",
+   "Bruce Springsteen has covered their song Dream Baby Dream."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Suicide",
+    1977
+   ],
+   [
+    "Suicide: Alan Vega and Martin Rev",
+    1980
+   ]
+  ],
+  "songs": [
+   "Ghost Rider",
+   "Cheree",
+   "Dream Baby Dream",
+   "Rocket USA"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-stooges",
+    "why": "Vega said seeing the Stooges perform pushed him to make music.",
+    "s": 3
+   },
+   {
+    "id": "elvis-presley",
+    "why": "Vega's hiccuping vocal style draws on Elvis and 1950s rockabilly.",
+    "s": 2
+   },
+   {
+    "id": "silver-apples",
+    "why": "Silver Apples had already built rock out of primitive electronics.",
+    "s": 1
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "Suicide's drone and New York art-scene roots follow the Velvets.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "bruce-springsteen",
+    "why": "Springsteen covered Dream Baby Dream and cited Suicide around the making of Nebraska.",
+    "s": 2
+   },
+   {
+    "id": "the-jesus-and-mary-chain",
+    "why": "The Jesus and Mary Chain cited Suicide's mix of noise and simple pop.",
+    "s": 2
+   },
+   {
+    "id": "the-cars",
+    "why": "Ric Ocasek championed the band and produced their second album.",
+    "s": 2
+   },
+   {
+    "id": "depeche-mode",
+    "why": "Depeche Mode's synth-driven rock follows Suicide's lead.",
+    "s": 1
+   },
+   {
+    "id": "lcd-soundsystem",
+    "why": "LCD Soundsystem's electronic punk draws on Suicide's minimal pulse.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "kraftwerk",
+    "why": "Both stripped music down to machines and voice."
+   },
+   {
+    "id": "death-grips",
+    "why": "Same abrasive, minimal electronics under a shouted vocal."
+   }
+  ]
+ },
+ {
+  "id": "richard-hell",
+  "years": "1976–1982",
+  "origin": "New York City, New York",
+  "genres": [
+   "punk rock",
+   "art punk"
+  ],
+  "summary": "Richard Hell's band in the first wave of New York punk, known for Blank Generation and Robert Quine's jagged guitar. Hell's look and attitude helped define what punk would become.",
+  "know": [
+   "Hell co-founded Television and briefly played in the Heartbreakers before starting the Voidoids.",
+   "Robert Quine's angular, unpredictable guitar became a model for later players.",
+   "Hell's torn shirts and spiky hair were copied by the London punk scene."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Blank Generation",
+    1977
+   ],
+   [
+    "Destiny Street",
+    1982
+   ]
+  ],
+  "songs": [
+   "Blank Generation",
+   "The Kid with the Replaceable Head",
+   "Another World",
+   "Liars Beware"
+  ],
+  "influencedBy": [
+   {
+    "id": "television",
+    "why": "Hell was a founding member of Television before forming the Voidoids.",
+    "s": 3
+   },
+   {
+    "id": "new-york-dolls",
+    "why": "Hell played in the Heartbreakers with former Dolls guitarist Johnny Thunders.",
+    "s": 2
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "The Velvets' New York art-rock is a clear root of Hell's songs.",
+    "s": 2
+   },
+   {
+    "id": "the-stooges",
+    "why": "The Stooges' raw drive shaped the Voidoids' attack.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "sex-pistols",
+    "why": "Malcolm McLaren took Hell's look and attitude back to London when shaping the Sex Pistols.",
+    "s": 2
+   },
+   {
+    "id": "sonic-youth",
+    "why": "Sonic Youth's New York noise drew on the Voidoids' jagged guitar.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "lou-reed",
+    "why": "Both wrote literate New York street songs with a raw rock edge."
+   },
+   {
+    "id": "leonard-cohen",
+    "why": "Same poet's sensibility brought into popular music."
+   }
+  ]
+ },
+ {
+  "id": "the-undertones",
+  "years": "1975–present",
+  "origin": "Derry, Northern Ireland",
+  "genres": [
+   "punk rock",
+   "pop punk",
+   "power pop"
+  ],
+  "summary": "Derry band whose short, catchy songs about teenage life made them one of punk's great pop groups. Teenage Kicks is among the most loved singles of the era.",
+  "know": [
+   "John Peel called Teenage Kicks his favorite song and played it constantly.",
+   "They were signed to Sire Records after Peel's airplay made them known.",
+   "Singer Feargal Sharkey later had a UK number one solo hit with A Good Heart in 1985."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Undertones",
+    1979
+   ],
+   [
+    "Hypnotised",
+    1980
+   ],
+   [
+    "Positive Touch",
+    1981
+   ],
+   [
+    "The Sin of Pride",
+    1983
+   ]
+  ],
+  "songs": [
+   "Teenage Kicks",
+   "Jimmy Jimmy",
+   "Here Comes the Summer",
+   "My Perfect Cousin",
+   "Get Over You"
+  ],
+  "influencedBy": [
+   {
+    "id": "ramones",
+    "why": "The Ramones' short, catchy punk was the clearest template for the Undertones.",
+    "s": 2
+   },
+   {
+    "id": "buzzcocks",
+    "why": "Buzzcocks showed how punk could carry pop melody and teenage feeling.",
+    "s": 1
+   },
+   {
+    "id": "sex-pistols",
+    "why": "The Pistols' breakthrough opened the door for punk bands across the UK and Ireland.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "green-day",
+    "why": "Green Day's short, melodic punk songs about youth follow the Undertones' model.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "cheap-trick",
+    "why": "Both wrote catchy, guitar-driven power pop."
+   },
+   {
+    "id": "the-knack",
+    "why": "Same short, hook-filled guitar pop."
+   }
+  ]
+ },
+ {
+  "id": "stiff-little-fingers",
+  "years": "1977–present",
+  "origin": "Belfast, Northern Ireland",
+  "genres": [
+   "punk rock",
+   "political punk"
+  ],
+  "summary": "Belfast punk band whose songs addressed life during the Troubles. Their debut Inflammable Material is a landmark of independent punk.",
+  "know": [
+   "Inflammable Material was the first independently released album to reach the UK Top 20.",
+   "Jake Burns's raw, gravelly voice became the band's signature.",
+   "They covered Bob Marley's Johnny Was on their debut."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Inflammable Material",
+    1979
+   ],
+   [
+    "Nobody's Heroes",
+    1980
+   ],
+   [
+    "Go for It",
+    1981
+   ],
+   [
+    "Now Then...",
+    1982
+   ]
+  ],
+  "songs": [
+   "Alternative Ulster",
+   "Suspect Device",
+   "Barbed Wire Love",
+   "Wasted Life",
+   "Gotta Getaway"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-clash",
+    "why": "The Clash's political punk was the band's clearest model.",
+    "s": 2
+   },
+   {
+    "id": "bob-marley",
+    "why": "They covered Marley's Johnny Was and drew on reggae's topical songwriting.",
+    "s": 2
+   },
+   {
+    "id": "rory-gallagher",
+    "why": "Jake Burns has spoken of Rory Gallagher as an early guitar hero.",
+    "s": 2
+   },
+   {
+    "id": "sex-pistols",
+    "why": "The Pistols' arrival inspired the band to switch to punk.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "rancid",
+    "why": "Rancid's anthemic, socially aware street punk follows Stiff Little Fingers.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "u2",
+    "why": "Both were Irish bands writing urgent rock about the conflict around them."
+   },
+   {
+    "id": "the-specials",
+    "why": "Same pointed songs about life in a divided Britain."
+   }
+  ]
+ },
+ {
+  "id": "the-jam",
+  "years": "1972–1982",
+  "origin": "Woking, England",
+  "genres": [
+   "mod revival",
+   "punk rock",
+   "power pop"
+  ],
+  "summary": "Paul Weller's trio brought 1960s mod style into the punk era and wrote sharp songs about British life. They were one of the most popular UK bands of their time.",
+  "know": [
+   "They had 18 consecutive UK Top 40 singles and four number ones.",
+   "Weller split the band at its commercial peak in 1982 and formed the Style Council.",
+   "They covered the Kinks' David Watts and Martha and the Vandellas' Heat Wave."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "In the City",
+    1977
+   ],
+   [
+    "All Mod Cons",
+    1978
+   ],
+   [
+    "Setting Sons",
+    1979
+   ],
+   [
+    "Sound Affects",
+    1980
+   ]
+  ],
+  "songs": [
+   "Going Underground",
+   "Town Called Malice",
+   "That's Entertainment",
+   "In the City",
+   "The Eton Rifles"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-who",
+    "why": "Weller has said the Who were the main model for the early Jam.",
+    "s": 3
+   },
+   {
+    "id": "the-kinks",
+    "why": "They covered David Watts, and Ray Davies's British character songs shaped Weller's writing.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "Start! borrows its riff from the Beatles' Taxman.",
+    "s": 2
+   },
+   {
+    "id": "small-faces",
+    "why": "Weller's mod look and sound draw directly on Small Faces.",
+    "s": 2
+   },
+   {
+    "id": "martha-and-the-vandellas",
+    "why": "They covered Heat Wave, showing their love of Motown.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "oasis",
+    "why": "Noel Gallagher has named Weller as a hero, and Weller played on Oasis records.",
+    "s": 2
+   },
+   {
+    "id": "blur",
+    "why": "Blur's observational songs about English life follow the Jam.",
+    "s": 1
+   },
+   {
+    "id": "arctic-monkeys",
+    "why": "Arctic Monkeys' sharp songs about British everyday life echo Weller's writing.",
+    "s": 1
+   },
+   {
+    "id": "the-libertines",
+    "why": "The Libertines' scrappy, very English guitar rock follows the Jam.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-specials",
+    "why": "Both wrote energetic songs about British working-class life."
+   },
+   {
+    "id": "the-streets",
+    "why": "Same close-up observation of ordinary English life."
+   }
+  ]
+ },
+ {
+  "id": "magazine",
+  "years": "1977–1981",
+  "origin": "Manchester, England",
+  "genres": [
+   "post-punk",
+   "art rock",
+   "new wave"
+  ],
+  "summary": "Howard Devoto's band after leaving Buzzcocks, mixing punk energy with keyboards and art-rock ambition. Their debut single Shot by Both Sides is a post-punk landmark.",
+  "know": [
+   "Howard Devoto left Buzzcocks in early 1977 to form the band.",
+   "Guitarist John McGeoch later joined Siouxsie and the Banshees, and bassist Barry Adamson joined Nick Cave's Bad Seeds.",
+   "Martin Hannett produced their third album, The Correct Use of Soap."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Real Life",
+    1978
+   ],
+   [
+    "Secondhand Daylight",
+    1979
+   ],
+   [
+    "The Correct Use of Soap",
+    1980
+   ]
+  ],
+  "songs": [
+   "Shot by Both Sides",
+   "The Light Pours Out of Me",
+   "A Song from Under the Floorboards",
+   "Permafrost",
+   "Rhythm of Cruelty"
+  ],
+  "influencedBy": [
+   {
+    "id": "buzzcocks",
+    "why": "Devoto was a founding member of Buzzcocks before forming Magazine.",
+    "s": 3
+   },
+   {
+    "id": "roxy-music",
+    "why": "Roxy Music's art-rock style and keyboards shaped Magazine's sound.",
+    "s": 2
+   },
+   {
+    "id": "david-bowie",
+    "why": "Bowie's theatrical, arty rock is a clear root of Devoto's writing.",
+    "s": 2
+   },
+   {
+    "id": "martin-hannett",
+    "why": "Hannett produced The Correct Use of Soap.",
+    "s": 3
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "The Velvets' dark art rock is part of Magazine's lineage.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "siouxsie",
+    "why": "John McGeoch joined Siouxsie and the Banshees and shaped their early 1980s sound.",
+    "s": 3
+   },
+   {
+    "id": "nick-cave",
+    "why": "Barry Adamson joined the Bad Seeds as a founding member.",
+    "s": 3
+   },
+   {
+    "id": "radiohead",
+    "why": "Radiohead have played Shot by Both Sides live and cited the band.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "peter-gabriel",
+    "why": "Both brought theatrical, art-rock ambition to the new wave era."
+   },
+   {
+    "id": "depeche-mode",
+    "why": "Same dark, keyboard-heavy moodiness."
+   }
+  ]
+ },
+ {
+  "id": "the-germs",
+  "years": "1976–1980",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "punk rock",
+   "hardcore punk"
+  ],
+  "summary": "Chaotic early Los Angeles punk band fronted by Darby Crash, with guitarist Pat Smear. Their only album, GI, is a cornerstone of West Coast hardcore.",
+  "know": [
+   "Their album GI was produced by Joan Jett.",
+   "Guitarist Pat Smear later played with Nirvana and Foo Fighters.",
+   "They appear in Penelope Spheeris's 1981 documentary The Decline of Western Civilization."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "(GI)",
+    1979
+   ]
+  ],
+  "songs": [
+   "Lexicon Devil",
+   "Forming",
+   "Media Blitz",
+   "What We Do Is Secret",
+   "Manimal"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-stooges",
+    "why": "The Stooges' wild, raw rock was a key model for the band.",
+    "s": 2
+   },
+   {
+    "id": "david-bowie",
+    "why": "Darby Crash was a devoted Bowie fan, and the band started out as Bowie admirers.",
+    "s": 2
+   },
+   {
+    "id": "ramones",
+    "why": "The Ramones' speed and simplicity fed the early Germs.",
+    "s": 1
+   },
+   {
+    "id": "joan-jett-and-the-blackhearts",
+    "why": "Joan Jett produced their album GI.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "nirvana",
+    "why": "Pat Smear joined Nirvana as touring guitarist, and Kurt Cobain was a Germs fan.",
+    "s": 3
+   },
+   {
+    "id": "foo-fighters",
+    "why": "Pat Smear became a longtime Foo Fighters guitarist.",
+    "s": 3
+   },
+   {
+    "id": "bad-religion",
+    "why": "Bad Religion came up in the LA punk scene the Germs started and have cited them.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "death-grips",
+    "why": "Both made raw, chaotic music that felt close to falling apart."
+   },
+   {
+    "id": "the-sonics",
+    "why": "Same primitive, overdriven rock energy."
+   }
+  ]
+ },
+ {
+  "id": "x",
+  "years": "1977–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "punk rock",
+   "roots rock",
+   "cowpunk"
+  ],
+  "summary": "Los Angeles punk band built around the twin voices of Exene Cervenka and John Doe and Billy Zoom's rockabilly guitar. They brought country and early rock and roll into punk.",
+  "know": [
+   "Ray Manzarek of the Doors produced their first four albums.",
+   "Billy Zoom's clean, fast rockabilly playing set them apart from other punk guitarists.",
+   "Members also formed the Knitters, a side project playing country and folk."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Los Angeles",
+    1980
+   ],
+   [
+    "Wild Gift",
+    1981
+   ],
+   [
+    "Under the Big Black Sun",
+    1982
+   ],
+   [
+    "More Fun in the New World",
+    1983
+   ]
+  ],
+  "songs": [
+   "Los Angeles",
+   "The Hungry Wolf",
+   "White Girl",
+   "The Have Nots",
+   "Soul Kitchen"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-doors",
+    "why": "Ray Manzarek produced their early albums, and they covered Soul Kitchen.",
+    "s": 3
+   },
+   {
+    "id": "carl-perkins",
+    "why": "Billy Zoom's guitar draws on Sun-era rockabilly like Carl Perkins.",
+    "s": 1
+   },
+   {
+    "id": "eddie-cochran",
+    "why": "Their rockabilly drive owes a debt to Eddie Cochran.",
+    "s": 1
+   },
+   {
+    "id": "ramones",
+    "why": "The Ramones' stripped-down punk shaped X's fast songs.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "uncle-tupelo",
+    "why": "Uncle Tupelo's merger of punk and country followed the path X opened.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "dwight-yoakam",
+    "why": "Yoakam played the same LA punk clubs, bringing a similar country and rockabilly edge."
+   },
+   {
+    "id": "los-lobos",
+    "why": "Same LA roots-rock scene where punk met older American styles."
+   }
+  ]
+ },
+ {
+  "id": "descendents",
+  "years": "1977–present",
+  "origin": "Manhattan Beach, California",
+  "genres": [
+   "pop punk",
+   "hardcore punk",
+   "melodic hardcore"
+  ],
+  "summary": "South Bay band that mixed hardcore speed with catchy melodies and songs about everyday frustration. They are one of the main roots of pop punk.",
+  "know": [
+   "Singer Milo Aukerman left more than once to pursue a career in biochemistry.",
+   "Drummer Bill Stevenson also played in Black Flag.",
+   "While Aukerman was away, the other members carried on as the band All."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Milo Goes to College",
+    1982
+   ],
+   [
+    "I Don't Want to Grow Up",
+    1985
+   ],
+   [
+    "Enjoy!",
+    1986
+   ],
+   [
+    "Everything Sucks",
+    1996
+   ]
+  ],
+  "songs": [
+   "Hope",
+   "Suburban Home",
+   "Silly Girl",
+   "Get the Time",
+   "I'm the One"
+  ],
+  "influencedBy": [
+   {
+    "id": "black-flag",
+    "why": "Bill Stevenson played in Black Flag, and the bands shared the South Bay scene and SST label.",
+    "s": 3
+   },
+   {
+    "id": "ramones",
+    "why": "The Ramones' catchy, fast songs are a clear model for the Descendents.",
+    "s": 2
+   },
+   {
+    "id": "buzzcocks",
+    "why": "Buzzcocks' pop-minded punk anticipated the Descendents' melodic approach.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "green-day",
+    "why": "Green Day's melodic pop punk is widely traced to the Descendents.",
+    "s": 2
+   },
+   {
+    "id": "blink-182",
+    "why": "blink-182 have cited the Descendents as a key influence.",
+    "s": 2
+   },
+   {
+    "id": "nofx",
+    "why": "NOFX followed the Descendents' fast, melodic punk.",
+    "s": 2
+   },
+   {
+    "id": "the-offspring",
+    "why": "The Offspring's Southern California punk follows the Descendents' blend of speed and melody.",
+    "s": 1
+   },
+   {
+    "id": "foo-fighters",
+    "why": "Dave Grohl has spoken about his love of the Descendents.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-beach-boys",
+    "why": "Both are Southern California bands built on catchy melodies and suburban themes."
+   },
+   {
+    "id": "big-star",
+    "why": "Same knack for compact, hook-filled guitar songs."
+   }
+  ]
+ },
+ {
+  "id": "circle-jerks",
+  "years": "1979–present",
+  "origin": "Hermosa Beach, California",
+  "genres": [
+   "hardcore punk",
+   "skate punk"
+  ],
+  "summary": "Los Angeles hardcore band formed by Black Flag's first singer, Keith Morris. Their fast, short songs helped define the early California hardcore sound.",
+  "know": [
+   "Keith Morris was Black Flag's original singer before starting the Circle Jerks.",
+   "Guitarist Greg Hetson also played in Bad Religion.",
+   "They appear in The Decline of Western Civilization and in the film Repo Man."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Wild in the Streets",
+    1982
+   ],
+   [
+    "Wonderful",
+    1985
+   ],
+   [
+    "VI",
+    1987
+   ]
+  ],
+  "songs": [
+   "Wild in the Streets",
+   "Deny Everything",
+   "Red Tape",
+   "Beverly Hills"
+  ],
+  "influencedBy": [
+   {
+    "id": "black-flag",
+    "why": "Keith Morris sang in Black Flag before founding the Circle Jerks.",
+    "s": 3
+   },
+   {
+    "id": "ramones",
+    "why": "Their short, fast songs build on the Ramones' template.",
+    "s": 1
+   },
+   {
+    "id": "sex-pistols",
+    "why": "The Pistols' snarling punk shaped Morris's delivery.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-offspring",
+    "why": "The Offspring's fast Southern California punk follows the Circle Jerks.",
+    "s": 1
+   },
+   {
+    "id": "nofx",
+    "why": "NOFX's skate punk draws on the Circle Jerks' speed and humor.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "beastie-boys",
+    "why": "The Beastie Boys started as a hardcore punk band with the same fast, rowdy energy."
+   },
+   {
+    "id": "motorhead",
+    "why": "Same loud, fast, no-frills attack."
+   }
+  ]
+ },
+ {
+  "id": "misfits",
+  "years": "1977–present",
+  "origin": "Lodi, New Jersey",
+  "genres": [
+   "horror punk",
+   "hardcore punk"
+  ],
+  "summary": "New Jersey band led by Glenn Danzig that mixed punk speed with horror-movie imagery and doo-wop-style melodies. They invented horror punk and influenced metal as much as punk.",
+  "know": [
+   "Their skull logo, the Crimson Ghost, comes from a 1946 film serial.",
+   "Glenn Danzig later formed Samhain and then Danzig.",
+   "Metallica covered several Misfits songs on The $5.98 E.P.: Garage Days Re-Revisited."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Walk Among Us",
+    1982
+   ],
+   [
+    "Earth A.D./Wolfs Blood",
+    1983
+   ],
+   [
+    "Static Age",
+    1997
+   ],
+   [
+    "American Psycho",
+    1997
+   ]
+  ],
+  "songs": [
+   "Skulls",
+   "Where Eagles Dare",
+   "Hybrid Moments",
+   "Astro Zombies",
+   "Halloween"
+  ],
+  "influencedBy": [
+   {
+    "id": "ramones",
+    "why": "The Ramones' fast, catchy punk was a model for the band.",
+    "s": 2
+   },
+   {
+    "id": "elvis-presley",
+    "why": "Danzig's crooning style draws on Elvis.",
+    "s": 2
+   },
+   {
+    "id": "the-damned",
+    "why": "The Damned's horror imagery anticipated the Misfits.",
+    "s": 1
+   },
+   {
+    "id": "the-doors",
+    "why": "Danzig's baritone has often been compared to Jim Morrison.",
+    "s": 1
+   },
+   {
+    "id": "black-sabbath",
+    "why": "Sabbath's dark themes fed the Misfits' horror style.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "metallica",
+    "why": "Metallica covered several Misfits songs, and Cliff Burton was a fan.",
+    "s": 2
+   },
+   {
+    "id": "guns-n-roses",
+    "why": "Guns N' Roses covered the Misfits' Attitude.",
+    "s": 2
+   },
+   {
+    "id": "my-chemical-romance",
+    "why": "My Chemical Romance's dark, theatrical punk follows the Misfits.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "alice-cooper",
+    "why": "Both mixed horror-movie theatrics with hard rock."
+   },
+   {
+    "id": "ghost",
+    "why": "Same pairing of horror imagery with catchy melodies."
+   }
+  ]
+ },
+ {
+  "id": "minutemen",
+  "years": "1980–1985",
+  "origin": "San Pedro, California",
+  "genres": [
+   "punk rock",
+   "post-hardcore",
+   "funk punk"
+  ],
+  "summary": "San Pedro trio of D. Boon, Mike Watt and George Hurley who packed punk, funk, jazz and folk into very short songs. Their double album Double Nickels on the Dime is a high point of 1980s American indie rock.",
+  "know": [
+   "Double Nickels on the Dime was a 45-song double album released on SST in 1984.",
+   "Their song Corona later became the theme for the TV show Jackass.",
+   "The band ended in December 1985 after D. Boon's death, and Watt and Hurley went on to form fIREHOSE."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Punch Line",
+    1981
+   ],
+   [
+    "What Makes a Man Start Fires?",
+    1983
+   ],
+   [
+    "Double Nickels on the Dime",
+    1984
+   ],
+   [
+    "3-Way Tie (For Last)",
+    1985
+   ]
+  ],
+  "songs": [
+   "History Lesson – Part II",
+   "Corona",
+   "This Ain't No Picnic",
+   "Paranoid Chant"
+  ],
+  "influencedBy": [
+   {
+    "id": "wire",
+    "why": "Wire's very short, angular songs were a model for the Minutemen's song lengths.",
+    "s": 2
+   },
+   {
+    "id": "captain-beefheart",
+    "why": "Mike Watt has named Beefheart as a major influence on the band's odd rhythms.",
+    "s": 2
+   },
+   {
+    "id": "creedence",
+    "why": "They covered Creedence songs and admired John Fogerty's direct writing.",
+    "s": 2
+   },
+   {
+    "id": "black-flag",
+    "why": "Black Flag's SST label released their records and pulled them into hardcore.",
+    "s": 2
+   },
+   {
+    "id": "blue-oyster-cult",
+    "why": "They covered Blue Öyster Cult's The Red and the Black.",
+    "s": 2
+   },
+   {
+    "id": "gang-of-four",
+    "why": "Their jerky funk-punk rhythms echo Gang of Four.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "red-hot-chili-peppers",
+    "why": "Flea was close to the band, and the Chili Peppers' funk-punk bass owes a debt to Watt.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "thundercat",
+    "why": "Both put the bass at the center and mixed jazz, funk and punk freely."
+   },
+   {
+    "id": "frank-zappa",
+    "why": "Same restless genre jumping and short, odd song forms."
+   }
+  ]
+ },
+ {
+  "id": "fugazi",
+  "years": "1987–2003",
+  "origin": "Washington, D.C.",
+  "genres": [
+   "post-hardcore",
+   "art punk"
+  ],
+  "summary": "Washington, D.C. band formed by Ian MacKaye and Guy Picciotto, known for tense, dynamic songs and a strict independent ethic. They are the central band of post-hardcore.",
+  "know": [
+   "They kept show tickets around five dollars and records at low fixed prices.",
+   "They released everything on Dischord, the label MacKaye co-founded.",
+   "Joe Lally's bass drew on reggae and dub, giving the band its rolling grooves."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Repeater",
+    1990
+   ],
+   [
+    "In on the Kill Taker",
+    1993
+   ],
+   [
+    "Red Medicine",
+    1995
+   ],
+   [
+    "The Argument",
+    2001
+   ]
+  ],
+  "songs": [
+   "Waiting Room",
+   "Merchandise",
+   "Suggestion",
+   "Blueprint",
+   "Bad Mouth"
+  ],
+  "influencedBy": [
+   {
+    "id": "minor-threat",
+    "why": "Ian MacKaye founded Fugazi after fronting Minor Threat.",
+    "s": 3
+   },
+   {
+    "id": "rites-of-spring",
+    "why": "Guy Picciotto and Brendan Canty came from Rites of Spring.",
+    "s": 3
+   },
+   {
+    "id": "bad-brains",
+    "why": "MacKaye has called Bad Brains a defining inspiration for the D.C. scene.",
+    "s": 2
+   },
+   {
+    "id": "wire",
+    "why": "MacKaye has cited Wire, and their tight, angular songs show in Fugazi.",
+    "s": 2
+   },
+   {
+    "id": "gang-of-four",
+    "why": "Fugazi's tense, funk-tinged post-punk echoes Gang of Four.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "at-the-drive-in",
+    "why": "At the Drive-In's dynamic post-hardcore drew heavily on Fugazi.",
+    "s": 2
+   },
+   {
+    "id": "nirvana",
+    "why": "Kurt Cobain admired Fugazi's sound and independent approach.",
+    "s": 1
+   },
+   {
+    "id": "rage-against-the-machine",
+    "why": "Rage's tight, political rock came out of the hardcore world Fugazi led.",
+    "s": 1
+   },
+   {
+    "id": "idles",
+    "why": "IDLES' tense, shouted post-punk follows Fugazi.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "run-the-jewels",
+    "why": "Both deliver intense, politically aware music on their own terms."
+   },
+   {
+    "id": "neurosis",
+    "why": "Same fiercely independent, DIY approach to heavy music."
+   }
+  ]
+ },
+ {
+  "id": "bad-religion",
+  "years": "1980–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "melodic hardcore",
+   "punk rock",
+   "skate punk"
+  ],
+  "summary": "Los Angeles punk band known for fast songs, three-part harmonies and dense, thoughtful lyrics. Guitarist Brett Gurewitz's Epitaph label helped launch 1990s punk.",
+  "know": [
+   "Brett Gurewitz founded Epitaph Records to release the band's music.",
+   "Singer Greg Graffin earned a PhD in zoology and has taught evolution at university.",
+   "Their 1983 album Into the Unknown tried prog-rock keyboards and was later disowned by the band."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Suffer",
+    1988
+   ],
+   [
+    "No Control",
+    1989
+   ],
+   [
+    "Against the Grain",
+    1990
+   ],
+   [
+    "Stranger Than Fiction",
+    1994
+   ]
+  ],
+  "songs": [
+   "21st Century (Digital Boy)",
+   "American Jesus",
+   "Sorrow",
+   "Punk Rock Song",
+   "Infected"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-germs",
+    "why": "Bad Religion came up in the LA scene the Germs started and have cited them.",
+    "s": 2
+   },
+   {
+    "id": "black-flag",
+    "why": "Black Flag's hardcore set the template for Southern California punk.",
+    "s": 1
+   },
+   {
+    "id": "ramones",
+    "why": "The Ramones' fast, melodic songs are a root of Bad Religion's sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-offspring",
+    "why": "The Offspring broke through on Gurewitz's Epitaph label with Smash.",
+    "s": 3
+   },
+   {
+    "id": "rancid",
+    "why": "Rancid signed to Epitaph and followed Bad Religion's melodic punk.",
+    "s": 2
+   },
+   {
+    "id": "nofx",
+    "why": "NOFX built on Bad Religion's fast, harmony-heavy punk.",
+    "s": 2
+   },
+   {
+    "id": "green-day",
+    "why": "Green Day's melodic punk followed the path Bad Religion helped open.",
+    "s": 1
+   },
+   {
+    "id": "sum-41",
+    "why": "Sum 41's fast, melodic punk draws on Bad Religion.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "phil-ochs",
+    "why": "Both wrote topical songs about politics and society."
+   },
+   {
+    "id": "rush",
+    "why": "Same habit of packing ideas and big vocabulary into hard-driving songs."
+   }
+  ]
+ },
+ {
+  "id": "gorilla-biscuits",
+  "years": "1986–1991",
+  "origin": "Queens, New York",
+  "genres": [
+   "hardcore punk",
+   "youth crew",
+   "melodic hardcore"
+  ],
+  "summary": "New York hardcore band known for upbeat, positive songs and catchy melodies. Their album Start Today is a youth crew classic.",
+  "know": [
+   "They released their music on Revelation Records.",
+   "Guitarist Walter Schreifels later formed Quicksand and Rival Schools.",
+   "New Direction opens with a trumpet line, rare in hardcore."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Gorilla Biscuits",
+    1988
+   ],
+   [
+    "Start Today",
+    1989
+   ]
+  ],
+  "songs": [
+   "Start Today",
+   "New Direction",
+   "High Hopes",
+   "Degradation",
+   "Things We Say"
+  ],
+  "influencedBy": [
+   {
+    "id": "youth-of-today",
+    "why": "Walter Schreifels played bass in Youth of Today.",
+    "s": 3
+   },
+   {
+    "id": "minor-threat",
+    "why": "Minor Threat's straight edge hardcore was the base of the youth crew sound.",
+    "s": 2
+   },
+   {
+    "id": "bad-brains",
+    "why": "Bad Brains' speed and positive message shaped New York hardcore.",
+    "s": 2
+   },
+   {
+    "id": "agnostic-front",
+    "why": "Agnostic Front built the New York hardcore scene the band came out of.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "turnstile",
+    "why": "Turnstile's melodic, upbeat hardcore draws on Gorilla Biscuits.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "a-tribe-called-quest",
+    "why": "Both were upbeat, positive New York bands from Queens in the same years."
+   },
+   {
+    "id": "run-dmc",
+    "why": "Same Queens roots and high-energy, no-frills delivery."
+   }
+  ]
+ },
+ {
+  "id": "youth-of-today",
+  "years": "1985–1990",
+  "origin": "Danbury, Connecticut",
+  "genres": [
+   "hardcore punk",
+   "youth crew",
+   "straight edge"
+  ],
+  "summary": "Hardcore band led by Ray Cappo and John Porcelly that defined the youth crew style. Their songs promoted straight edge and positive living.",
+  "know": [
+   "Ray Cappo co-founded Revelation Records.",
+   "Their song No More helped spread vegetarianism in the hardcore scene.",
+   "Cappo later formed Shelter, a band rooted in his Hare Krishna beliefs."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Can't Close My Eyes",
+    1985
+   ],
+   [
+    "Break Down the Walls",
+    1986
+   ],
+   [
+    "We're Not in This Alone",
+    1988
+   ]
+  ],
+  "songs": [
+   "Break Down the Walls",
+   "Make a Change",
+   "Flame Still Burns",
+   "Positive Outlook",
+   "Youth Crew"
+  ],
+  "influencedBy": [
+   {
+    "id": "minor-threat",
+    "why": "Minor Threat's straight edge ideas were the foundation of Youth of Today.",
+    "s": 2
+   },
+   {
+    "id": "bad-brains",
+    "why": "Bad Brains' speed and positive message shaped the band.",
+    "s": 1
+   },
+   {
+    "id": "agnostic-front",
+    "why": "Agnostic Front built the New York hardcore scene they joined.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "gorilla-biscuits",
+    "why": "Walter Schreifels played bass in Youth of Today before Gorilla Biscuits.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "krs-one",
+    "why": "Both used hard-hitting music to push a positive, self-improvement message."
+   },
+   {
+    "id": "the-staple-singers",
+    "why": "Same uplifting, message-driven music."
+   }
+  ]
+ },
+ {
+  "id": "agnostic-front",
+  "years": "1980–present",
+  "origin": "New York City, New York",
+  "genres": [
+   "New York hardcore",
+   "crossover thrash"
+  ],
+  "summary": "Lower East Side band led by Vinnie Stigma and Roger Miret, often called the godfathers of New York hardcore. They later helped merge hardcore with thrash metal.",
+  "know": [
+   "They were a mainstay of the CBGB hardcore matinees in the 1980s.",
+   "Singer Roger Miret was born in Havana, Cuba.",
+   "Cause for Alarm (1986) moved them toward thrash metal and helped start crossover."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Victim in Pain",
+    1984
+   ],
+   [
+    "Cause for Alarm",
+    1986
+   ],
+   [
+    "Liberty and Justice For...",
+    1987
+   ],
+   [
+    "Something's Gotta Give",
+    1998
+   ]
+  ],
+  "songs": [
+   "Victim in Pain",
+   "Last Warning",
+   "Gotta Go",
+   "For My Family"
+  ],
+  "influencedBy": [
+   {
+    "id": "bad-brains",
+    "why": "Bad Brains' speed and power shaped the New York hardcore scene Agnostic Front led.",
+    "s": 2
+   },
+   {
+    "id": "black-flag",
+    "why": "Black Flag's hardcore was an early model for the band.",
+    "s": 1
+   },
+   {
+    "id": "minor-threat",
+    "why": "Minor Threat's short, fast songs fed early New York hardcore.",
+    "s": 1
+   },
+   {
+    "id": "motorhead",
+    "why": "Motörhead's speed and volume pointed the way to their crossover sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "youth-of-today",
+    "why": "Youth of Today came up in the New York hardcore scene Agnostic Front built.",
+    "s": 1
+   },
+   {
+    "id": "gorilla-biscuits",
+    "why": "Gorilla Biscuits emerged from the same New York scene.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "anthrax",
+    "why": "Both were New York bands at the meeting point of hardcore and thrash."
+   },
+   {
+    "id": "mobb-deep",
+    "why": "Same gritty, street-level New York toughness."
+   }
+  ]
+ },
+ {
+  "id": "the-birthday-party",
+  "years": "1978–1983",
+  "origin": "Melbourne, Australia",
+  "genres": [
+   "post-punk",
+   "noise rock",
+   "gothic rock"
+  ],
+  "summary": "Melbourne band fronted by Nick Cave that made ferocious, blues-twisted noise. They were a key bridge between post-punk and goth.",
+  "know": [
+   "They started in Melbourne as the Boys Next Door before moving to London in 1980.",
+   "Rowland S. Howard's feedback-heavy guitar was central to their sound.",
+   "After the split, Nick Cave and Mick Harvey formed the Bad Seeds."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Prayers on Fire",
+    1981
+   ],
+   [
+    "Junkyard",
+    1982
+   ],
+   [
+    "Mutiny!",
+    1983
+   ],
+   [
+    "The Bad Seed",
+    1983
+   ]
+  ],
+  "songs": [
+   "Release the Bats",
+   "Zoo-Music Girl",
+   "King Ink",
+   "Junkyard"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-stooges",
+    "why": "The Stooges' raw, unhinged rock is a documented root of the band.",
+    "s": 2
+   },
+   {
+    "id": "captain-beefheart",
+    "why": "Beefheart's twisted blues shaped their lurching rhythms.",
+    "s": 2
+   },
+   {
+    "id": "pere-ubu",
+    "why": "Pere Ubu's art-punk noise anticipated the Birthday Party.",
+    "s": 1
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "The Velvets' noise and darkness fed the band's sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "nick-cave",
+    "why": "Nick Cave and Mick Harvey formed the Bad Seeds from the band's remains.",
+    "s": 3
+   },
+   {
+    "id": "pj-harvey",
+    "why": "Mick Harvey later worked closely with PJ Harvey on her records.",
+    "s": 2
+   },
+   {
+    "id": "sonic-youth",
+    "why": "Sonic Youth's noisy, dark rock followed the Birthday Party.",
+    "s": 1
+   },
+   {
+    "id": "big-black",
+    "why": "Big Black's abrasive noise rock draws on the Birthday Party.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "tom-waits",
+    "why": "Both twisted the blues into dark, junkyard theater."
+   },
+   {
+    "id": "howlin-wolf",
+    "why": "Same feral, howling intensity."
+   }
+  ]
+ },
+ {
+  "id": "nick-cave",
+  "years": "1983–present",
+  "origin": "Melbourne, Australia",
+  "genres": [
+   "post-punk",
+   "art rock",
+   "gothic rock",
+   "chamber pop"
+  ],
+  "summary": "Nick Cave's band, which moved from noisy post-punk to dark ballads and orchestral songs. They are one of the most respected long-running bands in alternative music.",
+  "know": [
+   "Blixa Bargeld of Einstürzende Neubauten played guitar in the band until 2003.",
+   "Red Right Hand became widely known as the theme of the TV series Peaky Blinders.",
+   "Warren Ellis joined in the 1990s and became Cave's main creative partner, including on film scores."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Tender Prey",
+    1988
+   ],
+   [
+    "Let Love In",
+    1994
+   ],
+   [
+    "The Boatman's Call",
+    1997
+   ],
+   [
+    "Push the Sky Away",
+    2013
+   ]
+  ],
+  "songs": [
+   "Red Right Hand",
+   "Into My Arms",
+   "The Mercy Seat",
+   "Jubilee Street"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-birthday-party",
+    "why": "Cave and Mick Harvey formed the Bad Seeds after the Birthday Party split.",
+    "s": 3
+   },
+   {
+    "id": "leonard-cohen",
+    "why": "They covered Cohen's Avalanche on their debut, and Cohen shaped Cave's ballads.",
+    "s": 2
+   },
+   {
+    "id": "johnny-cash",
+    "why": "Cave covered Cash and has called him a key influence.",
+    "s": 2
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Dylan's long narrative songs shaped Cave's writing.",
+    "s": 2
+   },
+   {
+    "id": "elvis-presley",
+    "why": "Cave's song Tupelo pays tribute to Elvis.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "pj-harvey",
+    "why": "PJ Harvey duetted with Cave and shares his dark, literate style.",
+    "s": 2
+   },
+   {
+    "id": "johnny-cash",
+    "why": "Johnny Cash covered The Mercy Seat on American III.",
+    "s": 2
+   },
+   {
+    "id": "the-national",
+    "why": "Matt Berninger's dark baritone songs follow Cave's lead.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "tom-waits",
+    "why": "Both write dark, literate story songs with a theatrical edge."
+   },
+   {
+    "id": "townes-van-zandt",
+    "why": "Same bleak, beautiful songwriting."
+   }
+  ]
+ },
+ {
+  "id": "bauhaus",
+  "years": "1978–1983",
+  "origin": "Northampton, England",
+  "genres": [
+   "gothic rock",
+   "post-punk",
+   "dub"
+  ],
+  "summary": "Northampton band fronted by Peter Murphy whose debut single is often called the first gothic rock record. Their dark, theatrical sound helped create goth.",
+  "know": [
+   "Their debut single, the nine-minute Bela Lugosi's Dead (1979), is often called the first goth record.",
+   "They appear performing in the opening of the 1983 film The Hunger.",
+   "Their cover of David Bowie's Ziggy Stardust reached the UK Top 20 in 1982."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "In the Flat Field",
+    1980
+   ],
+   [
+    "Mask",
+    1981
+   ],
+   [
+    "The Sky's Gone Out",
+    1982
+   ],
+   [
+    "Burning from the Inside",
+    1983
+   ]
+  ],
+  "songs": [
+   "Bela Lugosi's Dead",
+   "She's in Parties",
+   "Dark Entries",
+   "Kick in the Eye",
+   "Ziggy Stardust"
+  ],
+  "influencedBy": [
+   {
+    "id": "david-bowie",
+    "why": "They covered Ziggy Stardust, and Murphy's style owes much to Bowie.",
+    "s": 2
+   },
+   {
+    "id": "t-rex",
+    "why": "They covered T. Rex's Telegram Sam.",
+    "s": 2
+   },
+   {
+    "id": "brian-eno",
+    "why": "They covered Eno's Third Uncle.",
+    "s": 2
+   },
+   {
+    "id": "king-tubby",
+    "why": "Bela Lugosi's Dead uses dub-style space and echo.",
+    "s": 1
+   },
+   {
+    "id": "roxy-music",
+    "why": "Roxy Music's arty glam shaped Bauhaus's theatrical sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "nine-inch-nails",
+    "why": "Nine Inch Nails performed Bela Lugosi's Dead live with Peter Murphy.",
+    "s": 2
+   },
+   {
+    "id": "jane-s-addiction",
+    "why": "Jane's Addiction's dark, theatrical side draws on Bauhaus.",
+    "s": 1
+   },
+   {
+    "id": "type-o-negative",
+    "why": "Type O Negative's gothic metal follows Bauhaus.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "depeche-mode",
+    "why": "Both made dark, dramatic music with a strong sense of style."
+   },
+   {
+    "id": "burial",
+    "why": "Same spectral, nocturnal mood built on dub space."
+   }
+  ]
+ },
+ {
+  "id": "the-sisters-of-mercy",
+  "years": "1980–present",
+  "origin": "Leeds, England",
+  "genres": [
+   "gothic rock",
+   "post-punk"
+  ],
+  "summary": "Leeds band led by Andrew Eldritch, known for his deep voice, a drum machine called Doktor Avalanche and huge, dark rock songs. They are one of goth's defining bands.",
+  "know": [
+   "Their drum machine, nicknamed Doktor Avalanche, has been a permanent member.",
+   "Jim Steinman produced their single This Corrosion.",
+   "They have not released a studio album since Vision Thing in 1990."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "First and Last and Always",
+    1985
+   ],
+   [
+    "Floodland",
+    1987
+   ],
+   [
+    "Vision Thing",
+    1990
+   ]
+  ],
+  "songs": [
+   "Temple of Love",
+   "This Corrosion",
+   "Lucretia My Reflection",
+   "Marian",
+   "Alice"
+  ],
+  "influencedBy": [
+   {
+    "id": "leonard-cohen",
+    "why": "The band took its name from a Leonard Cohen song.",
+    "s": 2
+   },
+   {
+    "id": "the-stooges",
+    "why": "They covered the Stooges' 1969.",
+    "s": 2
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "They covered Gimme Shelter.",
+    "s": 2
+   },
+   {
+    "id": "suicide",
+    "why": "They covered Suicide's Ghost Rider and shared their use of machines.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "type-o-negative",
+    "why": "Type O Negative's deep-voiced gothic rock follows the Sisters.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "rammstein",
+    "why": "Both pair a deep, commanding voice with heavy, machine-driven rock."
+   },
+   {
+    "id": "depeche-mode",
+    "why": "Same dark, electronic-tinged drama."
+   }
+  ]
+ },
+ {
+  "id": "echo-and-the-bunnymen",
+  "years": "1978–present",
+  "origin": "Liverpool, England",
+  "genres": [
+   "post-punk",
+   "neo-psychedelia",
+   "new wave"
+  ],
+  "summary": "Liverpool band led by Ian McCulloch and guitarist Will Sergeant, known for dramatic, psychedelic post-punk. Ocean Rain and The Killing Moon are among the era's most admired records.",
+  "know": [
+   "Their early shows used a drum machine before Pete de Freitas joined on drums.",
+   "Ocean Rain was recorded partly in Paris with a full string section.",
+   "The Killing Moon gained new fans through the 2001 film Donnie Darko."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Crocodiles",
+    1980
+   ],
+   [
+    "Heaven Up Here",
+    1981
+   ],
+   [
+    "Porcupine",
+    1983
+   ],
+   [
+    "Ocean Rain",
+    1984
+   ]
+  ],
+  "songs": [
+   "The Killing Moon",
+   "The Cutter",
+   "Lips Like Sugar",
+   "Rescue",
+   "Seven Seas"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-doors",
+    "why": "They covered People Are Strange, and McCulloch's croon recalls Jim Morrison.",
+    "s": 2
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "The Velvets' dark, droning rock is a clear root of the band.",
+    "s": 2
+   },
+   {
+    "id": "television",
+    "why": "Will Sergeant has cited Television's guitar interplay.",
+    "s": 2
+   },
+   {
+    "id": "love",
+    "why": "Arthur Lee's Love shaped their orchestral psychedelia.",
+    "s": 2
+   },
+   {
+    "id": "david-bowie",
+    "why": "McCulloch's style and stage presence owe a debt to Bowie.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "coldplay",
+    "why": "Chris Martin has cited Echo & the Bunnymen as a major influence.",
+    "s": 2
+   },
+   {
+    "id": "interpol",
+    "why": "Interpol's dark, dramatic post-punk revival follows the Bunnymen.",
+    "s": 1
+   },
+   {
+    "id": "the-killers",
+    "why": "The Killers' big, moody choruses draw on 1980s bands like the Bunnymen.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "u2",
+    "why": "Both made big, dramatic, guitar-led rock in the early 1980s."
+   },
+   {
+    "id": "the-moody-blues",
+    "why": "Same mix of rock band and sweeping orchestral sound."
+   }
+  ]
+ },
+ {
+  "id": "cocteau-twins",
+  "years": "1979–1997",
+  "origin": "Grangemouth, Scotland",
+  "genres": [
+   "dream pop",
+   "ethereal wave",
+   "post-punk"
+  ],
+  "summary": "Scottish trio built around Elizabeth Fraser's wordless-sounding vocals and Robin Guthrie's shimmering guitar. They largely defined dream pop.",
+  "know": [
+   "Fraser often sang in sounds and invented words rather than clear lyrics.",
+   "They recorded for the 4AD label throughout the 1980s.",
+   "Fraser later sang on Massive Attack's Teardrop."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Treasure",
+    1984
+   ],
+   [
+    "Victorialand",
+    1986
+   ],
+   [
+    "Blue Bell Knoll",
+    1988
+   ],
+   [
+    "Heaven or Las Vegas",
+    1990
+   ]
+  ],
+  "songs": [
+   "Heaven or Las Vegas",
+   "Lorelei",
+   "Pearly-Dewdrops' Drops",
+   "Iceblink Luck",
+   "Sugar Hiccup"
+  ],
+  "influencedBy": [
+   {
+    "id": "siouxsie",
+    "why": "Elizabeth Fraser was a devoted Siouxsie fan, and the Banshees shaped the early band.",
+    "s": 2
+   },
+   {
+    "id": "joy-division",
+    "why": "Their early, darker post-punk sound echoes Joy Division.",
+    "s": 1
+   },
+   {
+    "id": "the-birthday-party",
+    "why": "The band admired the Birthday Party in their early days.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "slowdive",
+    "why": "Slowdive's dreamy shoegaze is widely traced to the Cocteau Twins.",
+    "s": 2
+   },
+   {
+    "id": "lush",
+    "why": "Robin Guthrie produced Lush's early records.",
+    "s": 3
+   },
+   {
+    "id": "massive-attack",
+    "why": "Elizabeth Fraser sang on Massive Attack's Teardrop.",
+    "s": 3
+   },
+   {
+    "id": "beach-house",
+    "why": "Beach House's hazy dream pop follows the Cocteau Twins.",
+    "s": 2
+   },
+   {
+    "id": "sigur-ros",
+    "why": "Sigur Rós's invented-language vocals and shimmering textures echo the Cocteau Twins.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "enya",
+    "why": "Both made layered, otherworldly vocal music."
+   },
+   {
+    "id": "bjork",
+    "why": "Same use of the voice as a pure instrument."
+   }
+  ]
+ },
+ {
+  "id": "dead-can-dance",
+  "years": "1981–present",
+  "origin": "Melbourne, Australia",
+  "genres": [
+   "ethereal wave",
+   "neoclassical darkwave",
+   "world fusion"
+  ],
+  "summary": "Duo of Lisa Gerrard and Brendan Perry who blended post-punk with medieval, classical and Middle Eastern music. They are a central band of the 4AD sound.",
+  "know": [
+   "The duo moved from Melbourne to London in 1982 and signed to 4AD.",
+   "Lisa Gerrard often sings in her own invented language.",
+   "Gerrard later co-wrote the score for the film Gladiator with Hans Zimmer."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Spleen and Ideal",
+    1985
+   ],
+   [
+    "The Serpent's Egg",
+    1988
+   ],
+   [
+    "Aion",
+    1990
+   ],
+   [
+    "Into the Labyrinth",
+    1993
+   ]
+  ],
+  "songs": [
+   "The Host of Seraphim",
+   "Cantara",
+   "Yulunga (Spirit Dance)",
+   "The Carnival Is Over",
+   "Sanvean"
+  ],
+  "influencedBy": [
+   {
+    "id": "joy-division",
+    "why": "Their early records sit in the dark post-punk lineage of Joy Division.",
+    "s": 1
+   },
+   {
+    "id": "siouxsie",
+    "why": "Siouxsie and the Banshees' dark, dramatic sound fed their early style.",
+    "s": 1
+   },
+   {
+    "id": "umm-kulthum",
+    "why": "Gerrard's ornamented singing draws on Arabic vocal tradition.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "sigur-ros",
+    "why": "Sigur Rós's sacred-sounding, invented-language music follows Dead Can Dance.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "nusrat-fateh-ali-khan",
+    "why": "Both make devotional-feeling music built on soaring voice."
+   },
+   {
+    "id": "popol-vuh",
+    "why": "Same spiritual, drone-based atmosphere."
+   }
+  ]
+ },
+ {
+  "id": "the-psychedelic-furs",
+  "years": "1977–present",
+  "origin": "London, England",
+  "genres": [
+   "post-punk",
+   "new wave"
+  ],
+  "summary": "London band led by Richard Butler's raspy voice, moving from droning post-punk to polished new wave hits. Pretty in Pink gave its name to a hit film.",
+  "know": [
+   "Their song Pretty in Pink inspired the 1986 John Hughes film of the same name.",
+   "Todd Rundgren produced their third album, Forever Now.",
+   "Their 2020 album Made of Rain was their first in 29 years."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Psychedelic Furs",
+    1980
+   ],
+   [
+    "Talk Talk Talk",
+    1981
+   ],
+   [
+    "Forever Now",
+    1982
+   ],
+   [
+    "Mirror Moves",
+    1984
+   ]
+  ],
+  "songs": [
+   "Pretty in Pink",
+   "Love My Way",
+   "Heaven",
+   "Heartbreak Beat",
+   "The Ghost in You"
+  ],
+  "influencedBy": [
+   {
+    "id": "david-bowie",
+    "why": "Butler's vocal style and the band's sound owe much to Bowie.",
+    "s": 2
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "The Velvets' drone shaped their early, sax-heavy sound.",
+    "s": 2
+   },
+   {
+    "id": "roxy-music",
+    "why": "Roxy Music's arty mix of saxophone and rock fed the Furs.",
+    "s": 2
+   },
+   {
+    "id": "sex-pistols",
+    "why": "The punk explosion pushed the band to form.",
+    "s": 1
+   },
+   {
+    "id": "todd-rundgren",
+    "why": "Todd Rundgren produced Forever Now.",
+    "s": 3
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "duran-duran",
+    "why": "Both were stylish British bands with big 1980s new wave hits."
+   },
+   {
+    "id": "inxs",
+    "why": "Same moody, sax-flecked 1980s rock."
+   }
+  ]
+ },
+ {
+  "id": "tears-for-fears",
+  "years": "1981–present",
+  "origin": "Bath, England",
+  "genres": [
+   "new wave",
+   "synth-pop",
+   "art pop"
+  ],
+  "summary": "Duo of Roland Orzabal and Curt Smith who made introspective synth-pop and huge 1980s hits. Songs from the Big Chair is one of the decade's best-selling albums.",
+  "know": [
+   "Their name comes from the primal therapy of psychologist Arthur Janov.",
+   "A slowed-down cover of Mad World was the UK Christmas number one in 2003.",
+   "They discovered singer Oleta Adams and featured her on The Seeds of Love."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Hurting",
+    1983
+   ],
+   [
+    "Songs from the Big Chair",
+    1985
+   ],
+   [
+    "The Seeds of Love",
+    1989
+   ],
+   [
+    "The Tipping Point",
+    2022
+   ]
+  ],
+  "songs": [
+   "Everybody Wants to Rule the World",
+   "Shout",
+   "Mad World",
+   "Head over Heels",
+   "Sowing the Seeds of Love"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "Sowing the Seeds of Love openly draws on the Beatles.",
+    "s": 2
+   },
+   {
+    "id": "peter-gabriel",
+    "why": "Orzabal has cited Peter Gabriel's early solo records as a big influence.",
+    "s": 2
+   },
+   {
+    "id": "talking-heads",
+    "why": "Talking Heads' arty new wave fed their early sound.",
+    "s": 1
+   },
+   {
+    "id": "david-bowie",
+    "why": "Bowie's arty pop is part of their lineage.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "lorde",
+    "why": "Lorde recorded a well-known cover of Everybody Wants to Rule the World.",
+    "s": 2
+   },
+   {
+    "id": "kanye-west",
+    "why": "Kanye West built Coldest Winter around their song Memories Fade.",
+    "s": 2
+   },
+   {
+    "id": "weezer",
+    "why": "Weezer covered Everybody Wants to Rule the World.",
+    "s": 1
+   },
+   {
+    "id": "the-1975",
+    "why": "The 1975's glossy, emotional 1980s-style pop follows Tears for Fears.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-cure",
+    "why": "Both turned melancholy into big pop hits."
+   },
+   {
+    "id": "depeche-mode",
+    "why": "Same introspective, synth-driven pop."
+   }
+  ]
+ },
+ {
+  "id": "duran-duran",
+  "years": "1978–present",
+  "origin": "Birmingham, England",
+  "genres": [
+   "new wave",
+   "synth-pop",
+   "new romantic"
+  ],
+  "summary": "Birmingham band that mixed rock, disco and synths and became stars of the MTV era. They were one of the biggest bands of the 1980s.",
+  "know": [
+   "They took their name from a character in the 1968 film Barbarella.",
+   "A View to a Kill was the first James Bond theme to reach number one in the US.",
+   "Nile Rodgers remixed The Reflex and produced their album Notorious."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Duran Duran",
+    1981
+   ],
+   [
+    "Rio",
+    1982
+   ],
+   [
+    "Seven and the Ragged Tiger",
+    1983
+   ],
+   [
+    "Notorious",
+    1986
+   ]
+  ],
+  "songs": [
+   "Hungry Like the Wolf",
+   "Rio",
+   "Girls on Film",
+   "The Reflex",
+   "Ordinary World"
+  ],
+  "influencedBy": [
+   {
+    "id": "nile-rodgers",
+    "why": "Nile Rodgers remixed The Reflex and produced Notorious.",
+    "s": 3
+   },
+   {
+    "id": "chic",
+    "why": "John Taylor has said Chic's grooves shaped his bass playing.",
+    "s": 2
+   },
+   {
+    "id": "roxy-music",
+    "why": "Roxy Music's glamour and art-pop style were a model for the band.",
+    "s": 2
+   },
+   {
+    "id": "david-bowie",
+    "why": "Bowie's style and sound shaped the new romantic movement they led.",
+    "s": 2
+   },
+   {
+    "id": "giorgio-moroder",
+    "why": "Moroder's synth disco fed their dance-rock sound.",
+    "s": 2
+   },
+   {
+    "id": "sex-pistols",
+    "why": "Punk's energy pushed the band's early members to start playing.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-killers",
+    "why": "Brandon Flowers has named Duran Duran as a major influence.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-psychedelic-furs",
+    "why": "Both were stylish British bands with big new wave hits."
+   },
+   {
+    "id": "inxs",
+    "why": "Same glossy, dance-minded 1980s rock."
+   }
+  ]
+ },
+ {
+  "id": "the-b-52s",
+  "years": "1976–present",
+  "origin": "Athens, Georgia",
+  "genres": [
+   "new wave",
+   "dance rock",
+   "surf rock"
+  ],
+  "summary": "Athens band known for party songs, beehive hairdos, retro style and the vocal blend of Kate Pierson and Cindy Wilson. They put Athens on the music map.",
+  "know": [
+   "Ricky Wilson played guitar in unusual tunings, often with strings removed.",
+   "Their comeback album Cosmic Thing was co-produced by Nile Rodgers and Don Was.",
+   "Kate Pierson sang on R.E.M.'s Shiny Happy People."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The B-52's",
+    1979
+   ],
+   [
+    "Wild Planet",
+    1980
+   ],
+   [
+    "Cosmic Thing",
+    1989
+   ],
+   [
+    "Funplex",
+    2008
+   ]
+  ],
+  "songs": [
+   "Rock Lobster",
+   "Love Shack",
+   "Roam",
+   "Private Idaho",
+   "Planet Claire"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-shangri-las",
+    "why": "Their harmonies and retro style draw on 1960s girl groups.",
+    "s": 1
+   },
+   {
+    "id": "the-ronettes",
+    "why": "Girl-group pop shaped Pierson and Wilson's vocal blend.",
+    "s": 1
+   },
+   {
+    "id": "the-beach-boys",
+    "why": "Surf music runs through their guitar sound.",
+    "s": 1
+   },
+   {
+    "id": "nile-rodgers",
+    "why": "Nile Rodgers co-produced Cosmic Thing.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "rem",
+    "why": "The B-52's' success inspired the Athens scene that R.E.M. came out of.",
+    "s": 2
+   },
+   {
+    "id": "john-lennon",
+    "why": "John Lennon said Rock Lobster encouraged him to return to recording.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "parliament-funkadelic",
+    "why": "Both made playful, sci-fi party music."
+   },
+   {
+    "id": "village-people",
+    "why": "Same campy, costumed dance-floor fun."
+   }
+  ]
+ },
+ {
+  "id": "the-go-gos",
+  "years": "1978–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "new wave",
+   "pop punk",
+   "power pop"
+  ],
+  "summary": "Los Angeles band that started in the punk scene and became the first all-woman band who wrote their own songs and played their own instruments to top the Billboard album chart.",
+  "know": [
+   "Beauty and the Beat spent six weeks at number one on the Billboard album chart.",
+   "They started out in the LA punk scene at the Masque club.",
+   "Our Lips Are Sealed was co-written by Jane Wiedlin and Terry Hall of the Specials."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Beauty and the Beat",
+    1981
+   ],
+   [
+    "Vacation",
+    1982
+   ],
+   [
+    "Talk Show",
+    1984
+   ],
+   [
+    "God Bless the Go-Go's",
+    2001
+   ]
+  ],
+  "songs": [
+   "We Got the Beat",
+   "Our Lips Are Sealed",
+   "Vacation",
+   "Head over Heels"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-germs",
+    "why": "Belinda Carlisle was briefly part of the Germs before the Go-Go's.",
+    "s": 3
+   },
+   {
+    "id": "the-specials",
+    "why": "They toured with the Specials, and Terry Hall co-wrote Our Lips Are Sealed.",
+    "s": 3
+   },
+   {
+    "id": "ramones",
+    "why": "The Ramones' catchy punk shaped their early sound.",
+    "s": 1
+   },
+   {
+    "id": "the-ronettes",
+    "why": "Their bright harmonies echo 1960s girl groups.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-runaways",
+    "why": "Both were all-woman bands from LA rock scenes."
+   },
+   {
+    "id": "the-crystals",
+    "why": "Same bright, catchy girl-group pop."
+   }
+  ]
+ },
+ {
+  "id": "violent-femmes",
+  "years": "1980–present",
+  "origin": "Milwaukee, Wisconsin",
+  "genres": [
+   "folk punk",
+   "alternative rock",
+   "acoustic punk"
+  ],
+  "summary": "Milwaukee trio that played punk energy on acoustic instruments. Their debut album became a slow-burning classic of college radio.",
+  "know": [
+   "James Honeyman-Scott of the Pretenders saw them busking and got them an opening slot that night.",
+   "Their debut album went platinum years later after never charting on release.",
+   "Brian Ritchie plays an acoustic bass guitar, central to their sound."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Violent Femmes",
+    1983
+   ],
+   [
+    "Hallowed Ground",
+    1984
+   ],
+   [
+    "The Blind Leading the Naked",
+    1986
+   ],
+   [
+    "Why Do Birds Sing?",
+    1991
+   ]
+  ],
+  "songs": [
+   "Blister in the Sun",
+   "Kiss Off",
+   "Add It Up",
+   "Gone Daddy Gone",
+   "American Music"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-velvet-underground",
+    "why": "The Velvets' raw New York rock is a clear root of Gordon Gano's songs.",
+    "s": 2
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Dylan's folk shaped their acoustic songwriting.",
+    "s": 1
+   },
+   {
+    "id": "the-pretenders",
+    "why": "The Pretenders gave them their first big break by inviting them to open a show.",
+    "s": 3
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-avett-brothers",
+    "why": "Both play acoustic instruments with punk energy."
+   },
+   {
+    "id": "ween",
+    "why": "Same quirky, oddball sense of humor."
+   }
+  ]
+ },
+ {
+  "id": "dinosaur-jr",
+  "years": "1984–present",
+  "origin": "Amherst, Massachusetts",
+  "genres": [
+   "alternative rock",
+   "noise rock",
+   "indie rock"
+  ],
+  "summary": "Trio led by J Mascis that combined hardcore volume, sweet melodies and long guitar solos. They are a key link between 1980s indie rock and grunge.",
+  "know": [
+   "J Mascis plays at very high volume through stacks of amplifiers.",
+   "Lou Barlow left in 1989 and formed Sebadoh before rejoining in 2005.",
+   "They added the Jr. to their name after a dispute over the name Dinosaur."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "You're Living All Over Me",
+    1987
+   ],
+   [
+    "Bug",
+    1988
+   ],
+   [
+    "Green Mind",
+    1991
+   ],
+   [
+    "Where You Been",
+    1993
+   ]
+  ],
+  "songs": [
+   "Freak Scene",
+   "Just Like Heaven",
+   "The Wagon",
+   "Feel the Pain",
+   "Little Fury Things"
+  ],
+  "influencedBy": [
+   {
+    "id": "neil-young",
+    "why": "J Mascis has said Neil Young is a major influence on his guitar and voice.",
+    "s": 3
+   },
+   {
+    "id": "husker-du",
+    "why": "Hüsker Dü's loud, melodic hardcore shaped their sound.",
+    "s": 2
+   },
+   {
+    "id": "black-sabbath",
+    "why": "Sabbath's heavy riffs feed Mascis's guitar.",
+    "s": 2
+   },
+   {
+    "id": "the-cure",
+    "why": "They covered the Cure's Just Like Heaven.",
+    "s": 2
+   },
+   {
+    "id": "black-flag",
+    "why": "Mascis came out of the hardcore scene that Black Flag led.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "nirvana",
+    "why": "Kurt Cobain admired the band, and Nirvana toured with them.",
+    "s": 2
+   },
+   {
+    "id": "my-bloody-valentine",
+    "why": "Kevin Shields has cited You're Living All Over Me as an influence.",
+    "s": 2
+   },
+   {
+    "id": "built-to-spill",
+    "why": "Built to Spill's long guitar solos follow Mascis.",
+    "s": 1
+   },
+   {
+    "id": "smashing-pumpkins",
+    "why": "The Pumpkins' loud, melodic guitar rock draws on Dinosaur Jr.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "jimi-hendrix",
+    "why": "Both are built around loud, fuzzy, soaring guitar."
+   },
+   {
+    "id": "kyuss",
+    "why": "Same heavy, fuzz-drenched volume."
+   }
+  ]
+ },
+ {
+  "id": "meat-puppets",
+  "years": "1980–present",
+  "origin": "Phoenix, Arizona",
+  "genres": [
+   "cowpunk",
+   "psychedelic rock",
+   "alternative rock"
+  ],
+  "summary": "Phoenix band led by brothers Curt and Cris Kirkwood that mixed hardcore punk with country and psychedelic rock. Their SST albums were a big influence on 1990s alternative rock.",
+  "know": [
+   "They recorded for SST Records in the 1980s.",
+   "Curt and Cris Kirkwood joined Nirvana on MTV Unplugged in 1993 to play three Meat Puppets songs.",
+   "Backwater became their biggest hit in 1994."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Meat Puppets II",
+    1984
+   ],
+   [
+    "Up on the Sun",
+    1985
+   ],
+   [
+    "Mirage",
+    1987
+   ],
+   [
+    "Huevos",
+    1987
+   ]
+  ],
+  "songs": [
+   "Lake of Fire",
+   "Plateau",
+   "Oh, Me",
+   "Backwater",
+   "Up on the Sun"
+  ],
+  "influencedBy": [
+   {
+    "id": "black-flag",
+    "why": "Black Flag's SST label released their records, and they began in the same hardcore circle.",
+    "s": 2
+   },
+   {
+    "id": "grateful-dead",
+    "why": "The Kirkwoods' loose, jammy psychedelia shows a Grateful Dead influence.",
+    "s": 2
+   },
+   {
+    "id": "neil-young",
+    "why": "Their country-tinged rock echoes Neil Young.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "nirvana",
+    "why": "Nirvana covered three Meat Puppets songs with the Kirkwoods on MTV Unplugged.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-flying-burrito-brothers",
+    "why": "Both blend country and rock into a cosmic sound."
+   },
+   {
+    "id": "kyuss",
+    "why": "Same desert-born mix of heavy and psychedelic rock."
+   }
+  ]
+ },
+ {
+  "id": "butthole-surfers",
+  "years": "1981–present",
+  "origin": "San Antonio, Texas",
+  "genres": [
+   "noise rock",
+   "psychedelic rock",
+   "experimental rock"
+  ],
+  "summary": "San Antonio band led by Gibby Haynes and Paul Leary, known for chaotic, warped psychedelic noise and wild live shows. They later had a surprise radio hit with Pepper.",
+  "know": [
+   "Gibby Haynes and Paul Leary met as students at Trinity University.",
+   "Led Zeppelin bassist John Paul Jones produced Independent Worm Saloon.",
+   "Pepper became an alternative radio hit in 1996."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Psychic... Powerless... Another Man's Sac",
+    1984
+   ],
+   [
+    "Hairway to Steven",
+    1988
+   ],
+   [
+    "Independent Worm Saloon",
+    1993
+   ],
+   [
+    "Electriclarryland",
+    1996
+   ]
+  ],
+  "songs": [
+   "Pepper",
+   "Who Was in My Room Last Night?",
+   "Sweat Loaf",
+   "Moving to Florida"
+  ],
+  "influencedBy": [
+   {
+    "id": "black-sabbath",
+    "why": "Sweat Loaf reworks Black Sabbath's Sweet Leaf.",
+    "s": 2
+   },
+   {
+    "id": "dead-kennedys",
+    "why": "Their first release came out on Jello Biafra's Alternative Tentacles label.",
+    "s": 2
+   },
+   {
+    "id": "13th-floor-elevators",
+    "why": "Texas psychedelia like the Elevators runs through their warped sound.",
+    "s": 1
+   },
+   {
+    "id": "captain-beefheart",
+    "why": "Beefheart's twisted blues fed their chaotic style.",
+    "s": 1
+   },
+   {
+    "id": "led-zeppelin",
+    "why": "John Paul Jones produced Independent Worm Saloon.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "meat-puppets",
+    "why": "Paul Leary produced the Meat Puppets' Too High to Die.",
+    "s": 3
+   },
+   {
+    "id": "nirvana",
+    "why": "Kurt Cobain listed the Butthole Surfers among his favorite bands.",
+    "s": 2
+   },
+   {
+    "id": "ween",
+    "why": "Ween's warped, absurd rock follows the Butthole Surfers.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "frank-zappa",
+    "why": "Both mixed satire, noise and musical chaos."
+   },
+   {
+    "id": "boredoms",
+    "why": "Same wild, unhinged noise and psychedelia."
+   }
+  ]
+ },
+ {
+  "id": "big-black",
+  "years": "1981–1987",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "noise rock",
+   "post-punk",
+   "industrial rock"
+  ],
+  "summary": "Steve Albini's band, which used a drum machine and harsh, metallic guitars to make abrasive noise rock. They were a key influence on the noise rock and industrial scenes.",
+  "know": [
+   "Their drum machine, a Roland, was credited as a band member.",
+   "They covered Kraftwerk's The Model.",
+   "The band broke up in 1987 at the height of its popularity, and Albini became a leading recording engineer."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Lungs",
+    1982
+   ],
+   [
+    "Racer-X",
+    1985
+   ],
+   [
+    "Atomizer",
+    1986
+   ],
+   [
+    "Headache",
+    1987
+   ]
+  ],
+  "songs": [
+   "Kerosene",
+   "Bad Penny",
+   "The Model",
+   "Cables"
+  ],
+  "influencedBy": [
+   {
+    "id": "wire",
+    "why": "Big Black covered Wire's Heartbeat.",
+    "s": 2
+   },
+   {
+    "id": "kraftwerk",
+    "why": "Big Black covered Kraftwerk's The Model.",
+    "s": 2
+   },
+   {
+    "id": "gang-of-four",
+    "why": "Gang of Four's sharp, trebly guitar shaped Albini's playing.",
+    "s": 1
+   },
+   {
+    "id": "the-stooges",
+    "why": "The Stooges' raw noise fed the band.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "nine-inch-nails",
+    "why": "Nine Inch Nails' drum-machine-driven noise follows Big Black.",
+    "s": 1
+   },
+   {
+    "id": "helmet",
+    "why": "Helmet's harsh, precise noise rock owes a debt to Big Black.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "ministry",
+    "why": "Both made harsh, machine-driven heavy music."
+   },
+   {
+    "id": "cabaret-voltaire",
+    "why": "Same abrasive, electronic rhythms."
+   }
+  ]
+ },
+ {
+  "id": "the-feelies",
+  "years": "1976–present",
+  "origin": "Haledon, New Jersey",
+  "genres": [
+   "indie rock",
+   "jangle pop",
+   "post-punk"
+  ],
+  "summary": "New Jersey band known for nervous, fast-strummed guitars and steady, percussion-heavy rhythms. Their debut Crazy Rhythms is a key early indie rock record.",
+  "know": [
+   "Glenn Mercer and Bill Million play interlocking, fast-strummed guitars.",
+   "Peter Buck of R.E.M. co-produced The Good Earth.",
+   "They appeared as a band in Jonathan Demme's 1986 film Something Wild."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Crazy Rhythms",
+    1980
+   ],
+   [
+    "The Good Earth",
+    1986
+   ],
+   [
+    "Only Life",
+    1988
+   ],
+   [
+    "Time for a Witness",
+    1991
+   ]
+  ],
+  "songs": [
+   "The Boy with the Perpetual Nervousness",
+   "Fa Cé-La",
+   "Let's Go",
+   "Away",
+   "Crazy Rhythms"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-velvet-underground",
+    "why": "They covered the Velvets' What Goes On, and the Velvets shaped their drone.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "They covered the Beatles' Everybody's Got Something to Hide Except Me and My Monkey.",
+    "s": 2
+   },
+   {
+    "id": "television",
+    "why": "Television's guitar interplay fed their interlocking parts.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "rem",
+    "why": "Peter Buck was a fan and co-produced The Good Earth.",
+    "s": 2
+   },
+   {
+    "id": "yo-la-tengo",
+    "why": "Yo La Tengo came up in the same New Jersey scene and cite the Feelies.",
+    "s": 2
+   },
+   {
+    "id": "galaxie-500",
+    "why": "Galaxie 500's understated, droning guitar rock follows the Feelies.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "neu",
+    "why": "Both built songs on steady, driving rhythm."
+   },
+   {
+    "id": "the-byrds",
+    "why": "Same bright, jangling guitars."
+   }
+  ]
+ },
+ {
+  "id": "the-pogues",
+  "years": "1982–2014",
+  "origin": "London, England",
+  "genres": [
+   "Celtic punk",
+   "folk punk",
+   "Irish folk"
+  ],
+  "summary": "London band led by Shane MacGowan that mixed Irish folk with punk energy. Fairytale of New York is one of Britain's most-played Christmas songs.",
+  "know": [
+   "Fairytale of New York, with Kirsty MacColl, is one of the UK's most popular Christmas songs.",
+   "Elvis Costello produced their second album in 1985.",
+   "Joe Strummer of the Clash toured with them and produced Hell's Ditch."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Red Roses for Me",
+    1984
+   ],
+   [
+    "If I Should Fall from Grace with God",
+    1988
+   ],
+   [
+    "Peace and Love",
+    1989
+   ],
+   [
+    "Hell's Ditch",
+    1990
+   ]
+  ],
+  "songs": [
+   "Fairytale of New York",
+   "A Pair of Brown Eyes",
+   "Dirty Old Town",
+   "Sally MacLennane",
+   "Thousands Are Sailing"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-dubliners",
+    "why": "The Pogues recorded The Irish Rover with the Dubliners in 1987.",
+    "s": 3
+   },
+   {
+    "id": "the-clash",
+    "why": "Joe Strummer toured with the band and produced Hell's Ditch.",
+    "s": 2
+   },
+   {
+    "id": "sex-pistols",
+    "why": "MacGowan came up in the London punk scene the Pistols started.",
+    "s": 2
+   },
+   {
+    "id": "elvis-costello",
+    "why": "Elvis Costello produced their second album.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "fontaines-dc",
+    "why": "Fontaines D.C. have cited MacGowan's songwriting as an influence.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-chieftains",
+    "why": "Both brought Irish traditional music to a wide audience."
+   },
+   {
+    "id": "tom-waits",
+    "why": "Same rough-voiced, barroom poetry."
+   }
+  ]
+ },
+ {
+  "id": "the-church",
+  "years": "1980–present",
+  "origin": "Sydney, Australia",
+  "genres": [
+   "neo-psychedelia",
+   "jangle pop",
+   "dream pop"
+  ],
+  "summary": "Sydney band led by Steve Kilbey, known for chiming twin guitars and dreamy, psychedelic songs. Under the Milky Way became their international hit.",
+  "know": [
+   "Under the Milky Way reached the US Top 30 in 1988.",
+   "Marty Willson-Piper and Peter Koppes built the band's interlocking twin-guitar sound.",
+   "Starfish was recorded in Los Angeles with producers Waddy Wachtel and Greg Ladanyi."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Of Skins and Heart",
+    1981
+   ],
+   [
+    "Heyday",
+    1986
+   ],
+   [
+    "Starfish",
+    1988
+   ],
+   [
+    "Priest=Aura",
+    1992
+   ]
+  ],
+  "songs": [
+   "Under the Milky Way",
+   "The Unguarded Moment",
+   "Reptile",
+   "Almost with You",
+   "Metropolis"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-byrds",
+    "why": "The Byrds' jangling twelve-string guitar is a clear root of their sound.",
+    "s": 2
+   },
+   {
+    "id": "david-bowie",
+    "why": "Bowie's glam and art rock shaped Kilbey's style.",
+    "s": 1
+   },
+   {
+    "id": "television",
+    "why": "Television's twin-guitar interplay fed their guitar parts.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-moody-blues",
+    "why": "Both made dreamy, atmospheric rock."
+   },
+   {
+    "id": "pink-floyd",
+    "why": "Same spacey, psychedelic mood."
+   }
+  ]
+ },
+ {
+  "id": "throwing-muses",
+  "years": "1981–present",
+  "origin": "Newport, Rhode Island",
+  "genres": [
+   "alternative rock",
+   "indie rock",
+   "art punk"
+  ],
+  "summary": "Rhode Island band led by Kristin Hersh, known for jagged, shifting songs and intense vocals. They were the first American band signed to 4AD.",
+  "know": [
+   "They were the first American band signed to the British label 4AD.",
+   "Hersh's stepsister Tanya Donelly was an early member who co-founded the Breeders and later formed Belly.",
+   "Kristin Hersh has also had a long solo career."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Throwing Muses",
+    1986
+   ],
+   [
+    "House Tornado",
+    1988
+   ],
+   [
+    "Hunkpapa",
+    1989
+   ],
+   [
+    "The Real Ramona",
+    1991
+   ]
+  ],
+  "songs": [
+   "Bright Yellow Gun",
+   "Counting Backwards",
+   "Not Too Soon",
+   "Dizzy"
+  ],
+  "influencedBy": [
+   {
+    "id": "patti-smith",
+    "why": "Patti Smith showed how a woman could lead an intense, poetic rock band.",
+    "s": 1
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "The Velvets' raw art rock is part of their lineage.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-breeders",
+    "why": "Tanya Donelly co-founded the Breeders with Kim Deal.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "kate-bush",
+    "why": "Both write unusual, emotionally intense songs with a singular voice."
+   },
+   {
+    "id": "joanna-newsom",
+    "why": "Same idiosyncratic, poetic songwriting."
+   }
+  ]
+ },
+ {
+  "id": "the-breeders",
+  "years": "1989–present",
+  "origin": "Dayton, Ohio",
+  "genres": [
+   "alternative rock",
+   "indie rock",
+   "noise pop"
+  ],
+  "summary": "Band led by Kim Deal, first formed as a side project with Tanya Donelly. Their hit Cannonball made Last Splash a platinum record.",
+  "know": [
+   "The band began as a side project for Kim Deal of the Pixies and Tanya Donelly of Throwing Muses.",
+   "Their debut Pod was recorded with Steve Albini.",
+   "Kim's twin sister Kelley Deal joined on guitar for Last Splash."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Pod",
+    1990
+   ],
+   [
+    "Last Splash",
+    1993
+   ],
+   [
+    "Title TK",
+    2002
+   ],
+   [
+    "All Nerve",
+    2018
+   ]
+  ],
+  "songs": [
+   "Cannonball",
+   "Divine Hammer",
+   "Safari",
+   "Saints",
+   "Off You"
+  ],
+  "influencedBy": [
+   {
+    "id": "pixies",
+    "why": "Kim Deal formed the band while playing bass in the Pixies.",
+    "s": 3
+   },
+   {
+    "id": "throwing-muses",
+    "why": "Tanya Donelly came from Throwing Muses.",
+    "s": 3
+   },
+   {
+    "id": "steve-albini",
+    "why": "Steve Albini recorded Pod and Title TK.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "They covered the Beatles' Happiness Is a Warm Gun on Pod.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "nirvana",
+    "why": "Kurt Cobain often named Pod as one of his favorite albums.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-runaways",
+    "why": "Both are woman-led bands with tough, catchy rock."
+   },
+   {
+    "id": "everly-brothers",
+    "why": "Same close sibling harmonies."
+   }
+  ]
+ },
+ {
+  "id": "galaxie-500",
+  "years": "1987–1991",
+  "origin": "Cambridge, Massachusetts",
+  "genres": [
+   "dream pop",
+   "slowcore",
+   "indie rock"
+  ],
+  "summary": "Trio of Dean Wareham, Naomi Yang and Damon Krukowski who met at Harvard and made slow, reverb-soaked guitar rock. Their three albums are touchstones of dream pop and slowcore.",
+  "know": [
+   "The members met as students at Harvard.",
+   "Producer Kramer recorded their albums with heavy reverb.",
+   "After they split, Wareham formed Luna and Yang and Krukowski formed Damon and Naomi."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Today",
+    1988
+   ],
+   [
+    "On Fire",
+    1989
+   ],
+   [
+    "This Is Our Music",
+    1990
+   ]
+  ],
+  "songs": [
+   "Tugboat",
+   "Strange",
+   "Fourth of July",
+   "Blue Thunder",
+   "When Will You Come Home"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-velvet-underground",
+    "why": "The Velvets' slow, droning songs are a clear root of the band.",
+    "s": 2
+   },
+   {
+    "id": "new-order",
+    "why": "They covered Ceremony, written by Joy Division and recorded by New Order.",
+    "s": 2
+   },
+   {
+    "id": "the-feelies",
+    "why": "The Feelies' understated guitar rock anticipated Galaxie 500.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "beach-house",
+    "why": "Beach House's slow, reverb-heavy dream pop follows Galaxie 500.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "nick-drake",
+    "why": "Both made hushed, melancholy music."
+   },
+   {
+    "id": "brian-eno",
+    "why": "Same slow, atmospheric approach."
+   }
+  ]
+ },
+ {
+  "id": "spacemen-3",
+  "years": "1982–1991",
+  "origin": "Rugby, England",
+  "genres": [
+   "space rock",
+   "neo-psychedelia",
+   "drone"
+  ],
+  "summary": "Band led by Peter Kember (Sonic Boom) and Jason Pierce that made slow, droning psychedelic rock. After they split, Pierce formed Spiritualized.",
+  "know": [
+   "They covered the 13th Floor Elevators' Rollercoaster.",
+   "Their music was built on one or two chords and long, repeated drones.",
+   "Jason Pierce went on to form Spiritualized."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Sound of Confusion",
+    1986
+   ],
+   [
+    "The Perfect Prescription",
+    1987
+   ],
+   [
+    "Playing with Fire",
+    1989
+   ],
+   [
+    "Recurring",
+    1991
+   ]
+  ],
+  "songs": [
+   "Revolution",
+   "Walkin' with Jesus",
+   "Transparent Radiation",
+   "Hypnotized",
+   "Big City"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-velvet-underground",
+    "why": "The Velvets' drones are a clear root of their sound.",
+    "s": 2
+   },
+   {
+    "id": "13th-floor-elevators",
+    "why": "They covered the Elevators' Rollercoaster.",
+    "s": 2
+   },
+   {
+    "id": "the-stooges",
+    "why": "They covered the Stooges' Little Doll.",
+    "s": 2
+   },
+   {
+    "id": "suicide",
+    "why": "Sonic Boom has named Suicide as a key influence.",
+    "s": 2
+   },
+   {
+    "id": "silver-apples",
+    "why": "Silver Apples' electronic drones fed their sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "beach-house",
+    "why": "Peter Kember co-produced Beach House's album 7.",
+    "s": 3
+   },
+   {
+    "id": "tame-impala",
+    "why": "Tame Impala's drone-heavy psychedelia follows Spacemen 3.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "neu",
+    "why": "Both built music on long, repeated pulses."
+   },
+   {
+    "id": "sunn-o",
+    "why": "Same focus on slow, overwhelming drone."
+   }
+  ]
+ },
+ {
+  "id": "happy-mondays",
+  "years": "1980–present",
+  "origin": "Salford, England",
+  "genres": [
+   "Madchester",
+   "alternative dance",
+   "indie rock"
+  ],
+  "summary": "Salford band led by Shaun Ryder, with dancer Bez, that mixed indie rock with funk and acid house. They were central to the Madchester scene.",
+  "know": [
+   "Bez's job in the band was to dance on stage.",
+   "John Cale of the Velvet Underground produced their debut album.",
+   "Chris Frantz and Tina Weymouth of Talking Heads produced Yes Please!."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Squirrel and G-Man Twenty Four Hour Party People Plastic Face Carnt Smile (White Out)",
+    1987
+   ],
+   [
+    "Bummed",
+    1988
+   ],
+   [
+    "Yes Please!",
+    1992
+   ]
+  ],
+  "songs": [
+   "Step On",
+   "Kinky Afro",
+   "Wrote for Luck",
+   "24 Hour Party People",
+   "Hallelujah"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-velvet-underground",
+    "why": "John Cale of the Velvet Underground produced their debut.",
+    "s": 3
+   },
+   {
+    "id": "martin-hannett",
+    "why": "Martin Hannett produced Bummed.",
+    "s": 3
+   },
+   {
+    "id": "talking-heads",
+    "why": "Chris Frantz and Tina Weymouth produced Yes Please!.",
+    "s": 3
+   },
+   {
+    "id": "parliament-funkadelic",
+    "why": "Their loose funk grooves draw on Funkadelic.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "oasis",
+    "why": "Oasis came out of the Manchester scene the Mondays helped make famous.",
+    "s": 1
+   },
+   {
+    "id": "primal-scream",
+    "why": "Primal Scream's rock and dance crossover followed the Mondays.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "808-state",
+    "why": "Both were part of Manchester's late-1980s mix of rock and dance music."
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Same loose, joyful funk groove."
+   }
+  ]
+ },
+ {
+  "id": "melvins",
+  "years": "1983–present",
+  "origin": "Montesano, Washington",
+  "genres": [
+   "sludge metal",
+   "grunge",
+   "noise rock"
+  ],
+  "summary": "Band led by Buzz Osborne and drummer Dale Crover that slowed punk down to heavy, grinding tempos. They were a major influence on grunge and sludge metal.",
+  "know": [
+   "Dale Crover drummed on Nirvana's early demos.",
+   "Kurt Cobain co-produced their album Houdini.",
+   "In 1992 each member released a solo EP, a nod to Kiss's 1978 solo albums."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Gluey Porch Treatments",
+    1987
+   ],
+   [
+    "Bullhead",
+    1991
+   ],
+   [
+    "Houdini",
+    1993
+   ],
+   [
+    "Stoner Witch",
+    1994
+   ]
+  ],
+  "songs": [
+   "Honey Bucket",
+   "Hooch",
+   "Night Goat",
+   "Revolve",
+   "The Bit"
+  ],
+  "influencedBy": [
+   {
+    "id": "black-sabbath",
+    "why": "Sabbath's slow, heavy riffs are the core of the Melvins' sound.",
+    "s": 2
+   },
+   {
+    "id": "black-flag",
+    "why": "Buzz Osborne has cited Black Flag's slow side, especially My War.",
+    "s": 3
+   },
+   {
+    "id": "kiss",
+    "why": "The band are open Kiss fans and paid tribute with their 1992 solo EPs.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "nirvana",
+    "why": "Dale Crover drummed for Nirvana, and Kurt Cobain was a close follower of the band.",
+    "s": 3
+   },
+   {
+    "id": "soundgarden",
+    "why": "Soundgarden's slow, heavy grunge drew on the Melvins.",
+    "s": 2
+   },
+   {
+    "id": "mudhoney",
+    "why": "Mudhoney came out of the Seattle scene the Melvins shaped.",
+    "s": 2
+   },
+   {
+    "id": "eyehategod",
+    "why": "Eyehategod's sludge metal grew from the Melvins' slow heaviness.",
+    "s": 2
+   },
+   {
+    "id": "isis",
+    "why": "Isis's heavy, slow post-metal follows the Melvins.",
+    "s": 1
+   },
+   {
+    "id": "sleep",
+    "why": "Sleep's slow, heavy stoner metal draws on the Melvins.",
+    "s": 1
+   },
+   {
+    "id": "tool",
+    "why": "Tool are longtime Melvins fans and share their heavy, odd-time riffing.",
+    "s": 1
+   },
+   {
+    "id": "mastodon",
+    "why": "Mastodon's heavy, sludgy riffs owe a debt to the Melvins.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "kyuss",
+    "why": "Both make slow, heavy, fuzzy rock."
+   },
+   {
+    "id": "boredoms",
+    "why": "Same love of noisy, unpredictable heaviness."
+   }
+  ]
+ },
+ {
+  "id": "green-river",
+  "years": "1984–1988",
+  "origin": "Seattle, Washington",
+  "genres": [
+   "grunge",
+   "punk rock",
+   "hard rock"
+  ],
+  "summary": "Seattle band that included future members of Mudhoney and Pearl Jam. Their records are among the first grunge releases.",
+  "know": [
+   "Mark Arm and Steve Turner later formed Mudhoney.",
+   "Stone Gossard and Jeff Ament later formed Mother Love Bone and Pearl Jam.",
+   "Their EP Dry as a Bone was one of Sub Pop's first releases."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Come On Down",
+    1985
+   ],
+   [
+    "Dry as a Bone",
+    1987
+   ],
+   [
+    "Rehab Doll",
+    1988
+   ]
+  ],
+  "songs": [
+   "Swallow My Pride",
+   "Come On Down",
+   "Ain't Nothin' to Do",
+   "This Town"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-stooges",
+    "why": "The Stooges' raw rock is a clear root of their sound.",
+    "s": 2
+   },
+   {
+    "id": "black-flag",
+    "why": "Black Flag's heavy hardcore fed early grunge.",
+    "s": 1
+   },
+   {
+    "id": "aerosmith",
+    "why": "Gossard and Ament's love of hard rock like Aerosmith shaped the band.",
+    "s": 1
+   },
+   {
+    "id": "mc5",
+    "why": "The MC5's loud, raw rock fed their sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "mudhoney",
+    "why": "Mark Arm and Steve Turner formed Mudhoney after Green River.",
+    "s": 3
+   },
+   {
+    "id": "mother-love-bone",
+    "why": "Stone Gossard and Jeff Ament formed Mother Love Bone after Green River.",
+    "s": 3
+   },
+   {
+    "id": "pearl-jam",
+    "why": "Stone Gossard and Jeff Ament later founded Pearl Jam.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-sonics",
+    "why": "Both are raw, loud Seattle rock bands."
+   },
+   {
+    "id": "blue-cheer",
+    "why": "Same heavy, fuzzy hard rock."
+   }
+  ]
+ },
+ {
+  "id": "mudhoney",
+  "years": "1988–present",
+  "origin": "Seattle, Washington",
+  "genres": [
+   "grunge",
+   "garage punk"
+  ],
+  "summary": "Seattle band formed by Mark Arm and Steve Turner after Green River. Their fuzzy, garage-punk sound was central to early Sub Pop and grunge.",
+  "know": [
+   "Touch Me I'm Sick (1988) is one of Sub Pop's defining singles.",
+   "Superfuzz Bigmuff is named after two guitar effects pedals.",
+   "Mark Arm has also worked in Sub Pop's warehouse."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Superfuzz Bigmuff",
+    1988
+   ],
+   [
+    "Mudhoney",
+    1989
+   ],
+   [
+    "Every Good Boy Deserves Fudge",
+    1991
+   ],
+   [
+    "Piece of Cake",
+    1992
+   ]
+  ],
+  "songs": [
+   "Touch Me I'm Sick",
+   "In 'n' Out of Grace",
+   "Good Enough",
+   "Here Comes Sickness"
+  ],
+  "influencedBy": [
+   {
+    "id": "green-river",
+    "why": "Mark Arm and Steve Turner came from Green River.",
+    "s": 3
+   },
+   {
+    "id": "the-stooges",
+    "why": "The Stooges' raw rock is a clear root of the band.",
+    "s": 2
+   },
+   {
+    "id": "melvins",
+    "why": "The Melvins' heavy, sludgy sound shaped Seattle grunge.",
+    "s": 2
+   },
+   {
+    "id": "the-sonics",
+    "why": "The Sonics' raw Northwest garage rock fed their sound.",
+    "s": 2
+   },
+   {
+    "id": "blue-cheer",
+    "why": "Blue Cheer's fuzzy volume shaped their guitar tone.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "nirvana",
+    "why": "Kurt Cobain admired Mudhoney, and both were early Sub Pop bands.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-troggs",
+    "why": "Both play raw, simple garage rock."
+   },
+   {
+    "id": "motorhead",
+    "why": "Same loud, fuzzy, no-frills drive."
+   }
+  ]
+ },
+ {
+  "id": "mother-love-bone",
+  "years": "1987–1990",
+  "origin": "Seattle, Washington",
+  "genres": [
+   "grunge",
+   "glam rock",
+   "hard rock"
+  ],
+  "summary": "Seattle band led by singer Andrew Wood that mixed grunge with glam and hard rock. Two members went on to form Pearl Jam.",
+  "know": [
+   "Stone Gossard and Jeff Ament came from Green River.",
+   "The band ended in March 1990 when Andrew Wood died, just before their debut album was released.",
+   "Chris Cornell of Soundgarden formed Temple of the Dog as a tribute to Wood."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Shine",
+    1989
+   ],
+   [
+    "Apple",
+    1990
+   ]
+  ],
+  "songs": [
+   "Chloe Dancer/Crown of Thorns",
+   "Stardog Champion",
+   "Stargazer",
+   "Holy Roller",
+   "This Is Shangrila"
+  ],
+  "influencedBy": [
+   {
+    "id": "green-river",
+    "why": "Stone Gossard and Jeff Ament came from Green River.",
+    "s": 3
+   },
+   {
+    "id": "led-zeppelin",
+    "why": "Led Zeppelin's heavy rock shaped their sound.",
+    "s": 2
+   },
+   {
+    "id": "kiss",
+    "why": "Andrew Wood was a big Kiss fan, and it shows in his stage persona.",
+    "s": 2
+   },
+   {
+    "id": "queen",
+    "why": "Wood admired Freddie Mercury's flamboyant style.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "pearl-jam",
+    "why": "Stone Gossard and Jeff Ament founded Pearl Jam after the band ended.",
+    "s": 3
+   },
+   {
+    "id": "soundgarden",
+    "why": "Soundgarden's Chris Cornell made the Temple of the Dog album as a tribute to Wood.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "t-rex",
+    "why": "Both bring glam swagger to rock."
+   },
+   {
+    "id": "guns-n-roses",
+    "why": "Same mix of hard rock and flamboyant style."
+   }
+  ]
+ },
+ {
+  "id": "jane-s-addiction",
+  "years": "1985–2024",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "alternative rock",
+   "alternative metal",
+   "art rock"
+  ],
+  "summary": "Los Angeles band led by Perry Farrell that mixed hard rock, goth, funk and art-rock ambition. They helped bring alternative rock to the mainstream just before grunge.",
+  "know": [
+   "Perry Farrell founded the Lollapalooza festival in 1991 as the band's farewell tour.",
+   "Guitarist Dave Navarro later played with the Red Hot Chili Peppers.",
+   "Their major-label debut Nothing's Shocking came out on Warner Bros. in 1988."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Jane's Addiction",
+    1987
+   ],
+   [
+    "Nothing's Shocking",
+    1988
+   ],
+   [
+    "Ritual de lo Habitual",
+    1990
+   ],
+   [
+    "Strays",
+    2003
+   ]
+  ],
+  "songs": [
+   "Jane Says",
+   "Mountain Song",
+   "Stop!",
+   "Ocean Size",
+   "Three Days"
+  ],
+  "influencedBy": [
+   {
+    "id": "led-zeppelin",
+    "why": "Led Zeppelin's heavy, mystical rock is a clear root of their sound.",
+    "s": 2
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "They covered the Velvets' Rock & Roll and Sweet Jane.",
+    "s": 2
+   },
+   {
+    "id": "joy-division",
+    "why": "Eric Avery's melodic, driving bass lines echo Peter Hook.",
+    "s": 1
+   },
+   {
+    "id": "bauhaus",
+    "why": "Bauhaus's dark theatrics fed the band's goth side.",
+    "s": 1
+   },
+   {
+    "id": "siouxsie",
+    "why": "Siouxsie and the Banshees' dark, dramatic post-punk shaped their sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "smashing-pumpkins",
+    "why": "The Pumpkins' mix of heavy guitar and art-rock ambition followed Jane's Addiction.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-doors",
+    "why": "Both mixed rock with a mystical, theatrical frontman."
+   },
+   {
+    "id": "tool",
+    "why": "Same heavy, art-minded rock with long, building songs."
+   }
+  ]
+ },
+ {
+  "id": "faith-no-more",
+  "years": "1979–2021",
+  "origin": "San Francisco, California",
+  "genres": [
+   "alternative metal",
+   "funk metal",
+   "experimental rock"
+  ],
+  "summary": "San Francisco band that mixed metal, funk, rap and keyboards, best known with singer Mike Patton. Their genre-mixing sound shaped much of 1990s alternative metal.",
+  "know": [
+   "Mike Patton replaced original singer Chuck Mosley in 1988.",
+   "Epic reached the US Top 10 in 1990.",
+   "Their cover of the Commodores' Easy was a UK top 3 hit in 1993."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Introduce Yourself",
+    1987
+   ],
+   [
+    "The Real Thing",
+    1989
+   ],
+   [
+    "Angel Dust",
+    1992
+   ],
+   [
+    "King for a Day... Fool for a Lifetime",
+    1995
+   ]
+  ],
+  "songs": [
+   "Epic",
+   "Midlife Crisis",
+   "Falling to Pieces",
+   "Easy",
+   "We Care a Lot"
+  ],
+  "influencedBy": [
+   {
+    "id": "black-sabbath",
+    "why": "They covered Sabbath's War Pigs, and Sabbath's riffs shaped their metal side.",
+    "s": 2
+   },
+   {
+    "id": "public-image-ltd",
+    "why": "Bill Gould has cited PiL's bass-heavy post-punk.",
+    "s": 2
+   },
+   {
+    "id": "the-commodores",
+    "why": "They covered the Commodores' Easy.",
+    "s": 2
+   },
+   {
+    "id": "parliament-funkadelic",
+    "why": "Their funk grooves draw on Funkadelic.",
+    "s": 1
+   },
+   {
+    "id": "siouxsie",
+    "why": "Their dark, keyboard-heavy early sound echoes Siouxsie and the Banshees.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "korn",
+    "why": "Korn have cited Faith No More as an influence.",
+    "s": 2
+   },
+   {
+    "id": "system-of-a-down",
+    "why": "System of a Down's genre-jumping metal follows Faith No More.",
+    "s": 2
+   },
+   {
+    "id": "deftones",
+    "why": "Deftones have cited Faith No More.",
+    "s": 2
+   },
+   {
+    "id": "limp-bizkit",
+    "why": "Limp Bizkit's rap and metal fusion follows Faith No More.",
+    "s": 1
+   },
+   {
+    "id": "linkin-park",
+    "why": "Linkin Park's rap and metal mix follows the path Faith No More opened.",
+    "s": 1
+   },
+   {
+    "id": "slipknot",
+    "why": "Corey Taylor has cited Mike Patton.",
+    "s": 1
+   },
+   {
+    "id": "the-dillinger-escape-plan",
+    "why": "Mike Patton sang on their 2002 EP Irony Is a Dead Scene.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "frank-zappa",
+    "why": "Both mix genres freely with humor and technical skill."
+   },
+   {
+    "id": "beastie-boys",
+    "why": "Same playful mix of rap, rock and funk."
+   }
+  ]
+ },
+ {
+  "id": "stone-temple-pilots",
+  "years": "1989–present",
+  "origin": "San Diego, California",
+  "genres": [
+   "grunge",
+   "alternative rock",
+   "hard rock"
+  ],
+  "summary": "San Diego band led by Scott Weiland and the DeLeo brothers that mixed grunge with glam and classic rock. They had a string of 1990s hits.",
+  "know": [
+   "Plush won the Grammy for Best Hard Rock Performance in 1994.",
+   "Brendan O'Brien produced their 1990s albums.",
+   "Linkin Park's Chester Bennington sang with the band from 2013 to 2015."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Core",
+    1992
+   ],
+   [
+    "Purple",
+    1994
+   ],
+   [
+    "Tiny Music... Songs from the Vatican Gift Shop",
+    1996
+   ],
+   [
+    "No. 4",
+    1999
+   ]
+  ],
+  "songs": [
+   "Plush",
+   "Interstate Love Song",
+   "Vasoline",
+   "Creep",
+   "Big Empty"
+  ],
+  "influencedBy": [
+   {
+    "id": "led-zeppelin",
+    "why": "Led Zeppelin's riffs shaped the DeLeo brothers' writing.",
+    "s": 2
+   },
+   {
+    "id": "the-doors",
+    "why": "Weiland's baritone was often compared to Jim Morrison.",
+    "s": 1
+   },
+   {
+    "id": "david-bowie",
+    "why": "Weiland's glam style draws on Bowie.",
+    "s": 1
+   },
+   {
+    "id": "aerosmith",
+    "why": "Their hard rock swagger echoes Aerosmith.",
+    "s": 1
+   },
+   {
+    "id": "the-beatles",
+    "why": "Tiny Music shows a clear Beatles influence.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "linkin-park",
+    "why": "Chester Bennington said Stone Temple Pilots were a major influence before he joined them.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-black-crowes",
+    "why": "Both brought classic rock sounds into the 1990s."
+   },
+   {
+    "id": "lenny-kravitz",
+    "why": "Same retro rock swagger."
+   }
+  ]
+ },
+ {
+  "id": "screaming-trees",
+  "years": "1985–2000",
+  "origin": "Ellensburg, Washington",
+  "genres": [
+   "grunge",
+   "psychedelic rock",
+   "alternative rock"
+  ],
+  "summary": "Washington band led by Mark Lanegan's deep voice and the Conner brothers, mixing grunge with 1960s psychedelia. Nearly Lost You was their biggest hit.",
+  "know": [
+   "Nearly Lost You appeared on the soundtrack to the 1992 film Singles.",
+   "Gary Lee and Van Conner were brothers in the band.",
+   "Mark Lanegan later worked with Queens of the Stone Age."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Even If and Especially When",
+    1987
+   ],
+   [
+    "Uncle Anesthesia",
+    1991
+   ],
+   [
+    "Sweet Oblivion",
+    1992
+   ],
+   [
+    "Dust",
+    1996
+   ]
+  ],
+  "songs": [
+   "Nearly Lost You",
+   "Shadow of the Season",
+   "All I Know",
+   "Dollar Bill",
+   "Bed of Roses"
+  ],
+  "influencedBy": [
+   {
+    "id": "13th-floor-elevators",
+    "why": "Texas psychedelia like the Elevators shaped their sound.",
+    "s": 2
+   },
+   {
+    "id": "the-doors",
+    "why": "Lanegan's deep voice was often compared to Jim Morrison.",
+    "s": 1
+   },
+   {
+    "id": "love",
+    "why": "Love's 1960s psychedelia fed their sound.",
+    "s": 1
+   },
+   {
+    "id": "the-stooges",
+    "why": "The Stooges' raw rock fed their heavy side.",
+    "s": 1
+   },
+   {
+    "id": "soundgarden",
+    "why": "Chris Cornell of Soundgarden co-produced Uncle Anesthesia.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "queens-of-the-stone-age",
+    "why": "Josh Homme toured with the band, and Lanegan later joined Queens of the Stone Age.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "johnny-cash",
+    "why": "Both sing with a deep, worn baritone."
+   },
+   {
+    "id": "leonard-cohen",
+    "why": "Same dark, deep-voiced songwriting."
+   }
+  ]
+ }
+]

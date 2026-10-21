@@ -1,0 +1,5023 @@
+[
+ {
+  "id": "wilson-pickett",
+  "years": "1959–2006",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "Southern soul",
+   "R&B",
+   "deep soul"
+  ],
+  "summary": "A ferocious soul shouter who came out of Detroit gospel and vocal groups. His Stax and Muscle Shoals sides for Atlantic set the standard for hard, horn-driven 1960s soul.",
+  "know": [
+   "He first sang lead with the Detroit vocal group the Falcons.",
+   "He wrote In the Midnight Hour with Steve Cropper at Stax in 1965.",
+   "His 1968 cover of Hey Jude at FAME Studios featured a young Duane Allman on guitar."
+  ],
+  "born": "03-18",
+  "keyAlbums": [
+   [
+    "In the Midnight Hour",
+    1965
+   ],
+   [
+    "The Exciting Wilson Pickett",
+    1966
+   ],
+   [
+    "The Wicked Pickett",
+    1967
+   ],
+   [
+    "Hey Jude",
+    1969
+   ]
+  ],
+  "songs": [
+   "In the Midnight Hour",
+   "Land of 1000 Dances",
+   "Mustang Sally",
+   "Funky Broadway",
+   "634-5789"
+  ],
+  "influencedBy": [
+   {
+    "id": "little-richard",
+    "why": "He named Little Richard's wild, gospel-charged shouting as the model for his own delivery.",
+    "s": 2
+   },
+   {
+    "id": "sam-cooke",
+    "why": "Cooke's move from gospel to secular soul was the path Pickett followed out of the church.",
+    "s": 2
+   },
+   {
+    "id": "booker-t",
+    "why": "Booker T. and the MG's backed his first Stax session and built the groove of In the Midnight Hour.",
+    "s": 3
+   },
+   {
+    "id": "the-swampers",
+    "why": "The Muscle Shoals players cut Land of 1000 Dances and Mustang Sally with him.",
+    "s": 3
+   },
+   {
+    "id": "jerry-wexler",
+    "why": "Wexler signed him to Atlantic and sent him to Memphis and Muscle Shoals to record.",
+    "s": 3
+   },
+   {
+    "id": "ray-charles",
+    "why": "Charles's blend of gospel and R&B was the template for Pickett's raw style.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-allman-brothers",
+    "why": "His Hey Jude session gave Duane Allman the break that led to the Allman Brothers Band.",
+    "s": 2
+   },
+   {
+    "id": "grateful-dead",
+    "why": "The Dead played In the Midnight Hour for years as a live jam vehicle.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "little-richard",
+    "why": "Same raw, screaming gospel energy in early rock and roll."
+   },
+   {
+    "id": "joe-cocker",
+    "why": "A gravel-voiced rock shouter who sang soul songs with the same abandon."
+   }
+  ]
+ },
+ {
+  "id": "sam-and-dave",
+  "years": "1961–1981",
+  "origin": "Miami, Florida",
+  "genres": [
+   "Southern soul",
+   "Memphis soul",
+   "gospel soul"
+  ],
+  "summary": "Sam Moore and Dave Prater were the most explosive duo in 1960s soul. Their call-and-response records for Stax defined the label's hardest sound.",
+  "know": [
+   "Sam Moore and Dave Prater met at the King of Hearts club in Miami in 1961.",
+   "Isaac Hayes and David Porter wrote and produced most of their Stax hits.",
+   "Atlantic signed them and placed them with Stax to record in Memphis."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Hold On, I'm Comin'",
+    1966
+   ],
+   [
+    "Double Dynamite",
+    1966
+   ],
+   [
+    "Soul Men",
+    1967
+   ],
+   [
+    "I Thank You",
+    1968
+   ]
+  ],
+  "songs": [
+   "Hold On, I'm Comin'",
+   "Soul Man",
+   "When Something Is Wrong with My Baby",
+   "I Thank You",
+   "You Don't Know Like I Know"
+  ],
+  "influencedBy": [
+   {
+    "id": "isaac-hayes",
+    "why": "Hayes cowrote and produced Soul Man, Hold On I'm Comin' and most of their hits.",
+    "s": 3
+   },
+   {
+    "id": "booker-t",
+    "why": "Booker T. and the MG's played on their Stax records.",
+    "s": 3
+   },
+   {
+    "id": "jerry-wexler",
+    "why": "Wexler signed the duo to Atlantic and arranged their move to Stax.",
+    "s": 3
+   },
+   {
+    "id": "sam-cooke",
+    "why": "Cooke's gospel phrasing shaped Sam Moore's lead style.",
+    "s": 2
+   },
+   {
+    "id": "jackie-wilson",
+    "why": "Wilson's acrobatic stage show was a model for their high-energy performances.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "bruce-springsteen",
+    "why": "Springsteen has called them a key live influence, and Sam Moore sang on his 1992 album Human Touch.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "everly-brothers",
+    "why": "A defining two-voice duo in early rock and roll."
+   },
+   {
+    "id": "outkast",
+    "why": "A duo of contrasting voices trading lines in hip-hop."
+   }
+  ]
+ },
+ {
+  "id": "solomon-burke",
+  "years": "1955–2010",
+  "origin": "Philadelphia, Pennsylvania",
+  "genres": [
+   "soul",
+   "country soul",
+   "gospel"
+  ],
+  "summary": "A Philadelphia boy preacher who became one of Atlantic's first soul stars. He mixed gospel, R&B and country songs and helped name and shape the soul sound.",
+  "know": [
+   "He was preaching and leading a church radio program as a boy in Philadelphia.",
+   "He signed with Atlantic in 1960 and scored with a country song, Just Out of Reach.",
+   "His 2002 album Don't Give Up on Me, produced by Joe Henry, won a Grammy."
+  ],
+  "born": "03-21",
+  "keyAlbums": [
+   [
+    "If You Need Me",
+    1963
+   ],
+   [
+    "Rock 'n Soul",
+    1964
+   ],
+   [
+    "Proud Mary",
+    1969
+   ],
+   [
+    "Don't Give Up on Me",
+    2002
+   ]
+  ],
+  "songs": [
+   "Cry to Me",
+   "Just Out of Reach (Of My Two Open Arms)",
+   "Everybody Needs Somebody to Love",
+   "Got to Get You Off My Mind",
+   "If You Need Me"
+  ],
+  "influencedBy": [
+   {
+    "id": "jerry-wexler",
+    "why": "Wexler signed and produced him at Atlantic and pushed his blend of country and gospel.",
+    "s": 3
+   },
+   {
+    "id": "ray-charles",
+    "why": "Charles had already joined gospel feeling to R&B and country, the same mix Burke used.",
+    "s": 1
+   },
+   {
+    "id": "mahalia-jackson",
+    "why": "Gospel singing in her grand style was the foundation of his preaching voice.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-rolling-stones",
+    "why": "The Stones covered Cry to Me and Everybody Needs Somebody to Love in 1965.",
+    "s": 2
+   },
+   {
+    "id": "wilson-pickett",
+    "why": "Pickett recut Everybody Needs Somebody to Love, a song Burke cowrote and introduced.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "johnny-cash",
+    "why": "A big-voiced, preacherly singer who also got a late-career comeback album of songs by admiring writers."
+   },
+   {
+    "id": "the-staple-singers",
+    "why": "Gospel voices carried into secular songs."
+   }
+  ]
+ },
+ {
+  "id": "ben-e-king",
+  "years": "1958–2015",
+  "origin": "New York, New York",
+  "genres": [
+   "soul",
+   "uptown soul",
+   "R&B"
+  ],
+  "summary": "Lead singer of the Drifters who went solo with Stand by Me. His smooth baritone over strings and Latin rhythms defined uptown New York soul.",
+  "know": [
+   "He sang lead on the Drifters' There Goes My Baby, one of the first R&B hits with a string section.",
+   "He cowrote Stand by Me with Jerry Leiber and Mike Stoller in 1961.",
+   "Spanish Harlem was written by Leiber and Phil Spector for his first solo single."
+  ],
+  "born": "09-28",
+  "keyAlbums": [
+   [
+    "Spanish Harlem",
+    1961
+   ],
+   [
+    "Don't Play That Song!",
+    1962
+   ],
+   [
+    "Supernatural",
+    1975
+   ]
+  ],
+  "songs": [
+   "Stand by Me",
+   "Spanish Harlem",
+   "There Goes My Baby",
+   "Save the Last Dance for Me",
+   "Supernatural Thing"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-drifters",
+    "why": "He learned his craft as lead singer of the Drifters from 1958 to 1960.",
+    "s": 3
+   },
+   {
+    "id": "leiber-and-stoller",
+    "why": "They produced his Drifters records and his early solo sides.",
+    "s": 3
+   },
+   {
+    "id": "phil-spector",
+    "why": "Spector cowrote Spanish Harlem and worked on his early sessions.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "john-lennon",
+    "why": "Lennon recorded Stand by Me on his 1975 album Rock 'n' Roll.",
+    "s": 2
+   },
+   {
+    "id": "average-white-band",
+    "why": "The band made the joint album Benny and Us with him in 1977.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "roy-orbison",
+    "why": "Orchestral pop ballads built around a soaring voice."
+   },
+   {
+    "id": "nat-king-cole",
+    "why": "A smooth baritone singing over lush strings."
+   }
+  ]
+ },
+ {
+  "id": "the-impressions",
+  "years": "1958–2012",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "Chicago soul",
+   "gospel soul",
+   "vocal group"
+  ],
+  "summary": "Curtis Mayfield's Chicago vocal group, known for light, gospel-style harmonies and his chiming guitar. Their 1960s songs became anthems of the civil rights era.",
+  "know": [
+   "Jerry Butler sang lead on their 1958 debut For Your Precious Love before leaving.",
+   "Curtis Mayfield wrote and arranged their hits and sang lead from the early 1960s.",
+   "Keep On Pushing and People Get Ready were adopted as civil rights movement songs."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Impressions",
+    1963
+   ],
+   [
+    "Keep On Pushing",
+    1964
+   ],
+   [
+    "People Get Ready",
+    1965
+   ],
+   [
+    "This Is My Country",
+    1968
+   ]
+  ],
+  "songs": [
+   "For Your Precious Love",
+   "It's All Right",
+   "Keep On Pushing",
+   "People Get Ready",
+   "We're a Winner"
+  ],
+  "influencedBy": [
+   {
+    "id": "curtis-mayfield",
+    "why": "Mayfield was their leader, writer and guitarist.",
+    "s": 3
+   },
+   {
+    "id": "the-soul-stirrers",
+    "why": "Gospel quartet harmony of this kind is the base of their sound.",
+    "s": 1
+   },
+   {
+    "id": "sam-cooke",
+    "why": "Cooke's light, sweet lead style shaped their move from gospel to pop soul.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "bob-marley",
+    "why": "The early Wailers modeled their harmonies on the Impressions, and Marley worked People Get Ready into One Love.",
+    "s": 2
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "Hendrix took the soft, chordal R&B guitar style Mayfield used on Impressions records.",
+    "s": 2
+   },
+   {
+    "id": "rod-stewart",
+    "why": "Stewart and Jeff Beck had a hit with People Get Ready in 1985.",
+    "s": 2
+   },
+   {
+    "id": "jeff-beck",
+    "why": "Beck recorded People Get Ready with Rod Stewart in 1985.",
+    "s": 2
+   },
+   {
+    "id": "the-chi-lites",
+    "why": "The Chi-Lites carried on the Chicago group-harmony sound the Impressions built.",
+    "s": 1
+   },
+   {
+    "id": "alton-ellis",
+    "why": "Jamaican rocksteady singers drew heavily on Impressions harmonies.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "crosby-stills-nash",
+    "why": "Close harmony carrying socially minded songs."
+   },
+   {
+    "id": "the-staple-singers",
+    "why": "Gospel harmony turned into civil rights messages."
+   }
+  ]
+ },
+ {
+  "id": "the-isley-brothers",
+  "years": "1954–present",
+  "origin": "Cincinnati, Ohio",
+  "genres": [
+   "R&B",
+   "funk",
+   "soul",
+   "quiet storm"
+  ],
+  "summary": "A family group that moved from gospel-fired R&B in the 1950s to heavy guitar funk and slow-jam ballads in the 1970s. Few acts have stayed on the R&B charts across so many eras.",
+  "know": [
+   "Their 1959 single Shout became a party standard.",
+   "Jimi Hendrix played guitar in their touring band in 1964.",
+   "They ran their own T-Neck label, and It's Your Thing won a Grammy in 1970."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Givin' It Back",
+    1971
+   ],
+   [
+    "3 + 3",
+    1973
+   ],
+   [
+    "The Heat Is On",
+    1975
+   ],
+   [
+    "Between the Sheets",
+    1983
+   ]
+  ],
+  "songs": [
+   "Shout",
+   "Twist and Shout",
+   "It's Your Thing",
+   "That Lady",
+   "Footsteps in the Dark"
+  ],
+  "influencedBy": [
+   {
+    "id": "jackie-wilson",
+    "why": "Shout grew out of the call-and-response style they used when covering Wilson onstage.",
+    "s": 2
+   },
+   {
+    "id": "ray-charles",
+    "why": "The gospel call-and-response of What'd I Say shaped their early R&B records.",
+    "s": 1
+   },
+   {
+    "id": "holland-dozier-holland",
+    "why": "The Motown team wrote and produced This Old Heart of Mine for them.",
+    "s": 3
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "Hendrix's time in the band shaped Ernie Isley's fuzz-heavy guitar leads.",
+    "s": 3
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Sly's rock-funk mix pushed their turn to self-contained funk around 1969.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-beatles",
+    "why": "The Beatles covered their Twist and Shout on Please Please Me.",
+    "s": 2
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "They gave Hendrix steady work as a sideman in 1964.",
+    "s": 3
+   },
+   {
+    "id": "ice-cube",
+    "why": "It Was a Good Day is built on a sample of Footsteps in the Dark.",
+    "s": 2
+   },
+   {
+    "id": "notorious-big",
+    "why": "Big Poppa is built on Between the Sheets.",
+    "s": 2
+   },
+   {
+    "id": "aaliyah",
+    "why": "Aaliyah covered their ballad At Your Best (You Are Love).",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-beach-boys",
+    "why": "A long-running family band with a deep harmony sound."
+   },
+   {
+    "id": "santana",
+    "why": "Lyrical, sustained guitar leads over a groove."
+   }
+  ]
+ },
+ {
+  "id": "four-tops",
+  "years": "1953–present",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "Motown",
+   "soul",
+   "vocal group"
+  ],
+  "summary": "A Detroit vocal quartet with Levi Stubbs's urgent baritone up front. With Holland-Dozier-Holland they cut some of Motown's most dramatic hits.",
+  "know": [
+   "The same four members sang together from 1953 until 1997.",
+   "They began as the Four Aims before signing with Motown in 1963.",
+   "Holland-Dozier-Holland wrote and produced Reach Out I'll Be There."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Four Tops",
+    1965
+   ],
+   [
+    "Four Tops Second Album",
+    1965
+   ],
+   [
+    "Reach Out",
+    1967
+   ],
+   [
+    "Still Waters Run Deep",
+    1970
+   ]
+  ],
+  "songs": [
+   "I Can't Help Myself (Sugar Pie Honey Bunch)",
+   "It's the Same Old Song",
+   "Reach Out I'll Be There",
+   "Standing in the Shadows of Love",
+   "Bernadette"
+  ],
+  "influencedBy": [
+   {
+    "id": "holland-dozier-holland",
+    "why": "The team wrote and produced their run of 1960s hits.",
+    "s": 3
+   },
+   {
+    "id": "funk-brothers",
+    "why": "Motown's house band played on all their classic singles.",
+    "s": 3
+   },
+   {
+    "id": "berry-gordy",
+    "why": "Gordy signed them to Motown and steered them toward pop soul.",
+    "s": 3
+   },
+   {
+    "id": "the-ink-spots",
+    "why": "Older vocal-group harmony of this kind was their starting point as a 1950s quartet.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-hollies",
+    "why": "Big harmony pop singles in 1960s British rock."
+   },
+   {
+    "id": "the-golden-gate-quartet",
+    "why": "A four-man vocal group with a strong lead over tight harmonies."
+   }
+  ]
+ },
+ {
+  "id": "martha-and-the-vandellas",
+  "years": "1957–1972",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "Motown",
+   "soul",
+   "girl group"
+  ],
+  "summary": "Motown's toughest-sounding girl group, led by Martha Reeves. Their records had a hard, gospel-style drive that set them apart from the label's smoother acts.",
+  "know": [
+   "Martha Reeves worked as a Motown secretary and sang backup before getting her own act.",
+   "Heat Wave was one of Holland-Dozier-Holland's first big hits in 1963.",
+   "Dancing in the Street was cowritten by Marvin Gaye, William Stevenson and Ivy Jo Hunter."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Come and Get These Memories",
+    1963
+   ],
+   [
+    "Heat Wave",
+    1963
+   ],
+   [
+    "Dance Party",
+    1965
+   ],
+   [
+    "Watchout!",
+    1966
+   ]
+  ],
+  "songs": [
+   "Heat Wave",
+   "Quicksand",
+   "Dancing in the Street",
+   "Nowhere to Run",
+   "Jimmy Mack"
+  ],
+  "influencedBy": [
+   {
+    "id": "holland-dozier-holland",
+    "why": "The team wrote and produced Heat Wave, Quicksand and Nowhere to Run.",
+    "s": 3
+   },
+   {
+    "id": "funk-brothers",
+    "why": "The Funk Brothers played the driving tracks on their hits.",
+    "s": 3
+   },
+   {
+    "id": "marvin-gaye",
+    "why": "Gaye cowrote and helped produce Dancing in the Street.",
+    "s": 3
+   },
+   {
+    "id": "berry-gordy",
+    "why": "Gordy signed them and built them into a Motown headliner.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "linda-ronstadt",
+    "why": "Ronstadt had a hit with Heat Wave in 1975.",
+    "s": 2
+   },
+   {
+    "id": "the-jam",
+    "why": "The Jam covered Heat Wave on Setting Sons.",
+    "s": 2
+   },
+   {
+    "id": "van-halen",
+    "why": "Van Halen covered Dancing in the Street in 1982.",
+    "s": 2
+   },
+   {
+    "id": "david-bowie",
+    "why": "Bowie recorded Dancing in the Street with Mick Jagger in 1985.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-ronettes",
+    "why": "Tough girl-group swagger in 1960s pop."
+   },
+   {
+    "id": "blondie",
+    "why": "Punchy, girl-group-rooted pop in new wave."
+   }
+  ]
+ },
+ {
+  "id": "the-marvelettes",
+  "years": "1960–1970",
+  "origin": "Inkster, Michigan",
+  "genres": [
+   "Motown",
+   "girl group",
+   "R&B"
+  ],
+  "summary": "A girl group formed at a suburban Detroit high school that gave Motown its first No. 1 pop hit. Their records set the template for the label's early sound.",
+  "know": [
+   "They formed at Inkster High School and auditioned for Motown after a school talent show.",
+   "Please Mr. Postman in 1961 was Motown's first No. 1 pop single.",
+   "Marvin Gaye played drums on Please Mr. Postman."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Please Mr. Postman",
+    1961
+   ],
+   [
+    "Playboy",
+    1962
+   ],
+   [
+    "The Marvelettes",
+    1967
+   ],
+   [
+    "Sophisticated Soul",
+    1968
+   ]
+  ],
+  "songs": [
+   "Please Mr. Postman",
+   "Playboy",
+   "Beechwood 4-5789",
+   "Don't Mess with Bill",
+   "The Hunter Gets Captured by the Game"
+  ],
+  "influencedBy": [
+   {
+    "id": "smokey-robinson",
+    "why": "Robinson wrote and produced Don't Mess with Bill and The Hunter Gets Captured by the Game.",
+    "s": 3
+   },
+   {
+    "id": "berry-gordy",
+    "why": "Gordy signed them and built Motown's early girl-group sound around them.",
+    "s": 3
+   },
+   {
+    "id": "funk-brothers",
+    "why": "The Funk Brothers played on their records.",
+    "s": 3
+   },
+   {
+    "id": "marvin-gaye",
+    "why": "Gaye drummed on Please Mr. Postman.",
+    "s": 3
+   },
+   {
+    "id": "the-shirelles",
+    "why": "The Shirelles' success showed the way for girl groups like them.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-beatles",
+    "why": "The Beatles covered Please Mr. Postman on With the Beatles.",
+    "s": 2
+   },
+   {
+    "id": "blondie",
+    "why": "Blondie covered The Hunter Gets Captured by the Game on Autoamerican.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-go-gos",
+    "why": "Bright, catchy group harmonies in new wave."
+   },
+   {
+    "id": "the-andrews-sisters",
+    "why": "A sister-style vocal group with tight, cheerful harmonies."
+   }
+  ]
+ },
+ {
+  "id": "mary-wells",
+  "years": "1960–1992",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "Motown",
+   "R&B",
+   "pop soul"
+  ],
+  "summary": "Motown's first solo star, known for a light, cool voice on Smokey Robinson's songs. My Guy took the label to the top of the pop chart in 1964.",
+  "know": [
+   "She wrote Bye Bye Baby as a teenager and pitched it to Berry Gordy.",
+   "Smokey Robinson wrote and produced most of her hits.",
+   "My Guy reached No. 1 on the Billboard Hot 100 in 1964."
+  ],
+  "born": "05-13",
+  "keyAlbums": [
+   [
+    "Bye Bye Baby",
+    1961
+   ],
+   [
+    "The One Who Really Loves You",
+    1962
+   ],
+   [
+    "Two Lovers",
+    1963
+   ],
+   [
+    "Together (with Marvin Gaye)",
+    1964
+   ]
+  ],
+  "songs": [
+   "My Guy",
+   "Two Lovers",
+   "You Beat Me to the Punch",
+   "The One Who Really Loves You",
+   "Bye Bye Baby"
+  ],
+  "influencedBy": [
+   {
+    "id": "smokey-robinson",
+    "why": "Robinson wrote and produced My Guy and her other big hits.",
+    "s": 3
+   },
+   {
+    "id": "berry-gordy",
+    "why": "Gordy signed her as one of Motown's first artists.",
+    "s": 3
+   },
+   {
+    "id": "funk-brothers",
+    "why": "The Funk Brothers backed her records.",
+    "s": 3
+   },
+   {
+    "id": "jackie-wilson",
+    "why": "She first wrote Bye Bye Baby hoping Jackie Wilson would record it.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-supremes",
+    "why": "Her success as Motown's first solo star set the model for the label's female acts.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "dusty-springfield",
+    "why": "A cool, sweet 1960s pop voice."
+   },
+   {
+    "id": "francoise-hardy",
+    "why": "Light, understated 1960s pop singing."
+   }
+  ]
+ },
+ {
+  "id": "gladys-knight-and-the-pips",
+  "years": "1953–1989",
+  "origin": "Atlanta, Georgia",
+  "genres": [
+   "soul",
+   "Motown",
+   "R&B"
+  ],
+  "summary": "A family group from Atlanta fronted by Gladys Knight's warm, gospel-rooted voice. They had hits at Motown and then their biggest success at Buddah in the 1970s.",
+  "know": [
+   "Gladys Knight won a TV amateur talent contest as a child.",
+   "They recorded I Heard It Through the Grapevine at Motown in 1967, before Marvin Gaye's version.",
+   "Midnight Train to Georgia reached No. 1 and won a Grammy in 1974."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "If I Were Your Woman",
+    1971
+   ],
+   [
+    "Neither One of Us",
+    1973
+   ],
+   [
+    "Imagination",
+    1973
+   ],
+   [
+    "Claudine",
+    1974
+   ]
+  ],
+  "songs": [
+   "I Heard It Through the Grapevine",
+   "If I Were Your Woman",
+   "Neither One of Us",
+   "Midnight Train to Georgia",
+   "Best Thing That Ever Happened to Me"
+  ],
+  "influencedBy": [
+   {
+    "id": "norman-whitfield",
+    "why": "Whitfield produced their version of I Heard It Through the Grapevine.",
+    "s": 3
+   },
+   {
+    "id": "berry-gordy",
+    "why": "Gordy signed them to Motown's Soul label in 1966.",
+    "s": 3
+   },
+   {
+    "id": "curtis-mayfield",
+    "why": "Mayfield wrote and produced their Claudine soundtrack.",
+    "s": 3
+   },
+   {
+    "id": "mahalia-jackson",
+    "why": "Church gospel of this kind shaped Knight's singing from childhood.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "carter-family",
+    "why": "A family vocal group at the root of its genre."
+   },
+   {
+    "id": "dolly-parton",
+    "why": "A warm, storytelling Southern voice."
+   }
+  ]
+ },
+ {
+  "id": "tammi-terrell",
+  "years": "1961–1970",
+  "origin": "Philadelphia, Pennsylvania",
+  "genres": [
+   "Motown",
+   "soul",
+   "duets"
+  ],
+  "summary": "A Philadelphia singer best known for her duets with Marvin Gaye. Their records are the high point of the Motown male-female duet.",
+  "know": [
+   "She toured in James Brown's revue early in her career.",
+   "Ashford and Simpson wrote most of her duets with Marvin Gaye.",
+   "Harvey Fuqua and Johnny Bristol produced Ain't No Mountain High Enough."
+  ],
+  "born": "04-29",
+  "keyAlbums": [
+   [
+    "United",
+    1967
+   ],
+   [
+    "You're All I Need",
+    1968
+   ],
+   [
+    "Irresistible",
+    1969
+   ],
+   [
+    "Easy",
+    1969
+   ]
+  ],
+  "songs": [
+   "Ain't No Mountain High Enough",
+   "Your Precious Love",
+   "Ain't Nothing Like the Real Thing",
+   "You're All I Need to Get By",
+   "I Can't Believe You Love Me"
+  ],
+  "influencedBy": [
+   {
+    "id": "marvin-gaye",
+    "why": "Her duet partner, whose phrasing she matched on every record.",
+    "s": 3
+   },
+   {
+    "id": "james-brown",
+    "why": "She learned stagecraft touring in Brown's revue.",
+    "s": 3
+   },
+   {
+    "id": "berry-gordy",
+    "why": "Gordy signed her to Motown in 1965.",
+    "s": 3
+   },
+   {
+    "id": "funk-brothers",
+    "why": "The Funk Brothers backed her duets.",
+    "s": 3
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "emmylou-harris",
+    "why": "One half of a defining male-female duet partnership."
+   },
+   {
+    "id": "gram-parsons",
+    "why": "Half of a celebrated duet pairing in country rock."
+   }
+  ]
+ },
+ {
+  "id": "the-shirelles",
+  "years": "1957–1982",
+  "origin": "Passaic, New Jersey",
+  "genres": [
+   "girl group",
+   "pop",
+   "R&B"
+  ],
+  "summary": "A New Jersey high school group that became the first great girl group of the 1960s. Will You Love Me Tomorrow opened the door for every girl group that followed.",
+  "know": [
+   "They formed at Passaic High School and signed to Scepter Records.",
+   "Will You Love Me Tomorrow, by Gerry Goffin and Carole King, reached No. 1 in 1961.",
+   "The Beatles covered their songs Boys and Baby It's You."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Tonight's the Night",
+    1961
+   ],
+   [
+    "The Shirelles Sing to Trumpets and Strings",
+    1961
+   ],
+   [
+    "Baby It's You",
+    1962
+   ],
+   [
+    "Foolish Little Girl",
+    1963
+   ]
+  ],
+  "songs": [
+   "Will You Love Me Tomorrow",
+   "Dedicated to the One I Love",
+   "Mama Said",
+   "Soldier Boy",
+   "Baby It's You"
+  ],
+  "influencedBy": [
+   {
+    "id": "gerry-goffin",
+    "why": "Goffin wrote the words for Will You Love Me Tomorrow.",
+    "s": 3
+   },
+   {
+    "id": "carole-king",
+    "why": "King wrote the music for Will You Love Me Tomorrow.",
+    "s": 3
+   },
+   {
+    "id": "burt-bacharach",
+    "why": "Bacharach cowrote Baby It's You for them.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-beatles",
+    "why": "The Beatles covered Boys and Baby It's You on Please Please Me.",
+    "s": 2
+   },
+   {
+    "id": "the-ronettes",
+    "why": "Their success made room for girl groups like the Ronettes.",
+    "s": 1
+   },
+   {
+    "id": "the-marvelettes",
+    "why": "Motown's first girl group followed the path they opened.",
+    "s": 1
+   },
+   {
+    "id": "the-supremes",
+    "why": "The Supremes built on the girl-group sound they established.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-marvelettes",
+    "why": "Early-1960s girl-group harmonies from the Motown side."
+   },
+   {
+    "id": "the-go-gos",
+    "why": "Catchy all-female group pop in new wave."
+   }
+  ]
+ },
+ {
+  "id": "the-crystals",
+  "years": "1961–1967",
+  "origin": "Brooklyn, New York",
+  "genres": [
+   "girl group",
+   "Wall of Sound",
+   "pop"
+  ],
+  "summary": "A Brooklyn girl group that served as Phil Spector's main act at Philles Records. Their singles are among the clearest examples of his Wall of Sound.",
+  "know": [
+   "Phil Spector signed them as one of the first acts on his Philles label.",
+   "He's a Rebel was sung by Darlene Love and the Blossoms but released under the Crystals name.",
+   "Da Doo Ron Ron was written by Spector, Ellie Greenwich and Jeff Barry."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Twist Uptown",
+    1962
+   ],
+   [
+    "He's a Rebel",
+    1963
+   ]
+  ],
+  "songs": [
+   "There's No Other (Like My Baby)",
+   "Uptown",
+   "He's a Rebel",
+   "Da Doo Ron Ron",
+   "Then He Kissed Me"
+  ],
+  "influencedBy": [
+   {
+    "id": "phil-spector",
+    "why": "Spector produced every record and built his Wall of Sound around them.",
+    "s": 3
+   },
+   {
+    "id": "wrecking-crew",
+    "why": "The Los Angeles session players created the dense backing tracks.",
+    "s": 3
+   },
+   {
+    "id": "the-shirelles",
+    "why": "The Shirelles' hits opened the market for girl groups like them.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-beach-boys",
+    "why": "Brian Wilson modeled his production on their records, and the Beach Boys cut Then I Kissed Her in 1965.",
+    "s": 2
+   },
+   {
+    "id": "the-jesus-and-mary-chain",
+    "why": "The band built its noise-pop on girl-group drums and melodies like theirs.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-supremes",
+    "why": "A 1960s girl group shaped by a powerful producer."
+   },
+   {
+    "id": "blondie",
+    "why": "Girl-group melody filtered through new wave."
+   }
+  ]
+ },
+ {
+  "id": "the-shangri-las",
+  "years": "1963–1968",
+  "origin": "Queens, New York",
+  "genres": [
+   "girl group",
+   "pop",
+   "teen drama"
+  ],
+  "summary": "Two pairs of sisters from Queens who made the most theatrical records of the girl-group era. Producer Shadow Morton built their singles like short radio plays.",
+  "know": [
+   "The group was two sets of sisters from Cambria Heights, Queens.",
+   "Producer George Shadow Morton made their records for Red Bird, the label run by Leiber and Stoller.",
+   "Their singles used sound effects such as seagulls and motorcycle engines."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Leader of the Pack",
+    1965
+   ],
+   [
+    "Shangri-Las '65!",
+    1965
+   ]
+  ],
+  "songs": [
+   "Remember (Walkin' in the Sand)",
+   "Leader of the Pack",
+   "Give Him a Great Big Kiss",
+   "I Can Never Go Home Anymore",
+   "Past, Present and Future"
+  ],
+  "influencedBy": [
+   {
+    "id": "leiber-and-stoller",
+    "why": "Their Red Bird label released the group's records.",
+    "s": 3
+   },
+   {
+    "id": "the-shirelles",
+    "why": "The Shirelles set the girl-group template they built on.",
+    "s": 1
+   },
+   {
+    "id": "the-crystals",
+    "why": "The big, dramatic girl-group productions of the Crystals were a model.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "new-york-dolls",
+    "why": "The Dolls borrowed the spoken opening of Give Him a Great Big Kiss for Looking for a Kiss.",
+    "s": 2
+   },
+   {
+    "id": "blondie",
+    "why": "Debbie Harry cited them, and Blondie covered Out in the Streets.",
+    "s": 2
+   },
+   {
+    "id": "aerosmith",
+    "why": "Aerosmith covered Remember (Walkin' in the Sand) in 1979.",
+    "s": 2
+   },
+   {
+    "id": "amy-winehouse",
+    "why": "Winehouse cited them, and their sound shaped Back to Black.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-runaways",
+    "why": "A tough teenage girl-group image in rock."
+   },
+   {
+    "id": "the-go-gos",
+    "why": "All-female group pop with a sharp edge."
+   }
+  ]
+ },
+ {
+  "id": "dionne-warwick",
+  "years": "1962–present",
+  "origin": "East Orange, New Jersey",
+  "genres": [
+   "pop",
+   "soul",
+   "easy listening"
+  ],
+  "summary": "A gospel-trained New Jersey singer whose cool, precise voice carried the Burt Bacharach and Hal David songbook. She became one of the most charted singers of the 1960s.",
+  "know": [
+   "She sang backup on New York sessions, including Drifters records, before going solo.",
+   "Burt Bacharach and Hal David wrote and produced her run of 1960s hits for Scepter.",
+   "That's What Friends Are For, with Gladys Knight, Elton John and Stevie Wonder, was a No. 1 hit in 1986."
+  ],
+  "born": "12-12",
+  "keyAlbums": [
+   [
+    "Presenting Dionne Warwick",
+    1963
+   ],
+   [
+    "Make Way for Dionne Warwick",
+    1964
+   ],
+   [
+    "Here Where There Is Love",
+    1966
+   ],
+   [
+    "Dionne",
+    1979
+   ]
+  ],
+  "songs": [
+   "Don't Make Me Over",
+   "Walk On By",
+   "I Say a Little Prayer",
+   "Do You Know the Way to San Jose",
+   "That's What Friends Are For"
+  ],
+  "influencedBy": [
+   {
+    "id": "burt-bacharach",
+    "why": "Bacharach wrote, arranged and produced her classic records.",
+    "s": 3
+   },
+   {
+    "id": "the-drifters",
+    "why": "Singing backup on Drifters sessions is where Bacharach first heard her.",
+    "s": 2
+   },
+   {
+    "id": "mahalia-jackson",
+    "why": "Gospel singing in her family's church tradition grounded her voice.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "whitney-houston",
+    "why": "Her cousin Whitney grew up around her and cited her as a model.",
+    "s": 3
+   },
+   {
+    "id": "luther-vandross",
+    "why": "Vandross was a devoted fan and produced her 1983 album How Many Times Can We Say Goodbye.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "astrud-gilberto",
+    "why": "A cool, understated delivery of sophisticated songs."
+   },
+   {
+    "id": "sarah-vaughan",
+    "why": "Exact pitch and phrasing on harmonically rich songs."
+   }
+  ]
+ },
+ {
+  "id": "dusty-springfield",
+  "years": "1958–1995",
+  "origin": "London, England",
+  "genres": [
+   "blue-eyed soul",
+   "pop",
+   "orchestral pop"
+  ],
+  "summary": "A British pop singer with a husky, soulful voice who championed American soul in the UK. Dusty in Memphis is one of the most admired albums of the late 1960s.",
+  "know": [
+   "She began in the folk trio the Springfields with her brother Tom.",
+   "She hosted a 1965 UK TV special that introduced Motown acts to British audiences.",
+   "Dusty in Memphis was produced by Jerry Wexler, Tom Dowd and Arif Mardin."
+  ],
+  "born": "04-16",
+  "keyAlbums": [
+   [
+    "A Girl Called Dusty",
+    1964
+   ],
+   [
+    "Where Am I Going?",
+    1967
+   ],
+   [
+    "Dusty in Memphis",
+    1969
+   ],
+   [
+    "A Brand New Me",
+    1970
+   ]
+  ],
+  "songs": [
+   "I Only Want to Be with You",
+   "Wishin' and Hopin'",
+   "You Don't Have to Say You Love Me",
+   "Son of a Preacher Man",
+   "The Look of Love"
+  ],
+  "influencedBy": [
+   {
+    "id": "jerry-wexler",
+    "why": "Wexler signed her to Atlantic and produced Dusty in Memphis.",
+    "s": 3
+   },
+   {
+    "id": "tom-dowd",
+    "why": "Dowd coproduced and engineered Dusty in Memphis.",
+    "s": 3
+   },
+   {
+    "id": "burt-bacharach",
+    "why": "She recorded many Bacharach songs, including The Look of Love.",
+    "s": 3
+   },
+   {
+    "id": "peggy-lee",
+    "why": "She named Lee's cool, controlled delivery as a model.",
+    "s": 2
+   },
+   {
+    "id": "the-supremes",
+    "why": "She championed Motown in Britain, and its girl-group sound shaped her singles.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "amy-winehouse",
+    "why": "Winehouse drew on Springfield's soul-pop style for Back to Black.",
+    "s": 2
+   },
+   {
+    "id": "adele",
+    "why": "Adele has cited Dusty in Memphis as a key record for her.",
+    "s": 2
+   },
+   {
+    "id": "the-white-stripes",
+    "why": "The White Stripes covered I Just Don't Know What to Do with Myself, a Springfield hit.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "francoise-hardy",
+    "why": "A 1960s European pop voice with a melancholy edge."
+   },
+   {
+    "id": "k-d-lang",
+    "why": "A rich, torchy voice on big ballads."
+   }
+  ]
+ },
+ {
+  "id": "percy-sledge",
+  "years": "1966–2015",
+  "origin": "Sheffield, Alabama",
+  "genres": [
+   "Southern soul",
+   "deep soul",
+   "soul ballads"
+  ],
+  "summary": "An Alabama hospital worker who cut one of the best-known soul ballads ever. When a Man Loves a Woman put the Muscle Shoals area on the map.",
+  "know": [
+   "He worked as a hospital orderly while singing with a local band.",
+   "When a Man Loves a Woman reached No. 1 in 1966 and was released by Atlantic.",
+   "The song was recorded at Quin Ivy's studio in Sheffield, Alabama."
+  ],
+  "born": "11-25",
+  "keyAlbums": [
+   [
+    "When a Man Loves a Woman",
+    1966
+   ],
+   [
+    "Warm & Tender Soul",
+    1966
+   ],
+   [
+    "The Percy Sledge Way",
+    1967
+   ],
+   [
+    "Blue Night",
+    1994
+   ]
+  ],
+  "songs": [
+   "When a Man Loves a Woman",
+   "Warm and Tender Love",
+   "It Tears Me Up",
+   "Take Time to Know Her",
+   "Out of Left Field"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-swampers",
+    "why": "Swampers drummer Roger Hawkins played on When a Man Loves a Woman.",
+    "s": 3
+   },
+   {
+    "id": "jerry-wexler",
+    "why": "Wexler had the record remixed and released it on Atlantic.",
+    "s": 3
+   },
+   {
+    "id": "sam-cooke",
+    "why": "Cooke's gospel-based ballad singing was his starting point.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "roy-orbison",
+    "why": "Aching, high-voiced heartbreak ballads in rock."
+   },
+   {
+    "id": "george-jones",
+    "why": "The great heartbreak ballad singer of country music."
+   }
+  ]
+ },
+ {
+  "id": "carla-thomas",
+  "years": "1960–present",
+  "origin": "Memphis, Tennessee",
+  "genres": [
+   "Memphis soul",
+   "Stax",
+   "R&B"
+  ],
+  "summary": "Rufus Thomas's daughter and the first star of Stax Records. Known as the Queen of Memphis Soul, she also made classic duets with Otis Redding.",
+  "know": [
+   "Her duet with her father, Cause I Love You, was one of the label's first releases in 1960.",
+   "Gee Whiz, which she wrote as a teenager, became Stax's first national hit.",
+   "She recorded the 1967 duet album King & Queen with Otis Redding."
+  ],
+  "born": "12-21",
+  "keyAlbums": [
+   [
+    "Gee Whiz",
+    1961
+   ],
+   [
+    "Comfort Me",
+    1966
+   ],
+   [
+    "Carla",
+    1966
+   ],
+   [
+    "King & Queen",
+    1967
+   ]
+  ],
+  "songs": [
+   "Gee Whiz (Look at His Eyes)",
+   "B-A-B-Y",
+   "Tramp",
+   "Knock on Wood",
+   "I'll Bring It Home to You"
+  ],
+  "influencedBy": [
+   {
+    "id": "rufus-thomas",
+    "why": "Her father brought her into Stax and sang her first duet with her.",
+    "s": 3
+   },
+   {
+    "id": "booker-t",
+    "why": "Booker T. and the MG's backed her Stax records.",
+    "s": 3
+   },
+   {
+    "id": "isaac-hayes",
+    "why": "Hayes and David Porter wrote and produced B-A-B-Y.",
+    "s": 3
+   },
+   {
+    "id": "otis-redding",
+    "why": "Her duet partner on King & Queen.",
+    "s": 3
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-ronettes",
+    "why": "Teen-era sweetness in 1960s pop."
+   },
+   {
+    "id": "dolly-parton",
+    "why": "A label's leading lady who also made a famous duet partnership."
+   }
+  ]
+ },
+ {
+  "id": "rufus-thomas",
+  "years": "1950–2001",
+  "origin": "Memphis, Tennessee",
+  "genres": [
+   "Memphis soul",
+   "R&B",
+   "funk"
+  ],
+  "summary": "A Memphis DJ, comedian and singer who linked Sun Records and Stax. His dance-craze records made him one of soul's great showmen well into his fifties.",
+  "know": [
+   "He was a DJ at WDIA, the Memphis radio station with a Black on-air staff.",
+   "His 1953 answer record Bear Cat was Sun Records' first national hit.",
+   "Do the Funky Chicken was a hit for Stax in 1970."
+  ],
+  "born": "03-26",
+  "keyAlbums": [
+   [
+    "Walking the Dog",
+    1963
+   ],
+   [
+    "Do the Funky Chicken",
+    1970
+   ],
+   [
+    "Doing the Push & Pull at P.J.'s",
+    1970
+   ],
+   [
+    "Crown Prince of Dance",
+    1973
+   ]
+  ],
+  "songs": [
+   "Bear Cat",
+   "Walking the Dog",
+   "Do the Funky Chicken",
+   "(Do the) Push and Pull",
+   "The Breakdown"
+  ],
+  "influencedBy": [
+   {
+    "id": "big-mama-thornton",
+    "why": "Bear Cat was an answer record to her Hound Dog.",
+    "s": 2
+   },
+   {
+    "id": "sam-phillips",
+    "why": "Phillips produced Bear Cat at Sun.",
+    "s": 3
+   },
+   {
+    "id": "louis-jordan",
+    "why": "Jordan's comic, jumping R&B shaped his showmanship.",
+    "s": 1
+   },
+   {
+    "id": "booker-t",
+    "why": "Booker T. and the MG's backed his Stax records.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-rolling-stones",
+    "why": "The Stones covered Walking the Dog on their 1964 debut.",
+    "s": 2
+   },
+   {
+    "id": "aerosmith",
+    "why": "Aerosmith covered Walkin' the Dog on their 1973 debut.",
+    "s": 2
+   },
+   {
+    "id": "carla-thomas",
+    "why": "He brought his daughter Carla into Stax and recorded with her.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "louis-jordan",
+    "why": "A comic, dance-minded R&B showman."
+   },
+   {
+    "id": "cab-calloway",
+    "why": "A larger-than-life bandleader with novelty dance songs."
+   }
+  ]
+ },
+ {
+  "id": "eddie-floyd",
+  "years": "1956–present",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "Memphis soul",
+   "Stax",
+   "R&B"
+  ],
+  "summary": "A Falcons founder who became a Stax singer and staff writer. Knock on Wood is one of the label's signature records.",
+  "know": [
+   "He was a founding member of the Detroit vocal group the Falcons.",
+   "He wrote Knock on Wood with Steve Cropper in 1966.",
+   "He also cowrote 634-5789 with Cropper for Wilson Pickett."
+  ],
+  "born": "06-25",
+  "keyAlbums": [
+   [
+    "Knock on Wood",
+    1967
+   ],
+   [
+    "I've Never Found a Girl",
+    1968
+   ],
+   [
+    "You've Got to Have Eddie",
+    1969
+   ],
+   [
+    "Rare Stamps",
+    1969
+   ]
+  ],
+  "songs": [
+   "Knock on Wood",
+   "Raise Your Hand",
+   "Big Bird",
+   "I've Never Found a Girl",
+   "Bring It On Home to Me"
+  ],
+  "influencedBy": [
+   {
+    "id": "booker-t",
+    "why": "Booker T. and the MG's backed his Stax records, and Steve Cropper cowrote his hits.",
+    "s": 3
+   },
+   {
+    "id": "wilson-pickett",
+    "why": "He sang alongside Pickett in the Falcons.",
+    "s": 3
+   },
+   {
+    "id": "sam-cooke",
+    "why": "He covered Cooke's Bring It On Home to Me, and Cooke's style shaped his singing.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "wilson-pickett",
+    "why": "He cowrote 634-5789 for Pickett.",
+    "s": 3
+   },
+   {
+    "id": "otis-redding",
+    "why": "Redding and Carla Thomas had a hit with his Knock on Wood.",
+    "s": 2
+   },
+   {
+    "id": "david-bowie",
+    "why": "Bowie released a live cover of Knock on Wood in 1974.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-animals",
+    "why": "Punchy 1960s R&B-band rock."
+   },
+   {
+    "id": "the-young-rascals",
+    "why": "Blue-eyed soul built on the same Stax-style grooves."
+   }
+  ]
+ },
+ {
+  "id": "the-bar-kays",
+  "years": "1966–present",
+  "origin": "Memphis, Tennessee",
+  "genres": [
+   "funk",
+   "Memphis soul",
+   "Stax"
+  ],
+  "summary": "A young Stax house band that backed Otis Redding and Isaac Hayes, then rebuilt itself as a 1970s and 1980s funk group.",
+  "know": [
+   "Their instrumental Soul Finger was a hit in 1967.",
+   "James Alexander rebuilt the band after 1967, and it became a Stax session unit.",
+   "They played on Isaac Hayes's Hot Buttered Soul and the Shaft soundtrack."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Soul Finger",
+    1967
+   ],
+   [
+    "Black Rock",
+    1971
+   ],
+   [
+    "Too Hot to Stop",
+    1976
+   ],
+   [
+    "Nightcruising",
+    1981
+   ]
+  ],
+  "songs": [
+   "Soul Finger",
+   "Son of Shaft",
+   "Shake Your Rump to the Funk",
+   "Too Hot to Stop",
+   "Freakshow on the Dance Floor"
+  ],
+  "influencedBy": [
+   {
+    "id": "booker-t",
+    "why": "Booker T. and the MG's were the Stax house band they learned from.",
+    "s": 3
+   },
+   {
+    "id": "otis-redding",
+    "why": "They were Redding's touring band.",
+    "s": 3
+   },
+   {
+    "id": "isaac-hayes",
+    "why": "Their work on his records shaped their 1970s sound.",
+    "s": 3
+   },
+   {
+    "id": "james-brown",
+    "why": "Brown's funk drove their later dance records.",
+    "s": 1
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Sly's rock-funk inspired the heavy sound of Black Rock.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "isaac-hayes",
+    "why": "They played on Hot Buttered Soul and Shaft and shaped their sound.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-skatalites",
+    "why": "A label house band that also cut its own instrumental hits."
+   },
+   {
+    "id": "wrecking-crew",
+    "why": "Studio players behind other artists' hits."
+   }
+  ]
+ },
+ {
+  "id": "irma-thomas",
+  "years": "1959–present",
+  "origin": "New Orleans, Louisiana",
+  "genres": [
+   "New Orleans R&B",
+   "soul",
+   "deep soul"
+  ],
+  "summary": "The Soul Queen of New Orleans, known for rich, emotional ballads. She first recorded several songs later made famous by others.",
+  "know": [
+   "Allen Toussaint wrote and produced many of her early records for Minit.",
+   "She recorded Time Is on My Side in 1964, before the Rolling Stones' hit version.",
+   "Her 2006 album After the Rain won a Grammy."
+  ],
+  "born": "02-18",
+  "keyAlbums": [
+   [
+    "Wish Someone Would Care",
+    1964
+   ],
+   [
+    "The New Rules",
+    1986
+   ],
+   [
+    "After the Rain",
+    2006
+   ]
+  ],
+  "songs": [
+   "It's Raining",
+   "Ruler of My Heart",
+   "Time Is on My Side",
+   "Wish Someone Would Care",
+   "Breakaway"
+  ],
+  "influencedBy": [
+   {
+    "id": "allen-toussaint",
+    "why": "Toussaint wrote and produced It's Raining and Ruler of My Heart.",
+    "s": 3
+   },
+   {
+    "id": "fats-domino",
+    "why": "New Orleans piano R&B was the world she came up in.",
+    "s": 1
+   },
+   {
+    "id": "mahalia-jackson",
+    "why": "Gospel singing of this kind grounded her ballad style.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-rolling-stones",
+    "why": "The Stones based their Time Is on My Side on her arrangement.",
+    "s": 2
+   },
+   {
+    "id": "otis-redding",
+    "why": "Redding reworked Ruler of My Heart as Pain in My Heart.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "patsy-cline",
+    "why": "A rich, regional ballad voice."
+   },
+   {
+    "id": "dinah-washington",
+    "why": "Blues-soaked phrasing on emotional ballads."
+   }
+  ]
+ },
+ {
+  "id": "dr-john",
+  "years": "1958–2019",
+  "origin": "New Orleans, Louisiana",
+  "genres": [
+   "New Orleans R&B",
+   "swamp rock",
+   "funk"
+  ],
+  "summary": "Mac Rebennack, a New Orleans session pianist who built the Dr. John persona out of local music and mysticism. He became the city's best-known ambassador.",
+  "know": [
+   "He was born Malcolm John Rebennack and worked as a session player in New Orleans and Los Angeles.",
+   "His debut Gris-Gris (1968) mixed New Orleans R&B with psychedelic swamp sounds.",
+   "In the Right Place was produced by Allen Toussaint with the Meters as his band."
+  ],
+  "born": "11-20",
+  "keyAlbums": [
+   [
+    "Gris-Gris",
+    1968
+   ],
+   [
+    "Dr. John's Gumbo",
+    1972
+   ],
+   [
+    "In the Right Place",
+    1973
+   ],
+   [
+    "Locked Down",
+    2012
+   ]
+  ],
+  "songs": [
+   "I Walk on Guilded Splinters",
+   "Iko Iko",
+   "Right Place Wrong Time",
+   "Such a Night",
+   "Mama Roux"
+  ],
+  "influencedBy": [
+   {
+    "id": "professor-longhair",
+    "why": "He named Longhair as the root of his New Orleans piano style.",
+    "s": 2
+   },
+   {
+    "id": "allen-toussaint",
+    "why": "Toussaint produced In the Right Place.",
+    "s": 3
+   },
+   {
+    "id": "the-meters",
+    "why": "The Meters were his band on In the Right Place.",
+    "s": 3
+   },
+   {
+    "id": "fats-domino",
+    "why": "Domino's New Orleans piano R&B shaped his playing.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "dan-auerbach",
+    "why": "Auerbach was a fan and produced his 2012 album Locked Down.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "tom-waits",
+    "why": "A gravelly, theatrical persona built from old American music."
+   },
+   {
+    "id": "captain-beefheart",
+    "why": "Swampy, psychedelic blues with a strong persona."
+   }
+  ]
+ },
+ {
+  "id": "bobby-womack",
+  "years": "1954–2014",
+  "origin": "Cleveland, Ohio",
+  "genres": [
+   "soul",
+   "R&B",
+   "Southern soul"
+  ],
+  "summary": "A singer, guitarist and songwriter who began with his brothers in gospel and went on to write hits for others and cut his own soul classics.",
+  "know": [
+   "He and his brothers recorded as the Valentinos for Sam Cooke's SAR label.",
+   "The Rolling Stones' cover of his It's All Over Now was their first UK No. 1.",
+   "His 2012 album The Bravest Man in the Universe was produced by Damon Albarn and Richard Russell."
+  ],
+  "born": "03-04",
+  "keyAlbums": [
+   [
+    "Understanding",
+    1972
+   ],
+   [
+    "Across 110th Street",
+    1972
+   ],
+   [
+    "The Poet",
+    1981
+   ],
+   [
+    "The Bravest Man in the Universe",
+    2012
+   ]
+  ],
+  "songs": [
+   "It's All Over Now",
+   "That's the Way I Feel About Cha",
+   "Woman's Gotta Have It",
+   "Across 110th Street",
+   "If You Think You're Lonely Now"
+  ],
+  "influencedBy": [
+   {
+    "id": "sam-cooke",
+    "why": "Cooke signed the Valentinos and hired him as his guitarist.",
+    "s": 3
+   },
+   {
+    "id": "the-soul-stirrers",
+    "why": "Cooke's old gospel group was a model for the Womack brothers.",
+    "s": 2
+   },
+   {
+    "id": "ray-charles",
+    "why": "Charles's gospel-soul mix shaped his singing.",
+    "s": 1
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "He played guitar on Sly's There's a Riot Goin' On.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-rolling-stones",
+    "why": "The Stones covered It's All Over Now in 1964.",
+    "s": 3
+   },
+   {
+    "id": "wilson-pickett",
+    "why": "He wrote and played on songs for Pickett, including I'm a Midnight Mover.",
+    "s": 3
+   },
+   {
+    "id": "janis-joplin",
+    "why": "He wrote Trust Me, which Joplin recorded for Pearl.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "willie-nelson",
+    "why": "A songwriter for others who later became a star in his own right."
+   },
+   {
+    "id": "bb-king",
+    "why": "A singer-guitarist with deep blues phrasing."
+   }
+  ]
+ },
+ {
+  "id": "the-swampers",
+  "years": "1969–present",
+  "origin": "Muscle Shoals, Alabama",
+  "genres": [
+   "Southern soul",
+   "rock",
+   "R&B",
+   "session"
+  ],
+  "summary": "The Muscle Shoals Rhythm Section of Barry Beckett, Roger Hawkins, Jimmy Johnson and David Hood. They played on soul and rock records by everyone from Aretha Franklin to the Rolling Stones.",
+  "know": [
+   "They left FAME in 1969 to open Muscle Shoals Sound Studio at 3614 Jackson Highway.",
+   "Their nickname is sung in Lynyrd Skynyrd's Sweet Home Alabama.",
+   "As FAME players, Hawkins and Johnson were on Aretha Franklin's first Atlantic session."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "I Never Loved a Man the Way I Love You (Aretha Franklin)",
+    1967
+   ],
+   [
+    "Sticky Fingers (The Rolling Stones)",
+    1971
+   ],
+   [
+    "Be Altitude: Respect Yourself (The Staple Singers)",
+    1972
+   ],
+   [
+    "Slow Train Coming (Bob Dylan)",
+    1979
+   ]
+  ],
+  "songs": [
+   "Respect Yourself",
+   "I'll Take You There",
+   "Brown Sugar",
+   "Kodachrome",
+   "Old Time Rock and Roll"
+  ],
+  "influencedBy": [
+   {
+    "id": "jerry-wexler",
+    "why": "Wexler brought Atlantic artists to them and helped fund their studio.",
+    "s": 3
+   },
+   {
+    "id": "booker-t",
+    "why": "The MG's at Stax were the model of a house rhythm section they followed.",
+    "s": 2
+   },
+   {
+    "id": "funk-brothers",
+    "why": "Motown's house band set the idea of a studio band behind a label's sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "aretha-franklin",
+    "why": "Hawkins and Johnson played on I Never Loved a Man and shaped her Atlantic sound.",
+    "s": 3
+   },
+   {
+    "id": "the-staple-singers",
+    "why": "They played on Respect Yourself and I'll Take You There.",
+    "s": 3
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "The Stones cut Brown Sugar and Wild Horses at their studio.",
+    "s": 3
+   },
+   {
+    "id": "bob-seger",
+    "why": "They played on Old Time Rock and Roll and other Seger records.",
+    "s": 3
+   },
+   {
+    "id": "lynyrd-skynyrd",
+    "why": "Skynyrd recorded early demos at their studio and named them in Sweet Home Alabama.",
+    "s": 3
+   },
+   {
+    "id": "wilson-pickett",
+    "why": "Hawkins and Johnson were on his FAME sessions.",
+    "s": 3
+   },
+   {
+    "id": "percy-sledge",
+    "why": "Hawkins drummed on When a Man Loves a Woman.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Beckett coproduced Slow Train Coming and the band played on it.",
+    "s": 3
+   },
+   {
+    "id": "traffic",
+    "why": "Hood and Hawkins joined Traffic for Shoot Out at the Fantasy Factory and its tour.",
+    "s": 3
+   },
+   {
+    "id": "etta-james",
+    "why": "They were part of the FAME band on her 1968 album Tell Mama.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "wrecking-crew",
+    "why": "Session players behind dozens of hits."
+   },
+   {
+    "id": "nashville-a-team",
+    "why": "A studio band that defined a city's sound."
+   },
+   {
+    "id": "sly-and-robbie",
+    "why": "A rhythm section heard on records by many artists."
+   }
+  ]
+ },
+ {
+  "id": "the-o-jays",
+  "years": "1958–2022",
+  "origin": "Canton, Ohio",
+  "genres": [
+   "Philadelphia soul",
+   "R&B",
+   "soul"
+  ],
+  "summary": "An Ohio vocal group that became the flagship act of Philadelphia International. Their 1970s hits mixed lush dance grooves with pointed social songs.",
+  "know": [
+   "They formed in Canton, Ohio, and took their name from Cleveland DJ Eddie O'Jay.",
+   "Kenny Gamble and Leon Huff wrote and produced Back Stabbers and Love Train.",
+   "For the Love of Money opens with a famous bass line by Anthony Jackson."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Back Stabbers",
+    1972
+   ],
+   [
+    "Ship Ahoy",
+    1973
+   ],
+   [
+    "Family Reunion",
+    1975
+   ],
+   [
+    "So Full of Love",
+    1978
+   ]
+  ],
+  "songs": [
+   "Back Stabbers",
+   "Love Train",
+   "For the Love of Money",
+   "I Love Music",
+   "Use ta Be My Girl"
+  ],
+  "influencedBy": [
+   {
+    "id": "gamble-and-huff",
+    "why": "Gamble and Huff wrote and produced their 1970s hits.",
+    "s": 3
+   },
+   {
+    "id": "mfsb",
+    "why": "Philadelphia International's house band played on their records.",
+    "s": 3
+   },
+   {
+    "id": "sam-cooke",
+    "why": "Cooke's lead style shaped Eddie Levert's early singing.",
+    "s": 1
+   },
+   {
+    "id": "the-temptations",
+    "why": "The Temptations set the model for a soul vocal group with strong contrasting leads.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "bone-thugs-n-harmony",
+    "why": "Foe tha Love of $ is built on For the Love of Money.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-staple-singers",
+    "why": "Message songs sung with group harmony."
+   },
+   {
+    "id": "the-doobie-brothers",
+    "why": "Groove-driven 1970s harmony hits."
+   }
+  ]
+ },
+ {
+  "id": "harold-melvin-and-the-blue-notes",
+  "years": "1954–1997",
+  "origin": "Philadelphia, Pennsylvania",
+  "genres": [
+   "Philadelphia soul",
+   "R&B",
+   "soul"
+  ],
+  "summary": "A long-running Philadelphia group that broke through when Teddy Pendergrass became lead singer. Their Gamble and Huff records span aching ballads and early disco.",
+  "know": [
+   "Teddy Pendergrass was the group's drummer before he became its lead singer.",
+   "The Love I Lost (1973) is often cited as an early disco record.",
+   "Don't Leave Me This Way later became a disco hit for Thelma Houston."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Harold Melvin & the Blue Notes",
+    1972
+   ],
+   [
+    "Black & Blue",
+    1973
+   ],
+   [
+    "To Be True",
+    1975
+   ],
+   [
+    "Wake Up Everybody",
+    1975
+   ]
+  ],
+  "songs": [
+   "If You Don't Know Me by Now",
+   "The Love I Lost",
+   "Bad Luck",
+   "Wake Up Everybody",
+   "Don't Leave Me This Way"
+  ],
+  "influencedBy": [
+   {
+    "id": "gamble-and-huff",
+    "why": "Gamble and Huff signed them and produced their hits.",
+    "s": 3
+   },
+   {
+    "id": "mfsb",
+    "why": "MFSB played the lush tracks on their records.",
+    "s": 3
+   },
+   {
+    "id": "teddy-pendergrass",
+    "why": "Pendergrass's lead voice defined the group's 1970s sound.",
+    "s": 3
+   },
+   {
+    "id": "the-temptations",
+    "why": "The Temptations were the model for their vocal-group style.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "teddy-pendergrass",
+    "why": "The group made Pendergrass a star before his solo career.",
+    "s": 3
+   },
+   {
+    "id": "john-legend",
+    "why": "Legend and the Roots recorded Wake Up Everybody in 2010.",
+    "s": 2
+   },
+   {
+    "id": "the-roots",
+    "why": "The Roots recorded Wake Up Everybody with John Legend in 2010.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bee-gees",
+    "why": "1970s grooves that crossed into disco."
+   },
+   {
+    "id": "chicago",
+    "why": "Lush, horn-backed ballads."
+   }
+  ]
+ },
+ {
+  "id": "teddy-pendergrass",
+  "years": "1970–2009",
+  "origin": "Philadelphia, Pennsylvania",
+  "genres": [
+   "Philadelphia soul",
+   "R&B",
+   "quiet storm"
+  ],
+  "summary": "A powerful, rough-edged baritone who became the biggest solo star of Philadelphia International. His late-1970s albums made him the leading romantic soul voice of the era.",
+  "know": [
+   "He was the Blue Notes' drummer before becoming their lead singer.",
+   "His first solo albums were produced mostly by Gamble and Huff.",
+   "He had five platinum albums in a row from 1977 to 1981."
+  ],
+  "born": "03-26",
+  "keyAlbums": [
+   [
+    "Teddy Pendergrass",
+    1977
+   ],
+   [
+    "Life Is a Song Worth Singing",
+    1978
+   ],
+   [
+    "Teddy",
+    1979
+   ],
+   [
+    "TP",
+    1980
+   ]
+  ],
+  "songs": [
+   "Close the Door",
+   "Turn Off the Lights",
+   "Love T.K.O.",
+   "Only You",
+   "Joy"
+  ],
+  "influencedBy": [
+   {
+    "id": "gamble-and-huff",
+    "why": "Gamble and Huff produced his solo albums.",
+    "s": 3
+   },
+   {
+    "id": "harold-melvin-and-the-blue-notes",
+    "why": "He came up as lead singer of the Blue Notes.",
+    "s": 3
+   },
+   {
+    "id": "mfsb",
+    "why": "MFSB played on his records.",
+    "s": 3
+   },
+   {
+    "id": "otis-redding",
+    "why": "Redding's gritty soul singing shaped his rough-edged delivery.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "elvis-presley",
+    "why": "A commanding baritone with a devoted live following."
+   },
+   {
+    "id": "frank-sinatra",
+    "why": "A classic romantic crooner."
+   }
+  ]
+ },
+ {
+  "id": "the-delfonics",
+  "years": "1965–present",
+  "origin": "Philadelphia, Pennsylvania",
+  "genres": [
+   "Philadelphia soul",
+   "sweet soul",
+   "vocal group"
+  ],
+  "summary": "A falsetto-led Philadelphia vocal group whose records with Thom Bell helped invent the Philly soul sound.",
+  "know": [
+   "The group was led by brothers William and Wilbert Hart.",
+   "Thom Bell produced and arranged their records for the Philly Groove label.",
+   "Didn't I (Blow Your Mind This Time) won a Grammy in 1971."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "La La Means I Love You",
+    1968
+   ],
+   [
+    "The Sound of Sexy Soul",
+    1969
+   ],
+   [
+    "The Delfonics",
+    1970
+   ]
+  ],
+  "songs": [
+   "La-La (Means I Love You)",
+   "Didn't I (Blow Your Mind This Time)",
+   "Ready or Not Here I Come",
+   "Break Your Promise",
+   "Trying to Make a Fool of Me"
+  ],
+  "influencedBy": [
+   {
+    "id": "thom-bell",
+    "why": "Bell produced and arranged their hits with strings, horns and harpsichord.",
+    "s": 3
+   },
+   {
+    "id": "smokey-robinson",
+    "why": "Robinson's high lead was a model for William Hart's falsetto.",
+    "s": 1
+   },
+   {
+    "id": "the-impressions",
+    "why": "The Impressions' soft, high harmonies foreshadowed their sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "fugees",
+    "why": "Ready or Not is built on Ready or Not Here I Come.",
+    "s": 2
+   },
+   {
+    "id": "the-stylistics",
+    "why": "Thom Bell carried the falsetto-led Delfonics sound over to the Stylistics.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-beach-boys",
+    "why": "High, sweet harmony vocals."
+   },
+   {
+    "id": "bee-gees",
+    "why": "Falsetto-led harmonies on romantic songs."
+   }
+  ]
+ },
+ {
+  "id": "the-stylistics",
+  "years": "1968–present",
+  "origin": "Philadelphia, Pennsylvania",
+  "genres": [
+   "Philadelphia soul",
+   "sweet soul",
+   "R&B"
+  ],
+  "summary": "A Philadelphia group built around Russell Thompkins Jr.'s falsetto. Their early-1970s ballads with Thom Bell are high points of sweet soul.",
+  "know": [
+   "The group formed from two local Philadelphia groups, the Monarchs and the Percussions.",
+   "Thom Bell and Linda Creed wrote and produced their first three albums.",
+   "After working with Bell they had a long run of hits in the UK."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Stylistics",
+    1971
+   ],
+   [
+    "Round 2",
+    1972
+   ],
+   [
+    "Rockin' Roll Baby",
+    1973
+   ],
+   [
+    "Let's Put It All Together",
+    1974
+   ]
+  ],
+  "songs": [
+   "You Are Everything",
+   "Betcha by Golly, Wow",
+   "I'm Stone in Love with You",
+   "Break Up to Make Up",
+   "You Make Me Feel Brand New"
+  ],
+  "influencedBy": [
+   {
+    "id": "thom-bell",
+    "why": "Bell wrote, arranged and produced their early hits.",
+    "s": 3
+   },
+   {
+    "id": "the-delfonics",
+    "why": "The Delfonics' falsetto-led sound with Bell was their template.",
+    "s": 1
+   },
+   {
+    "id": "mfsb",
+    "why": "Philadelphia session players backed their records.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "prince",
+    "why": "Prince covered Betcha by Golly, Wow on Emancipation in 1996.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "roy-orbison",
+    "why": "Soaring high-voiced ballads."
+   },
+   {
+    "id": "bee-gees",
+    "why": "Falsetto-led harmony ballads."
+   }
+  ]
+ },
+ {
+  "id": "the-spinners",
+  "years": "1954–present",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "Philadelphia soul",
+   "Motown",
+   "R&B"
+  ],
+  "summary": "A Detroit vocal group that found little success at Motown and then became one of the biggest acts of the 1970s with Thom Bell in Philadelphia.",
+  "know": [
+   "Harvey Fuqua signed them to his Tri-Phi label in the early 1960s.",
+   "Stevie Wonder cowrote and produced their 1970 hit It's a Shame.",
+   "Then Came You, with Dionne Warwick, reached No. 1 in 1974."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Spinners",
+    1973
+   ],
+   [
+    "Mighty Love",
+    1974
+   ],
+   [
+    "Pick of the Litter",
+    1975
+   ],
+   [
+    "Happiness Is Being with the Spinners",
+    1976
+   ]
+  ],
+  "songs": [
+   "It's a Shame",
+   "I'll Be Around",
+   "Could It Be I'm Falling in Love",
+   "Then Came You",
+   "The Rubberband Man"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-moonglows",
+    "why": "Moonglows founder Harvey Fuqua signed and mentored them.",
+    "s": 2
+   },
+   {
+    "id": "stevie-wonder",
+    "why": "Wonder cowrote and produced It's a Shame.",
+    "s": 3
+   },
+   {
+    "id": "berry-gordy",
+    "why": "They spent the 1960s on Motown labels.",
+    "s": 3
+   },
+   {
+    "id": "thom-bell",
+    "why": "Bell produced their Atlantic records and shaped their 1970s sound.",
+    "s": 3
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-doobie-brothers",
+    "why": "Smooth 1970s harmony grooves."
+   },
+   {
+    "id": "steely-dan",
+    "why": "Polished, layered 1970s studio records."
+   }
+  ]
+ },
+ {
+  "id": "lou-rawls",
+  "years": "1956–2006",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "soul",
+   "R&B",
+   "jazz",
+   "gospel"
+  ],
+  "summary": "A Chicago gospel singer with a deep, smooth voice who moved easily between jazz, blues and soul. He was known for spoken monologues and his 1976 Philly soul hit.",
+  "know": [
+   "He sang gospel with the Pilgrim Travelers and was a friend of Sam Cooke.",
+   "He sang the harmony part on Cooke's Bring It On Home to Me.",
+   "You'll Never Find Another Love Like Mine was a 1976 hit on Philadelphia International."
+  ],
+  "born": "12-01",
+  "keyAlbums": [
+   [
+    "Stormy Monday",
+    1962
+   ],
+   [
+    "Lou Rawls Live!",
+    1966
+   ],
+   [
+    "Soulin'",
+    1966
+   ],
+   [
+    "All Things in Time",
+    1976
+   ]
+  ],
+  "songs": [
+   "Love Is a Hurtin' Thing",
+   "Dead End Street",
+   "Your Good Thing (Is About to End)",
+   "You'll Never Find Another Love Like Mine",
+   "Lady Love"
+  ],
+  "influencedBy": [
+   {
+    "id": "sam-cooke",
+    "why": "Cooke was his gospel colleague and brought him onto his records.",
+    "s": 3
+   },
+   {
+    "id": "gamble-and-huff",
+    "why": "Gamble and Huff produced his 1970s comeback.",
+    "s": 3
+   },
+   {
+    "id": "nat-king-cole",
+    "why": "Cole's smooth baritone and jazz phrasing shaped his style.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "frank-sinatra",
+    "why": "A smooth, swinging baritone."
+   },
+   {
+    "id": "tony-bennett",
+    "why": "A jazz-leaning pop singer across many decades."
+   }
+  ]
+ },
+ {
+  "id": "the-chi-lites",
+  "years": "1959–present",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "Chicago soul",
+   "sweet soul",
+   "vocal group"
+  ],
+  "summary": "A Chicago vocal group led by writer and producer Eugene Record. They mixed tender ballads with message songs on Brunswick Records.",
+  "know": [
+   "Eugene Record sang lead and wrote and produced their hits.",
+   "Oh Girl reached No. 1 in 1972 and features a harmonica part.",
+   "Have You Seen Her was covered by MC Hammer in 1990."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "(For God's Sake) Give More Power to the People",
+    1971
+   ],
+   [
+    "A Lonely Man",
+    1972
+   ],
+   [
+    "A Letter to Myself",
+    1973
+   ],
+   [
+    "The Chi-Lites",
+    1973
+   ]
+  ],
+  "songs": [
+   "Have You Seen Her",
+   "Oh Girl",
+   "(For God's Sake) Give More Power to the People",
+   "Coldest Days of My Life",
+   "Stoned Out of My Mind"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-impressions",
+    "why": "The Impressions set the model for Chicago group harmony.",
+    "s": 2
+   },
+   {
+    "id": "curtis-mayfield",
+    "why": "Mayfield's message songs shaped their socially minded records.",
+    "s": 1
+   },
+   {
+    "id": "the-temptations",
+    "why": "The Temptations' mix of ballads and message songs was a model.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "mc-hammer",
+    "why": "Hammer covered Have You Seen Her in 1990.",
+    "s": 2
+   },
+   {
+    "id": "beyonce",
+    "why": "Crazy in Love is built on a sample of Are You My Woman (Tell Me So).",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-zombies",
+    "why": "Moody, minor-key romantic songs."
+   },
+   {
+    "id": "everly-brothers",
+    "why": "Tender close harmony ballads."
+   }
+  ]
+ },
+ {
+  "id": "the-dramatics",
+  "years": "1964–present",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "soul",
+   "Detroit soul",
+   "vocal group"
+  ],
+  "summary": "A Detroit vocal group that found its biggest success on Stax's Volt label. Their records mix rough lead vocals with dramatic, cinematic arrangements.",
+  "know": [
+   "Producer and writer Tony Hester wrote Whatcha See Is Whatcha Get.",
+   "In the Rain opens with the sound of a storm.",
+   "They sang on Snoop Dogg's Doggy Dogg World in 1993."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Whatcha See Is Whatcha Get",
+    1971
+   ],
+   [
+    "A Dramatic Experience",
+    1973
+   ],
+   [
+    "The Dramatic Jackpot",
+    1975
+   ]
+  ],
+  "songs": [
+   "Whatcha See Is Whatcha Get",
+   "In the Rain",
+   "Get Up and Get Down",
+   "Hey You! Get Off My Mountain",
+   "Me and Mrs. Jones"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-temptations",
+    "why": "The Temptations' trading of lead vocals was their model.",
+    "s": 2
+   },
+   {
+    "id": "norman-whitfield",
+    "why": "Whitfield's cinematic psychedelic soul shaped their dramatic arrangements.",
+    "s": 1
+   },
+   {
+    "id": "four-tops",
+    "why": "The Four Tops' dramatic Detroit style was a model.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "snoop-dogg",
+    "why": "They sang on Doggy Dogg World.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-moody-blues",
+    "why": "Atmospheric, cinematic group ballads."
+   },
+   {
+    "id": "the-ink-spots",
+    "why": "Vocal-group ballads built on a strong lead."
+   }
+  ]
+ },
+ {
+  "id": "barry-white",
+  "years": "1960–2003",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "soul",
+   "disco",
+   "orchestral soul"
+  ],
+  "summary": "A Los Angeles writer, producer and singer with a famously deep bass voice. His lush orchestral records of the 1970s helped lead soul into disco.",
+  "know": [
+   "He produced the girl group Love Unlimited before his own solo career.",
+   "His Love Unlimited Orchestra had a No. 1 hit with Love's Theme in 1974.",
+   "His 1999 album Staying Power won two Grammys."
+  ],
+  "born": "09-12",
+  "keyAlbums": [
+   [
+    "I've Got So Much to Give",
+    1973
+   ],
+   [
+    "Stone Gon'",
+    1973
+   ],
+   [
+    "Can't Get Enough",
+    1974
+   ],
+   [
+    "Staying Power",
+    1999
+   ]
+  ],
+  "songs": [
+   "I'm Gonna Love You Just a Little More Baby",
+   "Never, Never Gonna Give Ya Up",
+   "Can't Get Enough of Your Love, Babe",
+   "You're the First, the Last, My Everything",
+   "Love's Theme"
+  ],
+  "influencedBy": [
+   {
+    "id": "isaac-hayes",
+    "why": "Hayes's long orchestral tracks with spoken passages were a clear precedent.",
+    "s": 1
+   },
+   {
+    "id": "gamble-and-huff",
+    "why": "The lush Philadelphia sound ran in parallel with his own string-heavy productions.",
+    "s": 1
+   },
+   {
+    "id": "phil-spector",
+    "why": "Spector's dense orchestral pop production was an early model.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "big-daddy-kane",
+    "why": "Kane recorded All of Me with him in 1990.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "serge-gainsbourg",
+    "why": "Seductive, half-spoken singing over lush arrangements."
+   },
+   {
+    "id": "giorgio-moroder",
+    "why": "Disco-era orchestral dance grooves."
+   }
+  ]
+ },
+ {
+  "id": "roberta-flack",
+  "years": "1969–2022",
+  "origin": "Washington, D.C.",
+  "genres": [
+   "soul",
+   "quiet storm",
+   "jazz soul"
+  ],
+  "summary": "A classically trained pianist and singer whose slow, intimate records helped create quiet storm soul. She won Record of the Year two years running.",
+  "know": [
+   "She entered Howard University at 15 on a music scholarship.",
+   "She won the Grammy for Record of the Year in 1973 and 1974.",
+   "Jazz pianist Les McCann helped get her signed to Atlantic."
+  ],
+  "born": "02-10",
+  "keyAlbums": [
+   [
+    "First Take",
+    1969
+   ],
+   [
+    "Quiet Fire",
+    1971
+   ],
+   [
+    "Roberta Flack & Donny Hathaway",
+    1972
+   ],
+   [
+    "Killing Me Softly",
+    1973
+   ]
+  ],
+  "songs": [
+   "The First Time Ever I Saw Your Face",
+   "Where Is the Love",
+   "Killing Me Softly with His Song",
+   "Feel Like Makin' Love",
+   "The Closer I Get to You"
+  ],
+  "influencedBy": [
+   {
+    "id": "donny-hathaway",
+    "why": "Her Howard classmate and duet partner.",
+    "s": 3
+   },
+   {
+    "id": "nina-simone",
+    "why": "Simone's blend of classical piano, jazz and soul was a clear model.",
+    "s": 1
+   },
+   {
+    "id": "sarah-vaughan",
+    "why": "Jazz singers like Vaughan shaped her careful phrasing.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "fugees",
+    "why": "The Fugees had a huge hit with Killing Me Softly in 1996.",
+    "s": 2
+   },
+   {
+    "id": "lauryn-hill",
+    "why": "Hill sang the Fugees' version of Killing Me Softly, built on Flack's arrangement.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "joni-mitchell",
+    "why": "Intimate, piano-led art song."
+   },
+   {
+    "id": "norah-jones",
+    "why": "Quiet, intimate piano and voice."
+   }
+  ]
+ },
+ {
+  "id": "donny-hathaway",
+  "years": "1969–1979",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "soul",
+   "gospel soul",
+   "jazz soul"
+  ],
+  "summary": "A gospel-trained singer, pianist and arranger with one of the most admired voices in soul. His records and his Live album shaped generations of R&B singers.",
+  "know": [
+   "He studied music at Howard University, where he met Roberta Flack.",
+   "He worked as an arranger and producer for Curtis Mayfield's Curtom label in Chicago.",
+   "His 1972 album Live is one of the most praised live soul records."
+  ],
+  "born": "10-01",
+  "keyAlbums": [
+   [
+    "Everything Is Everything",
+    1970
+   ],
+   [
+    "Live",
+    1972
+   ],
+   [
+    "Roberta Flack & Donny Hathaway",
+    1972
+   ],
+   [
+    "Extension of a Man",
+    1973
+   ]
+  ],
+  "songs": [
+   "The Ghetto",
+   "This Christmas",
+   "A Song for You",
+   "Someday We'll All Be Free",
+   "Where Is the Love"
+  ],
+  "influencedBy": [
+   {
+    "id": "ray-charles",
+    "why": "He named Charles as a major model for his gospel-based singing and piano.",
+    "s": 2
+   },
+   {
+    "id": "curtis-mayfield",
+    "why": "He worked for Mayfield at Curtom as arranger and producer.",
+    "s": 3
+   },
+   {
+    "id": "mahalia-jackson",
+    "why": "Church gospel grounded his singing from childhood.",
+    "s": 1
+   },
+   {
+    "id": "roberta-flack",
+    "why": "His duet partner and Howard classmate.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "alicia-keys",
+    "why": "Keys has cited him as a key influence and covered his songs.",
+    "s": 2
+   },
+   {
+    "id": "john-legend",
+    "why": "Legend's gospel-trained piano soul follows his model.",
+    "s": 1
+   },
+   {
+    "id": "d-angelo",
+    "why": "D'Angelo's keyboard-based neo-soul draws on his records.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "elton-john",
+    "why": "A soulful piano singer-songwriter, whose songs Hathaway also covered."
+   },
+   {
+    "id": "leon-russell",
+    "why": "Gospel-rooted rock piano, and the writer of A Song for You."
+   }
+  ]
+ },
+ {
+  "id": "minnie-riperton",
+  "years": "1962–1979",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "soul",
+   "psychedelic soul",
+   "quiet storm"
+  ],
+  "summary": "A Chicago singer with a five-octave range famous for her whistle register. Lovin' You made her a pop star in 1975.",
+  "know": [
+   "She worked as a receptionist at Chess Records and sang in the psychedelic soul group Rotary Connection.",
+   "Her 1970 solo debut Come to My Garden was arranged by Charles Stepney.",
+   "Stevie Wonder coproduced her album Perfect Angel."
+  ],
+  "born": "11-08",
+  "keyAlbums": [
+   [
+    "Come to My Garden",
+    1970
+   ],
+   [
+    "Perfect Angel",
+    1974
+   ],
+   [
+    "Adventures in Paradise",
+    1975
+   ],
+   [
+    "Stay in Love",
+    1977
+   ]
+  ],
+  "songs": [
+   "Lovin' You",
+   "Les Fleurs",
+   "Inside My Love",
+   "Reasons",
+   "Memory Lane"
+  ],
+  "influencedBy": [
+   {
+    "id": "stevie-wonder",
+    "why": "Wonder coproduced Perfect Angel and played on it.",
+    "s": 3
+   },
+   {
+    "id": "leonard-chess",
+    "why": "She got her start at Chess, working there and singing on its Cadet releases.",
+    "s": 3
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Her first group, Rotary Connection, recorded psychedelic versions of Rolling Stones songs.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "mariah-carey",
+    "why": "Carey's whistle-register singing follows Riperton's example.",
+    "s": 2
+   },
+   {
+    "id": "a-tribe-called-quest",
+    "why": "Lyrics to Go samples Inside My Love.",
+    "s": 2
+   },
+   {
+    "id": "ariana-grande",
+    "why": "Grande's whistle notes follow the style Riperton made famous.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "kate-bush",
+    "why": "An otherworldly high voice with art-pop ambition."
+   },
+   {
+    "id": "bjork",
+    "why": "A voice used as an instrument across a huge range."
+   }
+  ]
+ },
+ {
+  "id": "chaka-khan",
+  "years": "1972–present",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "funk",
+   "soul",
+   "R&B"
+  ],
+  "summary": "A Chicago singer who led the funk band Rufus and then became a solo star. Her huge voice made her one of the defining R&B singers of the 1970s and 1980s.",
+  "know": [
+   "Stevie Wonder wrote Tell Me Something Good for Rufus, which won a Grammy.",
+   "I'm Every Woman, her 1978 solo debut single, was written by Ashford and Simpson.",
+   "Her 1984 hit I Feel for You was a Prince song featuring Melle Mel and Stevie Wonder."
+  ],
+  "born": "03-23",
+  "keyAlbums": [
+   [
+    "Rags to Rufus",
+    1974
+   ],
+   [
+    "Rufusized",
+    1974
+   ],
+   [
+    "Chaka",
+    1978
+   ],
+   [
+    "I Feel for You",
+    1984
+   ]
+  ],
+  "songs": [
+   "Tell Me Something Good",
+   "Sweet Thing",
+   "I'm Every Woman",
+   "Ain't Nobody",
+   "I Feel for You"
+  ],
+  "influencedBy": [
+   {
+    "id": "stevie-wonder",
+    "why": "Wonder wrote Tell Me Something Good for her and played on I Feel for You.",
+    "s": 3
+   },
+   {
+    "id": "aretha-franklin",
+    "why": "Franklin's gospel-powered singing was her main model.",
+    "s": 2
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Sly's band-based funk shaped the sound of Rufus.",
+    "s": 1
+   },
+   {
+    "id": "prince",
+    "why": "Prince wrote I Feel for You, her biggest solo hit.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "whitney-houston",
+    "why": "Houston covered I'm Every Woman in 1992.",
+    "s": 2
+   },
+   {
+    "id": "mary-j-blige",
+    "why": "Blige has cited Khan as a major influence.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "janis-joplin",
+    "why": "A huge, raw voice fronting a band."
+   },
+   {
+    "id": "celia-cruz",
+    "why": "A powerhouse voice that commands a dance band."
+   }
+  ]
+ },
+ {
+  "id": "ohio-players",
+  "years": "1959–2002",
+  "origin": "Dayton, Ohio",
+  "genres": [
+   "funk",
+   "soul",
+   "R&B"
+  ],
+  "summary": "A Dayton band that turned horn-heavy R&B into slick, heavy 1970s funk. Their records are a foundation of the Dayton funk scene and of later hip-hop.",
+  "know": [
+   "They began as the Ohio Untouchables, backing the Falcons.",
+   "Junie Morrison's synthesizer line on Funky Worm (1973) became a model for later rap production.",
+   "Fire and Love Rollercoaster both reached No. 1."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Pain",
+    1972
+   ],
+   [
+    "Skin Tight",
+    1974
+   ],
+   [
+    "Fire",
+    1974
+   ],
+   [
+    "Honey",
+    1975
+   ]
+  ],
+  "songs": [
+   "Funky Worm",
+   "Skin Tight",
+   "Fire",
+   "Love Rollercoaster",
+   "Sweet Sticky Thing"
+  ],
+  "influencedBy": [
+   {
+    "id": "james-brown",
+    "why": "Brown's rhythm-first funk was the base of their sound.",
+    "s": 2
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Sly's band-based rock-funk shaped their 1970s records.",
+    "s": 2
+   },
+   {
+    "id": "wilson-pickett",
+    "why": "As the Ohio Untouchables they backed the Falcons, Pickett's group.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "zapp",
+    "why": "Zapp came out of the Dayton funk scene they built.",
+    "s": 2
+   },
+   {
+    "id": "dr-dre",
+    "why": "The high synth whine of Funky Worm became a signature of Dre's G-funk.",
+    "s": 2
+   },
+   {
+    "id": "red-hot-chili-peppers",
+    "why": "The Chili Peppers covered Love Rollercoaster in 1996.",
+    "s": 2
+   },
+   {
+    "id": "parliament-funkadelic",
+    "why": "Keyboardist Junie Morrison went on to join Parliament-Funkadelic.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "fela-kuti",
+    "why": "Horn-driven, heavy dance grooves."
+   },
+   {
+    "id": "grand-funk-railroad",
+    "why": "A heavy 1970s Midwest groove band."
+   }
+  ]
+ },
+ {
+  "id": "kool-and-the-gang",
+  "years": "1964–present",
+  "origin": "Jersey City, New Jersey",
+  "genres": [
+   "funk",
+   "R&B",
+   "disco",
+   "jazz funk"
+  ],
+  "summary": "A Jersey City band that began as a jazz group and became one of the most popular funk and pop acts of the 1970s and 1980s.",
+  "know": [
+   "They started as the Jazziacs, led by bassist Robert Kool Bell.",
+   "Jungle Boogie and Hollywood Swinging both came from the 1973 album Wild and Peaceful.",
+   "Producer Eumir Deodato and singer J.T. Taylor led their move to pop with Ladies' Night."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Wild and Peaceful",
+    1973
+   ],
+   [
+    "Ladies' Night",
+    1979
+   ],
+   [
+    "Celebrate!",
+    1980
+   ],
+   [
+    "Emergency",
+    1984
+   ]
+  ],
+  "songs": [
+   "Jungle Boogie",
+   "Hollywood Swinging",
+   "Summer Madness",
+   "Ladies' Night",
+   "Celebration"
+  ],
+  "influencedBy": [
+   {
+    "id": "james-brown",
+    "why": "Brown's funk shaped their early instrumental sound.",
+    "s": 2
+   },
+   {
+    "id": "john-coltrane",
+    "why": "Their jazz roots drew on players like Coltrane.",
+    "s": 1
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Sly's party funk shaped their 1970s hits.",
+    "s": 1
+   },
+   {
+    "id": "the-jbs",
+    "why": "The J.B.'s horn-led instrumental funk was a model.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "dj-jazzy-jeff-fresh-prince",
+    "why": "Summertime is built on Summer Madness.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "chicago",
+    "why": "A horn band that crossed over to pop ballads."
+   },
+   {
+    "id": "tito-puente",
+    "why": "A jazz-trained dance band leader."
+   }
+  ]
+ },
+ {
+  "id": "the-commodores",
+  "years": "1968–present",
+  "origin": "Tuskegee, Alabama",
+  "genres": [
+   "funk",
+   "soul",
+   "R&B",
+   "pop soul"
+  ],
+  "summary": "A band formed at Tuskegee Institute that played hard funk and also scored huge ballad hits through Lionel Richie. They were one of Motown's biggest acts of the 1970s.",
+  "know": [
+   "They formed as students at Tuskegee Institute in Alabama.",
+   "They opened for the Jackson 5 on tour in the early 1970s.",
+   "Nightshift won a Grammy in 1986 after Lionel Richie had left."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Machine Gun",
+    1974
+   ],
+   [
+    "Commodores",
+    1977
+   ],
+   [
+    "Natural High",
+    1978
+   ],
+   [
+    "Midnight Magic",
+    1979
+   ]
+  ],
+  "songs": [
+   "Machine Gun",
+   "Brick House",
+   "Easy",
+   "Three Times a Lady",
+   "Nightshift"
+  ],
+  "influencedBy": [
+   {
+    "id": "james-brown",
+    "why": "Brown's funk drove their early instrumental hits.",
+    "s": 1
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Sly's band-based funk shaped their sound.",
+    "s": 1
+   },
+   {
+    "id": "berry-gordy",
+    "why": "Gordy signed them to Motown.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "lionel-richie",
+    "why": "The band launched Richie's career as a writer and singer.",
+    "s": 3
+   },
+   {
+    "id": "faith-no-more",
+    "why": "Faith No More covered Easy in 1992.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "alabama",
+    "why": "A Southern band whose ballads crossed to pop."
+   },
+   {
+    "id": "eagles",
+    "why": "A 1970s band known for smooth ballads."
+   }
+  ]
+ },
+ {
+  "id": "lionel-richie",
+  "years": "1982–present",
+  "origin": "Tuskegee, Alabama",
+  "genres": [
+   "pop",
+   "soul",
+   "adult contemporary"
+  ],
+  "summary": "The Commodores' singer and writer who became one of the top solo stars of the 1980s with warm ballads and pop hits.",
+  "know": [
+   "He wrote and sang many Commodores hits, including Easy and Three Times a Lady.",
+   "Can't Slow Down won the Grammy for Album of the Year.",
+   "He cowrote We Are the World with Michael Jackson."
+  ],
+  "born": "06-20",
+  "keyAlbums": [
+   [
+    "Lionel Richie",
+    1982
+   ],
+   [
+    "Can't Slow Down",
+    1983
+   ],
+   [
+    "Dancing on the Ceiling",
+    1986
+   ],
+   [
+    "Tuskegee",
+    2012
+   ]
+  ],
+  "songs": [
+   "Truly",
+   "All Night Long (All Night)",
+   "Hello",
+   "Say You, Say Me",
+   "Endless Love"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-commodores",
+    "why": "He came up as the Commodores' lead singer and writer.",
+    "s": 3
+   },
+   {
+    "id": "berry-gordy",
+    "why": "Gordy's Motown was his label home through his rise.",
+    "s": 3
+   },
+   {
+    "id": "quincy-jones",
+    "why": "Jones produced We Are the World, which Richie cowrote.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "kenny-rogers",
+    "why": "He wrote and produced Lady for Rogers in 1980.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "kenny-rogers",
+    "why": "Huge-selling romantic ballads."
+   },
+   {
+    "id": "luther-vandross",
+    "why": "Smooth 1980s romantic soul."
+   }
+  ]
+ },
+ {
+  "id": "war",
+  "years": "1969–present",
+  "origin": "Long Beach, California",
+  "genres": [
+   "funk",
+   "Latin rock",
+   "soul"
+  ],
+  "summary": "A multiracial Long Beach band that blended funk, Latin rhythms, jazz and rock. They first backed Eric Burdon and then had a run of 1970s hits.",
+  "know": [
+   "They started as the backing band for Eric Burdon of the Animals.",
+   "The World Is a Ghetto was Billboard's best-selling album of 1973.",
+   "Lee Oskar's harmonica is a key part of their sound."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Eric Burdon Declares \"War\"",
+    1970
+   ],
+   [
+    "All Day Music",
+    1971
+   ],
+   [
+    "The World Is a Ghetto",
+    1972
+   ],
+   [
+    "Why Can't We Be Friends?",
+    1975
+   ]
+  ],
+  "songs": [
+   "Spill the Wine",
+   "Slippin' into Darkness",
+   "The Cisco Kid",
+   "Low Rider",
+   "Why Can't We Be Friends?"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-animals",
+    "why": "Eric Burdon of the Animals formed the band around himself.",
+    "s": 3
+   },
+   {
+    "id": "santana",
+    "why": "Santana's Latin rock was a parallel model for their mix.",
+    "s": 1
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Sly's multiracial funk band was an example they followed.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "korn",
+    "why": "Korn covered Low Rider in 1996.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "santana",
+    "why": "Latin rhythms mixed with rock and soul."
+   },
+   {
+    "id": "los-lobos",
+    "why": "East LA groove mixing Latin roots with rock."
+   }
+  ]
+ },
+ {
+  "id": "tower-of-power",
+  "years": "1968–present",
+  "origin": "Oakland, California",
+  "genres": [
+   "funk",
+   "soul",
+   "horn rock"
+  ],
+  "summary": "An Oakland band famous for its tight horn section and intricate rhythm section. Their horns also appear on many other artists' records.",
+  "know": [
+   "Saxophonists Emilio Castillo and Stephen Doc Kupka founded the band.",
+   "Drummer David Garibaldi and bassist Rocco Prestia gave them a busy, tight groove.",
+   "The Tower of Power horns played on records by Elton John, Santana and Little Feat."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Bump City",
+    1972
+   ],
+   [
+    "Tower of Power",
+    1973
+   ],
+   [
+    "Back to Oakland",
+    1974
+   ],
+   [
+    "Urban Renewal",
+    1975
+   ]
+  ],
+  "songs": [
+   "What Is Hip?",
+   "So Very Hard to Go",
+   "You're Still a Young Man",
+   "Down to the Nightclub",
+   "Squib Cakes"
+  ],
+  "influencedBy": [
+   {
+    "id": "james-brown",
+    "why": "Brown's horn-driven funk was their main model.",
+    "s": 2
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "The Bay Area funk of Sly's band shaped their sound.",
+    "s": 2
+   },
+   {
+    "id": "otis-redding",
+    "why": "Stax-style soul like Redding's set their ballad style.",
+    "s": 1
+   },
+   {
+    "id": "booker-t",
+    "why": "The MG's tight Memphis grooves were a model.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "elton-john",
+    "why": "Their horns played on Elton John's Caribou.",
+    "s": 3
+   },
+   {
+    "id": "santana",
+    "why": "Their horns played on Santana records.",
+    "s": 3
+   },
+   {
+    "id": "little-feat",
+    "why": "Their horns played on Little Feat records.",
+    "s": 3
+   },
+   {
+    "id": "huey-lewis-and-the-news",
+    "why": "Their horns played on Huey Lewis and the News records, including Sports.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "chicago",
+    "why": "A horn-led band from rock."
+   },
+   {
+    "id": "fela-kuti",
+    "why": "A horn section driving long, complex grooves."
+   }
+  ]
+ },
+ {
+  "id": "average-white-band",
+  "years": "1972–present",
+  "origin": "London, England",
+  "genres": [
+   "funk",
+   "soul",
+   "blue-eyed soul"
+  ],
+  "summary": "A band of Scottish musicians who played tight, American-style funk. Pick Up the Pieces made them one of the best-known funk acts of the 1970s.",
+  "know": [
+   "Members came from Dundee and Glasgow and formed the band in London.",
+   "Their second album, AWB, was produced by Arif Mardin for Atlantic.",
+   "Pick Up the Pieces reached No. 1 in the US in 1975."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "AWB",
+    1974
+   ],
+   [
+    "Cut the Cake",
+    1975
+   ],
+   [
+    "Soul Searching",
+    1976
+   ],
+   [
+    "Benny & Us",
+    1977
+   ]
+  ],
+  "songs": [
+   "Pick Up the Pieces",
+   "Cut the Cake",
+   "School Boy Crush",
+   "Let's Go Round Again",
+   "Person to Person"
+  ],
+  "influencedBy": [
+   {
+    "id": "james-brown",
+    "why": "Brown's funk was the core of their sound.",
+    "s": 2
+   },
+   {
+    "id": "the-jbs",
+    "why": "Pick Up the Pieces was modeled on J.B.'s-style horn funk.",
+    "s": 2
+   },
+   {
+    "id": "the-meters",
+    "why": "The Meters' lean funk grooves shaped their rhythm section.",
+    "s": 1
+   },
+   {
+    "id": "booker-t",
+    "why": "Stax's MG's were a model for their tight playing.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "steely-dan",
+    "why": "Tight, jazz-schooled 1970s grooves."
+   },
+   {
+    "id": "little-feat",
+    "why": "Groove-heavy 1970s band playing."
+   }
+  ]
+ },
+ {
+  "id": "bootsy-collins",
+  "years": "1968–present",
+  "origin": "Cincinnati, Ohio",
+  "genres": [
+   "funk",
+   "P-Funk",
+   "space funk"
+  ],
+  "summary": "A bassist who played in James Brown's band and then became the star bassist of Parliament-Funkadelic. His Rubber Band records made his cartoon-like persona a funk icon.",
+  "know": [
+   "He and his brother Catfish played with James Brown in 1970 on Sex Machine and Super Bad.",
+   "He joined Parliament-Funkadelic and cowrote Flash Light.",
+   "He led his own group, Bootsy's Rubber Band, from 1976."
+  ],
+  "born": "10-26",
+  "keyAlbums": [
+   [
+    "Stretchin' Out in Bootsy's Rubber Band",
+    1976
+   ],
+   [
+    "Ahh... The Name Is Bootsy, Baby!",
+    1977
+   ],
+   [
+    "Bootsy? Player of the Year",
+    1978
+   ],
+   [
+    "This Boot Is Made for Fonk-N",
+    1979
+   ]
+  ],
+  "songs": [
+   "Stretchin' Out",
+   "I'd Rather Be with You",
+   "The Pinocchio Theory",
+   "Bootzilla",
+   "Hollywood Squares"
+  ],
+  "influencedBy": [
+   {
+    "id": "james-brown",
+    "why": "He learned tight funk bass playing in Brown's band.",
+    "s": 3
+   },
+   {
+    "id": "george-clinton",
+    "why": "Clinton brought him into Parliament-Funkadelic and coproduced his records.",
+    "s": 3
+   },
+   {
+    "id": "the-jbs",
+    "why": "He was in the first lineup of the J.B.'s.",
+    "s": 3
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "He named Hendrix as a major influence on his playing and stage style.",
+    "s": 2
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Sly's band showed him funk bass with a rock edge.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "red-hot-chili-peppers",
+    "why": "Flea named Bootsy as a key bass influence.",
+    "s": 2
+   },
+   {
+    "id": "thundercat",
+    "why": "Thundercat has named Bootsy as a bass hero.",
+    "s": 2
+   },
+   {
+    "id": "childish-gambino",
+    "why": "Redbone was widely noted for its closeness to I'd Rather Be with You.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "motorhead",
+    "why": "A bassist-frontman with a larger-than-life image."
+   },
+   {
+    "id": "sun-ra",
+    "why": "Cosmic costumes and space mythology in jazz."
+   }
+  ]
+ },
+ {
+  "id": "george-clinton",
+  "years": "1955–present",
+  "origin": "Plainfield, New Jersey",
+  "genres": [
+   "funk",
+   "P-Funk",
+   "psychedelic soul"
+  ],
+  "summary": "The leader of Parliament and Funkadelic, who mixed funk, psychedelic rock and science fiction. His records are among the most sampled in hip-hop.",
+  "know": [
+   "He led the Parliaments, a doo-wop group based in a Plainfield barbershop.",
+   "He ran Parliament and Funkadelic as two acts with overlapping members.",
+   "Atomic Dog (1982) became one of the most sampled funk records."
+  ],
+  "born": "07-22",
+  "keyAlbums": [
+   [
+    "Maggot Brain (Funkadelic)",
+    1971
+   ],
+   [
+    "Mothership Connection (Parliament)",
+    1975
+   ],
+   [
+    "One Nation Under a Groove (Funkadelic)",
+    1978
+   ],
+   [
+    "Computer Games",
+    1982
+   ]
+  ],
+  "songs": [
+   "(I Wanna) Testify",
+   "Give Up the Funk (Tear the Roof off the Sucker)",
+   "Flash Light",
+   "One Nation Under a Groove",
+   "Atomic Dog"
+  ],
+  "influencedBy": [
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Sly's psychedelic funk was a direct model for Funkadelic.",
+    "s": 2
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "Hendrix's loud guitar shaped Funkadelic's rock side.",
+    "s": 2
+   },
+   {
+    "id": "james-brown",
+    "why": "Brown's rhythm-first funk was the base of Parliament.",
+    "s": 2
+   },
+   {
+    "id": "holland-dozier-holland",
+    "why": "He worked as a staff songwriter for Motown's publishing arm in Detroit and learned its hit-making methods.",
+    "s": 2
+   },
+   {
+    "id": "the-jbs",
+    "why": "Former J.B.'s Bootsy Collins, Fred Wesley and Maceo Parker joined his bands.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "The Beatles' studio experiments shaped his psychedelic ambitions.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "bootsy-collins",
+    "why": "He made Bootsy a star in Parliament-Funkadelic.",
+    "s": 3
+   },
+   {
+    "id": "bernie-worrell",
+    "why": "His bands gave Worrell his platform as a keyboardist.",
+    "s": 3
+   },
+   {
+    "id": "prince",
+    "why": "Prince cited him and signed him to Paisley Park in 1989.",
+    "s": 2
+   },
+   {
+    "id": "red-hot-chili-peppers",
+    "why": "He produced their 1985 album Freaky Styley.",
+    "s": 3
+   },
+   {
+    "id": "dr-dre",
+    "why": "Dre's G-funk is built on P-Funk grooves and samples.",
+    "s": 2
+   },
+   {
+    "id": "snoop-dogg",
+    "why": "Snoop's early records draw on Atomic Dog and P-Funk.",
+    "s": 2
+   },
+   {
+    "id": "outkast",
+    "why": "He appears on Synthesizer from Aquemini.",
+    "s": 3
+   },
+   {
+    "id": "de-la-soul",
+    "why": "Me Myself and I is built on a Funkadelic sample.",
+    "s": 2
+   },
+   {
+    "id": "ice-cube",
+    "why": "He appears on Ice Cube's Bop Gun (One Nation).",
+    "s": 3
+   },
+   {
+    "id": "kendrick-lamar",
+    "why": "He appears on Wesley's Theory from To Pimp a Butterfly.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "sun-ra",
+    "why": "Cosmic mythology and a sprawling band."
+   },
+   {
+    "id": "frank-zappa",
+    "why": "A sprawling, satirical bandleader."
+   },
+   {
+    "id": "lee-scratch-perry",
+    "why": "An eccentric studio visionary."
+   }
+  ]
+ },
+ {
+  "id": "bernie-worrell",
+  "years": "1968–2016",
+  "origin": "Plainfield, New Jersey",
+  "genres": [
+   "funk",
+   "P-Funk",
+   "keyboards",
+   "session"
+  ],
+  "summary": "The classically trained keyboardist of Parliament-Funkadelic. His Minimoog bass lines and wild synth parts defined the P-Funk sound and carried into new wave with Talking Heads.",
+  "know": [
+   "He was a child prodigy and studied at the New England Conservatory.",
+   "He played the Minimoog bass line on Flash Light.",
+   "He toured and recorded with Talking Heads in the 1980s, including Stop Making Sense."
+  ],
+  "born": "04-19",
+  "keyAlbums": [
+   [
+    "Maggot Brain (Funkadelic)",
+    1971
+   ],
+   [
+    "Mothership Connection (Parliament)",
+    1975
+   ],
+   [
+    "Remain in Light (Talking Heads)",
+    1980
+   ],
+   [
+    "Stop Making Sense (Talking Heads)",
+    1984
+   ]
+  ],
+  "songs": [
+   "Flash Light",
+   "Give Up the Funk (Tear the Roof off the Sucker)",
+   "Aqua Boogie",
+   "Cosmic Slop",
+   "Mothership Connection (Star Child)"
+  ],
+  "influencedBy": [
+   {
+    "id": "george-clinton",
+    "why": "Clinton brought him into the Parliaments' circle and built P-Funk with him.",
+    "s": 3
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Sly's keyboard funk shaped his approach.",
+    "s": 1
+   },
+   {
+    "id": "sun-ra",
+    "why": "Sun Ra's early synth explorations parallel his space sounds.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "parliament-funkadelic",
+    "why": "His keyboards and arrangements shaped P-Funk's sound.",
+    "s": 3
+   },
+   {
+    "id": "talking-heads",
+    "why": "He played on Remain in Light and toured with the band.",
+    "s": 3
+   },
+   {
+    "id": "dr-dre",
+    "why": "G-funk's high synth leads follow his Moog style.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "brian-eno",
+    "why": "Synth textures used as a lead voice."
+   },
+   {
+    "id": "herbie-hancock",
+    "why": "A keyboardist pushing synths into funk."
+   }
+  ]
+ },
+ {
+  "id": "zapp",
+  "years": "1977–1999",
+  "origin": "Dayton, Ohio",
+  "genres": [
+   "funk",
+   "electro-funk",
+   "talk box"
+  ],
+  "summary": "A Dayton family band led by Roger Troutman, whose talk box vocals became a signature sound of 1980s funk and 1990s West Coast rap.",
+  "know": [
+   "The band was built around the Troutman brothers.",
+   "Bootsy Collins helped produce their debut and More Bounce to the Ounce.",
+   "Roger sang the talk box hook on 2Pac and Dr. Dre's California Love."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Zapp",
+    1980
+   ],
+   [
+    "The Many Facets of Roger",
+    1981
+   ],
+   [
+    "Zapp II",
+    1982
+   ],
+   [
+    "Zapp III",
+    1983
+   ]
+  ],
+  "songs": [
+   "More Bounce to the Ounce",
+   "Dance Floor",
+   "I Heard It Through the Grapevine",
+   "Computer Love",
+   "I Want to Be Your Man"
+  ],
+  "influencedBy": [
+   {
+    "id": "bootsy-collins",
+    "why": "Collins helped produce their first album.",
+    "s": 3
+   },
+   {
+    "id": "george-clinton",
+    "why": "P-Funk was the direct model and their entry to Warner Bros.",
+    "s": 3
+   },
+   {
+    "id": "ohio-players",
+    "why": "The Ohio Players built the Dayton funk scene they came from.",
+    "s": 2
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Sly's family band funk was an early model.",
+    "s": 1
+   },
+   {
+    "id": "stevie-wonder",
+    "why": "Wonder's use of the talk box pointed the way for Roger.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "tupac",
+    "why": "Roger sang the hook on California Love.",
+    "s": 3
+   },
+   {
+    "id": "dr-dre",
+    "why": "Dre produced California Love with Roger and built G-funk on their sound.",
+    "s": 3
+   },
+   {
+    "id": "snoop-dogg",
+    "why": "Their talk box funk is a core sound behind Snoop's records.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "peter-frampton",
+    "why": "A talk box showcase in rock."
+   },
+   {
+    "id": "daft-punk",
+    "why": "Robotic voice effects over dance grooves."
+   }
+  ]
+ },
+ {
+  "id": "rick-james",
+  "years": "1964–2004",
+  "origin": "Buffalo, New York",
+  "genres": [
+   "funk",
+   "punk funk",
+   "R&B"
+  ],
+  "summary": "A Buffalo-born singer and bassist who brought rock swagger to Motown funk. Street Songs made him one of the biggest R&B stars of the early 1980s.",
+  "know": [
+   "In Toronto in the 1960s he was in the Mynah Birds with Neil Young.",
+   "He signed to Motown's Gordy label and called his style punk funk.",
+   "He produced records for Teena Marie and the Mary Jane Girls."
+  ],
+  "born": "02-01",
+  "keyAlbums": [
+   [
+    "Come Get It!",
+    1978
+   ],
+   [
+    "Bustin' Out of L Seven",
+    1979
+   ],
+   [
+    "Street Songs",
+    1981
+   ],
+   [
+    "Throwin' Down",
+    1982
+   ]
+  ],
+  "songs": [
+   "You and I",
+   "Bustin' Out",
+   "Give It to Me Baby",
+   "Super Freak",
+   "Fire and Desire"
+  ],
+  "influencedBy": [
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Sly's rock-funk was the base of his punk funk.",
+    "s": 2
+   },
+   {
+    "id": "george-clinton",
+    "why": "P-Funk's flamboyant funk shaped his style.",
+    "s": 2
+   },
+   {
+    "id": "berry-gordy",
+    "why": "Motown signed him and released all his hits.",
+    "s": 3
+   },
+   {
+    "id": "neil-young",
+    "why": "He played with Young in the Mynah Birds in Toronto.",
+    "s": 2
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "Hendrix's rock flash shaped his stage persona.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "mc-hammer",
+    "why": "U Can't Touch This is built on Super Freak.",
+    "s": 2
+   },
+   {
+    "id": "teena-marie",
+    "why": "He discovered her and produced her debut.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-rolling-stones",
+    "why": "Swaggering rock-star showmanship."
+   },
+   {
+    "id": "red-hot-chili-peppers",
+    "why": "Punk-funk with a rock edge."
+   }
+  ]
+ },
+ {
+  "id": "the-gap-band",
+  "years": "1967–2010",
+  "origin": "Tulsa, Oklahoma",
+  "genres": [
+   "funk",
+   "R&B",
+   "boogie"
+  ],
+  "summary": "The Wilson brothers from Tulsa, who made some of the biggest funk and boogie records of the early 1980s. Charlie Wilson later became a top guest singer on rap records.",
+  "know": [
+   "They named the band after Greenwood, Archer and Pine streets in Tulsa.",
+   "They worked early on as a backing band for Leon Russell.",
+   "Producer Lonnie Simmons made their hit albums for Total Experience."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Gap Band II",
+    1979
+   ],
+   [
+    "The Gap Band III",
+    1980
+   ],
+   [
+    "Gap Band IV",
+    1982
+   ],
+   [
+    "Gap Band V: Jammin'",
+    1983
+   ]
+  ],
+  "songs": [
+   "Oops Upside Your Head",
+   "Burn Rubber on Me",
+   "Early in the Morning",
+   "You Dropped a Bomb on Me",
+   "Outstanding"
+  ],
+  "influencedBy": [
+   {
+    "id": "leon-russell",
+    "why": "They backed Russell and recorded for his Shelter label.",
+    "s": 3
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Sly's family band funk was a model.",
+    "s": 1
+   },
+   {
+    "id": "george-clinton",
+    "why": "P-Funk's heavy grooves shaped their 1980s sound.",
+    "s": 1
+   },
+   {
+    "id": "ohio-players",
+    "why": "1970s Midwest funk like the Ohio Players' was a model.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "bruno-mars",
+    "why": "Uptown Funk added the Gap Band as cowriters over its likeness to Oops Upside Your Head.",
+    "s": 2
+   },
+   {
+    "id": "mark-ronson",
+    "why": "Ronson's Uptown Funk credited the Gap Band as cowriters.",
+    "s": 2
+   },
+   {
+    "id": "snoop-dogg",
+    "why": "Charlie Wilson sang on many Snoop Dogg records.",
+    "s": 3
+   },
+   {
+    "id": "kanye-west",
+    "why": "Charlie Wilson sang on several Kanye West records.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "zz-top",
+    "why": "Boogie grooves from the Southwest."
+   },
+   {
+    "id": "the-b-52s",
+    "why": "Party-first dance songs."
+   }
+  ]
+ },
+ {
+  "id": "cameo",
+  "years": "1974–present",
+  "origin": "New York, New York",
+  "genres": [
+   "funk",
+   "R&B",
+   "electro-funk"
+  ],
+  "summary": "Larry Blackmon's New York funk band, which shrank from a large ensemble to a sleek trio. Word Up! was one of the defining funk records of the 1980s.",
+  "know": [
+   "They began as the New York City Players.",
+   "Larry Blackmon moved the band to Atlanta and founded Atlanta Artists.",
+   "Word Up! was later covered by Korn."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Cardiac Arrest",
+    1977
+   ],
+   [
+    "Secret Omen",
+    1979
+   ],
+   [
+    "She's Strange",
+    1984
+   ],
+   [
+    "Word Up!",
+    1986
+   ]
+  ],
+  "songs": [
+   "Rigor Mortis",
+   "I Just Want to Be",
+   "She's Strange",
+   "Single Life",
+   "Word Up!"
+  ],
+  "influencedBy": [
+   {
+    "id": "george-clinton",
+    "why": "P-Funk's large band style was their early model.",
+    "s": 2
+   },
+   {
+    "id": "ohio-players",
+    "why": "Ohio Players funk shaped their horn arrangements.",
+    "s": 1
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Sly's band funk was a model.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "korn",
+    "why": "Korn covered Word Up! in 2004.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "devo",
+    "why": "Angular, robotic new wave grooves."
+   },
+   {
+    "id": "duran-duran",
+    "why": "Glossy mid-1980s dance hits."
+   }
+  ]
+ },
+ {
+  "id": "the-jbs",
+  "years": "1970–1980",
+  "origin": "Cincinnati, Ohio",
+  "genres": [
+   "funk",
+   "soul jazz",
+   "session"
+  ],
+  "summary": "James Brown's backing band from 1970, led by Fred Wesley with Maceo Parker. Their instrumentals are among the most sampled records in hip-hop.",
+  "know": [
+   "The first lineup in 1970 included Bootsy and Catfish Collins.",
+   "Fred Wesley led the horns and arranged much of their music.",
+   "The Grunt was sampled on Public Enemy's Rebel Without a Pause."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Sex Machine (James Brown)",
+    1970
+   ],
+   [
+    "Food for Thought",
+    1972
+   ],
+   [
+    "Doing It to Death",
+    1973
+   ],
+   [
+    "Damn Right I Am Somebody",
+    1974
+   ]
+  ],
+  "songs": [
+   "The Grunt",
+   "Pass the Peas",
+   "Gimme Some More",
+   "Doing It to Death",
+   "Blow Your Head"
+  ],
+  "influencedBy": [
+   {
+    "id": "james-brown",
+    "why": "They were his band, and he wrote and produced their records.",
+    "s": 3
+   },
+   {
+    "id": "bootsy-collins",
+    "why": "Collins was in their first lineup.",
+    "s": 3
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Sly's funk pushed their tight horn sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "public-enemy",
+    "why": "Rebel Without a Pause is built on The Grunt.",
+    "s": 2
+   },
+   {
+    "id": "parliament-funkadelic",
+    "why": "Fred Wesley and Maceo Parker moved to P-Funk and led its horns.",
+    "s": 3
+   },
+   {
+    "id": "bootsy-collins",
+    "why": "His time in the J.B.'s formed his bass style.",
+    "s": 3
+   },
+   {
+    "id": "the-bomb-squad",
+    "why": "The Bomb Squad built many tracks on J.B.'s samples.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-skatalites",
+    "why": "A backing band famous for its own instrumentals."
+   },
+   {
+    "id": "tony-allen",
+    "why": "Drum-driven backing that defined a bandleader's sound."
+   }
+  ]
+ },
+ {
+  "id": "the-time",
+  "years": "1981–present",
+  "origin": "Minneapolis, Minnesota",
+  "genres": [
+   "Minneapolis sound",
+   "funk",
+   "R&B"
+  ],
+  "summary": "A Minneapolis funk band put together by Prince and fronted by Morris Day. They helped define the Minneapolis sound and launched Jimmy Jam and Terry Lewis.",
+  "know": [
+   "Prince formed the band with Morris Day and members of the local group Flyte Tyme.",
+   "Jimmy Jam and Terry Lewis were members before becoming star producers.",
+   "The band appeared in the 1984 film Purple Rain."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Time",
+    1981
+   ],
+   [
+    "What Time Is It?",
+    1982
+   ],
+   [
+    "Ice Cream Castle",
+    1984
+   ],
+   [
+    "Pandemonium",
+    1990
+   ]
+  ],
+  "songs": [
+   "Get It Up",
+   "777-9311",
+   "The Walk",
+   "Jungle Love",
+   "The Bird"
+  ],
+  "influencedBy": [
+   {
+    "id": "prince",
+    "why": "Prince created the band and wrote and produced their early records.",
+    "s": 3
+   },
+   {
+    "id": "george-clinton",
+    "why": "P-Funk's showmanship shaped their stage act.",
+    "s": 1
+   },
+   {
+    "id": "james-brown",
+    "why": "Brown's tight funk band discipline was a model.",
+    "s": 1
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Sly's rock-funk is part of the Minneapolis sound they shared.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "jimmy-jam-and-terry-lewis",
+    "why": "Jam and Lewis came out of the band and carried its sound into their productions.",
+    "s": 3
+   },
+   {
+    "id": "bruno-mars",
+    "why": "Mars has named Morris Day and the Time as a model for his stage show.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-cars",
+    "why": "A tight, synth-driven early 1980s band."
+   },
+   {
+    "id": "duran-duran",
+    "why": "Stylish early 1980s dance hits."
+   }
+  ]
+ },
+ {
+  "id": "gloria-gaynor",
+  "years": "1965–present",
+  "origin": "Newark, New Jersey",
+  "genres": [
+   "disco",
+   "soul",
+   "R&B"
+  ],
+  "summary": "A Newark singer who became one of the first disco stars. I Will Survive turned into one of the best-known songs of the disco era.",
+  "know": [
+   "Side one of Never Can Say Goodbye (1975) was a continuous dance mix by Tom Moulton.",
+   "I Will Survive was first released as a B-side in 1978.",
+   "I Will Survive won the only Grammy given for Best Disco Recording, in 1980."
+  ],
+  "born": "09-07",
+  "keyAlbums": [
+   [
+    "Never Can Say Goodbye",
+    1975
+   ],
+   [
+    "Experience Gloria Gaynor",
+    1975
+   ],
+   [
+    "Love Tracks",
+    1978
+   ]
+  ],
+  "songs": [
+   "Never Can Say Goodbye",
+   "Reach Out, I'll Be There",
+   "Honey Bee",
+   "I Will Survive",
+   "I Am What I Am"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-jackson-5",
+    "why": "She turned their Never Can Say Goodbye into an early disco hit.",
+    "s": 2
+   },
+   {
+    "id": "four-tops",
+    "why": "She remade their Reach Out I'll Be There as a disco track.",
+    "s": 1
+   },
+   {
+    "id": "the-supremes",
+    "why": "Motown's female stars were her early models.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "edith-piaf",
+    "why": "A defiant signature anthem."
+   },
+   {
+    "id": "abba",
+    "why": "Disco-era dance anthems."
+   }
+  ]
+ },
+ {
+  "id": "sylvester",
+  "years": "1970–1988",
+  "origin": "San Francisco, California",
+  "genres": [
+   "disco",
+   "Hi-NRG",
+   "soul"
+  ],
+  "summary": "A gospel-trained singer with a soaring falsetto who became a San Francisco disco star. You Make Me Feel (Mighty Real) helped create the synth-driven Hi-NRG style.",
+  "know": [
+   "He grew up singing gospel in a Los Angeles church.",
+   "He performed with the theater troupe the Cockettes in San Francisco.",
+   "Patrick Cowley's synthesizers drove You Make Me Feel (Mighty Real)."
+  ],
+  "born": "09-06",
+  "keyAlbums": [
+   [
+    "Step II",
+    1978
+   ],
+   [
+    "Stars",
+    1979
+   ],
+   [
+    "Living Proof",
+    1979
+   ],
+   [
+    "All I Need",
+    1982
+   ]
+  ],
+  "songs": [
+   "You Make Me Feel (Mighty Real)",
+   "Dance (Disco Heat)",
+   "Do Ya Wanna Funk",
+   "Over and Over",
+   "I Who Have Nothing"
+  ],
+  "influencedBy": [
+   {
+    "id": "billie-holiday",
+    "why": "He named Holiday as a major influence on his singing.",
+    "s": 2
+   },
+   {
+    "id": "giorgio-moroder",
+    "why": "Moroder's synth disco pointed the way for his Hi-NRG sound.",
+    "s": 1
+   },
+   {
+    "id": "donna-summer",
+    "why": "Summer's disco hits were the model for his crossover.",
+    "s": 1
+   },
+   {
+    "id": "aretha-franklin",
+    "why": "Gospel-rooted soul like Franklin's shaped his voice.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "david-bowie",
+    "why": "A gender-bending glam presence."
+   },
+   {
+    "id": "the-human-league",
+    "why": "Synth-driven dance pop."
+   }
+  ]
+ },
+ {
+  "id": "kc-and-the-sunshine-band",
+  "years": "1973–present",
+  "origin": "Miami, Florida",
+  "genres": [
+   "disco",
+   "funk",
+   "Miami sound"
+  ],
+  "summary": "Harry Wayne Casey and Richard Finch's Miami band, which made bright, party-focused funk and disco hits in the mid-1970s.",
+  "know": [
+   "Casey and Finch worked at TK Records in Hialeah, near Miami.",
+   "They wrote and produced Rock Your Baby for George McCrae in 1974.",
+   "They scored five No. 1 singles in the US."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "KC and the Sunshine Band",
+    1975
+   ],
+   [
+    "Part 3",
+    1976
+   ],
+   [
+    "Who Do Ya (Love)",
+    1978
+   ],
+   [
+    "Do You Wanna Go Party",
+    1979
+   ]
+  ],
+  "songs": [
+   "Get Down Tonight",
+   "That's the Way (I Like It)",
+   "(Shake, Shake, Shake) Shake Your Booty",
+   "I'm Your Boogie Man",
+   "Please Don't Go"
+  ],
+  "influencedBy": [
+   {
+    "id": "james-brown",
+    "why": "Brown's funk drove their rhythm section.",
+    "s": 1
+   },
+   {
+    "id": "kool-and-the-gang",
+    "why": "Kool and the Gang's horn-led party funk was a parallel model.",
+    "s": 1
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Sly's party funk shaped their sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "white-zombie",
+    "why": "White Zombie covered I'm Your Boogie Man in 1996.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-b-52s",
+    "why": "Party-first dance songs."
+   },
+   {
+    "id": "abba",
+    "why": "Bright 1970s dance hits."
+   }
+  ]
+ }
+]

@@ -1,0 +1,5186 @@
+[
+ {
+  "id": "ween",
+  "years": "1984–present",
+  "origin": "New Hope, Pennsylvania",
+  "genres": [
+   "alternative rock",
+   "experimental rock",
+   "psychedelic rock"
+  ],
+  "summary": "Ween is the duo of Aaron Freeman and Mickey Melchiondo, who hop between genres with deadpan humor and real musical skill. They grew from lo-fi home tapes into a cult touring band with a devoted following.",
+  "know": [
+   "Freeman and Melchiondo met as teenagers and performed as Gene Ween and Dean Ween.",
+   "12 Golden Country Greats was cut in Nashville with veteran session players.",
+   "The Mollusk is a sea-themed record that mixes prog, folk and psychedelic pop."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Pod",
+    1991
+   ],
+   [
+    "Pure Guava",
+    1992
+   ],
+   [
+    "Chocolate and Cheese",
+    1994
+   ],
+   [
+    "The Mollusk",
+    1997
+   ]
+  ],
+  "songs": [
+   "Push th' Little Daisies",
+   "Voodoo Lady",
+   "Ocean Man",
+   "Roses Are Free",
+   "Buenas Tardes Amigo"
+  ],
+  "influencedBy": [
+   {
+    "id": "frank-zappa",
+    "why": "Zappa's mix of genre parody and serious chops is the closest model for Ween's approach.",
+    "s": 2
+   },
+   {
+    "id": "prince",
+    "why": "Melchiondo has often named Prince as a favorite, and his falsetto funk shows up across Ween records.",
+    "s": 2
+   },
+   {
+    "id": "butthole-surfers",
+    "why": "The Butthole Surfers' warped, tape-manipulated rock shaped Ween's early lo-fi sound.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "Ween's pop songwriting and studio play draw on late-1960s Beatles records.",
+    "s": 1
+   },
+   {
+    "id": "parliament-funkadelic",
+    "why": "Songs like Voodoo Lady borrow Funkadelic's loose, heavy funk-rock feel.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "phish",
+    "why": "Phish took Roses Are Free into its live repertoire, linking the two bands' audiences.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "weird-al-yankovic",
+    "why": "Genre-hopping musical comedy played with real skill."
+   },
+   {
+    "id": "flight-of-the-conchords",
+    "why": "Deadpan pastiche songs that work as music, not just jokes."
+   }
+  ]
+ },
+ {
+  "id": "phish",
+  "years": "1983–present",
+  "origin": "Burlington, Vermont",
+  "genres": [
+   "jam band",
+   "progressive rock",
+   "psychedelic rock"
+  ],
+  "summary": "Phish is a Vermont quartet built on long improvisation, complex composed pieces and constantly changing setlists. They became the leading American jam band of the 1990s and beyond.",
+  "know": [
+   "The band formed at the University of Vermont with Trey Anastasio, Mike Gordon, Jon Fishman and Page McConnell.",
+   "Their Halloween shows have covered entire albums by other artists, including the Beatles' White Album and Talking Heads' Remain in Light.",
+   "They rarely repeat a setlist, which drives a large culture of fans taping and trading shows."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Junta",
+    1989
+   ],
+   [
+    "A Picture of Nectar",
+    1992
+   ],
+   [
+    "Rift",
+    1993
+   ],
+   [
+    "Billy Breathes",
+    1996
+   ]
+  ],
+  "songs": [
+   "You Enjoy Myself",
+   "Tweezer",
+   "Harry Hood",
+   "Down with Disease",
+   "Bouncing Around the Room"
+  ],
+  "influencedBy": [
+   {
+    "id": "grateful-dead",
+    "why": "The Dead's model of open improvisation and touring culture is the blueprint Phish built on.",
+    "s": 2
+   },
+   {
+    "id": "frank-zappa",
+    "why": "Anastasio's tightly composed, tricky instrumental sections echo Zappa's writing.",
+    "s": 2
+   },
+   {
+    "id": "talking-heads",
+    "why": "Phish covered Remain in Light in full and absorbed its interlocking grooves.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "Their 1994 White Album set reflects how deeply the band knows Beatles songcraft.",
+    "s": 2
+   },
+   {
+    "id": "king-crimson",
+    "why": "The band's odd meters and prog structures follow King Crimson's lead.",
+    "s": 1
+   },
+   {
+    "id": "genesis",
+    "why": "Anastasio's early long-form suites draw on 1970s Genesis.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "weather-report",
+    "why": "Group improvisation where every player steers the music."
+   },
+   {
+    "id": "billy-strings",
+    "why": "Long, exploratory jams rooted in a different tradition."
+   }
+  ]
+ },
+ {
+  "id": "muse",
+  "years": "1994–present",
+  "origin": "Teignmouth, England",
+  "genres": [
+   "alternative rock",
+   "progressive rock",
+   "space rock"
+  ],
+  "summary": "Muse is a trio led by Matt Bellamy that pairs heavy riffs with classical piano and huge, theatrical arrangements. They grew into one of the biggest stadium rock bands of the 2000s.",
+  "know": [
+   "The lineup of Matt Bellamy, Chris Wolstenholme and Dominic Howard has not changed since the band's start.",
+   "Bellamy's piano parts borrow openly from Romantic classical composers such as Rachmaninoff.",
+   "They won the Grammy for Best Rock Album for The Resistance and again for Drones."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Origin of Symmetry",
+    2001
+   ],
+   [
+    "Absolution",
+    2003
+   ],
+   [
+    "Black Holes and Revelations",
+    2006
+   ],
+   [
+    "The Resistance",
+    2009
+   ]
+  ],
+  "songs": [
+   "Plug In Baby",
+   "Hysteria",
+   "Time Is Running Out",
+   "Supermassive Black Hole",
+   "Knights of Cydonia"
+  ],
+  "influencedBy": [
+   {
+    "id": "radiohead",
+    "why": "Muse's early records were often compared to The Bends for their falsetto and guitar drama.",
+    "s": 2
+   },
+   {
+    "id": "queen",
+    "why": "Layered harmonies and operatic rock moments on later albums follow Queen's example.",
+    "s": 2
+   },
+   {
+    "id": "jeff-buckley",
+    "why": "Bellamy has cited Buckley's soaring voice as a key model for his singing.",
+    "s": 2
+   },
+   {
+    "id": "nirvana",
+    "why": "The band started out playing grunge-inspired rock in Devon.",
+    "s": 2
+   },
+   {
+    "id": "rage-against-the-machine",
+    "why": "Wolstenholme's heavy, riff-driven bass lines share Rage's attack.",
+    "s": 1
+   },
+   {
+    "id": "smashing-pumpkins",
+    "why": "Big walls of guitar with tender quiet sections mirror the Pumpkins' dynamics.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-mars-volta",
+    "why": "Virtuosic, maximal rock with prog ambition."
+   },
+   {
+    "id": "dream-theater",
+    "why": "Classical-leaning prog played with metal force."
+   },
+   {
+    "id": "sleep-token",
+    "why": "Theatrical, genre-blending heavy music aimed at big rooms."
+   }
+  ]
+ },
+ {
+  "id": "jethro-tull",
+  "years": "1967–present",
+  "origin": "Blackpool, England",
+  "genres": [
+   "progressive rock",
+   "folk rock",
+   "blues rock"
+  ],
+  "summary": "Jethro Tull is Ian Anderson's band, known for lead flute, English folk melodies and long progressive pieces. They moved from the British blues boom into concept albums and folk rock.",
+  "know": [
+   "Ian Anderson's flute playing, often while standing on one leg, became the band's signature.",
+   "Thick as a Brick is a single album-length song presented as a parody of concept albums.",
+   "Crest of a Knave won the first Grammy for Best Hard Rock/Metal Performance in 1989."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Stand Up",
+    1969
+   ],
+   [
+    "Aqualung",
+    1971
+   ],
+   [
+    "Thick as a Brick",
+    1972
+   ],
+   [
+    "Songs from the Wood",
+    1977
+   ]
+  ],
+  "songs": [
+   "Living in the Past",
+   "Aqualung",
+   "Locomotive Breath",
+   "Thick as a Brick",
+   "Bungle in the Jungle"
+  ],
+  "influencedBy": [
+   {
+    "id": "john-mayall-and-the-bluesbreakers",
+    "why": "Tull began in the same British blues club circuit that Mayall's band led.",
+    "s": 1
+   },
+   {
+    "id": "muddy-waters",
+    "why": "Their first album This Was is built largely on Chicago blues forms.",
+    "s": 1
+   },
+   {
+    "id": "fairport-convention",
+    "why": "The English folk rock that Fairport pioneered fed Tull's later folk turn, and Fairport's Dave Pegg later joined Tull.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "iron-maiden",
+    "why": "Steve Harris has named Tull as a major influence, and Maiden covered Cross-Eyed Mary.",
+    "s": 3
+   },
+   {
+    "id": "opeth",
+    "why": "Mikael Akerfeldt has cited Tull's folk-prog writing as an influence on Opeth's quieter side.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "fairport-convention",
+    "why": "Traditional English melody fused with electric rock."
+   },
+   {
+    "id": "the-chieftains",
+    "why": "Flute and whistle as lead voices in a folk setting."
+   }
+  ]
+ },
+ {
+  "id": "emerson-lake-and-palmer",
+  "years": "1970–2010",
+  "origin": "London, England",
+  "genres": [
+   "progressive rock",
+   "symphonic rock"
+  ],
+  "summary": "Emerson, Lake & Palmer was a keyboard-led trio that adapted classical works and wrote long suites for rock band. Keith Emerson's organ and Moog playing defined much of 1970s progressive rock.",
+  "know": [
+   "The members came from the Nice, King Crimson and Atomic Rooster.",
+   "Lucky Man ends with one of the first well-known Moog synthesizer solos on a rock hit.",
+   "They recorded rock versions of Mussorgsky's Pictures at an Exhibition and Copland's Fanfare for the Common Man."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Emerson, Lake & Palmer",
+    1970
+   ],
+   [
+    "Tarkus",
+    1971
+   ],
+   [
+    "Pictures at an Exhibition",
+    1971
+   ],
+   [
+    "Brain Salad Surgery",
+    1973
+   ]
+  ],
+  "songs": [
+   "Lucky Man",
+   "From the Beginning",
+   "Karn Evil 9",
+   "Tarkus",
+   "Fanfare for the Common Man"
+  ],
+  "influencedBy": [
+   {
+    "id": "king-crimson",
+    "why": "Greg Lake sang and played bass on King Crimson's debut before forming ELP.",
+    "s": 3
+   },
+   {
+    "id": "dave-brubeck",
+    "why": "Emerson's earlier band the Nice built its Rondo on Brubeck's Blue Rondo a la Turk.",
+    "s": 2
+   },
+   {
+    "id": "procol-harum",
+    "why": "Procol Harum showed that classical themes and organ could carry a rock hit.",
+    "s": 1
+   },
+   {
+    "id": "the-moody-blues",
+    "why": "The Moody Blues' orchestral rock pointed toward ELP's symphonic scale.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "dream-theater",
+    "why": "Keyboardist Jordan Rudess has named Emerson as a key influence on his playing.",
+    "s": 2
+   },
+   {
+    "id": "rush",
+    "why": "Rush's long multi-part suites of the mid-1970s followed the path ELP laid out.",
+    "s": 1
+   },
+   {
+    "id": "kansas",
+    "why": "Kansas's keyboard-heavy American prog draws on ELP's style.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "wendy-carlos",
+    "why": "Classical repertoire reimagined on the Moog synthesizer."
+   },
+   {
+    "id": "vangelis",
+    "why": "Grand, keyboard-built music with classical scale."
+   }
+  ]
+ },
+ {
+  "id": "camel",
+  "years": "1971–present",
+  "origin": "Guildford, England",
+  "genres": [
+   "progressive rock",
+   "symphonic rock",
+   "instrumental rock"
+  ],
+  "summary": "Camel is a melodic English progressive rock band led by guitarist and flautist Andrew Latimer. Their mostly instrumental 1970s albums favor lyrical guitar lines and atmosphere over showy complexity.",
+  "know": [
+   "Andrew Latimer has been the one constant member across the band's history.",
+   "The Snow Goose is an instrumental album based on Paul Gallico's novella, later performed with the London Symphony Orchestra at the Royal Albert Hall.",
+   "Bassist and singer Richard Sinclair of Caravan joined in 1977."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Mirage",
+    1974
+   ],
+   [
+    "The Snow Goose",
+    1975
+   ],
+   [
+    "Moonmadness",
+    1976
+   ],
+   [
+    "Rain Dances",
+    1977
+   ]
+  ],
+  "songs": [
+   "Lady Fantasy",
+   "Rhayader",
+   "Song Within a Song",
+   "Never Let Go",
+   "Ice"
+  ],
+  "influencedBy": [
+   {
+    "id": "pink-floyd",
+    "why": "Latimer's slow, sustained guitar tone sits close to David Gilmour's.",
+    "s": 1
+   },
+   {
+    "id": "caravan",
+    "why": "Camel shares the gentle, jazz-tinged Canterbury feel, and later hired Caravan's Richard Sinclair.",
+    "s": 1
+   },
+   {
+    "id": "yes",
+    "why": "Long symphonic arrangements on Mirage follow the path Yes opened.",
+    "s": 1
+   },
+   {
+    "id": "king-crimson",
+    "why": "Mellotron textures and extended instrumentals trace back to King Crimson's debut.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "opeth",
+    "why": "Mikael Akerfeldt has named Camel as a favorite, and their melodic prog shows in Opeth's softer work.",
+    "s": 2
+   },
+   {
+    "id": "marillion",
+    "why": "Marillion's melodic neo-prog guitar leads echo Latimer's style.",
+    "s": 1
+   },
+   {
+    "id": "porcupine-tree",
+    "why": "Steven Wilson's atmospheric instrumental passages draw on Camel-style melodic prog.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "mogwai",
+    "why": "Mostly instrumental music built on mood and slow build."
+   },
+   {
+    "id": "sigur-ros",
+    "why": "Wide, melodic soundscapes that tell a story without many words."
+   }
+  ]
+ },
+ {
+  "id": "gentle-giant",
+  "years": "1970–1980",
+  "origin": "Portsmouth, England",
+  "genres": [
+   "progressive rock",
+   "art rock"
+  ],
+  "summary": "Gentle Giant was a progressive rock band of multi-instrumentalists known for intricate counterpoint, medieval-style vocal harmony and sudden shifts in meter. They are a musicians' favorite for their compositional density.",
+  "know": [
+   "The Shulman brothers Derek, Ray and Phil had earlier been in the pop group Simon Dupree and the Big Sound.",
+   "Members switched among dozens of instruments on stage, including violin, cello, recorder and vibraphone.",
+   "On Reflection and Knots use overlapping vocal lines modeled on Renaissance madrigals."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Acquiring the Taste",
+    1971
+   ],
+   [
+    "Octopus",
+    1972
+   ],
+   [
+    "In a Glass House",
+    1973
+   ],
+   [
+    "Free Hand",
+    1975
+   ]
+  ],
+  "songs": [
+   "Knots",
+   "Funny Ways",
+   "Proclamation",
+   "On Reflection",
+   "Free Hand"
+  ],
+  "influencedBy": [
+   {
+    "id": "king-crimson",
+    "why": "King Crimson's debut showed the band how far rock structure could stretch.",
+    "s": 1
+   },
+   {
+    "id": "frank-zappa",
+    "why": "Zappa's tightly written, rhythmically tricky rock is a close cousin to their writing.",
+    "s": 1
+   },
+   {
+    "id": "the-beatles",
+    "why": "The Shulmans came out of the 1960s pop world shaped by the Beatles' studio experiments.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "dream-theater",
+    "why": "Mike Portnoy and other Dream Theater members have praised Gentle Giant's complex writing.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "jacob-collier",
+    "why": "Dense, intricate vocal harmony and multi-instrumental arranging."
+   },
+   {
+    "id": "battles",
+    "why": "Interlocking parts that click together like clockwork."
+   }
+  ]
+ },
+ {
+  "id": "van-der-graaf-generator",
+  "years": "1967–present",
+  "origin": "Manchester, England",
+  "genres": [
+   "progressive rock",
+   "art rock"
+  ],
+  "summary": "Van der Graaf Generator is Peter Hammill's band, a darker and more abrasive strand of progressive rock built on organ, saxophone and intense vocals. They were a key influence on later punk and post-punk singers.",
+  "know": [
+   "The band formed at the University of Manchester around singer and writer Peter Hammill.",
+   "Robert Fripp played guitar as a guest on H to He, Who Am the Only One and Pawn Hearts.",
+   "David Jackson often played two saxophones at once through effects pedals."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Least We Can Do Is Wave to Each Other",
+    1970
+   ],
+   [
+    "H to He, Who Am the Only One",
+    1970
+   ],
+   [
+    "Pawn Hearts",
+    1971
+   ],
+   [
+    "Godbluff",
+    1975
+   ]
+  ],
+  "songs": [
+   "Refugees",
+   "Killer",
+   "Man-Erg",
+   "A Plague of Lighthouse Keepers",
+   "Theme One"
+  ],
+  "influencedBy": [
+   {
+    "id": "king-crimson",
+    "why": "King Crimson's heavy art rock was a close model, and Robert Fripp guested on two albums.",
+    "s": 2
+   },
+   {
+    "id": "procol-harum",
+    "why": "Procol Harum's organ-led, dramatic rock set an early template for Hugh Banton's playing.",
+    "s": 1
+   },
+   {
+    "id": "pink-floyd",
+    "why": "They came up in the late-1960s English underground that early Pink Floyd defined.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "sex-pistols",
+    "why": "John Lydon has spoken often of his admiration for Peter Hammill's records.",
+    "s": 2
+   },
+   {
+    "id": "marillion",
+    "why": "Fish has cited Hammill as a major influence on his theatrical singing.",
+    "s": 2
+   },
+   {
+    "id": "opeth",
+    "why": "Mikael Akerfeldt has named Van der Graaf as a key influence on Opeth's darker prog.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "nick-cave",
+    "why": "Intense, dramatic vocals over dark, building music."
+   },
+   {
+    "id": "bauhaus",
+    "why": "Gothic theater and abrasive textures."
+   }
+  ]
+ },
+ {
+  "id": "soft-machine",
+  "years": "1966–1981",
+  "origin": "Canterbury, England",
+  "genres": [
+   "progressive rock",
+   "jazz fusion",
+   "psychedelic rock"
+  ],
+  "summary": "Soft Machine was the founding band of the Canterbury scene, moving from psychedelic pop to long, jazz-based instrumental pieces. They were among the first British rock bands to fully embrace jazz improvisation.",
+  "know": [
+   "Early members included Robert Wyatt, Kevin Ayers, Mike Ratledge and Daevid Allen.",
+   "They supported the Jimi Hendrix Experience on its 1968 North American tour.",
+   "Third is a double album made of four side-long pieces."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Soft Machine",
+    1968
+   ],
+   [
+    "Volume Two",
+    1969
+   ],
+   [
+    "Third",
+    1970
+   ],
+   [
+    "Fourth",
+    1971
+   ]
+  ],
+  "songs": [
+   "Moon in June",
+   "Slightly All the Time",
+   "Facelift",
+   "Hope for Happiness",
+   "Why Are We Sleeping?"
+  ],
+  "influencedBy": [
+   {
+    "id": "miles-davis",
+    "why": "Their turn to electric jazz around Third followed the same direction as Miles Davis.",
+    "s": 2
+   },
+   {
+    "id": "john-coltrane",
+    "why": "Long modal improvisation in their instrumentals draws on Coltrane.",
+    "s": 1
+   },
+   {
+    "id": "ornette-coleman",
+    "why": "Free jazz shaped Elton Dean's and Ratledge's more open playing.",
+    "s": 1
+   },
+   {
+    "id": "the-beatles",
+    "why": "Their first psychedelic pop songs grew out of the Beatles era.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "caravan",
+    "why": "Caravan came out of the same Wilde Flowers circle and shared players and ideas.",
+    "s": 3
+   },
+   {
+    "id": "mike-oldfield",
+    "why": "Oldfield played bass in former member Kevin Ayers's band before Tubular Bells.",
+    "s": 2
+   },
+   {
+    "id": "camel",
+    "why": "Camel absorbed the jazz-leaning Canterbury sound Soft Machine started.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "weather-report",
+    "why": "Electric jazz built on long group pieces."
+   },
+   {
+    "id": "tortoise",
+    "why": "Instrumental rock that borrows jazz structure."
+   }
+  ]
+ },
+ {
+  "id": "caravan",
+  "years": "1968–present",
+  "origin": "Canterbury, England",
+  "genres": [
+   "progressive rock",
+   "Canterbury scene",
+   "psychedelic rock"
+  ],
+  "summary": "Caravan is a Canterbury band known for gentle, whimsical songs that open into long jazz-flavored instrumental passages. In the Land of Grey and Pink is a defining record of the scene.",
+  "know": [
+   "The band formed from the Wilde Flowers with Pye Hastings, Richard and David Sinclair and Richard Coughlan.",
+   "Nine Feet Underground fills a whole side of In the Land of Grey and Pink.",
+   "Richard Sinclair later joined Camel."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "If I Could Do It All Over Again, I'd Do It All Over You",
+    1970
+   ],
+   [
+    "In the Land of Grey and Pink",
+    1971
+   ],
+   [
+    "Waterloo Lily",
+    1972
+   ],
+   [
+    "For Girls Who Grow Plump in the Night",
+    1973
+   ]
+  ],
+  "songs": [
+   "Golf Girl",
+   "Nine Feet Underground",
+   "In the Land of Grey and Pink",
+   "For Richard",
+   "Memory Lain, Hugh"
+  ],
+  "influencedBy": [
+   {
+    "id": "soft-machine",
+    "why": "Caravan and Soft Machine both grew out of the Wilde Flowers and shared members.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "Their melodic, quirky English songwriting draws on 1960s Beatles pop.",
+    "s": 1
+   },
+   {
+    "id": "pink-floyd",
+    "why": "Early Pink Floyd's whimsical English psychedelia fed Caravan's sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "camel",
+    "why": "Camel took on Caravan's gentle Canterbury feel and later hired Richard Sinclair.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "nick-drake",
+    "why": "Soft English voice with quiet, pastoral songwriting."
+   },
+   {
+    "id": "air",
+    "why": "Gentle, whimsical keyboard-led melody."
+   }
+  ]
+ },
+ {
+  "id": "procol-harum",
+  "years": "1967–2022",
+  "origin": "Southend-on-Sea, England",
+  "genres": [
+   "baroque rock",
+   "progressive rock",
+   "blues rock"
+  ],
+  "summary": "Procol Harum combined Gary Brooker's soulful piano and voice, Hammond organ and Keith Reid's lyrics into a stately, classical-tinged rock. Their debut single became one of the most played songs of the 1960s.",
+  "know": [
+   "Lyricist Keith Reid was a full member of the band even though he did not perform.",
+   "A Whiter Shade of Pale borrows the feel of Bach's Air on the G String.",
+   "Organist Matthew Fisher won a share of the song's writing credit in a 2009 House of Lords ruling."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Procol Harum",
+    1967
+   ],
+   [
+    "Shine On Brightly",
+    1968
+   ],
+   [
+    "A Salty Dog",
+    1969
+   ],
+   [
+    "Grand Hotel",
+    1973
+   ]
+  ],
+  "songs": [
+   "A Whiter Shade of Pale",
+   "Homburg",
+   "A Salty Dog",
+   "Conquistador",
+   "Grand Hotel"
+  ],
+  "influencedBy": [
+   {
+    "id": "ray-charles",
+    "why": "Gary Brooker's earlier band the Paramounts played R&B, and his gospel-soul singing comes from Ray Charles.",
+    "s": 2
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Keith Reid's surreal, literary lyrics follow Dylan's mid-1960s writing.",
+    "s": 1
+   },
+   {
+    "id": "the-beatles",
+    "why": "The band emerged in the post-Sgt. Pepper moment when pop took on classical color.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "genesis",
+    "why": "Genesis members have named Procol Harum's organ and piano sound as an early influence.",
+    "s": 2
+   },
+   {
+    "id": "deep-purple",
+    "why": "Jon Lord's classical-leaning Hammond playing follows the path Matthew Fisher opened.",
+    "s": 1
+   },
+   {
+    "id": "emerson-lake-and-palmer",
+    "why": "Procol Harum proved classical themes could carry a rock hit, a lesson ELP built on.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "booker-t",
+    "why": "Hammond organ as the heart of the record."
+   },
+   {
+    "id": "percy-sledge",
+    "why": "A slow, organ-led soul ballad feel."
+   }
+  ]
+ },
+ {
+  "id": "the-moody-blues",
+  "years": "1964–2018",
+  "origin": "Birmingham, England",
+  "genres": [
+   "symphonic rock",
+   "progressive rock",
+   "psychedelic rock"
+  ],
+  "summary": "The Moody Blues began as an R&B beat group and reinvented themselves as pioneers of orchestral, Mellotron-based rock. Days of Future Passed helped launch the idea of the rock concept album.",
+  "know": [
+   "Their 1964 single Go Now, sung by Denny Laine, reached number one in the UK.",
+   "Days of Future Passed was recorded with the London Festival Orchestra.",
+   "Mike Pinder's Mellotron gave the band its sweeping string-like sound on stage."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Days of Future Passed",
+    1967
+   ],
+   [
+    "In Search of the Lost Chord",
+    1968
+   ],
+   [
+    "On the Threshold of a Dream",
+    1969
+   ],
+   [
+    "Seventh Sojourn",
+    1972
+   ]
+  ],
+  "songs": [
+   "Go Now",
+   "Nights in White Satin",
+   "Tuesday Afternoon",
+   "Question",
+   "I'm Just a Singer (In a Rock and Roll Band)"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "Their move into lush studio concept records came in the wake of the Beatles' 1967 work.",
+    "s": 1
+   },
+   {
+    "id": "the-animals",
+    "why": "They started in the same R&B beat-group scene as the Animals.",
+    "s": 1
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "They began as an R&B beat group in the same scene the Stones led.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "electric-light-orchestra",
+    "why": "ELO's orchestral rock came out of the same Birmingham scene the Moody Blues led.",
+    "s": 2
+   },
+   {
+    "id": "yes",
+    "why": "Yes followed the Moody Blues in pairing rock with symphonic texture.",
+    "s": 1
+   },
+   {
+    "id": "genesis",
+    "why": "Genesis used the Mellotron in the way the Moody Blues made popular.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "burt-bacharach",
+    "why": "Lush, orchestral pop arrangements."
+   },
+   {
+    "id": "the-beach-boys",
+    "why": "Grand, layered studio pop with a spiritual bent."
+   }
+  ]
+ },
+ {
+  "id": "supertramp",
+  "years": "1969–2012",
+  "origin": "London, England",
+  "genres": [
+   "progressive rock",
+   "art pop",
+   "soft rock"
+  ],
+  "summary": "Supertramp blended progressive rock structure with tight pop hooks, built around Wurlitzer electric piano and two contrasting songwriters. Breakfast in America made them one of the best-selling bands of the late 1970s.",
+  "know": [
+   "Their early years were funded by Dutch patron Stanley August Miesegaes.",
+   "Rick Davies and Roger Hodgson wrote separately and sang their own songs in very different voices.",
+   "Breakfast in America won Grammys for Best Engineered Recording and Best Album Package."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Crime of the Century",
+    1974
+   ],
+   [
+    "Crisis? What Crisis?",
+    1975
+   ],
+   [
+    "Even in the Quietest Moments...",
+    1977
+   ],
+   [
+    "Breakfast in America",
+    1979
+   ]
+  ],
+  "songs": [
+   "Dreamer",
+   "Bloody Well Right",
+   "Give a Little Bit",
+   "The Logical Song",
+   "Goodbye Stranger",
+   "Take the Long Way Home"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "Hodgson's bright, melodic songs follow the Beatles' pop craft.",
+    "s": 2
+   },
+   {
+    "id": "ray-charles",
+    "why": "Rick Davies's blues and R&B keyboard style traces back to Ray Charles.",
+    "s": 1
+   },
+   {
+    "id": "procol-harum",
+    "why": "Keyboard-led English art rock with strong melodies follows Procol Harum.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "billy-joel",
+    "why": "Piano-driven rock songs with big choruses."
+   },
+   {
+    "id": "elton-john",
+    "why": "Keyboard-led 1970s pop rock with art-rock touches."
+   }
+  ]
+ },
+ {
+  "id": "kansas",
+  "years": "1973–present",
+  "origin": "Topeka, Kansas",
+  "genres": [
+   "progressive rock",
+   "arena rock",
+   "hard rock"
+  ],
+  "summary": "Kansas brought British-style progressive rock to the American heartland, adding violin and boogie-rock power. Carry On Wayward Son and Dust in the Wind made them a fixture of classic rock radio.",
+  "know": [
+   "Robbie Steinhardt's violin was a lead voice alongside guitars and keyboards.",
+   "Kerry Livgren wrote most of their best-known songs.",
+   "Dust in the Wind grew out of a fingerpicking exercise Livgren was practicing."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Kansas",
+    1974
+   ],
+   [
+    "Leftoverture",
+    1976
+   ],
+   [
+    "Point of Know Return",
+    1977
+   ],
+   [
+    "Monolith",
+    1979
+   ]
+  ],
+  "songs": [
+   "Carry On Wayward Son",
+   "Dust in the Wind",
+   "Point of Know Return",
+   "Song for America",
+   "The Wall"
+  ],
+  "influencedBy": [
+   {
+    "id": "yes",
+    "why": "Kansas's long, multi-part pieces follow the symphonic prog of Yes.",
+    "s": 2
+   },
+   {
+    "id": "genesis",
+    "why": "Genesis's keyboard-driven writing shaped Kansas's mid-1970s albums.",
+    "s": 2
+   },
+   {
+    "id": "emerson-lake-and-palmer",
+    "why": "Steve Walsh's organ and synth work draws on Keith Emerson.",
+    "s": 1
+   },
+   {
+    "id": "king-crimson",
+    "why": "King Crimson's heavy prog set an early model for the band.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "dream-theater",
+    "why": "Dream Theater's American prog metal follows Kansas in blending prog with radio-friendly hard rock.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "alison-krauss",
+    "why": "Fiddle as a lead voice with clear, high vocals."
+   },
+   {
+    "id": "bela-fleck",
+    "why": "Virtuosic, genre-crossing playing rooted in American music."
+   }
+  ]
+ },
+ {
+  "id": "the-alan-parsons-project",
+  "years": "1975–1990",
+  "origin": "London, England",
+  "genres": [
+   "progressive rock",
+   "art rock",
+   "soft rock"
+  ],
+  "summary": "The Alan Parsons Project paired Abbey Road engineer Alan Parsons with songwriter Eric Woolfson to make polished, concept-driven studio albums. Parsons's engineering on records by the Beatles and Pink Floyd set a high standard for rock sound.",
+  "know": [
+   "Alan Parsons worked as an engineer on the Beatles' Abbey Road and Pink Floyd's The Dark Side of the Moon.",
+   "The Project used a rotating cast of guest singers instead of a fixed frontman.",
+   "The instrumental Sirius became a common arena intro, notably for the Chicago Bulls."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Dark Side of the Moon (Pink Floyd)",
+    1973
+   ],
+   [
+    "Tales of Mystery and Imagination",
+    1976
+   ],
+   [
+    "I Robot",
+    1977
+   ],
+   [
+    "Eye in the Sky",
+    1982
+   ]
+  ],
+  "songs": [
+   "Eye in the Sky",
+   "Games People Play",
+   "(The System of) Doctor Tarr and Professor Fether",
+   "I Wouldn't Want to Be Like You",
+   "Sirius"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "Parsons learned his craft as an assistant engineer on the Beatles' last sessions at Abbey Road.",
+    "s": 3
+   },
+   {
+    "id": "george-martin",
+    "why": "Parsons worked under George Martin's production approach at Abbey Road.",
+    "s": 2
+   },
+   {
+    "id": "pink-floyd",
+    "why": "Engineering Dark Side of the Moon shaped the Project's polished, conceptual sound.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "pink-floyd",
+    "why": "Engineered The Dark Side of the Moon and shaped its clear, detailed sound.",
+    "s": 3
+   },
+   {
+    "id": "the-hollies",
+    "why": "Engineered The Air That I Breathe, one of the Hollies' biggest late hits.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "giorgio-moroder",
+    "why": "Producer-led records built on studio polish."
+   },
+   {
+    "id": "jean-michel-jarre",
+    "why": "Concept albums built around synthesizers and sound design."
+   },
+   {
+    "id": "vangelis",
+    "why": "Grand, cinematic studio music."
+   }
+  ]
+ },
+ {
+  "id": "mike-oldfield",
+  "years": "1968–present",
+  "origin": "Reading, England",
+  "genres": [
+   "progressive rock",
+   "ambient",
+   "new age"
+  ],
+  "summary": "Mike Oldfield is an English multi-instrumentalist best known for Tubular Bells, a long instrumental piece he built almost entirely by overdubbing himself. It launched Virgin Records and helped create the market for instrumental rock albums.",
+  "know": [
+   "He played bass and guitar in Kevin Ayers's band the Whole World as a teenager.",
+   "Tubular Bells was the first album released on Virgin Records in 1973.",
+   "The opening of Tubular Bells became widely known after its use in the film The Exorcist."
+  ],
+  "born": "05-15",
+  "keyAlbums": [
+   [
+    "Tubular Bells",
+    1973
+   ],
+   [
+    "Hergest Ridge",
+    1974
+   ],
+   [
+    "Ommadawn",
+    1975
+   ],
+   [
+    "Tubular Bells II",
+    1992
+   ]
+  ],
+  "songs": [
+   "Tubular Bells (Part One)",
+   "Moonlight Shadow",
+   "Ommadawn (Part One)",
+   "To France",
+   "Portsmouth"
+  ],
+  "influencedBy": [
+   {
+    "id": "soft-machine",
+    "why": "Former Soft Machine member Kevin Ayers took Oldfield into his band and encouraged his early writing.",
+    "s": 3
+   },
+   {
+    "id": "fairport-convention",
+    "why": "English folk rock fed the folk melodies and Celtic textures of Hergest Ridge and Ommadawn.",
+    "s": 1
+   },
+   {
+    "id": "bert-jansch",
+    "why": "Oldfield's early folk guitar in the Sallyangie draws on Bert Jansch.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "enya",
+    "why": "Enya's layered, multi-tracked Celtic instrumentals follow the path of Ommadawn.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "brian-eno",
+    "why": "Long-form instrumental music built in the studio."
+   },
+   {
+    "id": "jean-michel-jarre",
+    "why": "Instrumental albums that became mainstream hits."
+   },
+   {
+    "id": "clannad",
+    "why": "Celtic melody in a modern, layered setting."
+   }
+  ]
+ },
+ {
+  "id": "peter-gabriel",
+  "years": "1967–present",
+  "origin": "Chobham, England",
+  "genres": [
+   "art rock",
+   "progressive rock",
+   "worldbeat"
+  ],
+  "summary": "Peter Gabriel was the original singer of Genesis and then a solo artist who mixed art rock, soul and music from around the world. His 1980s records changed pop production and helped bring African and Asian musicians to wider audiences.",
+  "know": [
+   "He left Genesis in 1975 after the tour for The Lamb Lies Down on Broadway.",
+   "His third solo album helped introduce the gated-reverb drum sound, recorded with Hugh Padgham and Phil Collins.",
+   "He co-founded the WOMAD festival in 1982 and later the Real World label and studios."
+  ],
+  "born": "02-13",
+  "keyAlbums": [
+   [
+    "Peter Gabriel (Melt)",
+    1980
+   ],
+   [
+    "Security",
+    1982
+   ],
+   [
+    "So",
+    1986
+   ],
+   [
+    "Us",
+    1992
+   ]
+  ],
+  "songs": [
+   "Solsbury Hill",
+   "Games Without Frontiers",
+   "Sledgehammer",
+   "In Your Eyes",
+   "Don't Give Up"
+  ],
+  "influencedBy": [
+   {
+    "id": "genesis",
+    "why": "Gabriel was Genesis's singer and a core writer for its first six albums.",
+    "s": 3
+   },
+   {
+    "id": "otis-redding",
+    "why": "Gabriel has named 1960s soul singers like Otis Redding as models, heard in Sledgehammer's horns.",
+    "s": 2
+   },
+   {
+    "id": "daniel-lanois",
+    "why": "Lanois co-produced So and Us and shaped their warm, textured sound.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "The Beatles were a key early influence on his songwriting.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "kate-bush",
+    "why": "Bush sang on Games Without Frontiers and Don't Give Up, and his studio experiments ran alongside her own.",
+    "s": 1
+   },
+   {
+    "id": "tears-for-fears",
+    "why": "Tears for Fears drew on Gabriel's third album for their early art-pop sound.",
+    "s": 2
+   },
+   {
+    "id": "vampire-weekend",
+    "why": "Vampire Weekend's African-influenced guitar pop owes a clear debt to Gabriel's world-music records.",
+    "s": 2
+   },
+   {
+    "id": "marillion",
+    "why": "Fish has named Gabriel's Genesis-era theater as a model for his own stage persona.",
+    "s": 2
+   },
+   {
+    "id": "youssou-ndour",
+    "why": "Brought him onto In Your Eyes and the So tour, introducing him to rock audiences.",
+    "s": 2
+   },
+   {
+    "id": "nusrat-fateh-ali-khan",
+    "why": "Released his Real World albums, which carried qawwali to new Western listeners.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "talking-heads",
+    "why": "Art rock built on African and global rhythms."
+   },
+   {
+    "id": "bjork",
+    "why": "Restless, studio-driven pop with strong visual ideas."
+   }
+  ]
+ },
+ {
+  "id": "marillion",
+  "years": "1979–present",
+  "origin": "Aylesbury, England",
+  "genres": [
+   "neo-progressive rock",
+   "progressive rock",
+   "art rock"
+  ],
+  "summary": "Marillion led the 1980s revival of progressive rock, first with the theatrical Fish and then with Steve Hogarth. They later pioneered fan-funded recording.",
+  "know": [
+   "Singer Fish fronted the band until 1988, when Steve Hogarth took over.",
+   "Kayleigh reached number two in the UK in 1985.",
+   "Fans paid in advance to fund the making of Anoraknophobia, an early example of crowdfunding."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Script for a Jester's Tear",
+    1983
+   ],
+   [
+    "Misplaced Childhood",
+    1985
+   ],
+   [
+    "Brave",
+    1994
+   ],
+   [
+    "Marbles",
+    2004
+   ]
+  ],
+  "songs": [
+   "Market Square Heroes",
+   "Garden Party",
+   "Kayleigh",
+   "Lavender",
+   "Easter",
+   "Neverland"
+  ],
+  "influencedBy": [
+   {
+    "id": "genesis",
+    "why": "Marillion's early sound draws directly on Gabriel-era Genesis.",
+    "s": 2
+   },
+   {
+    "id": "peter-gabriel",
+    "why": "Fish modeled his theatrical singing and stagecraft partly on Gabriel.",
+    "s": 2
+   },
+   {
+    "id": "van-der-graaf-generator",
+    "why": "Fish has cited Peter Hammill as a major influence.",
+    "s": 2
+   },
+   {
+    "id": "pink-floyd",
+    "why": "Steve Rothery's sustained guitar leads draw on David Gilmour.",
+    "s": 2
+   },
+   {
+    "id": "camel",
+    "why": "Melodic neo-prog guitar lines echo Camel's style.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "tears-for-fears",
+    "why": "Big, emotional 1980s songs with prog-sized ambition."
+   },
+   {
+    "id": "the-cure",
+    "why": "Atmospheric, emotional guitar music with long builds."
+   }
+  ]
+ },
+ {
+  "id": "porcupine-tree",
+  "years": "1987–present",
+  "origin": "Hemel Hempstead, England",
+  "genres": [
+   "progressive rock",
+   "psychedelic rock",
+   "progressive metal"
+  ],
+  "summary": "Porcupine Tree is Steven Wilson's band, which moved from psychedelic space rock to a sharper mix of prog, pop melody and metal weight. They became a central band of 2000s progressive rock.",
+  "know": [
+   "The band began as a Steven Wilson solo project with an invented backstory.",
+   "Drummer Gavin Harrison joined in 2002 for In Absentia.",
+   "Wilson produced Opeth's Blackwater Park and later remixed many classic prog catalogs."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Sky Moves Sideways",
+    1995
+   ],
+   [
+    "Stupid Dream",
+    1999
+   ],
+   [
+    "In Absentia",
+    2002
+   ],
+   [
+    "Fear of a Blank Planet",
+    2007
+   ]
+  ],
+  "songs": [
+   "Trains",
+   "Blackest Eyes",
+   "Lazarus",
+   "Fear of a Blank Planet",
+   "Arriving Somewhere but Not Here"
+  ],
+  "influencedBy": [
+   {
+    "id": "pink-floyd",
+    "why": "Their early space rock and long atmospheric pieces draw heavily on Pink Floyd.",
+    "s": 2
+   },
+   {
+    "id": "king-crimson",
+    "why": "Wilson has cited King Crimson as a core influence, and later remixed its catalog.",
+    "s": 2
+   },
+   {
+    "id": "meshuggah",
+    "why": "Wilson pointed to Meshuggah's heaviness when the band added metal weight on In Absentia.",
+    "s": 2
+   },
+   {
+    "id": "tangerine-dream",
+    "why": "The band's early synth-heavy ambient passages draw on Tangerine Dream.",
+    "s": 1
+   },
+   {
+    "id": "camel",
+    "why": "Melodic, atmospheric guitar prog shaped Wilson's writing.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "opeth",
+    "why": "Steven Wilson produced Blackwater Park, Deliverance and Damnation and shaped Opeth's mix of heavy and soft.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "sigur-ros",
+    "why": "Slow-building, atmospheric music with emotional weight."
+   },
+   {
+    "id": "radiohead",
+    "why": "Melancholy art rock that mixes rock and electronics."
+   },
+   {
+    "id": "massive-attack",
+    "why": "Dark, layered studio atmosphere."
+   }
+  ]
+ },
+ {
+  "id": "hawkwind",
+  "years": "1969–present",
+  "origin": "London, England",
+  "genres": [
+   "space rock",
+   "psychedelic rock",
+   "proto-punk"
+  ],
+  "summary": "Hawkwind is the founding band of space rock, led by Dave Brock, built on droning riffs, electronic effects and science-fiction themes. Their raw, repetitive sound fed directly into punk and heavy metal.",
+  "know": [
+   "Lemmy played bass with the band from 1971 to 1975 before forming Motorhead.",
+   "Silver Machine, sung by Lemmy, reached number three in the UK in 1972.",
+   "Science-fiction writer Michael Moorcock wrote and performed with the band."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "In Search of Space",
+    1971
+   ],
+   [
+    "Doremi Fasol Latido",
+    1972
+   ],
+   [
+    "Space Ritual",
+    1973
+   ],
+   [
+    "Warrior on the Edge of Time",
+    1975
+   ]
+  ],
+  "songs": [
+   "Silver Machine",
+   "Master of the Universe",
+   "Brainstorm",
+   "Spirit of the Age",
+   "Hurry on Sundown"
+  ],
+  "influencedBy": [
+   {
+    "id": "pink-floyd",
+    "why": "Early Pink Floyd's space-themed psychedelia set the scene for Hawkwind.",
+    "s": 1
+   },
+   {
+    "id": "can",
+    "why": "Hawkwind's long, locked repetitive grooves share Can's approach.",
+    "s": 1
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "Hendrix's feedback and effects pointed toward Hawkwind's electronic noise.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "motorhead",
+    "why": "Lemmy formed Motorhead after his years as Hawkwind's bassist, carrying over the band's drive.",
+    "s": 3
+   },
+   {
+    "id": "sleep",
+    "why": "Sleep has named Hawkwind as a key influence on its long, droning stoner riffs.",
+    "s": 2
+   },
+   {
+    "id": "spacemen-3",
+    "why": "Spacemen 3's drone-based space rock follows Hawkwind's repetition.",
+    "s": 1
+   },
+   {
+    "id": "kyuss",
+    "why": "Kyuss's desert rock jams draw on Hawkwind's heavy space rock.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "sun-ra",
+    "why": "Cosmic themes and freeform, otherworldly sound."
+   },
+   {
+    "id": "tangerine-dream",
+    "why": "Electronic space music built on long sequences."
+   }
+  ]
+ },
+ {
+  "id": "john-mayall-and-the-bluesbreakers",
+  "years": "1963–2022",
+  "origin": "London, England",
+  "genres": [
+   "British blues",
+   "blues rock"
+  ],
+  "summary": "John Mayall's Bluesbreakers were the training ground of British blues, with a rotating lineup that launched many major guitarists and rhythm sections. Mayall's devotion to Chicago blues set the standard for the 1960s British blues boom.",
+  "know": [
+   "Alumni include Eric Clapton, Peter Green, Mick Taylor, John McVie and Mick Fleetwood.",
+   "Blues Breakers with Eric Clapton, nicknamed the Beano album, made Clapton's loud Les Paul tone famous.",
+   "The Turning Point was recorded live with no drummer, using acoustic guitar, flute and saxophone."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Blues Breakers with Eric Clapton",
+    1966
+   ],
+   [
+    "A Hard Road",
+    1967
+   ],
+   [
+    "Bare Wires",
+    1968
+   ],
+   [
+    "The Turning Point",
+    1969
+   ]
+  ],
+  "songs": [
+   "All Your Love",
+   "Hideaway",
+   "Have You Ever Loved a Woman",
+   "The Super-Natural",
+   "Room to Move"
+  ],
+  "influencedBy": [
+   {
+    "id": "alexis-korner",
+    "why": "Korner encouraged Mayall to move to London and turn professional.",
+    "s": 3
+   },
+   {
+    "id": "freddie-king",
+    "why": "The band's version of Hideaway brought Freddie King's instrumental to British players.",
+    "s": 2
+   },
+   {
+    "id": "buddy-guy",
+    "why": "Chicago West Side guitarists like Buddy Guy shaped the guitar style Mayall's players used.",
+    "s": 1
+   },
+   {
+    "id": "t-bone-walker",
+    "why": "Mayall's band followed the electric blues tradition T-Bone Walker started.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "eric-clapton",
+    "why": "Clapton's year with the Bluesbreakers made his name and his tone.",
+    "s": 3
+   },
+   {
+    "id": "fleetwood-mac",
+    "why": "Peter Green, John McVie and Mick Fleetwood met in the Bluesbreakers and left to form Fleetwood Mac.",
+    "s": 3
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Mick Taylor joined the Rolling Stones in 1969 straight from Mayall's band.",
+    "s": 3
+   },
+   {
+    "id": "cream",
+    "why": "Clapton and Jack Bruce both played in the Bluesbreakers before forming Cream.",
+    "s": 3
+   },
+   {
+    "id": "free",
+    "why": "Andy Fraser played bass with Mayall before co-founding Free.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "art-blakey",
+    "why": "A bandleader whose group trained a generation of stars."
+   },
+   {
+    "id": "paul-butterfield-blues-band",
+    "why": "A rock-era band devoted to authentic Chicago blues."
+   }
+  ]
+ },
+ {
+  "id": "alexis-korner",
+  "years": "1949–1984",
+  "origin": "London, England",
+  "genres": [
+   "British blues",
+   "R&B",
+   "skiffle"
+  ],
+  "summary": "Alexis Korner was a guitarist, singer and bandleader often called the father of British blues. His band Blues Incorporated and his club nights gave many of the 1960s' biggest rock musicians their start.",
+  "know": [
+   "He founded Blues Incorporated with harmonica player Cyril Davies in 1961.",
+   "Blues Incorporated's players and guests included Charlie Watts, Jack Bruce, Ginger Baker and Mick Jagger.",
+   "His big-band project CCS recorded the version of Whole Lotta Love used as the Top of the Pops theme."
+  ],
+  "born": "04-19",
+  "keyAlbums": [
+   [
+    "R&B from the Marquee",
+    1962
+   ],
+   [
+    "Red Hot from Alex",
+    1964
+   ],
+   [
+    "C.C.S.",
+    1970
+   ],
+   [
+    "Bootleg Him!",
+    1972
+   ]
+  ],
+  "songs": [
+   "I Got My Brand on You",
+   "Whole Lotta Love (CCS)",
+   "Tap Turns on the Water (CCS)",
+   "Early in the Morning"
+  ],
+  "influencedBy": [
+   {
+    "id": "muddy-waters",
+    "why": "Muddy Waters's 1958 UK tour with electric guitar pushed Korner toward amplified Chicago blues.",
+    "s": 2
+   },
+   {
+    "id": "big-bill-broonzy",
+    "why": "Broonzy's British visits in the 1950s were a key early influence on Korner.",
+    "s": 2
+   },
+   {
+    "id": "lead-belly",
+    "why": "Korner came up through the skiffle and folk-blues scene built on Lead Belly's songs.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-rolling-stones",
+    "why": "Jagger, Jones, Richards and Watts all passed through Korner's circle before forming the Stones.",
+    "s": 3
+   },
+   {
+    "id": "john-mayall-and-the-bluesbreakers",
+    "why": "Korner urged Mayall to move to London and lead his own band.",
+    "s": 3
+   },
+   {
+    "id": "cream",
+    "why": "Jack Bruce and Ginger Baker played together in Blues Incorporated.",
+    "s": 3
+   },
+   {
+    "id": "free",
+    "why": "Korner championed the young band and gave them their name.",
+    "s": 3
+   },
+   {
+    "id": "led-zeppelin",
+    "why": "Robert Plant sang with Korner briefly before joining Led Zeppelin.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "lonnie-donegan",
+    "why": "A British bandleader who turned American roots music into a homegrown movement."
+   },
+   {
+    "id": "alan-lomax",
+    "why": "A champion who spread the blues to new audiences."
+   }
+  ]
+ },
+ {
+  "id": "ten-years-after",
+  "years": "1966–present",
+  "origin": "Nottingham, England",
+  "genres": [
+   "blues rock",
+   "boogie rock"
+  ],
+  "summary": "Ten Years After is a British blues rock band led for its classic years by fast-fingered guitarist Alvin Lee. Their Woodstock performance made them one of the defining live acts of the era.",
+  "know": [
+   "Alvin Lee's speed on the guitar made him one of the most talked-about players of the late 1960s.",
+   "Their version of I'm Going Home at Woodstock was a highlight of the 1970 concert film.",
+   "I'd Love to Change the World was a US hit in 1971."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Undead",
+    1968
+   ],
+   [
+    "Ssssh",
+    1969
+   ],
+   [
+    "Cricklewood Green",
+    1970
+   ],
+   [
+    "A Space in Time",
+    1971
+   ]
+  ],
+  "songs": [
+   "I'm Going Home",
+   "Love Like a Man",
+   "I'd Love to Change the World",
+   "Hear Me Calling",
+   "Good Morning Little Schoolgirl"
+  ],
+  "influencedBy": [
+   {
+    "id": "chuck-berry",
+    "why": "Alvin Lee's rock and roll guitar runs come straight from Chuck Berry.",
+    "s": 2
+   },
+   {
+    "id": "john-lee-hooker",
+    "why": "Their boogie grooves draw on John Lee Hooker.",
+    "s": 1
+   },
+   {
+    "id": "muddy-waters",
+    "why": "The band's blues base is Chicago electric blues.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "stevie-ray-vaughan",
+    "why": "Fast, fiery blues guitar at the center of the show."
+   },
+   {
+    "id": "christone-kingfish-ingram",
+    "why": "Speed and power in modern electric blues guitar."
+   }
+  ]
+ },
+ {
+  "id": "savoy-brown",
+  "years": "1965–2022",
+  "origin": "London, England",
+  "genres": [
+   "blues rock",
+   "British blues",
+   "boogie rock"
+  ],
+  "summary": "Savoy Brown was a British blues rock band led by guitarist Kim Simmonds for nearly six decades. They found their biggest audience touring the United States with heavy boogie blues.",
+  "know": [
+   "Kim Simmonds led the band through many lineups from its start until 2022.",
+   "Three members left in 1970 and formed the band Foghat.",
+   "The band was more popular in the US than in Britain."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Blue Matter",
+    1969
+   ],
+   [
+    "A Step Further",
+    1969
+   ],
+   [
+    "Looking In",
+    1970
+   ],
+   [
+    "Street Corner Talking",
+    1971
+   ]
+  ],
+  "songs": [
+   "Train to Nowhere",
+   "Tell Mama",
+   "Hellbound Train",
+   "I'm Tired",
+   "Louisiana Blues"
+  ],
+  "influencedBy": [
+   {
+    "id": "muddy-waters",
+    "why": "Savoy Brown's set leaned on Chicago blues songs like Louisiana Blues.",
+    "s": 1
+   },
+   {
+    "id": "john-lee-hooker",
+    "why": "Their long boogie jams follow Hooker's one-chord drive.",
+    "s": 1
+   },
+   {
+    "id": "john-mayall-and-the-bluesbreakers",
+    "why": "They rose in the London blues scene Mayall's band led.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "rl-burnside",
+    "why": "Hypnotic, repetitive boogie blues."
+   },
+   {
+    "id": "the-black-keys",
+    "why": "Gritty, riff-driven blues rock."
+   }
+  ]
+ },
+ {
+  "id": "rory-gallagher",
+  "years": "1963–1995",
+  "origin": "Cork, Ireland",
+  "genres": [
+   "blues rock",
+   "hard rock",
+   "Irish blues"
+  ],
+  "summary": "Rory Gallagher was an Irish guitarist and singer known for constant touring, a worn Stratocaster and a direct, powerful take on blues and rock. Many later guitarists name him as a key influence.",
+  "know": [
+   "He first found success with the power trio Taste before going solo in 1971.",
+   "His battered 1961 Fender Stratocaster became one of rock's most recognized guitars.",
+   "He toured Ireland, including Northern Ireland, steadily through the 1970s, as captured on Irish Tour '74."
+  ],
+  "born": "03-02",
+  "keyAlbums": [
+   [
+    "Rory Gallagher",
+    1971
+   ],
+   [
+    "Deuce",
+    1971
+   ],
+   [
+    "Live in Europe",
+    1972
+   ],
+   [
+    "Irish Tour '74",
+    1974
+   ]
+  ],
+  "songs": [
+   "Bullfrog Blues",
+   "A Million Miles Away",
+   "Tattoo'd Lady",
+   "Shadow Play",
+   "Moonchild"
+  ],
+  "influencedBy": [
+   {
+    "id": "lonnie-donegan",
+    "why": "Gallagher said hearing Lonnie Donegan's skiffle first made him want to play.",
+    "s": 3
+   },
+   {
+    "id": "lead-belly",
+    "why": "Lead Belly's songs were central to his acoustic sets.",
+    "s": 2
+   },
+   {
+    "id": "muddy-waters",
+    "why": "Muddy Waters shaped his electric blues and slide playing.",
+    "s": 2
+   },
+   {
+    "id": "big-bill-broonzy",
+    "why": "Broonzy's acoustic blues was an early model for his folk-blues side.",
+    "s": 2
+   },
+   {
+    "id": "chuck-berry",
+    "why": "His rock and roll drive comes from Chuck Berry.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "queen",
+    "why": "Brian May has credited Gallagher's amp setup and tone for his own guitar sound.",
+    "s": 3
+   },
+   {
+    "id": "the-smiths",
+    "why": "Johnny Marr has spoken about Gallagher as an early guitar hero.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "stevie-ray-vaughan",
+    "why": "Hard-touring blues guitarist with a well-worn Stratocaster."
+   },
+   {
+    "id": "gary-clark-jr",
+    "why": "Blues guitar played with rock power."
+   }
+  ]
+ },
+ {
+  "id": "free",
+  "years": "1968–1973",
+  "origin": "London, England",
+  "genres": [
+   "blues rock",
+   "hard rock"
+  ],
+  "summary": "Free was a young British band that stripped blues rock down to space, groove and Paul Rodgers's soul-influenced voice. All Right Now became one of the most played rock songs of the 1970s.",
+  "know": [
+   "The lineup was Paul Rodgers, Paul Kossoff, Andy Fraser and Simon Kirke, all in their teens or barely out of them.",
+   "Alexis Korner helped the band get started and gave them their name.",
+   "Rodgers and Kirke went on to form Bad Company."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Tons of Sobs",
+    1969
+   ],
+   [
+    "Free",
+    1969
+   ],
+   [
+    "Fire and Water",
+    1970
+   ],
+   [
+    "Highway",
+    1970
+   ]
+  ],
+  "songs": [
+   "All Right Now",
+   "Fire and Water",
+   "Wishing Well",
+   "Mr. Big",
+   "The Hunter"
+  ],
+  "influencedBy": [
+   {
+    "id": "alexis-korner",
+    "why": "Korner mentored the band at the start and named them.",
+    "s": 3
+   },
+   {
+    "id": "albert-king",
+    "why": "Free's version of The Hunter came from Albert King's Stax recording.",
+    "s": 2
+   },
+   {
+    "id": "otis-redding",
+    "why": "Paul Rodgers modeled his phrasing on Otis Redding and other soul singers.",
+    "s": 2
+   },
+   {
+    "id": "eric-clapton",
+    "why": "Paul Kossoff's vibrato-heavy lead style took its starting point from Clapton.",
+    "s": 2
+   },
+   {
+    "id": "john-mayall-and-the-bluesbreakers",
+    "why": "Andy Fraser played in the Bluesbreakers before joining Free.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "bad-company",
+    "why": "Rodgers and Kirke built Bad Company on Free's spare, groove-first style.",
+    "s": 3
+   },
+   {
+    "id": "the-black-crowes",
+    "why": "The Black Crowes' soulful 1970s-style rock leans on Free's sound.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bill-withers",
+    "why": "Lean, groove-first songs with lots of space."
+   },
+   {
+    "id": "the-black-keys",
+    "why": "Stripped-down, riff-based blues rock."
+   }
+  ]
+ },
+ {
+  "id": "jeff-beck",
+  "years": "1963–2023",
+  "origin": "London, England",
+  "genres": [
+   "blues rock",
+   "jazz fusion",
+   "hard rock"
+  ],
+  "summary": "Jeff Beck was an English guitarist who kept reinventing rock guitar, from Yardbirds feedback to heavy blues rock to instrumental jazz fusion. Other players have long regarded his touch and tone as unmatched.",
+  "know": [
+   "He replaced Eric Clapton in the Yardbirds in 1965.",
+   "The Jeff Beck Group featured Rod Stewart on vocals and Ronnie Wood on bass.",
+   "Blow by Blow, produced by George Martin, became a hit instrumental album, and he won eight Grammys over his career."
+  ],
+  "born": "06-24",
+  "keyAlbums": [
+   [
+    "Truth",
+    1968
+   ],
+   [
+    "Beck-Ola",
+    1969
+   ],
+   [
+    "Blow by Blow",
+    1975
+   ],
+   [
+    "Wired",
+    1976
+   ]
+  ],
+  "songs": [
+   "Beck's Bolero",
+   "Shapes of Things",
+   "'Cause We've Ended as Lovers",
+   "Freeway Jam",
+   "People Get Ready"
+  ],
+  "influencedBy": [
+   {
+    "id": "les-paul",
+    "why": "Beck has named Les Paul and his studio guitar work as an early inspiration.",
+    "s": 2
+   },
+   {
+    "id": "the-yardbirds",
+    "why": "His time in the Yardbirds pushed him into feedback and effects.",
+    "s": 3
+   },
+   {
+    "id": "buddy-guy",
+    "why": "Buddy Guy's wild, bending blues guitar shaped Beck's early style.",
+    "s": 2
+   },
+   {
+    "id": "stevie-wonder",
+    "why": "Stevie Wonder wrote Cause We've Ended as Lovers for him and they worked together around Superstition.",
+    "s": 3
+   },
+   {
+    "id": "george-martin",
+    "why": "Martin produced Blow by Blow and Wired and steered his move to instrumental fusion.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "rod-stewart",
+    "why": "The Jeff Beck Group made Rod Stewart's name as a rock singer.",
+    "s": 3
+   },
+   {
+    "id": "faces",
+    "why": "Stewart and Ronnie Wood went from the Beck Group to Faces.",
+    "s": 3
+   },
+   {
+    "id": "led-zeppelin",
+    "why": "Truth's heavy blues template was a direct forerunner of Led Zeppelin's debut, and Beck's Bolero featured Jimmy Page and John Paul Jones.",
+    "s": 2
+   },
+   {
+    "id": "stevie-ray-vaughan",
+    "why": "Vaughan admired Beck's tone and touch.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "wes-montgomery",
+    "why": "A guitarist with an instantly recognizable touch."
+   },
+   {
+    "id": "django-reinhardt",
+    "why": "A guitarist who rewrote what the instrument could do."
+   }
+  ]
+ },
+ {
+  "id": "paul-butterfield-blues-band",
+  "years": "1963–1972",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "Chicago blues",
+   "blues rock",
+   "electric blues"
+  ],
+  "summary": "The Paul Butterfield Blues Band was one of the first white American bands to play Chicago electric blues at full strength, with an integrated lineup. They backed Bob Dylan's first electric set and opened rock to long modal jams with East-West.",
+  "know": [
+   "Drummer Sam Lay and bassist Jerome Arnold came from Howlin' Wolf's band.",
+   "The band backed Bob Dylan when he went electric at the 1965 Newport Folk Festival.",
+   "The title track of East-West mixed blues with Indian raga ideas in a long improvisation."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Paul Butterfield Blues Band",
+    1965
+   ],
+   [
+    "East-West",
+    1966
+   ],
+   [
+    "The Resurrection of Pigboy Crabshaw",
+    1967
+   ],
+   [
+    "In My Own Dream",
+    1968
+   ]
+  ],
+  "songs": [
+   "Born in Chicago",
+   "Shake Your Money-Maker",
+   "Mystery Train",
+   "East-West",
+   "Work Song"
+  ],
+  "influencedBy": [
+   {
+    "id": "muddy-waters",
+    "why": "Butterfield learned in Chicago's South Side clubs where Muddy Waters played.",
+    "s": 2
+   },
+   {
+    "id": "little-walter",
+    "why": "Butterfield's amplified harmonica style follows Little Walter.",
+    "s": 2
+   },
+   {
+    "id": "howlin-wolf",
+    "why": "The band's rhythm section came from Howlin' Wolf's group.",
+    "s": 2
+   },
+   {
+    "id": "ravi-shankar",
+    "why": "East-West took its long modal approach from Indian classical music.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "bob-dylan",
+    "why": "Backed Dylan's first electric set at Newport in 1965.",
+    "s": 3
+   },
+   {
+    "id": "the-allman-brothers",
+    "why": "Duane Allman cited East-West as a model for long improvised jams.",
+    "s": 2
+   },
+   {
+    "id": "grateful-dead",
+    "why": "East-West's extended jamming fed the San Francisco bands' live style.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "john-mayall-and-the-bluesbreakers",
+    "why": "A rock-era band devoted to Chicago blues."
+   },
+   {
+    "id": "cannonball-adderley",
+    "why": "Work Song itself, from the soul-jazz side."
+   }
+  ]
+ },
+ {
+  "id": "canned-heat",
+  "years": "1965–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "blues rock",
+   "boogie rock"
+  ],
+  "summary": "Canned Heat was formed by blues record collectors who brought deep pre-war blues knowledge into hippie-era rock. Their hits On the Road Again and Going Up the Country became anthems of the late 1960s.",
+  "know": [
+   "Founders Alan Wilson and Bob Hite were serious collectors of old blues 78s.",
+   "Going Up the Country adapts Henry Thomas's 1920s Bull Doze Blues.",
+   "They recorded the double album Hooker 'n Heat with John Lee Hooker."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Canned Heat",
+    1967
+   ],
+   [
+    "Boogie with Canned Heat",
+    1968
+   ],
+   [
+    "Living the Blues",
+    1968
+   ],
+   [
+    "Hooker 'n Heat",
+    1971
+   ]
+  ],
+  "songs": [
+   "On the Road Again",
+   "Going Up the Country",
+   "Let's Work Together",
+   "Fried Hockey Boogie"
+  ],
+  "influencedBy": [
+   {
+    "id": "john-lee-hooker",
+    "why": "Hooker's boogie is the root of their sound, and they recorded a full album with him.",
+    "s": 3
+   },
+   {
+    "id": "tommy-johnson",
+    "why": "The band took its name from Tommy Johnson's Canned Heat Blues.",
+    "s": 2
+   },
+   {
+    "id": "son-house",
+    "why": "Alan Wilson worked with Son House in 1964 to help him relearn his songs.",
+    "s": 2
+   },
+   {
+    "id": "skip-james",
+    "why": "Wilson's high voice owes a debt to Skip James.",
+    "s": 2
+   },
+   {
+    "id": "charley-patton",
+    "why": "Their deep Delta blues knowledge traces back to Patton's records.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "rl-burnside",
+    "why": "Hypnotic, driving boogie blues."
+   },
+   {
+    "id": "the-black-keys",
+    "why": "Blues-collector rock with a raw edge."
+   }
+  ]
+ },
+ {
+  "id": "johnny-winter",
+  "years": "1959–2014",
+  "origin": "Beaumont, Texas",
+  "genres": [
+   "Texas blues",
+   "blues rock"
+  ],
+  "summary": "Johnny Winter was a Texas guitarist known for fast, fierce slide and lead playing in blues and rock. He also produced Muddy Waters's late-career comeback albums.",
+  "know": [
+   "He signed with Columbia in 1969 for one of the largest advances of the time.",
+   "His brother is multi-instrumentalist Edgar Winter.",
+   "He produced and played on Muddy Waters's Hard Again, I'm Ready and King Bee."
+  ],
+  "born": "02-23",
+  "keyAlbums": [
+   [
+    "Johnny Winter",
+    1969
+   ],
+   [
+    "Second Winter",
+    1969
+   ],
+   [
+    "Still Alive and Well",
+    1973
+   ],
+   [
+    "Hard Again (Muddy Waters)",
+    1977
+   ]
+  ],
+  "songs": [
+   "Mean Town Blues",
+   "Highway 61 Revisited",
+   "Rock and Roll, Hoochie Koo",
+   "Be Careful with a Fool",
+   "Johnny B. Goode"
+  ],
+  "influencedBy": [
+   {
+    "id": "muddy-waters",
+    "why": "Winter called Muddy Waters his hero and later worked closely with him.",
+    "s": 3
+   },
+   {
+    "id": "bb-king",
+    "why": "B.B. King's lead style was an early model for Winter.",
+    "s": 2
+   },
+   {
+    "id": "robert-johnson",
+    "why": "Winter's slide playing draws on Robert Johnson's recordings.",
+    "s": 2
+   },
+   {
+    "id": "chuck-berry",
+    "why": "Winter's rock and roll side comes from Chuck Berry, whose songs he often covered.",
+    "s": 2
+   },
+   {
+    "id": "t-bone-walker",
+    "why": "Texas electric blues starting with T-Bone Walker shaped his playing.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "muddy-waters",
+    "why": "Produced Hard Again and its follow-ups, reviving Muddy Waters's recording career.",
+    "s": 3
+   },
+   {
+    "id": "stevie-ray-vaughan",
+    "why": "Winter showed a younger generation of Texas players how to bring blues to rock audiences.",
+    "s": 1
+   },
+   {
+    "id": "zz-top",
+    "why": "ZZ Top came up in the same Texas blues rock scene Winter led.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "buddy-guy",
+    "why": "Explosive, high-energy blues guitar."
+   },
+   {
+    "id": "gary-clark-jr",
+    "why": "Texas blues played loud for rock crowds."
+   }
+  ]
+ },
+ {
+  "id": "13th-floor-elevators",
+  "years": "1965–1969",
+  "origin": "Austin, Texas",
+  "genres": [
+   "psychedelic rock",
+   "garage rock"
+  ],
+  "summary": "The 13th Floor Elevators were a Texas band that helped invent psychedelic rock, led by Roky Erickson's howling voice and Tommy Hall's electric jug. Their debut was among the first albums to call itself psychedelic.",
+  "know": [
+   "Tommy Hall played an amplified jug, producing a bubbling, warbling sound unique to the band.",
+   "Their debut album was among the first to use the word psychedelic in its title.",
+   "You're Gonna Miss Me was a regional hit in 1966."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Psychedelic Sounds of the 13th Floor Elevators",
+    1966
+   ],
+   [
+    "Easter Everywhere",
+    1967
+   ],
+   [
+    "Bull of the Woods",
+    1969
+   ]
+  ],
+  "songs": [
+   "You're Gonna Miss Me",
+   "Reverberation (Doubt)",
+   "Roller Coaster",
+   "Slip Inside This House",
+   "Fire Engine"
+  ],
+  "influencedBy": [
+   {
+    "id": "little-richard",
+    "why": "Roky Erickson's screaming vocal style came from Little Richard.",
+    "s": 2
+   },
+   {
+    "id": "buddy-holly",
+    "why": "Texas rock and roll from Buddy Holly shaped Erickson's melodies.",
+    "s": 1
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Their garage-rock attack follows the British R&B bands.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "zz-top",
+    "why": "Billy Gibbons has cited the Elevators as a key early influence, and his band the Moving Sidewalks came out of their scene.",
+    "s": 2
+   },
+   {
+    "id": "spacemen-3",
+    "why": "Spacemen 3 covered Roller Coaster and built on the Elevators' drone psychedelia.",
+    "s": 2
+   },
+   {
+    "id": "primal-scream",
+    "why": "Primal Scream covered Slip Inside This House on Screamadelica.",
+    "s": 2
+   },
+   {
+    "id": "rem",
+    "why": "R.E.M. contributed to the Roky Erickson tribute album Where the Pyramid Meets the Eye.",
+    "s": 2
+   },
+   {
+    "id": "butthole-surfers",
+    "why": "The Butthole Surfers also took part in the Erickson tribute and share the Texas psych lineage.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "os-mutantes",
+    "why": "Wild, inventive 1960s psychedelia from outside the mainstream."
+   },
+   {
+    "id": "silver-apples",
+    "why": "Homemade sound devices at the center of the band."
+   }
+  ]
+ },
+ {
+  "id": "love",
+  "years": "1965–1974",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "psychedelic rock",
+   "folk rock",
+   "baroque pop"
+  ],
+  "summary": "Love was an integrated Los Angeles band led by Arthur Lee, whose third album Forever Changes paired folk rock with orchestral arrangements. It is often ranked among the best albums of the 1960s.",
+  "know": [
+   "Arthur Lee and Bryan MacLean were the band's two songwriters.",
+   "They were one of the first rock bands signed to Elektra Records.",
+   "Forever Changes used strings and horns arranged by David Angel."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Love",
+    1966
+   ],
+   [
+    "Da Capo",
+    1967
+   ],
+   [
+    "Forever Changes",
+    1967
+   ],
+   [
+    "Four Sail",
+    1969
+   ]
+  ],
+  "songs": [
+   "My Little Red Book",
+   "7 and 7 Is",
+   "Alone Again Or",
+   "A House Is Not a Motel",
+   "She Comes in Colors"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-byrds",
+    "why": "Love's early folk rock came straight out of the Byrds' jangling sound.",
+    "s": 2
+   },
+   {
+    "id": "burt-bacharach",
+    "why": "Their first single was a rocked-up version of Bacharach's My Little Red Book.",
+    "s": 2
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Their garage-rock edge on 7 and 7 Is draws on the Stones.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-doors",
+    "why": "Arthur Lee helped steer the Doors to Elektra, and the Doors aimed to match Love's local status.",
+    "s": 2
+   },
+   {
+    "id": "the-damned",
+    "why": "The Damned covered Alone Again Or.",
+    "s": 2
+   },
+   {
+    "id": "primal-scream",
+    "why": "Primal Scream's 1960s-style psych pop draws on Forever Changes.",
+    "s": 1
+   },
+   {
+    "id": "syd-barrett",
+    "why": "Pink Floyd's Interstellar Overdrive grew from a riff based on Love's My Little Red Book.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "caetano-veloso",
+    "why": "Orchestral, psychedelic songwriting from the same era."
+   },
+   {
+    "id": "the-beach-boys",
+    "why": "Ambitious, orchestrated 1960s pop."
+   }
+  ]
+ },
+ {
+  "id": "buffalo-springfield",
+  "years": "1966–1968",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "folk rock",
+   "country rock",
+   "psychedelic rock"
+  ],
+  "summary": "Buffalo Springfield was a short-lived Los Angeles band that brought together Stephen Stills, Neil Young and Richie Furay. In two years it laid the groundwork for country rock and for several major later careers.",
+  "know": [
+   "The band took its name from a steamroller manufacturer.",
+   "For What It's Worth, written by Stephen Stills, was their only major hit.",
+   "Richie Furay and Jim Messina went on to found Poco, a key country rock band."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Buffalo Springfield",
+    1966
+   ],
+   [
+    "Buffalo Springfield Again",
+    1967
+   ],
+   [
+    "Last Time Around",
+    1968
+   ]
+  ],
+  "songs": [
+   "For What It's Worth",
+   "Mr. Soul",
+   "Bluebird",
+   "Expecting to Fly",
+   "Rock 'n' Roll Woman"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-byrds",
+    "why": "The Byrds' electric folk rock was the immediate model for the band.",
+    "s": 2
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Dylan's writing shaped Stills's and Young's songwriting.",
+    "s": 1
+   },
+   {
+    "id": "the-beatles",
+    "why": "Their studio ambition on Again follows the Beatles' mid-1960s records.",
+    "s": 1
+   },
+   {
+    "id": "hank-williams",
+    "why": "Country songwriting fed Furay's and Young's twangier songs.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "crosby-stills-nash",
+    "why": "Stephen Stills went from the Springfield straight into Crosby, Stills & Nash.",
+    "s": 3
+   },
+   {
+    "id": "neil-young",
+    "why": "Neil Young's solo career grew directly out of his Springfield songs.",
+    "s": 3
+   },
+   {
+    "id": "eagles",
+    "why": "Poco, formed from the Springfield, shaped the country rock sound the Eagles took to the top.",
+    "s": 2
+   },
+   {
+    "id": "the-flying-burrito-brothers",
+    "why": "Their twangy rock was part of the same early country rock push.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "gram-parsons",
+    "why": "Country songcraft in a rock band setting."
+   },
+   {
+    "id": "the-nitty-gritty-dirt-band",
+    "why": "Southern California roots-folk with a rock edge."
+   }
+  ]
+ },
+ {
+  "id": "quicksilver-messenger-service",
+  "years": "1965–1979",
+  "origin": "San Francisco, California",
+  "genres": [
+   "psychedelic rock",
+   "acid rock"
+  ],
+  "summary": "Quicksilver Messenger Service was a San Francisco band known for twin-guitar improvisation by John Cipollina and Gary Duncan. Their live album Happy Trails captures the extended jamming of the Fillmore era.",
+  "know": [
+   "John Cipollina's trembling, vibrato-heavy guitar tone was the band's signature.",
+   "Happy Trails is built around a side-long reworking of Bo Diddley's Who Do You Love.",
+   "Pianist Nicky Hopkins played on Shady Grove."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Quicksilver Messenger Service",
+    1968
+   ],
+   [
+    "Happy Trails",
+    1969
+   ],
+   [
+    "Shady Grove",
+    1969
+   ],
+   [
+    "Just for Love",
+    1970
+   ]
+  ],
+  "songs": [
+   "Who Do You Love",
+   "Pride of Man",
+   "Mona",
+   "Fresh Air",
+   "Gold and Silver"
+  ],
+  "influencedBy": [
+   {
+    "id": "bo-diddley",
+    "why": "Happy Trails is built on long versions of Bo Diddley's Who Do You Love and Mona.",
+    "s": 2
+   },
+   {
+    "id": "dave-brubeck",
+    "why": "Gold and Silver is based on Brubeck's Take Five.",
+    "s": 2
+   },
+   {
+    "id": "the-yardbirds",
+    "why": "The band's guitar dueling draws on the Yardbirds' rave-ups.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "miles-davis",
+    "why": "Long, open improvisation as the main event."
+   },
+   {
+    "id": "fela-kuti",
+    "why": "Extended live jams built on a hypnotic groove."
+   }
+  ]
+ },
+ {
+  "id": "iron-butterfly",
+  "years": "1966–1971",
+  "origin": "San Diego, California",
+  "genres": [
+   "psychedelic rock",
+   "acid rock",
+   "heavy rock"
+  ],
+  "summary": "Iron Butterfly was a heavy psychedelic band best known for In-A-Gadda-Da-Vida, a 17-minute organ and guitar epic. It was one of the best-selling albums of its era and a step toward heavy metal.",
+  "know": [
+   "The title track of In-A-Gadda-Da-Vida fills an entire side of the album.",
+   "It includes a long drum solo by Ron Bushy.",
+   "Doug Ingle's dark Hammond organ led the band's sound."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Heavy",
+    1968
+   ],
+   [
+    "In-A-Gadda-Da-Vida",
+    1968
+   ],
+   [
+    "Ball",
+    1969
+   ],
+   [
+    "Metamorphosis",
+    1970
+   ]
+  ],
+  "songs": [
+   "In-A-Gadda-Da-Vida",
+   "Possession",
+   "Soul Experience",
+   "Unconscious Power",
+   "Butterfly Bleu"
+  ],
+  "influencedBy": [
+   {
+    "id": "vanilla-fudge",
+    "why": "Vanilla Fudge's slow, heavy, organ-driven sound was a direct model.",
+    "s": 2
+   },
+   {
+    "id": "the-doors",
+    "why": "Organ-led dark psychedelia on the West Coast followed the Doors.",
+    "s": 1
+   },
+   {
+    "id": "cream",
+    "why": "Heavy riff rock and long solos came from Cream's example.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "slayer",
+    "why": "Slayer recorded a cover of In-A-Gadda-Da-Vida in 1987.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "kyuss",
+    "why": "Long, heavy grooves that stretch out."
+   },
+   {
+    "id": "sleep",
+    "why": "Slow, heavy riffs repeated to hypnotic length."
+   }
+  ]
+ },
+ {
+  "id": "vanilla-fudge",
+  "years": "1966–1970",
+  "origin": "Long Island, New York",
+  "genres": [
+   "psychedelic rock",
+   "art rock",
+   "hard rock"
+  ],
+  "summary": "Vanilla Fudge slowed pop and soul hits down into heavy, dramatic organ-and-drums arrangements. Their approach was a bridge from psychedelia to hard rock and early heavy metal.",
+  "know": [
+   "Their slowed version of the Supremes' You Keep Me Hangin' On was their biggest hit.",
+   "Tim Bogert and Carmine Appice later formed Cactus and Beck, Bogert & Appice.",
+   "Led Zeppelin opened for them on part of Zeppelin's first US tour."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Vanilla Fudge",
+    1967
+   ],
+   [
+    "The Beat Goes On",
+    1968
+   ],
+   [
+    "Renaissance",
+    1968
+   ],
+   [
+    "Near the Beginning",
+    1969
+   ]
+  ],
+  "songs": [
+   "You Keep Me Hangin' On",
+   "Ticket to Ride",
+   "Eleanor Rigby",
+   "Season of the Witch",
+   "Some Velvet Morning"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-supremes",
+    "why": "Their breakthrough was a heavy reworking of the Supremes' hit.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "Their debut includes slowed, dramatic versions of several Beatles songs.",
+    "s": 2
+   },
+   {
+    "id": "the-young-rascals",
+    "why": "Mark Stein's organ-led blue-eyed soul sound followed the Rascals.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "deep-purple",
+    "why": "Jon Lord has said Vanilla Fudge was a model when Deep Purple formed.",
+    "s": 3
+   },
+   {
+    "id": "iron-butterfly",
+    "why": "Iron Butterfly took up the slow, organ-heavy approach.",
+    "s": 1
+   },
+   {
+    "id": "yes",
+    "why": "Yes's early habit of stretching covers into long arrangements followed the Fudge.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "isaac-hayes",
+    "why": "Slowed, extended reworkings of pop hits."
+   },
+   {
+    "id": "booker-t",
+    "why": "Hammond organ grooves at the center."
+   }
+  ]
+ },
+ {
+  "id": "syd-barrett",
+  "years": "1965–1972",
+  "origin": "Cambridge, England",
+  "genres": [
+   "psychedelic rock",
+   "psychedelic folk"
+  ],
+  "summary": "Syd Barrett was the founding singer, guitarist and main songwriter of Pink Floyd, whose whimsical, strange songs defined early English psychedelia. After leaving the band he made two fragile solo albums.",
+  "know": [
+   "He wrote most of Pink Floyd's debut, The Piper at the Gates of Dawn.",
+   "He left Pink Floyd in 1968 and was replaced by David Gilmour.",
+   "Roger Waters and David Gilmour helped produce his solo albums."
+  ],
+  "born": "01-06",
+  "keyAlbums": [
+   [
+    "The Piper at the Gates of Dawn (Pink Floyd)",
+    1967
+   ],
+   [
+    "The Madcap Laughs",
+    1970
+   ],
+   [
+    "Barrett",
+    1970
+   ]
+  ],
+  "songs": [
+   "Arnold Layne",
+   "See Emily Play",
+   "Astronomy Domine",
+   "Octopus",
+   "Bike"
+  ],
+  "influencedBy": [
+   {
+    "id": "love",
+    "why": "Interstellar Overdrive grew from a riff based on Love's version of My Little Red Book.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "Barrett's English, whimsical pop draws on mid-1960s Beatles.",
+    "s": 1
+   },
+   {
+    "id": "bo-diddley",
+    "why": "Early Pink Floyd sets were built on R&B like Bo Diddley.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "pink-floyd",
+    "why": "Barrett founded Pink Floyd and wrote its early sound.",
+    "s": 3
+   },
+   {
+    "id": "david-bowie",
+    "why": "Bowie covered See Emily Play and often named Barrett as an influence.",
+    "s": 2
+   },
+   {
+    "id": "blur",
+    "why": "Graham Coxon and Damon Albarn have named Barrett as a key English songwriting model.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "nick-drake",
+    "why": "Fragile, haunting English songs."
+   },
+   {
+    "id": "os-mutantes",
+    "why": "Playful, strange 1960s psychedelia."
+   }
+  ]
+ },
+ {
+  "id": "the-pretty-things",
+  "years": "1963–2018",
+  "origin": "London, England",
+  "genres": [
+   "R&B",
+   "garage rock",
+   "psychedelic rock"
+  ],
+  "summary": "The Pretty Things were one of the rawest British R&B bands of the 1960s and later made S.F. Sorrow, an early rock opera. They are often named as a link between beat music, psychedelia and punk.",
+  "know": [
+   "Guitarist Dick Taylor had played in an early version of the Rolling Stones.",
+   "S.F. Sorrow, recorded at Abbey Road, is one of the first rock concept albums built on a story.",
+   "David Bowie covered Rosalyn and Don't Bring Me Down on Pin Ups."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Pretty Things",
+    1965
+   ],
+   [
+    "Get the Picture?",
+    1965
+   ],
+   [
+    "S.F. Sorrow",
+    1968
+   ],
+   [
+    "Parachute",
+    1970
+   ]
+  ],
+  "songs": [
+   "Rosalyn",
+   "Don't Bring Me Down",
+   "Midnight to Six Man",
+   "S.F. Sorrow Is Born",
+   "Defecting Grey"
+  ],
+  "influencedBy": [
+   {
+    "id": "bo-diddley",
+    "why": "The band took its name from Bo Diddley's song Pretty Thing.",
+    "s": 2
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Dick Taylor came from the Stones' first lineup.",
+    "s": 3
+   },
+   {
+    "id": "jimmy-reed",
+    "why": "Their early R&B sets leaned on Jimmy Reed songs.",
+    "s": 1
+   },
+   {
+    "id": "chuck-berry",
+    "why": "Their raw early sound came from Chuck Berry rock and roll.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "david-bowie",
+    "why": "Bowie covered two of their songs on Pin Ups and named them as a favorite.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "mc5",
+    "why": "Wild, loud R&B-based rock."
+   },
+   {
+    "id": "the-stooges",
+    "why": "Raw, aggressive garage rock."
+   }
+  ]
+ },
+ {
+  "id": "traffic",
+  "years": "1967–1974",
+  "origin": "Birmingham, England",
+  "genres": [
+   "psychedelic rock",
+   "jazz rock",
+   "folk rock"
+  ],
+  "summary": "Traffic was Steve Winwood's band, mixing English folk, jazz, soul and psychedelia into long, loose arrangements. Their open, improvising style shaped later roots and jam rock.",
+  "know": [
+   "Steve Winwood came from the Spencer Davis Group and joined Blind Faith in 1969.",
+   "The band wrote its early songs in a cottage in rural Berkshire.",
+   "Dave Mason's Feelin' Alright? became a hit for Joe Cocker."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Mr. Fantasy",
+    1967
+   ],
+   [
+    "Traffic",
+    1968
+   ],
+   [
+    "John Barleycorn Must Die",
+    1970
+   ],
+   [
+    "The Low Spark of High Heeled Boys",
+    1971
+   ]
+  ],
+  "songs": [
+   "Paper Sun",
+   "Dear Mr. Fantasy",
+   "Feelin' Alright?",
+   "John Barleycorn",
+   "The Low Spark of High Heeled Boys"
+  ],
+  "influencedBy": [
+   {
+    "id": "ray-charles",
+    "why": "Winwood's soulful singing and organ come straight from Ray Charles.",
+    "s": 2
+   },
+   {
+    "id": "miles-davis",
+    "why": "Chris Wood's jazz flute and sax and the band's long jams draw on modal jazz.",
+    "s": 1
+   },
+   {
+    "id": "the-beatles",
+    "why": "Their early psychedelic singles come out of the Beatles' 1967 sound.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "joe-cocker",
+    "why": "Cocker's hit version of Feelin' Alright? came from Traffic's second album.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "weather-report",
+    "why": "Jazz-based group improvisation."
+   },
+   {
+    "id": "donny-hathaway",
+    "why": "Soulful keyboard-led singing."
+   }
+  ]
+ },
+ {
+  "id": "small-faces",
+  "years": "1965–1969",
+  "origin": "London, England",
+  "genres": [
+   "mod",
+   "R&B",
+   "psychedelic rock"
+  ],
+  "summary": "Small Faces were the leading mod band of 1960s London, pairing Steve Marriott's soul voice with tight R&B and later psychedelic pop. Their influence runs through British rock from the Jam to Britpop.",
+  "know": [
+   "The lineup was Steve Marriott, Ronnie Lane, Kenney Jones and Ian McLagan.",
+   "Ogdens' Nut Gone Flake came in a round sleeve shaped like a tobacco tin and reached number one in the UK.",
+   "After Marriott left, the others joined Rod Stewart and Ron Wood to form Faces."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Small Faces",
+    1966
+   ],
+   [
+    "Small Faces",
+    1967
+   ],
+   [
+    "Ogdens' Nut Gone Flake",
+    1968
+   ]
+  ],
+  "songs": [
+   "Whatcha Gonna Do About It",
+   "All or Nothing",
+   "Itchycoo Park",
+   "Tin Soldier",
+   "Lazy Sunday"
+  ],
+  "influencedBy": [
+   {
+    "id": "booker-t",
+    "why": "Ian McLagan's Hammond style came from Booker T. & the M.G.'s.",
+    "s": 2
+   },
+   {
+    "id": "otis-redding",
+    "why": "Marriott modeled his singing on Stax soul.",
+    "s": 2
+   },
+   {
+    "id": "ray-charles",
+    "why": "Marriott's gritty R&B vocals follow Ray Charles.",
+    "s": 1
+   },
+   {
+    "id": "james-brown",
+    "why": "Their tight soul grooves draw on James Brown.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "faces",
+    "why": "Lane, Jones and McLagan formed Faces after Small Faces split.",
+    "s": 3
+   },
+   {
+    "id": "humble-pie",
+    "why": "Marriott formed Humble Pie after leaving Small Faces.",
+    "s": 3
+   },
+   {
+    "id": "the-jam",
+    "why": "Paul Weller has often named Small Faces as his favorite band.",
+    "s": 3
+   },
+   {
+    "id": "oasis",
+    "why": "Noel Gallagher has cited Small Faces as a core influence.",
+    "s": 2
+   },
+   {
+    "id": "blur",
+    "why": "Blur's mid-1990s English pop draws on Small Faces records like Lazy Sunday.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "sam-and-dave",
+    "why": "High-energy soul singing."
+   },
+   {
+    "id": "wilson-pickett",
+    "why": "Gritty, shouted R&B vocals."
+   }
+  ]
+ },
+ {
+  "id": "faces",
+  "years": "1969–1975",
+  "origin": "London, England",
+  "genres": [
+   "rock and roll",
+   "blues rock",
+   "hard rock"
+  ],
+  "summary": "Faces were a loose, rowdy British rock band formed from Small Faces with Rod Stewart and Ronnie Wood. Their ragged, warm sound became a template for bar-band rock and roll.",
+  "know": [
+   "The band formed when Small Faces' remaining members joined Rod Stewart and Ronnie Wood from the Jeff Beck Group.",
+   "Rod Stewart ran a solo career alongside the band, often with the same players.",
+   "Ronnie Wood joined the Rolling Stones in 1975."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "First Step",
+    1970
+   ],
+   [
+    "Long Player",
+    1971
+   ],
+   [
+    "A Nod Is as Good as a Wink... to a Blind Horse",
+    1971
+   ],
+   [
+    "Ooh La La",
+    1973
+   ]
+  ],
+  "songs": [
+   "Stay with Me",
+   "Ooh La La",
+   "Cindy Incidentally",
+   "Had Me a Real Good Time",
+   "Debris"
+  ],
+  "influencedBy": [
+   {
+    "id": "small-faces",
+    "why": "Lane, Jones and McLagan carried over from Small Faces.",
+    "s": 3
+   },
+   {
+    "id": "jeff-beck",
+    "why": "Stewart and Wood came from the Jeff Beck Group.",
+    "s": 3
+   },
+   {
+    "id": "sam-cooke",
+    "why": "Rod Stewart has named Sam Cooke as his main vocal model.",
+    "s": 2
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Their loose, blues-based rock and roll runs parallel to the Stones.",
+    "s": 1
+   },
+   {
+    "id": "chuck-berry",
+    "why": "Their bar-band drive comes from Chuck Berry rock and roll.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-replacements",
+    "why": "Paul Westerberg has cited Faces' loose, ragged rock as a key influence.",
+    "s": 2
+   },
+   {
+    "id": "the-black-crowes",
+    "why": "The Black Crowes modeled their early sound on Faces-style rock.",
+    "s": 2
+   },
+   {
+    "id": "guns-n-roses",
+    "why": "Guns N' Roses' bluesy rock and roll draws on Faces.",
+    "s": 1
+   },
+   {
+    "id": "primal-scream",
+    "why": "Give Out but Don't Give Up leans on Faces-era rock.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "drive-by-truckers",
+    "why": "Ragged, warm bar-band rock with a storyteller's heart."
+   },
+   {
+    "id": "the-pogues",
+    "why": "Rowdy, good-time band energy with real songs."
+   }
+  ]
+ },
+ {
+  "id": "the-hollies",
+  "years": "1962–present",
+  "origin": "Manchester, England",
+  "genres": [
+   "pop rock",
+   "beat",
+   "folk rock"
+  ],
+  "summary": "The Hollies are a Manchester band famous for bright three-part harmonies and a long run of hit singles. Graham Nash left them to form Crosby, Stills & Nash.",
+  "know": [
+   "Allan Clarke and Graham Nash were childhood friends who started the band.",
+   "Graham Nash left in 1968 and co-founded Crosby, Stills & Nash.",
+   "Elton John, then a session player, played piano on He Ain't Heavy, He's My Brother."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Evolution",
+    1967
+   ],
+   [
+    "Butterfly",
+    1967
+   ],
+   [
+    "Hollies Sing Dylan",
+    1969
+   ],
+   [
+    "Distant Light",
+    1971
+   ]
+  ],
+  "songs": [
+   "Bus Stop",
+   "Carrie Anne",
+   "He Ain't Heavy, He's My Brother",
+   "The Air That I Breathe",
+   "Long Cool Woman in a Black Dress"
+  ],
+  "influencedBy": [
+   {
+    "id": "everly-brothers",
+    "why": "The Hollies' close harmony singing comes from the Everly Brothers.",
+    "s": 2
+   },
+   {
+    "id": "buddy-holly",
+    "why": "The band's name was partly a nod to Buddy Holly.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "They rose in the British beat boom the Beatles led.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "crosby-stills-nash",
+    "why": "Graham Nash brought the Hollies' high harmony to Crosby, Stills & Nash.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-beach-boys",
+    "why": "Bright, stacked vocal harmonies on pop singles."
+   },
+   {
+    "id": "simon-garfunkel",
+    "why": "Close two-voice harmony at the heart of the songs."
+   }
+  ]
+ },
+ {
+  "id": "the-troggs",
+  "years": "1964–present",
+  "origin": "Andover, England",
+  "genres": [
+   "garage rock",
+   "beat",
+   "proto-punk"
+  ],
+  "summary": "The Troggs were a raw English beat band whose simple, primitive hit Wild Thing became a garage rock standard. Their blunt sound is often named as an early root of punk.",
+  "know": [
+   "Singer Reg Presley wrote many of their hits, including Love Is All Around.",
+   "Wild Thing, written by Chip Taylor, was a US number one in 1966.",
+   "Jimi Hendrix played Wild Thing at the Monterey Pop Festival."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "From Nowhere",
+    1966
+   ],
+   [
+    "Trogglodynamite",
+    1967
+   ],
+   [
+    "Cellophane",
+    1967
+   ]
+  ],
+  "songs": [
+   "Wild Thing",
+   "With a Girl Like You",
+   "I Can't Control Myself",
+   "Love Is All Around",
+   "Night of the Long Grass"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-kinks",
+    "why": "Their stripped-down power chords follow the Kinks' early hits.",
+    "s": 1
+   },
+   {
+    "id": "chuck-berry",
+    "why": "Their simple rock and roll base comes from Chuck Berry.",
+    "s": 1
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "They came up in the British R&B beat scene.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "jimi-hendrix",
+    "why": "Hendrix made Wild Thing a showpiece of his Monterey set.",
+    "s": 2
+   },
+   {
+    "id": "the-stooges",
+    "why": "Iggy Pop has cited the Troggs' primitive sound as an influence.",
+    "s": 2
+   },
+   {
+    "id": "rem",
+    "why": "R.E.M. covered Love Is All Around.",
+    "s": 2
+   },
+   {
+    "id": "ramones",
+    "why": "The Ramones' blunt, simple rock follows the Troggs' approach.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "x",
+    "why": "Raw, stripped-down rock with no frills."
+   },
+   {
+    "id": "the-white-stripes",
+    "why": "Primitive, blunt riffs and simple beats."
+   }
+  ]
+ },
+ {
+  "id": "the-sonics",
+  "years": "1960–present",
+  "origin": "Tacoma, Washington",
+  "genres": [
+   "garage rock",
+   "proto-punk"
+  ],
+  "summary": "The Sonics were a Tacoma band whose loud, distorted, screaming records of the mid-1960s are often called the first punk rock. Their sound became a touchstone for the Pacific Northwest scene.",
+  "know": [
+   "Gerry Roslie's screaming vocals were unusually wild for the time.",
+   "They recorded with very few microphones, which pushed the sound into distortion.",
+   "The Witch was a big regional hit in the Northwest."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Here Are the Sonics",
+    1965
+   ],
+   [
+    "Boom",
+    1966
+   ],
+   [
+    "Introducing the Sonics",
+    1967
+   ],
+   [
+    "This Is the Sonics",
+    2015
+   ]
+  ],
+  "songs": [
+   "The Witch",
+   "Psycho",
+   "Have Love, Will Travel",
+   "Cinderella",
+   "Boss Hoss"
+  ],
+  "influencedBy": [
+   {
+    "id": "little-richard",
+    "why": "Roslie's screaming vocals and their covers draw directly on Little Richard.",
+    "s": 2
+   },
+   {
+    "id": "chuck-berry",
+    "why": "They played hard versions of Chuck Berry-style rock and roll.",
+    "s": 1
+   },
+   {
+    "id": "bo-diddley",
+    "why": "Their pounding, simple beat follows Bo Diddley's driving rhythm.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "nirvana",
+    "why": "Kurt Cobain cited the Sonics as an influence on the Northwest's loud rock.",
+    "s": 2
+   },
+   {
+    "id": "mudhoney",
+    "why": "Mudhoney's distorted garage-punk follows the Sonics directly.",
+    "s": 2
+   },
+   {
+    "id": "the-white-stripes",
+    "why": "Jack White has praised the Sonics' raw recording.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "mc5",
+    "why": "Loud, distorted, high-energy rock."
+   },
+   {
+    "id": "the-stooges",
+    "why": "Raw, screaming proto-punk."
+   }
+  ]
+ },
+ {
+  "id": "steppenwolf",
+  "years": "1967–2018",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "hard rock",
+   "blues rock",
+   "psychedelic rock"
+  ],
+  "summary": "Steppenwolf was a hard rock band led by John Kay, best known for the biker anthem Born to Be Wild. Their heavy, organ-and-guitar sound helped bridge blues rock and early heavy metal.",
+  "know": [
+   "John Kay was born in Germany and grew up in Canada.",
+   "The band grew out of the Toronto group the Sparrows before moving to California.",
+   "Born to Be Wild, written by Mars Bonfire, was featured in the film Easy Rider."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Steppenwolf",
+    1968
+   ],
+   [
+    "The Second",
+    1968
+   ],
+   [
+    "At Your Birthday Party",
+    1969
+   ],
+   [
+    "Monster",
+    1969
+   ]
+  ],
+  "songs": [
+   "Born to Be Wild",
+   "Magic Carpet Ride",
+   "Rock Me",
+   "Sookie Sookie",
+   "Monster"
+  ],
+  "influencedBy": [
+   {
+    "id": "muddy-waters",
+    "why": "John Kay's singing and the band's riffs come out of Chicago blues.",
+    "s": 1
+   },
+   {
+    "id": "howlin-wolf",
+    "why": "Kay's gruff blues delivery owes a debt to Howlin' Wolf.",
+    "s": 1
+   },
+   {
+    "id": "chuck-berry",
+    "why": "Their rock and roll drive comes from Chuck Berry.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "motorhead",
+    "why": "Loud, road-ready rock for riders."
+   },
+   {
+    "id": "hank-williams-jr",
+    "why": "Rowdy, outlaw rock spirit from the country side."
+   }
+  ]
+ },
+ {
+  "id": "blue-cheer",
+  "years": "1967–2009",
+  "origin": "San Francisco, California",
+  "genres": [
+   "heavy rock",
+   "acid rock",
+   "proto-metal"
+  ],
+  "summary": "Blue Cheer was a San Francisco power trio known for extreme volume and distorted, blown-out blues rock. Their 1968 debut is often named as one of the first heavy metal records.",
+  "know": [
+   "Bassist and singer Dickie Peterson led the band throughout its history.",
+   "Their cover of Eddie Cochran's Summertime Blues reached the US Top 20 in 1968.",
+   "Parts of Outsideinside were recorded outdoors because the band was too loud for the studio."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Vincebus Eruptum",
+    1968
+   ],
+   [
+    "Outsideinside",
+    1968
+   ],
+   [
+    "New! Improved!",
+    1969
+   ]
+  ],
+  "songs": [
+   "Summertime Blues",
+   "Doctor Please",
+   "Out of Focus",
+   "Just a Little Bit",
+   "Parchment Farm"
+  ],
+  "influencedBy": [
+   {
+    "id": "eddie-cochran",
+    "why": "Their breakthrough was a heavy remake of Cochran's Summertime Blues.",
+    "s": 2
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "The band has said seeing Hendrix at Monterey pushed them toward a louder power trio.",
+    "s": 2
+   },
+   {
+    "id": "cream",
+    "why": "Cream's power trio blues set the format they turned up.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "sleep",
+    "why": "Sleep's slow, fuzzed-out heaviness draws on Blue Cheer's distortion.",
+    "s": 1
+   },
+   {
+    "id": "kyuss",
+    "why": "Kyuss's desert rock follows Blue Cheer's fuzz-heavy trio sound.",
+    "s": 1
+   },
+   {
+    "id": "melvins",
+    "why": "The Melvins' sludgy, loud rock carries Blue Cheer's approach forward.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-stooges",
+    "why": "Loud, primitive, distorted rock."
+   },
+   {
+    "id": "motorhead",
+    "why": "Overdriven power trio with the volume pushed to the limit."
+   }
+  ]
+ },
+ {
+  "id": "van-morrison",
+  "years": "1964–present",
+  "origin": "Belfast, Northern Ireland",
+  "genres": [
+   "folk rock",
+   "Celtic soul",
+   "blues",
+   "R&B"
+  ],
+  "summary": "Van Morrison is a Northern Irish singer and songwriter who blends soul, blues, jazz, folk and Irish tradition. Astral Weeks and Moondance are among the most admired albums in rock.",
+  "know": [
+   "He first found fame as the singer of Them, whose Gloria became a garage rock standard.",
+   "Astral Weeks was recorded in New York with jazz musicians including bassist Richard Davis and drummer Connie Kay.",
+   "He was knighted in 2016 for services to music and to Northern Ireland."
+  ],
+  "born": "08-31",
+  "keyAlbums": [
+   [
+    "Astral Weeks",
+    1968
+   ],
+   [
+    "Moondance",
+    1970
+   ],
+   [
+    "Tupelo Honey",
+    1971
+   ],
+   [
+    "Veedon Fleece",
+    1974
+   ]
+  ],
+  "songs": [
+   "Gloria",
+   "Brown Eyed Girl",
+   "Into the Mystic",
+   "Moondance",
+   "Wild Night",
+   "Madame George"
+  ],
+  "influencedBy": [
+   {
+    "id": "ray-charles",
+    "why": "Morrison has named Ray Charles as a key influence on his singing and arranging.",
+    "s": 3
+   },
+   {
+    "id": "lead-belly",
+    "why": "Lead Belly was one of the first artists Morrison heard on his father's records.",
+    "s": 3
+   },
+   {
+    "id": "john-lee-hooker",
+    "why": "Morrison cited Hooker as a hero and later recorded with him.",
+    "s": 3
+   },
+   {
+    "id": "jackie-wilson",
+    "why": "He paid tribute in the song Jackie Wilson Said.",
+    "s": 2
+   },
+   {
+    "id": "muddy-waters",
+    "why": "Them's early R&B was built on Chicago blues.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "bruce-springsteen",
+    "why": "Springsteen's early horn-laced, soulful rock owes a clear debt to Morrison.",
+    "s": 2
+   },
+   {
+    "id": "the-doors",
+    "why": "The Doors shared bills with Them at the Whisky a Go Go and played Gloria.",
+    "s": 2
+   },
+   {
+    "id": "patti-smith",
+    "why": "Patti Smith's debut opens with her reworking of Gloria.",
+    "s": 2
+   },
+   {
+    "id": "u2",
+    "why": "Bono has named Morrison as a model for Irish soul singing.",
+    "s": 2
+   },
+   {
+    "id": "elvis-costello",
+    "why": "Costello has cited Morrison's soul-based songwriting as an influence.",
+    "s": 2
+   },
+   {
+    "id": "jeff-buckley",
+    "why": "Buckley often performed Morrison songs and shared his improvising vocal style.",
+    "s": 2
+   },
+   {
+    "id": "counting-crows",
+    "why": "Adam Duritz's stream-of-consciousness singing follows Morrison.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "otis-redding",
+    "why": "Raw, soulful singing that builds with emotion."
+   },
+   {
+    "id": "the-chieftains",
+    "why": "Irish tradition, which Morrison recorded with them on Irish Heartbeat."
+   }
+  ]
+ },
+ {
+  "id": "the-lovin-spoonful",
+  "years": "1965–1969",
+  "origin": "New York City, New York",
+  "genres": [
+   "folk rock",
+   "jug band",
+   "pop rock"
+  ],
+  "summary": "The Lovin' Spoonful came out of Greenwich Village's jug band and folk scene and turned it into warm, sunny pop rock. John Sebastian's songs made them one of America's top singles bands of the mid-1960s.",
+  "know": [
+   "John Sebastian and Zal Yanovsky had played together in the Mugwumps with future members of the Mamas and the Papas.",
+   "Their name comes from a line in Mississippi John Hurt's Coffee Blues.",
+   "Their first seven singles all reached the US Top 10."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Do You Believe in Magic",
+    1965
+   ],
+   [
+    "Daydream",
+    1966
+   ],
+   [
+    "Hums of the Lovin' Spoonful",
+    1966
+   ],
+   [
+    "Everything Playing",
+    1967
+   ]
+  ],
+  "songs": [
+   "Do You Believe in Magic",
+   "Daydream",
+   "Summer in the City",
+   "Did You Ever Have to Make Up Your Mind?",
+   "You Didn't Have to Be So Nice"
+  ],
+  "influencedBy": [
+   {
+    "id": "mississippi-john-hurt",
+    "why": "The band named itself after a Hurt lyric, and his gentle fingerpicking shaped Sebastian.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "The Beatles' arrival pushed the band from folk into electric pop.",
+    "s": 2
+   },
+   {
+    "id": "chuck-berry",
+    "why": "Their rock and roll side comes from Chuck Berry.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-avett-brothers",
+    "why": "Warm, folk-rooted songs with pop hooks."
+   },
+   {
+    "id": "old-crow-medicine-show",
+    "why": "Jug band and string band sounds made fresh."
+   }
+  ]
+ },
+ {
+  "id": "the-young-rascals",
+  "years": "1965–1972",
+  "origin": "New York City, New York",
+  "genres": [
+   "blue-eyed soul",
+   "R&B",
+   "pop rock"
+  ],
+  "summary": "The Young Rascals were a New York band that played soul and R&B with Hammond organ at the center. Their hits Good Lovin' and Groovin' made them one of the top American bands of the 1960s.",
+  "know": [
+   "The band was built around Felix Cavaliere's organ and vocals, Eddie Brigati, Gene Cornish and Dino Danelli.",
+   "They signed with Atlantic Records and worked with engineer Tom Dowd and arranger Arif Mardin.",
+   "They were inducted into the Rock and Roll Hall of Fame in 1997."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Young Rascals",
+    1966
+   ],
+   [
+    "Groovin'",
+    1967
+   ],
+   [
+    "Once Upon a Dream",
+    1968
+   ],
+   [
+    "Freedom Suite",
+    1969
+   ]
+  ],
+  "songs": [
+   "Good Lovin'",
+   "Groovin'",
+   "A Girl Like You",
+   "How Can I Be Sure",
+   "People Got to Be Free",
+   "A Beautiful Morning"
+  ],
+  "influencedBy": [
+   {
+    "id": "ray-charles",
+    "why": "Cavaliere's organ and gospel-soul vocals follow Ray Charles.",
+    "s": 2
+   },
+   {
+    "id": "tom-dowd",
+    "why": "Dowd engineered their Atlantic records and shaped their sound.",
+    "s": 3
+   },
+   {
+    "id": "wilson-pickett",
+    "why": "Their high-energy R&B takes its cue from Atlantic soul singers like Pickett.",
+    "s": 1
+   },
+   {
+    "id": "booker-t",
+    "why": "Their organ grooves draw on Booker T. & the M.G.'s.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "vanilla-fudge",
+    "why": "Vanilla Fudge modeled their organ-led blue-eyed soul on the Rascals.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "sam-and-dave",
+    "why": "Hard-driving, gospel-rooted soul."
+   },
+   {
+    "id": "the-meters",
+    "why": "Organ-led grooves with a tight rhythm section."
+   }
+  ]
+ },
+ {
+  "id": "chicago",
+  "years": "1967–present",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "jazz rock",
+   "soft rock",
+   "horn rock"
+  ],
+  "summary": "Chicago is a rock band with a full horn section that started as an ambitious jazz rock group and became one of the best-selling American bands. Their early albums mixed long instrumental suites with radio hits.",
+  "know": [
+   "The band formed among students and players connected to DePaul University.",
+   "Producer James William Guercio shaped their early albums.",
+   "Guitarist Terry Kath was widely praised for his playing, including by Jimi Hendrix."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Chicago Transit Authority",
+    1969
+   ],
+   [
+    "Chicago",
+    1970
+   ],
+   [
+    "Chicago V",
+    1972
+   ],
+   [
+    "Chicago 17",
+    1984
+   ]
+  ],
+  "songs": [
+   "25 or 6 to 4",
+   "Make Me Smile",
+   "Saturday in the Park",
+   "Does Anybody Really Know What Time It Is?",
+   "If You Leave Me Now",
+   "Hard to Say I'm Sorry"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "The band has cited the Beatles' horn arrangements and songcraft as a starting point.",
+    "s": 2
+   },
+   {
+    "id": "miles-davis",
+    "why": "Their long jazz-rock suites draw on late-1960s jazz.",
+    "s": 1
+   },
+   {
+    "id": "james-brown",
+    "why": "Their tight horn punches follow soul and funk horn sections.",
+    "s": 1
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "Terry Kath's fuzz-heavy guitar draws on Hendrix.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "earth-wind-fire",
+    "why": "A big band with a horn section at the core."
+   },
+   {
+    "id": "tower-of-power",
+    "why": "Tight horn arrangements driving the songs."
+   }
+  ]
+ },
+ {
+  "id": "joe-cocker",
+  "years": "1961–2014",
+  "origin": "Sheffield, England",
+  "genres": [
+   "blue-eyed soul",
+   "blues rock",
+   "rock"
+  ],
+  "summary": "Joe Cocker was an English singer with a raw, gravelly voice who turned other writers' songs into soul-rock showpieces. His Woodstock performance of With a Little Help from My Friends made him a star.",
+  "know": [
+   "His slowed, gospel-style With a Little Help from My Friends reached number one in the UK in 1968.",
+   "Leon Russell organized and led his large Mad Dogs & Englishmen touring band in 1970.",
+   "Up Where We Belong, with Jennifer Warnes, was a US number one and won a Grammy."
+  ],
+  "born": "05-20",
+  "keyAlbums": [
+   [
+    "With a Little Help from My Friends",
+    1969
+   ],
+   [
+    "Joe Cocker!",
+    1969
+   ],
+   [
+    "Mad Dogs & Englishmen",
+    1970
+   ],
+   [
+    "Sheffield Steel",
+    1982
+   ]
+  ],
+  "songs": [
+   "With a Little Help from My Friends",
+   "Feelin' Alright",
+   "The Letter",
+   "Delta Lady",
+   "You Are So Beautiful",
+   "Up Where We Belong"
+  ],
+  "influencedBy": [
+   {
+    "id": "ray-charles",
+    "why": "Cocker said Ray Charles was his main inspiration as a singer.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "He made his name with gospel-soul versions of Beatles songs.",
+    "s": 2
+   },
+   {
+    "id": "leon-russell",
+    "why": "Russell wrote Delta Lady for him and led Mad Dogs & Englishmen.",
+    "s": 3
+   },
+   {
+    "id": "traffic",
+    "why": "His hit Feelin' Alright came from Traffic's Dave Mason.",
+    "s": 2
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "otis-redding",
+    "why": "Raw, pleading soul vocals."
+   },
+   {
+    "id": "wilson-pickett",
+    "why": "Gritty, shouted R&B singing."
+   }
+  ]
+ },
+ {
+  "id": "leon-russell",
+  "years": "1956–2016",
+  "origin": "Tulsa, Oklahoma",
+  "genres": [
+   "roots rock",
+   "country rock",
+   "gospel",
+   "blues rock"
+  ],
+  "summary": "Leon Russell was a pianist, songwriter, producer and bandleader who moved from top Los Angeles session work to his own blend of gospel, country and rock. He was a central figure in the Tulsa sound and in early-1970s roots rock.",
+  "know": [
+   "As a Wrecking Crew session player he played on records by Phil Spector and the Beach Boys.",
+   "He led Joe Cocker's Mad Dogs & Englishmen tour and played the Concert for Bangladesh.",
+   "He co-founded Shelter Records and released The Union with Elton John in 2010."
+  ],
+  "born": "04-02",
+  "keyAlbums": [
+   [
+    "Leon Russell",
+    1970
+   ],
+   [
+    "Leon Russell and the Shelter People",
+    1971
+   ],
+   [
+    "Carney",
+    1972
+   ],
+   [
+    "Hank Wilson's Back",
+    1973
+   ]
+  ],
+  "songs": [
+   "A Song for You",
+   "Delta Lady",
+   "Tight Rope",
+   "This Masquerade",
+   "Lady Blue"
+  ],
+  "influencedBy": [
+   {
+    "id": "jerry-lee-lewis",
+    "why": "Russell's rolling, pounding piano draws on Jerry Lee Lewis.",
+    "s": 2
+   },
+   {
+    "id": "ray-charles",
+    "why": "His mix of gospel, country and R&B follows Ray Charles.",
+    "s": 2
+   },
+   {
+    "id": "wrecking-crew",
+    "why": "He learned the studio as part of the Wrecking Crew session players.",
+    "s": 3
+   },
+   {
+    "id": "phil-spector",
+    "why": "He played on Phil Spector's productions in the early 1960s.",
+    "s": 3
+   },
+   {
+    "id": "hank-williams",
+    "why": "Hank Wilson's Back is a tribute to the country songs he grew up on.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "joe-cocker",
+    "why": "Wrote Delta Lady for Cocker and led the Mad Dogs & Englishmen band.",
+    "s": 3
+   },
+   {
+    "id": "elton-john",
+    "why": "Elton John has called Russell a major influence on his piano style and later recorded The Union with him.",
+    "s": 3
+   },
+   {
+    "id": "tom-petty",
+    "why": "Signed Petty's early band Mudcrutch to Shelter Records.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "dr-john",
+    "why": "Gospel and New Orleans piano rolled into rock."
+   },
+   {
+    "id": "allen-toussaint",
+    "why": "A songwriter, pianist and producer behind many records."
+   }
+  ]
+ },
+ {
+  "id": "john-lennon",
+  "years": "1957–1980",
+  "origin": "Liverpool, England",
+  "genres": [
+   "rock",
+   "pop rock",
+   "art rock"
+  ],
+  "summary": "John Lennon was a founder of the Beatles and, after 1970, a solo artist known for direct, personal and political songs. Imagine and Plastic Ono Band are among the most influential solo albums in rock.",
+  "know": [
+   "He formed the Quarrymen, the group that became the Beatles, in 1957.",
+   "John Lennon/Plastic Ono Band was co-produced with Yoko Ono and Phil Spector.",
+   "Whatever Gets You Thru the Night, with Elton John, was his first US number one as a solo artist."
+  ],
+  "born": "10-09",
+  "keyAlbums": [
+   [
+    "John Lennon/Plastic Ono Band",
+    1970
+   ],
+   [
+    "Imagine",
+    1971
+   ],
+   [
+    "Walls and Bridges",
+    1974
+   ],
+   [
+    "Double Fantasy",
+    1980
+   ]
+  ],
+  "songs": [
+   "Instant Karma!",
+   "Imagine",
+   "Jealous Guy",
+   "Mind Games",
+   "Watching the Wheels"
+  ],
+  "influencedBy": [
+   {
+    "id": "elvis-presley",
+    "why": "Lennon said hearing Elvis made him want to play rock and roll.",
+    "s": 3
+   },
+   {
+    "id": "lonnie-donegan",
+    "why": "Donegan's skiffle inspired Lennon to start the Quarrymen.",
+    "s": 3
+   },
+   {
+    "id": "chuck-berry",
+    "why": "Lennon often named Chuck Berry as a key rock and roll writer.",
+    "s": 2
+   },
+   {
+    "id": "little-richard",
+    "why": "Lennon's raw shouting vocals come from Little Richard.",
+    "s": 2
+   },
+   {
+    "id": "buddy-holly",
+    "why": "Holly's songwriting showed Lennon a rocker could write his own songs.",
+    "s": 2
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Dylan pushed Lennon toward more personal lyrics.",
+    "s": 2
+   },
+   {
+    "id": "phil-spector",
+    "why": "Spector co-produced his early solo albums.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "david-bowie",
+    "why": "Lennon co-wrote and sang on Bowie's Fame.",
+    "s": 3
+   },
+   {
+    "id": "oasis",
+    "why": "Noel and Liam Gallagher have named Lennon as their main model.",
+    "s": 2
+   },
+   {
+    "id": "elliott-smith",
+    "why": "Smith's intimate, melodic songwriting draws on Lennon's solo work.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bob-marley",
+    "why": "Message songs with broad reach."
+   },
+   {
+    "id": "marvin-gaye",
+    "why": "Personal and political songs from a pop star's platform."
+   }
+  ]
+ },
+ {
+  "id": "paul-mccartney-and-wings",
+  "years": "1970–1981",
+  "origin": "London, England",
+  "genres": [
+   "pop rock",
+   "soft rock",
+   "rock"
+  ],
+  "summary": "Paul McCartney's post-Beatles work, solo and with Wings, produced a long run of hit singles and albums. Band on the Run is the high point of his 1970s output.",
+  "know": [
+   "Wings included Linda McCartney and Denny Laine, formerly of the Moody Blues.",
+   "Band on the Run was recorded largely in Lagos, Nigeria.",
+   "Mull of Kintyre became the UK's best-selling single at the time of its 1977 release."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "McCartney",
+    1970
+   ],
+   [
+    "Ram",
+    1971
+   ],
+   [
+    "Band on the Run",
+    1973
+   ],
+   [
+    "Venus and Mars",
+    1975
+   ]
+  ],
+  "songs": [
+   "Maybe I'm Amazed",
+   "Live and Let Die",
+   "Band on the Run",
+   "Jet",
+   "Silly Love Songs"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "McCartney carried his Beatles songwriting straight into his solo and Wings work.",
+    "s": 3
+   },
+   {
+    "id": "little-richard",
+    "why": "McCartney's rock vocal style comes from imitating Little Richard.",
+    "s": 2
+   },
+   {
+    "id": "buddy-holly",
+    "why": "McCartney has named Buddy Holly as a key early influence.",
+    "s": 2
+   },
+   {
+    "id": "the-beach-boys",
+    "why": "McCartney has called Pet Sounds a major influence on his writing.",
+    "s": 2
+   },
+   {
+    "id": "everly-brothers",
+    "why": "His harmony singing draws on the Everly Brothers.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "badfinger",
+    "why": "Wrote and produced Come and Get It, Badfinger's first hit.",
+    "s": 3
+   },
+   {
+    "id": "elvis-costello",
+    "why": "Costello co-wrote songs with McCartney in the late 1980s and admired his melodic craft.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "stevie-wonder",
+    "why": "A melodic, multi-instrumental songwriter making hits on his own terms."
+   },
+   {
+    "id": "carole-king",
+    "why": "Melodic, durable pop songwriting."
+   }
+  ]
+ },
+ {
+  "id": "george-harrison",
+  "years": "1958–2001",
+  "origin": "Liverpool, England",
+  "genres": [
+   "rock",
+   "folk rock",
+   "raga rock"
+  ],
+  "summary": "George Harrison was the Beatles' lead guitarist and, after the band, a solo artist whose All Things Must Pass was a major success. He brought Indian music into rock and later co-founded the Traveling Wilburys.",
+  "know": [
+   "He studied sitar with Ravi Shankar and introduced it on Beatles records.",
+   "He organized the 1971 Concert for Bangladesh, an early large-scale benefit concert.",
+   "He formed the Traveling Wilburys with Bob Dylan, Tom Petty, Roy Orbison and Jeff Lynne."
+  ],
+  "born": "02-25",
+  "keyAlbums": [
+   [
+    "All Things Must Pass",
+    1970
+   ],
+   [
+    "Living in the Material World",
+    1973
+   ],
+   [
+    "Cloud Nine",
+    1987
+   ],
+   [
+    "Traveling Wilburys Vol. 1",
+    1988
+   ]
+  ],
+  "songs": [
+   "My Sweet Lord",
+   "What Is Life",
+   "Isn't It a Pity",
+   "Give Me Love (Give Me Peace on Earth)",
+   "Got My Mind Set on You"
+  ],
+  "influencedBy": [
+   {
+    "id": "carl-perkins",
+    "why": "Harrison named Carl Perkins as his first guitar hero.",
+    "s": 3
+   },
+   {
+    "id": "ravi-shankar",
+    "why": "Shankar taught him sitar and became a lifelong mentor.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Dylan was a close friend and a major influence on his songwriting.",
+    "s": 3
+   },
+   {
+    "id": "chet-atkins",
+    "why": "Harrison has cited Chet Atkins's fingerpicking as an early model.",
+    "s": 2
+   },
+   {
+    "id": "lonnie-donegan",
+    "why": "Like his bandmates, he started playing guitar because of skiffle.",
+    "s": 2
+   },
+   {
+    "id": "eric-clapton",
+    "why": "Clapton was a close friend who played on his records.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "tom-petty",
+    "why": "Petty worked with him as a fellow Traveling Wilbury.",
+    "s": 2
+   },
+   {
+    "id": "badfinger",
+    "why": "Harrison produced part of Straight Up for Badfinger on Apple Records.",
+    "s": 3
+   },
+   {
+    "id": "the-byrds",
+    "why": "Roger McGuinn took up the 12-string Rickenbacker after seeing Harrison play one in A Hard Day's Night.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "cat-stevens",
+    "why": "Spiritual searching in gentle, melodic songs."
+   },
+   {
+    "id": "james-taylor",
+    "why": "Warm, melodic acoustic-based songwriting."
+   }
+  ]
+ },
+ {
+  "id": "rod-stewart",
+  "years": "1964–present",
+  "origin": "London, England",
+  "genres": [
+   "rock",
+   "folk rock",
+   "blue-eyed soul",
+   "soft rock"
+  ],
+  "summary": "Rod Stewart is an English singer with a rasping voice who moved from the Jeff Beck Group and Faces to a long solo career. His early-1970s albums mixed folk, soul and rock and roll with real warmth.",
+  "know": [
+   "He sang with the Jeff Beck Group and then Faces while also recording solo.",
+   "In 1971 Maggie May and Every Picture Tells a Story topped the singles and album charts in both the UK and US at once.",
+   "In the 2000s he recorded a series of Great American Songbook albums."
+  ],
+  "born": "01-10",
+  "keyAlbums": [
+   [
+    "Gasoline Alley",
+    1970
+   ],
+   [
+    "Every Picture Tells a Story",
+    1971
+   ],
+   [
+    "Never a Dull Moment",
+    1972
+   ],
+   [
+    "Atlantic Crossing",
+    1975
+   ]
+  ],
+  "songs": [
+   "Maggie May",
+   "Reason to Believe",
+   "You Wear It Well",
+   "The First Cut Is the Deepest",
+   "Forever Young"
+  ],
+  "influencedBy": [
+   {
+    "id": "sam-cooke",
+    "why": "Stewart has named Sam Cooke as his greatest vocal influence.",
+    "s": 3
+   },
+   {
+    "id": "jeff-beck",
+    "why": "The Jeff Beck Group gave Stewart his first major platform.",
+    "s": 3
+   },
+   {
+    "id": "faces",
+    "why": "His solo albums used many of the same players as Faces.",
+    "s": 3
+   },
+   {
+    "id": "otis-redding",
+    "why": "His soul phrasing draws on Otis Redding.",
+    "s": 2
+   },
+   {
+    "id": "bob-dylan",
+    "why": "He recorded many Dylan songs on his early albums.",
+    "s": 2
+   },
+   {
+    "id": "ramblin-jack-elliott",
+    "why": "Stewart has credited Jack Elliott with sparking his early folk playing.",
+    "s": 2
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "bobby-womack",
+    "why": "Raspy, soulful vocals over warm grooves."
+   },
+   {
+    "id": "tony-bennett",
+    "why": "A rock-era voice taking on the Great American Songbook."
+   }
+  ]
+ },
+ {
+  "id": "lou-reed",
+  "years": "1964–2013",
+  "origin": "New York City, New York",
+  "genres": [
+   "art rock",
+   "proto-punk",
+   "rock"
+  ],
+  "summary": "Lou Reed was the leader of the Velvet Underground and a solo artist who wrote plainspoken, literary rock songs about city life. His work is a cornerstone of punk, new wave and indie rock.",
+  "know": [
+   "He co-founded the Velvet Underground with John Cale in 1964.",
+   "Transformer was co-produced by David Bowie and Mick Ronson.",
+   "Metal Machine Music is a double album made entirely of guitar feedback."
+  ],
+  "born": "03-02",
+  "keyAlbums": [
+   [
+    "Transformer",
+    1972
+   ],
+   [
+    "Berlin",
+    1973
+   ],
+   [
+    "Coney Island Baby",
+    1976
+   ],
+   [
+    "New York",
+    1989
+   ]
+  ],
+  "songs": [
+   "Walk on the Wild Side",
+   "Perfect Day",
+   "Satellite of Love",
+   "Coney Island Baby",
+   "Dirty Blvd."
+  ],
+  "influencedBy": [
+   {
+    "id": "the-velvet-underground",
+    "why": "Reed's solo work grew directly out of his Velvet Underground songs.",
+    "s": 3
+   },
+   {
+    "id": "ornette-coleman",
+    "why": "Reed often cited Ornette Coleman's free jazz as an influence on his guitar playing.",
+    "s": 2
+   },
+   {
+    "id": "david-bowie",
+    "why": "Bowie co-produced Transformer and gave Reed his biggest hit.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Dylan showed Reed that rock lyrics could be literary.",
+    "s": 1
+   },
+   {
+    "id": "bo-diddley",
+    "why": "Reed's simple, driving rhythm guitar draws on Bo Diddley.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "patti-smith",
+    "why": "Patti Smith's spoken, literary rock follows Reed's model.",
+    "s": 2
+   },
+   {
+    "id": "talking-heads",
+    "why": "Talking Heads' plain, observational New York songwriting follows Reed.",
+    "s": 2
+   },
+   {
+    "id": "television",
+    "why": "Television came up in the New York scene Reed's work had shaped.",
+    "s": 2
+   },
+   {
+    "id": "sonic-youth",
+    "why": "Sonic Youth's feedback and drone come partly from Reed's guitar experiments.",
+    "s": 2
+   },
+   {
+    "id": "joy-division",
+    "why": "Joy Division covered Sister Ray and borrowed the Velvets' flat delivery.",
+    "s": 2
+   },
+   {
+    "id": "the-strokes",
+    "why": "The Strokes' cool New York guitar rock leans heavily on Reed.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "tom-waits",
+    "why": "Gritty, literary songs about city life."
+   },
+   {
+    "id": "gil-scott-heron",
+    "why": "Spoken, poetic reports from New York streets."
+   }
+  ]
+ },
+ {
+  "id": "the-guess-who",
+  "years": "1965–1975",
+  "origin": "Winnipeg, Canada",
+  "genres": [
+   "rock",
+   "pop rock",
+   "hard rock"
+  ],
+  "summary": "The Guess Who were a Winnipeg band led by Burton Cummings and Randy Bachman whose hits made them the first Canadian rock band to top the US charts. American Woman remains their signature song.",
+  "know": [
+   "Their 1965 cover of Shakin' All Over was their first international hit.",
+   "American Woman reached number one in the US in 1970, a first for a Canadian band.",
+   "Randy Bachman left in 1970 and later formed Bachman-Turner Overdrive."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Wheatfield Soul",
+    1969
+   ],
+   [
+    "Canned Wheat",
+    1969
+   ],
+   [
+    "American Woman",
+    1970
+   ],
+   [
+    "Share the Land",
+    1970
+   ]
+  ],
+  "songs": [
+   "Shakin' All Over",
+   "These Eyes",
+   "No Time",
+   "American Woman",
+   "Undun",
+   "Share the Land"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "The band came up as a British-style beat group inspired by the Beatles.",
+    "s": 1
+   },
+   {
+    "id": "the-kinks",
+    "why": "Their harder riff-based songs follow the British Invasion bands.",
+    "s": 1
+   },
+   {
+    "id": "the-yardbirds",
+    "why": "Bachman's guitar drew on British blues rock players.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "lenny-kravitz",
+    "why": "Kravitz's hit cover of American Woman brought the song to a new generation.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "gordon-lightfoot",
+    "why": "A defining Canadian songwriting voice of the same era."
+   },
+   {
+    "id": "buffy-sainte-marie",
+    "why": "Canadian songs that reached a wide audience."
+   }
+  ]
+ },
+ {
+  "id": "zz-top",
+  "years": "1969–present",
+  "origin": "Houston, Texas",
+  "genres": [
+   "blues rock",
+   "boogie rock",
+   "Southern rock"
+  ],
+  "summary": "ZZ Top is a Texas trio built on Billy Gibbons's tone and a tight boogie-blues groove. They moved from Texas blues rock in the 1970s to a synth-touched MTV sound in the 1980s.",
+  "know": [
+   "Billy Gibbons, Dusty Hill and Frank Beard kept the same lineup for more than 50 years.",
+   "La Grange is built on a boogie in the style of John Lee Hooker and Slim Harpo.",
+   "Gibbons's earlier band the Moving Sidewalks opened shows for Jimi Hendrix."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Tres Hombres",
+    1973
+   ],
+   [
+    "Fandango!",
+    1975
+   ],
+   [
+    "Deguello",
+    1979
+   ],
+   [
+    "Eliminator",
+    1983
+   ]
+  ],
+  "songs": [
+   "La Grange",
+   "Tush",
+   "Cheap Sunglasses",
+   "Gimme All Your Lovin'",
+   "Sharp Dressed Man",
+   "Legs"
+  ],
+  "influencedBy": [
+   {
+    "id": "john-lee-hooker",
+    "why": "La Grange takes its boogie straight from Hooker.",
+    "s": 2
+   },
+   {
+    "id": "slim-harpo",
+    "why": "Slim Harpo's Shake Your Hips is a direct ancestor of La Grange.",
+    "s": 2
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "Gibbons toured with Hendrix in the Moving Sidewalks, and Hendrix praised his playing.",
+    "s": 3
+   },
+   {
+    "id": "13th-floor-elevators",
+    "why": "Gibbons has cited the Elevators as a key early influence.",
+    "s": 2
+   },
+   {
+    "id": "muddy-waters",
+    "why": "Their blues base is Chicago electric blues.",
+    "s": 2
+   },
+   {
+    "id": "freddie-king",
+    "why": "Gibbons has named Freddie King as an important guitar influence.",
+    "s": 2
+   }
+  ],
+  "influenced": [
+   {
+    "id": "the-black-keys",
+    "why": "The Black Keys' gritty Southern blues rock leans on ZZ Top.",
+    "s": 2
+   },
+   {
+    "id": "queens-of-the-stone-age",
+    "why": "Gibbons guested on Queens of the Stone Age records and shaped their desert boogie.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "rl-burnside",
+    "why": "Hypnotic, one-chord boogie blues."
+   },
+   {
+    "id": "stevie-ray-vaughan",
+    "why": "Texas blues guitar with big tone."
+   }
+  ]
+ },
+ {
+  "id": "the-marshall-tucker-band",
+  "years": "1972–present",
+  "origin": "Spartanburg, South Carolina",
+  "genres": [
+   "Southern rock",
+   "country rock"
+  ],
+  "summary": "The Marshall Tucker Band blended Southern rock with country, jazz and flute-and-sax color. Toy Caldwell's songs, including Can't You See, made them one of the defining Southern bands of the 1970s.",
+  "know": [
+   "Toy Caldwell was the band's main songwriter and lead guitarist.",
+   "Jerry Eubanks played flute and saxophone, unusual for a Southern rock band.",
+   "The band is named after a piano tuner whose name was on the key to their rehearsal room."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Marshall Tucker Band",
+    1973
+   ],
+   [
+    "A New Life",
+    1974
+   ],
+   [
+    "Searchin' for a Rainbow",
+    1975
+   ],
+   [
+    "Carolina Dreams",
+    1977
+   ]
+  ],
+  "songs": [
+   "Can't You See",
+   "Heard It in a Love Song",
+   "Fire on the Mountain",
+   "Take the Highway",
+   "24 Hours at a Time"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-allman-brothers",
+    "why": "They came up on Capricorn Records in the Allmans' wake and toured with them.",
+    "s": 2
+   },
+   {
+    "id": "hank-williams",
+    "why": "Toy Caldwell's country-rooted songwriting draws on Hank Williams.",
+    "s": 1
+   },
+   {
+    "id": "merle-haggard",
+    "why": "Their country side follows Bakersfield-era country songwriting.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "drive-by-truckers",
+    "why": "Southern storytelling with guitars and country roots."
+   },
+   {
+    "id": "the-nitty-gritty-dirt-band",
+    "why": "Country and rock mixed with a laid-back feel."
+   }
+  ]
+ }
+]

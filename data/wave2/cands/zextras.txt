@@ -1,0 +1,9 @@
+tate-mcrae|Tate McRae|2020s|pop|artist
+roddy-ricch|Roddy Ricch|2010s|hiphop|artist
+kehlani|Kehlani|2010s|soul|artist
+benson-boone|Benson Boone|2020s|pop|artist
+megan-moroney|Megan Moroney|2020s|country|artist
+knocked-loose|Knocked Loose|2010s|metal|artist
+fisher|Fisher|2010s|electronic|artist
+john-summit|John Summit|2020s|electronic|artist
+ella-langley|Ella Langley|2020s|country|artist

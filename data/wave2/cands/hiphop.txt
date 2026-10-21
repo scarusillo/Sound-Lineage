@@ -1,0 +1,136 @@
+kurtis-blow|Kurtis Blow|1970s|hiphop|artist
+roxanne-shante|Roxanne Shanté|1980s|hiphop|artist
+doug-e-fresh|Doug E. Fresh|1980s|hiphop|artist
+marley-marl|Marley Marl|1980s|hiphop|producer
+big-daddy-kane|Big Daddy Kane|1980s|hiphop|artist
+kool-g-rap|Kool G Rap & DJ Polo|1980s|hiphop|artist
+biz-markie|Biz Markie|1980s|hiphop|artist
+mc-lyte|MC Lyte|1980s|hiphop|artist
+salt-n-pepa|Salt-N-Pepa|1980s|hiphop|artist
+queen-latifah|Queen Latifah|1980s|hiphop|artist
+epmd|EPMD|1980s|hiphop|artist
+jungle-brothers|Jungle Brothers|1980s|hiphop|artist
+dj-jazzy-jeff-fresh-prince|DJ Jazzy Jeff & The Fresh Prince|1980s|hiphop|artist
+ice-t|Ice-T|1980s|hiphop|artist
+too-short|Too $hort|1980s|hiphop|artist
+eazy-e|Eazy-E|1980s|hiphop|artist
+mc-hammer|MC Hammer|1980s|hiphop|artist
+2-live-crew|2 Live Crew|1980s|hiphop|artist
+geto-boys|Geto Boys|1980s|hiphop|artist
+schoolly-d|Schoolly D|1980s|hiphop|artist
+gang-starr|Gang Starr|1980s|hiphop|artist
+dj-premier|DJ Premier|1990s|hiphop|producer
+pete-rock-cl-smooth|Pete Rock & CL Smooth|1990s|hiphop|artist
+busta-rhymes|Busta Rhymes|1990s|hiphop|artist
+digable-planets|Digable Planets|1990s|hiphop|artist
+pharcyde|The Pharcyde|1990s|hiphop|artist
+del-the-funky-homosapien|Del the Funky Homosapien|1990s|hiphop|artist
+cypress-hill|Cypress Hill|1990s|hiphop|artist
+naughty-by-nature|Naughty by Nature|1990s|hiphop|artist
+redman|Redman|1990s|hiphop|artist
+method-man|Method Man|1990s|hiphop|artist
+ghostface-killah|Ghostface Killah|1990s|hiphop|artist
+raekwon|Raekwon|1990s|hiphop|artist
+gza|GZA|1990s|hiphop|artist
+ol-dirty-bastard|Ol' Dirty Bastard|1990s|hiphop|artist
+rza|RZA|1990s|hiphop|producer
+mobb-deep|Mobb Deep|1990s|hiphop|artist
+big-l|Big L|1990s|hiphop|artist
+big-pun|Big Pun|1990s|hiphop|artist
+fat-joe|Fat Joe|1990s|hiphop|artist
+dmx|DMX|1990s|hiphop|artist
+puff-daddy|Sean "Puff Daddy" Combs|1990s|hiphop|producer
+lil-kim|Lil' Kim|1990s|hiphop|artist
+fugees|Fugees|1990s|hiphop|artist
+wyclef-jean|Wyclef Jean|1990s|hiphop|artist
+black-star|Black Star|1990s|hiphop|artist
+talib-kweli|Talib Kweli|1990s|hiphop|artist
+common|Common|1990s|hiphop|artist
+madlib|Madlib|1990s|hiphop|producer
+jurassic-5|Jurassic 5|1990s|hiphop|artist
+warren-g|Warren G|1990s|hiphop|artist
+nate-dogg|Nate Dogg|1990s|hiphop|artist
+dj-quik|DJ Quik|1990s|hiphop|artist
+the-game|The Game|2000s|hiphop|artist
+xzibit|Xzibit|1990s|hiphop|artist
+e-40|E-40|1990s|hiphop|artist
+mac-dre|Mac Dre|1990s|hiphop|artist
+bone-thugs-n-harmony|Bone Thugs-n-Harmony|1990s|hiphop|artist
+twista|Twista|1990s|hiphop|artist
+tech-n9ne|Tech N9ne|1990s|hiphop|artist
+goodie-mob|Goodie Mob|1990s|hiphop|artist
+organized-noize|Organized Noize|1990s|hiphop|producer
+master-p|Master P|1990s|hiphop|artist
+juvenile|Juvenile|1990s|hiphop|artist
+hot-boys|Hot Boys|1990s|hiphop|artist
+mannie-fresh|Mannie Fresh|1990s|hiphop|producer
+dj-screw|DJ Screw|1990s|hiphop|producer
+scarface|Scarface|1990s|hiphop|artist
+juicy-j|Juicy J|1990s|hiphop|artist
+timbaland|Timbaland|1990s|hiphop|producer
+the-neptunes|The Neptunes|1990s|hiphop|producer
+ludacris|Ludacris|2000s|hiphop|artist
+t-i|T.I.|2000s|hiphop|artist
+young-jeezy|Young Jeezy|2000s|hiphop|artist
+lil-jon|Lil Jon|2000s|hiphop|artist
+nelly|Nelly|2000s|hiphop|artist
+50-cent|50 Cent|2000s|hiphop|artist
+dipset|The Diplomats|2000s|hiphop|artist
+camron|Cam'ron|2000s|hiphop|artist
+clipse|Clipse|2000s|hiphop|artist
+rick-ross|Rick Ross|2000s|hiphop|artist
+lupe-fiasco|Lupe Fiasco|2000s|hiphop|artist
+nicki-minaj|Nicki Minaj|2000s|hiphop|artist
+soulja-boy|Soulja Boy|2000s|hiphop|artist
+atmosphere|Atmosphere|2000s|hiphop|artist
+aesop-rock|Aesop Rock|2000s|hiphop|artist
+run-the-jewels|Run the Jewels|2010s|hiphop|artist
+the-alchemist|The Alchemist|2000s|hiphop|producer
+lex-luger|Lex Luger|2010s|hiphop|producer
+metro-boomin|Metro Boomin|2010s|hiphop|producer
+mike-will-made-it|Mike Will Made-It|2010s|hiphop|producer
+wiz-khalifa|Wiz Khalifa|2000s|hiphop|artist
+mac-miller|Mac Miller|2010s|hiphop|artist
+big-sean|Big Sean|2010s|hiphop|artist
+meek-mill|Meek Mill|2010s|hiphop|artist
+wale|Wale|2000s|hiphop|artist
+asap-rocky|A$AP Rocky|2010s|hiphop|artist
+danny-brown|Danny Brown|2010s|hiphop|artist
+schoolboy-q|ScHoolboy Q|2010s|hiphop|artist
+earl-sweatshirt|Earl Sweatshirt|2010s|hiphop|artist
+chance-the-rapper|Chance the Rapper|2010s|hiphop|artist
+vince-staples|Vince Staples|2010s|hiphop|artist
+joey-badass|Joey Bada$$|2010s|hiphop|artist
+nipsey-hussle|Nipsey Hussle|2010s|hiphop|artist
+ty-dolla-sign|Ty Dolla $ign|2010s|hiphop|artist
+yg|YG|2010s|hiphop|artist
+2-chainz|2 Chainz|2010s|hiphop|artist
+waka-flocka-flame|Waka Flocka Flame|2010s|hiphop|artist
+lil-b|Lil B|2010s|hiphop|artist
+denzel-curry|Denzel Curry|2010s|hiphop|artist
+rae-sremmurd|Rae Sremmurd|2010s|hiphop|artist
+21-savage|21 Savage|2010s|hiphop|artist
+lil-yachty|Lil Yachty|2010s|hiphop|artist
+kodak-black|Kodak Black|2010s|hiphop|artist
+nba-youngboy|YoungBoy Never Broke Again|2010s|hiphop|artist
+lil-baby|Lil Baby|2010s|hiphop|artist
+gunna|Gunna|2010s|hiphop|artist
+cardi-b|Cardi B|2010s|hiphop|artist
+megan-thee-stallion|Megan Thee Stallion|2010s|hiphop|artist
+post-malone|Post Malone|2010s|hiphop|artist
+xxxtentacion|XXXTentacion|2010s|hiphop|artist
+lil-peep|Lil Peep|2010s|hiphop|artist
+juice-wrld|Juice WRLD|2010s|hiphop|artist
+suicideboys|$uicideboy$|2010s|hiphop|artist
+lil-durk|Lil Durk|2010s|hiphop|artist
+bobby-shmurda|Bobby Shmurda|2010s|hiphop|artist
+brockhampton|Brockhampton|2010s|hiphop|artist
+jpegmafia|JPEGMafia|2010s|hiphop|artist
+death-grips|Death Grips|2010s|hiphop|artist
+freddie-gibbs|Freddie Gibbs|2010s|hiphop|artist
+griselda|Griselda|2010s|hiphop|artist
+the-streets|The Streets|2000s|hiphop|artist
+wiley|Wiley|2000s|hiphop|artist
+dizzee-rascal|Dizzee Rascal|2000s|hiphop|artist
+skepta|Skepta|2000s|hiphop|artist
+stormzy|Stormzy|2010s|hiphop|artist

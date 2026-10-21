@@ -1,0 +1,3788 @@
+[
+ {
+  "id": "halsey",
+  "years": "2014–present",
+  "origin": "Edison, New Jersey",
+  "genres": [
+   "electropop",
+   "alt-pop",
+   "pop rock"
+  ],
+  "summary": "Halsey is a singer and songwriter who built a large following online before breaking through with moody, synth-heavy pop. Her records move between dark electropop, ballads and industrial rock.",
+  "know": [
+   "Her 2015 debut Badlands was written as a concept album about a walled desert city.",
+   "She sang on The Chainsmokers' 2016 hit Closer, which topped the Billboard Hot 100 for twelve weeks.",
+   "Trent Reznor and Atticus Ross produced her 2021 album If I Can't Have Love, I Want Power."
+  ],
+  "born": "09-29",
+  "keyAlbums": [
+   [
+    "Badlands",
+    2015
+   ],
+   [
+    "Hopeless Fountain Kingdom",
+    2017
+   ],
+   [
+    "Manic",
+    2020
+   ],
+   [
+    "If I Can't Have Love, I Want Power",
+    2021
+   ]
+  ],
+  "songs": [
+   "New Americana",
+   "Bad at Love",
+   "Without Me",
+   "Graveyard",
+   "Closer"
+  ],
+  "influencedBy": [
+   {
+    "id": "nine-inch-nails",
+    "why": "Trent Reznor and Atticus Ross produced If I Can't Have Love, I Want Power and pushed her sound toward industrial rock.",
+    "s": 3
+   },
+   {
+    "id": "lana-del-rey",
+    "why": "Her early cinematic, melancholy pop drew on the moody Americana that Lana Del Rey made popular.",
+    "s": 1
+   },
+   {
+    "id": "bright-eyes",
+    "why": "She has named Conor Oberst's confessional songwriting as a formative influence on her lyrics.",
+    "s": 2
+   },
+   {
+    "id": "kanye-west",
+    "why": "She has pointed to Kanye West's genre-blending albums as a model for treating pop records as big conceptual statements.",
+    "s": 2
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "paramore",
+    "why": "Emotional, hook-driven songs that sit between pop and rock."
+   },
+   {
+    "id": "nine-inch-nails",
+    "why": "Dark, synth-driven intensity, which she borrowed for her 2021 album."
+   }
+  ]
+ },
+ {
+  "id": "shawn-mendes",
+  "years": "2014–present",
+  "origin": "Pickering, Canada",
+  "genres": [
+   "pop",
+   "pop rock",
+   "soft rock"
+  ],
+  "summary": "Shawn Mendes is a Canadian singer and guitarist who went from posting short cover videos online to arena-filling pop. His songs pair acoustic guitar with big, clean pop production.",
+  "know": [
+   "He first drew attention by posting six-second cover songs on the app Vine.",
+   "His debut album Handwritten reached number one in the US in 2015.",
+   "He opened for Taylor Swift on her 1989 World Tour in 2015."
+  ],
+  "born": "08-08",
+  "keyAlbums": [
+   [
+    "Handwritten",
+    2015
+   ],
+   [
+    "Illuminate",
+    2016
+   ],
+   [
+    "Shawn Mendes",
+    2018
+   ],
+   [
+    "Shawn",
+    2024
+   ]
+  ],
+  "songs": [
+   "Stitches",
+   "Treat You Better",
+   "There's Nothing Holdin' Me Back",
+   "In My Blood",
+   "Señorita"
+  ],
+  "influencedBy": [
+   {
+    "id": "ed-sheeran",
+    "why": "His guitar-led, singer-songwriter take on pop follows the path Ed Sheeran opened up.",
+    "s": 2
+   },
+   {
+    "id": "taylor-swift",
+    "why": "Touring as her opening act gave him early arena experience and a template for a songwriter-led pop career.",
+    "s": 2
+   },
+   {
+    "id": "justin-bieber",
+    "why": "He followed Bieber's route from online cover videos to teen-pop stardom.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "bon-iver",
+    "why": "Soft, emotional singing over guitar, in a folk setting."
+   },
+   {
+    "id": "the-1975",
+    "why": "Guitar pop built for big crowds."
+   }
+  ]
+ },
+ {
+  "id": "camila-cabello",
+  "years": "2012–present",
+  "origin": "Miami, Florida",
+  "genres": [
+   "pop",
+   "latin pop",
+   "dance-pop"
+  ],
+  "summary": "Camila Cabello is a Cuban-born singer who rose with the group Fifth Harmony before going solo. Her music mixes mainstream pop with Latin rhythms and Cuban musical roots.",
+  "know": [
+   "She was a member of Fifth Harmony, a group formed on The X Factor USA in 2012.",
+   "Her solo single Havana reached number one in the US and the UK.",
+   "Her duet Señorita with Shawn Mendes won a Latin American Music Award and was a global hit in 2019."
+  ],
+  "born": "03-03",
+  "keyAlbums": [
+   [
+    "Camila",
+    2018
+   ],
+   [
+    "Romance",
+    2019
+   ],
+   [
+    "Familia",
+    2022
+   ],
+   [
+    "C,XOXO",
+    2024
+   ]
+  ],
+  "songs": [
+   "Havana",
+   "Never Be the Same",
+   "Señorita",
+   "Bam Bam",
+   "Don't Go Yet"
+  ],
+  "influencedBy": [
+   {
+    "id": "gloria-estefan",
+    "why": "She has named Gloria Estefan as a model for a Cuban-American artist bringing Latin sounds to mainstream pop from Miami.",
+    "s": 2
+   },
+   {
+    "id": "celia-cruz",
+    "why": "She has cited the Cuban music she grew up on, with Celia Cruz as a key figure.",
+    "s": 2
+   },
+   {
+    "id": "shakira",
+    "why": "Shakira showed how a Latin artist could cross over into English-language pop while keeping her roots.",
+    "s": 1
+   },
+   {
+    "id": "taylor-swift",
+    "why": "She has called Taylor Swift a songwriting inspiration and opened her Reputation tour in 2018.",
+    "s": 2
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "gloria-estefan",
+    "why": "Miami pop with Cuban roots, a generation earlier."
+   },
+   {
+    "id": "shakira",
+    "why": "Latin pop crossover with dance rhythms."
+   }
+  ]
+ },
+ {
+  "id": "lizzo",
+  "years": "2013–present",
+  "origin": "Minneapolis, Minnesota",
+  "genres": [
+   "pop",
+   "funk",
+   "r&b",
+   "hip-hop"
+  ],
+  "summary": "Lizzo is a singer, rapper and classically trained flutist who came up in the Minneapolis scene. Her upbeat mix of funk, soul and rap became a major pop force at the end of the 2010s.",
+  "know": [
+   "She studied classical flute at the University of Houston and often plays flute on stage.",
+   "She worked with Prince on the song Boytrouble from his 2014 album with 3rdEyeGirl.",
+   "Truth Hurts, first released in 2017, reached number one in the US in 2019."
+  ],
+  "born": "04-27",
+  "keyAlbums": [
+   [
+    "Lizzobangers",
+    2013
+   ],
+   [
+    "Big Grrrl Small World",
+    2015
+   ],
+   [
+    "Cuz I Love You",
+    2019
+   ],
+   [
+    "Special",
+    2022
+   ]
+  ],
+  "songs": [
+   "Truth Hurts",
+   "Good as Hell",
+   "Juice",
+   "About Damn Time",
+   "Tempo"
+  ],
+  "influencedBy": [
+   {
+    "id": "prince",
+    "why": "She worked with Prince in Minneapolis, and his funk-pop fusion runs through her music.",
+    "s": 3
+   },
+   {
+    "id": "missy-elliott",
+    "why": "She has named Missy Elliott as a hero, and the two recorded Tempo together.",
+    "s": 3
+   },
+   {
+    "id": "lauryn-hill",
+    "why": "She has cited Lauryn Hill's mix of singing and rapping as a big early influence.",
+    "s": 2
+   },
+   {
+    "id": "destinys-child",
+    "why": "She has credited Destiny's Child with first making her want to sing.",
+    "s": 2
+   },
+   {
+    "id": "aretha-franklin",
+    "why": "Her big gospel-influenced vocals follow in the line of Aretha Franklin.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "chic",
+    "why": "Joyful, groove-first dance music."
+   },
+   {
+    "id": "parliament-funkadelic",
+    "why": "Bright, bold funk built for a party."
+   }
+  ]
+ },
+ {
+  "id": "doja-cat",
+  "years": "2012–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "pop",
+   "hip-hop",
+   "r&b"
+  ],
+  "summary": "Doja Cat is a rapper, singer and producer who moves between pop hooks and sharp rap verses. Her playful, internet-born style made her one of the biggest crossover stars of the 2020s.",
+  "know": [
+   "She first gained attention by posting songs on SoundCloud as a teenager.",
+   "Say So, from Hot Pink, reached number one in the US in 2020 after spreading on TikTok.",
+   "Her 2023 album Scarlet leaned heavily toward rap and away from her earlier pop sound."
+  ],
+  "born": "10-21",
+  "keyAlbums": [
+   [
+    "Amala",
+    2018
+   ],
+   [
+    "Hot Pink",
+    2019
+   ],
+   [
+    "Planet Her",
+    2021
+   ],
+   [
+    "Scarlet",
+    2023
+   ]
+  ],
+  "songs": [
+   "Say So",
+   "Kiss Me More",
+   "Woman",
+   "Paint the Town Red",
+   "Need to Know"
+  ],
+  "influencedBy": [
+   {
+    "id": "nicki-minaj",
+    "why": "Her character voices and quick switches between rapping and singing follow the path Nicki Minaj set.",
+    "s": 2
+   },
+   {
+    "id": "missy-elliott",
+    "why": "Her playful, visual approach to rap and pop owes a clear debt to Missy Elliott.",
+    "s": 1
+   },
+   {
+    "id": "erykah-badu",
+    "why": "She has named Erykah Badu as a favorite, and her neo-soul side shows it.",
+    "s": 2
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "missy-elliott",
+    "why": "Playful, inventive rap with big pop hooks."
+   },
+   {
+    "id": "outkast",
+    "why": "Rap that mixes genres and characters freely."
+   }
+  ]
+ },
+ {
+  "id": "troye-sivan",
+  "years": "2013–present",
+  "origin": "Perth, Australia",
+  "genres": [
+   "electropop",
+   "synth-pop",
+   "dance-pop"
+  ],
+  "summary": "Troye Sivan is an Australian singer who grew from a YouTube personality into a respected pop artist. His records move from soft, dreamy synth-pop to club-ready dance music.",
+  "know": [
+   "He was born in Johannesburg, South Africa, and raised in Perth.",
+   "His debut album Blue Neighbourhood came out in 2015 after two EPs.",
+   "His 2023 album Something to Give Each Other turned toward house and club music, led by the single Rush."
+  ],
+  "born": "06-05",
+  "keyAlbums": [
+   [
+    "Blue Neighbourhood",
+    2015
+   ],
+   [
+    "Bloom",
+    2018
+   ],
+   [
+    "Something to Give Each Other",
+    2023
+   ]
+  ],
+  "songs": [
+   "Youth",
+   "Wild",
+   "My My My!",
+   "Bloom",
+   "Rush"
+  ],
+  "influencedBy": [
+   {
+    "id": "lorde",
+    "why": "His hushed, atmospheric early pop came out of the same moment as Lorde, whom he has praised.",
+    "s": 1
+   },
+   {
+    "id": "taylor-swift",
+    "why": "He has called Taylor Swift a major songwriting influence.",
+    "s": 2
+   },
+   {
+    "id": "kylie-minogue",
+    "why": "His dance-pop turn draws on Kylie Minogue, a fellow Australian pop icon he has named as a favorite.",
+    "s": 2
+   },
+   {
+    "id": "robyn",
+    "why": "His mix of sadness and dance beats follows Robyn's style of crying-on-the-dancefloor pop.",
+    "s": 1
+   },
+   {
+    "id": "charli-xcx",
+    "why": "He has worked closely with Charli XCX, including the duet 1999, and shares her club-pop tastes.",
+    "s": 2
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-1975",
+    "why": "Sleek, emotional pop production from a band setting."
+   },
+   {
+    "id": "frank-ocean",
+    "why": "Soft, intimate vocals and personal songwriting in R&B."
+   }
+  ]
+ },
+ {
+  "id": "lewis-capaldi",
+  "years": "2017–present",
+  "origin": "Glasgow, Scotland",
+  "genres": [
+   "pop",
+   "soul",
+   "piano ballad"
+  ],
+  "summary": "Lewis Capaldi is a Scottish singer-songwriter known for huge, raw-voiced piano ballads. His debut album was one of the best-selling UK records of its time.",
+  "know": [
+   "Someone You Loved reached number one in both the UK and the US.",
+   "His debut album Divinely Uninspired to a Hellish Extent was the best-selling UK album of both 2019 and 2020.",
+   "He is known for his self-mocking humor in interviews and on social media."
+  ],
+  "born": "10-07",
+  "keyAlbums": [
+   [
+    "Divinely Uninspired to a Hellish Extent",
+    2019
+   ],
+   [
+    "Broken by Desire to Be Heavenly Sent",
+    2023
+   ]
+  ],
+  "songs": [
+   "Someone You Loved",
+   "Before You Go",
+   "Bruises",
+   "Hold Me While You Wait",
+   "Forget Me"
+  ],
+  "influencedBy": [
+   {
+    "id": "adele",
+    "why": "His big, emotional piano ballads follow the template Adele set for modern British pop.",
+    "s": 1
+   },
+   {
+    "id": "amy-winehouse",
+    "why": "His raspy, soul-rooted singing draws on the British soul revival led by Amy Winehouse.",
+    "s": 1
+   },
+   {
+    "id": "ed-sheeran",
+    "why": "Ed Sheeran's success opened the door for unadorned British singer-songwriters, and Capaldi toured with him.",
+    "s": 2
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "bon-iver",
+    "why": "Aching, emotional vocals that are the center of the song."
+   },
+   {
+    "id": "otis-redding",
+    "why": "Raw soul singing that pours everything into a ballad."
+   }
+  ]
+ },
+ {
+  "id": "caroline-polachek",
+  "years": "2006–present",
+  "origin": "New York, New York",
+  "genres": [
+   "art pop",
+   "synth-pop",
+   "experimental pop"
+  ],
+  "summary": "Caroline Polachek is a singer and producer who first led the synth-pop duo Chairlift before going solo. Her art-pop is known for acrobatic vocals and unusual, detailed production.",
+  "know": [
+   "She co-founded Chairlift, whose song Bruises was used in an iPod ad in 2008.",
+   "She co-wrote and co-produced No Angel on Beyoncé's 2013 self-titled album.",
+   "Her solo albums Pang and Desire, I Want to Turn Into You were widely named among the best of their years."
+  ],
+  "born": "06-20",
+  "keyAlbums": [
+   [
+    "Something (Chairlift)",
+    2012
+   ],
+   [
+    "Pang",
+    2019
+   ],
+   [
+    "Desire, I Want to Turn Into You",
+    2023
+   ]
+  ],
+  "songs": [
+   "Bruises",
+   "So Hot You're Hurting My Feelings",
+   "Bunny Is a Rider",
+   "Welcome to My Island",
+   "Door"
+  ],
+  "influencedBy": [
+   {
+    "id": "kate-bush",
+    "why": "Her theatrical, wide-ranging vocals and art-pop ambition are often traced to Kate Bush.",
+    "s": 2
+   },
+   {
+    "id": "bjork",
+    "why": "Her blend of experimental production and emotional pop draws on Björk.",
+    "s": 2
+   },
+   {
+    "id": "enya",
+    "why": "She has named Enya's layered, airy vocal style as an influence.",
+    "s": 2
+   },
+   {
+    "id": "a-g-cook",
+    "why": "A. G. Cook worked on Pang and links her to the PC Music circle of producers.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "beyonce",
+    "why": "She co-wrote and co-produced No Angel for Beyoncé's 2013 album.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "cocteau-twins",
+    "why": "Ethereal, wordless-feeling vocals over lush sound."
+   },
+   {
+    "id": "bjork",
+    "why": "Experimental pop built around a singular voice."
+   }
+  ]
+ },
+ {
+  "id": "joji",
+  "years": "2017–present",
+  "origin": "Osaka, Japan",
+  "genres": [
+   "lo-fi",
+   "alternative r&b",
+   "bedroom pop"
+  ],
+  "summary": "Joji is a Japanese-Australian singer and producer who moved from internet comedy to moody, slow R&B. His hushed, lo-fi ballads became a major part of 2010s and 2020s streaming culture.",
+  "know": [
+   "He released his early music through 88rising, a company focused on Asian artists.",
+   "His debut album Ballads 1 topped Billboard's R&B and Hip-Hop chart in 2018.",
+   "Glimpse of Us, a piano ballad from 2022, became his biggest hit."
+  ],
+  "born": "09-18",
+  "keyAlbums": [
+   [
+    "Ballads 1",
+    2018
+   ],
+   [
+    "Nectar",
+    2020
+   ],
+   [
+    "Smithereens",
+    2022
+   ]
+  ],
+  "songs": [
+   "Slow Dancing in the Dark",
+   "Sanctuary",
+   "Glimpse of Us",
+   "Run",
+   "Yeah Right"
+  ],
+  "influencedBy": [
+   {
+    "id": "frank-ocean",
+    "why": "His soft, melancholy alternative R&B follows the mood Frank Ocean made popular.",
+    "s": 1
+   },
+   {
+    "id": "james-blake",
+    "why": "His sparse, reverb-heavy ballads echo James Blake's spacious production.",
+    "s": 1
+   },
+   {
+    "id": "bon-iver",
+    "why": "His layered, wounded vocals sit in the lineage of Bon Iver's falsetto ballads.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "james-blake",
+    "why": "Sparse, sad electronic soul."
+   },
+   {
+    "id": "elliott-smith",
+    "why": "Quiet, heartbroken songs sung close to the mic."
+   }
+  ]
+ },
+ {
+  "id": "rex-orange-county",
+  "years": "2015–present",
+  "origin": "London, England",
+  "genres": [
+   "bedroom pop",
+   "indie pop",
+   "soul"
+  ],
+  "summary": "Rex Orange County is the project of English singer-songwriter Alex O'Connor, known for warm, jazzy bedroom pop. He rose quickly after working with Tyler, the Creator.",
+  "know": [
+   "He studied at the BRIT School in London.",
+   "He sang and wrote on two songs from Tyler, the Creator's 2017 album Flower Boy.",
+   "His 2019 album Pony reached the top five in the US."
+  ],
+  "born": "05-04",
+  "keyAlbums": [
+   [
+    "Bcos U Will Never B Free",
+    2015
+   ],
+   [
+    "Apricot Princess",
+    2017
+   ],
+   [
+    "Pony",
+    2019
+   ],
+   [
+    "Who Cares?",
+    2022
+   ]
+  ],
+  "songs": [
+   "Loving Is Easy",
+   "Best Friend",
+   "Sunflower",
+   "Pluto Projector",
+   "10/10"
+  ],
+  "influencedBy": [
+   {
+    "id": "tyler-the-creator",
+    "why": "Tyler invited him onto Flower Boy, which broke him to a wide audience and shaped his jazzy pop sound.",
+    "s": 3
+   },
+   {
+    "id": "frank-ocean",
+    "why": "His soft, chord-rich songwriting follows the warm alternative R&B of Frank Ocean.",
+    "s": 1
+   },
+   {
+    "id": "kanye-west",
+    "why": "He has named Kanye West among the artists he grew up on, and his sample-like arrangements show it.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "steve-lacy",
+    "why": "Jazzy, homemade pop with a soul feel."
+   },
+   {
+    "id": "tyler-the-creator",
+    "why": "Colorful, chord-heavy songs from the rap side."
+   }
+  ]
+ },
+ {
+  "id": "conan-gray",
+  "years": "2018–present",
+  "origin": "Georgetown, Texas",
+  "genres": [
+   "pop",
+   "indie pop",
+   "synth-pop"
+  ],
+  "summary": "Conan Gray is a singer-songwriter who built a fan base through YouTube before releasing diary-like pop about growing up. His songs pair sharp, specific lyrics with bright, emotional hooks.",
+  "know": [
+   "He started posting videos on YouTube as a teenager in small-town Texas.",
+   "His debut album Kid Krow was produced with Dan Nigro and debuted in the US top five in 2020.",
+   "Max Martin was a main producer on his 2024 album Found Heaven, which leaned into 1980s synth-pop."
+  ],
+  "born": "12-05",
+  "keyAlbums": [
+   [
+    "Kid Krow",
+    2020
+   ],
+   [
+    "Superache",
+    2022
+   ],
+   [
+    "Found Heaven",
+    2024
+   ],
+   [
+    "Wishbone",
+    2025
+   ]
+  ],
+  "songs": [
+   "Heather",
+   "Maniac",
+   "Crush Culture",
+   "People Watching",
+   "Memories"
+  ],
+  "influencedBy": [
+   {
+    "id": "taylor-swift",
+    "why": "He has called Taylor Swift his biggest songwriting influence, especially her detailed storytelling.",
+    "s": 2
+   },
+   {
+    "id": "lorde",
+    "why": "He has named Lorde's moody, observational pop as a key influence on his early songs.",
+    "s": 2
+   },
+   {
+    "id": "dan-nigro",
+    "why": "Dan Nigro co-wrote and produced Kid Krow and Superache and shaped their sound.",
+    "s": 3
+   },
+   {
+    "id": "max-martin",
+    "why": "Max Martin co-produced Found Heaven and steered it toward big, classic pop.",
+    "s": 3
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "phoebe-bridgers",
+    "why": "Sad, diary-like songwriting in an indie folk setting."
+   },
+   {
+    "id": "the-1975",
+    "why": "Glossy, emotional songs about young adulthood."
+   }
+  ]
+ },
+ {
+  "id": "gracie-abrams",
+  "years": "2019–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "pop",
+   "indie pop",
+   "singer-songwriter"
+  ],
+  "summary": "Gracie Abrams is a singer-songwriter known for quiet, intimate songs that later grew into bigger, brighter pop. She broke through to a mass audience while opening for Taylor Swift.",
+  "know": [
+   "Aaron Dessner of The National produced her debut album Good Riddance in 2023.",
+   "She opened for Taylor Swift on many dates of the Eras Tour, and the two recorded the duet us.",
+   "That's So True, from The Secret of Us, became her biggest hit in 2024."
+  ],
+  "born": "09-07",
+  "keyAlbums": [
+   [
+    "Minor",
+    2020
+   ],
+   [
+    "Good Riddance",
+    2023
+   ],
+   [
+    "The Secret of Us",
+    2024
+   ]
+  ],
+  "songs": [
+   "I miss you, I'm sorry",
+   "That's So True",
+   "Risk",
+   "I Love You, I'm Sorry",
+   "Close to You"
+  ],
+  "influencedBy": [
+   {
+    "id": "taylor-swift",
+    "why": "She toured with Taylor Swift and has called her a central influence on her songwriting.",
+    "s": 3
+   },
+   {
+    "id": "aaron-dessner",
+    "why": "Aaron Dessner produced Good Riddance and The Secret of Us and shaped their hushed, layered sound.",
+    "s": 3
+   },
+   {
+    "id": "joni-mitchell",
+    "why": "She has named Joni Mitchell as a guiding influence on her confessional writing.",
+    "s": 2
+   },
+   {
+    "id": "lorde",
+    "why": "She has cited Lorde as one of the artists who made her want to write songs.",
+    "s": 2
+   },
+   {
+    "id": "phoebe-bridgers",
+    "why": "Her soft, whispered sad songs share the mood of Phoebe Bridgers.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "phoebe-bridgers",
+    "why": "Whispery, confessional songs in an indie folk frame."
+   },
+   {
+    "id": "the-national",
+    "why": "Muted, emotional songs built by the same producer's band."
+   }
+  ]
+ },
+ {
+  "id": "raye",
+  "years": "2014–present",
+  "origin": "London, England",
+  "genres": [
+   "pop",
+   "r&b",
+   "soul",
+   "jazz"
+  ],
+  "summary": "Raye is a London singer and songwriter who wrote for other artists and sang on dance hits before going independent. Her debut album, a mix of jazz, soul and pop, made her one of Britain's leading artists.",
+  "know": [
+   "She studied at the BRIT School in London.",
+   "She left her major label and released her debut album My 21st Century Blues independently in 2023.",
+   "In 2024 she won six BRIT Awards in one night, a record."
+  ],
+  "born": "10-24",
+  "keyAlbums": [
+   [
+    "Euphoric Sad Songs",
+    2020
+   ],
+   [
+    "My 21st Century Blues",
+    2023
+   ]
+  ],
+  "songs": [
+   "Escapism",
+   "Black Mascara",
+   "Oscar Winning Tears",
+   "Where Is My Husband!",
+   "Prada"
+  ],
+  "influencedBy": [
+   {
+    "id": "amy-winehouse",
+    "why": "Her jazz-soul side and London grit draw directly on Amy Winehouse.",
+    "s": 2
+   },
+   {
+    "id": "ella-fitzgerald",
+    "why": "She has named jazz singers like Ella Fitzgerald as early vocal influences.",
+    "s": 2
+   },
+   {
+    "id": "etta-james",
+    "why": "Her big, bluesy ballad singing follows the line of Etta James.",
+    "s": 1
+   },
+   {
+    "id": "lauryn-hill",
+    "why": "Her mix of soul singing and sharp, personal writing follows Lauryn Hill.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "amy-winehouse",
+    "why": "Jazz-soul with a London voice."
+   },
+   {
+    "id": "sault",
+    "why": "Modern British soul with deep roots."
+   }
+  ]
+ },
+ {
+  "id": "rina-sawayama",
+  "years": "2017–present",
+  "origin": "London, England",
+  "genres": [
+   "pop",
+   "nu-metal",
+   "art pop",
+   "dance-pop"
+  ],
+  "summary": "Rina Sawayama is a Japanese-British singer and songwriter whose pop mixes 2000s chart pop with nu-metal guitars and dance music. Her debut album was one of the most praised pop records of 2020.",
+  "know": [
+   "She was born in Niigata, Japan, and moved to London as a child.",
+   "Her 2020 debut album Sawayama mixed nu-metal guitars with glossy pop.",
+   "Elton John sang on a 2021 version of her song Chosen Family."
+  ],
+  "born": "08-16",
+  "keyAlbums": [
+   [
+    "Rina",
+    2017
+   ],
+   [
+    "Sawayama",
+    2020
+   ],
+   [
+    "Hold the Girl",
+    2022
+   ]
+  ],
+  "songs": [
+   "XS",
+   "STFU!",
+   "Comme des Garçons (Like the Boys)",
+   "Chosen Family",
+   "This Hell"
+  ],
+  "influencedBy": [
+   {
+    "id": "britney-spears",
+    "why": "Her love of 2000s chart pop, which she often names, shows in her hooks.",
+    "s": 2
+   },
+   {
+    "id": "utada-hikaru",
+    "why": "She has named Utada Hikaru as a major influence on her pop songwriting.",
+    "s": 2
+   },
+   {
+    "id": "lady-gaga",
+    "why": "Her theatrical, genre-hopping pop follows the path of Lady Gaga.",
+    "s": 1
+   },
+   {
+    "id": "korn",
+    "why": "Her heavy, downtuned guitar parts borrow from nu-metal bands like Korn.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "korn",
+    "why": "Heavy, downtuned riffs she brings into pop."
+   },
+   {
+    "id": "utada-hikaru",
+    "why": "Bilingual pop that bridges Japan and the West."
+   }
+  ]
+ },
+ {
+  "id": "pinkpantheress",
+  "years": "2021–present",
+  "origin": "London, England",
+  "genres": [
+   "bedroom pop",
+   "drum and bass",
+   "uk garage"
+  ],
+  "summary": "PinkPantheress is an English singer and producer who blew up on TikTok with very short songs built on drum and bass and garage beats. She brought 1990s and 2000s UK club sounds back to a young pop audience.",
+  "know": [
+   "She posted short song snippets on TikTok while studying at university in London.",
+   "Many of her early songs are under two minutes long.",
+   "Boy's a Liar Pt. 2, with Ice Spice, reached the US top five in 2023."
+  ],
+  "born": "04-18",
+  "keyAlbums": [
+   [
+    "To Hell with It",
+    2021
+   ],
+   [
+    "Heaven Knows",
+    2023
+   ],
+   [
+    "Fancy That",
+    2025
+   ]
+  ],
+  "songs": [
+   "Pain",
+   "Just for Me",
+   "Boy's a Liar Pt. 2",
+   "Break It Off",
+   "Illegal"
+  ],
+  "influencedBy": [
+   {
+    "id": "goldie",
+    "why": "Her skittering drum and bass beats draw on 1990s jungle pioneered by producers like Goldie.",
+    "s": 1
+   },
+   {
+    "id": "roni-size",
+    "why": "Her breakbeat-driven production echoes the Bristol drum and bass of Roni Size.",
+    "s": 1
+   },
+   {
+    "id": "the-streets",
+    "why": "Her casual, very British take on garage beats follows The Streets.",
+    "s": 1
+   },
+   {
+    "id": "paramore",
+    "why": "She has named emo and pop-punk bands, Paramore among them, as early favorites.",
+    "s": 2
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "goldie",
+    "why": "Fast breakbeats that are the backbone of her songs."
+   },
+   {
+    "id": "burial",
+    "why": "Ghostly UK garage moods."
+   }
+  ]
+ },
+ {
+  "id": "twenty-one-pilots",
+  "years": "2009–present",
+  "origin": "Columbus, Ohio",
+  "genres": [
+   "alternative",
+   "pop rock",
+   "alternative hip-hop",
+   "electropop"
+  ],
+  "summary": "Twenty One Pilots is a duo of singer Tyler Joseph and drummer Josh Dun who blend rap, pop, rock and electronic music. Their genre-mixing songs and story-based albums built one of the most devoted fan bases of the 2010s.",
+  "know": [
+   "They started in Columbus and built a following through constant local touring.",
+   "Blurryface made them the first act to have every song on an album earn a gold or better RIAA certification.",
+   "Their albums from Trench to Clancy tell a connected story set in a fictional city called Dema."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Vessel",
+    2013
+   ],
+   [
+    "Blurryface",
+    2015
+   ],
+   [
+    "Trench",
+    2018
+   ],
+   [
+    "Clancy",
+    2024
+   ]
+  ],
+  "songs": [
+   "Stressed Out",
+   "Heathens",
+   "Ride",
+   "Car Radio",
+   "Chlorine"
+  ],
+  "influencedBy": [
+   {
+    "id": "linkin-park",
+    "why": "Tyler Joseph has named Linkin Park's mix of rap and rock as a key influence.",
+    "s": 2
+   },
+   {
+    "id": "my-chemical-romance",
+    "why": "Their dark, theatrical concept albums and fan culture follow My Chemical Romance.",
+    "s": 1
+   },
+   {
+    "id": "eminem",
+    "why": "His rapid, wordy rap verses draw on Eminem, whom Joseph grew up hearing.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "linkin-park",
+    "why": "Rap and rock fused for a huge audience."
+   },
+   {
+    "id": "outkast",
+    "why": "Freely mixing rap, pop and rock within one album."
+   }
+  ]
+ },
+ {
+  "id": "japanese-breakfast",
+  "years": "2013–present",
+  "origin": "Philadelphia, Pennsylvania",
+  "genres": [
+   "indie pop",
+   "dream pop",
+   "indie rock"
+  ],
+  "summary": "Japanese Breakfast is the project of Korean-American musician and writer Michelle Zauner. Her music moves from hazy dream pop to bright, joyful indie pop, and she is also a best-selling author.",
+  "know": [
+   "Michelle Zauner played in the Philadelphia band Little Big League before starting Japanese Breakfast.",
+   "Her 2021 memoir Crying in H Mart became a New York Times best seller.",
+   "Jubilee earned Grammy nominations for Best New Artist and Best Alternative Music Album."
+  ],
+  "born": "03-29",
+  "keyAlbums": [
+   [
+    "Psychopomp",
+    2016
+   ],
+   [
+    "Soft Sounds from Another Planet",
+    2017
+   ],
+   [
+    "Jubilee",
+    2021
+   ],
+   [
+    "For Melancholy Brunettes (& Sad Women)",
+    2025
+   ]
+  ],
+  "songs": [
+   "Be Sweet",
+   "Everybody Wants to Love You",
+   "Paprika",
+   "Boyish",
+   "Orlando in Love"
+  ],
+  "influencedBy": [
+   {
+    "id": "kate-bush",
+    "why": "She has named Kate Bush as an influence on the bold, theatrical pop of Jubilee.",
+    "s": 2
+   },
+   {
+    "id": "bjork",
+    "why": "She has cited Björk as an inspiration for the joyful, adventurous sound of Jubilee.",
+    "s": 2
+   },
+   {
+    "id": "cocteau-twins",
+    "why": "Her early dreamy, layered guitars echo the Cocteau Twins.",
+    "s": 1
+   },
+   {
+    "id": "yo-la-tengo",
+    "why": "Her mix of fuzz and tenderness sits in the indie lineage of Yo La Tengo.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "kate-bush",
+    "why": "Art pop that turns personal stories into big songs."
+   },
+   {
+    "id": "robyn",
+    "why": "Bright pop with sadness underneath."
+   }
+  ]
+ },
+ {
+  "id": "snail-mail",
+  "years": "2015–present",
+  "origin": "Baltimore, Maryland",
+  "genres": [
+   "indie rock",
+   "bedroom pop",
+   "guitar pop"
+  ],
+  "summary": "Snail Mail is the project of guitarist and songwriter Lindsey Jordan, who started releasing music as a teenager. Her bright, chiming guitar songs revived the 1990s indie rock sound for a new generation.",
+  "know": [
+   "She released her first EP, Habit, at age 16.",
+   "She signed to Matador Records, which released her debut album Lush in 2018.",
+   "She took guitar lessons from Mary Timony of the bands Helium and Wild Flag."
+  ],
+  "born": "06-08",
+  "keyAlbums": [
+   [
+    "Habit",
+    2016
+   ],
+   [
+    "Lush",
+    2018
+   ],
+   [
+    "Valentine",
+    2021
+   ]
+  ],
+  "songs": [
+   "Pristine",
+   "Heat Wave",
+   "Valentine",
+   "Thinning",
+   "Glory"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-breeders",
+    "why": "Her chiming, melodic guitar rock follows 1990s indie bands like The Breeders.",
+    "s": 1
+   },
+   {
+    "id": "sleater-kinney",
+    "why": "Her guitar-forward indie rock and Matador-era sound sit in the line of Sleater-Kinney.",
+    "s": 1
+   },
+   {
+    "id": "pavement",
+    "why": "Her loose, melodic guitar lines draw on 1990s Matador indie rock such as Pavement.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "joan-jett-and-the-blackhearts",
+    "why": "Punchy, guitar-first songs with a youthful edge."
+   },
+   {
+    "id": "phoebe-bridgers",
+    "why": "A young songwriter writing frankly about heartbreak."
+   }
+  ]
+ },
+ {
+  "id": "big-thief",
+  "years": "2015–present",
+  "origin": "Brooklyn, New York",
+  "genres": [
+   "indie folk",
+   "indie rock",
+   "folk rock"
+  ],
+  "summary": "Big Thief is a Brooklyn band led by singer and songwriter Adrianne Lenker, known for tender folk songs that can turn into loud, raw rock. They are one of the most praised indie bands of their era.",
+  "know": [
+   "Adrianne Lenker and guitarist Buck Meek met in Brooklyn and formed the band around their duo.",
+   "They released two acclaimed albums, U.F.O.F. and Two Hands, in the same year, 2019.",
+   "Dragon New Warm Mountain I Believe in You is a 20-song double album recorded in several places across the US."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Masterpiece",
+    2016
+   ],
+   [
+    "U.F.O.F.",
+    2019
+   ],
+   [
+    "Two Hands",
+    2019
+   ],
+   [
+    "Dragon New Warm Mountain I Believe in You",
+    2022
+   ]
+  ],
+  "songs": [
+   "Paul",
+   "Shark Smile",
+   "Not",
+   "Simulation Swarm",
+   "Masterpiece"
+  ],
+  "influencedBy": [
+   {
+    "id": "neil-young",
+    "why": "Their shift from quiet folk to ragged, loud guitar jams follows Neil Young and Crazy Horse.",
+    "s": 2
+   },
+   {
+    "id": "joni-mitchell",
+    "why": "Adrianne Lenker's open-tuned guitar and vivid, poetic lyrics echo Joni Mitchell.",
+    "s": 1
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Their long, image-rich folk songs follow the Bob Dylan tradition.",
+    "s": 1
+   },
+   {
+    "id": "elliott-smith",
+    "why": "Lenker's hushed fingerpicking and fragile singing recall Elliott Smith.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "gillian-welch",
+    "why": "Quiet, intense folk played by close collaborators."
+   },
+   {
+    "id": "neil-young",
+    "why": "Gentle folk that can explode into noise."
+   }
+  ]
+ },
+ {
+  "id": "car-seat-headrest",
+  "years": "2010–present",
+  "origin": "Leesburg, Virginia",
+  "genres": [
+   "indie rock",
+   "lo-fi",
+   "power pop"
+  ],
+  "summary": "Car Seat Headrest began as the home-recording project of Will Toledo, who put out a dozen albums on Bandcamp before signing to Matador. His long, wordy, guitar-heavy songs made him a leading indie rock songwriter of the 2010s.",
+  "know": [
+   "Will Toledo self-released many albums on Bandcamp, recording some of the vocals in his car for privacy.",
+   "Teens of Denial, his first album of new songs for Matador, came out in 2016 to wide acclaim.",
+   "He re-recorded his 2011 album Twin Fantasy with a full band and released it in 2018."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Twin Fantasy",
+    2011
+   ],
+   [
+    "Teens of Style",
+    2015
+   ],
+   [
+    "Teens of Denial",
+    2016
+   ],
+   [
+    "Making a Door Less Open",
+    2020
+   ]
+  ],
+  "songs": [
+   "Something Soon",
+   "Fill in the Blank",
+   "Bodys",
+   "Vincent",
+   "Beach Life-in-Death"
+  ],
+  "influencedBy": [
+   {
+    "id": "pavement",
+    "why": "His slacker-style vocals and lo-fi guitar rock follow Pavement.",
+    "s": 2
+   },
+   {
+    "id": "modest-mouse",
+    "why": "His long, rambling songs with sudden shifts echo Modest Mouse.",
+    "s": 1
+   },
+   {
+    "id": "neutral-milk-hotel",
+    "why": "His raw, home-recorded intensity draws on Neutral Milk Hotel.",
+    "s": 1
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "His droning, repetitive guitar songs look back to The Velvet Underground.",
+    "s": 1
+   },
+   {
+    "id": "frank-ocean",
+    "why": "Toledo has named Frank Ocean as an influence on his confessional writing.",
+    "s": 2
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-streets",
+    "why": "Talky, diary-like songs about young life."
+   },
+   {
+    "id": "bruce-springsteen",
+    "why": "Long, sprawling songs that build to a big release."
+   }
+  ]
+ },
+ {
+  "id": "courtney-barnett",
+  "years": "2012–present",
+  "origin": "Melbourne, Australia",
+  "genres": [
+   "indie rock",
+   "garage rock",
+   "folk rock"
+  ],
+  "summary": "Courtney Barnett is an Australian singer and guitarist known for deadpan, conversational lyrics over loose, scrappy guitar rock. Her debut album made her an international indie favorite.",
+  "know": [
+   "She founded her own label, Milk! Records, in Melbourne to release her early music.",
+   "Her debut album earned her a Grammy nomination for Best New Artist in 2016.",
+   "She made the duet album Lotta Sea Lice with Kurt Vile in 2017."
+  ],
+  "born": "11-03",
+  "keyAlbums": [
+   [
+    "The Double EP: A Sea of Split Peas",
+    2013
+   ],
+   [
+    "Sometimes I Sit and Think, and Sometimes I Just Sit",
+    2015
+   ],
+   [
+    "Tell Me How You Really Feel",
+    2018
+   ],
+   [
+    "Things Take Time, Take Time",
+    2021
+   ]
+  ],
+  "songs": [
+   "Avant Gardener",
+   "Pedestrian at Best",
+   "Depreston",
+   "Nameless, Faceless",
+   "Elevator Operator"
+  ],
+  "influencedBy": [
+   {
+    "id": "nirvana",
+    "why": "She has named Nirvana as the band that got her into playing guitar.",
+    "s": 2
+   },
+   {
+    "id": "pavement",
+    "why": "Her slacker-style delivery and loose guitar rock follow Pavement.",
+    "s": 1
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Her long, talky, observational lyrics follow the Bob Dylan tradition.",
+    "s": 1
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "Her half-spoken vocals over droning guitars echo Lou Reed and The Velvet Underground.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "bob-dylan",
+    "why": "Wordy, wry songs that feel like talking."
+   },
+   {
+    "id": "john-prine",
+    "why": "Funny, sharp everyday storytelling."
+   }
+  ]
+ },
+ {
+  "id": "waxahatchee",
+  "years": "2010–present",
+  "origin": "Birmingham, Alabama",
+  "genres": [
+   "indie rock",
+   "indie folk",
+   "americana"
+  ],
+  "summary": "Waxahatchee is the project of Alabama songwriter Katie Crutchfield, who moved from lo-fi indie rock to warm, country-leaning Americana. Her later albums are some of the most praised roots records of the 2020s.",
+  "know": [
+   "Before Waxahatchee she played in the punk band P.S. Eliot with her twin sister Allison.",
+   "Her debut American Weekend was recorded alone at her family's home in Alabama.",
+   "MJ Lenderman played guitar on Tigers Blood and sang on its single Right Back to It."
+  ],
+  "born": "01-04",
+  "keyAlbums": [
+   [
+    "American Weekend",
+    2012
+   ],
+   [
+    "Cerulean Salt",
+    2013
+   ],
+   [
+    "Saint Cloud",
+    2020
+   ],
+   [
+    "Tigers Blood",
+    2024
+   ]
+  ],
+  "songs": [
+   "Fire",
+   "Lilacs",
+   "Right Back to It",
+   "Can't Do Much",
+   "Under a Rock"
+  ],
+  "influencedBy": [
+   {
+    "id": "lucinda-williams",
+    "why": "She has named Lucinda Williams as a key model for the Southern, country-leaning sound of Saint Cloud.",
+    "s": 2
+   },
+   {
+    "id": "bright-eyes",
+    "why": "She has cited Bright Eyes as a big influence on her early, confessional songwriting.",
+    "s": 2
+   },
+   {
+    "id": "emmylou-harris",
+    "why": "Her warm, country-tinged harmonies follow the line of Emmylou Harris.",
+    "s": 1
+   },
+   {
+    "id": "mj-lenderman",
+    "why": "Lenderman played in her band on Tigers Blood and brought a loose, twangy guitar feel.",
+    "s": 3
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "lucinda-williams",
+    "why": "Southern songwriting that is both rough and tender."
+   },
+   {
+    "id": "gillian-welch",
+    "why": "Spare, rooted songs of the American South."
+   }
+  ]
+ },
+ {
+  "id": "boygenius",
+  "years": "2018–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "indie rock",
+   "indie folk",
+   "folk rock"
+  ],
+  "summary": "boygenius is a supergroup of songwriters Julien Baker, Phoebe Bridgers and Lucy Dacus. Their close harmonies and shared songwriting made their 2023 album a critical and commercial high point for indie rock.",
+  "know": [
+   "The three formed the group in 2018 and released a six-song EP that year.",
+   "The Record debuted in the US top five and won Grammys including Best Alternative Music Album.",
+   "For a 2023 Rolling Stone cover they recreated a famous 1992 Nirvana cover shoot."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "boygenius",
+    2018
+   ],
+   [
+    "The Record",
+    2023
+   ],
+   [
+    "The Rest",
+    2023
+   ]
+  ],
+  "songs": [
+   "Me & My Dog",
+   "Not Strong Enough",
+   "$20",
+   "Cool About It",
+   "True Blue"
+  ],
+  "influencedBy": [
+   {
+    "id": "phoebe-bridgers",
+    "why": "Phoebe Bridgers is a founding member and brought her hushed, dark folk sound.",
+    "s": 3
+   },
+   {
+    "id": "lucy-dacus",
+    "why": "Lucy Dacus is a founding member and brought her storytelling and steady vocal tone.",
+    "s": 3
+   },
+   {
+    "id": "crosby-stills-nash",
+    "why": "Their three-way harmonies and trading of lead vocals follow the supergroup model of Crosby, Stills and Nash.",
+    "s": 2
+   },
+   {
+    "id": "nirvana",
+    "why": "They paid tribute to Nirvana in a 2023 magazine cover and bring loud guitars to songs like $20.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "crosby-stills-nash",
+    "why": "A supergroup of songwriters built on harmony."
+   },
+   {
+    "id": "the-chicks",
+    "why": "Three voices in close harmony with sharp songs."
+   }
+  ]
+ },
+ {
+  "id": "lucy-dacus",
+  "years": "2016–present",
+  "origin": "Richmond, Virginia",
+  "genres": [
+   "indie rock",
+   "indie folk",
+   "singer-songwriter"
+  ],
+  "summary": "Lucy Dacus is a Virginia singer-songwriter known for detailed, memoir-like songs and a calm, rich voice. She is also a member of boygenius.",
+  "know": [
+   "Her debut No Burden was first released on a small Richmond label in 2016 before Matador reissued it.",
+   "Her 2021 album Home Video looks back at her childhood and teen years in Richmond.",
+   "She has covered Bruce Springsteen's Dancing in the Dark and Born in the U.S.A."
+  ],
+  "born": "05-02",
+  "keyAlbums": [
+   [
+    "No Burden",
+    2016
+   ],
+   [
+    "Historian",
+    2018
+   ],
+   [
+    "Home Video",
+    2021
+   ],
+   [
+    "Forever Is a Feeling",
+    2025
+   ]
+  ],
+  "songs": [
+   "I Don't Wanna Be Funny Anymore",
+   "Night Shift",
+   "Hot & Heavy",
+   "VBS",
+   "Ankles"
+  ],
+  "influencedBy": [
+   {
+    "id": "bruce-springsteen",
+    "why": "She has covered Springsteen and named him as an influence on her slow-building storytelling.",
+    "s": 2
+   },
+   {
+    "id": "phoebe-bridgers",
+    "why": "Her bandmate in boygenius, with whom she has traded songs and harmonies since 2018.",
+    "s": 3
+   },
+   {
+    "id": "the-national",
+    "why": "Her slow-building, emotionally heavy indie rock shares the mood of The National.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "bruce-springsteen",
+    "why": "Songs that build slowly to a big emotional release."
+   },
+   {
+    "id": "joni-mitchell",
+    "why": "Diary-like songs with close personal detail."
+   }
+  ]
+ },
+ {
+  "id": "alex-g",
+  "years": "2010–present",
+  "origin": "Philadelphia, Pennsylvania",
+  "genres": [
+   "indie rock",
+   "lo-fi",
+   "indie folk"
+  ],
+  "summary": "Alex G is a Philadelphia singer and multi-instrumentalist who built a cult following through home-recorded albums on Bandcamp. His odd, warm songs mix lo-fi indie rock with country and experimental touches.",
+  "know": [
+   "He released several albums for free on Bandcamp before signing with Domino in 2015.",
+   "He played guitar on Frank Ocean's 2016 albums Blonde and Endless.",
+   "He scored the 2024 film I Saw the TV Glow."
+  ],
+  "born": "05-25",
+  "keyAlbums": [
+   [
+    "DSU",
+    2014
+   ],
+   [
+    "Beach Music",
+    2015
+   ],
+   [
+    "Rocket",
+    2017
+   ],
+   [
+    "House of Sugar",
+    2019
+   ]
+  ],
+  "songs": [
+   "Mary",
+   "Bobby",
+   "Sarah",
+   "Southern Sky",
+   "Runner"
+  ],
+  "influencedBy": [
+   {
+    "id": "elliott-smith",
+    "why": "His whispered vocals and home-recorded, melodic songs are often traced to Elliott Smith.",
+    "s": 2
+   },
+   {
+    "id": "modest-mouse",
+    "why": "His strange turns and ragged indie rock show a debt to Modest Mouse.",
+    "s": 1
+   },
+   {
+    "id": "built-to-spill",
+    "why": "His layered guitar melodies follow 1990s indie rock like Built to Spill.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "frank-ocean",
+    "why": "He played guitar on Frank Ocean's Blonde and Endless.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "elliott-smith",
+    "why": "Quiet, home-recorded songs with a sweet and sad edge."
+   },
+   {
+    "id": "iron-and-wine",
+    "why": "Hushed, homemade songs with a rural feel."
+   }
+  ]
+ },
+ {
+  "id": "black-midi",
+  "years": "2017–2024",
+  "origin": "London, England",
+  "genres": [
+   "experimental rock",
+   "math rock",
+   "post-punk",
+   "art rock"
+  ],
+  "summary": "Black Midi was a London band known for fast, technical, unpredictable rock that mixed math rock, jazz and noise. They became the most talked-about band of the Windmill Brixton scene.",
+  "know": [
+   "Its members met as students at the BRIT School in London.",
+   "They built their reputation at the Windmill pub in Brixton before signing to Rough Trade.",
+   "Their debut Schlagenheim was shortlisted for the 2019 Mercury Prize."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Schlagenheim",
+    2019
+   ],
+   [
+    "Cavalcade",
+    2021
+   ],
+   [
+    "Hellfire",
+    2022
+   ]
+  ],
+  "songs": [
+   "bmbmbm",
+   "Ducter",
+   "John L",
+   "Welcome to Hell",
+   "Sugar/Tzu"
+  ],
+  "influencedBy": [
+   {
+    "id": "king-crimson",
+    "why": "Their complex, aggressive prog structures are widely compared to King Crimson.",
+    "s": 2
+   },
+   {
+    "id": "captain-beefheart",
+    "why": "Their jagged rhythms and strange vocal delivery echo Captain Beefheart.",
+    "s": 1
+   },
+   {
+    "id": "frank-zappa",
+    "why": "Their mix of virtuosity, absurdity and sudden style shifts follows Frank Zappa.",
+    "s": 1
+   },
+   {
+    "id": "battles",
+    "why": "Their tight, mechanical math-rock grooves draw on Battles.",
+    "s": 1
+   },
+   {
+    "id": "the-fall",
+    "why": "Their speak-shouted vocals and post-punk bite recall The Fall.",
+    "s": 1
+   }
+  ],
+  "influenced": [
+   {
+    "id": "black-country-new-road",
+    "why": "Their fellow Windmill band, which grew out of the same London scene.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "king-crimson",
+    "why": "Fierce, technical, shape-shifting rock."
+   },
+   {
+    "id": "sun-ra",
+    "why": "Wild, free-spirited music that ignores the rules."
+   }
+  ]
+ },
+ {
+  "id": "clairo",
+  "years": "2017–present",
+  "origin": "Carlisle, Massachusetts",
+  "genres": [
+   "bedroom pop",
+   "indie pop",
+   "soft rock"
+  ],
+  "summary": "Clairo is a singer-songwriter who went viral with a homemade video for her song Pretty Girl and grew into a mature soft-rock songwriter. Her albums move from lo-fi bedroom pop to warm, 1970s-style arrangements.",
+  "know": [
+   "The webcam video for Pretty Girl became a viral hit in 2017.",
+   "Jack Antonoff co-produced her second album Sling in 2021.",
+   "Her 2024 album Charm, made with producer Leon Michels, became her highest-charting record."
+  ],
+  "born": "08-18",
+  "keyAlbums": [
+   [
+    "Diary 001",
+    2018
+   ],
+   [
+    "Immunity",
+    2019
+   ],
+   [
+    "Sling",
+    2021
+   ],
+   [
+    "Charm",
+    2024
+   ]
+  ],
+  "songs": [
+   "Pretty Girl",
+   "Bags",
+   "Sofia",
+   "Juna",
+   "Amoeba"
+  ],
+  "influencedBy": [
+   {
+    "id": "jack-antonoff",
+    "why": "Jack Antonoff co-produced Sling and helped steer her toward a soft, piano-led sound.",
+    "s": 3
+   },
+   {
+    "id": "carole-king",
+    "why": "The warm, piano-based songs of Sling recall the 1970s singer-songwriter style of Carole King.",
+    "s": 1
+   },
+   {
+    "id": "joni-mitchell",
+    "why": "Her later, more acoustic writing draws on Joni Mitchell.",
+    "s": 1
+   },
+   {
+    "id": "alex-g",
+    "why": "Her lo-fi, home-recorded early songs share the Bandcamp bedroom style of Alex G.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "carole-king",
+    "why": "Soft, piano-led songs with warm production."
+   },
+   {
+    "id": "norah-jones",
+    "why": "Gentle, jazzy pop with a hushed voice."
+   }
+  ]
+ },
+ {
+  "id": "beabadoobee",
+  "years": "2017–present",
+  "origin": "London, England",
+  "genres": [
+   "indie rock",
+   "bedroom pop",
+   "alternative rock"
+  ],
+  "summary": "Beabadoobee is a Filipino-British singer and guitarist who moved from soft bedroom pop to fuzzy, 1990s-style alt rock. Her early songs found a huge audience online.",
+  "know": [
+   "She was born in Iloilo, Philippines, and moved to London as a young child.",
+   "Her song Coffee was sampled in Powfu's 2020 hit Death Bed.",
+   "Rick Rubin produced her 2024 album This Is How Tomorrow Moves."
+  ],
+  "born": "06-03",
+  "keyAlbums": [
+   [
+    "Fake It Flowers",
+    2020
+   ],
+   [
+    "Beatopia",
+    2022
+   ],
+   [
+    "This Is How Tomorrow Moves",
+    2024
+   ]
+  ],
+  "songs": [
+   "Coffee",
+   "Glue Song",
+   "The Perfect Pair",
+   "Care",
+   "She Plays Bass"
+  ],
+  "influencedBy": [
+   {
+    "id": "pavement",
+    "why": "She named an early song after Pavement singer Stephen Malkmus, and their loose guitar rock shapes her sound.",
+    "s": 3
+   },
+   {
+    "id": "the-1975",
+    "why": "Her labelmates on Dirty Hit; Matty Healy and George Daniel co-wrote her EP Our Extended Play.",
+    "s": 3
+   },
+   {
+    "id": "rick-rubin",
+    "why": "Rick Rubin produced This Is How Tomorrow Moves and pared her sound back.",
+    "s": 3
+   },
+   {
+    "id": "elliott-smith",
+    "why": "Her soft, close-miked acoustic songs follow Elliott Smith.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "elliott-smith",
+    "why": "Soft, close-miked acoustic songs."
+   },
+   {
+    "id": "lorde",
+    "why": "Young, personal pop songwriting."
+   }
+  ]
+ },
+ {
+  "id": "wet-leg",
+  "years": "2019–present",
+  "origin": "Isle of Wight, England",
+  "genres": [
+   "indie rock",
+   "post-punk",
+   "garage rock"
+  ],
+  "summary": "Wet Leg is an English band led by Rhian Teasdale and Hester Chambers, known for deadpan humor over catchy, wiry guitar rock. Their first single went viral and their debut album won two Grammys.",
+  "know": [
+   "Rhian Teasdale and Hester Chambers formed the band on the Isle of Wight, where they grew up.",
+   "Their 2021 debut single Chaise Longue went viral and led to a deal with Domino.",
+   "Their self-titled debut won Grammys for Best Alternative Music Album and Best Alternative Music Performance."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Wet Leg",
+    2022
+   ],
+   [
+    "Moisturizer",
+    2025
+   ]
+  ],
+  "songs": [
+   "Chaise Longue",
+   "Angelica",
+   "Ur Mum",
+   "Too Late Now",
+   "CPR"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-breeders",
+    "why": "Their wry, catchy guitar rock with shared female vocals follows The Breeders.",
+    "s": 1
+   },
+   {
+    "id": "pixies",
+    "why": "Their quiet-loud dynamics and odd humor echo the Pixies.",
+    "s": 1
+   },
+   {
+    "id": "pavement",
+    "why": "Their deadpan delivery and loose, hooky indie rock recall Pavement.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "sparks",
+    "why": "Witty, arch pop-rock with a deadpan delivery."
+   },
+   {
+    "id": "flight-of-the-conchords",
+    "why": "Dry, funny songs played completely straight."
+   }
+  ]
+ },
+ {
+  "id": "black-country-new-road",
+  "years": "2018–present",
+  "origin": "London, England",
+  "genres": [
+   "post-rock",
+   "art rock",
+   "chamber pop"
+  ],
+  "summary": "Black Country, New Road is a London group whose large lineup mixes post-rock, chamber music, klezmer and indie rock. They came up with Black Midi in the Windmill Brixton scene.",
+  "know": [
+   "They first played regularly at the Windmill pub in Brixton.",
+   "Singer Isaac Wood left the band just before their second album, Ants from Up There, came out in 2022.",
+   "After his departure the remaining members wrote all new songs and shared lead vocals."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "For the First Time",
+    2021
+   ],
+   [
+    "Ants from Up There",
+    2022
+   ],
+   [
+    "Live at Bush Hall",
+    2023
+   ],
+   [
+    "Forever Howlong",
+    2025
+   ]
+  ],
+  "songs": [
+   "Sunglasses",
+   "Track X",
+   "Concorde",
+   "Basketball Shoes",
+   "Chaos Space Marine"
+  ],
+  "influencedBy": [
+   {
+    "id": "slint",
+    "why": "Their slow-building songs with spoken vocals draw directly on Slint.",
+    "s": 2
+   },
+   {
+    "id": "godspeed-you-black-emperor",
+    "why": "Their long, crescendo-driven pieces follow Godspeed You! Black Emperor.",
+    "s": 2
+   },
+   {
+    "id": "arcade-fire",
+    "why": "Their big, emotional ensemble arrangements recall Arcade Fire.",
+    "s": 1
+   },
+   {
+    "id": "black-midi",
+    "why": "Their peers in the Windmill scene, with whom they shared stages and a restless approach.",
+    "s": 2
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "sufjan-stevens",
+    "why": "Chamber-style arrangements with real emotional sweep."
+   },
+   {
+    "id": "kamasi-washington",
+    "why": "Large ensembles that build to grand climaxes."
+   }
+  ]
+ },
+ {
+  "id": "turnstile",
+  "years": "2010–present",
+  "origin": "Baltimore, Maryland",
+  "genres": [
+   "hardcore punk",
+   "alternative rock",
+   "melodic hardcore"
+  ],
+  "summary": "Turnstile is a Baltimore hardcore band that opened the genre up to dreamy melodies, groove and pop hooks. Their 2021 album Glow On made them one of the biggest crossover rock acts of the decade.",
+  "know": [
+   "They came out of the Baltimore hardcore scene in 2010.",
+   "Diplo co-produced two songs on their 2018 album Time & Space.",
+   "Glow On drew praise far beyond hardcore circles and led to festival main stages."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Nonstop Feeling",
+    2015
+   ],
+   [
+    "Time & Space",
+    2018
+   ],
+   [
+    "Glow On",
+    2021
+   ],
+   [
+    "Never Enough",
+    2025
+   ]
+  ],
+  "songs": [
+   "Mystery",
+   "Blackout",
+   "Holiday",
+   "Underwater Boi",
+   "Never Enough"
+  ],
+  "influencedBy": [
+   {
+    "id": "bad-brains",
+    "why": "Their mix of hardcore speed with groove and melody follows Bad Brains.",
+    "s": 2
+   },
+   {
+    "id": "gorilla-biscuits",
+    "why": "Their upbeat, melodic take on hardcore draws on New York bands like Gorilla Biscuits.",
+    "s": 1
+   },
+   {
+    "id": "minor-threat",
+    "why": "Their short, explosive songs carry on the hardcore line started by Minor Threat.",
+    "s": 1
+   },
+   {
+    "id": "rage-against-the-machine",
+    "why": "Their bouncing, funk-tinged riffs echo Rage Against the Machine.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "rage-against-the-machine",
+    "why": "Heavy riffs with a bounce you can dance to."
+   },
+   {
+    "id": "deftones",
+    "why": "Heavy music with dreamy, melodic layers."
+   }
+  ]
+ },
+ {
+  "id": "mj-lenderman",
+  "years": "2017–present",
+  "origin": "Asheville, North Carolina",
+  "genres": [
+   "indie rock",
+   "alt-country",
+   "slacker rock"
+  ],
+  "summary": "MJ Lenderman is an Asheville singer and guitarist whose wry, twangy songs blend indie rock and alt-country. He also plays guitar in the band Wednesday and in Waxahatchee's touring band.",
+  "know": [
+   "He is the lead guitarist of the Asheville band Wednesday.",
+   "His 2024 album Manning Fireworks was one of the most praised indie records of the year.",
+   "He played guitar on Waxahatchee's Tigers Blood and sang on its single Right Back to It."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Ghost of Your Guitar Solo",
+    2021
+   ],
+   [
+    "Boat Songs",
+    2022
+   ],
+   [
+    "Manning Fireworks",
+    2024
+   ]
+  ],
+  "songs": [
+   "She's Leaving You",
+   "Wristwatch",
+   "Rudolph",
+   "Knockin",
+   "Hangover Game"
+  ],
+  "influencedBy": [
+   {
+    "id": "neil-young",
+    "why": "His loose, ragged guitar solos and plain-spoken songs follow Neil Young.",
+    "s": 2
+   },
+   {
+    "id": "drive-by-truckers",
+    "why": "His Southern alt-country storytelling sits in the line of the Drive-By Truckers.",
+    "s": 1
+   },
+   {
+    "id": "pavement",
+    "why": "His dry, slacker-style humor and fuzzy indie rock recall Pavement.",
+    "s": 1
+   },
+   {
+    "id": "waxahatchee",
+    "why": "Playing in Katie Crutchfield's band tied his sound to her country-leaning songwriting.",
+    "s": 3
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "drive-by-truckers",
+    "why": "Southern rock songs full of small-town detail."
+   },
+   {
+    "id": "john-prine",
+    "why": "Dry, funny, plain-spoken storytelling."
+   }
+  ]
+ },
+ {
+  "id": "ethel-cain",
+  "years": "2019–present",
+  "origin": "Perry, Florida",
+  "genres": [
+   "slowcore",
+   "americana",
+   "dream pop",
+   "ambient"
+  ],
+  "summary": "Ethel Cain is the stage persona of singer and producer Hayden Anhedönia, whose slow, cinematic records explore the American South and religion. Her debut album became a cult favorite for its mix of heartland rock, slowcore and drone.",
+  "know": [
+   "She grew up in a Southern Baptist community in the Florida Panhandle.",
+   "Her debut album Preacher's Daughter is a concept record told through the Ethel Cain character.",
+   "Her 2025 album Perverts leaned heavily into long drone and ambient pieces."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Inbred",
+    2021
+   ],
+   [
+    "Preacher's Daughter",
+    2022
+   ],
+   [
+    "Perverts",
+    2025
+   ],
+   [
+    "Willoughby Tucker, I'll Always Love You",
+    2025
+   ]
+  ],
+  "songs": [
+   "American Teenager",
+   "Crush",
+   "Western Nights",
+   "Thoroughfare",
+   "Strangers"
+  ],
+  "influencedBy": [
+   {
+    "id": "lana-del-rey",
+    "why": "Her cinematic Americana and slow, dreamy vocals are widely linked to Lana Del Rey.",
+    "s": 2
+   },
+   {
+    "id": "bruce-springsteen",
+    "why": "American Teenager borrows the big, open sound of 1980s heartland rock in the Springsteen mold.",
+    "s": 1
+   },
+   {
+    "id": "sufjan-stevens",
+    "why": "Her quiet, religious-themed songwriting echoes Sufjan Stevens.",
+    "s": 1
+   },
+   {
+    "id": "mazzy-star",
+    "why": "Her slow, reverb-soaked guitar ballads recall Mazzy Star.",
+    "s": 1
+   },
+   {
+    "id": "sunn-o",
+    "why": "The long drones on Perverts draw on drone metal acts like Sunn O))).",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "lana-del-rey",
+    "why": "Slow, cinematic Americana with dark moods."
+   },
+   {
+    "id": "sunn-o",
+    "why": "Massive, slow drones."
+   }
+  ]
+ },
+ {
+  "id": "geese",
+  "years": "2016–present",
+  "origin": "Brooklyn, New York",
+  "genres": [
+   "indie rock",
+   "art rock",
+   "post-punk"
+  ],
+  "summary": "Geese is a Brooklyn band formed by high school friends and led by singer Cameron Winter. Their records move from angular post-punk to loose, swaggering rock with a strange, theatrical edge.",
+  "know": [
+   "The band started while its members were in high school in Brooklyn.",
+   "Their 2023 album 3D Country swapped post-punk for a loose, 1970s-style rock sound.",
+   "Kenny Beats produced their 2025 album Getting Killed."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Projector",
+    2021
+   ],
+   [
+    "3D Country",
+    2023
+   ],
+   [
+    "Getting Killed",
+    2025
+   ]
+  ],
+  "songs": [
+   "Low Era",
+   "3D Country",
+   "Cowboy Nudes",
+   "Taxes",
+   "Trinidad"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-strokes",
+    "why": "Their early wiry New York guitar rock follows The Strokes.",
+    "s": 1
+   },
+   {
+    "id": "talking-heads",
+    "why": "Their nervous, angular grooves recall Talking Heads.",
+    "s": 1
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "The loose, swaggering rock of 3D Country draws on the Rolling Stones.",
+    "s": 1
+   },
+   {
+    "id": "radiohead",
+    "why": "The moody, layered sound of Projector echoes Radiohead.",
+    "s": 1
+   },
+   {
+    "id": "kenny-beats",
+    "why": "Kenny Beats produced Getting Killed and gave it a raw, rhythmic punch.",
+    "s": 3
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-rolling-stones",
+    "why": "Loose, swaggering rock and roll."
+   },
+   {
+    "id": "captain-beefheart",
+    "why": "Strange, theatrical rock with wild vocals."
+   }
+  ]
+ },
+ {
+  "id": "mk-gee",
+  "years": "2017–present",
+  "origin": "Piscataway, New Jersey",
+  "genres": [
+   "art pop",
+   "alternative r&b",
+   "indie rock"
+  ],
+  "summary": "Mk.gee is the project of New Jersey singer, guitarist and producer Michael Gordon, known for a hazy, guitar-driven sound that blends 1980s pop and rock with R&B. His 2024 album made him one of the most discussed guitarists of his generation.",
+  "know": [
+   "He grew up in central New Jersey and later worked from Los Angeles.",
+   "His 2024 album Two Star & the Dream Police drew wide praise for its unusual guitar tones.",
+   "He is a frequent collaborator of the singer Dijon."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "A Museum of Contemporary Art",
+    2018
+   ],
+   [
+    "Two Star & the Dream Police",
+    2024
+   ]
+  ],
+  "songs": [
+   "Are You Looking Up",
+   "Alesis",
+   "Candy",
+   "Rockman"
+  ],
+  "influencedBy": [
+   {
+    "id": "prince",
+    "why": "His wiry, glossy guitar and falsetto singing draw on 1980s Prince.",
+    "s": 1
+   },
+   {
+    "id": "bruce-springsteen",
+    "why": "His fellow New Jersey songwriter's 1980s sound runs through his hazy rock songs.",
+    "s": 1
+   },
+   {
+    "id": "dire-straits",
+    "why": "His clean, chorus-soaked guitar tones echo 1980s rock like Dire Straits.",
+    "s": 1
+   },
+   {
+    "id": "dijon",
+    "why": "Dijon is a close collaborator, and the two share a loose, warm approach to recording.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "justin-bieber",
+    "why": "He was a key producer and guitarist on Justin Bieber's 2025 album Swag.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "prince",
+    "why": "Guitar-driven pop with a strange, sensual edge."
+   },
+   {
+    "id": "frank-ocean",
+    "why": "Hazy, unconventional R&B."
+   }
+  ]
+ },
+ {
+  "id": "yungblud",
+  "years": "2017–present",
+  "origin": "Doncaster, England",
+  "genres": [
+   "pop punk",
+   "alternative rock",
+   "emo"
+  ],
+  "summary": "Yungblud is the stage name of English singer Dominic Harrison, who mixes pop punk, glam and rock with a loud, theatrical stage show. He built a large young fan base by presenting rock as a home for outsiders.",
+  "know": [
+   "He grew up in Doncaster, where his family ran a guitar shop.",
+   "His 2020 album Weird! reached number one in the UK.",
+   "He performed at Black Sabbath and Ozzy Osbourne's farewell concert, Back to the Beginning, in 2025."
+  ],
+  "born": "08-05",
+  "keyAlbums": [
+   [
+    "21st Century Liability",
+    2018
+   ],
+   [
+    "Weird!",
+    2020
+   ],
+   [
+    "Yungblud",
+    2022
+   ],
+   [
+    "Idols",
+    2025
+   ]
+  ],
+  "songs": [
+   "Parents",
+   "Loner",
+   "Fleabag",
+   "I Think I'm Okay",
+   "Hated"
+  ],
+  "influencedBy": [
+   {
+    "id": "my-chemical-romance",
+    "why": "His theatrical, outsider-focused pop punk follows My Chemical Romance.",
+    "s": 2
+   },
+   {
+    "id": "david-bowie",
+    "why": "He has named David Bowie as a model for his gender-fluid, theatrical image.",
+    "s": 2
+   },
+   {
+    "id": "oasis",
+    "why": "He has cited Oasis among the British bands he grew up on.",
+    "s": 2
+   },
+   {
+    "id": "black-sabbath",
+    "why": "He has called Ozzy Osbourne a hero and paid tribute at Black Sabbath's final show.",
+    "s": 2
+   },
+   {
+    "id": "sex-pistols",
+    "why": "His snarling, confrontational punk attitude draws on the Sex Pistols.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "the-damned",
+    "why": "Theatrical, gothic-tinged punk with a showman frontman."
+   },
+   {
+    "id": "my-chemical-romance",
+    "why": "Big, dramatic songs for outsiders."
+   }
+  ]
+ },
+ {
+  "id": "maneskin",
+  "years": "2016–present",
+  "origin": "Rome, Italy",
+  "genres": [
+   "hard rock",
+   "glam rock",
+   "pop rock"
+  ],
+  "summary": "Måneskin is an Italian rock band that rose from busking in Rome and a talent show to winning Eurovision. Their glam-heavy, riff-driven rock gave guitar music a rare global pop hit in the 2020s.",
+  "know": [
+   "They first gained attention on the Italian edition of The X Factor in 2017.",
+   "They won the 2021 Eurovision Song Contest with Zitti e buoni.",
+   "Their cover of the Four Seasons song Beggin' became an international hit."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Il ballo della vita",
+    2018
+   ],
+   [
+    "Teatro d'ira: Vol. I",
+    2021
+   ],
+   [
+    "Rush!",
+    2023
+   ]
+  ],
+  "songs": [
+   "Zitti e buoni",
+   "Beggin'",
+   "Coraline",
+   "Supermodel",
+   "Gossip"
+  ],
+  "influencedBy": [
+   {
+    "id": "led-zeppelin",
+    "why": "Their riff-driven hard rock and glam swagger are widely compared to Led Zeppelin.",
+    "s": 2
+   },
+   {
+    "id": "red-hot-chili-peppers",
+    "why": "Their funky bass grooves and high-energy shows draw on the Red Hot Chili Peppers.",
+    "s": 1
+   },
+   {
+    "id": "the-stooges",
+    "why": "Their wild, physical live shows echo Iggy Pop and The Stooges.",
+    "s": 1
+   },
+   {
+    "id": "max-martin",
+    "why": "Max Martin co-wrote and co-produced songs on Rush!, giving them a sharper pop edge.",
+    "s": 3
+   },
+   {
+    "id": "rage-against-the-machine",
+    "why": "Tom Morello played guitar on their single Gossip.",
+    "s": 2
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "red-hot-chili-peppers",
+    "why": "Funky, physical rock built for a stage."
+   },
+   {
+    "id": "the-stooges",
+    "why": "Wild, raw rock and roll shows."
+   }
+  ]
+ },
+ {
+  "id": "christone-kingfish-ingram",
+  "years": "2019–present",
+  "origin": "Clarksdale, Mississippi",
+  "genres": [
+   "electric blues",
+   "blues rock",
+   "delta blues"
+  ],
+  "summary": "Christone \"Kingfish\" Ingram is a Mississippi guitarist and singer who has become the leading young voice in electric blues. He came up in Clarksdale, a town at the heart of Delta blues history.",
+  "know": [
+   "He learned to play through music programs at the Delta Blues Museum in Clarksdale.",
+   "Buddy Guy guested on his 2019 debut album Kingfish, released by Alligator Records.",
+   "His second album 662 won the Grammy for Best Contemporary Blues Album."
+  ],
+  "born": "01-19",
+  "keyAlbums": [
+   [
+    "Kingfish",
+    2019
+   ],
+   [
+    "662",
+    2021
+   ],
+   [
+    "Live in London",
+    2023
+   ]
+  ],
+  "songs": [
+   "Outside of This Town",
+   "Fresh Out",
+   "Been Here Before",
+   "662",
+   "Another Life Goes By"
+  ],
+  "influencedBy": [
+   {
+    "id": "buddy-guy",
+    "why": "Buddy Guy has mentored him and played on his debut album.",
+    "s": 3
+   },
+   {
+    "id": "bb-king",
+    "why": "His singing, string-bending lead guitar follows B.B. King.",
+    "s": 2
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "He has named Jimi Hendrix as a key guitar influence.",
+    "s": 2
+   },
+   {
+    "id": "prince",
+    "why": "He has named Prince as one of his biggest influences.",
+    "s": 2
+   },
+   {
+    "id": "muddy-waters",
+    "why": "His Clarksdale roots tie him directly to Muddy Waters, who came up nearby.",
+    "s": 1
+   },
+   {
+    "id": "stevie-ray-vaughan",
+    "why": "His fiery, high-energy solos follow Stevie Ray Vaughan.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "jimi-hendrix",
+    "why": "Blazing, expressive blues guitar."
+   },
+   {
+    "id": "prince",
+    "why": "Guitar virtuosity in a soul and funk setting."
+   }
+  ]
+ },
+ {
+  "id": "bad-omens",
+  "years": "2015–present",
+  "origin": "Richmond, Virginia",
+  "genres": [
+   "metalcore",
+   "alternative metal",
+   "industrial"
+  ],
+  "summary": "Bad Omens is a Virginia metal band that grew from metalcore into moody, electronic-tinged alternative metal. Their 2022 album turned them into one of the fastest-rising heavy bands of the decade.",
+  "know": [
+   "Singer Noah Sebastian also produces much of their music.",
+   "Their 2022 album The Death of Peace of Mind gained a huge new audience after the song Just Pretend spread on TikTok.",
+   "They later released a remix album that reworked their songs with electronic producers."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Bad Omens",
+    2016
+   ],
+   [
+    "Finding God Before God Finds Me",
+    2019
+   ],
+   [
+    "The Death of Peace of Mind",
+    2022
+   ]
+  ],
+  "songs": [
+   "Just Pretend",
+   "The Death of Peace of Mind",
+   "Like a Villain",
+   "V.A.N",
+   "Dethrone"
+  ],
+  "influencedBy": [
+   {
+    "id": "bring-me-the-horizon",
+    "why": "Their early metalcore and later electronic-leaning sound are often compared to Bring Me the Horizon.",
+    "s": 2
+   },
+   {
+    "id": "deftones",
+    "why": "Their moody, atmospheric heavy sound draws on Deftones.",
+    "s": 1
+   },
+   {
+    "id": "nine-inch-nails",
+    "why": "Their industrial textures and dark synths follow Nine Inch Nails.",
+    "s": 1
+   },
+   {
+    "id": "linkin-park",
+    "why": "Their mix of heavy guitars, electronics and melodic hooks recalls Linkin Park.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "nine-inch-nails",
+    "why": "Dark, industrial-tinged heavy music."
+   },
+   {
+    "id": "the-weeknd",
+    "why": "Dark, synth-heavy moods with sweet vocals."
+   }
+  ]
+ },
+ {
+  "id": "lil-nas-x",
+  "years": "2018–present",
+  "origin": "Atlanta, Georgia",
+  "genres": [
+   "country rap",
+   "pop rap",
+   "hip-hop"
+  ],
+  "summary": "Lil Nas X is an Atlanta rapper and singer whose country-rap song Old Town Road became one of the longest-running number ones in US chart history. He followed it with bold, genre-mixing pop rap.",
+  "know": [
+   "Old Town Road spent 19 weeks at number one on the Billboard Hot 100 in 2019, a record at the time.",
+   "The song's beat, by YoungKio, samples Nine Inch Nails' 34 Ghosts IV.",
+   "His single Panini borrows its melody from Nirvana's In Bloom."
+  ],
+  "born": "04-09",
+  "keyAlbums": [
+   [
+    "7",
+    2019
+   ],
+   [
+    "Montero",
+    2021
+   ]
+  ],
+  "songs": [
+   "Old Town Road",
+   "Panini",
+   "Montero (Call Me by Your Name)",
+   "Industry Baby",
+   "That's What I Want"
+  ],
+  "influencedBy": [
+   {
+    "id": "nicki-minaj",
+    "why": "He has spoken about being a devoted Nicki Minaj fan, and her bold persona shaped his.",
+    "s": 2
+   },
+   {
+    "id": "nine-inch-nails",
+    "why": "Old Town Road is built on a sample of Nine Inch Nails' 34 Ghosts IV.",
+    "s": 2
+   },
+   {
+    "id": "nirvana",
+    "why": "Panini interpolates the melody of Nirvana's In Bloom.",
+    "s": 2
+   },
+   {
+    "id": "kanye-west",
+    "why": "His genre-blending pop rap and big visuals follow Kanye West.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "johnny-cash",
+    "why": "Country storytelling with outlaw swagger."
+   },
+   {
+    "id": "lady-gaga",
+    "why": "Bold, theatrical pop personas and visuals."
+   }
+  ]
+ },
+ {
+  "id": "jid",
+  "years": "2010–present",
+  "origin": "Atlanta, Georgia",
+  "genres": [
+   "southern hip-hop",
+   "conscious hip-hop",
+   "trap"
+  ],
+  "summary": "JID is an Atlanta rapper known for fast, shifting flows and dense wordplay. Signed to J. Cole's Dreamville label, he is one of the most technically admired rappers of his generation.",
+  "know": [
+   "He is part of the Atlanta collective Spillage Village with EarthGang.",
+   "He signed to J. Cole's Dreamville Records in 2017.",
+   "His 2022 album The Forever Story was widely praised as a career high."
+  ],
+  "born": "10-31",
+  "keyAlbums": [
+   [
+    "The Never Story",
+    2017
+   ],
+   [
+    "DiCaprio 2",
+    2018
+   ],
+   [
+    "The Forever Story",
+    2022
+   ],
+   [
+    "God Does Like Ugly",
+    2025
+   ]
+  ],
+  "songs": [
+   "Never",
+   "Off Deez",
+   "Surround Sound",
+   "Raydar",
+   "151 Rum"
+  ],
+  "influencedBy": [
+   {
+    "id": "outkast",
+    "why": "He has named OutKast, and André 3000 in particular, as his biggest influence as an Atlanta rapper.",
+    "s": 2
+   },
+   {
+    "id": "j-cole",
+    "why": "J. Cole signed him to Dreamville and has mentored his career.",
+    "s": 3
+   },
+   {
+    "id": "kendrick-lamar",
+    "why": "His tightly packed, shifting flows draw on Kendrick Lamar.",
+    "s": 1
+   },
+   {
+    "id": "lil-wayne",
+    "why": "His playful, rapid-fire wordplay follows Lil Wayne.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "thundercat",
+    "why": "Fast, virtuosic playing with a jazz feel."
+   },
+   {
+    "id": "charlie-parker",
+    "why": "Breakneck, inventive phrasing that keeps changing shape."
+   }
+  ]
+ },
+ {
+  "id": "noname",
+  "years": "2013–present",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "conscious hip-hop",
+   "jazz rap",
+   "neo soul"
+  ],
+  "summary": "Noname is a Chicago rapper and poet known for soft-spoken, conversational verses over warm jazz and soul production. She came up in the city's open-mic scene alongside Chance the Rapper.",
+  "know": [
+   "She started as a slam poet in Chicago before turning to rap.",
+   "She appeared on Chance the Rapper's mixtapes Acid Rap and Coloring Book.",
+   "She founded Noname's Book Club, which promotes books by writers of color."
+  ],
+  "born": "09-18",
+  "keyAlbums": [
+   [
+    "Telefone",
+    2016
+   ],
+   [
+    "Room 25",
+    2018
+   ],
+   [
+    "Sundial",
+    2023
+   ]
+  ],
+  "songs": [
+   "Diddy Bop",
+   "Shadow Man",
+   "Self",
+   "Song 33",
+   "Yesterday"
+  ],
+  "influencedBy": [
+   {
+    "id": "chance-the-rapper",
+    "why": "Her early rise came through features on Chance the Rapper's mixtapes and the Chicago scene they shared.",
+    "s": 3
+   },
+   {
+    "id": "madlib",
+    "why": "Madlib produced her single Song 33.",
+    "s": 3
+   },
+   {
+    "id": "lauryn-hill",
+    "why": "Her mix of soul and thoughtful rap draws on Lauryn Hill.",
+    "s": 1
+   },
+   {
+    "id": "erykah-badu",
+    "why": "Her soft, jazzy neo-soul feel echoes Erykah Badu.",
+    "s": 1
+   },
+   {
+    "id": "common",
+    "why": "Her poetic, Chicago-rooted conscious rap follows Common.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "gil-scott-heron",
+    "why": "Spoken poetry over jazz and soul."
+   },
+   {
+    "id": "erykah-badu",
+    "why": "Warm, jazzy neo soul with a thoughtful edge."
+   }
+  ]
+ },
+ {
+  "id": "tierra-whack",
+  "years": "2017–present",
+  "origin": "Philadelphia, Pennsylvania",
+  "genres": [
+   "alternative hip-hop",
+   "experimental hip-hop",
+   "pop rap"
+  ],
+  "summary": "Tierra Whack is a Philadelphia rapper and singer known for playful, surreal songs and striking visuals. Her debut Whack World packed 15 one-minute songs into a single short film.",
+  "know": [
+   "She battle-rapped as a teenager in Philadelphia under the name Dizzle Dizz.",
+   "Whack World is 15 minutes long, with each song exactly one minute.",
+   "Her full-length debut, World Wide Whack, came out in 2024."
+  ],
+  "born": "08-11",
+  "keyAlbums": [
+   [
+    "Whack World",
+    2018
+   ],
+   [
+    "World Wide Whack",
+    2024
+   ]
+  ],
+  "songs": [
+   "Mumbo Jumbo",
+   "Only Child",
+   "Unemployed",
+   "Shower Song",
+   "Hungry Hippo"
+  ],
+  "influencedBy": [
+   {
+    "id": "missy-elliott",
+    "why": "Her colorful, surreal videos and playful rap follow Missy Elliott.",
+    "s": 2
+   },
+   {
+    "id": "outkast",
+    "why": "Her genre-bending, quirky approach draws on OutKast.",
+    "s": 1
+   },
+   {
+    "id": "lauryn-hill",
+    "why": "Her mix of singing and rapping follows Lauryn Hill.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "devo",
+    "why": "Odd, colorful songs with a strong visual identity."
+   },
+   {
+    "id": "bjork",
+    "why": "Surreal, playful music paired with bold visuals."
+   }
+  ]
+ },
+ {
+  "id": "billy-woods",
+  "years": "2003–present",
+  "origin": "New York, New York",
+  "genres": [
+   "abstract hip-hop",
+   "underground hip-hop",
+   "experimental hip-hop"
+  ],
+  "summary": "billy woods is a New York rapper known for dense, literary verses over dark, off-kilter beats. He runs the label Backwoodz Studioz and is half of the duo Armand Hammer with Elucid.",
+  "know": [
+   "He founded the independent label Backwoodz Studioz.",
+   "He forms the duo Armand Hammer with fellow rapper Elucid.",
+   "His album Hiding Places was made with producer Kenny Segal."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "History Will Absolve Me",
+    2012
+   ],
+   [
+    "Hiding Places",
+    2019
+   ],
+   [
+    "Aethiopes",
+    2022
+   ],
+   [
+    "Maps",
+    2023
+   ]
+  ],
+  "songs": [
+   "Spongebob",
+   "Christine",
+   "Asylum"
+  ],
+  "influencedBy": [
+   {
+    "id": "mf-doom",
+    "why": "His dense, literary rhymes over strange beats follow MF DOOM's underground model.",
+    "s": 1
+   },
+   {
+    "id": "mobb-deep",
+    "why": "His bleak, gritty New York atmosphere draws on Mobb Deep.",
+    "s": 1
+   },
+   {
+    "id": "aesop-rock",
+    "why": "His abstract, word-packed style sits in the line of Aesop Rock.",
+    "s": 1
+   },
+   {
+    "id": "the-alchemist",
+    "why": "The Alchemist produced Armand Hammer's album Haram.",
+    "s": 3
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "gil-scott-heron",
+    "why": "Dense, literary words over dark grooves."
+   },
+   {
+    "id": "tom-waits",
+    "why": "Strange, shadowy storytelling."
+   }
+  ]
+ },
+ {
+  "id": "westside-gunn",
+  "years": "2012–present",
+  "origin": "Buffalo, New York",
+  "genres": [
+   "east coast hip-hop",
+   "underground hip-hop",
+   "boom bap"
+  ],
+  "summary": "Westside Gunn is a Buffalo rapper and the founder of Griselda Records, which revived gritty, sample-based East Coast rap. His albums are known for luxury imagery, ad-lib shouts and hard soul-sample beats.",
+  "know": [
+   "He founded Griselda Records with his brother Conway the Machine and cousin Benny the Butcher.",
+   "He signed Griselda to Eminem's Shady Records in 2017.",
+   "Tyler, the Creator and Joey Bada$$ appear on 327, from his 2020 album Pray for Paris."
+  ],
+  "born": "07-27",
+  "keyAlbums": [
+   [
+    "Flygod",
+    2016
+   ],
+   [
+    "Pray for Paris",
+    2020
+   ],
+   [
+    "Who Made the Sunshine",
+    2020
+   ],
+   [
+    "And Then You Pray for Me",
+    2022
+   ]
+  ],
+  "songs": [
+   "327",
+   "George Bondo",
+   "French Toast"
+  ],
+  "influencedBy": [
+   {
+    "id": "wu-tang-clan",
+    "why": "His gritty, soul-sample sound and crew-based approach follow Wu-Tang Clan.",
+    "s": 2
+   },
+   {
+    "id": "ghostface-killah",
+    "why": "His colorful, luxury-obsessed imagery draws on Ghostface Killah.",
+    "s": 2
+   },
+   {
+    "id": "mobb-deep",
+    "why": "His dark, sparse East Coast beats echo Mobb Deep.",
+    "s": 1
+   },
+   {
+    "id": "the-alchemist",
+    "why": "The Alchemist has produced many of his records.",
+    "s": 3
+   }
+  ],
+  "influenced": [
+   {
+    "id": "griselda",
+    "why": "He founded Griselda Records and shaped its sound and image.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "lee-scratch-perry",
+    "why": "An artist who runs his own world with a signature sound."
+   },
+   {
+    "id": "the-meters",
+    "why": "Hard, raw grooves that sound great sampled."
+   }
+  ]
+ },
+ {
+  "id": "dave",
+  "years": "2015–present",
+  "origin": "London, England",
+  "genres": [
+   "uk rap",
+   "conscious hip-hop",
+   "grime"
+  ],
+  "summary": "Dave is a South London rapper and pianist known for long, thoughtful verses about race, family and British life. His debut album won the Mercury Prize and made him one of the UK's most respected artists.",
+  "know": [
+   "He grew up in Streatham, South London, and often plays piano on his own records.",
+   "His debut album Psychodrama won the 2019 Mercury Prize.",
+   "Sprinter, with Central Cee, spent ten weeks at number one in the UK in 2023."
+  ],
+  "born": "06-05",
+  "keyAlbums": [
+   [
+    "Psychodrama",
+    2019
+   ],
+   [
+    "We're All Alone in This Together",
+    2021
+   ],
+   [
+    "Split Decision (with Central Cee)",
+    2023
+   ],
+   [
+    "The Boy Who Played the Harp",
+    2025
+   ]
+  ],
+  "songs": [
+   "Black",
+   "Location",
+   "Funky Friday",
+   "Starlight",
+   "Sprinter"
+  ],
+  "influencedBy": [
+   {
+    "id": "kendrick-lamar",
+    "why": "His concept-driven, socially focused albums follow the model of Kendrick Lamar.",
+    "s": 1
+   },
+   {
+    "id": "j-cole",
+    "why": "His reflective, piano-backed storytelling echoes J. Cole.",
+    "s": 1
+   },
+   {
+    "id": "skepta",
+    "why": "Skepta and the grime generation opened the door for London rappers to top the UK charts.",
+    "s": 1
+   },
+   {
+    "id": "the-streets",
+    "why": "His candid, very British take on everyday life follows The Streets.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "gil-scott-heron",
+    "why": "Pointed social commentary over spare music."
+   },
+   {
+    "id": "linton-kwesi-johnson",
+    "why": "Black British life told in sharp, rhythmic verse."
+   }
+  ]
+ },
+ {
+  "id": "little-simz",
+  "years": "2010–present",
+  "origin": "London, England",
+  "genres": [
+   "uk rap",
+   "conscious hip-hop",
+   "neo soul"
+  ],
+  "summary": "Little Simz is a North London rapper and actor known for sharp, confident verses over orchestral and soul-heavy production. Her work with producer Inflo made her one of the most acclaimed British artists of the 2020s.",
+  "know": [
+   "She grew up in Islington, North London, and began releasing mixtapes as a teenager.",
+   "Her 2021 album Sometimes I Might Be Introvert, produced by Inflo, won the 2022 Mercury Prize.",
+   "She played Shelley in the Netflix series Top Boy."
+  ],
+  "born": "02-23",
+  "keyAlbums": [
+   [
+    "A Curious Tale of Trials + Persons",
+    2015
+   ],
+   [
+    "Grey Area",
+    2019
+   ],
+   [
+    "Sometimes I Might Be Introvert",
+    2021
+   ],
+   [
+    "No Thank You",
+    2022
+   ]
+  ],
+  "songs": [
+   "Venom",
+   "Selfish",
+   "Introvert",
+   "Woman",
+   "Gorilla"
+  ],
+  "influencedBy": [
+   {
+    "id": "lauryn-hill",
+    "why": "She has named Lauryn Hill as a major influence on her mix of rap and soul.",
+    "s": 2
+   },
+   {
+    "id": "sault",
+    "why": "Inflo, the producer behind SAULT, produced her landmark albums from Grey Area onward.",
+    "s": 3
+   },
+   {
+    "id": "missy-elliott",
+    "why": "Her bold, confident style draws on Missy Elliott, whom she has praised.",
+    "s": 1
+   },
+   {
+    "id": "kendrick-lamar",
+    "why": "Her ambitious, concept-driven albums follow the path of Kendrick Lamar.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "sault",
+    "why": "Orchestral, soulful British music from the same producer."
+   },
+   {
+    "id": "nina-simone",
+    "why": "Fierce, personal statements set to soul and jazz."
+   }
+  ]
+ },
+ {
+  "id": "central-cee",
+  "years": "2015–present",
+  "origin": "London, England",
+  "genres": [
+   "uk drill",
+   "uk rap"
+  ],
+  "summary": "Central Cee is a West London rapper who took UK drill to a global audience with melodic hooks and laid-back flows. He became one of the most streamed British rappers of the 2020s.",
+  "know": [
+   "He grew up in Shepherd's Bush, West London.",
+   "His 2021 mixtape Wild West reached number two in the UK.",
+   "Sprinter, his duet with Dave, topped the UK singles chart in 2023."
+  ],
+  "born": "06-04",
+  "keyAlbums": [
+   [
+    "Wild West",
+    2021
+   ],
+   [
+    "23",
+    2022
+   ],
+   [
+    "Split Decision (with Dave)",
+    2023
+   ],
+   [
+    "Can't Rush Greatness",
+    2025
+   ]
+  ],
+  "songs": [
+   "Doja",
+   "Loading",
+   "Commitment Issues",
+   "Sprinter",
+   "Band4Band"
+  ],
+  "influencedBy": [
+   {
+    "id": "dave",
+    "why": "His fellow London rapper, with whom he made the chart-topping Split Decision EP.",
+    "s": 3
+   },
+   {
+    "id": "pop-smoke",
+    "why": "Pop Smoke's Brooklyn drill helped make UK-style drill a global sound before Cee's rise.",
+    "s": 1
+   },
+   {
+    "id": "chief-keef",
+    "why": "His drill style descends from the Chicago drill sound of Chief Keef.",
+    "s": 1
+   },
+   {
+    "id": "skepta",
+    "why": "He has named Skepta and the grime era as an early influence.",
+    "s": 2
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "chronixx",
+    "why": "A young voice carrying a local sound to the world."
+   },
+   {
+    "id": "burna-boy",
+    "why": "Global hits from a regional scene."
+   }
+  ]
+ },
+ {
+  "id": "king-von",
+  "years": "2018–2020",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "drill",
+   "chicago rap",
+   "gangsta rap"
+  ],
+  "summary": "King Von was a Chicago rapper known for vivid, cinematic storytelling over drill beats. He was signed to Lil Durk's Only the Family label and released two albums before his death in 2020.",
+  "know": [
+   "He signed with Lil Durk's label Only the Family in 2018.",
+   "Crazy Story, a narrative song split into several parts, was his breakout.",
+   "His album Welcome to O'Block was released in October 2020."
+  ],
+  "born": "08-09",
+  "keyAlbums": [
+   [
+    "Grandson, Vol. 1",
+    2019
+   ],
+   [
+    "Levon James",
+    2020
+   ],
+   [
+    "Welcome to O'Block",
+    2020
+   ]
+  ],
+  "songs": [
+   "Crazy Story",
+   "Took Her to the O",
+   "Why He Told"
+  ],
+  "influencedBy": [
+   {
+    "id": "lil-durk",
+    "why": "Lil Durk signed him to Only the Family and mentored his career.",
+    "s": 3
+   },
+   {
+    "id": "chief-keef",
+    "why": "His drill style comes straight out of the Chicago sound Chief Keef made famous.",
+    "s": 1
+   },
+   {
+    "id": "tupac",
+    "why": "His detailed, story-driven raps follow the narrative tradition of Tupac.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "marty-robbins",
+    "why": "Story songs told like short films."
+   },
+   {
+    "id": "johnny-cash",
+    "why": "Dark story songs from the rough side of life."
+   }
+  ]
+ },
+ {
+  "id": "ice-spice",
+  "years": "2021–present",
+  "origin": "Bronx, New York",
+  "genres": [
+   "drill",
+   "bronx drill",
+   "pop rap"
+  ],
+  "summary": "Ice Spice is a Bronx rapper known for a cool, deadpan delivery over bouncy drill beats by producer RiotUSA. Her rise from viral clips to global hits made her one of the fastest-rising rappers of the 2020s.",
+  "know": [
+   "Most of her early songs were produced by RiotUSA, a friend from college.",
+   "Munch (Feelin' U) went viral in 2022 and launched her career.",
+   "She appeared on Taylor Swift's remix of Karma and Nicki Minaj's Barbie World in 2023."
+  ],
+  "born": "01-01",
+  "keyAlbums": [
+   [
+    "Like..?",
+    2023
+   ],
+   [
+    "Y2K!",
+    2024
+   ]
+  ],
+  "songs": [
+   "Munch (Feelin' U)",
+   "In Ha Mood",
+   "Boy's a Liar Pt. 2",
+   "Princess Diana",
+   "Deli"
+  ],
+  "influencedBy": [
+   {
+    "id": "nicki-minaj",
+    "why": "She has named Nicki Minaj as a hero, and the two recorded Princess Diana together.",
+    "s": 3
+   },
+   {
+    "id": "cardi-b",
+    "why": "Her Bronx-born, personality-driven rise follows Cardi B.",
+    "s": 1
+   },
+   {
+    "id": "pop-smoke",
+    "why": "Her bouncy drill beats grow out of the New York drill sound Pop Smoke popularized.",
+    "s": 1
+   },
+   {
+    "id": "lil-kim",
+    "why": "Her confident, glamorous New York rap persona echoes Lil' Kim.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "blondie",
+    "why": "Cool, deadpan New York attitude with pop hooks."
+   },
+   {
+    "id": "tlc",
+    "why": "Playful, stylish hits built on a strong image."
+   }
+  ]
+ },
+ {
+  "id": "glorilla",
+  "years": "2019–present",
+  "origin": "Memphis, Tennessee",
+  "genres": [
+   "memphis rap",
+   "southern hip-hop",
+   "trap"
+  ],
+  "summary": "GloRilla is a Memphis rapper known for a loud, raspy delivery and party anthems. Her 2022 breakout F.N.F. (Let's Go) put a new generation of Memphis rap on the national map.",
+  "know": [
+   "F.N.F. (Let's Go), made with producer Hitkidd, went viral in 2022.",
+   "She signed with Yo Gotti's label Collective Music Group in 2022.",
+   "Her debut album Glorious came out in 2024."
+  ],
+  "born": "07-23",
+  "keyAlbums": [
+   [
+    "Anyways, Life's Great",
+    2022
+   ],
+   [
+    "Glorious",
+    2024
+   ]
+  ],
+  "songs": [
+   "F.N.F. (Let's Go)",
+   "Tomorrow 2",
+   "Yeah Glo!",
+   "TGIF",
+   "Wanna Be"
+  ],
+  "influencedBy": [
+   {
+    "id": "three-6-mafia",
+    "why": "Her rowdy, chant-driven Memphis rap descends from Three 6 Mafia.",
+    "s": 2
+   },
+   {
+    "id": "juicy-j",
+    "why": "Her party energy and Memphis bounce follow Juicy J.",
+    "s": 1
+   },
+   {
+    "id": "cardi-b",
+    "why": "Cardi B joined her on Tomorrow 2, and Glo's brash, funny persona follows Cardi's path.",
+    "s": 2
+   },
+   {
+    "id": "megan-thee-stallion",
+    "why": "Her loud, confident Southern rap follows Megan Thee Stallion's rise.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "big-mama-thornton",
+    "why": "A big, rough, commanding voice from the South."
+   },
+   {
+    "id": "the-runaways",
+    "why": "Loud, rowdy anthems with attitude."
+   }
+  ]
+ },
+ {
+  "id": "jack-harlow",
+  "years": "2015–present",
+  "origin": "Louisville, Kentucky",
+  "genres": [
+   "hip-hop",
+   "pop rap"
+  ],
+  "summary": "Jack Harlow is a Louisville rapper known for smooth, relaxed flows and witty, charming verses. He moved from local mixtapes to chart-topping pop rap in the early 2020s.",
+  "know": [
+   "He began recording as a teenager in Louisville and signed with DJ Drama's Generation Now label.",
+   "First Class, which samples Fergie's Glamorous, debuted at number one in the US in 2022.",
+   "He made his film acting debut in the 2023 remake of White Men Can't Jump."
+  ],
+  "born": "03-13",
+  "keyAlbums": [
+   [
+    "Thats What They All Say",
+    2020
+   ],
+   [
+    "Come Home the Kids Miss You",
+    2022
+   ],
+   [
+    "Jackman.",
+    2023
+   ]
+  ],
+  "songs": [
+   "Whats Poppin",
+   "First Class",
+   "Tyler Herro",
+   "Lovin On Me",
+   "Industry Baby"
+  ],
+  "influencedBy": [
+   {
+    "id": "lil-wayne",
+    "why": "He has named Lil Wayne as a childhood hero and a key influence on his wordplay.",
+    "s": 2
+   },
+   {
+    "id": "drake",
+    "why": "His smooth, conversational pop rap follows Drake, who appears on Churchill Downs.",
+    "s": 2
+   },
+   {
+    "id": "kanye-west",
+    "why": "His blend of rap and pop polish draws on Kanye West.",
+    "s": 1
+   }
+  ],
+  "influenced": [],
+  "cousins": [
+   {
+    "id": "frank-sinatra",
+    "why": "Smooth, cool, charming delivery."
+   },
+   {
+    "id": "justin-timberlake",
+    "why": "Slick pop with charm and swagger."
+   }
+  ]
+ }
+]

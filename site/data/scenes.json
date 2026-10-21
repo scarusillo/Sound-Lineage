@@ -1,0 +1,870 @@
+[
+ {
+  "id": "mississippi-delta",
+  "name": "Mississippi Delta: country blues",
+  "city": "Clarksdale, Mississippi",
+  "decades": [
+   "1920s",
+   "1930s",
+   "1940s"
+  ],
+  "blurb": "On the plantations of the flat Delta country, Black musicians played solo blues on acoustic guitar at juke joints and house parties. Charley Patton set the style, and Son House and Robert Johnson carried it forward. Folklorists and record companies captured it, and the Great Migration carried its players north.",
+  "artists": [
+   "charley-patton",
+   "son-house",
+   "robert-johnson",
+   "tommy-johnson",
+   "skip-james",
+   "mississippi-john-hurt",
+   "muddy-waters",
+   "howlin-wolf",
+   "elmore-james",
+   "sonny-boy-williamson-ii",
+   "alan-lomax"
+  ],
+  "spread": "Delta players took the style north to Memphis and Chicago, where it was plugged in and became electric blues."
+ },
+ {
+  "id": "new-orleans",
+  "name": "New Orleans: jazz and rhythm and blues",
+  "city": "New Orleans, Louisiana",
+  "decades": [
+   "1910s",
+   "1920s",
+   "1950s",
+   "1960s",
+   "1990s"
+  ],
+  "blurb": "Brass bands, Caribbean rhythms and blues met in New Orleans and produced early jazz, with players like King Oliver and Louis Armstrong. In the 1950s the city's piano players and session bands made a rolling rhythm and blues that fed straight into rock and roll. In the 1990s labels like Cash Money and No Limit built a local rap scene on bounce music.",
+  "artists": [
+   "jelly-roll-morton",
+   "king-oliver",
+   "louis-armstrong",
+   "sidney-bechet",
+   "professor-longhair",
+   "fats-domino",
+   "allen-toussaint",
+   "irma-thomas",
+   "dr-john",
+   "the-meters",
+   "master-p",
+   "mannie-fresh",
+   "juvenile",
+   "lil-wayne"
+  ],
+  "spread": "Jazz moved up the river to Chicago and New York, and the city's rhythm and blues beat became a basis of rock and roll and funk."
+ },
+ {
+  "id": "memphis",
+  "name": "Memphis: Sun and Stax",
+  "city": "Memphis, Tennessee",
+  "decades": [
+   "1950s",
+   "1960s",
+   "1970s",
+   "1990s"
+  ],
+  "blurb": "At Sun Records in the early 1950s, Sam Phillips recorded blues players and then young white singers who mixed blues with country, which became rockabilly. In the 1960s Stax Records built a raw Southern soul sound around its integrated house band. Later, Hi Records gave Al Green his sound and Three 6 Mafia made a dark local rap style.",
+  "artists": [
+   "bb-king",
+   "ike-turner",
+   "sam-phillips",
+   "elvis-presley",
+   "johnny-cash",
+   "jerry-lee-lewis",
+   "carl-perkins",
+   "booker-t",
+   "otis-redding",
+   "sam-and-dave",
+   "isaac-hayes",
+   "al-green",
+   "willie-mitchell",
+   "three-6-mafia"
+  ],
+  "spread": "Sun's rockabilly helped launch rock and roll around the world, and the Stax sound shaped soul and funk in the US and the UK."
+ },
+ {
+  "id": "chicago-blues",
+  "name": "Chicago: electric blues",
+  "city": "Chicago, Illinois",
+  "decades": [
+   "1940s",
+   "1950s",
+   "1960s"
+  ],
+  "blurb": "Musicians who came north from Mississippi in the Great Migration plugged in their guitars and added drums, bass and amplified harmonica to be heard in loud South Side clubs. Chess Records, with Willie Dixon writing and arranging, recorded much of this sound. The result was a band format that rock groups copied directly.",
+  "artists": [
+   "big-bill-broonzy",
+   "memphis-minnie",
+   "muddy-waters",
+   "howlin-wolf",
+   "willie-dixon",
+   "little-walter",
+   "jimmy-reed",
+   "jimmy-rogers",
+   "otis-spann",
+   "sonny-boy-williamson-ii",
+   "bo-diddley",
+   "chuck-berry",
+   "buddy-guy",
+   "leonard-chess"
+  ],
+  "spread": "British bands like the Rolling Stones learned from Chess records and brought the sound back to American audiences in the 1960s."
+ },
+ {
+  "id": "chicago-house",
+  "name": "Chicago: house",
+  "city": "Chicago, Illinois",
+  "decades": [
+   "1980s"
+  ],
+  "blurb": "After disco faded, DJ Frankie Knuckles at the Warehouse club mixed disco, soul and electronic records for a mostly Black and gay crowd. Local producers began making their own tracks on cheap drum machines and synthesizers, and the music took its name from the club. Phuture's use of the Roland TB-303 bass machine produced acid house.",
+  "artists": [
+   "frankie-knuckles",
+   "marshall-jefferson",
+   "larry-heard",
+   "phuture"
+  ],
+  "spread": "House records reached the UK in the late 1980s and fueled the acid house and rave movement, then spread across Europe."
+ },
+ {
+  "id": "nashville",
+  "name": "Nashville: country music",
+  "city": "Nashville, Tennessee",
+  "decades": [
+   "1940s",
+   "1950s",
+   "1960s",
+   "1970s"
+  ],
+  "blurb": "The Grand Ole Opry radio show made Nashville the home of country music, and publishers and labels gathered around it. In the late 1950s producers like Owen Bradley and Chet Atkins used smooth session players and strings to create the Nashville Sound, which sold country to pop audiences. Billy Sherrill's countrypolitan productions continued that approach in the 1970s.",
+  "artists": [
+   "uncle-dave-macon",
+   "roy-acuff",
+   "ernest-tubb",
+   "bill-monroe",
+   "hank-williams",
+   "kitty-wells",
+   "owen-bradley",
+   "chet-atkins",
+   "patsy-cline",
+   "jim-reeves",
+   "nashville-a-team",
+   "george-jones",
+   "billy-sherrill",
+   "tammy-wynette"
+  ],
+  "spread": "Nashville became the center of the country industry, and its polished style provoked reactions in Bakersfield and Austin."
+ },
+ {
+  "id": "bakersfield",
+  "name": "Bakersfield: the Bakersfield sound",
+  "city": "Bakersfield, California",
+  "decades": [
+   "1950s",
+   "1960s"
+  ],
+  "blurb": "Families who moved west from Oklahoma and Texas during the Dust Bowl brought country music to California's Central Valley. In Bakersfield's honky-tonks, players used loud Telecaster guitars and a hard beat instead of Nashville's strings. Buck Owens and Merle Haggard took the sound to the top of the country charts.",
+  "artists": [
+   "buck-owens",
+   "merle-haggard",
+   "dwight-yoakam"
+  ],
+  "spread": "The sound shaped country rock in Los Angeles through Gram Parsons and was revived in the 1980s by Dwight Yoakam."
+ },
+ {
+  "id": "detroit-motown",
+  "name": "Detroit: Motown",
+  "city": "Detroit, Michigan",
+  "decades": [
+   "1960s",
+   "1970s"
+  ],
+  "blurb": "Berry Gordy founded Motown in 1959 and ran it like the car plants around him, with in-house writers, producers and a house band called the Funk Brothers. Teams like Holland-Dozier-Holland wrote hit after hit for Black singers who were groomed for mainstream audiences. By the early 1970s artists like Marvin Gaye and Stevie Wonder won control over their own albums.",
+  "artists": [
+   "berry-gordy",
+   "smokey-robinson",
+   "mary-wells",
+   "the-marvelettes",
+   "martha-and-the-vandellas",
+   "the-supremes",
+   "the-temptations",
+   "four-tops",
+   "marvin-gaye",
+   "stevie-wonder",
+   "holland-dozier-holland",
+   "funk-brothers",
+   "norman-whitfield",
+   "the-jackson-5"
+  ],
+  "spread": "Motown's songs and production became a model for pop and soul worldwide, and the label itself moved to Los Angeles in the early 1970s."
+ },
+ {
+  "id": "detroit-techno",
+  "name": "Detroit: techno",
+  "city": "Detroit, Michigan",
+  "decades": [
+   "1980s",
+   "1990s"
+  ],
+  "blurb": "In the early 1980s, three friends from suburban Belleville, Juan Atkins, Derrick May and Kevin Saunderson, combined Kraftwerk's electronic music with funk and a futurist outlook. They made machine music on drum machines and synthesizers in a city hollowed out by the decline of the auto industry. A second wave, including Underground Resistance and Jeff Mills, made it harder and more political.",
+  "artists": [
+   "juan-atkins",
+   "derrick-may",
+   "kevin-saunderson",
+   "carl-craig",
+   "jeff-mills",
+   "underground-resistance",
+   "drexciya",
+   "richie-hawtin"
+  ],
+  "spread": "Techno found its biggest audience in Europe, especially in Berlin after the fall of the Wall and in the UK rave scene."
+ },
+ {
+  "id": "muscle-shoals",
+  "name": "Muscle Shoals: Southern soul studios",
+  "city": "Muscle Shoals, Alabama",
+  "decades": [
+   "1960s",
+   "1970s"
+  ],
+  "blurb": "In a small Alabama town, Rick Hall's FAME Studios and then the Muscle Shoals Sound Studio, founded by the session players known as the Swampers, cut records with a loose, deep groove. Jerry Wexler of Atlantic brought Aretha Franklin and Wilson Pickett there, and the hits made the studios famous. Rock acts followed to get the same feel.",
+  "artists": [
+   "muscle-shoals-rhythm-section",
+   "jerry-wexler",
+   "percy-sledge",
+   "aretha-franklin",
+   "wilson-pickett",
+   "etta-james",
+   "the-staple-singers",
+   "the-rolling-stones",
+   "lynyrd-skynyrd",
+   "drive-by-truckers",
+   "jason-isbell"
+  ],
+  "spread": "The studios' feel spread into Southern rock and Americana, and later Shoals-area songwriters carried it into the 2000s."
+ },
+ {
+  "id": "philadelphia-soul",
+  "name": "Philadelphia: Philly soul",
+  "city": "Philadelphia, Pennsylvania",
+  "decades": [
+   "1970s"
+  ],
+  "blurb": "Writers and producers Kenny Gamble, Leon Huff and Thom Bell built a lush soul sound at Sigma Sound Studios, with strings, horns and a steady rhythm section. The house band, MFSB, played on most of it. Their records on Philadelphia International set the template for smooth 1970s soul.",
+  "artists": [
+   "gamble-and-huff",
+   "thom-bell",
+   "mfsb",
+   "the-o-jays",
+   "harold-melvin-and-the-blue-notes",
+   "teddy-pendergrass",
+   "the-delfonics",
+   "the-stylistics",
+   "the-spinners",
+   "lou-rawls",
+   "the-trammps"
+  ],
+  "spread": "The steady four-on-the-floor beat and orchestral arrangements fed directly into disco."
+ },
+ {
+  "id": "new-york-jazz",
+  "name": "New York: bebop and modern jazz",
+  "city": "New York, New York",
+  "decades": [
+   "1940s",
+   "1950s",
+   "1960s"
+  ],
+  "blurb": "In Harlem clubs like Minton's Playhouse in the early 1940s, Charlie Parker, Dizzy Gillespie, Thelonious Monk and others developed bebop, a fast and harmonically complex style for listening rather than dancing. Over the next two decades New York musicians pushed it into hard bop, modal jazz and free jazz. Rudy Van Gelder's nearby studio recorded much of it.",
+  "artists": [
+   "charlie-parker",
+   "dizzy-gillespie",
+   "thelonious-monk",
+   "bud-powell",
+   "kenny-clarke",
+   "max-roach",
+   "miles-davis",
+   "charles-mingus",
+   "sonny-rollins",
+   "art-blakey",
+   "john-coltrane",
+   "ornette-coleman",
+   "rudy-van-gelder"
+  ],
+  "spread": "Bebop became the shared language of modern jazz worldwide and later supplied samples and ideas to hip-hop."
+ },
+ {
+  "id": "new-york-punk",
+  "name": "New York: punk at CBGB",
+  "city": "New York, New York",
+  "decades": [
+   "1970s"
+  ],
+  "blurb": "In the mid-1970s a small club on the Bowery called CBGB gave stage time to bands that played short, stripped-down songs. The Ramones, Patti Smith, Television, Blondie and Talking Heads all came out of that scene, following the lead of the Velvet Underground and the New York Dolls. Their styles differed, but they shared a rejection of long, polished arena rock.",
+  "artists": [
+   "the-velvet-underground",
+   "new-york-dolls",
+   "suicide",
+   "patti-smith",
+   "television",
+   "richard-hell",
+   "ramones",
+   "blondie",
+   "talking-heads"
+  ],
+  "spread": "The Ramones' 1976 London shows helped spark British punk, and the scene's art-minded bands led into new wave."
+ },
+ {
+  "id": "bronx-hip-hop",
+  "name": "The Bronx: birth of hip-hop",
+  "city": "New York, New York",
+  "decades": [
+   "1970s",
+   "1980s"
+  ],
+  "blurb": "In 1973 DJ Kool Herc played a party at 1520 Sedgwick Avenue in the Bronx, extending the drum breaks of funk records for dancers. Grandmaster Flash refined the technique of mixing breaks, and Afrika Bambaataa organized the scene around the Universal Zulu Nation. MCs began rhyming over the breaks, and the first rap records followed in 1979.",
+  "artists": [
+   "dj-kool-herc",
+   "grandmaster-flash",
+   "afrika-bambaataa",
+   "kurtis-blow",
+   "sugarhill-gang",
+   "krs-one",
+   "fat-joe",
+   "big-pun"
+  ],
+  "spread": "Hip-hop spread through New York's other boroughs and then to every region of the US and the world."
+ },
+ {
+  "id": "laurel-canyon",
+  "name": "Los Angeles: Laurel Canyon",
+  "city": "Los Angeles, California",
+  "decades": [
+   "1960s",
+   "1970s"
+  ],
+  "blurb": "In the hills above Sunset Boulevard, folk musicians who had gone electric lived near each other and played together. The Byrds and Buffalo Springfield came out of the clubs on the Sunset Strip, and Joni Mitchell and Crosby, Stills and Nash made their homes in the canyon. Their mix of folk, country and harmony singing became the soft rock and singer-songwriter sound of the 1970s.",
+  "artists": [
+   "the-byrds",
+   "buffalo-springfield",
+   "love",
+   "the-doors",
+   "frank-zappa",
+   "joni-mitchell",
+   "crosby-stills-nash",
+   "carole-king",
+   "james-taylor",
+   "jackson-browne",
+   "linda-ronstadt",
+   "eagles",
+   "wrecking-crew"
+  ],
+  "spread": "The sound became the core of 1970s country rock and singer-songwriter music, and it is still a reference point for indie folk."
+ },
+ {
+  "id": "compton-west-coast",
+  "name": "Compton and Los Angeles: West Coast rap",
+  "city": "Compton, California",
+  "decades": [
+   "1980s",
+   "1990s",
+   "2010s"
+  ],
+  "blurb": "In the late 1980s N.W.A, from Compton, made blunt records about street life and police violence, released on Eazy-E's Ruthless Records. Dr. Dre then built G-funk on slow synthesizer lines and Parliament-Funkadelic samples, with Snoop Dogg on Death Row Records. A later generation from the same area, led by Kendrick Lamar, brought the city back to the center of rap.",
+  "artists": [
+   "ice-t",
+   "nwa",
+   "eazy-e",
+   "dr-dre",
+   "ice-cube",
+   "dj-quik",
+   "snoop-dogg",
+   "warren-g",
+   "nate-dogg",
+   "tupac",
+   "the-game",
+   "kendrick-lamar",
+   "yg",
+   "dj-mustard"
+  ],
+  "spread": "G-funk made West Coast rap the best-selling rap of the early 1990s and shaped regional styles across the South and Midwest."
+ },
+ {
+  "id": "san-francisco-psychedelia",
+  "name": "San Francisco: psychedelic rock",
+  "city": "San Francisco, California",
+  "decades": [
+   "1960s"
+  ],
+  "blurb": "In the mid-1960s the Haight-Ashbury neighborhood drew a youth counterculture, and ballrooms like the Fillmore and the Avalon put on long dance concerts with light shows. Bands like the Grateful Dead and Jefferson Airplane stretched songs into long improvisations. The 1967 Summer of Love made the scene national news.",
+  "artists": [
+   "grateful-dead",
+   "jefferson-airplane",
+   "quicksilver-messenger-service",
+   "janis-joplin",
+   "santana",
+   "sly-and-the-family-stone",
+   "steve-miller-band",
+   "blue-cheer",
+   "creedence"
+  ],
+  "spread": "Psychedelic rock spread to London and across the US, and the Dead's touring model shaped jam bands for decades."
+ },
+ {
+  "id": "seattle-grunge",
+  "name": "Seattle: grunge",
+  "city": "Seattle, Washington",
+  "decades": [
+   "1980s",
+   "1990s"
+  ],
+  "blurb": "In the isolated Pacific Northwest, bands mixed punk with slow, heavy riffs from 1970s hard rock. The local label Sub Pop released early records by Mudhoney, Soundgarden and Nirvana and marketed the scene as a whole. Nirvana's Nevermind in 1991 took the sound into the mainstream.",
+  "artists": [
+   "melvins",
+   "green-river",
+   "mudhoney",
+   "mother-love-bone",
+   "soundgarden",
+   "screaming-trees",
+   "nirvana",
+   "pearl-jam",
+   "alice-in-chains",
+   "foo-fighters"
+  ],
+  "spread": "Grunge ended the reign of glam metal and opened major labels to alternative rock through the 1990s."
+ },
+ {
+  "id": "minneapolis",
+  "name": "Minneapolis: the Minneapolis sound",
+  "city": "Minneapolis, Minnesota",
+  "decades": [
+   "1980s"
+  ],
+  "blurb": "Prince built a funk sound from synthesizers, drum machines and rock guitar, and he produced local acts like the Time. Jimmy Jam and Terry Lewis of the Time went on to produce Janet Jackson's Control in the city. At the same time, Hüsker Dü and the Replacements made Minneapolis a center of American indie rock.",
+  "artists": [
+   "prince",
+   "the-time",
+   "jimmy-jam-and-terry-lewis",
+   "janet-jackson",
+   "husker-du",
+   "the-replacements",
+   "atmosphere"
+  ],
+  "spread": "The synth-funk style shaped 1980s pop and R&B production, while Hüsker Dü and the Replacements led toward alternative rock."
+ },
+ {
+  "id": "athens-georgia",
+  "name": "Athens: college rock",
+  "city": "Athens, Georgia",
+  "decades": [
+   "1980s",
+   "1990s"
+  ],
+  "blurb": "A small college town gave art students cheap rent and house parties to play. The B-52's and then R.E.M. came out of Athens, and R.E.M.'s jangly guitars and college radio success made the town a model for indie scenes. In the 1990s the Elephant 6 collective, including Neutral Milk Hotel, was based there.",
+  "artists": [
+   "the-b-52s",
+   "rem",
+   "widespread-panic",
+   "neutral-milk-hotel",
+   "drive-by-truckers"
+  ],
+  "spread": "R.E.M.'s rise through college radio showed that an independent band could reach the mainstream, paving the way for alternative rock."
+ },
+ {
+  "id": "atlanta",
+  "name": "Atlanta: Southern rap and trap",
+  "city": "Atlanta, Georgia",
+  "decades": [
+   "1990s",
+   "2000s",
+   "2010s"
+  ],
+  "blurb": "In the 1990s the production team Organized Noize made OutKast and Goodie Mob the voice of a new Southern rap. In the 2000s rappers like T.I., Young Jeezy and Gucci Mane popularized trap, named for drug houses, over heavy 808 bass and fast hi-hats. Producers like Zaytoven and Metro Boomin made the city the center of rap in the 2010s.",
+  "artists": [
+   "organized-noize",
+   "outkast",
+   "goodie-mob",
+   "lil-jon",
+   "ludacris",
+   "t-i",
+   "young-jeezy",
+   "gucci-mane",
+   "zaytoven",
+   "future",
+   "migos",
+   "young-thug",
+   "metro-boomin",
+   "21-savage"
+  ],
+  "spread": "Trap's drums and flows became the default sound of mainstream rap and spread into pop, Latin music and drill worldwide."
+ },
+ {
+  "id": "houston",
+  "name": "Houston: Rap-A-Lot and chopped and screwed",
+  "city": "Houston, Texas",
+  "decades": [
+   "1980s",
+   "1990s",
+   "2000s",
+   "2010s"
+  ],
+  "blurb": "Rap-A-Lot Records and the Geto Boys gave Houston an early, dark rap identity. DJ Screw slowed records down and repeated phrases on mixtapes, a style called chopped and screwed that defined the city's sound. UGK from nearby Port Arthur, and later Travis Scott and Megan Thee Stallion, carried Houston to national audiences.",
+  "artists": [
+   "geto-boys",
+   "scarface",
+   "dj-screw",
+   "ugk",
+   "travis-scott",
+   "megan-thee-stallion"
+  ],
+  "spread": "The slowed, syrupy sound influenced Southern rap generally and later trap and cloud rap."
+ },
+ {
+  "id": "austin",
+  "name": "Austin: psychedelia, outlaws and live music",
+  "city": "Austin, Texas",
+  "decades": [
+   "1960s",
+   "1970s",
+   "1980s"
+  ],
+  "blurb": "The 13th Floor Elevators made early psychedelic rock in Austin in the mid-1960s. In the 1970s Willie Nelson left Nashville for Austin, and venues like the Armadillo World Headquarters brought hippies and country fans together for progressive and outlaw country. In the 1980s Stevie Ray Vaughan led a Texas blues revival from the city's clubs.",
+  "artists": [
+   "13th-floor-elevators",
+   "willie-nelson",
+   "jerry-jeff-walker",
+   "stevie-ray-vaughan",
+   "butthole-surfers",
+   "spoon",
+   "explosions-in-the-sky",
+   "gary-clark-jr"
+  ],
+  "spread": "Austin's outlaw country challenged Nashville's control, and the city's club scene grew into a lasting live music industry."
+ },
+ {
+  "id": "liverpool-merseybeat",
+  "name": "Liverpool: Merseybeat",
+  "city": "Liverpool, United Kingdom",
+  "decades": [
+   "1960s"
+  ],
+  "blurb": "In a port city where sailors brought American records, teenagers formed skiffle and then rock and roll groups. Hundreds of beat groups played clubs like the Cavern, and the Beatles sharpened their act in Hamburg before returning home. Their success in 1963 made Liverpool the center of British pop for a time.",
+  "artists": [
+   "the-beatles",
+   "john-lennon",
+   "paul-mccartney-and-wings",
+   "george-harrison",
+   "echo-and-the-bunnymen",
+   "orchestral-manoeuvres-in-the-dark"
+  ],
+  "spread": "The Beatles led the British Invasion of the US charts in 1964, and later Liverpool bands helped shape post-punk and synth-pop."
+ },
+ {
+  "id": "london",
+  "name": "London: British Invasion and punk",
+  "city": "London, United Kingdom",
+  "decades": [
+   "1960s",
+   "1970s"
+  ],
+  "blurb": "In the early 1960s London clubs hosted a blues scene led by Alexis Korner and John Mayall, which produced the Rolling Stones, the Yardbirds and Cream, while the Kinks and the Who made loud, sharp pop. In 1976, around Malcolm McLaren's shop and a handful of clubs, the Sex Pistols, the Clash and the Damned launched British punk. Punk's do-it-yourself approach led quickly into post-punk.",
+  "artists": [
+   "alexis-korner",
+   "john-mayall-and-the-bluesbreakers",
+   "the-rolling-stones",
+   "the-kinks",
+   "the-who",
+   "the-yardbirds",
+   "small-faces",
+   "cream",
+   "david-bowie",
+   "sex-pistols",
+   "the-clash",
+   "the-damned",
+   "siouxsie",
+   "x-ray-spex"
+  ],
+  "spread": "London bands carried rock back to the US in the 1960s, and its punk scene spread across the UK and inspired hardcore in America."
+ },
+ {
+  "id": "manchester",
+  "name": "Manchester: post-punk to Madchester",
+  "city": "Manchester, United Kingdom",
+  "decades": [
+   "1970s",
+   "1980s",
+   "1990s"
+  ],
+  "blurb": "A 1976 Sex Pistols show in Manchester inspired the Buzzcocks, Joy Division and others. Factory Records and producer Martin Hannett gave Joy Division a spacious, cold sound, and after Ian Curtis died the band became New Order and moved toward dance music. At Factory's Haçienda club, house music mixed with guitar bands to create the Madchester scene of the late 1980s.",
+  "artists": [
+   "buzzcocks",
+   "magazine",
+   "the-fall",
+   "joy-division",
+   "martin-hannett",
+   "new-order",
+   "the-smiths",
+   "the-stone-roses",
+   "happy-mondays",
+   "808-state",
+   "oasis"
+  ],
+  "spread": "Manchester's mix of rock and dance music led into Britpop and the UK rave scene."
+ },
+ {
+  "id": "bristol-trip-hop",
+  "name": "Bristol: trip-hop",
+  "city": "Bristol, United Kingdom",
+  "decades": [
+   "1990s"
+  ],
+  "blurb": "Bristol's sound system culture, rooted in its Caribbean community, brought together reggae, hip-hop and soul. Members of the Wild Bunch collective formed Massive Attack, whose slow, dark records were later labeled trip-hop. Portishead and Tricky followed, and Roni Size took the city's breakbeat side into drum and bass.",
+  "artists": [
+   "massive-attack",
+   "tricky",
+   "portishead",
+   "roni-size"
+  ],
+  "spread": "The slow-tempo, sample-based style shaped downtempo electronic music, film soundtracks and later moody R&B and pop."
+ },
+ {
+  "id": "birmingham-metal",
+  "name": "Birmingham: heavy metal",
+  "city": "Birmingham, United Kingdom",
+  "decades": [
+   "1970s",
+   "1980s"
+  ],
+  "blurb": "In an industrial city of factories and foundries, Black Sabbath slowed down blues rock and tuned it to a heavy, dark sound on their 1970 debut. Judas Priest, also from the Birmingham area, added twin lead guitars and a leather look that defined metal style. The city also produced Electric Light Orchestra, the reggae of Steel Pulse and UB40, and the grindcore of Napalm Death.",
+  "artists": [
+   "the-moody-blues",
+   "black-sabbath",
+   "electric-light-orchestra",
+   "judas-priest",
+   "steel-pulse",
+   "the-beat",
+   "ub40",
+   "duran-duran",
+   "napalm-death"
+  ],
+  "spread": "Heavy metal spread through the New Wave of British Heavy Metal and then to thrash, doom and extreme metal worldwide."
+ },
+ {
+  "id": "dusseldorf-cologne",
+  "name": "Düsseldorf and Cologne: krautrock and electronic music",
+  "city": "Düsseldorf and Cologne, Germany",
+  "decades": [
+   "1970s"
+  ],
+  "blurb": "Young West German musicians set out to make music that did not copy American or British rock. In Cologne, Can built long pieces from repetitive grooves and studio editing, and Conny Plank's studio nearby recorded many of these bands. In Düsseldorf, Kraftwerk moved to synthesizers and drum machines, while Neu! developed a steady driving beat.",
+  "artists": [
+   "can",
+   "kraftwerk",
+   "neu",
+   "harmonia",
+   "conny-plank"
+  ],
+  "spread": "Kraftwerk's electronic pop shaped synth-pop, hip-hop's electro and Detroit techno, and the repetitive krautrock beat influenced post-punk and indie rock."
+ },
+ {
+  "id": "kingston",
+  "name": "Kingston: ska, reggae and dub",
+  "city": "Kingston, Jamaica",
+  "decades": [
+   "1960s",
+   "1970s",
+   "1980s"
+  ],
+  "blurb": "Sound system operators like Coxsone Dodd and Duke Reid started recording local musicians, and ska emerged around Jamaica's independence in 1962. It slowed into rocksteady and then reggae, which Bob Marley and the Wailers took worldwide. Engineers like King Tubby and Lee Scratch Perry stripped tracks down into dub, and DJs talking over riddims led to dancehall.",
+  "artists": [
+   "coxsone-dodd",
+   "duke-reid",
+   "the-skatalites",
+   "prince-buster",
+   "desmond-dekker",
+   "alton-ellis",
+   "toots",
+   "bob-marley",
+   "peter-tosh",
+   "lee-scratch-perry",
+   "king-tubby",
+   "u-roy",
+   "burning-spear",
+   "sly-and-robbie"
+  ],
+  "spread": "Jamaican sound system culture shaped hip-hop in the Bronx, UK ska and electronic music, and dancehall fed into reggaeton."
+ },
+ {
+  "id": "rio-bossa-nova",
+  "name": "Rio de Janeiro: bossa nova",
+  "city": "Rio de Janeiro, Brazil",
+  "decades": [
+   "1950s",
+   "1960s"
+  ],
+  "blurb": "In the late 1950s, in the apartments of Rio's south side, João Gilberto and Antônio Carlos Jobim slowed samba down and paired it with jazz harmony and quiet singing. The style was called bossa nova, or new trend. The Getz/Gilberto album with Stan Getz and Astrud Gilberto made it an international hit in 1964.",
+  "artists": [
+   "antonio-carlos-jobim",
+   "joao-gilberto",
+   "astrud-gilberto",
+   "stan-getz",
+   "sergio-mendes",
+   "jorge-ben-jor",
+   "tim-maia"
+  ],
+  "spread": "Bossa nova became part of the jazz standard repertoire and led in Brazil to MPB and Tropicália."
+ },
+ {
+  "id": "lagos",
+  "name": "Lagos: Afrobeat to Afrobeats",
+  "city": "Lagos, Nigeria",
+  "decades": [
+   "1970s",
+   "2010s",
+   "2020s"
+  ],
+  "blurb": "In the 1970s Fela Kuti and drummer Tony Allen built Afrobeat from Yoruba rhythms, highlife, jazz and James Brown's funk, and Fela used it to criticize Nigeria's military government. King Sunny Adé led juju music in the same era. In the 2000s and 2010s a new pop style called Afrobeats, made by artists like Wizkid and Davido, grew from Lagos studios.",
+  "artists": [
+   "fela-kuti",
+   "tony-allen",
+   "king-sunny-ade",
+   "wizkid",
+   "davido",
+   "burna-boy",
+   "tems"
+  ],
+  "spread": "Afrobeats reached global charts in the late 2010s through the UK and collaborations with American artists."
+ },
+ {
+  "id": "seoul-k-pop",
+  "name": "Seoul: K-pop",
+  "city": "Seoul, South Korea",
+  "decades": [
+   "1990s",
+   "2000s",
+   "2010s",
+   "2020s"
+  ],
+  "blurb": "In 1992 Seo Taiji and Boys brought rap and Western dance music into Korean pop. Large entertainment companies then built a system that trains young performers for years in singing and dancing. Groups like Big Bang, BTS and Blackpink paired that training with online fan communities to reach audiences abroad.",
+  "artists": [
+   "seo-taiji-and-boys",
+   "big-bang",
+   "psy",
+   "bts",
+   "blackpink",
+   "newjeans"
+  ],
+  "spread": "K-pop spread across Asia in the 2000s and then worldwide in the 2010s through YouTube and social media."
+ },
+ {
+  "id": "tokyo",
+  "name": "Tokyo: city pop and J-pop",
+  "city": "Tokyo, Japan",
+  "decades": [
+   "1970s",
+   "1980s",
+   "1990s",
+   "2020s"
+  ],
+  "blurb": "Happy End showed in the early 1970s that rock could be sung in Japanese, and its bassist Haruomi Hosono later formed Yellow Magic Orchestra with Ryuichi Sakamoto. In the 1980s, artists like Tatsuro Yamashita made city pop, a polished mix of soft rock, funk and jazz. In the 1990s and later, J-pop stars like Utada Hikaru and groups like YOASOBI dominated a large domestic market.",
+  "artists": [
+   "happy-end",
+   "haruomi-hosono",
+   "yellow-magic-orchestra",
+   "ryuichi-sakamoto",
+   "tatsuro-yamashita",
+   "x-japan",
+   "utada-hikaru",
+   "babymetal",
+   "yoasobi"
+  ],
+  "spread": "YMO influenced electronic pop and hip-hop abroad, and city pop found a new global audience online in the 2010s."
+ },
+ {
+  "id": "havana",
+  "name": "Havana: son, mambo and Afro-Cuban music",
+  "city": "Havana, Cuba",
+  "decades": [
+   "1930s",
+   "1940s",
+   "1950s",
+   "1990s"
+  ],
+  "blurb": "Son, which combined Spanish guitar and song with African rhythms, became the basis of Cuban popular music in Havana. Arsenio Rodríguez expanded the son band, and Cachao and Pérez Prado helped develop the mambo. Chano Pozo brought Cuban drumming to Dizzy Gillespie's band in New York, and the Buena Vista Social Club recordings of 1996 revived older musicians.",
+  "artists": [
+   "arsenio-rodriguez",
+   "cachao",
+   "benny-more",
+   "chano-pozo",
+   "perez-prado",
+   "machito",
+   "celia-cruz",
+   "buena-vista-social-club"
+  ],
+  "spread": "Cuban music moved to New York, where it shaped Latin jazz and became the root of salsa."
+ },
+ {
+  "id": "san-juan-reggaeton",
+  "name": "San Juan: reggaeton",
+  "city": "San Juan, Puerto Rico",
+  "decades": [
+   "1990s",
+   "2000s",
+   "2010s",
+   "2020s"
+  ],
+  "blurb": "In the 1990s Puerto Rican DJs and rappers mixed Jamaican dancehall riddims, Panamanian reggae en español and hip-hop on underground mixtapes. The dembow beat became the base of reggaeton, and Daddy Yankee's Gasolina made it an international hit in 2004. Later artists like Bad Bunny made it the biggest sound in Latin music.",
+  "artists": [
+   "ivy-queen",
+   "tego-calderon",
+   "daddy-yankee",
+   "don-omar",
+   "wisin-y-yandel",
+   "calle-13",
+   "tainy",
+   "bad-bunny",
+   "rauw-alejandro"
+  ],
+  "spread": "Reggaeton spread across Latin America, especially Colombia, and became a staple of global pop charts."
+ },
+ {
+  "id": "toronto",
+  "name": "Toronto: Yorkville folk to the Toronto sound",
+  "city": "Toronto, Canada",
+  "decades": [
+   "1960s",
+   "2010s"
+  ],
+  "blurb": "In the 1960s the coffeehouses of Toronto's Yorkville district hosted folk singers like Gordon Lightfoot and Joni Mitchell, and the musicians who became the Band played the city's bars behind Ronnie Hawkins. Rush formed in Toronto in 1968. In the 2010s Drake, the Weeknd and producers around Drake's OVO label made a moody, spacious R&B and rap sound.",
+  "artists": [
+   "gordon-lightfoot",
+   "joni-mitchell",
+   "the-band",
+   "rush",
+   "broken-social-scene",
+   "drake",
+   "the-weeknd",
+   "partynextdoor",
+   "daniel-caesar"
+  ],
+  "spread": "The 2010s Toronto sound shaped mainstream rap and R&B, blurring the line between singing and rapping."
+ },
+ {
+  "id": "paris-french-touch",
+  "name": "Paris: French touch",
+  "city": "Paris, France",
+  "decades": [
+   "1990s",
+   "2000s"
+  ],
+  "blurb": "In the mid-1990s French producers took Chicago house and added filtered disco samples and a pop sensibility. Daft Punk's Homework in 1997 made the style internationally known, and Air took a softer, more cinematic route. In the 2000s Justice and David Guetta carried French dance music further into rock and pop.",
+  "artists": [
+   "daft-punk",
+   "air",
+   "justice",
+   "david-guetta"
+  ],
+  "spread": "French touch fed into electro house and the EDM boom of the 2010s."
+ }
+]

@@ -1,0 +1,81 @@
+sam-phillips|Sam Phillips|1950s|rock|producer
+phil-spector|Phil Spector|1960s|pop|producer
+george-martin|George Martin|1960s|rock|producer
+quincy-jones|Quincy Jones|1960s|soul|producer
+berry-gordy|Berry Gordy|1960s|soul|producer
+holland-dozier-holland|Holland-Dozier-Holland|1960s|soul|producer
+funk-brothers|The Funk Brothers|1960s|soul|session
+wrecking-crew|The Wrecking Crew|1960s|pop|session
+muscle-shoals-rhythm-section|Muscle Shoals Rhythm Section|1960s|soul|session
+leiber-and-stoller|Leiber and Stoller|1950s|rock|producer
+tom-dowd|Tom Dowd|1960s|soul|producer
+jerry-wexler|Jerry Wexler|1960s|soul|producer
+ahmet-ertegun|Ahmet Ertegun|1950s|soul|producer
+rick-rubin|Rick Rubin|1980s|hiphop|producer
+butch-vig|Butch Vig|1990s|alt|producer
+steve-albini|Steve Albini|1980s|alt|producer
+nigel-godrich|Nigel Godrich|1990s|alt|producer
+mutt-lange|Mutt Lange|1970s|rock|producer
+max-martin|Max Martin|1990s|pop|producer
+jimmy-jam-and-terry-lewis|Jimmy Jam and Terry Lewis|1980s|soul|producer
+teddy-riley|Teddy Riley|1980s|soul|producer
+timbaland|Timbaland|1990s|hiphop|producer
+the-neptunes|The Neptunes|1990s|hiphop|producer
+dj-premier|DJ Premier|1990s|hiphop|producer
+pete-rock|Pete Rock|1990s|hiphop|producer
+rza|RZA|1990s|hiphop|producer
+metro-boomin|Metro Boomin|2010s|hiphop|producer
+mike-will-made-it|Mike WiLL Made-It|2010s|hiphop|producer
+no-id|No I.D.|1990s|hiphop|producer
+jack-antonoff|Jack Antonoff|2010s|pop|producer
+mark-ronson|Mark Ronson|2000s|pop|producer
+danger-mouse|Danger Mouse|2000s|hiphop|producer
+madlib|Madlib|2000s|hiphop|producer
+dave-cobb|Dave Cobb|2010s|country|producer
+t-bone-burnett|T Bone Burnett|1980s|folk|producer
+daniel-lanois|Daniel Lanois|1980s|rock|producer
+joe-meek|Joe Meek|1960s|pop|producer
+gerry-goffin|Gerry Goffin|1960s|pop|producer
+burt-bacharach|Burt Bacharach|1960s|pop|producer
+gamble-and-huff|Gamble and Huff|1970s|soul|producer
+thom-bell|Thom Bell|1970s|soul|producer
+mfsb|MFSB|1970s|soul|session
+norman-whitfield|Norman Whitfield|1960s|soul|producer
+willie-mitchell|Willie Mitchell|1970s|soul|producer
+allen-toussaint|Allen Toussaint|1960s|soul|producer
+chet-atkins|Chet Atkins|1950s|country|producer
+owen-bradley|Owen Bradley|1950s|country|producer
+billy-sherrill|Billy Sherrill|1960s|country|producer
+nashville-a-team|The Nashville A-Team|1950s|country|session
+rudy-van-gelder|Rudy Van Gelder|1950s|jazz|producer
+teo-macero|Teo Macero|1960s|jazz|producer
+creed-taylor|Creed Taylor|1960s|jazz|producer
+sly-and-robbie|Sly and Robbie|1970s|reggae|session
+coxsone-dodd|Coxsone Dodd|1960s|reggae|producer
+the-skatalites|The Skatalites|1960s|reggae|session
+bob-ezrin|Bob Ezrin|1970s|rock|producer
+tony-visconti|Tony Visconti|1970s|rock|producer
+mickie-most|Mickie Most|1960s|pop|producer
+martin-hannett|Martin Hannett|1970s|alt|producer
+trevor-horn|Trevor Horn|1980s|pop|producer
+stock-aitken-waterman|Stock Aitken Waterman|1980s|pop|producer
+babyface|Babyface|1980s|soul|producer
+la-reid|L.A. Reid|1980s|soul|producer
+marley-marl|Marley Marl|1980s|hiphop|producer
+the-bomb-squad|The Bomb Squad|1980s|hiphop|producer
+prince-paul|Prince Paul|1980s|hiphop|producer
+dj-quik|DJ Quik|1990s|hiphop|producer
+puff-daddy|Sean Combs|1990s|hiphop|producer
+swizz-beatz|Swizz Beatz|1990s|hiphop|producer
+just-blaze|Just Blaze|2000s|hiphop|producer
+mannie-fresh|Mannie Fresh|1990s|hiphop|producer
+dj-mustard|DJ Mustard|2010s|hiphop|producer
+zaytoven|Zaytoven|2000s|hiphop|producer
+the-alchemist|The Alchemist|2000s|hiphop|producer
+hit-boy|Hit-Boy|2010s|hiphop|producer
+dr-luke|Dr. Luke|2000s|pop|producer
+rodney-jerkins|Rodney Jerkins|1990s|soul|producer
+tricky-stewart|Tricky Stewart|2000s|pop|producer
+finneas|Finneas|2010s|pop|producer
+dan-auerbach|Dan Auerbach|2010s|rock|producer
+john-congleton|John Congleton|2000s|alt|producer
