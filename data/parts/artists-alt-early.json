@@ -1,0 +1,977 @@
+[
+ {
+  "id": "the-stooges",
+  "years": "1967–1974, 2003–2016",
+  "origin": "Ann Arbor, Michigan",
+  "genres": [
+   "proto-punk",
+   "garage rock",
+   "hard rock"
+  ],
+  "summary": "The Stooges stripped rock down to raw riffs, repetition and a confrontational stage show. Their records became a blueprint for punk and much later alternative rock.",
+  "know": [
+   "Their 1969 debut was produced by John Cale of the Velvet Underground.",
+   "David Bowie mixed their third album, Raw Power.",
+   "They were inducted into the Rock and Roll Hall of Fame in 2010."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Stooges",
+    1969
+   ],
+   [
+    "Fun House",
+    1970
+   ],
+   [
+    "Raw Power",
+    1973
+   ]
+  ],
+  "songs": [
+   "I Wanna Be Your Dog",
+   "No Fun",
+   "1969",
+   "Search and Destroy",
+   "Loose"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-doors",
+    "why": "Iggy Pop has said seeing Jim Morrison perform showed him how far a frontman could push an audience.",
+    "s": 3
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "The droning, minimal approach of the Velvets shaped their sound, and John Cale produced their debut.",
+    "s": 3
+   },
+   {
+    "id": "bo-diddley",
+    "why": "The stomping, hypnotic rhythm of their riffs draws on the Bo Diddley beat Iggy admired.",
+    "s": 2
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Ron Asheton's blunt, bluesy guitar parts grew out of the early Stones and British Invasion bands.",
+    "s": 2
+   },
+   {
+    "id": "john-coltrane",
+    "why": "Iggy and the band cited free jazz, including Coltrane, as a model for the long freakouts on Fun House.",
+    "s": 3
+   },
+   {
+    "id": "james-brown",
+    "why": "Iggy has named James Brown as a model for his physical, high-energy stage presence.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "motorhead",
+    "why": "Loud, stripped-down riffing that became a root for a harder genre."
+   },
+   {
+    "id": "captain-beefheart",
+    "why": "A raw, untamed take on rock that later scenes treated as a starting point."
+   }
+  ]
+ },
+ {
+  "id": "mc5",
+  "years": "1964–1972",
+  "origin": "Lincoln Park, Michigan",
+  "genres": [
+   "proto-punk",
+   "garage rock",
+   "hard rock"
+  ],
+  "summary": "MC5 played loud, fast, politically charged rock that pointed toward punk years ahead of time. Their live energy made them a model for later high-volume guitar bands.",
+  "know": [
+   "Their debut, Kick Out the Jams, was recorded live at Detroit's Grande Ballroom in 1968.",
+   "Jon Landau produced their second album, Back in the USA.",
+   "Guitarists Wayne Kramer and Fred \"Sonic\" Smith worked as a twin-guitar attack."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Kick Out the Jams",
+    1969
+   ],
+   [
+    "Back in the USA",
+    1970
+   ],
+   [
+    "High Time",
+    1971
+   ]
+  ],
+  "songs": [
+   "Kick Out the Jams",
+   "Looking at You",
+   "Ramblin' Rose",
+   "Shakin' Street",
+   "Tonight"
+  ],
+  "influencedBy": [
+   {
+    "id": "chuck-berry",
+    "why": "They covered Chuck Berry's Back in the U.S.A. and built their riffs on his style.",
+    "s": 3
+   },
+   {
+    "id": "little-richard",
+    "why": "They covered Tutti Frutti, and his wild rock and roll energy fed their sound.",
+    "s": 3
+   },
+   {
+    "id": "sun-ra",
+    "why": "The band openly admired Sun Ra, covering his Starship and borrowing his cosmic free-jazz ideas.",
+    "s": 3
+   },
+   {
+    "id": "john-coltrane",
+    "why": "Wayne Kramer described trying to play guitar with the intensity of Coltrane's free jazz.",
+    "s": 3
+   },
+   {
+    "id": "james-brown",
+    "why": "Their tight, driving stage show borrowed from James Brown's revue style.",
+    "s": 2
+   },
+   {
+    "id": "the-who",
+    "why": "Their volume and aggressive live attack reflected the Who's early approach.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "public-enemy",
+    "why": "Loud, politically charged music built to rouse a crowd."
+   },
+   {
+    "id": "rage-against-the-machine",
+    "why": "Heavy guitar music paired with radical politics."
+   }
+  ]
+ },
+ {
+  "id": "new-york-dolls",
+  "years": "1971–1977, 2004–2011",
+  "origin": "New York City, New York",
+  "genres": [
+   "proto-punk",
+   "glam rock",
+   "garage rock"
+  ],
+  "summary": "The New York Dolls mixed trashy rock and roll with glam style and a loose, chaotic energy. They linked early 1970s glam to the New York and London punk scenes.",
+  "know": [
+   "Todd Rundgren produced their 1973 debut album.",
+   "Malcolm McLaren briefly managed them before working with the Sex Pistols.",
+   "Singer David Johansen later had a hit as his alter ego Buster Poindexter."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "New York Dolls",
+    1973
+   ],
+   [
+    "Too Much Too Soon",
+    1974
+   ]
+  ],
+  "songs": [
+   "Personality Crisis",
+   "Trash",
+   "Jet Boy",
+   "Looking for a Kiss",
+   "Stranded in the Jungle"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-rolling-stones",
+    "why": "Johansen and Johnny Thunders modeled their swagger and loose guitar sound on the early Stones.",
+    "s": 2
+   },
+   {
+    "id": "bo-diddley",
+    "why": "They covered Pills, a Bo Diddley song, on their debut.",
+    "s": 3
+   },
+   {
+    "id": "t-rex",
+    "why": "Their look and glam rock crunch drew on Marc Bolan's glam style.",
+    "s": 1
+   },
+   {
+    "id": "the-stooges",
+    "why": "They shared the Stooges' raw, stripped-back attitude and played the same circuits.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "aerosmith",
+    "why": "A Stones-inspired American band with the same strutting rock and roll feel."
+   },
+   {
+    "id": "kiss",
+    "why": "New York rock built on loud guitars and theatrical image."
+   }
+  ]
+ },
+ {
+  "id": "ramones",
+  "years": "1974–1996",
+  "origin": "Queens, New York",
+  "genres": [
+   "punk rock",
+   "pop punk",
+   "garage rock"
+  ],
+  "summary": "The Ramones cut rock and roll down to short, fast songs with buzzsaw guitar and pop melodies. Their first album is often treated as the start of punk rock.",
+  "know": [
+   "Every member adopted the surname Ramone.",
+   "Their 1976 debut album ran under 30 minutes.",
+   "They played more than 2,000 concerts over 22 years."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Ramones",
+    1976
+   ],
+   [
+    "Leave Home",
+    1977
+   ],
+   [
+    "Rocket to Russia",
+    1977
+   ],
+   [
+    "Road to Ruin",
+    1978
+   ]
+  ],
+  "songs": [
+   "Blitzkrieg Bop",
+   "Sheena Is a Punk Rocker",
+   "I Wanna Be Sedated",
+   "Rockaway Beach",
+   "Judy Is a Punk"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-stooges",
+    "why": "The band named the Stooges as a major source of their raw, minimal approach.",
+    "s": 3
+   },
+   {
+    "id": "new-york-dolls",
+    "why": "Seeing the Dolls in New York convinced them a stripped-down band could work.",
+    "s": 3
+   },
+   {
+    "id": "the-beach-boys",
+    "why": "Their surf themes and harmonies borrow from the Beach Boys, as on Rockaway Beach.",
+    "s": 3
+   },
+   {
+    "id": "the-ronettes",
+    "why": "Joey Ramone loved Phil Spector's girl groups, and they covered Baby, I Love You with Spector producing.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "Their name comes from Paul McCartney's early alias Paul Ramon, and they cited the Beatles' pop craft.",
+    "s": 3
+   },
+   {
+    "id": "the-who",
+    "why": "Their power-chord drive owes much to early Who records.",
+    "s": 2
+   },
+   {
+    "id": "the-kinks",
+    "why": "The simple, distorted riffs of the early Kinks fed into their guitar style.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "motorhead",
+    "why": "Fast, loud, stripped-down rock that changed what heavy music could be."
+   },
+   {
+    "id": "chuck-berry",
+    "why": "Short, tight rock songs built on a few chords and big hooks."
+   },
+   {
+    "id": "run-dmc",
+    "why": "Stripped hip hop back to hard basics, as the Ramones did with rock."
+   }
+  ]
+ },
+ {
+  "id": "patti-smith",
+  "years": "1971–present",
+  "origin": "Chicago, Illinois (raised in New Jersey)",
+  "genres": [
+   "punk rock",
+   "art rock",
+   "proto-punk"
+  ],
+  "summary": "Patti Smith fused poetry readings with rock and roll, bringing a literary voice to the early New York punk scene. Her album Horses showed punk could be artful and ambitious.",
+  "know": [
+   "John Cale produced her debut album, Horses, in 1975.",
+   "Because the Night was co-written with Bruce Springsteen.",
+   "She won the National Book Award in 2010 for her memoir Just Kids."
+  ],
+  "born": "12-30",
+  "keyAlbums": [
+   [
+    "Horses",
+    1975
+   ],
+   [
+    "Radio Ethiopia",
+    1976
+   ],
+   [
+    "Easter",
+    1978
+   ],
+   [
+    "Wave",
+    1979
+   ]
+  ],
+  "songs": [
+   "Gloria",
+   "Because the Night",
+   "Land",
+   "Free Money",
+   "Dancing Barefoot"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-dylan",
+    "why": "Smith has called Dylan a central model for mixing poetry with rock.",
+    "s": 3
+   },
+   {
+    "id": "the-doors",
+    "why": "Jim Morrison's spoken, poetic performance style shaped her early sets.",
+    "s": 3
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "She has cited Keith Richards and the Stones as core rock influences.",
+    "s": 3
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "She has cited Hendrix's improvisational spirit, and Horses was recorded at his Electric Lady Studios.",
+    "s": 2
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "Her blend of art and street rock follows the Velvet Underground, and John Cale produced Horses.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "gil-scott-heron",
+    "why": "Spoken-word poetry delivered over music with a political edge."
+   },
+   {
+    "id": "joni-mitchell",
+    "why": "A female songwriter whose poetic lyrics redefined what her genre could hold."
+   }
+  ]
+ },
+ {
+  "id": "television",
+  "years": "1973–1978, 1991–present",
+  "origin": "New York City, New York",
+  "genres": [
+   "post-punk",
+   "art punk",
+   "proto-punk"
+  ],
+  "summary": "Television brought long, interlocking guitar solos into the CBGB punk scene. Marquee Moon remains a key model for guitar bands that value melody and improvisation.",
+  "know": [
+   "Tom Verlaine and Richard Lloyd traded intricate twin-guitar lines.",
+   "They were one of the first bands to play regularly at CBGB.",
+   "Richard Hell was an early member before forming the Voidoids."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Marquee Moon",
+    1977
+   ],
+   [
+    "Adventure",
+    1978
+   ],
+   [
+    "Television",
+    1992
+   ]
+  ],
+  "songs": [
+   "Marquee Moon",
+   "See No Evil",
+   "Venus",
+   "Friction",
+   "Prove It"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-velvet-underground",
+    "why": "The droning, hypnotic guitar textures recall the Velvets.",
+    "s": 2
+   },
+   {
+    "id": "the-byrds",
+    "why": "Verlaine cited the Byrds' chiming guitars, which echo in their interlocking parts.",
+    "s": 2
+   },
+   {
+    "id": "john-coltrane",
+    "why": "Verlaine said free jazz players like Coltrane and Albert Ayler shaped his soloing.",
+    "s": 3
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Richard Lloyd has named Keith Richards as a guitar influence.",
+    "s": 2
+   },
+   {
+    "id": "the-yardbirds",
+    "why": "Their extended guitar improvisation follows the rave-ups of 1960s bands like the Yardbirds.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "grateful-dead",
+    "why": "Long, improvised twin-guitar passages built on interplay."
+   },
+   {
+    "id": "weather-report",
+    "why": "Players weaving lines around each other rather than strumming chords."
+   }
+  ]
+ },
+ {
+  "id": "sex-pistols",
+  "years": "1975–1978, 1996–2008",
+  "origin": "London, England",
+  "genres": [
+   "punk rock",
+   "first-wave punk"
+  ],
+  "summary": "The Sex Pistols brought punk into British mainstream culture with one album and a handful of singles. Their sound and attitude set off a wave of new bands across the UK.",
+  "know": [
+   "Never Mind the Bollocks was their only studio album.",
+   "Their 1976 Manchester gig inspired members of Joy Division, Buzzcocks and the Smiths to start playing.",
+   "Guitarist Steve Jones layered many guitar tracks to create the album's thick wall of sound."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Never Mind the Bollocks, Here's the Sex Pistols",
+    1977
+   ]
+  ],
+  "songs": [
+   "Anarchy in the U.K.",
+   "God Save the Queen",
+   "Pretty Vacant",
+   "Holidays in the Sun",
+   "Bodies"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-stooges",
+    "why": "They covered No Fun, and Steve Jones built his guitar sound on the Stooges.",
+    "s": 3
+   },
+   {
+    "id": "new-york-dolls",
+    "why": "Manager Malcolm McLaren had worked with the Dolls, and Jones modeled his playing on Johnny Thunders.",
+    "s": 3
+   },
+   {
+    "id": "the-who",
+    "why": "They covered Substitute, and the Who's mod aggression shaped their sound.",
+    "s": 3
+   },
+   {
+    "id": "the-kinks",
+    "why": "Their raw British riffing and London sneer echo the early Kinks.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "nwa",
+    "why": "A group whose blunt, provocative records caused a national uproar."
+   },
+   {
+    "id": "motorhead",
+    "why": "Raw, loud British rock that bridged punk and metal fans."
+   }
+  ]
+ },
+ {
+  "id": "the-clash",
+  "years": "1976–1986",
+  "origin": "London, England",
+  "genres": [
+   "punk rock",
+   "post-punk",
+   "reggae rock"
+  ],
+  "summary": "The Clash started as a punk band and grew to take in reggae, dub, rockabilly, funk and early hip hop. London Calling is often named among the greatest rock albums.",
+  "know": [
+   "London Calling was released as a double album priced like a single LP.",
+   "They covered Junior Murvin's Police and Thieves on their debut.",
+   "Lee Perry produced their single Complete Control."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Clash",
+    1977
+   ],
+   [
+    "London Calling",
+    1979
+   ],
+   [
+    "Sandinista!",
+    1980
+   ],
+   [
+    "Combat Rock",
+    1982
+   ]
+  ],
+  "songs": [
+   "London Calling",
+   "Train in Vain",
+   "Should I Stay or Should I Go",
+   "Rock the Casbah",
+   "White Riot"
+  ],
+  "influencedBy": [
+   {
+    "id": "sex-pistols",
+    "why": "Joe Strummer said seeing the Pistols made him quit his pub band and join the Clash.",
+    "s": 3
+   },
+   {
+    "id": "ramones",
+    "why": "The Ramones' 1976 London shows pushed them toward short, fast songs.",
+    "s": 3
+   },
+   {
+    "id": "lee-scratch-perry",
+    "why": "They covered a Perry-produced reggae song and later had Perry produce Complete Control.",
+    "s": 3
+   },
+   {
+    "id": "bob-marley",
+    "why": "Strummer and Mick Jones cited Jamaican reggae, Marley included, as a core influence on their rhythms.",
+    "s": 2
+   },
+   {
+    "id": "the-who",
+    "why": "Mick Jones grew up on the Who and their mod power chords.",
+    "s": 2
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Jones has named the Stones as his biggest early influence.",
+    "s": 3
+   },
+   {
+    "id": "woody-guthrie",
+    "why": "Strummer admired Guthrie's protest songs, and his early nickname was Woody.",
+    "s": 3
+   },
+   {
+    "id": "eddie-cochran",
+    "why": "Their rockabilly side, as on Brand New Cadillac, draws on 1950s rockers like Cochran.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-specials",
+    "why": "British bands mixing Jamaican music with punk energy and social themes."
+   },
+   {
+    "id": "public-enemy",
+    "why": "Politically charged music that mixed many styles."
+   },
+   {
+    "id": "bob-marley",
+    "why": "Songs of protest and solidarity with a strong groove."
+   }
+  ]
+ },
+ {
+  "id": "talking-heads",
+  "years": "1975–1991",
+  "origin": "New York City, New York",
+  "genres": [
+   "new wave",
+   "art punk",
+   "post-punk",
+   "art pop"
+  ],
+  "summary": "Talking Heads came out of CBGB and moved toward layered funk and African polyrhythms. Their work with Brian Eno widened what a rock band could sound like.",
+  "know": [
+   "Brian Eno produced three of their albums, from More Songs About Buildings and Food to Remain in Light.",
+   "Their concert film Stop Making Sense was directed by Jonathan Demme.",
+   "David Byrne, Chris Frantz and Tina Weymouth met at the Rhode Island School of Design."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Talking Heads: 77",
+    1977
+   ],
+   [
+    "Fear of Music",
+    1979
+   ],
+   [
+    "Remain in Light",
+    1980
+   ],
+   [
+    "Speaking in Tongues",
+    1983
+   ]
+  ],
+  "songs": [
+   "Psycho Killer",
+   "Once in a Lifetime",
+   "Burning Down the House",
+   "Life During Wartime",
+   "Take Me to the River"
+  ],
+  "influencedBy": [
+   {
+    "id": "brian-eno",
+    "why": "Eno produced three albums and co-wrote much of Remain in Light.",
+    "s": 3
+   },
+   {
+    "id": "fela-kuti",
+    "why": "Byrne and the band cited Fela's Afrobeat as the model for Remain in Light.",
+    "s": 3
+   },
+   {
+    "id": "al-green",
+    "why": "They covered Take Me to the River, written by Al Green and Teenie Hodges.",
+    "s": 3
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "Their early minimal, art school approach follows the Velvets.",
+    "s": 2
+   },
+   {
+    "id": "parliament-funkadelic",
+    "why": "Tina Weymouth and Chris Frantz drew on P-Funk grooves, and Bernie Worrell joined their live band.",
+    "s": 3
+   },
+   {
+    "id": "james-brown",
+    "why": "Their interlocking funk parts borrow from James Brown's rhythm section.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "fela-kuti",
+    "why": "Long, layered grooves built from interlocking parts."
+   },
+   {
+    "id": "kraftwerk",
+    "why": "Art-school musicians who made detached, rhythmic pop."
+   },
+   {
+    "id": "chic",
+    "why": "Tight, guitar-and-bass funk that kept people dancing."
+   }
+  ]
+ },
+ {
+  "id": "joy-division",
+  "years": "1976–1980",
+  "origin": "Salford, England",
+  "genres": [
+   "post-punk",
+   "gothic rock"
+  ],
+  "summary": "Joy Division turned punk's energy into stark, spacious music with melodic bass and cold atmosphere. Their two albums shaped post-punk, goth and much later indie rock.",
+  "know": [
+   "Martin Hannett produced both studio albums for Factory Records.",
+   "Peter Hook played melodic lead lines high on the bass.",
+   "The remaining members continued as New Order."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Unknown Pleasures",
+    1979
+   ],
+   [
+    "Closer",
+    1980
+   ]
+  ],
+  "songs": [
+   "Love Will Tear Us Apart",
+   "Transmission",
+   "She's Lost Control",
+   "Atmosphere",
+   "Disorder"
+  ],
+  "influencedBy": [
+   {
+    "id": "sex-pistols",
+    "why": "Members decided to form a band after the Pistols' 1976 Manchester show.",
+    "s": 3
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "They covered Sister Ray live and cited the Velvets' drone.",
+    "s": 3
+   },
+   {
+    "id": "the-doors",
+    "why": "Ian Curtis's baritone delivery was often compared to Jim Morrison, whom he admired.",
+    "s": 2
+   },
+   {
+    "id": "kraftwerk",
+    "why": "They played Trans-Europe Express before shows and borrowed its mechanical feel.",
+    "s": 3
+   },
+   {
+    "id": "the-stooges",
+    "why": "Curtis was a big Stooges fan, and The Idiot era Iggy shaped their mood.",
+    "s": 3
+   },
+   {
+    "id": "david-bowie",
+    "why": "Bowie's Berlin albums, especially Low, influenced their sound; the band's early name Warsaw came from Bowie's Warszawa.",
+    "s": 3
+   },
+   {
+    "id": "can",
+    "why": "The repetitive, motorik drumming draws on German bands like Can.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "burial",
+    "why": "Sparse, haunted music that relies on space and atmosphere."
+   },
+   {
+    "id": "depeche-mode",
+    "why": "Dark, brooding songs from the same post-punk era."
+   }
+  ]
+ },
+ {
+  "id": "the-cure",
+  "years": "1978–present",
+  "origin": "Crawley, England",
+  "genres": [
+   "post-punk",
+   "gothic rock",
+   "new wave",
+   "dream pop"
+  ],
+  "summary": "The Cure moved between bleak gothic records and bright pop singles, all led by Robert Smith's voice and guitar. They are one of the most influential bands in goth and alternative rock.",
+  "know": [
+   "Their first single, Killing an Arab, was based on the novel The Stranger.",
+   "Robert Smith also played guitar with Siouxsie and the Banshees.",
+   "They were inducted into the Rock and Roll Hall of Fame in 2019."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Seventeen Seconds",
+    1980
+   ],
+   [
+    "Pornography",
+    1982
+   ],
+   [
+    "The Head on the Door",
+    1985
+   ],
+   [
+    "Disintegration",
+    1989
+   ]
+  ],
+  "songs": [
+   "Boys Don't Cry",
+   "Just Like Heaven",
+   "Lovesong",
+   "Pictures of You",
+   "A Forest"
+  ],
+  "influencedBy": [
+   {
+    "id": "siouxsie",
+    "why": "Robert Smith said playing with the Banshees changed how he approached the band.",
+    "s": 3
+   },
+   {
+    "id": "david-bowie",
+    "why": "Smith has named Bowie a lifelong favorite; Bowie's Low shaped Seventeen Seconds.",
+    "s": 3
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "Smith has cited Hendrix as his first guitar hero.",
+    "s": 3
+   },
+   {
+    "id": "nick-drake",
+    "why": "Smith has named Nick Drake as a favorite, and his melancholy feel echoes in the band.",
+    "s": 3
+   },
+   {
+    "id": "buzzcocks",
+    "why": "Early Cure singles share the sharp, melodic punk-pop of Buzzcocks.",
+    "s": 1
+   },
+   {
+    "id": "the-beatles",
+    "why": "Smith grew up on the Beatles and cites their pop songwriting.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "depeche-mode",
+    "why": "Dark, emotional songs that still became huge pop hits."
+   },
+   {
+    "id": "kate-bush",
+    "why": "Moody, atmospheric music with a strong personal voice."
+   }
+  ]
+ },
+ {
+  "id": "siouxsie",
+  "years": "1976–1996",
+  "origin": "London, England",
+  "genres": [
+   "post-punk",
+   "gothic rock",
+   "new wave"
+  ],
+  "summary": "Siouxsie and the Banshees moved from punk into dark, textured post-punk with inventive guitar and drums. They helped create gothic rock and paved the way for many female-fronted bands.",
+  "know": [
+   "Their first live show was at the 100 Club Punk Festival in 1976.",
+   "Robert Smith of the Cure played guitar with them at times.",
+   "Their cover of the Beatles' Dear Prudence was a UK top five hit."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Scream",
+    1978
+   ],
+   [
+    "Kaleidoscope",
+    1980
+   ],
+   [
+    "Juju",
+    1981
+   ],
+   [
+    "A Kiss in the Dreamhouse",
+    1982
+   ]
+  ],
+  "songs": [
+   "Hong Kong Garden",
+   "Spellbound",
+   "Happy House",
+   "Christine",
+   "Cities in Dust"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-velvet-underground",
+    "why": "They covered All Tomorrow's Parties and cited the Velvets' dark tone.",
+    "s": 3
+   },
+   {
+    "id": "david-bowie",
+    "why": "Siouxsie has called Bowie a key early influence on her style and voice.",
+    "s": 3
+   },
+   {
+    "id": "t-rex",
+    "why": "Glam acts like T. Rex shaped Siouxsie's teenage tastes, and the band covered 20th Century Boy.",
+    "s": 3
+   },
+   {
+    "id": "roxy-music",
+    "why": "The band cited Roxy Music's art rock as a formative influence.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "They covered Dear Prudence and Helter Skelter.",
+    "s": 3
+   },
+   {
+    "id": "sex-pistols",
+    "why": "They emerged from the Bromley Contingent of Sex Pistols fans.",
+    "s": 3
+   },
+   {
+    "id": "can",
+    "why": "Their tribal, repetitive drumming draws on German bands such as Can.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "kate-bush",
+    "why": "A singular British woman with a theatrical, otherworldly sound."
+   },
+   {
+    "id": "bjork",
+    "why": "A bold female voice who made strange music popular."
+   }
+  ]
+ }
+]

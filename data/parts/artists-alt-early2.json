@@ -1,0 +1,1182 @@
+[
+ {
+  "id": "blondie",
+  "years": "1974–1982, 1997–present",
+  "origin": "New York City, New York",
+  "genres": [
+   "new wave",
+   "punk rock",
+   "power pop",
+   "disco"
+  ],
+  "summary": "Blondie came out of the CBGB punk scene but wrote tight, hook-driven pop songs and moved freely into disco, reggae and rap. They showed that a New York punk band could top the pop charts without losing its edge.",
+  "know": [
+   "Parallel Lines (1978) was produced by Mike Chapman and gave them their breakthrough hit Heart of Glass.",
+   "Call Me was written and produced with Giorgio Moroder for the film American Gigolo.",
+   "Rapture became the first US number one single to feature rapping."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Blondie",
+    1976
+   ],
+   [
+    "Parallel Lines",
+    1978
+   ],
+   [
+    "Eat to the Beat",
+    1979
+   ],
+   [
+    "Autoamerican",
+    1980
+   ]
+  ],
+  "songs": [
+   "Heart of Glass",
+   "Call Me",
+   "Atomic",
+   "Rapture",
+   "One Way or Another"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-ronettes",
+    "why": "Their melodic hooks and Debbie Harry's vocal style borrow openly from 1960s girl-group pop.",
+    "s": 2
+   },
+   {
+    "id": "new-york-dolls",
+    "why": "The Dolls showed the downtown New York scene that trashy, catchy rock and roll could be a style of its own.",
+    "s": 2
+   },
+   {
+    "id": "kraftwerk",
+    "why": "Chris Stein has pointed to Kraftwerk's sequenced electronics as a model for the pulsing synth bed of Heart of Glass.",
+    "s": 3
+   },
+   {
+    "id": "giorgio-moroder",
+    "why": "Working with Moroder on Call Me brought his driving synth disco production directly into their sound.",
+    "s": 3
+   },
+   {
+    "id": "donna-summer",
+    "why": "The steady four-on-the-floor disco of Heart of Glass follows the template of Summer's electronic dance hits.",
+    "s": 2
+   },
+   {
+    "id": "grandmaster-flash",
+    "why": "Rapture was their tribute to the Bronx rap scene and names Grandmaster Flash directly.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "madonna",
+    "why": "A downtown New York singer who blended dance music and pop into hit records."
+   },
+   {
+    "id": "chic",
+    "why": "Sleek, guitar-led disco built on crisp hooks and a strong groove."
+   }
+  ]
+ },
+ {
+  "id": "devo",
+  "years": "1973–1991, 1996–present",
+  "origin": "Akron, Ohio",
+  "genres": [
+   "new wave",
+   "art punk",
+   "synth-pop"
+  ],
+  "summary": "Devo played jerky, mechanical rock built on stiff rhythms, angular guitar and early synthesizers, wrapped in a strong visual concept. Their robotic approach helped define American new wave and early synth-pop.",
+  "know": [
+   "Their debut album was produced by Brian Eno in Germany.",
+   "Their stiff, rebuilt cover of the Rolling Stones' Satisfaction was an early calling card.",
+   "Whip It reached the US top 20 in 1980, and Mark Mothersbaugh later became a prolific film and TV composer."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Q: Are We Not Men? A: We Are Devo!",
+    1978
+   ],
+   [
+    "Duty Now for the Future",
+    1979
+   ],
+   [
+    "Freedom of Choice",
+    1980
+   ],
+   [
+    "New Traditionalists",
+    1981
+   ]
+  ],
+  "songs": [
+   "Whip It",
+   "Uncontrollable Urge",
+   "Jocko Homo",
+   "(I Can't Get No) Satisfaction",
+   "Girl U Want"
+  ],
+  "influencedBy": [
+   {
+    "id": "kraftwerk",
+    "why": "Kraftwerk's machine-like precision and synthesizer textures fed directly into Devo's robotic arrangements.",
+    "s": 2
+   },
+   {
+    "id": "captain-beefheart",
+    "why": "Beefheart's lopsided rhythms and odd, angular guitar figures are a clear model for Devo's twitchy song structures.",
+    "s": 2
+   },
+   {
+    "id": "brian-eno",
+    "why": "Eno produced their debut and pushed its electronic treatments and studio experimentation.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "yellow-magic-orchestra",
+    "why": "A concept-driven band pairing synthesizers with tight, mechanical pop."
+   },
+   {
+    "id": "frank-zappa",
+    "why": "Satirical, highly controlled rock with a strong conceptual framework."
+   }
+  ]
+ },
+ {
+  "id": "new-order",
+  "years": "1980–present",
+  "origin": "Salford, England",
+  "genres": [
+   "synth-pop",
+   "post-punk",
+   "alternative dance"
+  ],
+  "summary": "New Order fused post-punk guitar and bass with drum machines, sequencers and New York club music. They became the main bridge between indie rock and electronic dance music in the 1980s.",
+  "know": [
+   "They were formed by the remaining members of Joy Division in 1980.",
+   "Blue Monday (1983) is often cited as the best-selling 12-inch single ever released.",
+   "Peter Hook's melodic high-register bass lines act as a lead instrument in many of their songs."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Power, Corruption & Lies",
+    1983
+   ],
+   [
+    "Low-Life",
+    1985
+   ],
+   [
+    "Brotherhood",
+    1986
+   ],
+   [
+    "Technique",
+    1989
+   ]
+  ],
+  "songs": [
+   "Blue Monday",
+   "Ceremony",
+   "Bizarre Love Triangle",
+   "True Faith",
+   "Regret"
+  ],
+  "influencedBy": [
+   {
+    "id": "joy-division",
+    "why": "New Order grew directly out of Joy Division, carrying over its melodic bass lines and stark atmosphere.",
+    "s": 3
+   },
+   {
+    "id": "kraftwerk",
+    "why": "The band has named Kraftwerk as the key model for building songs around sequencers and drum machines.",
+    "s": 3
+   },
+   {
+    "id": "giorgio-moroder",
+    "why": "Bernard Sumner has credited Moroder's sequenced disco productions as an inspiration for their electronic turn.",
+    "s": 3
+   },
+   {
+    "id": "donna-summer",
+    "why": "The band has said Blue Monday borrowed ideas from a Donna Summer track produced by Moroder.",
+    "s": 2
+   },
+   {
+    "id": "frankie-knuckles",
+    "why": "The house rhythms of Technique reflect the Chicago club sound that Knuckles helped create.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "depeche-mode",
+    "why": "A British band that turned synthesizers and drum machines into dark, melodic pop."
+   },
+   {
+    "id": "lcd-soundsystem",
+    "why": "A rock-minded act built around dance grooves and analog synths."
+   }
+  ]
+ },
+ {
+  "id": "the-smiths",
+  "years": "1982–1987",
+  "origin": "Manchester, England",
+  "genres": [
+   "indie rock",
+   "jangle pop",
+   "post-punk"
+  ],
+  "summary": "The Smiths paired Johnny Marr's intricate, chiming guitar arrangements with Morrissey's distinctive crooning vocals. They became the defining British indie band of the 1980s and shaped guitar pop for decades.",
+  "know": [
+   "They released all four studio albums on the independent label Rough Trade.",
+   "Meat Is Murder (1985) reached number one on the UK album chart.",
+   "Johnny Marr often layered several guitar parts to create a full, ringing sound without keyboards."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Smiths",
+    1984
+   ],
+   [
+    "Meat Is Murder",
+    1985
+   ],
+   [
+    "The Queen Is Dead",
+    1986
+   ],
+   [
+    "Strangeways, Here We Come",
+    1987
+   ]
+  ],
+  "songs": [
+   "This Charming Man",
+   "How Soon Is Now?",
+   "There Is a Light That Never Goes Out",
+   "Bigmouth Strikes Again",
+   "Panic"
+  ],
+  "influencedBy": [
+   {
+    "id": "new-york-dolls",
+    "why": "Morrissey ran the UK fan club for the New York Dolls and has called them his first musical love.",
+    "s": 3
+   },
+   {
+    "id": "the-byrds",
+    "why": "Marr's ringing, arpeggiated guitar draws on the jangle sound Roger McGuinn developed.",
+    "s": 2
+   },
+   {
+    "id": "chic",
+    "why": "Marr has praised Nile Rodgers, and his rhythmic, chord-based guitar parts show that funk influence.",
+    "s": 2
+   },
+   {
+    "id": "the-ronettes",
+    "why": "Marr has cited Phil Spector's girl-group productions as a model for the layered sound he wanted.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "big-star",
+    "why": "A guitar-pop band with chiming arrangements and a devoted following."
+   },
+   {
+    "id": "nick-drake",
+    "why": "Melancholy, literate songs carried by intricate acoustic guitar."
+   }
+  ]
+ },
+ {
+  "id": "rem",
+  "years": "1980–2011",
+  "origin": "Athens, Georgia",
+  "genres": [
+   "alternative rock",
+   "jangle pop",
+   "college rock",
+   "folk rock"
+  ],
+  "summary": "R.E.M. combined Peter Buck's chiming arpeggiated guitar with murmured, melodic vocals and folk-rock textures. They grew from college radio favorites into a major band and opened the mainstream to American alternative rock.",
+  "know": [
+   "Their debut album Murmur was named Rolling Stone's album of the year for 1983.",
+   "Out of Time (1991) built its biggest hit around a mandolin riff.",
+   "They were inducted into the Rock and Roll Hall of Fame in 2007."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Murmur",
+    1983
+   ],
+   [
+    "Reckoning",
+    1984
+   ],
+   [
+    "Document",
+    1987
+   ],
+   [
+    "Automatic for the People",
+    1992
+   ]
+  ],
+  "songs": [
+   "Radio Free Europe",
+   "The One I Love",
+   "Losing My Religion",
+   "Man on the Moon",
+   "Everybody Hurts"
+  ],
+  "influencedBy": [
+   {
+    "id": "patti-smith",
+    "why": "Michael Stipe has said hearing Patti Smith's Horses made him want to make music.",
+    "s": 3
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "They covered several Velvet Underground songs and shared their droning, understated guitar approach.",
+    "s": 3
+   },
+   {
+    "id": "the-byrds",
+    "why": "Buck's ringing Rickenbacker arpeggios echo the jangle guitar sound of the Byrds.",
+    "s": 2
+   },
+   {
+    "id": "television",
+    "why": "Television's interlocking, clean guitar lines shaped the spare post-punk side of their early records.",
+    "s": 2
+   },
+   {
+    "id": "big-star",
+    "why": "Big Star's melodic guitar pop was a touchstone for their circle of Southern college rock bands.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "tom-petty",
+    "why": "Jangling, Byrds-influenced guitar rock with strong melodies."
+   },
+   {
+    "id": "the-band",
+    "why": "Rootsy, atmospheric American songs built on ensemble playing."
+   }
+  ]
+ },
+ {
+  "id": "black-flag",
+  "years": "1976–1986",
+  "origin": "Hermosa Beach, California",
+  "genres": [
+   "hardcore punk",
+   "punk rock",
+   "post-hardcore"
+  ],
+  "summary": "Black Flag played fast, abrasive hardcore driven by Greg Ginn's atonal guitar and later slowed it into heavy, sludgy forms. Through constant touring and their label SST, they built the independent network American underground rock relied on.",
+  "know": [
+   "Guitarist Greg Ginn founded SST Records, which also released Hüsker Dü and Sonic Youth.",
+   "Henry Rollins joined as their fourth vocalist in 1981, just before Damaged.",
+   "The slow, heavy second side of My War is often cited as a forerunner of sludge metal and grunge."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Damaged",
+    1981
+   ],
+   [
+    "My War",
+    1984
+   ],
+   [
+    "Slip It In",
+    1984
+   ],
+   [
+    "In My Head",
+    1985
+   ]
+  ],
+  "songs": [
+   "Rise Above",
+   "Nervous Breakdown",
+   "TV Party",
+   "Gimmie Gimmie Gimmie",
+   "My War"
+  ],
+  "influencedBy": [
+   {
+    "id": "black-sabbath",
+    "why": "Ginn has cited Black Sabbath, and their slow, crushing riffs shaped the heavy songs on My War.",
+    "s": 3
+   },
+   {
+    "id": "the-stooges",
+    "why": "The Stooges' raw, repetitive riffing laid groundwork for their blunt, aggressive sound.",
+    "s": 2
+   },
+   {
+    "id": "ramones",
+    "why": "The Ramones' short, fast songs were the starting point for the speed of early hardcore.",
+    "s": 2
+   },
+   {
+    "id": "grateful-dead",
+    "why": "Ginn was a devoted Grateful Dead fan, and their long improvised jams fed his free-form soloing.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "motorhead",
+    "why": "Loud, fast and relentless music that bridged punk and metal."
+   },
+   {
+    "id": "slayer",
+    "why": "Extreme speed and aggression with chaotic, atonal guitar solos."
+   }
+  ]
+ },
+ {
+  "id": "minor-threat",
+  "years": "1980–1983",
+  "origin": "Washington, D.C.",
+  "genres": [
+   "hardcore punk",
+   "punk rock"
+  ],
+  "summary": "Minor Threat played extremely fast, tightly drilled hardcore songs, most under two minutes. Their records and their do-it-yourself label set the template for the Washington and wider American hardcore scenes.",
+  "know": [
+   "Ian MacKaye and Jeff Nelson co-founded Dischord Records to release their music.",
+   "Their complete recorded output fits on a single compilation, Complete Discography.",
+   "Ian MacKaye later co-founded the influential post-hardcore band Fugazi."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Minor Threat",
+    1981
+   ],
+   [
+    "In My Eyes",
+    1981
+   ],
+   [
+    "Out of Step",
+    1983
+   ],
+   [
+    "Complete Discography",
+    1989
+   ]
+  ],
+  "songs": [
+   "Minor Threat",
+   "Filler",
+   "In My Eyes",
+   "Out of Step",
+   "Salad Days"
+  ],
+  "influencedBy": [
+   {
+    "id": "bad-brains",
+    "why": "MacKaye has repeatedly credited Bad Brains' speed and precision as the model for his band.",
+    "s": 3
+   },
+   {
+    "id": "ramones",
+    "why": "The Ramones' stripped-down, fast songwriting was a foundation for their compact songs.",
+    "s": 2
+   },
+   {
+    "id": "black-flag",
+    "why": "Black Flag's early records showed DC bands how fast and abrasive American hardcore could be.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "slayer",
+    "why": "Short, fast, tightly played songs pushed to extremes of speed."
+   },
+   {
+    "id": "public-enemy",
+    "why": "Dense, urgent music that conveyed intensity through tight arrangement."
+   }
+  ]
+ },
+ {
+  "id": "bad-brains",
+  "years": "1977–present",
+  "origin": "Washington, D.C.",
+  "genres": [
+   "hardcore punk",
+   "reggae",
+   "punk rock"
+  ],
+  "summary": "Bad Brains played hardcore at blinding speed with the precision of trained musicians and alternated it with deep roots reggae. They helped invent hardcore punk and proved it could carry real virtuosity.",
+  "know": [
+   "They started as a jazz fusion band called Mind Power before turning to punk.",
+   "Rock for Light (1983) was produced by Ric Ocasek of the Cars.",
+   "Their albums often switch between full-speed hardcore and slow reggae tracks."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Bad Brains",
+    1982
+   ],
+   [
+    "Rock for Light",
+    1983
+   ],
+   [
+    "I Against I",
+    1986
+   ],
+   [
+    "Quickness",
+    1989
+   ]
+  ],
+  "songs": [
+   "Banned in D.C.",
+   "Sailin' On",
+   "I Against I",
+   "Big Takeover",
+   "I Luv I Jah"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-marley",
+    "why": "Bob Marley's music drew them to reggae, which became half of their sound.",
+    "s": 3
+   },
+   {
+    "id": "ramones",
+    "why": "Hearing the Ramones helped convert the band from fusion to fast punk.",
+    "s": 2
+   },
+   {
+    "id": "sex-pistols",
+    "why": "The Sex Pistols' aggression was part of what pulled them into punk rock.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "rage-against-the-machine",
+    "why": "Virtuosic players merging heavy guitar with another genre's groove."
+   },
+   {
+    "id": "the-specials",
+    "why": "A band that fused punk energy with Jamaican rhythms."
+   }
+  ]
+ },
+ {
+  "id": "husker-du",
+  "years": "1979–1988",
+  "origin": "Saint Paul, Minnesota",
+  "genres": [
+   "hardcore punk",
+   "post-hardcore",
+   "alternative rock"
+  ],
+  "summary": "Hüsker Dü played hardcore at full speed but buried strong pop melodies under walls of distorted guitar. They pointed the way from hardcore to melodic alternative rock and later grunge.",
+  "know": [
+   "Zen Arcade (1984) was an ambitious double album recorded in a matter of days for SST.",
+   "They were among the first American hardcore bands to sign to a major label, joining Warner Bros. in 1986.",
+   "Bob Mould and Grant Hart split the songwriting and lead vocals."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Zen Arcade",
+    1984
+   ],
+   [
+    "New Day Rising",
+    1985
+   ],
+   [
+    "Flip Your Wig",
+    1985
+   ],
+   [
+    "Candy Apple Grey",
+    1986
+   ]
+  ],
+  "songs": [
+   "Makes No Sense at All",
+   "Celebrated Summer",
+   "Something I Learned Today",
+   "Don't Want to Know If You Are Lonely",
+   "Eight Miles High"
+  ],
+  "influencedBy": [
+   {
+    "id": "ramones",
+    "why": "Bob Mould has said the Ramones' first album changed his life and showed him how to play.",
+    "s": 3
+   },
+   {
+    "id": "the-byrds",
+    "why": "They released a roaring cover of the Byrds' Eight Miles High, showing their love of 1960s melody.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "Grant Hart's pop songwriting draws on Beatles-style melody and harmony.",
+    "s": 2
+   },
+   {
+    "id": "black-flag",
+    "why": "Their early speed and noise came out of the hardcore circuit Black Flag built, including SST.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-who",
+    "why": "Loud, powerful guitar rock built on strong pop melodies."
+   },
+   {
+    "id": "big-star",
+    "why": "Melodic guitar songs with a raw edge and a cult following."
+   }
+  ]
+ },
+ {
+  "id": "the-replacements",
+  "years": "1979–1991, 2012–2015",
+  "origin": "Minneapolis, Minnesota",
+  "genres": [
+   "alternative rock",
+   "punk rock",
+   "power pop",
+   "college rock"
+  ],
+  "summary": "The Replacements moved from ragged punk to heartfelt guitar rock, led by Paul Westerberg's melodic, conversational songwriting. Their loose, emotional records became a model for American indie and alternative rock.",
+  "know": [
+   "They debuted on the Minneapolis independent label Twin/Tone.",
+   "Tim (1985) was produced by Tommy Ramone.",
+   "Their song Alex Chilton honors the Big Star singer, who played on Pleased to Meet Me."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Hootenanny",
+    1983
+   ],
+   [
+    "Let It Be",
+    1984
+   ],
+   [
+    "Tim",
+    1985
+   ],
+   [
+    "Pleased to Meet Me",
+    1987
+   ]
+  ],
+  "songs": [
+   "Left of the Dial",
+   "Alex Chilton",
+   "Can't Hardly Wait",
+   "Unsatisfied",
+   "Kiss Me on the Bus"
+  ],
+  "influencedBy": [
+   {
+    "id": "big-star",
+    "why": "Westerberg wrote a song named after Alex Chilton and drew on Big Star's bittersweet power pop.",
+    "s": 3
+   },
+   {
+    "id": "new-york-dolls",
+    "why": "The Dolls' sloppy, swaggering rock and roll is a clear model for their loose sound.",
+    "s": 2
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Their ragged, riff-based rock and roll owes a lot to the Stones' looser side.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "tom-petty",
+    "why": "Heartfelt, melodic guitar rock with plain-spoken songwriting."
+   },
+   {
+    "id": "elvis-costello",
+    "why": "Sharp, emotional songwriting delivered with punk-era energy."
+   }
+  ]
+ },
+ {
+  "id": "sonic-youth",
+  "years": "1981–2011",
+  "origin": "New York City, New York",
+  "genres": [
+   "noise rock",
+   "alternative rock",
+   "no wave",
+   "experimental rock"
+  ],
+  "summary": "Sonic Youth rebuilt the electric guitar with alternate tunings, prepared instruments and waves of feedback, then shaped that noise into songs. They became elder statesmen of the American underground and opened doors for 1990s alternative rock.",
+  "know": [
+   "They used dozens of unusual guitar tunings and sometimes wedged objects under the strings.",
+   "Thurston Moore and Lee Ranaldo both played in Glenn Branca's guitar ensembles before the band took off.",
+   "Daydream Nation (1988) was added to the Library of Congress National Recording Registry."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "EVOL",
+    1986
+   ],
+   [
+    "Sister",
+    1987
+   ],
+   [
+    "Daydream Nation",
+    1988
+   ],
+   [
+    "Goo",
+    1990
+   ]
+  ],
+  "songs": [
+   "Teen Age Riot",
+   "Silver Rocket",
+   "Kool Thing",
+   "Expressway to Yr Skull",
+   "100%"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-velvet-underground",
+    "why": "The Velvets' drones, feedback and art-world roots were a direct model for their guitar approach.",
+    "s": 3
+   },
+   {
+    "id": "the-stooges",
+    "why": "The Stooges' raw, repetitive power fed their heavier songs, and they covered Stooges material.",
+    "s": 2
+   },
+   {
+    "id": "patti-smith",
+    "why": "Patti Smith's fusion of downtown poetry and rock informed their art-rock outlook.",
+    "s": 2
+   },
+   {
+    "id": "television",
+    "why": "Television's long, interlocking guitar lines influenced their extended twin-guitar passages.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "ornette-coleman",
+    "why": "Free-form playing that rejected standard harmony while keeping a strong pulse."
+   },
+   {
+    "id": "can",
+    "why": "Experimental rock built on repetition and textural sound."
+   }
+  ]
+ },
+ {
+  "id": "pixies",
+  "years": "1986–1993, 2004–present",
+  "origin": "Boston, Massachusetts",
+  "genres": [
+   "alternative rock",
+   "indie rock",
+   "noise pop",
+   "surf rock"
+  ],
+  "summary": "Pixies built songs on sudden shifts between quiet verses and loud, distorted choruses, with surf-tinged guitar and boy-girl vocals. That dynamic became a core template for 1990s alternative rock.",
+  "know": [
+   "Surfer Rosa (1988) was recorded with engineer Steve Albini.",
+   "Their early records were released on the British label 4AD.",
+   "Kurt Cobain said he was trying to write a Pixies song when he wrote Smells Like Teen Spirit."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Surfer Rosa",
+    1988
+   ],
+   [
+    "Doolittle",
+    1989
+   ],
+   [
+    "Bossanova",
+    1990
+   ],
+   [
+    "Trompe le Monde",
+    1991
+   ]
+  ],
+  "songs": [
+   "Where Is My Mind?",
+   "Debaser",
+   "Here Comes Your Man",
+   "Monkey Gone to Heaven",
+   "Gigantic"
+  ],
+  "influencedBy": [
+   {
+    "id": "husker-du",
+    "why": "The band's ad seeking a bassist asked for fans of Hüsker Dü, and their melodic noise shaped the Pixies sound.",
+    "s": 3
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "Joey Santiago has cited Hendrix, and his noisy, inventive lead lines show it.",
+    "s": 2
+   },
+   {
+    "id": "the-stooges",
+    "why": "Black Francis's raw, screaming delivery and the band's blunt power echo the Stooges.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "captain-beefheart",
+    "why": "Surreal, off-kilter songs with jagged guitar."
+   },
+   {
+    "id": "os-mutantes",
+    "why": "Playful, strange rock that mixes sweetness with noise."
+   }
+  ]
+ },
+ {
+  "id": "the-jesus-and-mary-chain",
+  "years": "1983–1999, 2007–present",
+  "origin": "East Kilbride, Scotland",
+  "genres": [
+   "noise pop",
+   "post-punk",
+   "indie rock",
+   "shoegaze"
+  ],
+  "summary": "The Jesus and Mary Chain set sweet 1960s pop melodies inside sheets of guitar feedback over simple, booming drums. Their debut Psychocandy laid the groundwork for shoegaze and noise pop.",
+  "know": [
+   "The band is led by brothers Jim and William Reid.",
+   "Their first single, Upside Down, was released on Creation Records in 1984.",
+   "Just Like Honey opens with the drum pattern from the Ronettes' Be My Baby."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Psychocandy",
+    1985
+   ],
+   [
+    "Darklands",
+    1987
+   ],
+   [
+    "Automatic",
+    1989
+   ],
+   [
+    "Honey's Dead",
+    1992
+   ]
+  ],
+  "songs": [
+   "Just Like Honey",
+   "Upside Down",
+   "April Skies",
+   "Head On",
+   "Never Understood"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-ronettes",
+    "why": "They built songs on Phil Spector's girl-group drums and melodies, quoting Be My Baby directly.",
+    "s": 3
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "The Velvets' mix of drone, feedback and simple melody is the core of their sound.",
+    "s": 3
+   },
+   {
+    "id": "the-beach-boys",
+    "why": "The Reids have named the Beach Boys among the melodic pop sources under their noise.",
+    "s": 2
+   },
+   {
+    "id": "the-stooges",
+    "why": "The Stooges' raw, distorted minimalism shaped their abrasive early live sound.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "lana-del-rey",
+    "why": "Dreamy, retro pop melodies set in a dark, hazy atmosphere."
+   },
+   {
+    "id": "portishead",
+    "why": "Vintage melodies and sounds wrapped in heavy, shadowy textures."
+   }
+  ]
+ },
+ {
+  "id": "my-bloody-valentine",
+  "years": "1983–1997, 2007–present",
+  "origin": "Dublin, Ireland",
+  "genres": [
+   "shoegaze",
+   "noise pop",
+   "dream pop",
+   "alternative rock"
+  ],
+  "summary": "My Bloody Valentine turned layered, pitch-bending guitars into a blurred wall of sound with soft vocals sunk into the mix. Loveless became the defining shoegaze album and a landmark in guitar texture and production.",
+  "know": [
+   "Kevin Shields developed a glide guitar technique, strumming while working the tremolo arm.",
+   "Loveless (1991) was recorded across many studios over roughly two years.",
+   "Their third album, m b v, arrived in 2013, twenty-two years after Loveless."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Isn't Anything",
+    1988
+   ],
+   [
+    "Loveless",
+    1991
+   ],
+   [
+    "m b v",
+    2013
+   ]
+  ],
+  "songs": [
+   "Only Shallow",
+   "Soon",
+   "When You Sleep",
+   "To Here Knows When",
+   "You Made Me Realise"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-jesus-and-mary-chain",
+    "why": "The Mary Chain's mix of pop melody and feedback helped push them toward their noisier sound.",
+    "s": 2
+   },
+   {
+    "id": "sonic-youth",
+    "why": "Sonic Youth's alternate tunings and guitar noise were an important model for Shields's experiments.",
+    "s": 2
+   },
+   {
+    "id": "ramones",
+    "why": "Shields has credited the Ramones' wall of simple, strummed guitar as a key early influence.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "brian-eno",
+    "why": "Music where texture and atmosphere matter more than individual parts."
+   },
+   {
+    "id": "burial",
+    "why": "Hazy, blurred production that buries voices inside the sound."
+   }
+  ]
+ },
+ {
+  "id": "the-stone-roses",
+  "years": "1983–1996, 2011–2017",
+  "origin": "Manchester, England",
+  "genres": [
+   "Madchester",
+   "indie rock",
+   "psychedelic pop",
+   "baggy"
+  ],
+  "summary": "The Stone Roses mixed 1960s jangle and psychedelic melody with loose, funky drumming influenced by dance club culture. They led the Madchester scene and paved the way for Britpop.",
+  "know": [
+   "Their 1989 debut was produced by John Leckie.",
+   "Fools Gold paired a funk breakbeat with wah-wah guitar and became a dance-floor hit.",
+   "Reni's fluid, swinging drumming set them apart from other guitar bands of the time."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Stone Roses",
+    1989
+   ],
+   [
+    "Second Coming",
+    1994
+   ]
+  ],
+  "songs": [
+   "I Wanna Be Adored",
+   "She Bangs the Drums",
+   "Fools Gold",
+   "Made of Stone",
+   "I Am the Resurrection"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-byrds",
+    "why": "John Squire's ringing, melodic guitar draws on the Byrds' 1960s jangle.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "Their harmonies and psychedelic pop arrangements echo the mid-period Beatles.",
+    "s": 2
+   },
+   {
+    "id": "the-clash",
+    "why": "Squire and Ian Brown have cited the Clash as the band that inspired them to start playing.",
+    "s": 2
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "Squire's wah-heavy lead playing on Fools Gold and Second Coming recalls Hendrix.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-chemical-brothers",
+    "why": "Music that bridged guitar psychedelia and dance-floor beats."
+   },
+   {
+    "id": "jefferson-airplane",
+    "why": "A melodic psychedelic band at the center of a youth scene."
+   }
+  ]
+ },
+ {
+  "id": "red-hot-chili-peppers",
+  "years": "1983–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "funk rock",
+   "alternative rock",
+   "funk metal",
+   "rap rock"
+  ],
+  "summary": "Red Hot Chili Peppers fused slap-bass funk, punk energy and rhythmic vocals, later adding melodic, guitar-driven ballads. They became one of the most successful bands of the alternative era.",
+  "know": [
+   "George Clinton produced their second album, Freaky Styley (1985).",
+   "Rick Rubin produced Blood Sugar Sex Magik (1991) and many later albums.",
+   "They were inducted into the Rock and Roll Hall of Fame in 2012."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Mother's Milk",
+    1989
+   ],
+   [
+    "Blood Sugar Sex Magik",
+    1991
+   ],
+   [
+    "Californication",
+    1999
+   ],
+   [
+    "By the Way",
+    2002
+   ]
+  ],
+  "songs": [
+   "Give It Away",
+   "Under the Bridge",
+   "Higher Ground",
+   "Californication",
+   "Can't Stop"
+  ],
+  "influencedBy": [
+   {
+    "id": "parliament-funkadelic",
+    "why": "They idolized P-Funk, and George Clinton produced Freaky Styley.",
+    "s": 3
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "They covered Hendrix's Fire, and John Frusciante has named Hendrix as a major guitar influence.",
+    "s": 3
+   },
+   {
+    "id": "stevie-wonder",
+    "why": "Their hit cover of Higher Ground shows their debt to Wonder's funk.",
+    "s": 2
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Flea's slap-bass style follows the thumb-slapping technique of Sly's bassist Larry Graham.",
+    "s": 2
+   },
+   {
+    "id": "the-meters",
+    "why": "Their tight, syncopated New Orleans funk grooves were a model for the band's rhythm section.",
+    "s": 2
+   },
+   {
+    "id": "black-flag",
+    "why": "Flea and the band came up in the LA punk scene and have cited bands like Black Flag for their energy.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "rage-against-the-machine",
+    "why": "Heavy guitar riffs locked to funk grooves and rhythmic vocals."
+   },
+   {
+    "id": "beastie-boys",
+    "why": "A band that mixed punk energy, rap vocals and funk."
+   }
+  ]
+ }
+]

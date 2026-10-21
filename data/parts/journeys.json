@@ -1,0 +1,872 @@
+{
+ "journeys": [
+  {
+   "id": "delta-to-led-zeppelin",
+   "title": "From the Delta to Led Zeppelin",
+   "blurb": "Follow the blues from Mississippi plantations to Chicago clubs to English arenas. Each step gets louder, but the riffs and lyrics carry straight through.",
+   "steps": [
+    {
+     "title": "The first Delta star",
+     "artist": "charley-patton",
+     "listen": "Pony Blues",
+     "note": "Listen for the rough voice and the guitar that thumps like a drum. This is the starting point for the Delta blues sound.",
+     "ask": "Can you hear where the guitar acts as the rhythm section?"
+    },
+    {
+     "title": "Preaching in the blues",
+     "artist": "son-house",
+     "listen": "Preachin' the Blues",
+     "note": "Son House played with Patton and pushed the style harder, slapping the strings and singing at full force. Notice how much rawer the attack is than in the previous step.",
+     "ask": "What does his slide guitar add to the feeling of the song?"
+    },
+    {
+     "title": "The crossroads",
+     "artist": "robert-johnson",
+     "listen": "Cross Road Blues",
+     "note": "Robert Johnson learned from Son House but played with tighter, more complex patterns. Listen for the bass line and the melody happening at the same time on one guitar.",
+     "ask": "Does it sound like one guitarist or two?"
+    },
+    {
+     "title": "Plugging in Chicago",
+     "artist": "muddy-waters",
+     "listen": "I Can't Be Satisfied",
+     "note": "Muddy Waters came from the Delta and amplified the same slide style in Chicago. The song is close to the country blues of the earlier steps, now with an electric edge.",
+     "ask": "What changes when the slide guitar is amplified?"
+    },
+    {
+     "title": "The slide riff that spread",
+     "artist": "elmore-james",
+     "listen": "Dust My Broom",
+     "note": "Elmore James electrified a Robert Johnson song and its triplet slide riff. That opening figure became one of the most copied riffs in blues and rock.",
+     "ask": "Have you heard that opening riff in other songs?"
+    },
+    {
+     "title": "The howl",
+     "artist": "howlin-wolf",
+     "listen": "Smokestack Lightnin'",
+     "note": "Howlin' Wolf brought a huge voice and a hypnotic one-chord groove to Chicago blues. Listen to how the band locks onto a single riff for the whole song.",
+     "ask": "How does repeating one riff build tension?"
+    },
+    {
+     "title": "British students",
+     "artist": "the-yardbirds",
+     "listen": "I'm a Man",
+     "note": "The Yardbirds were young English fans copying Chicago blues records. Their version of the Bo Diddley song speeds up into a wild guitar and harmonica rave-up at the end.",
+     "ask": "Where do they stop sounding like a blues band and start sounding like a rock band?"
+    },
+    {
+     "title": "Johnson goes electric",
+     "artist": "cream",
+     "listen": "Crossroads",
+     "note": "Cream took Robert Johnson's 'Cross Road Blues' and played it loud and fast on stage. Compare Eric Clapton's solos to the lone acoustic guitar from step three.",
+     "ask": "What survived from the 1936 original?"
+    },
+    {
+     "title": "Blues as a jam",
+     "artist": "jimi-hendrix",
+     "listen": "Red House",
+     "note": "Hendrix grew up on the same blues records and played a slow twelve-bar blues with huge tone and bends. It sits right between Chicago blues and heavy rock.",
+     "ask": "Which earlier guitarist does Hendrix remind you of here?"
+    },
+    {
+     "title": "A Willie Dixon song, heavier",
+     "artist": "led-zeppelin",
+     "listen": "You Shook Me",
+     "note": "Led Zeppelin's first album reworked this Willie Dixon blues that Muddy Waters had recorded. Listen to how slow and heavy the band makes the old twelve-bar form.",
+     "ask": "Does it still feel like a blues song?"
+    },
+    {
+     "title": "Back to 1929",
+     "artist": "led-zeppelin",
+     "listen": "When the Levee Breaks",
+     "note": "This closes the circle: a 1929 Memphis Minnie and Kansas Joe McCoy blues about the Mississippi flood, rebuilt around giant drums. Those drums were later sampled by hip-hop producers.",
+     "ask": "Can you hear the old blues lyric under the heavy production?"
+    }
+   ]
+  },
+  {
+   "id": "birth-of-hip-hop",
+   "title": "The Birth of Hip-Hop",
+   "blurb": "From the funk breaks Bronx DJs looped at parties to the first rap records and the sampling era. Listen for how the beat changes from live band to turntables to drum machines to samplers.",
+   "steps": [
+    {
+     "title": "The break",
+     "artist": "james-brown",
+     "listen": "Give It Up or Turnit a Loose",
+     "note": "DJ Kool Herc played funk records like this at Bronx parties and repeated the drum breaks with two copies. Listen for the section where the band drops out and only the drums and percussion are left.",
+     "ask": "Why would dancers want that part to last longer?"
+    },
+    {
+     "title": "The disco groove",
+     "artist": "chic",
+     "listen": "Good Times",
+     "note": "Bernard Edwards' bassline here became the most famous groove of early rap. Notice how much space it leaves for someone to talk over it.",
+     "ask": "Could you imagine rhyming over this bassline?"
+    },
+    {
+     "title": "The first hit rap record",
+     "artist": "sugarhill-gang",
+     "listen": "Rapper's Delight",
+     "note": "A studio band replayed the 'Good Times' groove while three rappers took turns on the mic. It brought party rap from the Bronx to radio for the first time.",
+     "ask": "How does it compare to the Chic song it is built on?"
+    },
+    {
+     "title": "The DJ as the artist",
+     "artist": "grandmaster-flash",
+     "listen": "The Adventures of Grandmaster Flash on the Wheels of Steel",
+     "note": "Flash cut and scratched records by Chic, Queen and Blondie live on turntables. It shows the DJ techniques that started hip-hop, captured on a record.",
+     "ask": "Which records can you pick out in the mix?"
+    },
+    {
+     "title": "Rap gets serious",
+     "artist": "grandmaster-flash",
+     "listen": "The Message",
+     "note": "Here the lyrics turn from party talk to life in the city. The slow synth groove leaves room for Melle Mel's story to sink in.",
+     "ask": "What details in the lyrics stand out to you?"
+    },
+    {
+     "title": "The drum machine arrives",
+     "artist": "afrika-bambaataa",
+     "listen": "Planet Rock",
+     "note": "Bambaataa built this on a Roland TR-808 drum machine and Kraftwerk melodies. It pulled hip-hop toward electronic music and launched electro.",
+     "ask": "How does a machine beat feel different from the funk drums of step one?"
+    },
+    {
+     "title": "Stripped to the bone",
+     "artist": "run-dmc",
+     "listen": "Sucker M.C.'s",
+     "note": "Run-DMC rapped over little more than a hard drum machine pattern. The tough, minimal sound broke from the disco bands of the previous era.",
+     "ask": "What is missing from this beat compared to 'Rapper's Delight'?"
+    },
+    {
+     "title": "A solo star",
+     "artist": "ll-cool-j",
+     "listen": "Rock the Bells",
+     "note": "LL Cool J brought a teenage swagger and shouted delivery over Rick Rubin's spare, loud beats. It shows how fast rap turned into a showcase for one voice.",
+     "ask": "How would you describe his personality from the way he raps?"
+    },
+    {
+     "title": "The sampler era",
+     "artist": "rakim",
+     "listen": "Paid in Full",
+     "note": "Rakim's calm, complex rhymes rode a bassline sampled from Dennis Edwards' 'Don't Look Any Further'. Samplers let producers loop any record, not just drum breaks.",
+     "ask": "How is Rakim's flow different from the shouting style of LL Cool J?"
+    },
+    {
+     "title": "Back to the Bronx",
+     "artist": "krs-one",
+     "listen": "South Bronx",
+     "note": "Boogie Down Productions answered a rap feud by telling the history of hip-hop in the South Bronx. It points the journey back to the Bronx parties of step one.",
+     "ask": "Why does KRS-One care so much about where hip-hop started?"
+    },
+    {
+     "title": "Noise as music",
+     "artist": "public-enemy",
+     "listen": "Rebel Without a Pause",
+     "note": "Public Enemy's producers stacked the Funky Drummer break with a screeching horn sample. It shows how far sampling had come from a DJ looping one break.",
+     "ask": "Does the screech feel like music or noise to you?"
+    }
+   ]
+  },
+  {
+   "id": "motown-to-neo-soul",
+   "title": "Motown to Neo-Soul",
+   "blurb": "Start with Detroit's hit factory and follow soul music through the 1970s, Prince and the 1990s neo-soul movement to today's retro soul.",
+   "steps": [
+    {
+     "title": "Smokey's songcraft",
+     "artist": "smokey-robinson",
+     "listen": "The Tracks of My Tears",
+     "note": "Smokey Robinson wrote and sang many of Motown's early hits. Listen for his soft, high voice and lyrics that turn a simple idea into a clever image.",
+     "ask": "What is the main image in the lyric?"
+    },
+    {
+     "title": "The hit factory sound",
+     "artist": "the-supremes",
+     "listen": "Where Did Our Love Go",
+     "note": "Motown's house band and writers Holland, Dozier and Holland made this record. Listen for the stomping beat and handclaps that marked the Motown sound.",
+     "ask": "Which part of the rhythm makes you want to move?"
+    },
+    {
+     "title": "Harmony groups",
+     "artist": "the-temptations",
+     "listen": "My Girl",
+     "note": "Smokey Robinson wrote this for the Temptations. Listen for the guitar opening and the way the group's harmonies support the lead.",
+     "ask": "How many voices can you hear at once?"
+    },
+    {
+     "title": "Soul with a message",
+     "artist": "marvin-gaye",
+     "listen": "What's Going On",
+     "note": "Marvin Gaye fought Motown to release this soft, jazzy protest song. It marks the shift from hit singles to personal albums.",
+     "ask": "How does the relaxed music fit the serious lyrics?"
+    },
+    {
+     "title": "The artist takes control",
+     "artist": "stevie-wonder",
+     "listen": "Superstition",
+     "note": "Stevie Wonder played most of the instruments himself, including the clavinet riff. Like Marvin Gaye, he won creative control from Motown.",
+     "ask": "Can you follow the clavinet riff all the way through?"
+    },
+    {
+     "title": "Southern soul",
+     "artist": "al-green",
+     "listen": "Let's Stay Together",
+     "note": "From Memphis, Al Green sang soft and smooth over Willie Mitchell's relaxed band. His falsetto and calm groove became a model for later soul singers.",
+     "ask": "How is his voice different from the Motown singers before him?"
+    },
+    {
+     "title": "A one-man band",
+     "artist": "prince",
+     "listen": "Adore",
+     "note": "Prince combined funk, gospel and falsetto in one long ballad. His do-it-yourself approach owes a lot to Stevie Wonder.",
+     "ask": "Which earlier singers do you hear in his falsetto?"
+    },
+    {
+     "title": "The neo-soul spark",
+     "artist": "d-angelo",
+     "listen": "Brown Sugar",
+     "note": "D'Angelo brought back live-sounding organ, warm bass and a hip-hop beat. Listen for the loose, behind-the-beat feel.",
+     "ask": "Does the groove feel more like 1970s soul or 1990s hip-hop?"
+    },
+    {
+     "title": "Jazz, hip-hop and soul",
+     "artist": "erykah-badu",
+     "listen": "On & On",
+     "note": "Erykah Badu's voice is often compared to Billie Holiday, set over a hip-hop rhythm section. It helped name the neo-soul sound.",
+     "ask": "What makes her voice so recognizable?"
+    },
+    {
+     "title": "Rap and singing together",
+     "artist": "lauryn-hill",
+     "listen": "Doo Wop (That Thing)",
+     "note": "Lauryn Hill raps and sings over horns and a doo-wop style chorus. It ties 1960s vocal groups to hip-hop.",
+     "ask": "Which parts sound like the 1960s?"
+    },
+    {
+     "title": "Motown sampled",
+     "artist": "amy-winehouse",
+     "listen": "Tears Dry on Their Own",
+     "note": "Amy Winehouse built this song on the groove of Marvin Gaye and Tammi Terrell's 'Ain't No Mountain High Enough'. The retro production brings the journey back to Motown.",
+     "ask": "Can you hear the Motown song under her melody?"
+    },
+    {
+     "title": "Classic soul today",
+     "artist": "leon-bridges",
+     "listen": "Coming Home",
+     "note": "Leon Bridges recorded this with an old-style band and a sound close to Sam Cooke. It shows how the early soul sound still shapes new music.",
+     "ask": "Would you guess this was recorded in 2015?"
+    }
+   ]
+  },
+  {
+   "id": "punks-family-tree",
+   "title": "Punk's Family Tree",
+   "blurb": "Trace punk from its 1960s roots in Detroit and New York through the London explosion, US hardcore and pop punk.",
+   "steps": [
+    {
+     "title": "Noise and drone",
+     "artist": "the-velvet-underground",
+     "listen": "White Light/White Heat",
+     "note": "The Velvet Underground used distortion and repetition at a time when most bands chased polish. Few people bought their records, but many who did started bands.",
+     "ask": "What sounds here would have shocked listeners in 1968?"
+    },
+    {
+     "title": "Detroit raw power",
+     "artist": "the-stooges",
+     "listen": "I Wanna Be Your Dog",
+     "note": "The Stooges played three chords with fuzz and a pounding piano note. Iggy Pop's attitude became a model for punk singers.",
+     "ask": "How many chords can you count?"
+    },
+    {
+     "title": "Glam gets trashy",
+     "artist": "new-york-dolls",
+     "listen": "Personality Crisis",
+     "note": "The New York Dolls mixed glam style with sloppy, fast rock and roll. They directly inspired the people who started the Sex Pistols and the Ramones.",
+     "ask": "Does the sloppiness help or hurt the song?"
+    },
+    {
+     "title": "Poetry and punk",
+     "artist": "patti-smith",
+     "listen": "Gloria",
+     "note": "Patti Smith opens with her own poem and then crashes into the old Them garage rock song. She made the New York punk scene a place for poets too.",
+     "ask": "Where does the poem turn into the rock song?"
+    },
+    {
+     "title": "Fast and short",
+     "artist": "ramones",
+     "listen": "Blitzkrieg Bop",
+     "note": "The Ramones stripped rock to fast downstrokes, simple chords and short songs. Their first tour of England in 1976 inspired many young British bands.",
+     "ask": "Why do you think the song is so short?"
+    },
+    {
+     "title": "London explodes",
+     "artist": "sex-pistols",
+     "listen": "Anarchy in the U.K.",
+     "note": "The Sex Pistols took the New York sound and added anger aimed at British society. Johnny Rotten's sneer is the center of the record.",
+     "ask": "How does his voice compare to Joey Ramone's?"
+    },
+    {
+     "title": "Punk widens out",
+     "artist": "the-clash",
+     "listen": "London Calling",
+     "note": "The Clash brought reggae, rockabilly and politics into punk. This song sounds heavier and darker than their early records.",
+     "ask": "What styles besides punk can you hear?"
+    },
+    {
+     "title": "Pop melodies",
+     "artist": "buzzcocks",
+     "listen": "Ever Fallen in Love (With Someone You Shouldn't've)",
+     "note": "Buzzcocks used punk's speed for catchy love songs. That mix of fast guitars and pop hooks led straight to pop punk.",
+     "ask": "Is this a punk song or a pop song?"
+    },
+    {
+     "title": "After punk",
+     "artist": "joy-division",
+     "listen": "Love Will Tear Us Apart",
+     "note": "Joy Division formed after seeing the Sex Pistols, then slowed down into something colder and sadder. This was the start of post-punk.",
+     "ask": "What is left of punk in this song?"
+    },
+    {
+     "title": "American hardcore",
+     "artist": "black-flag",
+     "listen": "Rise Above",
+     "note": "In California, Black Flag made punk faster and angrier and toured the country in a van. They built the do-it-yourself network that hardcore bands used.",
+     "ask": "How does this feel different from the British punk steps?"
+    },
+    {
+     "title": "Straight edge",
+     "artist": "minor-threat",
+     "listen": "Straight Edge",
+     "note": "Minor Threat played under a minute of furious hardcore with a message against drinking and drugs. Their label and attitude shaped punk in Washington, D.C.",
+     "ask": "Why might a punk band reject drinking and drugs?"
+    },
+    {
+     "title": "Punk goes pop",
+     "artist": "green-day",
+     "listen": "Basket Case",
+     "note": "Green Day grew up in the California punk club scene and brought fast, catchy punk to radio. You can hear Buzzcocks and the Ramones in the hooks.",
+     "ask": "Which earlier band does this remind you of most?"
+    }
+   ]
+  },
+  {
+   "id": "kraftwerk-to-daft-punk",
+   "title": "Kraftwerk to Daft Punk",
+   "blurb": "How German synth music fed disco, hip-hop, Detroit techno and Chicago house, and how French duo Daft Punk pulled it all together.",
+   "steps": [
+    {
+     "title": "Machine music",
+     "artist": "kraftwerk",
+     "listen": "Trans-Europe Express",
+     "note": "Kraftwerk used synthesizers and electronic drums to sound like a train crossing Europe. Their clean, repeating patterns influenced almost every step that follows.",
+     "ask": "Which sounds remind you of a train?"
+    },
+    {
+     "title": "The synth pulse",
+     "artist": "donna-summer",
+     "listen": "I Feel Love",
+     "note": "Giorgio Moroder built this disco song from a pulsing synthesizer sequence, with Donna Summer floating on top. It showed electronic music could fill a dance floor.",
+     "ask": "How is the pulse different from Kraftwerk's rhythm?"
+    },
+    {
+     "title": "Tokyo's answer",
+     "artist": "yellow-magic-orchestra",
+     "listen": "Rydeen",
+     "note": "Yellow Magic Orchestra took Kraftwerk's idea and made it brighter and poppier. Their records were big with early hip-hop and electro DJs too.",
+     "ask": "What makes this sound more playful than Kraftwerk?"
+    },
+    {
+     "title": "Electro hip-hop",
+     "artist": "afrika-bambaataa",
+     "listen": "Planet Rock",
+     "note": "Afrika Bambaataa used the melody of 'Trans-Europe Express' and the rhythm of Kraftwerk's 'Numbers' over a TR-808. German synth music became a Bronx dance record.",
+     "ask": "Can you hear the Kraftwerk melody from step one?"
+    },
+    {
+     "title": "Post-punk meets the club",
+     "artist": "new-order",
+     "listen": "Blue Monday",
+     "note": "New Order mixed Kraftwerk-style sequencers with dance music they heard in New York clubs. It became one of the best-selling 12-inch singles ever.",
+     "ask": "How does the drum machine opening set the mood?"
+    },
+    {
+     "title": "Detroit techno",
+     "artist": "juan-atkins",
+     "listen": "No UFO's",
+     "note": "Juan Atkins, recording as Model 500, mixed Kraftwerk and funk to create Detroit techno. Listen for the cold synths over a funky rhythm.",
+     "ask": "Do you hear more Kraftwerk or more funk here?"
+    },
+    {
+     "title": "Chicago house",
+     "artist": "frankie-knuckles",
+     "listen": "Your Love",
+     "note": "Frankie Knuckles, the DJ at the Warehouse in Chicago, helped define house music. The repeating synth line builds slowly, made for long DJ mixes.",
+     "ask": "How long does it take for the song to change?"
+    },
+    {
+     "title": "French house",
+     "artist": "daft-punk",
+     "listen": "Around the World",
+     "note": "Daft Punk took house music and made it catchier, with a filtered bass and a robotic vocal repeated over and over. The influence of Chicago house and Kraftwerk's robots meet here.",
+     "ask": "How many different words are in the vocal?"
+    },
+    {
+     "title": "A fan letter",
+     "artist": "lcd-soundsystem",
+     "listen": "Daft Punk Is Playing at My House",
+     "note": "LCD Soundsystem made a punk dance song about Daft Punk themselves. It shows how much the French duo shaped 2000s indie and dance music.",
+     "ask": "Why would a band write a song about another band?"
+    },
+    {
+     "title": "Back to the source",
+     "artist": "daft-punk",
+     "listen": "Giorgio by Moroder",
+     "note": "Giorgio Moroder tells his own story over a track that builds from disco to orchestral rock. Daft Punk pay tribute to the man behind step two.",
+     "ask": "How does the music change as his story moves forward?"
+    },
+    {
+     "title": "Dance music now",
+     "artist": "fred-again",
+     "listen": "Marea (we've lost dancing)",
+     "note": "Fred again.. builds a house track around a looped voice recorded from real life. The repeating patterns still follow the line from Kraftwerk and Chicago house.",
+     "ask": "How does a spoken voice work as a hook?"
+    }
+   ]
+  },
+  {
+   "id": "outlaw-country-to-zach-bryan",
+   "title": "Outlaw Country to Zach Bryan",
+   "blurb": "Country music's line of plainspoken songwriters who did it their own way, from the first country star to today's arena-filling singer-songwriters.",
+   "steps": [
+    {
+     "title": "The father of country",
+     "artist": "jimmie-rodgers",
+     "listen": "Blue Yodel No. 1 (T for Texas)",
+     "note": "Jimmie Rodgers mixed blues, yodeling and a rambling persona in country's first big hits. Listen for the blues form under the yodel.",
+     "ask": "Where can you hear the blues in this song?"
+    },
+    {
+     "title": "Raw honesty",
+     "artist": "hank-williams",
+     "listen": "I'm So Lonesome I Could Cry",
+     "note": "Hank Williams wrote simple, painfully direct songs. Every outlaw singer that follows looked up to him.",
+     "ask": "Which line hits hardest for you?"
+    },
+    {
+     "title": "The man in black",
+     "artist": "johnny-cash",
+     "listen": "Folsom Prison Blues",
+     "note": "Johnny Cash sang from the point of view of a prisoner over a train-like boom-chicka rhythm. He brought rock and roll attitude to country.",
+     "ask": "How does the rhythm sound like a train?"
+    },
+    {
+     "title": "Bakersfield grit",
+     "artist": "merle-haggard",
+     "listen": "Mama Tried",
+     "note": "Merle Haggard actually served time in San Quentin and saw Cash play there. His songs about working people set the tone for the outlaws.",
+     "ask": "Does knowing his story change how the song sounds?"
+    },
+    {
+     "title": "Going their own way",
+     "artist": "townes-van-zandt",
+     "listen": "Pancho and Lefty",
+     "note": "Townes Van Zandt was a Texas songwriter who influenced many outlaw singers. This story song was later a hit for Willie Nelson and Merle Haggard.",
+     "ask": "What do you think happened between Pancho and Lefty?"
+    },
+    {
+     "title": "Plain words, deep feeling",
+     "artist": "john-prine",
+     "listen": "Angel from Montgomery",
+     "note": "John Prine wrote this from the view of a tired middle-aged woman, though he was in his twenties. His humor and plain words shaped later Americana writers.",
+     "ask": "How does he make a character feel real in a few lines?"
+    },
+    {
+     "title": "The outlaw manifesto",
+     "artist": "waylon-jennings",
+     "listen": "Are You Sure Hank Done It This Way",
+     "note": "Waylon Jennings questions whether the flashy Nashville sound is true to Hank Williams. It is a direct line back to step two.",
+     "ask": "What is Waylon complaining about?"
+    },
+    {
+     "title": "A quiet rebellion",
+     "artist": "willie-nelson",
+     "listen": "Blue Eyes Crying in the Rain",
+     "note": "Willie Nelson recorded his album Red Headed Stranger with a sparse band, against label wishes. This old song became his first number one country hit.",
+     "ask": "Why might a sparse sound feel rebellious?"
+    },
+    {
+     "title": "Country's new outlaw",
+     "artist": "sturgill-simpson",
+     "listen": "Turtles All the Way Down",
+     "note": "Sturgill Simpson mixed Waylon-style baritone with odd, spiritual lyrics. He helped bring the outlaw spirit back in the 2010s.",
+     "ask": "Which earlier singer does his voice remind you of?"
+    },
+    {
+     "title": "Americana songwriting",
+     "artist": "jason-isbell",
+     "listen": "Cover Me Up",
+     "note": "Jason Isbell wrote this about getting sober and finding love. His honest, detailed lyrics follow John Prine and Townes Van Zandt.",
+     "ask": "What makes the lyrics feel so personal?"
+    },
+    {
+     "title": "From Kentucky hills",
+     "artist": "tyler-childers",
+     "listen": "Feathered Indians",
+     "note": "Tyler Childers brings Appalachian sounds and a raw voice, and his breakout album was produced by Sturgill Simpson. The song is a love song full of local detail.",
+     "ask": "What local details can you hear?"
+    },
+    {
+     "title": "Raw and live",
+     "artist": "zach-bryan",
+     "listen": "Something in the Orange",
+     "note": "Zach Bryan writes stark songs and often records them with few overdubs. The plain sound and direct lyrics link him back to Hank Williams and Townes Van Zandt.",
+     "ask": "How does the simple production affect the song?"
+    }
+   ]
+  },
+  {
+   "id": "jazz-that-became-hip-hop",
+   "title": "Jazz That Became Hip-Hop",
+   "blurb": "Jazz built the language of improvised rhythm and soloing, and hip-hop producers later sampled and played with it. This path shows how the two came together.",
+   "steps": [
+    {
+     "title": "The jazz solo",
+     "artist": "louis-armstrong",
+     "listen": "West End Blues",
+     "note": "Louis Armstrong opens with a famous trumpet cadenza and then sings without words. It helped make the solo the center of jazz.",
+     "ask": "How does the opening trumpet grab your attention?"
+    },
+    {
+     "title": "Bebop speed",
+     "artist": "charlie-parker",
+     "listen": "Ko-Ko",
+     "note": "Charlie Parker played at a blinding pace with complex harmony. Like rap later, bebop was fast, coded and built on reworking older songs.",
+     "ask": "Can you keep up with the melody?"
+    },
+    {
+     "title": "Cool and open",
+     "artist": "miles-davis",
+     "listen": "So What",
+     "note": "Miles Davis based this tune on just two scales, leaving space for long solos. The calm, open groove made it a favorite for later musicians and producers.",
+     "ask": "How does the bass line open the tune?"
+    },
+    {
+     "title": "The loop-ready groove",
+     "artist": "herbie-hancock",
+     "listen": "Cantaloupe Island",
+     "note": "Herbie Hancock's piano riff repeats like a loop. In 1993 Us3 sampled it for the hit 'Cantaloop (Flip Fantasia)'.",
+     "ask": "Can you imagine someone rapping over this riff?"
+    },
+    {
+     "title": "Jazz meets turntables",
+     "artist": "herbie-hancock",
+     "listen": "Rockit",
+     "note": "Herbie Hancock made an electro track with Grand Mixer DXT scratching records. It put turntables on a jazz musician's record.",
+     "ask": "Does this sound like jazz to you?"
+    },
+    {
+     "title": "Miles goes hip-hop",
+     "artist": "miles-davis",
+     "listen": "The Doo-Bop Song",
+     "note": "On his final album, Miles Davis played over hip-hop beats produced by Easy Mo Bee. It came out in 1992, the year after he died.",
+     "ask": "How does his trumpet fit with the beat?"
+    },
+    {
+     "title": "Jazz rap",
+     "artist": "a-tribe-called-quest",
+     "listen": "Electric Relaxation",
+     "note": "A Tribe Called Quest looped Ronnie Foster's jazz organ tune 'Mystic Brew' under relaxed rhymes. Their records made jazz sampling a full style.",
+     "ask": "What instruments can you hear in the loop?"
+    },
+    {
+     "title": "Jazz and soul together",
+     "artist": "robert-glasper",
+     "listen": "Afro Blue",
+     "note": "Robert Glasper, a jazz pianist, made the album Black Radio with hip-hop and R&B singers. Erykah Badu sings this jazz standard over a laid-back hip-hop feel.",
+     "ask": "Is this jazz, R&B or hip-hop?"
+    },
+    {
+     "title": "Beat music",
+     "artist": "flying-lotus",
+     "listen": "Never Catch Me",
+     "note": "Flying Lotus, a relative of jazz musicians Alice and John Coltrane, mixes jazz chords and electronic beats. Kendrick Lamar raps over a fast, shifting groove with Thundercat on bass.",
+     "ask": "How does the drumming change through the song?"
+    },
+    {
+     "title": "Spiritual jazz returns",
+     "artist": "kamasi-washington",
+     "listen": "Change of the Guard",
+     "note": "Kamasi Washington played on Kendrick Lamar's To Pimp a Butterfly and released his own giant jazz album the same year. Listen for the big choir and the long saxophone solo.",
+     "ask": "How does it feel to hear a three-hour jazz album in the hip-hop era?"
+    },
+    {
+     "title": "Rap as jazz",
+     "artist": "kendrick-lamar",
+     "listen": "For Free? (Interlude)",
+     "note": "Kendrick Lamar raps at speed over free jazz piano and bass. It brings the journey back to the speed and freedom of bebop.",
+     "ask": "Does his flow remind you of Charlie Parker's solo?"
+    }
+   ]
+  },
+  {
+   "id": "the-sound-of-seattle",
+   "title": "The Sound of Seattle",
+   "blurb": "From Seattle's guitar hero through the grunge explosion and the indie and folk bands that followed. Listen for the heavy, sludgy guitar and the mix of punk and metal.",
+   "steps": [
+    {
+     "title": "Seattle's guitar hero",
+     "artist": "jimi-hendrix",
+     "listen": "Purple Haze",
+     "note": "Jimi Hendrix grew up in Seattle before finding fame in London. His fuzz guitar and feedback set an early bar for heavy guitar sounds.",
+     "ask": "Which sounds here seem ahead of their time?"
+    },
+    {
+     "title": "The heavy roots",
+     "artist": "black-sabbath",
+     "listen": "Into the Void",
+     "note": "Black Sabbath's slow, sludgy riffs were a big influence on Seattle bands like Soundgarden and Alice in Chains. Listen to the tempo shifts and how low the guitar is tuned.",
+     "ask": "How does the slow riff make you feel?"
+    },
+    {
+     "title": "The godfather of grunge",
+     "artist": "neil-young",
+     "listen": "Hey Hey, My My (Into the Black)",
+     "note": "Neil Young's loud, distorted guitar and raw vocals made him a hero to grunge bands. Kurt Cobain quoted this song in his suicide note.",
+     "ask": "Why might Seattle bands have related to this sound?"
+    },
+    {
+     "title": "The loud-quiet-loud blueprint",
+     "artist": "pixies",
+     "listen": "Debaser",
+     "note": "Pixies switched between quiet verses and loud choruses. Kurt Cobain said he was trying to rip off Pixies when he wrote 'Smells Like Teen Spirit'.",
+     "ask": "Where are the quiet and loud parts?"
+    },
+    {
+     "title": "Seattle's heavy pioneers",
+     "artist": "soundgarden",
+     "listen": "Outshined",
+     "note": "Soundgarden mixed Black Sabbath's heaviness with punk energy and odd time signatures. Chris Cornell's huge voice soars over the riff.",
+     "ask": "Can you hear the Black Sabbath influence?"
+    },
+    {
+     "title": "The breakthrough",
+     "artist": "nirvana",
+     "listen": "Smells Like Teen Spirit",
+     "note": "Nirvana's hit took the Pixies' loud and quiet dynamics and made them huge. It brought grunge to the whole world in 1991.",
+     "ask": "How does it compare to the Pixies song?"
+    },
+    {
+     "title": "Arena grunge",
+     "artist": "pearl-jam",
+     "listen": "Alive",
+     "note": "Pearl Jam leaned toward classic rock, with long guitar solos and big choruses. Eddie Vedder's deep voice tells a dark family story.",
+     "ask": "Does this sound more like the 1970s or the 1990s?"
+    },
+    {
+     "title": "Dark harmonies",
+     "artist": "alice-in-chains",
+     "listen": "Would?",
+     "note": "Alice in Chains combined heavy riffs with eerie two-part vocal harmonies. The song was written about the death of Seattle singer Andrew Wood.",
+     "ask": "How do the harmonies add to the mood?"
+    },
+    {
+     "title": "After Nirvana",
+     "artist": "foo-fighters",
+     "listen": "Everlong",
+     "note": "Nirvana's drummer Dave Grohl started Foo Fighters and wrote this love song. It keeps the quiet-loud dynamic but feels hopeful.",
+     "ask": "Can you hear grunge in this song?"
+    },
+    {
+     "title": "Northwest indie",
+     "artist": "modest-mouse",
+     "listen": "Float On",
+     "note": "Modest Mouse, from Issaquah near Seattle, made scratchy indie rock for years before this upbeat hit. It shows the region's guitar scene moving away from grunge.",
+     "ask": "How is this more upbeat than the grunge steps?"
+    },
+    {
+     "title": "Seattle folk",
+     "artist": "fleet-foxes",
+     "listen": "White Winter Hymnal",
+     "note": "Fleet Foxes came out of Seattle with layered harmonies and folk instruments. The stacked voices recall Alice in Chains' harmonies in a very different setting.",
+     "ask": "How do the voices build on each other?"
+    }
+   ]
+  },
+  {
+   "id": "bossa-nova-to-bad-bunny",
+   "title": "Bossa Nova to Bad Bunny",
+   "blurb": "From quiet Brazilian bossa nova through tropicália, salsa and Latin rock to reggaeton and Bad Bunny's global hits.",
+   "steps": [
+    {
+     "title": "The birth of bossa nova",
+     "artist": "joao-gilberto",
+     "listen": "Chega de Saudade",
+     "note": "João Gilberto sings softly over a guitar rhythm that compresses samba into one instrument. This record started bossa nova.",
+     "ask": "How does the guitar sound like a whole drum section?"
+    },
+    {
+     "title": "Bossa goes global",
+     "artist": "antonio-carlos-jobim",
+     "listen": "The Girl from Ipanema",
+     "note": "Antônio Carlos Jobim wrote this, and the version with Stan Getz and the Gilbertos became a worldwide hit. Listen for the gentle, swaying rhythm.",
+     "ask": "What makes this song feel so relaxed?"
+    },
+    {
+     "title": "Tropicália",
+     "artist": "caetano-veloso",
+     "listen": "Tropicália",
+     "note": "Caetano Veloso mixed Brazilian styles with psychedelic rock and big orchestra sounds. The movement rebelled against both the military government and the bossa nova establishment.",
+     "ask": "Which sounds seem out of place, and why might that be on purpose?"
+    },
+    {
+     "title": "Psychedelic Brazil",
+     "artist": "os-mutantes",
+     "listen": "Panis et Circenses",
+     "note": "Os Mutantes were part of tropicália and played wild, playful psychedelic rock. Their records later became cult favorites with US artists like Beck and Kurt Cobain.",
+     "ask": "What sounds surprise you?"
+    },
+    {
+     "title": "The mambo king",
+     "artist": "tito-puente",
+     "listen": "Oye Como Va",
+     "note": "Tito Puente's cha-cha is built on a simple, hypnotic keyboard and bass riff. It moves the journey north to New York's Latin music scene.",
+     "ask": "Can you hum the riff after hearing it once?"
+    },
+    {
+     "title": "Latin rock",
+     "artist": "santana",
+     "listen": "Oye Como Va",
+     "note": "Santana turned Tito Puente's tune into rock with organ and electric guitar. It brought Latin rhythms to rock audiences.",
+     "ask": "What did Santana change and what did he keep?"
+    },
+    {
+     "title": "The queen of salsa",
+     "artist": "celia-cruz",
+     "listen": "Quimbara",
+     "note": "Celia Cruz sings with huge energy over the hard-hitting salsa rhythm. Salsa was born among Cuban and Puerto Rican musicians in New York.",
+     "ask": "How does she use her voice as a percussion instrument?"
+    },
+    {
+     "title": "Tejano pop",
+     "artist": "selena",
+     "listen": "Bidi Bidi Bom Bom",
+     "note": "Selena mixed Mexican cumbia rhythms with pop. She brought Spanish-language music to a huge US audience.",
+     "ask": "What rhythm do you hear under the pop melody?"
+    },
+    {
+     "title": "Reggaeton arrives",
+     "artist": "daddy-yankee",
+     "listen": "Gasolina",
+     "note": "Daddy Yankee's song carries the dembow rhythm, which came from Jamaican dancehall through Puerto Rico. It made reggaeton a global sound.",
+     "ask": "Can you clap along to the dembow beat?"
+    },
+    {
+     "title": "Crossover star",
+     "artist": "shakira",
+     "listen": "Hips Don't Lie",
+     "note": "Shakira, from Colombia, built this hit on salsa horns sampled from Jerry Rivera. It mixes salsa, cumbia and pop.",
+     "ask": "Which earlier step does the horn line remind you of?"
+    },
+    {
+     "title": "Flamenco reborn",
+     "artist": "rosalia",
+     "listen": "Malamente",
+     "note": "Rosalía combined Spanish flamenco clapping and singing with modern beats. It brought Spain into the new Latin pop wave.",
+     "ask": "How do the handclaps work as the beat?"
+    },
+    {
+     "title": "Back to the roots",
+     "artist": "bad-bunny",
+     "listen": "NUEVAYoL",
+     "note": "Bad Bunny opens with a sample of El Gran Combo's salsa classic 'Un Verano en Nueva York' before switching to a modern beat. It links reggaeton to the salsa of steps five through seven.",
+     "ask": "How does starting with salsa change how you hear the rest?"
+    }
+   ]
+  },
+  {
+   "id": "british-invasion-to-britpop",
+   "title": "British Invasion to Britpop",
+   "blurb": "From skiffle in 1950s Britain to the Beatles, the Kinks and the 1990s Britpop bands who looked back to them.",
+   "steps": [
+    {
+     "title": "Skiffle starts it",
+     "artist": "lonnie-donegan",
+     "listen": "Rock Island Line",
+     "note": "Lonnie Donegan's fast version of a Lead Belly song set off a craze for homemade skiffle bands. John Lennon, Paul McCartney and many others started out in skiffle groups.",
+     "ask": "Why might this make teenagers want to start a band?"
+    },
+    {
+     "title": "Beatlemania",
+     "artist": "the-beatles",
+     "listen": "She Loves You",
+     "note": "The Beatles' early hits mixed American rock and roll, girl groups and Motown with British energy. Listen for the 'yeah, yeah, yeah' chorus and the high harmonies.",
+     "ask": "Which part of the song is the catchiest?"
+    },
+    {
+     "title": "The blues side",
+     "artist": "the-rolling-stones",
+     "listen": "(I Can't Get No) Satisfaction",
+     "note": "The Rolling Stones leaned toward American blues and R&B. Keith Richards' fuzz guitar riff became one of the most famous in rock.",
+     "ask": "How does this attitude differ from the Beatles?"
+    },
+    {
+     "title": "Mod power",
+     "artist": "the-who",
+     "listen": "My Generation",
+     "note": "The Who brought loud guitars, smashed instruments and youth anger. Roger Daltrey's stutter in the vocal sounds like a nervous teenager.",
+     "ask": "What is the song saying about older people?"
+    },
+    {
+     "title": "Very English songs",
+     "artist": "the-kinks",
+     "listen": "Waterloo Sunset",
+     "note": "Ray Davies wrote gentle songs about everyday London life. That English character in the lyrics shaped Britpop thirty years later.",
+     "ask": "What London details can you hear in the lyrics?"
+    },
+    {
+     "title": "Glam and character",
+     "artist": "david-bowie",
+     "listen": "Starman",
+     "note": "Bowie played characters and mixed rock with theater. Britpop bands borrowed his sense of style as much as his songs.",
+     "ask": "Which earlier song does the chorus melody remind you of?"
+    },
+    {
+     "title": "Indie guitar pop",
+     "artist": "the-smiths",
+     "listen": "This Charming Man",
+     "note": "Johnny Marr's chiming guitar and Morrissey's witty lyrics made the Smiths a key indie band. Their very English outlook echoes Ray Davies.",
+     "ask": "How does the guitar sound different from the 1960s bands?"
+    },
+    {
+     "title": "Manchester swagger",
+     "artist": "the-stone-roses",
+     "listen": "I Wanna Be Adored",
+     "note": "The Stone Roses mixed 1960s jangle with confident attitude. Oasis and many Britpop bands named them as the band that got them started.",
+     "ask": "How does the slow build create tension?"
+    },
+    {
+     "title": "Britpop's art school",
+     "artist": "blur",
+     "listen": "Parklife",
+     "note": "Blur wrote witty songs about English daily life, a direct line back to the Kinks. The spoken verses are by actor Phil Daniels.",
+     "ask": "Which step does this remind you of most?"
+    },
+    {
+     "title": "Britpop's anthems",
+     "artist": "oasis",
+     "listen": "Live Forever",
+     "note": "Oasis wrote big, hopeful anthems with Beatles-like melodies and Stones-like swagger. Noel Gallagher openly borrowed from the 1960s bands.",
+     "ask": "Can you hear the Beatles in the melody?"
+    },
+    {
+     "title": "The next generation",
+     "artist": "arctic-monkeys",
+     "listen": "I Bet You Look Good on the Dancefloor",
+     "note": "Arctic Monkeys from Sheffield wrote fast guitar songs with very local, witty lyrics. They carry on the English songwriting line of the Kinks, the Smiths and Blur.",
+     "ask": "What makes these lyrics sound so British?"
+    }
+   ]
+  }
+ ]
+}

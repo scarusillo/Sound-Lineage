@@ -1,0 +1,2905 @@
+[
+ {
+  "id": "nirvana",
+  "years": "1987–1994",
+  "origin": "Aberdeen, Washington",
+  "genres": [
+   "grunge",
+   "alternative rock",
+   "punk rock"
+  ],
+  "summary": "Nirvana fused punk noise with pop melody and carried underground rock into the mainstream with Nevermind in 1991.",
+  "know": [
+   "Nevermind replaced Michael Jackson's Dangerous at number one on the Billboard 200 in January 1992.",
+   "Their debut Bleach was released on the Seattle label Sub Pop in 1989.",
+   "Their MTV Unplugged in New York set leaned on covers and won a Grammy for Best Alternative Music Album."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Bleach",
+    1989
+   ],
+   [
+    "Nevermind",
+    1991
+   ],
+   [
+    "In Utero",
+    1993
+   ],
+   [
+    "MTV Unplugged in New York",
+    1994
+   ]
+  ],
+  "songs": [
+   "Smells Like Teen Spirit",
+   "Come as You Are",
+   "Lithium",
+   "Heart-Shaped Box",
+   "All Apologies"
+  ],
+  "influencedBy": [
+   {
+    "id": "pixies",
+    "why": "Kurt Cobain said he was trying to write a Pixies song with Smells Like Teen Spirit and borrowed their quiet verse, loud chorus dynamic.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "Cobain repeatedly named the Beatles, and John Lennon in particular, as the source of his melodic sense.",
+    "s": 3
+   },
+   {
+    "id": "black-flag",
+    "why": "Cobain cited Black Flag's slow, heavy side as a model for Nirvana's early sludgy punk.",
+    "s": 3
+   },
+   {
+    "id": "sonic-youth",
+    "why": "Cobain championed Sonic Youth, whose move to DGC helped steer Nirvana to the same label.",
+    "s": 3
+   },
+   {
+    "id": "the-stooges",
+    "why": "Cobain listed Raw Power among his favorite records and drew on its raw guitar attack.",
+    "s": 3
+   },
+   {
+    "id": "lead-belly",
+    "why": "Nirvana closed their Unplugged set with Lead Belly's arrangement of Where Did You Sleep Last Night.",
+    "s": 3
+   },
+   {
+    "id": "david-bowie",
+    "why": "They covered Bowie's The Man Who Sold the World on MTV Unplugged.",
+    "s": 3
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "Nirvana recorded the Velvet Underground's Here She Comes Now for a 1991 split single.",
+    "s": 3
+   },
+   {
+    "id": "kiss",
+    "why": "The band covered Kiss's Do You Love Me for a tribute album, a nod to a teenage favorite.",
+    "s": 3
+   },
+   {
+    "id": "rem",
+    "why": "Cobain praised R.E.M. as a model for how a guitar band could stay true to itself and still succeed.",
+    "s": 3
+   },
+   {
+    "id": "husker-du",
+    "why": "Husker Du's mix of hardcore speed and melody is widely seen as a blueprint for Nirvana's sound.",
+    "s": 2
+   },
+   {
+    "id": "black-sabbath",
+    "why": "Their downtuned early riffs drew on Black Sabbath's heavy sound, filtered through the Seattle scene.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-who",
+    "why": "a loud power trio whose explosive dynamics spoke for restless youth"
+   },
+   {
+    "id": "metallica",
+    "why": "the heavy band whose 1991 album pushed an underground scene into the mainstream"
+   },
+   {
+    "id": "public-enemy",
+    "why": "a group that turned alienation into a culture-shifting mainstream statement"
+   }
+  ]
+ },
+ {
+  "id": "pearl-jam",
+  "years": "1990–present",
+  "origin": "Seattle, Washington",
+  "genres": [
+   "grunge",
+   "alternative rock",
+   "hard rock"
+  ],
+  "summary": "Pearl Jam brought classic rock scale and Eddie Vedder's baritone to the grunge era and became one of its most enduring live bands.",
+  "know": [
+   "Their debut Ten became one of the best selling rock albums of the 1990s.",
+   "They fought Ticketmaster over service fees in the mid 1990s, including testimony before Congress.",
+   "They have released hundreds of official live bootleg recordings of their concerts."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Ten",
+    1991
+   ],
+   [
+    "Vs.",
+    1993
+   ],
+   [
+    "Vitalogy",
+    1994
+   ],
+   [
+    "Yield",
+    1998
+   ]
+  ],
+  "songs": [
+   "Alive",
+   "Even Flow",
+   "Jeremy",
+   "Black",
+   "Better Man"
+  ],
+  "influencedBy": [
+   {
+    "id": "neil-young",
+    "why": "They recorded the album Mirror Ball with Neil Young in 1995 and often play Rockin' in the Free World.",
+    "s": 3
+   },
+   {
+    "id": "the-who",
+    "why": "Eddie Vedder has called the Who, and Quadrophenia in particular, a defining influence and the band covers Baba O'Riley.",
+    "s": 3
+   },
+   {
+    "id": "ramones",
+    "why": "Vedder inducted the Ramones into the Rock and Roll Hall of Fame and the band has covered their songs.",
+    "s": 3
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "Mike McCready has cited Hendrix as his key guitar influence, audible in his long blues solos.",
+    "s": 3
+   },
+   {
+    "id": "led-zeppelin",
+    "why": "Their riff-driven hard rock side draws on Led Zeppelin's blend of blues and power.",
+    "s": 2
+   },
+   {
+    "id": "bruce-springsteen",
+    "why": "Vedder's storytelling and the band's marathon live shows are often compared to Springsteen, with whom Vedder has performed.",
+    "s": 2
+   },
+   {
+    "id": "kiss",
+    "why": "McCready has said seeing Kiss as a kid made him want to play guitar.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bruce-springsteen",
+    "why": "earnest, anthemic rock built for long arena shows"
+   },
+   {
+    "id": "u2",
+    "why": "a band that paired big choruses with social conscience"
+   }
+  ]
+ },
+ {
+  "id": "soundgarden",
+  "years": "1984–1997, 2010–2017",
+  "origin": "Seattle, Washington",
+  "genres": [
+   "grunge",
+   "alternative metal",
+   "hard rock"
+  ],
+  "summary": "Soundgarden mixed heavy metal weight with odd time signatures and Chris Cornell's wide-ranging voice, helping define the Seattle sound.",
+  "know": [
+   "They were the first grunge band to sign with a major label, joining A&M in 1988.",
+   "Superunknown debuted at number one on the Billboard 200 in 1994.",
+   "Kim Thayil and the band often wrote in unusual meters such as 7/4."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Louder Than Love",
+    1989
+   ],
+   [
+    "Badmotorfinger",
+    1991
+   ],
+   [
+    "Superunknown",
+    1994
+   ],
+   [
+    "Down on the Upside",
+    1996
+   ]
+  ],
+  "songs": [
+   "Outshined",
+   "Rusty Cage",
+   "Black Hole Sun",
+   "Spoonman",
+   "Fell on Black Days"
+  ],
+  "influencedBy": [
+   {
+    "id": "black-sabbath",
+    "why": "Kim Thayil and the band cited Black Sabbath's slow, heavy riffs as a core part of their sound.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "Chris Cornell named the Beatles as his first musical love, and Black Hole Sun carries clear Beatles-like harmony.",
+    "s": 3
+   },
+   {
+    "id": "the-stooges",
+    "why": "Soundgarden covered the Stooges' Search and Destroy.",
+    "s": 3
+   },
+   {
+    "id": "led-zeppelin",
+    "why": "Cornell's high, bluesy wail and the band's heavy grooves drew constant comparison to Led Zeppelin.",
+    "s": 2
+   },
+   {
+    "id": "black-flag",
+    "why": "The slowed-down hardcore of Black Flag's My War era shaped the sludgy early Seattle sound they helped create.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "metallica",
+    "why": "heavy riffing with complex structures and mainstream reach"
+   },
+   {
+    "id": "tool",
+    "why": "metal-leaning band built on odd meters and brooding atmosphere"
+   }
+  ]
+ },
+ {
+  "id": "alice-in-chains",
+  "years": "1987–present",
+  "origin": "Seattle, Washington",
+  "genres": [
+   "grunge",
+   "alternative metal",
+   "acoustic rock"
+  ],
+  "summary": "Alice in Chains paired metal riffs with dark two-part vocal harmonies, giving grunge its heaviest and most haunting sound.",
+  "know": [
+   "Jerry Cantrell and Layne Staley's stacked harmonies became the band's signature.",
+   "The acoustic EP Jar of Flies was the first EP to debut at number one on the Billboard 200.",
+   "The band returned with singer William DuVall on Black Gives Way to Blue in 2009."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Facelift",
+    1990
+   ],
+   [
+    "Dirt",
+    1992
+   ],
+   [
+    "Jar of Flies",
+    1994
+   ],
+   [
+    "Alice in Chains",
+    1995
+   ]
+  ],
+  "songs": [
+   "Man in the Box",
+   "Would?",
+   "Rooster",
+   "Nutshell",
+   "Them Bones"
+  ],
+  "influencedBy": [
+   {
+    "id": "black-sabbath",
+    "why": "Jerry Cantrell has named Tony Iommi's riffing as a major influence on the band's heavy, downtuned sound.",
+    "s": 3
+   },
+   {
+    "id": "elton-john",
+    "why": "Cantrell has called Elton John a huge influence, and Elton played piano on the 2009 song Black Gives Way to Blue.",
+    "s": 3
+   },
+   {
+    "id": "kiss",
+    "why": "Cantrell has said Kiss and Ace Frehley first drew him to the guitar.",
+    "s": 3
+   },
+   {
+    "id": "van-halen",
+    "why": "Cantrell grew up on Van Halen and cited Eddie Van Halen among his guitar heroes.",
+    "s": 2
+   },
+   {
+    "id": "led-zeppelin",
+    "why": "Their blend of heavy riffs and acoustic moods follows the Led Zeppelin model.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "metallica",
+    "why": "dark, heavy riffing with a mainstream audience"
+   },
+   {
+    "id": "tool",
+    "why": "brooding, heavy rock with layered vocals"
+   }
+  ]
+ },
+ {
+  "id": "smashing-pumpkins",
+  "years": "1988–2000, 2006–present",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "alternative rock",
+   "dream pop",
+   "art rock"
+  ],
+  "summary": "The Smashing Pumpkins layered thick, overdubbed guitars over dreamy melodies and made ambitious records that ran from metal to synth pop.",
+  "know": [
+   "Siamese Dream was built from dense layers of overdubbed guitar produced by Butch Vig and Billy Corgan.",
+   "Mellon Collie and the Infinite Sadness was a 28-song double album that sold millions.",
+   "Adore in 1998 shifted toward drum machines and electronic textures."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Gish",
+    1991
+   ],
+   [
+    "Siamese Dream",
+    1993
+   ],
+   [
+    "Mellon Collie and the Infinite Sadness",
+    1995
+   ],
+   [
+    "Adore",
+    1998
+   ]
+  ],
+  "songs": [
+   "Cherub Rock",
+   "Today",
+   "Disarm",
+   "1979",
+   "Bullet with Butterfly Wings"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-cure",
+    "why": "Billy Corgan has cited the Cure's moody, layered guitar sound, which surfaces clearly on Adore.",
+    "s": 3
+   },
+   {
+    "id": "black-sabbath",
+    "why": "Corgan named Black Sabbath as a key influence and the band covered Snowblind for a Sabbath tribute album.",
+    "s": 3
+   },
+   {
+    "id": "depeche-mode",
+    "why": "They covered Depeche Mode's Never Let Me Down Again for a tribute album, foreshadowing their electronic turn.",
+    "s": 3
+   },
+   {
+    "id": "fleetwood-mac",
+    "why": "Their cover of Fleetwood Mac's Landslide became a radio hit.",
+    "s": 3
+   },
+   {
+    "id": "david-bowie",
+    "why": "Corgan has called Bowie an influence and performed with him at Bowie's 50th birthday concert.",
+    "s": 3
+   },
+   {
+    "id": "my-bloody-valentine",
+    "why": "Their walls of distorted, dreamy guitar draw on the shoegaze sound My Bloody Valentine pioneered.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "queen",
+    "why": "ornate, multi-layered production with operatic ambition"
+   },
+   {
+    "id": "pink-floyd",
+    "why": "sprawling, concept-heavy double albums"
+   }
+  ]
+ },
+ {
+  "id": "radiohead",
+  "years": "1985–present",
+  "origin": "Abingdon, Oxfordshire, England",
+  "genres": [
+   "alternative rock",
+   "art rock",
+   "electronica",
+   "experimental rock"
+  ],
+  "summary": "Radiohead moved from guitar rock to electronic and experimental music while staying hugely popular, making them one of the most influential bands of their era.",
+  "know": [
+   "The band took its name from the Talking Heads song Radio Head.",
+   "Kid A in 2000 replaced most guitars with synths, drum machines and processed vocals.",
+   "They released In Rainbows in 2007 as a download with a pay-what-you-want price."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Bends",
+    1995
+   ],
+   [
+    "OK Computer",
+    1997
+   ],
+   [
+    "Kid A",
+    2000
+   ],
+   [
+    "In Rainbows",
+    2007
+   ]
+  ],
+  "songs": [
+   "Creep",
+   "Fake Plastic Trees",
+   "Paranoid Android",
+   "Everything in Its Right Place",
+   "Weird Fishes/Arpeggi"
+  ],
+  "influencedBy": [
+   {
+    "id": "talking-heads",
+    "why": "They named the band after the Talking Heads song Radio Head and cite the group's art-rock approach.",
+    "s": 3
+   },
+   {
+    "id": "pixies",
+    "why": "Thom Yorke has said the band was heavily indebted to the Pixies' quiet-loud dynamics in their early years.",
+    "s": 3
+   },
+   {
+    "id": "rem",
+    "why": "Yorke has called R.E.M. and Michael Stipe a key early influence on his singing and writing.",
+    "s": 3
+   },
+   {
+    "id": "the-smiths",
+    "why": "Jonny Greenwood has cited Johnny Marr's guitar work, and the band grew up on the Smiths.",
+    "s": 3
+   },
+   {
+    "id": "aphex-twin",
+    "why": "Yorke said Aphex Twin and other Warp Records electronic acts reshaped how he heard music before Kid A.",
+    "s": 3
+   },
+   {
+    "id": "can",
+    "why": "They cited Can's hypnotic grooves and covered Can's The Thief live.",
+    "s": 3
+   },
+   {
+    "id": "miles-davis",
+    "why": "Yorke said Bitches Brew shaped the dense, unsettled mood of OK Computer.",
+    "s": 3
+   },
+   {
+    "id": "charles-mingus",
+    "why": "The free-jazz horns on The National Anthem were inspired by Charles Mingus.",
+    "s": 3
+   },
+   {
+    "id": "dj-shadow",
+    "why": "The band cited DJ Shadow's sample-built Endtroducing as an influence on OK Computer.",
+    "s": 3
+   },
+   {
+    "id": "neil-young",
+    "why": "Yorke has named Neil Young's After the Gold Rush a favorite and has covered Young's songs live.",
+    "s": 3
+   },
+   {
+    "id": "joy-division",
+    "why": "Radiohead has covered Joy Division's Ceremony in concert.",
+    "s": 3
+   },
+   {
+    "id": "massive-attack",
+    "why": "Their moody, beat-driven textures echo the trip hop of Massive Attack, which the band admired.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "pink-floyd",
+    "why": "art-rock ambition with concept albums about modern alienation"
+   },
+   {
+    "id": "bjork",
+    "why": "a restless artist blending electronics with organic sound"
+   },
+   {
+    "id": "aphex-twin",
+    "why": "glitchy, detailed electronic experiments"
+   }
+  ]
+ },
+ {
+  "id": "oasis",
+  "years": "1991–2009, 2024–present",
+  "origin": "Manchester, England",
+  "genres": [
+   "britpop",
+   "alternative rock",
+   "rock"
+  ],
+  "summary": "Oasis revived big, melodic guitar rock rooted in 1960s British bands and became the defining act of Britpop.",
+  "know": [
+   "Definitely Maybe was the fastest selling debut album in UK history when it was released in 1994.",
+   "Noel Gallagher wrote nearly all of the band's songs while Liam Gallagher sang them.",
+   "Their 1996 Knebworth shows drew about 250,000 people over two nights."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Definitely Maybe",
+    1994
+   ],
+   [
+    "(What's the Story) Morning Glory?",
+    1995
+   ],
+   [
+    "Be Here Now",
+    1997
+   ],
+   [
+    "Don't Believe the Truth",
+    2005
+   ]
+  ],
+  "songs": [
+   "Live Forever",
+   "Supersonic",
+   "Wonderwall",
+   "Don't Look Back in Anger",
+   "Champagne Supernova"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "Noel Gallagher has called the Beatles his biggest influence, and the band covered I Am the Walrus.",
+    "s": 3
+   },
+   {
+    "id": "the-stone-roses",
+    "why": "Noel and Liam have said seeing the Stone Roses showed them a Manchester band could make it.",
+    "s": 3
+   },
+   {
+    "id": "t-rex",
+    "why": "The riff of Cigarettes and Alcohol closely follows T. Rex's Get It On, a debt Noel acknowledged.",
+    "s": 3
+   },
+   {
+    "id": "the-smiths",
+    "why": "Noel has cited Johnny Marr as a major influence on his guitar playing.",
+    "s": 3
+   },
+   {
+    "id": "sex-pistols",
+    "why": "Oasis played a cover of God Save the Queen and drew on the Pistols' wall of guitar on Definitely Maybe.",
+    "s": 3
+   },
+   {
+    "id": "the-who",
+    "why": "They covered the Who's My Generation in concert.",
+    "s": 3
+   },
+   {
+    "id": "the-kinks",
+    "why": "Noel has cited Ray Davies and the Kinks' very English pop songwriting.",
+    "s": 2
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Their swagger and blues-based rock owe a widely noted debt to the Rolling Stones.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-rolling-stones",
+    "why": "a swaggering rock band built on big riffs and attitude"
+   },
+   {
+    "id": "the-kinks",
+    "why": "melodic British guitar pop with a strong local identity"
+   }
+  ]
+ },
+ {
+  "id": "blur",
+  "years": "1988–2003, 2009–present",
+  "origin": "London, England",
+  "genres": [
+   "britpop",
+   "art pop",
+   "indie rock"
+  ],
+  "summary": "Blur wrote witty, character-driven songs about English life that helped launch Britpop, then shifted toward American lo-fi and experimental rock.",
+  "know": [
+   "Parklife in 1994 made them one of the leading bands in British pop.",
+   "Their 1995 chart race with Oasis, Country House against Roll With It, was a major UK news story.",
+   "Song 2 from their 1997 self-titled album became a hit in the United States."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Modern Life Is Rubbish",
+    1993
+   ],
+   [
+    "Parklife",
+    1994
+   ],
+   [
+    "Blur",
+    1997
+   ],
+   [
+    "13",
+    1999
+   ]
+  ],
+  "songs": [
+   "Girls & Boys",
+   "Parklife",
+   "Country House",
+   "Song 2",
+   "Tender"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-kinks",
+    "why": "Damon Albarn cited Ray Davies's sharply observed English story songs as a model for Modern Life Is Rubbish and Parklife.",
+    "s": 3
+   },
+   {
+    "id": "pavement",
+    "why": "Graham Coxon's love of Pavement and American lo-fi pushed the band's 1997 self-titled album in a rougher direction.",
+    "s": 3
+   },
+   {
+    "id": "pink-floyd",
+    "why": "Coxon has cited Syd Barrett era Pink Floyd, and early Blur leaned on that whimsical psychedelia.",
+    "s": 2
+   },
+   {
+    "id": "david-bowie",
+    "why": "Albarn has named Bowie as an influence on his art-pop approach.",
+    "s": 2
+   },
+   {
+    "id": "my-bloody-valentine",
+    "why": "Their 1991 debut Leisure borrowed the swirling guitar sound of shoegaze.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-specials",
+    "why": "songs that sketch everyday English characters with sharp humor"
+   },
+   {
+    "id": "elvis-costello",
+    "why": "clever, wordy pop with a satirical edge"
+   }
+  ]
+ },
+ {
+  "id": "pavement",
+  "years": "1989–1999, 2010, 2022–2023",
+  "origin": "Stockton, California",
+  "genres": [
+   "indie rock",
+   "lo-fi",
+   "slacker rock"
+  ],
+  "summary": "Pavement's loose, off-kilter guitar songs and oblique lyrics made them the model for 1990s American indie rock.",
+  "know": [
+   "Stephen Malkmus and Scott Kannberg started the band as a home-recording project.",
+   "Their early records were released on independent labels, with Matador issuing most of their albums.",
+   "Harness Your Hopes, a 1999 B-side, went viral on streaming in the 2020s."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Slanted and Enchanted",
+    1992
+   ],
+   [
+    "Crooked Rain, Crooked Rain",
+    1994
+   ],
+   [
+    "Wowee Zowee",
+    1995
+   ],
+   [
+    "Brighten the Corners",
+    1997
+   ]
+  ],
+  "songs": [
+   "Summer Babe",
+   "Cut Your Hair",
+   "Gold Soundz",
+   "Range Life",
+   "Stereo"
+  ],
+  "influencedBy": [
+   {
+    "id": "rem",
+    "why": "Pavement recorded Unseen Power of the Picket Fence, an affectionate song about early R.E.M.",
+    "s": 3
+   },
+   {
+    "id": "sonic-youth",
+    "why": "Sonic Youth's alternate tunings and noisy textures, and their support of the band, shaped Pavement's sound.",
+    "s": 2
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "Their deadpan vocals and droning guitars follow the Velvet Underground template.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bob-dylan",
+    "why": "oblique, playful wordplay that rewards close listening"
+   },
+   {
+    "id": "de-la-soul",
+    "why": "offbeat, collage-like art that rejected mainstream polish"
+   }
+  ]
+ },
+ {
+  "id": "weezer",
+  "years": "1992–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "power pop",
+   "alternative rock",
+   "pop punk"
+  ],
+  "summary": "Weezer paired crunchy guitars with catchy, nerdy pop songs, and their raw second album became a template for emo and indie rock.",
+  "know": [
+   "Their 1994 debut, known as the Blue Album, was produced by Ric Ocasek of the Cars.",
+   "The Spike Jonze video for Buddy Holly was included on early copies of Windows 95.",
+   "Pinkerton was poorly received in 1996 but later became a cult favorite."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Weezer (Blue Album)",
+    1994
+   ],
+   [
+    "Pinkerton",
+    1996
+   ],
+   [
+    "Weezer (Green Album)",
+    2001
+   ],
+   [
+    "Maladroit",
+    2002
+   ]
+  ],
+  "songs": [
+   "Buddy Holly",
+   "Undone (The Sweater Song)",
+   "Say It Ain't So",
+   "El Scorcho",
+   "Island in the Sun"
+  ],
+  "influencedBy": [
+   {
+    "id": "kiss",
+    "why": "Rivers Cuomo grew up a Kiss fan, and the song In the Garage mentions his Kiss posters.",
+    "s": 3
+   },
+   {
+    "id": "the-beach-boys",
+    "why": "Cuomo has cited Brian Wilson's melodies and harmonies as a model for his songwriting.",
+    "s": 3
+   },
+   {
+    "id": "pixies",
+    "why": "Cuomo has named the Pixies as a key influence on Weezer's loud, melodic sound.",
+    "s": 3
+   },
+   {
+    "id": "nirvana",
+    "why": "Cuomo has said Nirvana turned him away from metal toward simpler, more personal songs.",
+    "s": 3
+   },
+   {
+    "id": "buddy-holly",
+    "why": "Their breakthrough single takes its name and its nerdy-glasses image from Buddy Holly.",
+    "s": 3
+   },
+   {
+    "id": "metallica",
+    "why": "Cuomo started out playing metal and has cited Metallica, which shows in the band's heavy riffs.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-beach-boys",
+    "why": "sunny, harmony-rich pop from Southern California"
+   },
+   {
+    "id": "buddy-holly",
+    "why": "the bespectacled outsider writing simple, catchy songs"
+   }
+  ]
+ },
+ {
+  "id": "green-day",
+  "years": "1987–present",
+  "origin": "Berkeley, California",
+  "genres": [
+   "pop punk",
+   "punk rock",
+   "rock opera"
+  ],
+  "summary": "Green Day turned fast, catchy punk into a mainstream force with Dookie and later reinvented themselves with the rock opera American Idiot.",
+  "know": [
+   "They came out of the 924 Gilman Street punk scene in Berkeley.",
+   "Dookie sold more than 10 million copies in the US.",
+   "American Idiot was adapted into a Broadway musical in 2010."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Dookie",
+    1994
+   ],
+   [
+    "Nimrod",
+    1997
+   ],
+   [
+    "American Idiot",
+    2004
+   ],
+   [
+    "21st Century Breakdown",
+    2009
+   ]
+  ],
+  "songs": [
+   "Longview",
+   "Basket Case",
+   "Good Riddance (Time of Your Life)",
+   "American Idiot",
+   "Boulevard of Broken Dreams"
+  ],
+  "influencedBy": [
+   {
+    "id": "ramones",
+    "why": "Billie Joe Armstrong has called the Ramones a core influence on their short, fast three-chord songs.",
+    "s": 3
+   },
+   {
+    "id": "the-clash",
+    "why": "Armstrong has cited the Clash, whose political edge carries into American Idiot.",
+    "s": 3
+   },
+   {
+    "id": "the-who",
+    "why": "They built American Idiot on the rock opera model of the Who's Tommy and Quadrophenia, and covered My Generation.",
+    "s": 3
+   },
+   {
+    "id": "husker-du",
+    "why": "Armstrong has named Husker Du as a key influence and has covered their songs.",
+    "s": 3
+   },
+   {
+    "id": "the-replacements",
+    "why": "Armstrong has repeatedly praised the Replacements and Paul Westerberg's songwriting.",
+    "s": 3
+   },
+   {
+    "id": "the-kinks",
+    "why": "They covered the Kinks' Tired of Waiting for You.",
+    "s": 3
+   },
+   {
+    "id": "buzzcocks",
+    "why": "Their catchy, high-energy pop punk follows the Buzzcocks blueprint.",
+    "s": 2
+   },
+   {
+    "id": "sex-pistols",
+    "why": "The Sex Pistols' snarl is a widely noted touchstone for the band's punk attitude.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "queen",
+    "why": "theatrical, album-length rock statements built for stadiums"
+   },
+   {
+    "id": "eminem",
+    "why": "a bratty, mischievous voice that became a mainstream phenomenon"
+   }
+  ]
+ },
+ {
+  "id": "foo-fighters",
+  "years": "1994–present",
+  "origin": "Seattle, Washington",
+  "genres": [
+   "alternative rock",
+   "post-grunge",
+   "hard rock"
+  ],
+  "summary": "Started by Dave Grohl after Nirvana, Foo Fighters became a durable arena-rock band built on melodic, hard-hitting songs.",
+  "know": [
+   "Grohl recorded the first Foo Fighters album almost entirely by himself.",
+   "They have won multiple Grammy Awards, including several for Best Rock Album.",
+   "Wasting Light in 2011 was recorded on analog tape in Grohl's garage."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Foo Fighters",
+    1995
+   ],
+   [
+    "The Colour and the Shape",
+    1997
+   ],
+   [
+    "There Is Nothing Left to Lose",
+    1999
+   ],
+   [
+    "Wasting Light",
+    2011
+   ]
+  ],
+  "songs": [
+   "This Is a Call",
+   "Everlong",
+   "My Hero",
+   "Learn to Fly",
+   "Best of You"
+  ],
+  "influencedBy": [
+   {
+    "id": "nirvana",
+    "why": "Grohl carried Nirvana's mix of heavy guitars and pop melody straight into the first Foo Fighters album.",
+    "s": 3
+   },
+   {
+    "id": "led-zeppelin",
+    "why": "Grohl has called John Bonham his biggest drumming influence.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "Grohl has cited the Beatles as the reason he learned to love melody.",
+    "s": 3
+   },
+   {
+    "id": "bad-brains",
+    "why": "Grohl has named Bad Brains as a key influence from his Washington DC punk years.",
+    "s": 3
+   },
+   {
+    "id": "husker-du",
+    "why": "Grohl has cited Husker Du's melodic hardcore as a big influence on his songwriting.",
+    "s": 3
+   },
+   {
+    "id": "kiss",
+    "why": "Grohl has said Kiss Alive! was one of the records that made him want to play rock.",
+    "s": 3
+   },
+   {
+    "id": "rush",
+    "why": "Grohl and Taylor Hawkins inducted Rush into the Rock and Roll Hall of Fame and cited them as an influence.",
+    "s": 3
+   },
+   {
+    "id": "queen",
+    "why": "The band has often played with Queen's Brian May and Roger Taylor, and Hawkins cited Taylor as a hero.",
+    "s": 3
+   },
+   {
+    "id": "pixies",
+    "why": "Their loud, melodic songs draw on the Pixies' dynamics, which Grohl has praised.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "ac-dc",
+    "why": "dependable, riff-driven rock built for big crowds"
+   },
+   {
+    "id": "tom-petty",
+    "why": "a long-running band of steady, catchy rock anthems"
+   }
+  ]
+ },
+ {
+  "id": "beck",
+  "years": "1993–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "alternative rock",
+   "lo-fi",
+   "folk rock",
+   "hip hop fusion"
+  ],
+  "summary": "Beck blended folk, blues, hip hop, funk and noise into sample-heavy collages and later into lush, reflective songwriting.",
+  "know": [
+   "Loser became an unexpected hit in 1994 after starting as a low-budget single.",
+   "Odelay was produced with the Dust Brothers and won a Grammy for Best Alternative Music Performance.",
+   "Morning Phase won the Grammy for Album of the Year in 2015."
+  ],
+  "born": "07-08",
+  "keyAlbums": [
+   [
+    "Mellow Gold",
+    1994
+   ],
+   [
+    "Odelay",
+    1996
+   ],
+   [
+    "Sea Change",
+    2002
+   ],
+   [
+    "Morning Phase",
+    2014
+   ]
+  ],
+  "songs": [
+   "Loser",
+   "Where It's At",
+   "Devils Haircut",
+   "The New Pollution",
+   "Lost Cause"
+  ],
+  "influencedBy": [
+   {
+    "id": "woody-guthrie",
+    "why": "Beck has cited Woody Guthrie and old folk songs as the starting point for his early acoustic music.",
+    "s": 3
+   },
+   {
+    "id": "mississippi-john-hurt",
+    "why": "Beck has named Mississippi John Hurt's fingerpicking as a formative influence on his blues playing.",
+    "s": 3
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "Beck recreated the Velvet Underground and Nico in full for his Record Club project.",
+    "s": 3
+   },
+   {
+    "id": "leonard-cohen",
+    "why": "His Record Club project also covered all of Songs of Leonard Cohen.",
+    "s": 3
+   },
+   {
+    "id": "prince",
+    "why": "Beck has described Midnite Vultures as drawing on Prince's playful funk.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "His talking-blues delivery and folk phrasing owe a widely noted debt to early Bob Dylan.",
+    "s": 2
+   },
+   {
+    "id": "beastie-boys",
+    "why": "Odelay was made with the Dust Brothers, whose dense sampling on Paul's Boutique set the template.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "dj-shadow",
+    "why": "dense sample collages pulling from every corner of record history"
+   },
+   {
+    "id": "de-la-soul",
+    "why": "playful, surreal music built from mixed-up sources"
+   }
+  ]
+ },
+ {
+  "id": "pj-harvey",
+  "years": "1991–present",
+  "origin": "Dorset, England",
+  "genres": [
+   "alternative rock",
+   "blues rock",
+   "art rock"
+  ],
+  "summary": "PJ Harvey's raw, blues-rooted guitar music and constant reinvention made her one of the most acclaimed songwriters of her generation.",
+  "know": [
+   "She is the only artist to have won the Mercury Prize twice.",
+   "Rid of Me was recorded with producer Steve Albini.",
+   "Let England Shake used the First World War as the backdrop for a set of songs about conflict and nationhood."
+  ],
+  "born": "10-09",
+  "keyAlbums": [
+   [
+    "Dry",
+    1992
+   ],
+   [
+    "Rid of Me",
+    1993
+   ],
+   [
+    "Stories from the City, Stories from the Sea",
+    2000
+   ],
+   [
+    "Let England Shake",
+    2011
+   ]
+  ],
+  "songs": [
+   "Sheela-Na-Gig",
+   "50ft Queenie",
+   "Down by the Water",
+   "Good Fortune",
+   "The Words That Maketh Murder"
+  ],
+  "influencedBy": [
+   {
+    "id": "captain-beefheart",
+    "why": "Harvey has cited Captain Beefheart, heard through her parents' records, as a major influence on her angular blues.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "She recorded a cover of Dylan's Highway 61 Revisited on Rid of Me.",
+    "s": 3
+   },
+   {
+    "id": "pixies",
+    "why": "Harvey has said the Pixies were a key band for her when she started writing rock songs.",
+    "s": 3
+   },
+   {
+    "id": "howlin-wolf",
+    "why": "Her early stripped blues-rock draws on the raw delta and Chicago blues of Howlin' Wolf, which she grew up hearing.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "nina-simone",
+    "why": "a fierce, uncompromising voice that refuses easy categories"
+   },
+   {
+    "id": "kate-bush",
+    "why": "a singular British artist who reinvents her sound album to album"
+   }
+  ]
+ },
+ {
+  "id": "neutral-milk-hotel",
+  "years": "1989–1999, 2013–2015",
+  "origin": "Ruston, Louisiana",
+  "genres": [
+   "indie folk",
+   "lo-fi",
+   "psychedelic folk"
+  ],
+  "summary": "Jeff Mangum's project mixed fuzzy acoustic guitar, brass and singing saw into intense folk-rock, and its second album became a landmark of indie music.",
+  "know": [
+   "The band was part of the Elephant 6 collective of indie musicians.",
+   "In the Aeroplane Over the Sea grew from a modest seller into one of the most celebrated indie albums.",
+   "Mangum largely withdrew from public performance after 1999 before returning for shows in the 2010s."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "On Avery Island",
+    1996
+   ],
+   [
+    "In the Aeroplane Over the Sea",
+    1998
+   ]
+  ],
+  "songs": [
+   "In the Aeroplane Over the Sea",
+   "Holland, 1945",
+   "Two-Headed Boy",
+   "The King of Carrot Flowers Pt. One",
+   "Oh Comely"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beach-boys",
+    "why": "The Elephant 6 collective was built around a shared love of 1960s pop like Pet Sounds.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "Their psychedelic arrangements reflect the 1960s Beatles pop the Elephant 6 musicians revered.",
+    "s": 2
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Mangum's strummed acoustic guitar and fervent, nasal delivery follow a folk tradition shaped by Dylan.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "woody-guthrie",
+    "why": "raw acoustic songs delivered with total conviction"
+   },
+   {
+    "id": "nick-drake",
+    "why": "a small catalog rediscovered and revered long after release"
+   }
+  ]
+ },
+ {
+  "id": "modest-mouse",
+  "years": "1992–present",
+  "origin": "Issaquah, Washington",
+  "genres": [
+   "indie rock",
+   "lo-fi",
+   "art punk"
+  ],
+  "summary": "Modest Mouse's jittery guitars and Isaac Brock's yelping, philosophical songs moved from Pacific Northwest indie to mainstream success.",
+  "know": [
+   "Float On became a surprise radio hit in 2004.",
+   "Former Smiths guitarist Johnny Marr joined the band in 2006.",
+   "We Were Dead Before the Ship Even Sank debuted at number one on the Billboard 200 in 2007."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Lonesome Crowded West",
+    1997
+   ],
+   [
+    "The Moon & Antarctica",
+    2000
+   ],
+   [
+    "Good News for People Who Love Bad News",
+    2004
+   ],
+   [
+    "We Were Dead Before the Ship Even Sank",
+    2007
+   ]
+  ],
+  "songs": [
+   "Dramamine",
+   "Trucker's Atlas",
+   "3rd Planet",
+   "Float On",
+   "Dashboard"
+  ],
+  "influencedBy": [
+   {
+    "id": "pixies",
+    "why": "Their sudden shifts from quiet tension to loud release follow the Pixies' dynamics, which Isaac Brock has praised.",
+    "s": 2
+   },
+   {
+    "id": "talking-heads",
+    "why": "The nervous, rhythmic guitar interplay echoes Talking Heads.",
+    "s": 1
+   },
+   {
+    "id": "pavement",
+    "why": "Their loose, sprawling 1990s indie rock sits in the lineage Pavement established.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "captain-beefheart",
+    "why": "angular guitars and a gnarled, yelping vocal style"
+   },
+   {
+    "id": "townes-van-zandt",
+    "why": "bleak road-and-landscape songs from the margins of America"
+   }
+  ]
+ },
+ {
+  "id": "nine-inch-nails",
+  "years": "1988–present",
+  "origin": "Cleveland, Ohio",
+  "genres": [
+   "industrial rock",
+   "industrial",
+   "electronic rock"
+  ],
+  "summary": "Trent Reznor's Nine Inch Nails brought abrasive industrial electronics into the mainstream, fusing synths, metal guitars and pop hooks.",
+  "know": [
+   "Trent Reznor is the only permanent member and writes and produces the music.",
+   "The Downward Spiral debuted at number two on the Billboard 200 in 1994.",
+   "Reznor and Atticus Ross won an Academy Award for the score to The Social Network."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Pretty Hate Machine",
+    1989
+   ],
+   [
+    "The Downward Spiral",
+    1994
+   ],
+   [
+    "The Fragile",
+    1999
+   ],
+   [
+    "With Teeth",
+    2005
+   ]
+  ],
+  "songs": [
+   "Head Like a Hole",
+   "Closer",
+   "Hurt",
+   "March of the Pigs",
+   "The Hand That Feeds"
+  ],
+  "influencedBy": [
+   {
+    "id": "david-bowie",
+    "why": "Reznor has called Bowie's Low a key influence on The Downward Spiral, and the two toured together in 1995.",
+    "s": 3
+   },
+   {
+    "id": "depeche-mode",
+    "why": "Reznor has cited Depeche Mode's dark synth pop as an early model for his music.",
+    "s": 3
+   },
+   {
+    "id": "pink-floyd",
+    "why": "Reznor has said The Wall shaped his idea of the concept album.",
+    "s": 3
+   },
+   {
+    "id": "joy-division",
+    "why": "Nine Inch Nails covered Joy Division's Dead Souls for The Crow soundtrack.",
+    "s": 3
+   },
+   {
+    "id": "brian-eno",
+    "why": "Reznor has praised Eno's textural production on Bowie's Berlin records, which shaped his own ambient pieces.",
+    "s": 2
+   },
+   {
+    "id": "kraftwerk",
+    "why": "Their programmed synth sound draws on the electronic foundations Kraftwerk laid.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-prodigy",
+    "why": "aggressive electronic music with rock energy"
+   },
+   {
+    "id": "tool",
+    "why": "dark, heavy music built on precision and atmosphere"
+   }
+  ]
+ },
+ {
+  "id": "the-white-stripes",
+  "years": "1997–2011",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "garage rock revival",
+   "blues rock",
+   "punk blues"
+  ],
+  "summary": "Jack and Meg White stripped rock down to guitar, drums and voice, reviving raw blues and garage rock for a new generation.",
+  "know": [
+   "The duo used a strict red, white and black color scheme for their image.",
+   "The riff of Seven Nation Army became a chant at sporting events worldwide.",
+   "Elephant was recorded on vintage analog equipment in London and won a Grammy."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "De Stijl",
+    2000
+   ],
+   [
+    "White Blood Cells",
+    2001
+   ],
+   [
+    "Elephant",
+    2003
+   ],
+   [
+    "Icky Thump",
+    2007
+   ]
+  ],
+  "songs": [
+   "Fell in Love with a Girl",
+   "Seven Nation Army",
+   "The Hardest Button to Button",
+   "Blue Orchid",
+   "Icky Thump"
+  ],
+  "influencedBy": [
+   {
+    "id": "son-house",
+    "why": "Jack White has called Son House his favorite musician and the band covered his Death Letter.",
+    "s": 3
+   },
+   {
+    "id": "robert-johnson",
+    "why": "They covered Robert Johnson's Stop Breaking Down on their debut.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "They covered Dylan's One More Cup of Coffee on their first album.",
+    "s": 3
+   },
+   {
+    "id": "dolly-parton",
+    "why": "Their live cover of Dolly Parton's Jolene became a fan favorite.",
+    "s": 3
+   },
+   {
+    "id": "the-stooges",
+    "why": "Jack White has praised fellow Detroit band the Stooges, whose primal sound echoes in their garage rock.",
+    "s": 3
+   },
+   {
+    "id": "led-zeppelin",
+    "why": "Jack White has cited Led Zeppelin's heavy reworking of the blues as a model.",
+    "s": 3
+   },
+   {
+    "id": "charley-patton",
+    "why": "Jack White's label Third Man co-released the Paramount Records box sets that collect Charley Patton's recordings, reflecting his deep interest in Patton's raw delta blues.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "rl-burnside",
+    "why": "stripped-down, hypnotic electric blues"
+   },
+   {
+    "id": "elmore-james",
+    "why": "raw, distorted slide guitar with relentless drive"
+   }
+  ]
+ },
+ {
+  "id": "the-strokes",
+  "years": "1998–present",
+  "origin": "New York City, New York",
+  "genres": [
+   "garage rock revival",
+   "indie rock",
+   "post-punk revival"
+  ],
+  "summary": "The Strokes' tight, interlocking guitars and cool, compressed vocals sparked the early 2000s garage rock revival.",
+  "know": [
+   "Is This It was released in 2001 and is often named one of the best albums of the decade.",
+   "Guitarists Nick Valensi and Albert Hammond Jr. built their sound on clean, interlocking parts.",
+   "The New Abnormal won the Grammy for Best Rock Album in 2021."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Is This It",
+    2001
+   ],
+   [
+    "Room on Fire",
+    2003
+   ],
+   [
+    "First Impressions of Earth",
+    2006
+   ],
+   [
+    "The New Abnormal",
+    2020
+   ]
+  ],
+  "songs": [
+   "Last Nite",
+   "Someday",
+   "Hard to Explain",
+   "Reptilia",
+   "12:51"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-velvet-underground",
+    "why": "Julian Casablancas has cited the Velvet Underground, whose cool New York minimalism the band updated.",
+    "s": 3
+   },
+   {
+    "id": "bob-marley",
+    "why": "Casablancas has named Bob Marley as one of his biggest musical influences.",
+    "s": 3
+   },
+   {
+    "id": "the-doors",
+    "why": "Casablancas has said hearing the Doors made him want to be a singer.",
+    "s": 3
+   },
+   {
+    "id": "tom-petty",
+    "why": "Last Nite borrows the rhythm of Tom Petty's American Girl, which Petty acknowledged good-naturedly.",
+    "s": 3
+   },
+   {
+    "id": "television",
+    "why": "Their two-guitar interplay is widely traced to Television's New York post-punk.",
+    "s": 2
+   },
+   {
+    "id": "ramones",
+    "why": "Their short, tight, buzzing songs draw on the Ramones' New York punk.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-kinks",
+    "why": "lean, cool guitar pop with a sharp sense of style"
+   },
+   {
+    "id": "beastie-boys",
+    "why": "a New York group that defined downtown cool for its era"
+   }
+  ]
+ },
+ {
+  "id": "yeah-yeah-yeahs",
+  "years": "2000–present",
+  "origin": "New York City, New York",
+  "genres": [
+   "garage rock revival",
+   "art punk",
+   "dance-punk"
+  ],
+  "summary": "Yeah Yeah Yeahs paired Karen O's wild stage presence with Nick Zinner's inventive guitar, moving from art-punk to synth-driven dance rock.",
+  "know": [
+   "The trio has no bass player, with Nick Zinner's guitar and effects filling the space.",
+   "Maps became one of the defining love songs of 2000s indie rock.",
+   "It's Blitz! shifted the band toward synthesizers and dance beats."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Fever to Tell",
+    2003
+   ],
+   [
+    "Show Your Bones",
+    2006
+   ],
+   [
+    "It's Blitz!",
+    2009
+   ],
+   [
+    "Cool It Down",
+    2022
+   ]
+  ],
+  "songs": [
+   "Maps",
+   "Y Control",
+   "Gold Lion",
+   "Zero",
+   "Heads Will Roll"
+  ],
+  "influencedBy": [
+   {
+    "id": "siouxsie",
+    "why": "Karen O's theatrical, commanding style is widely compared to Siouxsie Sioux's.",
+    "s": 2
+   },
+   {
+    "id": "patti-smith",
+    "why": "Karen O is widely seen as following Patti Smith's model of the fearless New York art-punk frontwoman.",
+    "s": 2
+   },
+   {
+    "id": "the-stooges",
+    "why": "Karen O has cited Iggy Pop's unrestrained stage presence as an inspiration.",
+    "s": 2
+   },
+   {
+    "id": "blondie",
+    "why": "Their move into dance rhythms follows a New York punk-meets-disco path Blondie opened.",
+    "s": 1
+   },
+   {
+    "id": "sonic-youth",
+    "why": "Zinner's noisy, textural guitar draws on Sonic Youth's New York art-rock.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bjork",
+    "why": "a fearless, theatrical singer who mixes raw emotion with electronics"
+   },
+   {
+    "id": "janis-joplin",
+    "why": "a raw, unrestrained female rock voice"
+   }
+  ]
+ },
+ {
+  "id": "interpol",
+  "years": "1997–present",
+  "origin": "New York City, New York",
+  "genres": [
+   "post-punk revival",
+   "indie rock",
+   "dark wave"
+  ],
+  "summary": "Interpol's dark, precise guitars, driving bass and Paul Banks's baritone made them a leading band of the early 2000s post-punk revival.",
+  "know": [
+   "Their debut Turn On the Bright Lights was released on Matador in 2002.",
+   "The band became known for sharp suits and a stark visual style.",
+   "Bassist Carlos Dengler's melodic bass lines were central to their early sound."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Turn On the Bright Lights",
+    2002
+   ],
+   [
+    "Antics",
+    2004
+   ],
+   [
+    "Our Love to Admire",
+    2007
+   ],
+   [
+    "El Pintor",
+    2014
+   ]
+  ],
+  "songs": [
+   "Obstacle 1",
+   "PDA",
+   "NYC",
+   "Evil",
+   "Slow Hands"
+  ],
+  "influencedBy": [
+   {
+    "id": "joy-division",
+    "why": "Their baritone vocals and taut, gloomy guitar drew constant comparison to Joy Division.",
+    "s": 2
+   },
+   {
+    "id": "the-cure",
+    "why": "Their layered, echoing guitars echo the Cure's early post-punk.",
+    "s": 1
+   },
+   {
+    "id": "siouxsie",
+    "why": "Their dark, driving bass-led sound sits in the post-punk tradition of Siouxsie and the Banshees.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "depeche-mode",
+    "why": "brooding, stylish music built on darkness and precision"
+   },
+   {
+    "id": "leonard-cohen",
+    "why": "a low, cool voice delivering melancholy"
+   }
+  ]
+ },
+ {
+  "id": "the-killers",
+  "years": "2001–present",
+  "origin": "Las Vegas, Nevada",
+  "genres": [
+   "alternative rock",
+   "new wave revival",
+   "heartland rock"
+  ],
+  "summary": "The Killers mixed 1980s British synth pop with American heartland rock and became one of the biggest rock bands of the 2000s.",
+  "know": [
+   "Mr. Brightside has spent years on the UK singles chart, longer than almost any other song.",
+   "Hot Fuss was a multi-million selling debut in 2004.",
+   "Sam's Town moved toward a grand, Americana-tinged sound."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Hot Fuss",
+    2004
+   ],
+   [
+    "Sam's Town",
+    2006
+   ],
+   [
+    "Day & Age",
+    2008
+   ],
+   [
+    "Imploding the Mirage",
+    2020
+   ]
+  ],
+  "songs": [
+   "Mr. Brightside",
+   "Somebody Told Me",
+   "All These Things That I've Done",
+   "When You Were Young",
+   "Human"
+  ],
+  "influencedBy": [
+   {
+    "id": "new-order",
+    "why": "The band took its name from a fictional band in New Order's Crystal video.",
+    "s": 3
+   },
+   {
+    "id": "bruce-springsteen",
+    "why": "Brandon Flowers has said Springsteen shaped Sam's Town, and the two have performed together.",
+    "s": 3
+   },
+   {
+    "id": "oasis",
+    "why": "Flowers has said seeing Oasis made him want to be in a band.",
+    "s": 3
+   },
+   {
+    "id": "the-smiths",
+    "why": "Flowers has cited Morrissey and the Smiths as a major influence.",
+    "s": 3
+   },
+   {
+    "id": "joy-division",
+    "why": "They covered Joy Division's Shadowplay for the film Control.",
+    "s": 3
+   },
+   {
+    "id": "u2",
+    "why": "Their soaring, anthemic choruses follow a path U2 laid out, which Flowers has acknowledged.",
+    "s": 2
+   },
+   {
+    "id": "depeche-mode",
+    "why": "Their synth-led singles draw on Depeche Mode's dark, glossy synth pop.",
+    "s": 2
+   },
+   {
+    "id": "david-bowie",
+    "why": "Flowers has named Bowie among his influences, heard in the band's glam theatrics.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "u2",
+    "why": "huge, earnest anthems built for stadiums"
+   },
+   {
+    "id": "the-weeknd",
+    "why": "glossy music steeped in 1980s synth drama"
+   }
+  ]
+ },
+ {
+  "id": "arcade-fire",
+  "years": "2001–present",
+  "origin": "Montreal, Quebec, Canada",
+  "genres": [
+   "indie rock",
+   "baroque pop",
+   "art rock"
+  ],
+  "summary": "Arcade Fire built big, emotional anthems from strings, accordions and group vocals, bringing orchestral indie rock to arenas.",
+  "know": [
+   "Their debut Funeral in 2004 became one of the defining indie albums of the decade.",
+   "The Suburbs won the Grammy for Album of the Year in 2011.",
+   "The band often performs with a large, rotating lineup trading instruments on stage."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Funeral",
+    2004
+   ],
+   [
+    "Neon Bible",
+    2007
+   ],
+   [
+    "The Suburbs",
+    2010
+   ],
+   [
+    "Reflektor",
+    2013
+   ]
+  ],
+  "songs": [
+   "Neighborhood #1 (Tunnels)",
+   "Rebellion (Lies)",
+   "Wake Up",
+   "No Cars Go",
+   "Ready to Start"
+  ],
+  "influencedBy": [
+   {
+    "id": "david-bowie",
+    "why": "Bowie championed the band, performed with them in 2005 and sang on the song Reflektor.",
+    "s": 3
+   },
+   {
+    "id": "talking-heads",
+    "why": "Win Butler has cited Talking Heads, and David Byrne performed with the band.",
+    "s": 3
+   },
+   {
+    "id": "lcd-soundsystem",
+    "why": "James Murphy co-produced Reflektor, bringing in his dance-punk grooves.",
+    "s": 3
+   },
+   {
+    "id": "bruce-springsteen",
+    "why": "Their big, communal anthems are often compared to Springsteen, who has performed with them.",
+    "s": 2
+   },
+   {
+    "id": "neutral-milk-hotel",
+    "why": "Their fervent vocals and folk-orchestral sound echo Neutral Milk Hotel.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-band",
+    "why": "a communal ensemble swapping instruments to make big, rootsy songs"
+   },
+   {
+    "id": "sufjan-stevens",
+    "why": "orchestral indie songs full of strings and horns"
+   }
+  ]
+ },
+ {
+  "id": "the-black-keys",
+  "years": "2001–present",
+  "origin": "Akron, Ohio",
+  "genres": [
+   "blues rock",
+   "garage rock revival",
+   "indie rock"
+  ],
+  "summary": "The Black Keys started as a raw guitar and drums blues duo and grew into a major rock act with groovier, soul-tinged production.",
+  "know": [
+   "Dan Auerbach and Patrick Carney recorded their early albums in a basement and an old factory.",
+   "Brothers won multiple Grammy Awards, and Tighten Up was produced by Danger Mouse.",
+   "Delta Kream in 2021 was a tribute to north Mississippi hill country blues."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Thickfreakness",
+    2003
+   ],
+   [
+    "Rubber Factory",
+    2004
+   ],
+   [
+    "Brothers",
+    2010
+   ],
+   [
+    "El Camino",
+    2011
+   ]
+  ],
+  "songs": [
+   "10 A.M. Automatic",
+   "Tighten Up",
+   "Howlin' for You",
+   "Lonely Boy",
+   "Gold on the Ceiling"
+  ],
+  "influencedBy": [
+   {
+    "id": "rl-burnside",
+    "why": "Dan Auerbach has cited R.L. Burnside's hill country blues as a key influence, and they covered his songs on Delta Kream.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "They covered the Beatles' She Said She Said on their debut The Big Come Up.",
+    "s": 3
+   },
+   {
+    "id": "the-kinks",
+    "why": "They covered the Kinks' Act Nice and Gentle on Rubber Factory.",
+    "s": 3
+   },
+   {
+    "id": "howlin-wolf",
+    "why": "Their gritty, distorted guitar blues draws on Chicago blues like Howlin' Wolf.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "gary-clark-jr",
+    "why": "modern, fuzzed-up blues rock"
+   },
+   {
+    "id": "creedence",
+    "why": "lean, swampy rock built on simple, catchy riffs"
+   }
+  ]
+ },
+ {
+  "id": "queens-of-the-stone-age",
+  "years": "1996–present",
+  "origin": "Palm Desert, California",
+  "genres": [
+   "stoner rock",
+   "desert rock",
+   "alternative metal"
+  ],
+  "summary": "Josh Homme's Queens of the Stone Age drove heavy desert riffs with hypnotic, repetitive grooves and a dry wit.",
+  "know": [
+   "Homme formed the band after the breakup of the desert rock group Kyuss.",
+   "Dave Grohl played drums on Songs for the Deaf.",
+   "Homme has described their style as robot rock, built on steady, repetitive grooves."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Rated R",
+    2000
+   ],
+   [
+    "Songs for the Deaf",
+    2002
+   ],
+   [
+    "Lullabies to Paralyze",
+    2005
+   ],
+   [
+    "...Like Clockwork",
+    2013
+   ]
+  ],
+  "songs": [
+   "No One Knows",
+   "Go with the Flow",
+   "Little Sister",
+   "Make It wit Chu",
+   "I Sat by the Ocean"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-stooges",
+    "why": "Josh Homme has cited Iggy Pop and the Stooges as an influence and later produced Iggy's album Post Pop Depression.",
+    "s": 3
+   },
+   {
+    "id": "can",
+    "why": "Homme's robot rock idea of locked, repetitive grooves draws on German krautrock such as Can.",
+    "s": 2
+   },
+   {
+    "id": "black-sabbath",
+    "why": "Their heavy, downtuned riffs sit in the lineage of Black Sabbath, though Homme has played down the link.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "ac-dc",
+    "why": "riff-first rock with relentless, steady grooves"
+   },
+   {
+    "id": "mastodon",
+    "why": "heavy, riff-driven music with an adventurous streak"
+   }
+  ]
+ },
+ {
+  "id": "kings-of-leon",
+  "years": "1999–present",
+  "origin": "Nashville, Tennessee",
+  "genres": [
+   "southern rock",
+   "alternative rock",
+   "garage rock revival"
+  ],
+  "summary": "Kings of Leon began as scrappy southern garage rockers and grew into arena headliners with a bigger, more atmospheric sound.",
+  "know": [
+   "The band is made up of three Followill brothers and their cousin.",
+   "They broke through first in the UK before finding major success at home.",
+   "Use Somebody won Record of the Year at the 2010 Grammy Awards."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Youth and Young Manhood",
+    2003
+   ],
+   [
+    "Aha Shake Heartbreak",
+    2004
+   ],
+   [
+    "Because of the Times",
+    2007
+   ],
+   [
+    "Only by the Night",
+    2008
+   ]
+  ],
+  "songs": [
+   "Molly's Chambers",
+   "Taper Jean Girl",
+   "On Call",
+   "Sex on Fire",
+   "Use Somebody"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-rolling-stones",
+    "why": "Their early mentors introduced the brothers to the Rolling Stones, which shaped their loose, bluesy rock.",
+    "s": 2
+   },
+   {
+    "id": "the-clash",
+    "why": "The Clash was among the classic rock records their early producers used to school the band.",
+    "s": 2
+   },
+   {
+    "id": "u2",
+    "why": "Their move to big, echoing arena rock after touring with U2 follows U2's atmospheric model.",
+    "s": 1
+   },
+   {
+    "id": "the-strokes",
+    "why": "Their wiry early garage sound arrived in, and drew on, the wave the Strokes started.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "lynyrd-skynyrd",
+    "why": "southern rock built on family bonds and rough vocals"
+   },
+   {
+    "id": "chris-stapleton",
+    "why": "a gritty southern voice with rock power"
+   }
+  ]
+ },
+ {
+  "id": "arctic-monkeys",
+  "years": "2002–present",
+  "origin": "Sheffield, England",
+  "genres": [
+   "indie rock",
+   "garage rock revival",
+   "desert rock",
+   "lounge pop"
+  ],
+  "summary": "Arctic Monkeys broke through with sharp, witty songs about northern English life and later reinvented themselves with heavy grooves and crooner lounge pop.",
+  "know": [
+   "Their fan base grew online before they had a major label release.",
+   "Whatever People Say I Am, That's What I'm Not was the fastest selling debut album in UK chart history at the time.",
+   "Alex Turner's lyrics are known for their detailed, conversational wordplay."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Whatever People Say I Am, That's What I'm Not",
+    2006
+   ],
+   [
+    "Favourite Worst Nightmare",
+    2007
+   ],
+   [
+    "AM",
+    2013
+   ],
+   [
+    "Tranquility Base Hotel & Casino",
+    2018
+   ]
+  ],
+  "songs": [
+   "I Bet You Look Good on the Dancefloor",
+   "When the Sun Goes Down",
+   "Fluorescent Adolescent",
+   "505",
+   "Do I Wanna Know?"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-strokes",
+    "why": "Alex Turner has said he wanted to be in the Strokes and referenced them in the opening song of Tranquility Base Hotel & Casino.",
+    "s": 3
+   },
+   {
+    "id": "oasis",
+    "why": "Turner has named Oasis as a band that made him want to make music.",
+    "s": 3
+   },
+   {
+    "id": "queens-of-the-stone-age",
+    "why": "Josh Homme produced much of Humbug, steering the band toward heavier desert rock.",
+    "s": 3
+   },
+   {
+    "id": "dr-dre",
+    "why": "The band said AM's slow, heavy drum patterns were inspired by hip hop production like Dr. Dre's.",
+    "s": 3
+   },
+   {
+    "id": "david-bowie",
+    "why": "The space-age lounge style of Tranquility Base Hotel & Casino draws on Bowie, whom Turner admires.",
+    "s": 2
+   },
+   {
+    "id": "black-sabbath",
+    "why": "The heavy, sludgy riffs on AM nod to Black Sabbath.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-kinks",
+    "why": "sharp-eyed English vignettes set to guitar pop"
+   },
+   {
+    "id": "elvis-costello",
+    "why": "dense, clever wordplay on top of tight rock songs"
+   }
+  ]
+ },
+ {
+  "id": "the-national",
+  "years": "1999–present",
+  "origin": "Brooklyn, New York",
+  "genres": [
+   "indie rock",
+   "chamber pop",
+   "post-punk"
+  ],
+  "summary": "The National's slow-building songs, layered arrangements and Matt Berninger's baritone made them a leading band of literate, adult indie rock.",
+  "know": [
+   "The band formed in Brooklyn by musicians who grew up in Cincinnati, Ohio, including two sets of brothers.",
+   "Aaron and Bryce Dessner are also prominent producers and composers.",
+   "Sleep Well Beast won the Grammy for Best Alternative Music Album in 2018."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Alligator",
+    2005
+   ],
+   [
+    "Boxer",
+    2007
+   ],
+   [
+    "High Violet",
+    2010
+   ],
+   [
+    "Sleep Well Beast",
+    2017
+   ]
+  ],
+  "songs": [
+   "Mr. November",
+   "Fake Empire",
+   "Bloodbuzz Ohio",
+   "I Need My Girl",
+   "The System Only Dreams in Total Darkness"
+  ],
+  "influencedBy": [
+   {
+    "id": "grateful-dead",
+    "why": "The Dessner brothers produced the Grateful Dead tribute Day of the Dead and have cited the band as an influence.",
+    "s": 3
+   },
+   {
+    "id": "rem",
+    "why": "Matt Berninger has cited R.E.M. as a formative band for him.",
+    "s": 2
+   },
+   {
+    "id": "bruce-springsteen",
+    "why": "Their brooding portraits of American life are often linked to Springsteen's quieter work.",
+    "s": 2
+   },
+   {
+    "id": "joy-division",
+    "why": "Berninger's deep voice and the band's tense, driving drums draw on Joy Division's post-punk.",
+    "s": 2
+   },
+   {
+    "id": "leonard-cohen",
+    "why": "Berninger's low, wry, melancholy delivery is widely compared to Leonard Cohen's.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "frank-sinatra",
+    "why": "a melancholy baritone singing about adult regret"
+   },
+   {
+    "id": "bon-iver",
+    "why": "quiet, layered, emotionally heavy songs"
+   }
+  ]
+ },
+ {
+  "id": "vampire-weekend",
+  "years": "2006–present",
+  "origin": "New York City, New York",
+  "genres": [
+   "indie pop",
+   "indie rock",
+   "baroque pop"
+  ],
+  "summary": "Vampire Weekend combined crisp guitar pop with African-influenced guitar lines, harpsichord and classical touches into a bright, erudite sound.",
+  "know": [
+   "The band formed while its members were students at Columbia University.",
+   "Modern Vampires of the City won the Grammy for Best Alternative Music Album.",
+   "Father of the Bride was a sprawling double album that also won the Grammy in that category."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Vampire Weekend",
+    2008
+   ],
+   [
+    "Contra",
+    2010
+   ],
+   [
+    "Modern Vampires of the City",
+    2013
+   ],
+   [
+    "Father of the Bride",
+    2019
+   ]
+  ],
+  "songs": [
+   "A-Punk",
+   "Oxford Comma",
+   "Cape Cod Kwassa Kwassa",
+   "Diane Young",
+   "Harmony Hall"
+  ],
+  "influencedBy": [
+   {
+    "id": "simon-garfunkel",
+    "why": "Their African-inflected guitars drew wide comparison to Paul Simon's Graceland.",
+    "s": 2
+   },
+   {
+    "id": "talking-heads",
+    "why": "Their preppy art-pop built on African rhythms echoes Talking Heads' Remain in Light era.",
+    "s": 2
+   },
+   {
+    "id": "grateful-dead",
+    "why": "Father of the Bride's loose, jammy feel is widely linked to the Grateful Dead, whose songs the band has covered live.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "caetano-veloso",
+    "why": "worldly, erudite pop that blends many traditions"
+   },
+   {
+    "id": "steely-dan",
+    "why": "clever, detailed pop with a knowing wit"
+   }
+  ]
+ },
+ {
+  "id": "my-chemical-romance",
+  "years": "2001–2013, 2019–present",
+  "origin": "Newark, New Jersey",
+  "genres": [
+   "emo",
+   "pop punk",
+   "post-hardcore"
+  ],
+  "summary": "My Chemical Romance brought theatrical concept albums and glam-rock drama to emo, peaking with The Black Parade.",
+  "know": [
+   "Gerard Way formed the band in New Jersey in 2001.",
+   "The Black Parade was a concept album performed by the band in character.",
+   "Gerard Way is also a comic book writer, co-creating The Umbrella Academy."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Three Cheers for Sweet Revenge",
+    2004
+   ],
+   [
+    "The Black Parade",
+    2006
+   ],
+   [
+    "Danger Days: The True Lives of the Fabulous Killjoys",
+    2010
+   ]
+  ],
+  "songs": [
+   "Helena",
+   "I'm Not Okay (I Promise)",
+   "Welcome to the Black Parade",
+   "Famous Last Words",
+   "Na Na Na"
+  ],
+  "influencedBy": [
+   {
+    "id": "queen",
+    "why": "The band has cited Queen as a model for the grand, operatic arrangements of The Black Parade.",
+    "s": 3
+   },
+   {
+    "id": "pink-floyd",
+    "why": "The Black Parade's concept album structure drew on Pink Floyd's The Wall.",
+    "s": 3
+   },
+   {
+    "id": "david-bowie",
+    "why": "Gerard Way has cited Bowie's characters and theatrics, and the band covered Under Pressure with The Used.",
+    "s": 3
+   },
+   {
+    "id": "the-smiths",
+    "why": "Gerard Way has cited Morrissey and the Smiths as an influence.",
+    "s": 3
+   },
+   {
+    "id": "iron-maiden",
+    "why": "Guitarist Ray Toro has cited Iron Maiden's twin-guitar harmonies as a key influence.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "kiss",
+    "why": "costumed, theatrical rock built around a persona"
+   },
+   {
+    "id": "lady-gaga",
+    "why": "a theatrical pop star who builds albums around characters"
+   }
+  ]
+ },
+ {
+  "id": "paramore",
+  "years": "2004–present",
+  "origin": "Franklin, Tennessee",
+  "genres": [
+   "pop punk",
+   "emo",
+   "new wave"
+  ],
+  "summary": "Paramore rose with energetic pop punk led by Hayley Williams's powerful voice and later moved into bright, 1980s-inspired new wave pop.",
+  "know": [
+   "The band formed in Franklin, Tennessee when its members were teenagers.",
+   "Ain't It Fun won the Grammy for Best Rock Song in 2015.",
+   "After Laughter in 2017 traded distorted guitars for funk and new wave grooves."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Riot!",
+    2007
+   ],
+   [
+    "Brand New Eyes",
+    2009
+   ],
+   [
+    "After Laughter",
+    2017
+   ],
+   [
+    "This Is Why",
+    2023
+   ]
+  ],
+  "songs": [
+   "Misery Business",
+   "Decode",
+   "The Only Exception",
+   "Ain't It Fun",
+   "Hard Times"
+  ],
+  "influencedBy": [
+   {
+    "id": "talking-heads",
+    "why": "Hayley Williams and the band have cited Talking Heads as a touchstone for the rhythmic new wave sound of After Laughter.",
+    "s": 3
+   },
+   {
+    "id": "green-day",
+    "why": "Their early fast, melodic songs come straight out of the 2000s pop punk lineage Green Day popularized.",
+    "s": 1
+   },
+   {
+    "id": "blondie",
+    "why": "Their later sound follows the female-fronted new wave pop that Blondie defined.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "olivia-rodrigo",
+    "why": "angsty, guitar-driven pop with big sing-along choruses"
+   },
+   {
+    "id": "taylor-swift",
+    "why": "a Tennessee songwriter who rose as a teenager with confessional songs"
+   }
+  ]
+ },
+ {
+  "id": "the-war-on-drugs",
+  "years": "2005–present",
+  "origin": "Philadelphia, Pennsylvania",
+  "genres": [
+   "heartland rock",
+   "indie rock",
+   "ambient rock"
+  ],
+  "summary": "Adam Granduciel's band blends classic American heartland rock with hazy, layered textures and long, driving songs.",
+  "know": [
+   "Granduciel founded the band with Kurt Vile, who left to focus on his solo career.",
+   "A Deeper Understanding won the Grammy for Best Rock Album in 2018.",
+   "Granduciel is known for long, detailed studio sessions building up layers of sound."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Slave Ambient",
+    2011
+   ],
+   [
+    "Lost in the Dream",
+    2014
+   ],
+   [
+    "A Deeper Understanding",
+    2017
+   ],
+   [
+    "I Don't Live Here Anymore",
+    2021
+   ]
+  ],
+  "songs": [
+   "Red Eyes",
+   "Under the Pressure",
+   "An Ocean in Between the Waves",
+   "Holding On",
+   "I Don't Live Here Anymore"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-dylan",
+    "why": "Adam Granduciel's phrasing and harmonica draw openly on Bob Dylan, a debt widely noted since the band's first album.",
+    "s": 2
+   },
+   {
+    "id": "bruce-springsteen",
+    "why": "Their driving, open-road anthems are widely compared to Springsteen's 1980s sound.",
+    "s": 2
+   },
+   {
+    "id": "tom-petty",
+    "why": "Their chiming guitars and steady, propulsive rhythms echo Tom Petty's heartland rock.",
+    "s": 2
+   },
+   {
+    "id": "brian-eno",
+    "why": "Their washes of synth and guitar texture borrow from Eno's ambient approach.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "jason-isbell",
+    "why": "modern heartland songwriting rooted in classic American rock"
+   },
+   {
+    "id": "bon-iver",
+    "why": "hazy, layered textures around emotional songs"
+   }
+  ]
+ },
+ {
+  "id": "tame-impala",
+  "years": "2007–present",
+  "origin": "Perth, Western Australia",
+  "genres": [
+   "psychedelic rock",
+   "psychedelic pop",
+   "synth-pop"
+  ],
+  "summary": "Kevin Parker's Tame Impala moved from fuzzy, phased psychedelic rock to glossy synth pop, bridging indie rock and mainstream pop and R&B.",
+  "know": [
+   "Kevin Parker writes, plays, records and produces nearly all of the studio music himself.",
+   "Currents in 2015 shifted the sound from guitars toward synthesizers and dance grooves.",
+   "Rihanna covered New Person, Same Old Mistakes on her album Anti."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Innerspeaker",
+    2010
+   ],
+   [
+    "Lonerism",
+    2012
+   ],
+   [
+    "Currents",
+    2015
+   ],
+   [
+    "The Slow Rush",
+    2020
+   ]
+  ],
+  "songs": [
+   "Elephant",
+   "Feels Like We Only Go Backwards",
+   "Let It Happen",
+   "The Less I Know the Better",
+   "New Person, Same Old Mistakes"
+  ],
+  "influencedBy": [
+   {
+    "id": "bee-gees",
+    "why": "Kevin Parker has said a moment of truly hearing the Bee Gees opened him up to pop and shaped the direction of Currents.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "Parker's dreamy vocals and psychedelic production draw constant comparison to late 1960s Beatles, especially John Lennon.",
+    "s": 2
+   },
+   {
+    "id": "pink-floyd",
+    "why": "The phased, swirling guitar sound of the early records draws on 1960s psychedelic rock like early Pink Floyd.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "daft-punk",
+    "why": "lush, filtered retro-futurist grooves"
+   },
+   {
+    "id": "frank-ocean",
+    "why": "introspective, bedroom-crafted music with a hazy feel"
+   }
+  ]
+ },
+ {
+  "id": "the-1975",
+  "years": "2002–present",
+  "origin": "Manchester, England",
+  "genres": [
+   "pop rock",
+   "synth-pop",
+   "indie pop"
+  ],
+  "summary": "The 1975 mix 1980s synth pop, funk guitars, ambient interludes and confessional lyrics into genre-hopping albums.",
+  "know": [
+   "The band formed at school in Wilmslow, near Manchester, and is fronted by Matty Healy.",
+   "Several of their albums reached number one in the UK.",
+   "They won the Brit Award for British Group in 2017 and 2019."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The 1975",
+    2013
+   ],
+   [
+    "I Like It When You Sleep, for You Are So Beautiful Yet So Unaware of It",
+    2016
+   ],
+   [
+    "A Brief Inquiry into Online Relationships",
+    2018
+   ],
+   [
+    "Being Funny in a Foreign Language",
+    2022
+   ]
+  ],
+  "songs": [
+   "Chocolate",
+   "Robbers",
+   "The Sound",
+   "Somebody Else",
+   "Love It If We Made It"
+  ],
+  "influencedBy": [
+   {
+    "id": "michael-jackson",
+    "why": "Matty Healy has cited Michael Jackson as a key influence on the band's slick, funk-driven pop.",
+    "s": 3
+   },
+   {
+    "id": "talking-heads",
+    "why": "Healy has named Talking Heads as an influence, heard in the band's nervy funk guitar.",
+    "s": 3
+   },
+   {
+    "id": "brian-eno",
+    "why": "Their ambient instrumental interludes draw on Brian Eno's ambient music.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "george-michael",
+    "why": "glossy, 1980s-inflected pop with confessional lyrics"
+   },
+   {
+    "id": "the-weeknd",
+    "why": "slick, synth-heavy music steeped in 1980s pop"
+   }
+  ]
+ },
+ {
+  "id": "fontaines-dc",
+  "years": "2017–present",
+  "origin": "Dublin, Ireland",
+  "genres": [
+   "post-punk",
+   "indie rock",
+   "garage rock"
+  ],
+  "summary": "Fontaines D.C. combine driving post-punk with poetic, Dublin-rooted lyrics, and have broadened into shoegaze and melodic rock.",
+  "know": [
+   "The members met while studying music in Dublin and bonded over poetry.",
+   "Their debut Dogrel was shortlisted for the Mercury Prize in 2019.",
+   "A Hero's Death was nominated for the Grammy for Best Rock Album."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Dogrel",
+    2019
+   ],
+   [
+    "A Hero's Death",
+    2020
+   ],
+   [
+    "Skinty Fia",
+    2022
+   ],
+   [
+    "Romance",
+    2024
+   ]
+  ],
+  "songs": [
+   "Boys in the Better Land",
+   "Big",
+   "A Hero's Death",
+   "Jackie Down the Line",
+   "Starburster"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beach-boys",
+    "why": "Grian Chatten said later Beach Boys records shaped A Hero's Death, and the band practiced harmonies in the van.",
+    "s": 3
+   },
+   {
+    "id": "my-bloody-valentine",
+    "why": "Guitarist Conor Curley has cited My Bloody Valentine's endless, washing guitar sound when discussing Skinty Fia.",
+    "s": 3
+   },
+   {
+    "id": "joy-division",
+    "why": "Their tense, driving bass lines and deadpan delivery follow the Joy Division post-punk template.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "u2",
+    "why": "a Dublin band shaped by Irish identity and big ambitions"
+   },
+   {
+    "id": "leonard-cohen",
+    "why": "poetic, literary lyrics delivered in a low voice"
+   }
+  ]
+ },
+ {
+  "id": "idles",
+  "years": "2009–present",
+  "origin": "Bristol, England",
+  "genres": [
+   "post-punk",
+   "punk rock",
+   "noise rock"
+  ],
+  "summary": "Idles play loud, abrasive post-punk with blunt, socially minded lyrics, and became one of the most prominent British guitar bands of the late 2010s.",
+  "know": [
+   "Their debut album Brutalism was released in 2017.",
+   "Ultra Mono reached number one on the UK Albums Chart in 2020.",
+   "Tangk was co-produced by Nigel Godrich and Kenny Beats."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Brutalism",
+    2017
+   ],
+   [
+    "Joy as an Act of Resistance",
+    2018
+   ],
+   [
+    "Ultra Mono",
+    2020
+   ],
+   [
+    "Tangk",
+    2024
+   ]
+  ],
+  "songs": [
+   "Mother",
+   "Danny Nedelko",
+   "Never Fight a Man with a Perm",
+   "Colossus",
+   "Grace"
+  ],
+  "influencedBy": [
+   {
+    "id": "kanye-west",
+    "why": "Joe Talbot has said Kanye West's Yeezus helped the band find its harsh, confrontational sound on Brutalism.",
+    "s": 3
+   },
+   {
+    "id": "radiohead",
+    "why": "Talbot has named Radiohead songs like The National Anthem among his all-time favorites.",
+    "s": 3
+   },
+   {
+    "id": "the-national",
+    "why": "The band has cited the National as an early inspiration.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "public-enemy",
+    "why": "loud, confrontational music with a social message"
+   },
+   {
+    "id": "rage-against-the-machine",
+    "why": "heavy, politically charged music built on aggression"
+   }
+  ]
+ }
+]

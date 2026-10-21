@@ -1,0 +1,5336 @@
+[
+ {
+  "id": "bing-crosby",
+  "years": "1926–1977",
+  "origin": "Tacoma, Washington",
+  "genres": [
+   "traditional pop",
+   "crooner",
+   "jazz-pop"
+  ],
+  "summary": "Bing Crosby pioneered the relaxed, intimate crooning style that the electric microphone made possible. He was the best-selling recording star of the first half of the 20th century.",
+  "know": [
+   "His recording of 'White Christmas' is often cited as the best-selling single of all time.",
+   "He started out as one of the Rhythm Boys with Paul Whiteman's Orchestra in the late 1920s.",
+   "He invested in Ampex and helped bring magnetic tape recording into radio broadcasting."
+  ],
+  "born": "05-03",
+  "keyAlbums": [
+   [
+    "Merry Christmas",
+    1945
+   ],
+   [
+    "Bing Sings Whilst Bregman Swings",
+    1956
+   ],
+   [
+    "Bing with a Beat",
+    1957
+   ]
+  ],
+  "songs": [
+   "White Christmas",
+   "Swinging on a Star",
+   "Pennies from Heaven",
+   "Where the Blue of the Night",
+   "Brother, Can You Spare a Dime?"
+  ],
+  "influencedBy": [
+   {
+    "id": "louis-armstrong",
+    "why": "Crosby repeatedly credited Armstrong as his main musical influence and borrowed his swinging, conversational phrasing.",
+    "s": 3
+   },
+   {
+    "id": "bix-beiderbecke",
+    "why": "As Whiteman bandmates in the late 1920s, Crosby absorbed Beiderbecke's jazz feel and the two were close friends.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "nat-king-cole",
+    "why": "Another warm, effortless crooner who made the microphone feel like a private conversation."
+   },
+   {
+    "id": "jimmie-rodgers",
+    "why": "The first mass-media star of country music, as Crosby was for mainstream pop."
+   }
+  ]
+ },
+ {
+  "id": "frank-sinatra",
+  "years": "1935–1995",
+  "origin": "Hoboken, New Jersey",
+  "genres": [
+   "traditional pop",
+   "vocal jazz",
+   "swing",
+   "crooner"
+  ],
+  "summary": "Frank Sinatra turned the pop standard into a vehicle for adult storytelling. His 1950s Capitol albums with arrangers like Nelson Riddle helped invent the concept album.",
+  "know": [
+   "He sang with the Harry James and Tommy Dorsey bands before going solo in 1942.",
+   "He won an Academy Award for his acting role in From Here to Eternity (1953).",
+   "He founded his own label, Reprise Records, in 1960."
+  ],
+  "born": "12-12",
+  "keyAlbums": [
+   [
+    "In the Wee Small Hours",
+    1955
+   ],
+   [
+    "Songs for Swingin' Lovers!",
+    1956
+   ],
+   [
+    "Only the Lonely",
+    1958
+   ],
+   [
+    "September of My Years",
+    1965
+   ]
+  ],
+  "songs": [
+   "My Way",
+   "Fly Me to the Moon",
+   "I've Got You Under My Skin",
+   "Summer Wind",
+   "New York, New York"
+  ],
+  "influencedBy": [
+   {
+    "id": "bing-crosby",
+    "why": "Sinatra decided to become a singer after seeing Crosby perform, and Crosby was his early model.",
+    "s": 3
+   },
+   {
+    "id": "billie-holiday",
+    "why": "Sinatra called Holiday the greatest single musical influence on his singing, especially her phrasing.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "george-jones",
+    "why": "Country's definitive interpreter of heartbreak, the way Sinatra was for the American songbook."
+   },
+   {
+    "id": "ella-fitzgerald",
+    "why": "The other great interpreter of the Great American Songbook in the same era."
+   }
+  ]
+ },
+ {
+  "id": "the-beach-boys",
+  "years": "1961–present",
+  "origin": "Hawthorne, California",
+  "genres": [
+   "surf rock",
+   "sunshine pop",
+   "baroque pop",
+   "psychedelic pop"
+  ],
+  "summary": "Led by Brian Wilson's writing and production, the Beach Boys went from surf hits to Pet Sounds, one of the most influential albums in pop. Their stacked vocal harmonies remain a reference point for studio pop.",
+  "know": [
+   "The original lineup was brothers Brian, Dennis and Carl Wilson, their cousin Mike Love and friend Al Jardine.",
+   "Pet Sounds (1966) was recorded with Los Angeles session players from the Wrecking Crew.",
+   "Paul McCartney has named 'God Only Knows' as one of his favorite songs."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Today!",
+    1965
+   ],
+   [
+    "Pet Sounds",
+    1966
+   ],
+   [
+    "Smiley Smile",
+    1967
+   ],
+   [
+    "Sunflower",
+    1970
+   ]
+  ],
+  "songs": [
+   "Good Vibrations",
+   "God Only Knows",
+   "Wouldn't It Be Nice",
+   "Surfin' U.S.A.",
+   "California Girls"
+  ],
+  "influencedBy": [
+   {
+    "id": "chuck-berry",
+    "why": "'Surfin' U.S.A.' set new lyrics to Berry's 'Sweet Little Sixteen', and Berry was later given the writing credit.",
+    "s": 3
+   },
+   {
+    "id": "the-ronettes",
+    "why": "Brian Wilson has said he was obsessed with Phil Spector's production of 'Be My Baby' and studied its Wall of Sound.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "Wilson said hearing Rubber Soul pushed him to make a whole album of strong songs, which became Pet Sounds.",
+    "s": 3
+   },
+   {
+    "id": "everly-brothers",
+    "why": "Their close two-part harmony was part of the vocal model the Wilsons built on.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "crosby-stills-nash",
+    "why": "California vocal harmony carried into the folk-rock era."
+   },
+   {
+    "id": "the-byrds",
+    "why": "Jangling West Coast pop built on layered harmonies in the same mid-1960s moment."
+   }
+  ]
+ },
+ {
+  "id": "the-ronettes",
+  "years": "1957–1967",
+  "origin": "New York City, New York",
+  "genres": [
+   "girl group",
+   "Wall of Sound",
+   "Brill Building pop"
+  ],
+  "summary": "Ronnie Spector, her sister Estelle Bennett and cousin Nedra Talley were the toughest-looking girl group of the 1960s. Phil Spector's production of their 'Be My Baby' became a template for pop records.",
+  "know": [
+   "Hal Blaine's drum intro on 'Be My Baby' is one of the most imitated beats in pop.",
+   "The Rolling Stones were their opening act on a 1964 UK tour.",
+   "They opened for the Beatles on the band's 1966 U.S. tour."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Presenting the Fabulous Ronettes Featuring Veronica",
+    1964
+   ]
+  ],
+  "songs": [
+   "Be My Baby",
+   "Baby, I Love You",
+   "Walking in the Rain",
+   "(The Best Part of) Breakin' Up"
+  ],
+  "influencedBy": [],
+  "cousins": [
+   {
+    "id": "blondie",
+    "why": "Debbie Harry's new wave took its look and melodies straight from the girl groups."
+   },
+   {
+    "id": "the-jesus-and-mary-chain",
+    "why": "Noise-pop built on the 'Be My Baby' drum beat and Spector's wall of sound."
+   }
+  ]
+ },
+ {
+  "id": "elton-john",
+  "years": "1962–present",
+  "origin": "Pinner, Middlesex, England",
+  "genres": [
+   "piano rock",
+   "soft rock",
+   "glam rock",
+   "pop rock"
+  ],
+  "summary": "Elton John and lyricist Bernie Taupin wrote one of the longest runs of hit singles of the 1970s. He paired piano-driven rock with flamboyant showmanship.",
+  "know": [
+   "He was born Reginald Dwight and studied at the Royal Academy of Music as a teenager.",
+   "He met Bernie Taupin in 1967 after both answered the same Liberty Records advert.",
+   "'Candle in the Wind 1997' became one of the best-selling singles ever."
+  ],
+  "born": "03-25",
+  "keyAlbums": [
+   [
+    "Elton John",
+    1970
+   ],
+   [
+    "Madman Across the Water",
+    1971
+   ],
+   [
+    "Honky Château",
+    1972
+   ],
+   [
+    "Goodbye Yellow Brick Road",
+    1973
+   ]
+  ],
+  "songs": [
+   "Your Song",
+   "Tiny Dancer",
+   "Rocket Man",
+   "Bennie and the Jets",
+   "Goodbye Yellow Brick Road"
+  ],
+  "influencedBy": [
+   {
+    "id": "little-richard",
+    "why": "Elton has said seeing Little Richard pound the piano made him want to be a rock and roll pianist.",
+    "s": 3
+   },
+   {
+    "id": "jerry-lee-lewis",
+    "why": "His standing-at-the-piano, kick-the-stool stage act draws directly on Lewis.",
+    "s": 2
+   },
+   {
+    "id": "the-band",
+    "why": "Elton and Taupin have said Music from Big Pink shaped the Americana songs of Tumbleweed Connection.",
+    "s": 3
+   },
+   {
+    "id": "ray-charles",
+    "why": "Elton has cited Ray Charles's gospel-rooted piano and voice as an early model.",
+    "s": 2
+   },
+   {
+    "id": "elvis-presley",
+    "why": "Presley's records were among the first rock and roll he heard as a child in the 1950s.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "He recorded 'Lucy in the Sky with Diamonds' with John Lennon and drew on their melodic songwriting.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "queen",
+    "why": "Theatrical, piano-led British rock with a showman at the front."
+   },
+   {
+    "id": "david-bowie",
+    "why": "A fellow 1970s glam star who used costume and persona as part of the act."
+   }
+  ]
+ },
+ {
+  "id": "billy-joel",
+  "years": "1964–present",
+  "origin": "Hicksville, New York",
+  "genres": [
+   "piano rock",
+   "soft rock",
+   "pop rock"
+  ],
+  "summary": "Billy Joel is a piano-playing songwriter whose character-driven songs about New York and Long Island life made him one of the best-selling solo artists in the U.S.",
+  "know": [
+   "'Piano Man' was based on his time playing at a Los Angeles piano bar.",
+   "He boxed as a teenager and broke his nose in the ring.",
+   "He played a monthly residency at Madison Square Garden from 2014 to 2024."
+  ],
+  "born": "05-09",
+  "keyAlbums": [
+   [
+    "Piano Man",
+    1973
+   ],
+   [
+    "The Stranger",
+    1977
+   ],
+   [
+    "52nd Street",
+    1978
+   ],
+   [
+    "Glass Houses",
+    1980
+   ]
+  ],
+  "songs": [
+   "Piano Man",
+   "Just the Way You Are",
+   "Scenes from an Italian Restaurant",
+   "Uptown Girl",
+   "We Didn't Start the Fire"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "Joel has said seeing the Beatles on The Ed Sullivan Show made him decide to be a musician.",
+    "s": 3
+   },
+   {
+    "id": "ray-charles",
+    "why": "He named his daughter Alexa Ray after Ray Charles and has called him a major influence.",
+    "s": 3
+   },
+   {
+    "id": "the-ronettes",
+    "why": "'Say Goodbye to Hollywood' was written as an homage to Ronnie Spector and the 'Be My Baby' sound, and she later recorded it.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bruce-springsteen",
+    "why": "East Coast storyteller writing about working people and their towns."
+   },
+   {
+    "id": "james-taylor",
+    "why": "Fellow 1970s singer-songwriter with a long run of radio staples."
+   }
+  ]
+ },
+ {
+  "id": "carole-king",
+  "years": "1958–present",
+  "origin": "New York City, New York",
+  "genres": [
+   "singer-songwriter",
+   "Brill Building pop",
+   "soft rock"
+  ],
+  "summary": "Carole King wrote dozens of 1960s hits with Gerry Goffin before her album Tapestry made her the defining singer-songwriter of the early 1970s.",
+  "know": [
+   "With Goffin she wrote 'Will You Love Me Tomorrow' for the Shirelles and '(You Make Me Feel Like) A Natural Woman' for Aretha Franklin.",
+   "Tapestry (1971) spent 15 weeks at No. 1 on the Billboard 200.",
+   "She has been inducted into the Rock and Roll Hall of Fame twice, as a songwriter and as a performer."
+  ],
+  "born": "02-09",
+  "keyAlbums": [
+   [
+    "Writer",
+    1970
+   ],
+   [
+    "Tapestry",
+    1971
+   ],
+   [
+    "Music",
+    1971
+   ],
+   [
+    "Rhymes & Reasons",
+    1972
+   ]
+  ],
+  "songs": [
+   "It's Too Late",
+   "I Feel the Earth Move",
+   "So Far Away",
+   "You've Got a Friend",
+   "(You Make Me Feel Like) A Natural Woman"
+  ],
+  "influencedBy": [
+   {
+    "id": "james-taylor",
+    "why": "Taylor encouraged her to perform her own songs, and she played piano in his band before Tapestry.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "joni-mitchell",
+    "why": "The other defining woman singer-songwriter of the early 1970s Laurel Canyon scene."
+   },
+   {
+    "id": "willie-nelson",
+    "why": "Wrote hits for other singers before becoming a star with his own records."
+   }
+  ]
+ },
+ {
+  "id": "abba",
+  "years": "1972–1982, 2016–present",
+  "origin": "Stockholm, Sweden",
+  "genres": [
+   "Europop",
+   "disco",
+   "Swedish pop"
+  ],
+  "summary": "The Swedish quartet won Eurovision in 1974 with 'Waterloo' and became one of the best-selling acts in pop history. Benny Andersson and Björn Ulvaeus wrote precise, often melancholy songs that still fill dance floors.",
+  "know": [
+   "The name is an acronym of the members' first names: Agnetha, Björn, Benny and Anni-Frid.",
+   "The stage musical Mamma Mia! is built entirely from their songs.",
+   "Their 2021 album Voyage came 40 years after their previous one."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Arrival",
+    1976
+   ],
+   [
+    "ABBA: The Album",
+    1977
+   ],
+   [
+    "Voulez-Vous",
+    1979
+   ],
+   [
+    "Super Trouper",
+    1980
+   ]
+  ],
+  "songs": [
+   "Dancing Queen",
+   "Waterloo",
+   "Mamma Mia",
+   "The Winner Takes It All",
+   "Knowing Me, Knowing You"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "Björn and Benny have said the Beatles were their biggest songwriting influence.",
+    "s": 3
+   },
+   {
+    "id": "the-beach-boys",
+    "why": "Benny has cited Brian Wilson's harmonies and arrangements as a model.",
+    "s": 2
+   },
+   {
+    "id": "the-ronettes",
+    "why": "Their early records used Phil Spector-style layered production associated with the Ronettes.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "fleetwood-mac",
+    "why": "A 1970s hit machine also made up of two couples whose breakups fed the songs."
+   },
+   {
+    "id": "electric-light-orchestra",
+    "why": "Lush, meticulously produced 1970s pop with big hooks."
+   }
+  ]
+ },
+ {
+  "id": "bee-gees",
+  "years": "1958–2012",
+  "origin": "Redcliffe, Queensland, Australia",
+  "genres": [
+   "disco",
+   "soft rock",
+   "baroque pop",
+   "blue-eyed soul"
+  ],
+  "summary": "Brothers Barry, Robin and Maurice Gibb had hits across five decades, from 1960s baroque ballads to the falsetto disco of the Saturday Night Fever soundtrack.",
+  "know": [
+   "The Saturday Night Fever soundtrack (1977) became one of the best-selling albums of all time.",
+   "Producer Arif Mardin encouraged Barry Gibb to try the falsetto that became their disco signature.",
+   "They wrote 'Islands in the Stream' for Kenny Rogers and Dolly Parton."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Bee Gees' 1st",
+    1967
+   ],
+   [
+    "Main Course",
+    1975
+   ],
+   [
+    "Saturday Night Fever",
+    1977
+   ],
+   [
+    "Spirits Having Flown",
+    1979
+   ]
+  ],
+  "songs": [
+   "Stayin' Alive",
+   "How Deep Is Your Love",
+   "Night Fever",
+   "To Love Somebody",
+   "Massachusetts"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "The brothers have said the Beatles shaped their 1960s songwriting and harmonies.",
+    "s": 3
+   },
+   {
+    "id": "everly-brothers",
+    "why": "The Gibbs cited the Everlys as the model for their sibling harmony.",
+    "s": 3
+   },
+   {
+    "id": "otis-redding",
+    "why": "Barry Gibb wrote 'To Love Somebody' with Otis Redding in mind, reflecting their love of Southern soul.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "giorgio-moroder",
+    "why": "Another architect of the late-1970s disco sound."
+   },
+   {
+    "id": "chic",
+    "why": "Disco hitmakers who were also first-rate songwriters and players."
+   }
+  ]
+ },
+ {
+  "id": "kate-bush",
+  "years": "1978–present",
+  "origin": "Bexleyheath, Kent, England",
+  "genres": [
+   "art pop",
+   "baroque pop",
+   "progressive pop"
+  ],
+  "summary": "Kate Bush is an English art-pop singer, writer and producer whose theatrical, literary songs made her one of the most singular voices in British music.",
+  "know": [
+   "'Wuthering Heights' made her the first woman to top the UK chart with a self-written song.",
+   "David Gilmour of Pink Floyd paid for her early demo recordings.",
+   "'Running Up That Hill' returned to the charts in 2022 after it was used in Stranger Things."
+  ],
+  "born": "07-30",
+  "keyAlbums": [
+   [
+    "The Kick Inside",
+    1978
+   ],
+   [
+    "Never for Ever",
+    1980
+   ],
+   [
+    "Hounds of Love",
+    1985
+   ],
+   [
+    "Aerial",
+    2005
+   ]
+  ],
+  "songs": [
+   "Wuthering Heights",
+   "Running Up That Hill (A Deal with God)",
+   "Babooshka",
+   "Cloudbusting",
+   "This Woman's Work"
+  ],
+  "influencedBy": [
+   {
+    "id": "pink-floyd",
+    "why": "David Gilmour discovered her as a teenager and funded the demos that got her signed.",
+    "s": 3
+   },
+   {
+    "id": "elton-john",
+    "why": "Bush has named Elton as an early hero and recorded a cover of 'Rocket Man' in 1991.",
+    "s": 3
+   },
+   {
+    "id": "david-bowie",
+    "why": "She has cited Bowie as a major influence on her theatrical approach to pop.",
+    "s": 3
+   },
+   {
+    "id": "roxy-music",
+    "why": "She has named Roxy Music among the bands she loved as a teenager.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "Their studio experimentation is a clear model for her self-produced albums.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bjork",
+    "why": "An idiosyncratic singer-producer building whole sonic worlds around her voice."
+   },
+   {
+    "id": "joni-mitchell",
+    "why": "A fiercely independent writer who kept stretching what a pop song could be."
+   },
+   {
+    "id": "pj-harvey",
+    "why": "An English artist whose albums are full of characters, myth and theatre."
+   }
+  ]
+ },
+ {
+  "id": "michael-jackson",
+  "years": "1964–2009",
+  "origin": "Gary, Indiana",
+  "genres": [
+   "dance-pop",
+   "post-disco",
+   "pop soul",
+   "new jack swing"
+  ],
+  "summary": "Michael Jackson went from child lead singer of the Jackson 5 to the biggest pop star of the 1980s. Thriller is still regarded as the best-selling album of all time.",
+  "know": [
+   "Thriller won a record eight Grammy Awards in a single night in 1984.",
+   "He first performed the moonwalk on television during 'Billie Jean' at Motown 25 in 1983.",
+   "His videos for 'Billie Jean' and 'Beat It' helped break MTV's color barrier."
+  ],
+  "born": "08-29",
+  "keyAlbums": [
+   [
+    "Off the Wall",
+    1979
+   ],
+   [
+    "Thriller",
+    1982
+   ],
+   [
+    "Bad",
+    1987
+   ],
+   [
+    "Dangerous",
+    1991
+   ]
+  ],
+  "songs": [
+   "Billie Jean",
+   "Beat It",
+   "Don't Stop 'Til You Get Enough",
+   "Rock with You",
+   "Man in the Mirror"
+  ],
+  "influencedBy": [
+   {
+    "id": "james-brown",
+    "why": "Jackson named James Brown his greatest influence and copied his footwork and spins as a child.",
+    "s": 3
+   },
+   {
+    "id": "the-supremes",
+    "why": "Diana Ross was his Motown mentor, and he openly modeled parts of his singing and stage presence on her.",
+    "s": 3
+   },
+   {
+    "id": "stevie-wonder",
+    "why": "A Motown mentor and fellow child star who wrote 'I Can't Help It' for Off the Wall.",
+    "s": 3
+   },
+   {
+    "id": "smokey-robinson",
+    "why": "The Jackson 5 auditioned for Motown with Smokey's 'Who's Lovin' You', and Michael studied his phrasing.",
+    "s": 3
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "The early Jackson 5 sound was built by Motown on Sly's funk-pop model, and Michael later bought Sly's publishing.",
+    "s": 2
+   },
+   {
+    "id": "the-temptations",
+    "why": "The Jacksons modeled their choreography and group vocals on Motown's leading male group.",
+    "s": 2
+   },
+   {
+    "id": "sam-cooke",
+    "why": "Jackson cited Cooke's smooth tenor among the singers he studied.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "He admired Lennon and McCartney's songwriting, recorded with McCartney and bought their catalog.",
+    "s": 1
+   },
+   {
+    "id": "marvin-gaye",
+    "why": "His socially aware later songs follow the path What's Going On opened at Motown.",
+    "s": 1
+   },
+   {
+    "id": "earth-wind-fire",
+    "why": "The horn-driven disco-funk of Off the Wall sits squarely in Earth, Wind & Fire's lane.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "elvis-presley",
+    "why": "The other singer-dancer who became the defining pop icon of his era."
+   },
+   {
+    "id": "bob-marley",
+    "why": "A musician who became a worldwide symbol far beyond his genre."
+   }
+  ]
+ },
+ {
+  "id": "madonna",
+  "years": "1982–present",
+  "origin": "Bay City, Michigan",
+  "genres": [
+   "dance-pop",
+   "post-disco",
+   "electropop"
+  ],
+  "summary": "Madonna built a career on constant reinvention, using club music, videos and provocation to become the best-selling female recording artist of all time.",
+  "know": [
+   "She moved to New York in 1978 with little money to study dance.",
+   "Pepsi canceled her sponsorship deal in 1989 over the 'Like a Prayer' video.",
+   "Ray of Light (1998), made with William Orbit, won the Grammy for Best Pop Album."
+  ],
+  "born": "08-16",
+  "keyAlbums": [
+   [
+    "Madonna",
+    1983
+   ],
+   [
+    "Like a Virgin",
+    1984
+   ],
+   [
+    "Like a Prayer",
+    1989
+   ],
+   [
+    "Ray of Light",
+    1998
+   ]
+  ],
+  "songs": [
+   "Like a Prayer",
+   "Vogue",
+   "Into the Groove",
+   "Like a Virgin",
+   "Material Girl"
+  ],
+  "influencedBy": [
+   {
+    "id": "david-bowie",
+    "why": "Madonna has said her first concert, a Bowie show in Detroit, changed her life and showed her pop as theatre.",
+    "s": 3
+   },
+   {
+    "id": "blondie",
+    "why": "She has cited Debbie Harry as proof that a woman could front downtown New York pop on her own terms.",
+    "s": 3
+   },
+   {
+    "id": "joni-mitchell",
+    "why": "Madonna has said she worshipped Joni Mitchell as a teenager, especially Court and Spark.",
+    "s": 3
+   },
+   {
+    "id": "chic",
+    "why": "Nile Rodgers produced Like a Virgin and brought Chic's dance-floor discipline to her sound.",
+    "s": 3
+   },
+   {
+    "id": "the-supremes",
+    "why": "She has named Diana Ross and Motown girl groups among her earliest pop models.",
+    "s": 2
+   },
+   {
+    "id": "donna-summer",
+    "why": "Her early club records follow the path Summer's disco hits opened for female dance stars.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bjork",
+    "why": "A restless reinventor who treats each album as a new visual and sonic identity."
+   },
+   {
+    "id": "new-order",
+    "why": "Club-rooted 1980s music that crossed from the dance floor to the charts."
+   }
+  ]
+ },
+ {
+  "id": "whitney-houston",
+  "years": "1977–2012",
+  "origin": "Newark, New Jersey",
+  "genres": [
+   "pop soul",
+   "adult contemporary",
+   "contemporary R&B"
+  ],
+  "summary": "Whitney Houston's gospel-trained voice made her one of the most awarded artists of the 1980s and 1990s and set the standard for the pop power ballad.",
+  "know": [
+   "Her mother is gospel singer Cissy Houston and Dionne Warwick is her cousin.",
+   "She had seven consecutive U.S. No. 1 singles from 1985 to 1988, a record.",
+   "The Bodyguard soundtrack (1992) is one of the best-selling albums of all time."
+  ],
+  "born": "08-09",
+  "keyAlbums": [
+   [
+    "Whitney Houston",
+    1985
+   ],
+   [
+    "Whitney",
+    1987
+   ],
+   [
+    "I'm Your Baby Tonight",
+    1990
+   ],
+   [
+    "The Bodyguard",
+    1992
+   ]
+  ],
+  "songs": [
+   "I Will Always Love You",
+   "I Wanna Dance with Somebody (Who Loves Me)",
+   "Greatest Love of All",
+   "How Will I Know",
+   "I'm Every Woman"
+  ],
+  "influencedBy": [
+   {
+    "id": "aretha-franklin",
+    "why": "A close family friend whom Houston called a key influence on her gospel-to-pop singing.",
+    "s": 3
+   },
+   {
+    "id": "dolly-parton",
+    "why": "Her biggest hit was a cover of Parton's 'I Will Always Love You', and Parton kept the writing credit.",
+    "s": 3
+   },
+   {
+    "id": "the-supremes",
+    "why": "Houston named Diana Ross as an early role model for a Black woman crossing over into pop stardom.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "patsy-cline",
+    "why": "A big, controlled voice that defined the ballad in country music."
+   },
+   {
+    "id": "mahalia-jackson",
+    "why": "The gospel powerhouse whose church style shaped soul singing."
+   }
+  ]
+ },
+ {
+  "id": "janet-jackson",
+  "years": "1982–present",
+  "origin": "Gary, Indiana",
+  "genres": [
+   "dance-pop",
+   "new jack swing",
+   "contemporary R&B",
+   "funk-pop"
+  ],
+  "summary": "The youngest Jackson sibling broke out with producers Jimmy Jam and Terry Lewis on Control and Rhythm Nation 1814, setting the template for choreographed, beat-driven R&B pop.",
+  "know": [
+   "Rhythm Nation 1814 is the only album to produce No. 1 Hot 100 hits in three separate calendar years.",
+   "As a child she acted on Good Times and Diff'rent Strokes.",
+   "Control (1986) was made in Minneapolis with former members of Prince's side band the Time."
+  ],
+  "born": "05-16",
+  "keyAlbums": [
+   [
+    "Control",
+    1986
+   ],
+   [
+    "Rhythm Nation 1814",
+    1989
+   ],
+   [
+    "janet.",
+    1993
+   ],
+   [
+    "The Velvet Rope",
+    1997
+   ]
+  ],
+  "songs": [
+   "Nasty",
+   "Rhythm Nation",
+   "That's the Way Love Goes",
+   "Together Again",
+   "All for You"
+  ],
+  "influencedBy": [
+   {
+    "id": "michael-jackson",
+    "why": "Her older brother's work set the bar for the video and dance-driven pop she built on.",
+    "s": 3
+   },
+   {
+    "id": "the-jackson-5",
+    "why": "She grew up around the family act and performed with her siblings as a child.",
+    "s": 2
+   },
+   {
+    "id": "prince",
+    "why": "Jam and Lewis brought the Minneapolis funk sound they learned in Prince's orbit to her records.",
+    "s": 2
+   },
+   {
+    "id": "joni-mitchell",
+    "why": "'Got 'til It's Gone' samples Mitchell's 'Big Yellow Taxi' with Mitchell's approval and credit.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "missy-elliott",
+    "why": "A dance-video innovator who made beat-driven music with striking choreography."
+   },
+   {
+    "id": "depeche-mode",
+    "why": "1980s electronic records with hard, programmed rhythms and dark undertones."
+   }
+  ]
+ },
+ {
+  "id": "george-michael",
+  "years": "1981–2016",
+  "origin": "London, England",
+  "genres": [
+   "blue-eyed soul",
+   "dance-pop",
+   "sophisti-pop"
+  ],
+  "summary": "George Michael wrote and produced Wham!'s hits and then made Faith, becoming one of the most gifted soul-influenced pop songwriters of the 1980s.",
+  "know": [
+   "Faith (1987) won the Grammy for Album of the Year.",
+   "He wrote 'Careless Whisper' when he was 17.",
+   "Faith made him the first white solo artist to top Billboard's Black albums chart."
+  ],
+  "born": "06-25",
+  "keyAlbums": [
+   [
+    "Make It Big",
+    1984
+   ],
+   [
+    "Faith",
+    1987
+   ],
+   [
+    "Listen Without Prejudice Vol. 1",
+    1990
+   ],
+   [
+    "Older",
+    1996
+   ]
+  ],
+  "songs": [
+   "Faith",
+   "Careless Whisper",
+   "Father Figure",
+   "Freedom! '90",
+   "Last Christmas"
+  ],
+  "influencedBy": [
+   {
+    "id": "elton-john",
+    "why": "His teenage idol, with whom he later dueted on 'Don't Let the Sun Go Down on Me'.",
+    "s": 3
+   },
+   {
+    "id": "stevie-wonder",
+    "why": "Michael frequently named Stevie Wonder as a primary influence and covered his songs live.",
+    "s": 3
+   },
+   {
+    "id": "aretha-franklin",
+    "why": "He idolized Franklin and recorded the No. 1 duet 'I Knew You Were Waiting (For Me)' with her.",
+    "s": 3
+   },
+   {
+    "id": "queen",
+    "why": "He cited Freddie Mercury as an influence and sang 'Somebody to Love' at the Mercury tribute concert.",
+    "s": 3
+   },
+   {
+    "id": "david-bowie",
+    "why": "Bowie's genre-crossing 1970s records were part of his musical upbringing.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-police",
+    "why": "Polished British pop of the 1980s that drew on Black music."
+   },
+   {
+    "id": "steely-dan",
+    "why": "Sophisticated, jazz-tinged songcraft with obsessive studio polish."
+   }
+  ]
+ },
+ {
+  "id": "britney-spears",
+  "years": "1998–present",
+  "origin": "Kentwood, Louisiana",
+  "genres": [
+   "teen pop",
+   "dance-pop",
+   "electropop"
+  ],
+  "summary": "Britney Spears led the late-1990s teen-pop boom with '...Baby One More Time' and later pushed mainstream pop toward hard electronic production on Blackout.",
+  "know": [
+   "She was a cast member of The All-New Mickey Mouse Club alongside Justin Timberlake and Christina Aguilera.",
+   "'...Baby One More Time' was written by Max Martin.",
+   "'Toxic' won her first Grammy, for Best Dance Recording."
+  ],
+  "born": "12-02",
+  "keyAlbums": [
+   [
+    "...Baby One More Time",
+    1999
+   ],
+   [
+    "Oops!... I Did It Again",
+    2000
+   ],
+   [
+    "In the Zone",
+    2003
+   ],
+   [
+    "Blackout",
+    2007
+   ]
+  ],
+  "songs": [
+   "...Baby One More Time",
+   "Toxic",
+   "Oops!... I Did It Again",
+   "Womanizer",
+   "Gimme More"
+  ],
+  "influencedBy": [
+   {
+    "id": "madonna",
+    "why": "Spears has called Madonna her biggest inspiration, and they recorded 'Me Against the Music' together.",
+    "s": 3
+   },
+   {
+    "id": "janet-jackson",
+    "why": "She cited Janet Jackson's dance-driven pop and choreography as a model.",
+    "s": 3
+   },
+   {
+    "id": "michael-jackson",
+    "why": "She has named Michael Jackson as an early idol for performing and dancing.",
+    "s": 3
+   },
+   {
+    "id": "whitney-houston",
+    "why": "She grew up singing Whitney Houston songs and has cited her as an influence.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "shania-twain",
+    "why": "A late-1990s crossover superstar built on polished, hook-heavy production."
+   },
+   {
+    "id": "daddy-yankee",
+    "why": "The dominant club-pop star of his scene in the 2000s."
+   }
+  ]
+ },
+ {
+  "id": "nsync",
+  "years": "1995–2002, 2023",
+  "origin": "Orlando, Florida",
+  "genres": [
+   "teen pop",
+   "boy band",
+   "dance-pop"
+  ],
+  "summary": "The Orlando boy band, with Justin Timberlake and JC Chasez on lead vocals, set sales records at the peak of the late-1990s pop boom.",
+  "know": [
+   "No Strings Attached sold 2.4 million copies in its first week in 2000, a U.S. record that stood for 15 years.",
+   "The group was assembled with manager Lou Pearlman, who also launched the Backstreet Boys.",
+   "They reunited in 2023 to record 'Better Place' for Trolls Band Together."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "*NSYNC",
+    1998
+   ],
+   [
+    "No Strings Attached",
+    2000
+   ],
+   [
+    "Celebrity",
+    2001
+   ]
+  ],
+  "songs": [
+   "Bye Bye Bye",
+   "It's Gonna Be Me",
+   "Tearin' Up My Heart",
+   "Girlfriend",
+   "This I Promise You"
+  ],
+  "influencedBy": [
+   {
+    "id": "michael-jackson",
+    "why": "Their sharp choreography and Timberlake's vocal style borrowed heavily from Michael Jackson.",
+    "s": 2
+   },
+   {
+    "id": "the-jackson-5",
+    "why": "The Jackson 5 were the blueprint for the singing, dancing pop vocal group.",
+    "s": 1
+   },
+   {
+    "id": "the-temptations",
+    "why": "The synchronized-steps vocal group tradition runs back to Motown's Temptations.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-beatles",
+    "why": "The original screaming-fans pop group phenomenon."
+   },
+   {
+    "id": "destinys-child",
+    "why": "The leading vocal group of the same era, from the R&B side."
+   }
+  ]
+ },
+ {
+  "id": "taylor-swift",
+  "years": "2006–present",
+  "origin": "West Reading, Pennsylvania",
+  "genres": [
+   "country pop",
+   "synth-pop",
+   "folk-pop",
+   "pop rock"
+  ],
+  "summary": "Taylor Swift moved from Nashville country to stadium pop and indie folk while keeping a confessional, detail-heavy style of songwriting, and became the biggest-selling artist of her generation.",
+  "know": [
+   "She is the only artist to win the Grammy for Album of the Year four times.",
+   "She began re-recording her early albums in 2021 and bought back her original masters in 2025.",
+   "The Eras Tour (2023 to 2024) became the highest-grossing concert tour ever."
+  ],
+  "born": "12-13",
+  "keyAlbums": [
+   [
+    "Fearless",
+    2008
+   ],
+   [
+    "Red",
+    2012
+   ],
+   [
+    "1989",
+    2014
+   ],
+   [
+    "Folklore",
+    2020
+   ]
+  ],
+  "songs": [
+   "Love Story",
+   "All Too Well",
+   "Shake It Off",
+   "Blank Space",
+   "Cruel Summer"
+  ],
+  "influencedBy": [
+   {
+    "id": "shania-twain",
+    "why": "Swift has repeatedly named Shania Twain as a major early influence on her country-pop crossover.",
+    "s": 3
+   },
+   {
+    "id": "the-chicks",
+    "why": "She has cited the Dixie Chicks as a key influence on her early country songwriting.",
+    "s": 3
+   },
+   {
+    "id": "joni-mitchell",
+    "why": "Swift has named Mitchell's Blue as a favorite album and a model for confessional writing.",
+    "s": 3
+   },
+   {
+    "id": "carole-king",
+    "why": "Swift gave King's Rock and Roll Hall of Fame induction speech in 2021, calling her a role model.",
+    "s": 3
+   },
+   {
+    "id": "the-national",
+    "why": "Swift made Folklore and Evermore with Aaron Dessner because she was a fan of the National's sound.",
+    "s": 3
+   },
+   {
+    "id": "dolly-parton",
+    "why": "She has cited Parton as an inspiration for running a career as a songwriter and businesswoman.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "phoebe-bridgers",
+    "why": "Confessional, detail-packed songwriting with a devoted fan base."
+   },
+   {
+    "id": "kacey-musgraves",
+    "why": "A country songwriter who crossed into pop on her own terms."
+   },
+   {
+    "id": "bruce-springsteen",
+    "why": "A stadium act whose fans treat the songs like autobiography."
+   }
+  ]
+ },
+ {
+  "id": "justin-timberlake",
+  "years": "2002–present",
+  "origin": "Memphis, Tennessee",
+  "genres": [
+   "dance-pop",
+   "contemporary R&B",
+   "pop soul"
+  ],
+  "summary": "After *NSYNC, Justin Timberlake partnered with the Neptunes and Timbaland to make R&B-leaning solo pop that defined mid-2000s radio.",
+  "know": [
+   "He was a Mouseketeer on The All-New Mickey Mouse Club as a child.",
+   "FutureSex/LoveSounds (2006) was co-produced with Timbaland.",
+   "'Can't Stop the Feeling!' was nominated for an Academy Award."
+  ],
+  "born": "01-31",
+  "keyAlbums": [
+   [
+    "Justified",
+    2002
+   ],
+   [
+    "FutureSex/LoveSounds",
+    2006
+   ],
+   [
+    "The 20/20 Experience",
+    2013
+   ]
+  ],
+  "songs": [
+   "Cry Me a River",
+   "SexyBack",
+   "Rock Your Body",
+   "Mirrors",
+   "Can't Stop the Feeling!"
+  ],
+  "influencedBy": [
+   {
+    "id": "michael-jackson",
+    "why": "Timberlake has named Jackson his biggest influence, and 'Rock Your Body' was first written with Jackson in mind.",
+    "s": 3
+   },
+   {
+    "id": "stevie-wonder",
+    "why": "He has cited Stevie Wonder as a key influence on his singing and songwriting.",
+    "s": 3
+   },
+   {
+    "id": "prince",
+    "why": "FutureSex/LoveSounds borrows Prince's falsetto funk and sexual swagger.",
+    "s": 2
+   },
+   {
+    "id": "marvin-gaye",
+    "why": "He has named Marvin Gaye among the soul singers he grew up on in Memphis.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "daft-punk",
+    "why": "Glossy, groove-first dance music made for radio and clubs."
+   },
+   {
+    "id": "outkast",
+    "why": "Southern hip-hop stars who made funk-pop hits of the same era."
+   }
+  ]
+ },
+ {
+  "id": "lady-gaga",
+  "years": "2007–present",
+  "origin": "New York City, New York",
+  "genres": [
+   "electropop",
+   "dance-pop",
+   "art pop"
+  ],
+  "summary": "Lady Gaga broke through with The Fame's electropop hits and theatrical image, then showed her range with jazz standards and the A Star Is Born soundtrack.",
+  "know": [
+   "She attended NYU's Tisch School of the Arts before leaving to pursue music.",
+   "She won an Academy Award for co-writing 'Shallow'.",
+   "She recorded two albums of jazz standards with Tony Bennett."
+  ],
+  "born": "03-28",
+  "keyAlbums": [
+   [
+    "The Fame",
+    2008
+   ],
+   [
+    "The Fame Monster",
+    2009
+   ],
+   [
+    "Born This Way",
+    2011
+   ],
+   [
+    "Chromatica",
+    2020
+   ]
+  ],
+  "songs": [
+   "Poker Face",
+   "Bad Romance",
+   "Just Dance",
+   "Shallow",
+   "Born This Way"
+  ],
+  "influencedBy": [
+   {
+    "id": "queen",
+    "why": "Her stage name comes from Queen's 'Radio Ga Ga', and she has cited Freddie Mercury's showmanship.",
+    "s": 3
+   },
+   {
+    "id": "david-bowie",
+    "why": "Gaga has called Bowie a lifelong influence and performed a tribute medley at the 2016 Grammys.",
+    "s": 3
+   },
+   {
+    "id": "madonna",
+    "why": "She has cited Madonna as an inspiration for using pop as provocative performance art.",
+    "s": 3
+   },
+   {
+    "id": "elton-john",
+    "why": "A friend and mentor whose piano-led theatrics she has cited as an influence.",
+    "s": 3
+   },
+   {
+    "id": "michael-jackson",
+    "why": "She has named Jackson as a formative influence on her dance-pop and stagecraft.",
+    "s": 3
+   },
+   {
+    "id": "bruce-springsteen",
+    "why": "Born This Way drew on Springsteen-style rock, with Clarence Clemons playing sax on 'The Edge of Glory'.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "kiss",
+    "why": "A rock act where costume, makeup and spectacle are central to the music."
+   },
+   {
+    "id": "bjork",
+    "why": "An experimental pop artist who treats fashion and visuals as part of the work."
+   }
+  ]
+ },
+ {
+  "id": "rihanna",
+  "years": "2005–present",
+  "origin": "Saint Michael, Barbados",
+  "genres": [
+   "dance-pop",
+   "contemporary R&B",
+   "dancehall pop"
+  ],
+  "summary": "Barbadian singer Rihanna moved from Caribbean-flavored debut singles to hits like 'Umbrella' and 'We Found Love', becoming one of the best-selling artists of the 2000s and 2010s.",
+  "know": [
+   "She was discovered by producer Evan Rogers in Barbados and signed to Def Jam by Jay-Z.",
+   "'Umbrella' featuring Jay-Z won the Grammy for Best Rap/Sung Collaboration.",
+   "She launched the Fenty Beauty cosmetics line in 2017."
+  ],
+  "born": "02-20",
+  "keyAlbums": [
+   [
+    "Good Girl Gone Bad",
+    2007
+   ],
+   [
+    "Rated R",
+    2009
+   ],
+   [
+    "Loud",
+    2010
+   ],
+   [
+    "Anti",
+    2016
+   ]
+  ],
+  "songs": [
+   "Umbrella",
+   "We Found Love",
+   "Only Girl (In the World)",
+   "Diamonds",
+   "Work"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-marley",
+    "why": "Rihanna has named Bob Marley as her biggest musical influence growing up in Barbados.",
+    "s": 3
+   },
+   {
+    "id": "madonna",
+    "why": "She has cited Madonna's reinventions as a model for her own changing image.",
+    "s": 3
+   },
+   {
+    "id": "jay-z",
+    "why": "Jay-Z signed her to Def Jam and mentored her early career.",
+    "s": 3
+   },
+   {
+    "id": "janet-jackson",
+    "why": "She has named Janet Jackson as a performer she studied.",
+    "s": 2
+   },
+   {
+    "id": "tame-impala",
+    "why": "Anti includes her cover of Tame Impala's 'New Person, Same Old Mistakes' with Kevin Parker credited.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "daddy-yankee",
+    "why": "A Caribbean-rooted star who took island rhythms to global pop charts."
+   },
+   {
+    "id": "burna-boy",
+    "why": "A global star who mixes Afro-diasporic rhythms with pop and R&B."
+   }
+  ]
+ },
+ {
+  "id": "adele",
+  "years": "2006–present",
+  "origin": "Tottenham, London, England",
+  "genres": [
+   "soul-pop",
+   "blue-eyed soul",
+   "adult contemporary"
+  ],
+  "summary": "Adele is an English singer-songwriter whose big-voiced breakup ballads, especially on the album 21, sold on a scale few records of the streaming era have matched.",
+  "know": [
+   "She graduated from the BRIT School in 2006.",
+   "Both 21 and 25 won the Grammy for Album of the Year.",
+   "Her song 'Skyfall' won the Academy Award for Best Original Song."
+  ],
+  "born": "05-05",
+  "keyAlbums": [
+   [
+    "19",
+    2008
+   ],
+   [
+    "21",
+    2011
+   ],
+   [
+    "25",
+    2015
+   ],
+   [
+    "30",
+    2021
+   ]
+  ],
+  "songs": [
+   "Rolling in the Deep",
+   "Someone Like You",
+   "Hello",
+   "Chasing Pavements",
+   "Easy on Me"
+  ],
+  "influencedBy": [
+   {
+    "id": "etta-james",
+    "why": "Adele has said finding an Etta James record as a teenager changed how she wanted to sing.",
+    "s": 3
+   },
+   {
+    "id": "ella-fitzgerald",
+    "why": "She has said discovering Ella Fitzgerald alongside Etta James in a record shop opened up jazz and soul for her.",
+    "s": 3
+   },
+   {
+    "id": "amy-winehouse",
+    "why": "Adele has said Amy Winehouse inspired her to take singing seriously and pick up a guitar.",
+    "s": 3
+   },
+   {
+    "id": "lauryn-hill",
+    "why": "She has named The Miseducation of Lauryn Hill as a formative album.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Her cover of Dylan's 'Make You Feel My Love' became one of her signature performances.",
+    "s": 3
+   },
+   {
+    "id": "the-cure",
+    "why": "She recorded a credited cover of the Cure's 'Lovesong' on 21 and has called the band a favorite.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "chris-stapleton",
+    "why": "A big, soulful voice selling emotion straight with minimal fuss."
+   },
+   {
+    "id": "norah-jones",
+    "why": "A singer whose soft, adult-oriented records became massive crossover sellers."
+   },
+   {
+    "id": "jeff-buckley",
+    "why": "A singer whose ballads are built entirely around vocal power and feeling."
+   }
+  ]
+ },
+ {
+  "id": "robyn",
+  "years": "1994–present",
+  "origin": "Stockholm, Sweden",
+  "genres": [
+   "electropop",
+   "dance-pop",
+   "synth-pop"
+  ],
+  "summary": "Swedish singer Robyn had late-1990s U.S. hits as a teenager, then started her own label and made emotionally direct electropop that became a model for independent pop.",
+  "know": [
+   "Her 1997 single 'Show Me Love' reached the U.S. top 10.",
+   "She founded her own label, Konichiwa Records, in 2005.",
+   "'Dancing On My Own' (2010) became her signature song and a template for 'sad banger' pop."
+  ],
+  "born": "06-12",
+  "keyAlbums": [
+   [
+    "Robyn",
+    2005
+   ],
+   [
+    "Body Talk",
+    2010
+   ],
+   [
+    "Honey",
+    2018
+   ]
+  ],
+  "songs": [
+   "Dancing On My Own",
+   "Call Your Girlfriend",
+   "With Every Heartbeat",
+   "Show Me Love",
+   "Be Mine!"
+  ],
+  "influencedBy": [
+   {
+    "id": "madonna",
+    "why": "Her dance-floor pop with a strong personal point of view follows Madonna's path.",
+    "s": 1
+   },
+   {
+    "id": "abba",
+    "why": "She comes out of the same Swedish melodic pop tradition that ABBA put on the map.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "lcd-soundsystem",
+    "why": "Dance music that is openly melancholy and emotionally raw."
+   },
+   {
+    "id": "new-order",
+    "why": "Danceable synth records with sad lyrics underneath."
+   }
+  ]
+ },
+ {
+  "id": "beyonce",
+  "years": "1997–present",
+  "origin": "Houston, Texas",
+  "genres": [
+   "contemporary R&B",
+   "dance-pop",
+   "art pop"
+  ],
+  "summary": "Beyoncé went from leading Destiny's Child to a solo career built on visual albums like Lemonade and genre surveys like Renaissance and Cowboy Carter. She is the most Grammy-awarded artist in history.",
+  "know": [
+   "She has won more Grammy Awards than any other artist.",
+   "Cowboy Carter won the Grammy for Album of the Year in 2025.",
+   "Lemonade (2016) was released alongside a feature-length film."
+  ],
+  "born": "09-04",
+  "keyAlbums": [
+   [
+    "Dangerously in Love",
+    2003
+   ],
+   [
+    "Beyoncé",
+    2013
+   ],
+   [
+    "Lemonade",
+    2016
+   ],
+   [
+    "Renaissance",
+    2022
+   ]
+  ],
+  "songs": [
+   "Crazy in Love",
+   "Single Ladies (Put a Ring on It)",
+   "Formation",
+   "Halo",
+   "Break My Soul"
+  ],
+  "influencedBy": [
+   {
+    "id": "michael-jackson",
+    "why": "Beyoncé has said seeing Michael Jackson in concert as a child made her want to perform.",
+    "s": 3
+   },
+   {
+    "id": "janet-jackson",
+    "why": "She has named Janet Jackson as a key model for dance-driven R&B and choreography.",
+    "s": 3
+   },
+   {
+    "id": "whitney-houston",
+    "why": "She grew up singing Whitney Houston songs and cites her as a vocal influence.",
+    "s": 3
+   },
+   {
+    "id": "the-supremes",
+    "why": "Diana Ross is a stated idol, and Beyoncé played a Ross-inspired role in Dreamgirls.",
+    "s": 3
+   },
+   {
+    "id": "prince",
+    "why": "She has called Prince an inspiration and opened the 2004 Grammys performing with him.",
+    "s": 3
+   },
+   {
+    "id": "donna-summer",
+    "why": "Renaissance closes with 'Summer Renaissance', built on a credited interpolation of 'I Feel Love'.",
+    "s": 3
+   },
+   {
+    "id": "etta-james",
+    "why": "She played Etta James in Cadillac Records and has sung 'At Last' as a tribute.",
+    "s": 3
+   },
+   {
+    "id": "dolly-parton",
+    "why": "Cowboy Carter includes a reworked cover of Parton's 'Jolene' with Parton appearing on the album.",
+    "s": 3
+   },
+   {
+    "id": "the-beach-boys",
+    "why": "'Ya Ya' on Cowboy Carter interpolates 'Good Vibrations' with credit.",
+    "s": 3
+   },
+   {
+    "id": "madonna",
+    "why": "Madonna's control over image and reinvention is a widely noted model for Beyoncé's career.",
+    "s": 2
+   },
+   {
+    "id": "aretha-franklin",
+    "why": "Franklin's gospel-rooted power is part of the soul tradition Beyoncé draws on.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "kendrick-lamar",
+    "why": "A major artist who makes ambitious, politically charged albums about Black American life."
+   },
+   {
+    "id": "shakira",
+    "why": "A global superstar dancer-singer who mixes regional roots with mainstream pop."
+   }
+  ]
+ },
+ {
+  "id": "lorde",
+  "years": "2013–present",
+  "origin": "Auckland, New Zealand",
+  "genres": [
+   "art pop",
+   "electropop",
+   "indie pop"
+  ],
+  "summary": "New Zealand singer Lorde had a global No. 1 at 16 with 'Royals', and her minimal, observational take on teenage life reshaped mainstream pop in the 2010s.",
+  "know": [
+   "She wrote 'Royals' with producer Joel Little when she was 16.",
+   "'Royals' won the Grammy for Song of the Year.",
+   "Melodrama (2017) was co-produced with Jack Antonoff."
+  ],
+  "born": "11-07",
+  "keyAlbums": [
+   [
+    "Pure Heroine",
+    2013
+   ],
+   [
+    "Melodrama",
+    2017
+   ],
+   [
+    "Solar Power",
+    2021
+   ],
+   [
+    "Virgin",
+    2025
+   ]
+  ],
+  "songs": [
+   "Royals",
+   "Green Light",
+   "Team",
+   "Supercut",
+   "Liability"
+  ],
+  "influencedBy": [
+   {
+    "id": "david-bowie",
+    "why": "Lorde has named Bowie as a hero and was chosen by his band to sing 'Life on Mars?' at the 2016 BRIT Awards tribute.",
+    "s": 2
+   },
+   {
+    "id": "lana-del-rey",
+    "why": "Her early sparse, moody pop followed the template Lana Del Rey's Born to Die set a few years earlier.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-1975",
+    "why": "British band writing about youth and the internet over glossy pop production."
+   },
+   {
+    "id": "phoebe-bridgers",
+    "why": "A songwriter with sharp, wry observations about growing up."
+   }
+  ]
+ },
+ {
+  "id": "billie-eilish",
+  "years": "2015–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "electropop",
+   "dark pop",
+   "bedroom pop"
+  ],
+  "summary": "Billie Eilish and her brother Finneas made her hushed, bass-heavy debut in a bedroom studio and she became one of the defining pop stars of the late 2010s.",
+  "know": [
+   "In 2020 she became the youngest artist and first woman to win all four main Grammy categories in one night.",
+   "Her first song, 'Ocean Eyes', was uploaded to SoundCloud in 2015.",
+   "She has won two Academy Awards, for 'No Time to Die' and 'What Was I Made For?'."
+  ],
+  "born": "12-18",
+  "keyAlbums": [
+   [
+    "When We All Fall Asleep, Where Do We Go?",
+    2019
+   ],
+   [
+    "Happier Than Ever",
+    2021
+   ],
+   [
+    "Hit Me Hard and Soft",
+    2024
+   ]
+  ],
+  "songs": [
+   "bad guy",
+   "Ocean Eyes",
+   "when the party's over",
+   "Happier Than Ever",
+   "Birds of a Feather"
+  ],
+  "influencedBy": [
+   {
+    "id": "lana-del-rey",
+    "why": "Eilish has called Lana Del Rey a major influence on her mood and aesthetic.",
+    "s": 3
+   },
+   {
+    "id": "tyler-the-creator",
+    "why": "She has cited Tyler, the Creator as a big inspiration for doing things her own way.",
+    "s": 3
+   },
+   {
+    "id": "amy-winehouse",
+    "why": "She has named Amy Winehouse among the singers she grew up idolizing.",
+    "s": 3
+   },
+   {
+    "id": "childish-gambino",
+    "why": "She has said Childish Gambino's music shaped her taste and ambitions.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "She grew up on the Beatles and sang 'Yesterday' at the 2020 Oscars.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "portishead",
+    "why": "Hushed vocals over dark, bass-heavy, cinematic production."
+   },
+   {
+    "id": "phoebe-bridgers",
+    "why": "Quiet, confessional songs with a dark sense of humor."
+   }
+  ]
+ },
+ {
+  "id": "dua-lipa",
+  "years": "2015–present",
+  "origin": "London, England",
+  "genres": [
+   "dance-pop",
+   "nu-disco",
+   "synth-pop"
+  ],
+  "summary": "English-Albanian singer Dua Lipa scored early hits with 'New Rules' and then made Future Nostalgia, a disco-revival album that became one of the biggest records of 2020.",
+  "know": [
+   "Her parents are Kosovo Albanians and she lived in Pristina as a young teenager.",
+   "She won Best New Artist at the 2019 Grammys.",
+   "Future Nostalgia won the Grammy for Best Pop Vocal Album."
+  ],
+  "born": "08-22",
+  "keyAlbums": [
+   [
+    "Dua Lipa",
+    2017
+   ],
+   [
+    "Future Nostalgia",
+    2020
+   ],
+   [
+    "Radical Optimism",
+    2024
+   ]
+  ],
+  "songs": [
+   "New Rules",
+   "Don't Start Now",
+   "Levitating",
+   "Physical",
+   "Houdini"
+  ],
+  "influencedBy": [
+   {
+    "id": "madonna",
+    "why": "Lipa has cited Madonna as an influence on Future Nostalgia, and Madonna appeared on a 'Levitating' remix.",
+    "s": 3
+   },
+   {
+    "id": "blondie",
+    "why": "She named Blondie among the acts that inspired Future Nostalgia's retro dance sound.",
+    "s": 2
+   },
+   {
+    "id": "chic",
+    "why": "Future Nostalgia's bass lines and guitar chops follow Chic's disco template.",
+    "s": 1
+   },
+   {
+    "id": "donna-summer",
+    "why": "Her disco revival draws on the sound Summer defined in the late 1970s.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "daft-punk",
+    "why": "Disco-revival dance music with modern gloss."
+   },
+   {
+    "id": "new-order",
+    "why": "Danceable British pop built on driving bass lines."
+   }
+  ]
+ },
+ {
+  "id": "harry-styles",
+  "years": "2010–present",
+  "origin": "Holmes Chapel, Cheshire, England",
+  "genres": [
+   "pop rock",
+   "soft rock",
+   "synth-pop"
+  ],
+  "summary": "Harry Styles came out of One Direction and built a solo career on 1970s-inspired pop rock. Harry's House won the Grammy for Album of the Year.",
+  "know": [
+   "One Direction was formed on The X Factor in 2010.",
+   "Harry's House won the Grammy for Album of the Year in 2023.",
+   "'As It Was' spent 15 weeks at No. 1 on the Billboard Hot 100."
+  ],
+  "born": "02-01",
+  "keyAlbums": [
+   [
+    "Harry Styles",
+    2017
+   ],
+   [
+    "Fine Line",
+    2019
+   ],
+   [
+    "Harry's House",
+    2022
+   ]
+  ],
+  "songs": [
+   "As It Was",
+   "Watermelon Sugar",
+   "Sign of the Times",
+   "Adore You",
+   "Falling"
+  ],
+  "influencedBy": [
+   {
+    "id": "fleetwood-mac",
+    "why": "Styles has called Fleetwood Mac a major influence and has performed with Stevie Nicks.",
+    "s": 3
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "He has cited Mick Jagger and the Stones as influences on his frontman style.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "He has named the Beatles among the records he grew up on.",
+    "s": 3
+   },
+   {
+    "id": "elton-john",
+    "why": "He has named Elton John as a key influence on his flamboyant stage wardrobe and pop craft.",
+    "s": 3
+   },
+   {
+    "id": "shania-twain",
+    "why": "Styles has called Shania Twain a major influence and brought her out at Coachella in 2022.",
+    "s": 3
+   },
+   {
+    "id": "david-bowie",
+    "why": "His gender-fluid fashion and glam leanings are widely traced to Bowie.",
+    "s": 2
+   },
+   {
+    "id": "queen",
+    "why": "His theatrical frontman style is often compared to Freddie Mercury's, whom he has praised.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-1975",
+    "why": "British band blending 1980s and 1970s pop rock with modern production."
+   },
+   {
+    "id": "tame-impala",
+    "why": "Retro-minded, lush, psychedelic pop rock."
+   }
+  ]
+ },
+ {
+  "id": "charli-xcx",
+  "years": "2008–present",
+  "origin": "Cambridge, England",
+  "genres": [
+   "hyperpop",
+   "electropop",
+   "dance-pop"
+  ],
+  "summary": "Charli XCX wrote hits for herself and others before her work with PC Music producers helped define hyperpop. Her 2024 album Brat became a cultural phenomenon.",
+  "know": [
+   "She co-wrote Icona Pop's hit 'I Love It'.",
+   "She started posting songs on Myspace and playing London warehouse raves as a teenager.",
+   "Brat won the Grammy for Best Dance/Electronic Album."
+  ],
+  "born": "08-02",
+  "keyAlbums": [
+   [
+    "True Romance",
+    2013
+   ],
+   [
+    "Sucker",
+    2014
+   ],
+   [
+    "Charli",
+    2019
+   ],
+   [
+    "Brat",
+    2024
+   ]
+  ],
+  "songs": [
+   "Boom Clap",
+   "I Love It",
+   "Vroom Vroom",
+   "360",
+   "Von dutch"
+  ],
+  "influencedBy": [
+   {
+    "id": "britney-spears",
+    "why": "Charli has named Britney Spears as a key early pop idol.",
+    "s": 3
+   },
+   {
+    "id": "robyn",
+    "why": "Her club-rooted, emotionally frank electropop follows the path Robyn opened for independent pop.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-prodigy",
+    "why": "Abrasive, high-energy electronic music made for raves."
+   },
+   {
+    "id": "yeah-yeah-yeahs",
+    "why": "Arty, fashion-forward New York rock with a party edge."
+   }
+  ]
+ },
+ {
+  "id": "lana-del-rey",
+  "years": "2008–present",
+  "origin": "Lake Placid, New York",
+  "genres": [
+   "baroque pop",
+   "dream pop",
+   "sadcore"
+  ],
+  "summary": "Lana Del Rey's cinematic, melancholy songs about Americana and doomed romance became one of the most influential sounds in 2010s pop.",
+  "know": [
+   "She first released music under her birth name, Lizzy Grant.",
+   "'Video Games' went viral on YouTube in 2011 before her major-label debut.",
+   "Norman Fucking Rockwell! (2019) was co-produced with Jack Antonoff."
+  ],
+  "born": "06-21",
+  "keyAlbums": [
+   [
+    "Born to Die",
+    2012
+   ],
+   [
+    "Ultraviolence",
+    2014
+   ],
+   [
+    "Norman Fucking Rockwell!",
+    2019
+   ],
+   [
+    "Did You Know That There's a Tunnel Under Ocean Blvd",
+    2023
+   ]
+  ],
+  "songs": [
+   "Video Games",
+   "Summertime Sadness",
+   "Young and Beautiful",
+   "Mariners Apartment Complex",
+   "A&W"
+  ],
+  "influencedBy": [
+   {
+    "id": "frank-sinatra",
+    "why": "Del Rey has named Sinatra among her main influences for his phrasing and mood.",
+    "s": 3
+   },
+   {
+    "id": "nirvana",
+    "why": "She has cited Kurt Cobain as an influence on her darker material.",
+    "s": 3
+   },
+   {
+    "id": "elvis-presley",
+    "why": "She has named Elvis as an influence and often references his era's Americana.",
+    "s": 3
+   },
+   {
+    "id": "nina-simone",
+    "why": "She recorded a credited cover of 'Don't Let Me Be Misunderstood' after Simone's version.",
+    "s": 3
+   },
+   {
+    "id": "joni-mitchell",
+    "why": "She has cited Mitchell as an influence and performed with her at Newport in 2022.",
+    "s": 3
+   },
+   {
+    "id": "billie-holiday",
+    "why": "Her languid, behind-the-beat torch singing draws on Holiday, whom she has cited.",
+    "s": 2
+   },
+   {
+    "id": "leonard-cohen",
+    "why": "She has named Cohen as a songwriter she admires and nodded to him in her lyrics.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "portishead",
+    "why": "Dark, cinematic torch songs set to slow, moody production."
+   },
+   {
+    "id": "the-doors",
+    "why": "Doomed, cinematic visions of California glamour and decay."
+   }
+  ]
+ },
+ {
+  "id": "ed-sheeran",
+  "years": "2005–present",
+  "origin": "Framlingham, Suffolk, England",
+  "genres": [
+   "acoustic pop",
+   "folk-pop",
+   "pop soul"
+  ],
+  "summary": "Ed Sheeran rose from busking and London open mics to become one of the best-selling artists of the 2010s with loop-pedal pop and wedding ballads.",
+  "know": [
+   "He performs solo, building songs live with a loop pedal.",
+   "'Shape of You' was the most-streamed song on Spotify for several years.",
+   "He co-wrote Justin Bieber's 'Love Yourself'."
+  ],
+  "born": "02-17",
+  "keyAlbums": [
+   [
+    "+",
+    2011
+   ],
+   [
+    "x",
+    2014
+   ],
+   [
+    "÷",
+    2017
+   ],
+   [
+    "- (Subtract)",
+    2023
+   ]
+  ],
+  "songs": [
+   "Shape of You",
+   "Thinking Out Loud",
+   "Perfect",
+   "The A Team",
+   "Bad Habits"
+  ],
+  "influencedBy": [
+   {
+    "id": "eric-clapton",
+    "why": "Sheeran has said seeing Clapton play made him want to learn guitar.",
+    "s": 3
+   },
+   {
+    "id": "eminem",
+    "why": "He has said he learned rhythmic phrasing by memorizing The Marshall Mathers LP.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "He grew up on his parents' Beatles records and cites them as a songwriting model.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "mumford-sons",
+    "why": "Acoustic, folk-flavored songs aimed squarely at singalongs."
+   },
+   {
+    "id": "noah-kahan",
+    "why": "An acoustic singer-songwriter with big, heartfelt choruses."
+   }
+  ]
+ },
+ {
+  "id": "bruno-mars",
+  "years": "2009–present",
+  "origin": "Honolulu, Hawaii",
+  "genres": [
+   "pop soul",
+   "funk-pop",
+   "new jack swing revival"
+  ],
+  "summary": "Bruno Mars is a singer, songwriter and producer whose hits revive Motown, Prince-era funk and new jack swing with tight live-band polish.",
+  "know": [
+   "He performed as a child Elvis impersonator in Honolulu.",
+   "'Uptown Funk' with Mark Ronson spent 14 weeks at No. 1.",
+   "24K Magic won Album of the Year as he swept the major Grammys in 2018."
+  ],
+  "born": "10-08",
+  "keyAlbums": [
+   [
+    "Doo-Wops & Hooligans",
+    2010
+   ],
+   [
+    "Unorthodox Jukebox",
+    2012
+   ],
+   [
+    "24K Magic",
+    2016
+   ],
+   [
+    "An Evening with Silk Sonic",
+    2021
+   ]
+  ],
+  "songs": [
+   "Just the Way You Are",
+   "Uptown Funk",
+   "Locked Out of Heaven",
+   "24K Magic",
+   "That's What I Like"
+  ],
+  "influencedBy": [
+   {
+    "id": "elvis-presley",
+    "why": "Mars grew up impersonating Elvis on stage in Hawaii and calls him a foundational influence.",
+    "s": 3
+   },
+   {
+    "id": "michael-jackson",
+    "why": "He has named Michael Jackson as a primary influence on his singing and dancing.",
+    "s": 3
+   },
+   {
+    "id": "prince",
+    "why": "Mars has cited Prince as a major influence and performed a Prince tribute at the 2017 Grammys.",
+    "s": 3
+   },
+   {
+    "id": "james-brown",
+    "why": "He has named James Brown as a model for his showmanship and tight band.",
+    "s": 3
+   },
+   {
+    "id": "the-police",
+    "why": "'Locked Out of Heaven' openly borrows the Police's reggae-rock sound, which Mars has acknowledged.",
+    "s": 2
+   },
+   {
+    "id": "the-jackson-5",
+    "why": "His Motown-style vocal pop draws on the Jackson 5 hits he grew up performing.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "daft-punk",
+    "why": "Disco and funk revival delivered with modern sheen."
+   },
+   {
+    "id": "anderson-paak",
+    "why": "His Silk Sonic partner, a drummer-singer reviving 1970s soul and funk."
+   }
+  ]
+ },
+ {
+  "id": "olivia-rodrigo",
+  "years": "2021–present",
+  "origin": "Temecula, California",
+  "genres": [
+   "pop rock",
+   "pop-punk",
+   "bedroom pop"
+  ],
+  "summary": "Olivia Rodrigo's 2021 debut single 'Drivers License' broke streaming records, and her albums Sour and Guts mix piano ballads with pop-punk.",
+  "know": [
+   "'Drivers License' debuted at No. 1 on the Billboard Hot 100 in January 2021.",
+   "She starred in Disney's High School Musical: The Musical: The Series before her music career.",
+   "She won three Grammys in 2022, including Best New Artist."
+  ],
+  "born": "02-20",
+  "keyAlbums": [
+   [
+    "Sour",
+    2021
+   ],
+   [
+    "Guts",
+    2023
+   ]
+  ],
+  "songs": [
+   "drivers license",
+   "good 4 u",
+   "vampire",
+   "deja vu",
+   "traitor"
+  ],
+  "influencedBy": [
+   {
+    "id": "taylor-swift",
+    "why": "Rodrigo has called Swift her biggest influence, and 'deja vu' credits Swift for an interpolation of 'Cruel Summer'.",
+    "s": 3
+   },
+   {
+    "id": "paramore",
+    "why": "'good 4 u' later credited Hayley Williams and Josh Farro for its resemblance to 'Misery Business'.",
+    "s": 3
+   },
+   {
+    "id": "lorde",
+    "why": "She has named Lorde as a key influence on her songwriting.",
+    "s": 3
+   },
+   {
+    "id": "the-white-stripes",
+    "why": "She has named the White Stripes as one of her favorite bands.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "green-day",
+    "why": "Snotty, catchy pop-punk about teenage frustration."
+   },
+   {
+    "id": "phoebe-bridgers",
+    "why": "Raw, confessional songs about heartbreak."
+   }
+  ]
+ },
+ {
+  "id": "sabrina-carpenter",
+  "years": "2014–present",
+  "origin": "Quakertown, Pennsylvania",
+  "genres": [
+   "teen pop",
+   "dance-pop",
+   "disco-pop"
+  ],
+  "summary": "Former Disney Channel actor Sabrina Carpenter broke through with 'Espresso' and Short n' Sweet, pairing retro pop sounds with comic, flirtatious lyrics.",
+  "know": [
+   "She starred as Maya Hart on Disney Channel's Girl Meets World.",
+   "'Espresso' was one of the biggest songs of summer 2024.",
+   "Short n' Sweet won the Grammy for Best Pop Vocal Album."
+  ],
+  "born": "05-11",
+  "keyAlbums": [
+   [
+    "Emails I Can't Send",
+    2022
+   ],
+   [
+    "Short n' Sweet",
+    2024
+   ],
+   [
+    "Man's Best Friend",
+    2025
+   ]
+  ],
+  "songs": [
+   "Espresso",
+   "Please Please Please",
+   "Nonsense",
+   "Feather",
+   "Taste"
+  ],
+  "influencedBy": [
+   {
+    "id": "taylor-swift",
+    "why": "Carpenter has cited Swift as an influence and opened for her on the Eras Tour.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "kacey-musgraves",
+    "why": "Witty, retro-tinged songs with a wink in the lyrics."
+   }
+  ]
+ },
+ {
+  "id": "chappell-roan",
+  "years": "2017–present",
+  "origin": "Willard, Missouri",
+  "genres": [
+   "synth-pop",
+   "camp pop",
+   "glam pop"
+  ],
+  "summary": "Chappell Roan is a Missouri-raised singer whose theatrical, drag-inspired synth-pop broke through in 2024 with The Rise and Fall of a Midwest Princess.",
+  "know": [
+   "She signed to Atlantic Records as a teenager after posting songs on YouTube.",
+   "She opened for Olivia Rodrigo on the Guts tour in 2024.",
+   "She won the Grammy for Best New Artist in 2025."
+  ],
+  "born": "02-19",
+  "keyAlbums": [
+   [
+    "The Rise and Fall of a Midwest Princess",
+    2023
+   ]
+  ],
+  "songs": [
+   "Good Luck, Babe!",
+   "Pink Pony Club",
+   "HOT TO GO!",
+   "Casual",
+   "Femininomenon"
+  ],
+  "influencedBy": [
+   {
+    "id": "lana-del-rey",
+    "why": "Her early, moodier releases followed Lana Del Rey's cinematic template, which she has acknowledged.",
+    "s": 2
+   },
+   {
+    "id": "lady-gaga",
+    "why": "Her costumed, theatrical pop sits in the lineage Lady Gaga built.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "t-rex",
+    "why": "Glitter-covered glam with huge, campy hooks."
+   },
+   {
+    "id": "new-york-dolls",
+    "why": "Drag-influenced glam that was as much about the look as the riff."
+   }
+  ]
+ },
+ {
+  "id": "ray-charles",
+  "years": "1947–2004",
+  "origin": "Albany, Georgia",
+  "genres": [
+   "soul",
+   "rhythm and blues",
+   "country soul",
+   "jazz"
+  ],
+  "summary": "Ray Charles fused gospel with rhythm and blues in the mid-1950s, creating a template for soul music, and later crossed genre lines with country and jazz records.",
+  "know": [
+   "He had lost his sight by age 7, likely from glaucoma.",
+   "Modern Sounds in Country and Western Music (1962) was a No. 1 album.",
+   "His 'Georgia on My Mind' became Georgia's official state song in 1979."
+  ],
+  "born": "09-23",
+  "keyAlbums": [
+   [
+    "Ray Charles",
+    1957
+   ],
+   [
+    "The Genius of Ray Charles",
+    1959
+   ],
+   [
+    "Modern Sounds in Country and Western Music",
+    1962
+   ]
+  ],
+  "songs": [
+   "What'd I Say",
+   "I Got a Woman",
+   "Georgia on My Mind",
+   "Hit the Road Jack",
+   "I Can't Stop Loving You"
+  ],
+  "influencedBy": [
+   {
+    "id": "nat-king-cole",
+    "why": "Charles has said he closely imitated Nat King Cole's singing and piano style early in his career.",
+    "s": 3
+   },
+   {
+    "id": "louis-jordan",
+    "why": "Jordan's jump blues was a model for Charles's early small-band rhythm and blues.",
+    "s": 2
+   },
+   {
+    "id": "art-tatum",
+    "why": "Charles cited Tatum as the pianist he most admired.",
+    "s": 2
+   },
+   {
+    "id": "hank-williams",
+    "why": "He recorded credited covers of 'Your Cheatin' Heart' and 'Hey, Good Lookin'' and said he grew up loving country radio.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "elvis-presley",
+    "why": "The other 1950s figure who fused Black and white music into a new mainstream sound."
+   },
+   {
+    "id": "willie-nelson",
+    "why": "A genre-crossing interpreter who brought country, jazz and pop together."
+   }
+  ]
+ },
+ {
+  "id": "sam-cooke",
+  "years": "1950–1964",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "soul",
+   "gospel",
+   "pop soul"
+  ],
+  "summary": "Sam Cooke was lead singer of the gospel group the Soul Stirrers before crossing over to pop, and his smooth phrasing and business independence made him one of soul's founders.",
+  "know": [
+   "He founded his own label, SAR Records, and owned his publishing.",
+   "'A Change Is Gonna Come' was inspired in part by Bob Dylan's 'Blowin' in the Wind'.",
+   "He was shot and killed in Los Angeles in December 1964 at age 33."
+  ],
+  "born": "01-22",
+  "keyAlbums": [
+   [
+    "Sam Cooke",
+    1958
+   ],
+   [
+    "Night Beat",
+    1963
+   ],
+   [
+    "Ain't That Good News",
+    1964
+   ],
+   [
+    "Live at the Harlem Square Club, 1963",
+    1985
+   ]
+  ],
+  "songs": [
+   "A Change Is Gonna Come",
+   "You Send Me",
+   "Bring It On Home to Me",
+   "Cupid",
+   "Twistin' the Night Away"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-dylan",
+    "why": "Cooke said hearing 'Blowin' in the Wind' pushed him to write 'A Change Is Gonna Come'.",
+    "s": 3
+   },
+   {
+    "id": "nat-king-cole",
+    "why": "His smooth pop crossover followed the path Cole had opened for Black singers.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "buddy-holly",
+    "why": "A founder of his genre who wrote his own songs and died young."
+   },
+   {
+    "id": "hank-williams",
+    "why": "A defining voice of his genre whose influence far outlived a short career."
+   }
+  ]
+ },
+ {
+  "id": "james-brown",
+  "years": "1953–2006",
+  "origin": "Augusta, Georgia",
+  "genres": [
+   "funk",
+   "soul",
+   "rhythm and blues"
+  ],
+  "summary": "James Brown led the shift from soul to funk in the late 1960s by putting rhythm first, and his bands' grooves became the most sampled music in hip-hop.",
+  "know": [
+   "He paid for the recording of Live at the Apollo (1963) after King Records doubted it would sell.",
+   "Clyde Stubblefield's drum break on 'Funky Drummer' is one of the most sampled in history.",
+   "He was among the first inductees into the Rock and Roll Hall of Fame in 1986."
+  ],
+  "born": "05-03",
+  "keyAlbums": [
+   [
+    "Live at the Apollo",
+    1963
+   ],
+   [
+    "Cold Sweat",
+    1967
+   ],
+   [
+    "Sex Machine",
+    1970
+   ],
+   [
+    "The Payback",
+    1973
+   ]
+  ],
+  "songs": [
+   "Papa's Got a Brand New Bag",
+   "I Got You (I Feel Good)",
+   "Cold Sweat",
+   "Get Up (I Feel Like Being a) Sex Machine",
+   "Say It Loud – I'm Black and I'm Proud"
+  ],
+  "influencedBy": [
+   {
+    "id": "little-richard",
+    "why": "Brown idolized Little Richard, and his Famous Flames even filled Richard's tour dates when Richard left rock and roll.",
+    "s": 3
+   },
+   {
+    "id": "louis-jordan",
+    "why": "Brown named Louis Jordan as his childhood idol and model for a showman bandleader.",
+    "s": 3
+   },
+   {
+    "id": "ray-charles",
+    "why": "Charles's gospel-into-R&B fusion laid the ground for Brown's early soul records.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "fela-kuti",
+    "why": "Built Afrobeat on hypnotic, horn-driven funk grooves led by a commanding bandleader."
+   },
+   {
+    "id": "dj-kool-herc",
+    "why": "Hip-hop's first DJ, who looped funk breaks like Brown's for dancers."
+   }
+  ]
+ },
+ {
+  "id": "otis-redding",
+  "years": "1958–1967",
+  "origin": "Macon, Georgia",
+  "genres": [
+   "Southern soul",
+   "Memphis soul",
+   "deep soul"
+  ],
+  "summary": "Otis Redding was the biggest star at Stax Records, a raw and emotional Southern soul singer whose career ended in a plane crash at 26.",
+  "know": [
+   "'(Sittin' On) The Dock of the Bay' became the first posthumous No. 1 single in the U.S.",
+   "He wrote 'Respect', which Aretha Franklin later turned into a bigger hit.",
+   "His set at the 1967 Monterey Pop Festival introduced him to rock audiences."
+  ],
+  "born": "09-09",
+  "keyAlbums": [
+   [
+    "Otis Blue",
+    1965
+   ],
+   [
+    "The Soul Album",
+    1966
+   ],
+   [
+    "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
+    1966
+   ],
+   [
+    "The Dock of the Bay",
+    1968
+   ]
+  ],
+  "songs": [
+   "Try a Little Tenderness",
+   "(Sittin' On) The Dock of the Bay",
+   "I've Been Loving You Too Long",
+   "Respect",
+   "These Arms of Mine"
+  ],
+  "influencedBy": [
+   {
+    "id": "little-richard",
+    "why": "Redding started out imitating Little Richard and has said Richard inspired him to sing.",
+    "s": 3
+   },
+   {
+    "id": "sam-cooke",
+    "why": "Redding idolized Cooke and covered three of his songs on Otis Blue.",
+    "s": 3
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "He recorded a credited cover of '(I Can't Get No) Satisfaction' on Otis Blue.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "He wrote 'Dock of the Bay' after listening heavily to Sgt. Pepper, aiming for a broader sound.",
+    "s": 2
+   },
+   {
+    "id": "booker-t",
+    "why": "The M.G.'s were his house band at Stax and shaped the sound of his records.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "janis-joplin",
+    "why": "A raw, all-in rock singer who was openly inspired by his Monterey set."
+   },
+   {
+    "id": "george-jones",
+    "why": "Country's most emotional voice, the way Redding was for Southern soul."
+   }
+  ]
+ },
+ {
+  "id": "aretha-franklin",
+  "years": "1956–2018",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "soul",
+   "gospel",
+   "Southern soul"
+  ],
+  "summary": "Aretha Franklin, the 'Queen of Soul', combined church-trained power with rhythm and blues at Atlantic Records, and her recordings set the standard for soul singing.",
+  "know": [
+   "She was the first woman inducted into the Rock and Roll Hall of Fame, in 1987.",
+   "Amazing Grace (1972), recorded live in a Los Angeles church, is the best-selling album of her career.",
+   "Her father, C. L. Franklin, was a nationally known Detroit preacher."
+  ],
+  "born": "03-25",
+  "keyAlbums": [
+   [
+    "I Never Loved a Man the Way I Love You",
+    1967
+   ],
+   [
+    "Lady Soul",
+    1968
+   ],
+   [
+    "Young, Gifted and Black",
+    1972
+   ],
+   [
+    "Amazing Grace",
+    1972
+   ]
+  ],
+  "songs": [
+   "Respect",
+   "Chain of Fools",
+   "(You Make Me Feel Like) A Natural Woman",
+   "Think",
+   "I Say a Little Prayer"
+  ],
+  "influencedBy": [
+   {
+    "id": "mahalia-jackson",
+    "why": "A family friend and gospel model; Franklin sang 'Precious Lord' at Jackson's funeral.",
+    "s": 3
+   },
+   {
+    "id": "ray-charles",
+    "why": "Franklin cited Charles's gospel-into-R&B approach as a key influence.",
+    "s": 3
+   },
+   {
+    "id": "sam-cooke",
+    "why": "She has named Cooke as a major influence and covered 'A Change Is Gonna Come'.",
+    "s": 3
+   },
+   {
+    "id": "otis-redding",
+    "why": "Her signature hit was a credited cover of Redding's 'Respect'.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "patsy-cline",
+    "why": "Country's defining female voice of the same era."
+   },
+   {
+    "id": "janis-joplin",
+    "why": "A rock singer who poured gospel-level intensity into every line."
+   },
+   {
+    "id": "ella-fitzgerald",
+    "why": "The defining female voice of jazz."
+   }
+  ]
+ },
+ {
+  "id": "etta-james",
+  "years": "1954–2012",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "R&B",
+   "soul blues",
+   "jazz blues"
+  ],
+  "summary": "Etta James was a Chess Records singer whose tough, blues-rooted voice crossed R&B, soul and jazz, and whose 'At Last' became a standard.",
+  "know": [
+   "She was discovered as a teenager by bandleader Johnny Otis.",
+   "'At Last' was originally a 1941 song associated with Glenn Miller's orchestra.",
+   "She recorded Tell Mama at FAME Studios in Muscle Shoals in 1967."
+  ],
+  "born": "01-25",
+  "keyAlbums": [
+   [
+    "At Last!",
+    1960
+   ],
+   [
+    "Etta James Rocks the House",
+    1964
+   ],
+   [
+    "Tell Mama",
+    1968
+   ],
+   [
+    "Mystery Lady: Songs of Billie Holiday",
+    1994
+   ]
+  ],
+  "songs": [
+   "At Last",
+   "I'd Rather Go Blind",
+   "Tell Mama",
+   "Something's Got a Hold on Me",
+   "All I Could Do Was Cry"
+  ],
+  "influencedBy": [
+   {
+    "id": "billie-holiday",
+    "why": "James named Holiday as a major influence and recorded a Grammy-winning tribute album of her songs.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "janis-joplin",
+    "why": "A rock singer who openly modeled her raw delivery on Etta James."
+   },
+   {
+    "id": "bessie-smith",
+    "why": "The tough, powerful blues singer who set the mold for women in the music."
+   }
+  ]
+ },
+ {
+  "id": "smokey-robinson",
+  "years": "1955–present",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "Motown",
+   "soul",
+   "quiet storm"
+  ],
+  "summary": "Smokey Robinson led the Miracles, Motown's first big group, and wrote hits for the Temptations and Mary Wells, earning a reputation as one of America's finest pop lyricists.",
+  "know": [
+   "'Shop Around' (1960) was Motown's first million-selling single.",
+   "He co-wrote 'My Girl' for the Temptations.",
+   "His 1975 album A Quiet Storm gave its name to a radio format."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Going to a Go-Go",
+    1965
+   ],
+   [
+    "Make It Happen",
+    1967
+   ],
+   [
+    "A Quiet Storm",
+    1975
+   ]
+  ],
+  "songs": [
+   "The Tracks of My Tears",
+   "Shop Around",
+   "The Tears of a Clown",
+   "Ooo Baby Baby",
+   "I Second That Emotion"
+  ],
+  "influencedBy": [
+   {
+    "id": "sam-cooke",
+    "why": "Robinson's smooth, high tenor follows Cooke's gospel-to-pop phrasing.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-beatles",
+    "why": "Rock's great songwriting band, who covered the Miracles' 'You've Really Got a Hold on Me'."
+   },
+   {
+    "id": "simon-garfunkel",
+    "why": "Tender, literate pop songs with sweet vocal blend."
+   }
+  ]
+ },
+ {
+  "id": "the-supremes",
+  "years": "1959–1977",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "Motown",
+   "girl group",
+   "pop soul"
+  ],
+  "summary": "Diana Ross, Mary Wilson and Florence Ballard became Motown's most successful act, scoring 12 U.S. No. 1 singles mostly written by Holland-Dozier-Holland.",
+  "know": [
+   "They had five consecutive No. 1 hits in 1964 and 1965.",
+   "They started as the Primettes, a sister group to the Primes, who became part of the Temptations.",
+   "Diana Ross left for a solo career in 1970."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Where Did Our Love Go",
+    1964
+   ],
+   [
+    "More Hits by the Supremes",
+    1965
+   ],
+   [
+    "The Supremes A' Go-Go",
+    1966
+   ]
+  ],
+  "songs": [
+   "Where Did Our Love Go",
+   "Baby Love",
+   "Stop! In the Name of Love",
+   "You Can't Hurry Love",
+   "You Keep Me Hangin' On"
+  ],
+  "influencedBy": [],
+  "cousins": [
+   {
+    "id": "the-ronettes",
+    "why": "The other iconic girl group of the early 1960s."
+   },
+   {
+    "id": "the-beatles",
+    "why": "Their chart rivals in 1964 and 1965, with an equally long run of No. 1s."
+   }
+  ]
+ },
+ {
+  "id": "marvin-gaye",
+  "years": "1957–1984",
+  "origin": "Washington, D.C.",
+  "genres": [
+   "Motown",
+   "psychedelic soul",
+   "quiet storm"
+  ],
+  "summary": "Marvin Gaye was a Motown hitmaker who fought the label to release What's Going On, a self-produced protest album that changed what soul records could say.",
+  "know": [
+   "Berry Gordy initially refused to release 'What's Going On'.",
+   "He was married to Anna Gordy, Berry Gordy's sister.",
+   "'Sexual Healing' (1982) won his first Grammy Awards."
+  ],
+  "born": "04-02",
+  "keyAlbums": [
+   [
+    "What's Going On",
+    1971
+   ],
+   [
+    "Let's Get It On",
+    1973
+   ],
+   [
+    "I Want You",
+    1976
+   ],
+   [
+    "Here, My Dear",
+    1978
+   ]
+  ],
+  "songs": [
+   "What's Going On",
+   "I Heard It Through the Grapevine",
+   "Let's Get It On",
+   "Sexual Healing",
+   "Ain't No Mountain High Enough"
+  ],
+  "influencedBy": [
+   {
+    "id": "frank-sinatra",
+    "why": "Gaye said he wanted to be a pop crooner like Sinatra and recorded standards albums early on.",
+    "s": 3
+   },
+   {
+    "id": "nat-king-cole",
+    "why": "He recorded a full tribute album, A Tribute to the Great Nat King Cole (1965).",
+    "s": 3
+   },
+   {
+    "id": "ray-charles",
+    "why": "Charles's gospel-rooted soul was a model for Gaye's early R&B singing.",
+    "s": 2
+   },
+   {
+    "id": "sam-cooke",
+    "why": "Gaye admired Cooke's smooth phrasing and crossover success.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bob-marley",
+    "why": "A singer who wrapped social protest and spirituality in irresistible grooves."
+   },
+   {
+    "id": "bob-dylan",
+    "why": "A songwriter who made protest music into popular art."
+   }
+  ]
+ },
+ {
+  "id": "stevie-wonder",
+  "years": "1961–present",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "Motown",
+   "progressive soul",
+   "funk"
+  ],
+  "summary": "Stevie Wonder signed to Motown at 11 and in the 1970s made a run of self-produced albums that brought synthesizers, jazz harmony and social themes into soul.",
+  "know": [
+   "He was 13 when 'Fingertips' hit No. 1 in 1963, then the youngest artist to top the Hot 100.",
+   "Three of his albums won Album of the Year Grammys within four years.",
+   "He campaigned for Martin Luther King Jr.'s birthday to become a U.S. holiday and wrote 'Happy Birthday' for the cause."
+  ],
+  "born": "05-13",
+  "keyAlbums": [
+   [
+    "Talking Book",
+    1972
+   ],
+   [
+    "Innervisions",
+    1973
+   ],
+   [
+    "Fulfillingness' First Finale",
+    1974
+   ],
+   [
+    "Songs in the Key of Life",
+    1976
+   ]
+  ],
+  "songs": [
+   "Superstition",
+   "Sir Duke",
+   "Signed, Sealed, Delivered I'm Yours",
+   "Higher Ground",
+   "Isn't She Lovely"
+  ],
+  "influencedBy": [
+   {
+    "id": "ray-charles",
+    "why": "His second album was Tribute to Uncle Ray (1962), a set of Ray Charles songs.",
+    "s": 3
+   },
+   {
+    "id": "duke-ellington",
+    "why": "'Sir Duke' was written as a tribute to Ellington.",
+    "s": 3
+   },
+   {
+    "id": "louis-armstrong",
+    "why": "'Sir Duke' names Satchmo among the musicians who shaped him.",
+    "s": 3
+   },
+   {
+    "id": "count-basie",
+    "why": "'Sir Duke' names Basie among the musicians who shaped him.",
+    "s": 3
+   },
+   {
+    "id": "ella-fitzgerald",
+    "why": "'Sir Duke' names Ella among the musicians who shaped him.",
+    "s": 3
+   },
+   {
+    "id": "smokey-robinson",
+    "why": "A Motown mentor who co-wrote 'The Tears of a Clown' with him.",
+    "s": 2
+   },
+   {
+    "id": "sam-cooke",
+    "why": "Cooke's gospel-to-pop singing was an early model for Wonder's voice.",
+    "s": 2
+   },
+   {
+    "id": "marvin-gaye",
+    "why": "Gaye's fight to self-produce What's Going On helped open the door to Wonder's own creative control at Motown.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "He recorded a credited hit cover of 'We Can Work It Out'.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "His credited cover of 'Blowin' in the Wind' was a 1966 hit.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "herbie-hancock",
+    "why": "A keyboard innovator who brought synthesizers into funk and jazz in the same years."
+   },
+   {
+    "id": "elton-john",
+    "why": "A piano-playing 1970s hitmaker with a long run of classic albums."
+   }
+  ]
+ },
+ {
+  "id": "the-temptations",
+  "years": "1960–present",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "Motown",
+   "psychedelic soul",
+   "doo-wop"
+  ],
+  "summary": "The Temptations were Motown's top male vocal group, moving from Smokey Robinson's sweet ballads to Norman Whitfield's long psychedelic soul productions.",
+  "know": [
+   "Their choreography was taught by Cholly Atkins.",
+   "'My Girl' was their first U.S. No. 1 single.",
+   "'Papa Was a Rollin' Stone' won three Grammy Awards in 1973."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Temptations Sing Smokey",
+    1965
+   ],
+   [
+    "Cloud Nine",
+    1969
+   ],
+   [
+    "Psychedelic Shack",
+    1970
+   ],
+   [
+    "All Directions",
+    1972
+   ]
+  ],
+  "songs": [
+   "My Girl",
+   "Ain't Too Proud to Beg",
+   "Papa Was a Rollin' Stone",
+   "Just My Imagination (Running Away with Me)",
+   "Cloud Nine"
+  ],
+  "influencedBy": [
+   {
+    "id": "smokey-robinson",
+    "why": "Robinson wrote and produced their early hits, including 'My Girl'.",
+    "s": 3
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Producer Norman Whitfield modeled their late-1960s psychedelic soul on Sly's sound.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-beach-boys",
+    "why": "The leading harmony vocal group on the pop side."
+   },
+   {
+    "id": "crosby-stills-nash",
+    "why": "A harmony vocal group from the folk-rock world."
+   }
+  ]
+ },
+ {
+  "id": "curtis-mayfield",
+  "years": "1956–1999",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "Chicago soul",
+   "funk",
+   "psychedelic soul"
+  ],
+  "summary": "Curtis Mayfield wrote civil rights anthems for the Impressions and then made the Super Fly soundtrack, mixing social commentary with sweet falsetto and wah-wah funk.",
+  "know": [
+   "He played guitar in an open F-sharp tuning, tuned to the black keys of the piano.",
+   "'People Get Ready' (1965) became a civil rights anthem.",
+   "He was paralyzed from the neck down when a lighting rig fell on him in 1990."
+  ],
+  "born": "06-03",
+  "keyAlbums": [
+   [
+    "Curtis",
+    1970
+   ],
+   [
+    "Curtis/Live!",
+    1971
+   ],
+   [
+    "Super Fly",
+    1972
+   ],
+   [
+    "There's No Place Like America Today",
+    1975
+   ]
+  ],
+  "songs": [
+   "Move On Up",
+   "Superfly",
+   "Freddie's Dead",
+   "People Get Ready",
+   "Pusherman"
+  ],
+  "influencedBy": [
+   {
+    "id": "sam-cooke",
+    "why": "Mayfield's gospel-rooted, message-minded soul followed Cooke's example.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bob-marley",
+    "why": "A spiritual protest singer who quoted 'People Get Ready' in 'One Love'."
+   },
+   {
+    "id": "bob-dylan",
+    "why": "A songwriter whose songs became anthems of the civil rights era."
+   }
+  ]
+ },
+ {
+  "id": "sly-and-the-family-stone",
+  "years": "1966–1983",
+  "origin": "San Francisco, California",
+  "genres": [
+   "psychedelic soul",
+   "funk",
+   "psychedelic rock"
+  ],
+  "summary": "Sly Stone's racially integrated, mixed-gender band fused rock, soul and funk, and albums like Stand! and There's a Riot Goin' On reshaped Black music in the late 1960s.",
+  "know": [
+   "Sly Stone was a San Francisco DJ and record producer before forming the band.",
+   "Their 1969 Woodstock set is considered one of the festival's highlights.",
+   "Bassist Larry Graham is credited with popularizing slap bass."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Dance to the Music",
+    1968
+   ],
+   [
+    "Stand!",
+    1969
+   ],
+   [
+    "There's a Riot Goin' On",
+    1971
+   ],
+   [
+    "Fresh",
+    1973
+   ]
+  ],
+  "songs": [
+   "Everyday People",
+   "Dance to the Music",
+   "Thank You (Falettinme Be Mice Elf Agin)",
+   "Family Affair",
+   "If You Want Me to Stay"
+  ],
+  "influencedBy": [
+   {
+    "id": "james-brown",
+    "why": "Sly's band built on Brown's rhythm-first funk and added rock guitars and psychedelia.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "Sly's pop-psychedelic songwriting drew on the Beatles, whom he played as a DJ.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "jimi-hendrix",
+    "why": "Another integrated, genre-breaking act that fused rock and soul."
+   },
+   {
+    "id": "santana",
+    "why": "A San Francisco band blending rock with rhythm-heavy dance music."
+   }
+  ]
+ },
+ {
+  "id": "the-meters",
+  "years": "1965–1977",
+  "origin": "New Orleans, Louisiana",
+  "genres": [
+   "New Orleans funk",
+   "funk",
+   "instrumental soul"
+  ],
+  "summary": "The Meters were Allen Toussaint's house band and recorded sparse, syncopated instrumentals that defined New Orleans funk.",
+  "know": [
+   "Members Art and Cyril Neville later formed the Neville Brothers.",
+   "They backed Dr. John on 'Right Place Wrong Time' and Labelle on 'Lady Marmalade'.",
+   "'Cissy Strut' and 'Look-Ka Py Py' are staples of hip-hop sampling."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Meters",
+    1969
+   ],
+   [
+    "Look-Ka Py Py",
+    1969
+   ],
+   [
+    "Rejuvenation",
+    1974
+   ],
+   [
+    "Fire on the Bayou",
+    1975
+   ]
+  ],
+  "songs": [
+   "Cissy Strut",
+   "Look-Ka Py Py",
+   "Hey Pocky A-Way",
+   "Fire on the Bayou",
+   "People Say"
+  ],
+  "influencedBy": [
+   {
+    "id": "booker-t",
+    "why": "Their instrumental house-band hits followed the model of Booker T. & the M.G.'s at Stax.",
+    "s": 2
+   },
+   {
+    "id": "james-brown",
+    "why": "Their syncopated grooves grew out of the same rhythm-first funk James Brown pioneered.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-band",
+    "why": "A tight backing band that became a celebrated act in its own right."
+   },
+   {
+    "id": "can",
+    "why": "A band built on locked-in, hypnotic grooves."
+   }
+  ]
+ },
+ {
+  "id": "booker-t",
+  "years": "1962–1971",
+  "origin": "Memphis, Tennessee",
+  "genres": [
+   "Memphis soul",
+   "instrumental soul",
+   "Southern soul"
+  ],
+  "summary": "Booker T. & the M.G.'s were the racially integrated house band at Stax Records, playing on hits by Otis Redding and Sam & Dave while scoring their own instrumental hits.",
+  "know": [
+   "'Green Onions' (1962) came out of a jam during spare studio time.",
+   "Guitarist Steve Cropper co-wrote '(Sittin' On) The Dock of the Bay' with Otis Redding.",
+   "Cropper and bassist Donald 'Duck' Dunn later played in the Blues Brothers band."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Green Onions",
+    1962
+   ],
+   [
+    "Hip Hug-Her",
+    1967
+   ],
+   [
+    "McLemore Avenue",
+    1970
+   ],
+   [
+    "Melting Pot",
+    1971
+   ]
+  ],
+  "songs": [
+   "Green Onions",
+   "Time Is Tight",
+   "Hip Hug-Her",
+   "Soul Limbo",
+   "Melting Pot"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "McLemore Avenue (1970) is a credited instrumental remake of Abbey Road.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-band",
+    "why": "A roots backing band that became a legendary act."
+   },
+   {
+    "id": "the-allman-brothers",
+    "why": "A Southern band built on interplay between organ and guitar."
+   }
+  ]
+ },
+ {
+  "id": "the-jackson-5",
+  "years": "1964–1989",
+  "origin": "Gary, Indiana",
+  "genres": [
+   "Motown",
+   "bubblegum soul",
+   "pop soul"
+  ],
+  "summary": "The Jackson brothers, led by a young Michael, were the last great act of Motown's Detroit era, with their first four singles all hitting No. 1.",
+  "know": [
+   "Their first four Motown singles all reached No. 1 on the Hot 100.",
+   "Gladys Knight and Bobby Taylor helped bring them to Motown, though early publicity credited Diana Ross.",
+   "They left Motown in 1975 and became the Jacksons at Epic."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Diana Ross Presents The Jackson 5",
+    1969
+   ],
+   [
+    "ABC",
+    1970
+   ],
+   [
+    "Third Album",
+    1970
+   ]
+  ],
+  "songs": [
+   "I Want You Back",
+   "ABC",
+   "I'll Be There",
+   "The Love You Save",
+   "Never Can Say Goodbye"
+  ],
+  "influencedBy": [
+   {
+    "id": "james-brown",
+    "why": "Young Michael copied James Brown's dance moves, and the group's act drew heavily on him.",
+    "s": 3
+   },
+   {
+    "id": "smokey-robinson",
+    "why": "They auditioned for Motown with Robinson's 'Who's Lovin' You' and recorded it on their debut.",
+    "s": 3
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Motown's songwriting team designed their sound to echo Sly's funk-pop.",
+    "s": 2
+   },
+   {
+    "id": "the-temptations",
+    "why": "The Temptations' choreography and harmony set the model for their act.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-beach-boys",
+    "why": "The other great American family band."
+   },
+   {
+    "id": "nsync",
+    "why": "A teen-idol vocal group built on choreography and hooks."
+   }
+  ]
+ },
+ {
+  "id": "al-green",
+  "years": "1967–present",
+  "origin": "Memphis, Tennessee",
+  "genres": [
+   "Memphis soul",
+   "Southern soul",
+   "gospel"
+  ],
+  "summary": "Al Green's soft falsetto over Willie Mitchell's Hi Records productions produced some of the most sensual soul of the 1970s, before he became a pastor and gospel singer.",
+  "know": [
+   "He became pastor of the Full Gospel Tabernacle in Memphis in 1976.",
+   "His Hi Records band included the Hodges brothers and drummer Al Jackson Jr.",
+   "'Let's Stay Together' was a No. 1 hit in 1972."
+  ],
+  "born": "04-13",
+  "keyAlbums": [
+   [
+    "Al Green Gets Next to You",
+    1971
+   ],
+   [
+    "Let's Stay Together",
+    1972
+   ],
+   [
+    "I'm Still in Love with You",
+    1972
+   ],
+   [
+    "Call Me",
+    1973
+   ]
+  ],
+  "songs": [
+   "Let's Stay Together",
+   "Tired of Being Alone",
+   "Love and Happiness",
+   "I'm Still in Love with You",
+   "Take Me to the River"
+  ],
+  "influencedBy": [
+   {
+    "id": "sam-cooke",
+    "why": "Green has named Sam Cooke as the singer who most shaped his style.",
+    "s": 3
+   },
+   {
+    "id": "the-temptations",
+    "why": "His breakout album opens with a credited slow remake of their 'I Can't Get Next to You'.",
+    "s": 3
+   },
+   {
+    "id": "bee-gees",
+    "why": "He recorded a credited cover of 'How Can You Mend a Broken Heart'.",
+    "s": 3
+   },
+   {
+    "id": "hank-williams",
+    "why": "He recorded a credited cover of Williams's 'I'm So Lonesome I Could Cry'.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "willie-nelson",
+    "why": "A gentle, unhurried voice that makes every lyric feel intimate."
+   }
+  ]
+ },
+ {
+  "id": "isaac-hayes",
+  "years": "1962–2008",
+  "origin": "Memphis, Tennessee",
+  "genres": [
+   "Memphis soul",
+   "orchestral soul",
+   "funk"
+  ],
+  "summary": "Isaac Hayes co-wrote Sam & Dave's hits at Stax, then made lush, long-form soul albums and the 'Theme from Shaft', which made him the first Black winner of the Oscar for Best Original Song.",
+  "know": [
+   "With David Porter he co-wrote 'Soul Man' and 'Hold On, I'm Comin''.",
+   "Hot Buttered Soul (1969) features a 'Walk On By' cover over 12 minutes long.",
+   "He voiced Chef on South Park."
+  ],
+  "born": "08-20",
+  "keyAlbums": [
+   [
+    "Hot Buttered Soul",
+    1969
+   ],
+   [
+    "The Isaac Hayes Movement",
+    1970
+   ],
+   [
+    "Shaft",
+    1971
+   ],
+   [
+    "Black Moses",
+    1971
+   ]
+  ],
+  "songs": [
+   "Theme from Shaft",
+   "Walk On By",
+   "By the Time I Get to Phoenix",
+   "Do Your Thing",
+   "Never Can Say Goodbye"
+  ],
+  "influencedBy": [
+   {
+    "id": "booker-t",
+    "why": "Hayes played sessions alongside the M.G.'s at Stax, the house sound he built on.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "He recorded a credited extended cover of 'Something' on The Isaac Hayes Movement.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "portishead",
+    "why": "Cinematic trip-hop that sampled Hayes's 'Ike's Rap II' on 'Glory Box'."
+   },
+   {
+    "id": "massive-attack",
+    "why": "Slow, lush, orchestral grooves built partly from soul samples."
+   }
+  ]
+ },
+ {
+  "id": "bill-withers",
+  "years": "1970–1985",
+  "origin": "Slab Fork, West Virginia",
+  "genres": [
+   "soul",
+   "folk soul",
+   "singer-songwriter"
+  ],
+  "summary": "Bill Withers started recording in his thirties while working in aircraft factories, and his plainspoken songs like 'Lean on Me' became some of the most covered in soul.",
+  "know": [
+   "He served nine years in the U.S. Navy.",
+   "His debut, Just As I Am (1971), was produced by Booker T. Jones.",
+   "He stopped recording after 1985."
+  ],
+  "born": "07-04",
+  "keyAlbums": [
+   [
+    "Just As I Am",
+    1971
+   ],
+   [
+    "Still Bill",
+    1972
+   ],
+   [
+    "Live at Carnegie Hall",
+    1973
+   ],
+   [
+    "Menagerie",
+    1977
+   ]
+  ],
+  "songs": [
+   "Ain't No Sunshine",
+   "Lean on Me",
+   "Lovely Day",
+   "Use Me",
+   "Grandma's Hands"
+  ],
+  "influencedBy": [
+   {
+    "id": "booker-t",
+    "why": "Booker T. Jones produced his debut and members of the M.G.'s played on it.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "john-prine",
+    "why": "A plainspoken storyteller who started writing while working a regular job."
+   },
+   {
+    "id": "tracy-chapman",
+    "why": "Spare, direct songs with a warm voice and acoustic guitar."
+   }
+  ]
+ },
+ {
+  "id": "parliament-funkadelic",
+  "years": "1968–present",
+  "origin": "Plainfield, New Jersey",
+  "genres": [
+   "P-Funk",
+   "funk rock",
+   "psychedelic funk"
+  ],
+  "summary": "George Clinton's twin bands Parliament and Funkadelic built a sci-fi funk universe that, through samples, became the backbone of West Coast hip-hop.",
+  "know": [
+   "The Parliaments began as a doo-wop group in a Plainfield barbershop.",
+   "Bootsy Collins and Bernie Worrell were key members.",
+   "Dr. Dre's G-funk sound drew heavily on P-Funk samples."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Maggot Brain",
+    1971
+   ],
+   [
+    "Mothership Connection",
+    1975
+   ],
+   [
+    "Funkentelechy vs. the Placebo Syndrome",
+    1977
+   ],
+   [
+    "One Nation Under a Groove",
+    1978
+   ]
+  ],
+  "songs": [
+   "Flash Light",
+   "Give Up the Funk (Tear the Roof off the Sucker)",
+   "One Nation Under a Groove",
+   "Maggot Brain",
+   "Atomic Dog"
+  ],
+  "influencedBy": [
+   {
+    "id": "james-brown",
+    "why": "Bootsy Collins, Fred Wesley and Maceo Parker came to P-Funk from Brown's band, bringing his groove with them.",
+    "s": 3
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Clinton has credited Sly with showing how to fuse rock, psychedelia and funk.",
+    "s": 3
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "Clinton has cited Hendrix, and Eddie Hazel's guitar on Funkadelic records follows him.",
+    "s": 3
+   },
+   {
+    "id": "sun-ra",
+    "why": "P-Funk's cosmic Afrofuturist stage persona is widely traced to Sun Ra.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "frank-zappa",
+    "why": "A sprawling, satirical bandleader with a huge cast of virtuoso players."
+   },
+   {
+    "id": "outkast",
+    "why": "Southern hip-hop that carried P-Funk's cosmic weirdness forward."
+   }
+  ]
+ },
+ {
+  "id": "earth-wind-fire",
+  "years": "1969–present",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "funk",
+   "disco",
+   "jazz-funk"
+  ],
+  "summary": "Maurice White's horn-driven band mixed funk, jazz, Latin and African sounds with spiritual themes and became one of the best-selling bands of the 1970s.",
+  "know": [
+   "Maurice White was a Chess Records session drummer and played with the Ramsey Lewis Trio.",
+   "Philip Bailey sang the falsetto leads.",
+   "'September' (1978) has become a perennial party and wedding song."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "That's the Way of the World",
+    1975
+   ],
+   [
+    "Gratitude",
+    1975
+   ],
+   [
+    "All 'n All",
+    1977
+   ],
+   [
+    "I Am",
+    1979
+   ]
+  ],
+  "songs": [
+   "September",
+   "Shining Star",
+   "Let's Groove",
+   "Boogie Wonderland",
+   "Fantasy"
+  ],
+  "influencedBy": [
+   {
+    "id": "miles-davis",
+    "why": "Maurice White cited Miles Davis's jazz-rock fusion as a model for the band.",
+    "s": 3
+   },
+   {
+    "id": "john-coltrane",
+    "why": "White named Coltrane's spiritual jazz as an influence on the band's themes.",
+    "s": 3
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Their large, multi-genre funk band followed Sly's example.",
+    "s": 2
+   },
+   {
+    "id": "james-brown",
+    "why": "Their horn-driven grooves build on Brown's funk.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "santana",
+    "why": "A band blending Latin rhythms, rock and spiritual themes."
+   },
+   {
+    "id": "fela-kuti",
+    "why": "A horn-heavy groove band mixing jazz, funk and African rhythms."
+   },
+   {
+    "id": "weather-report",
+    "why": "Jazz-fusion with big grooves and global influences."
+   }
+  ]
+ },
+ {
+  "id": "chic",
+  "years": "1976–present",
+  "origin": "New York City, New York",
+  "genres": [
+   "disco",
+   "post-disco",
+   "funk"
+  ],
+  "summary": "Chic, led by guitarist Nile Rodgers and bassist Bernard Edwards, made disco's most elegant records and later produced hits for Diana Ross, David Bowie and Madonna.",
+  "know": [
+   "'Le Freak' was written after they were turned away at the door of Studio 54.",
+   "The 'Good Times' bass line was used in the Sugarhill Gang's 'Rapper's Delight'.",
+   "Nile Rodgers co-wrote and played on Daft Punk's 'Get Lucky'."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Chic",
+    1977
+   ],
+   [
+    "C'est Chic",
+    1978
+   ],
+   [
+    "Risqué",
+    1979
+   ]
+  ],
+  "songs": [
+   "Le Freak",
+   "Good Times",
+   "Everybody Dance",
+   "I Want Your Love",
+   "Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)"
+  ],
+  "influencedBy": [
+   {
+    "id": "roxy-music",
+    "why": "Nile Rodgers has said Roxy Music's stylish image and sound inspired Chic's concept.",
+    "s": 3
+   },
+   {
+    "id": "james-brown",
+    "why": "Rodgers's chopped rhythm guitar comes out of James Brown's funk.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "daft-punk",
+    "why": "Disco-loving dance music that later recruited Rodgers himself."
+   },
+   {
+    "id": "talking-heads",
+    "why": "New York band that fused art rock with tight funk grooves."
+   }
+  ]
+ },
+ {
+  "id": "donna-summer",
+  "years": "1968–2012",
+  "origin": "Boston, Massachusetts",
+  "genres": [
+   "disco",
+   "Euro disco",
+   "dance-pop"
+  ],
+  "summary": "Donna Summer was the defining voice of disco, and her work with Giorgio Moroder, especially the all-synthesizer 'I Feel Love', laid groundwork for electronic dance music.",
+  "know": [
+   "She performed in a German production of Hair in the late 1960s.",
+   "Brian Eno told David Bowie that 'I Feel Love' would change the sound of club music.",
+   "Bad Girls (1979) was a No. 1 double album."
+  ],
+  "born": "12-31",
+  "keyAlbums": [
+   [
+    "Love to Love You Baby",
+    1975
+   ],
+   [
+    "I Remember Yesterday",
+    1977
+   ],
+   [
+    "Once Upon a Time",
+    1977
+   ],
+   [
+    "Bad Girls",
+    1979
+   ]
+  ],
+  "songs": [
+   "I Feel Love",
+   "Hot Stuff",
+   "Love to Love You Baby",
+   "Last Dance",
+   "Bad Girls"
+  ],
+  "influencedBy": [
+   {
+    "id": "giorgio-moroder",
+    "why": "Moroder produced and co-wrote her biggest records, shaping her synth-driven sound.",
+    "s": 3
+   },
+   {
+    "id": "mahalia-jackson",
+    "why": "Summer said hearing Mahalia Jackson as a child made her want to sing.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "kraftwerk",
+    "why": "The electronic pioneers whose machine sound fed into 'I Feel Love'."
+   },
+   {
+    "id": "frankie-knuckles",
+    "why": "The house DJ who carried disco into electronic dance music."
+   }
+  ]
+ },
+ {
+  "id": "gil-scott-heron",
+  "years": "1970–2011",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "spoken word",
+   "jazz-funk",
+   "soul"
+  ],
+  "summary": "Gil Scott-Heron was a poet and musician whose politically charged spoken-word pieces, often with keyboardist Brian Jackson, are seen as a forerunner of hip-hop.",
+  "know": [
+   "He published a novel, The Vulture, in 1970.",
+   "'The Revolution Will Not Be Televised' first appeared on Small Talk at 125th and Lenox (1970).",
+   "His final album, I'm New Here (2010), was remixed by Jamie xx."
+  ],
+  "born": "04-01",
+  "keyAlbums": [
+   [
+    "Small Talk at 125th and Lenox",
+    1970
+   ],
+   [
+    "Pieces of a Man",
+    1971
+   ],
+   [
+    "Winter in America",
+    1974
+   ],
+   [
+    "I'm New Here",
+    2010
+   ]
+  ],
+  "songs": [
+   "The Revolution Will Not Be Televised",
+   "The Bottle",
+   "Home Is Where the Hatred Is",
+   "Lady Day and John Coltrane",
+   "Winter in America"
+  ],
+  "influencedBy": [
+   {
+    "id": "john-coltrane",
+    "why": "He wrote 'Lady Day and John Coltrane' about how Coltrane's music sustained him.",
+    "s": 3
+   },
+   {
+    "id": "billie-holiday",
+    "why": "'Lady Day and John Coltrane' names Holiday as a source of strength and inspiration.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "public-enemy",
+    "why": "Political hip-hop that carried his message forward."
+   },
+   {
+    "id": "bob-dylan",
+    "why": "A poet-songwriter whose words made him the voice of a movement."
+   }
+  ]
+ },
+ {
+  "id": "prince",
+  "years": "1976–2016",
+  "origin": "Minneapolis, Minnesota",
+  "genres": [
+   "Minneapolis sound",
+   "funk rock",
+   "synth-funk",
+   "pop rock"
+  ],
+  "summary": "Prince wrote, produced and played most instruments on his records, fusing funk, rock, new wave and soul into the Minneapolis sound and one of the deepest catalogs in pop.",
+  "know": [
+   "He was credited with playing 27 instruments on his debut album, For You.",
+   "Purple Rain won the Academy Award for Best Original Song Score.",
+   "He changed his name to an unpronounceable symbol in 1993 during a dispute with Warner Bros."
+  ],
+  "born": "06-07",
+  "keyAlbums": [
+   [
+    "Dirty Mind",
+    1980
+   ],
+   [
+    "1999",
+    1982
+   ],
+   [
+    "Purple Rain",
+    1984
+   ],
+   [
+    "Sign o' the Times",
+    1987
+   ]
+  ],
+  "songs": [
+   "Purple Rain",
+   "When Doves Cry",
+   "Kiss",
+   "Little Red Corvette",
+   "1999"
+  ],
+  "influencedBy": [
+   {
+    "id": "james-brown",
+    "why": "Prince cited James Brown as a primary influence and studied his band leadership and dance moves.",
+    "s": 3
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Prince's integrated, mixed-gender band and rock-funk fusion followed Sly's blueprint.",
+    "s": 3
+   },
+   {
+    "id": "joni-mitchell",
+    "why": "Prince called Mitchell a favorite, cited Court and Spark and name-checked her in 'The Ballad of Dorothy Parker'.",
+    "s": 3
+   },
+   {
+    "id": "santana",
+    "why": "Prince said Carlos Santana influenced his guitar playing more than Hendrix.",
+    "s": 3
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "His flamboyant lead guitar is widely compared to Hendrix's.",
+    "s": 2
+   },
+   {
+    "id": "stevie-wonder",
+    "why": "Wonder's self-produced, multi-instrumentalist albums were a model for Prince's approach.",
+    "s": 2
+   },
+   {
+    "id": "earth-wind-fire",
+    "why": "Prince admired their horn-driven funk and drew on it in his early bands.",
+    "s": 2
+   },
+   {
+    "id": "parliament-funkadelic",
+    "why": "His synth-funk and cosmic grooves share P-Funk's DNA.",
+    "s": 2
+   },
+   {
+    "id": "curtis-mayfield",
+    "why": "His sweet falsetto follows Mayfield's soulful high register.",
+    "s": 2
+   },
+   {
+    "id": "little-richard",
+    "why": "Prince cited Little Richard's flamboyant, gender-bending stage persona.",
+    "s": 2
+   },
+   {
+    "id": "miles-davis",
+    "why": "The two admired each other, and Prince's jazz-funk ambitions drew on Davis.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "david-bowie",
+    "why": "A constantly shifting rock star who blurred gender and genre lines."
+   },
+   {
+    "id": "outkast",
+    "why": "Funk-steeped hip-hop with flamboyant style and genre-hopping ambition."
+   }
+  ]
+ },
+ {
+  "id": "d-angelo",
+  "years": "1991–2025",
+  "origin": "Richmond, Virginia",
+  "genres": [
+   "neo-soul",
+   "funk",
+   "R&B"
+  ],
+  "summary": "D'Angelo's Brown Sugar and Voodoo helped launch neo-soul, blending classic soul and funk with hip-hop rhythms played by live musicians.",
+  "know": [
+   "Voodoo (2000) was recorded at Electric Lady Studios with the Soulquarians, including Questlove and J Dilla.",
+   "Fourteen years passed between Voodoo and Black Messiah (2014).",
+   "Both Voodoo and Black Messiah won the Grammy for Best R&B Album."
+  ],
+  "born": "02-11",
+  "keyAlbums": [
+   [
+    "Brown Sugar",
+    1995
+   ],
+   [
+    "Voodoo",
+    2000
+   ],
+   [
+    "Black Messiah",
+    2014
+   ]
+  ],
+  "songs": [
+   "Brown Sugar",
+   "Untitled (How Does It Feel)",
+   "Lady",
+   "Really Love",
+   "Devil's Pie"
+  ],
+  "influencedBy": [
+   {
+    "id": "prince",
+    "why": "D'Angelo named Prince as his primary influence, and 'Untitled' is widely heard as a Prince homage.",
+    "s": 3
+   },
+   {
+    "id": "marvin-gaye",
+    "why": "He has cited Marvin Gaye's layered vocals as a model.",
+    "s": 3
+   },
+   {
+    "id": "smokey-robinson",
+    "why": "He recorded a credited cover of Robinson's 'Cruisin'' on Brown Sugar.",
+    "s": 3
+   },
+   {
+    "id": "j-dilla",
+    "why": "Dilla's off-kilter drum programming shaped Voodoo's loose, behind-the-beat feel, which D'Angelo has acknowledged.",
+    "s": 3
+   },
+   {
+    "id": "al-green",
+    "why": "His Southern-gospel phrasing draws on Al Green, whom he has cited.",
+    "s": 2
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Black Messiah's murky funk owes a clear debt to There's a Riot Goin' On.",
+    "s": 2
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "Voodoo was recorded at Hendrix's Electric Lady Studios with Hendrix as an acknowledged inspiration.",
+    "s": 2
+   },
+   {
+    "id": "parliament-funkadelic",
+    "why": "His funk grooves draw on P-Funk.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-roots",
+    "why": "The live hip-hop band whose drummer played on Voodoo."
+   },
+   {
+    "id": "robert-glasper",
+    "why": "Jazz pianist blending soul, hip-hop and jazz in the same lineage."
+   }
+  ]
+ },
+ {
+  "id": "erykah-badu",
+  "years": "1994–present",
+  "origin": "Dallas, Texas",
+  "genres": [
+   "neo-soul",
+   "jazz soul",
+   "psychedelic soul"
+  ],
+  "summary": "Erykah Badu's 1997 debut Baduizm helped define neo-soul, and her later records grew stranger and more experimental.",
+  "know": [
+   "Baduizm won the Grammy for Best R&B Album.",
+   "She has worked as a certified doula.",
+   "She was part of the Soulquarians circle with Questlove, D'Angelo and J Dilla."
+  ],
+  "born": "02-26",
+  "keyAlbums": [
+   [
+    "Baduizm",
+    1997
+   ],
+   [
+    "Mama's Gun",
+    2000
+   ],
+   [
+    "New Amerykah Part One (4th World War)",
+    2008
+   ],
+   [
+    "New Amerykah Part Two (Return of the Ankh)",
+    2010
+   ]
+  ],
+  "songs": [
+   "On & On",
+   "Tyrone",
+   "Bag Lady",
+   "Didn't Cha Know",
+   "Window Seat"
+  ],
+  "influencedBy": [
+   {
+    "id": "billie-holiday",
+    "why": "Her jazzy, behind-the-beat phrasing is widely compared to Billie Holiday.",
+    "s": 2
+   },
+   {
+    "id": "nina-simone",
+    "why": "Her mix of jazz, soul and politics follows Nina Simone.",
+    "s": 2
+   },
+   {
+    "id": "j-dilla",
+    "why": "Dilla produced 'Didn't Cha Know' and shaped her Mama's Gun era sound.",
+    "s": 3
+   },
+   {
+    "id": "stevie-wonder",
+    "why": "She has cited Stevie Wonder as an influence on her songwriting.",
+    "s": 2
+   },
+   {
+    "id": "parliament-funkadelic",
+    "why": "New Amerykah's cosmic funk draws on P-Funk.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bjork",
+    "why": "An experimental singer with a singular voice and visual world."
+   },
+   {
+    "id": "esperanza-spalding",
+    "why": "A jazz artist who blends soul, R&B and adventurous ideas."
+   }
+  ]
+ },
+ {
+  "id": "mary-j-blige",
+  "years": "1992–present",
+  "origin": "Yonkers, New York",
+  "genres": [
+   "hip-hop soul",
+   "contemporary R&B",
+   "new jack swing"
+  ],
+  "summary": "Mary J. Blige, the 'Queen of Hip-Hop Soul', paired gritty, confessional singing with hip-hop beats, starting with the Sean Combs-produced What's the 411?.",
+  "know": [
+   "She was signed to Uptown Records after a mall-booth recording of Anita Baker's 'Caught Up in the Rapture' reached the label.",
+   "My Life (1994) is regarded as a landmark of confessional R&B.",
+   "She received Academy Award nominations for acting and original song for Mudbound."
+  ],
+  "born": "01-11",
+  "keyAlbums": [
+   [
+    "What's the 411?",
+    1992
+   ],
+   [
+    "My Life",
+    1994
+   ],
+   [
+    "Share My World",
+    1997
+   ],
+   [
+    "The Breakthrough",
+    2005
+   ]
+  ],
+  "songs": [
+   "Real Love",
+   "Family Affair",
+   "Be Without You",
+   "I'm Goin' Down",
+   "No More Drama"
+  ],
+  "influencedBy": [
+   {
+    "id": "aretha-franklin",
+    "why": "Blige has named Aretha Franklin as her biggest vocal influence and performed tributes to her.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "notorious-big",
+    "why": "Her 1990s New York hip-hop counterpart, who rapped on her early records."
+   },
+   {
+    "id": "tupac",
+    "why": "A hip-hop star who poured pain and struggle into his records."
+   }
+  ]
+ },
+ {
+  "id": "tlc",
+  "years": "1990–present",
+  "origin": "Atlanta, Georgia",
+  "genres": [
+   "contemporary R&B",
+   "new jack swing",
+   "hip-hop soul"
+  ],
+  "summary": "TLC, with T-Boz, Left Eye and Chilli, became the best-selling American girl group, mixing R&B and hip-hop on albums like CrazySexyCool.",
+  "know": [
+   "CrazySexyCool (1994) was certified diamond in the U.S.",
+   "'Waterfalls' addressed drug dealing and HIV/AIDS.",
+   "Lisa 'Left Eye' Lopes died in a car crash in Honduras in 2002."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Ooooooohhh... On the TLC Tip",
+    1992
+   ],
+   [
+    "CrazySexyCool",
+    1994
+   ],
+   [
+    "FanMail",
+    1999
+   ]
+  ],
+  "songs": [
+   "Waterfalls",
+   "No Scrubs",
+   "Creep",
+   "Unpretty",
+   "Ain't 2 Proud 2 Beg"
+  ],
+  "influencedBy": [
+   {
+    "id": "prince",
+    "why": "CrazySexyCool includes a credited cover of Prince's 'If I Was Your Girlfriend'.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-chicks",
+    "why": "The best-selling female group in another genre, outspoken and unafraid."
+   },
+   {
+    "id": "missy-elliott",
+    "why": "Atlanta-adjacent 1990s artist mixing hip-hop and R&B with bold visuals."
+   }
+  ]
+ },
+ {
+  "id": "aaliyah",
+  "years": "1991–2001",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "contemporary R&B",
+   "hip-hop soul",
+   "dance-pop"
+  ],
+  "summary": "Aaliyah's cool, understated voice over Timbaland and Missy Elliott's stuttering beats made her one of the most influential R&B singers of the late 1990s before her death at 22.",
+  "know": [
+   "She performed on Star Search as a child.",
+   "'Try Again' (2000) topped the Hot 100 on airplay alone.",
+   "She died in a plane crash in the Bahamas in August 2001."
+  ],
+  "born": "01-16",
+  "keyAlbums": [
+   [
+    "Age Ain't Nothing but a Number",
+    1994
+   ],
+   [
+    "One in a Million",
+    1996
+   ],
+   [
+    "Aaliyah",
+    2001
+   ]
+  ],
+  "songs": [
+   "Try Again",
+   "One in a Million",
+   "Are You That Somebody?",
+   "Rock the Boat",
+   "Back & Forth"
+  ],
+  "influencedBy": [
+   {
+    "id": "missy-elliott",
+    "why": "Missy Elliott wrote and shaped One in a Million with Timbaland, defining Aaliyah's sound.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "portishead",
+    "why": "Cool, restrained vocals over unusual, futuristic beats."
+   }
+  ]
+ },
+ {
+  "id": "destinys-child",
+  "years": "1990–2006",
+  "origin": "Houston, Texas",
+  "genres": [
+   "contemporary R&B",
+   "dance-pop",
+   "hip-hop soul"
+  ],
+  "summary": "Houston's Destiny's Child, led by Beyoncé with Kelly Rowland and later Michelle Williams, became one of the biggest girl groups ever and launched Beyoncé's solo career.",
+  "know": [
+   "As Girls Tyme, they lost on Star Search in the early 1990s.",
+   "The group was managed by Beyoncé's father, Mathew Knowles.",
+   "'Say My Name' won two Grammy Awards."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Writing's on the Wall",
+    1999
+   ],
+   [
+    "Survivor",
+    2001
+   ],
+   [
+    "Destiny Fulfilled",
+    2004
+   ]
+  ],
+  "songs": [
+   "Say My Name",
+   "Survivor",
+   "Bootylicious",
+   "Independent Women Part I",
+   "Bills, Bills, Bills"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-supremes",
+    "why": "They have cited the Supremes as the model for a glamorous female vocal group.",
+    "s": 2
+   },
+   {
+    "id": "tlc",
+    "why": "TLC's success as an R&B girl group with hip-hop edge paved the way for them.",
+    "s": 2
+   },
+   {
+    "id": "fleetwood-mac",
+    "why": "'Bootylicious' is built on a credited sample of Stevie Nicks's 'Edge of Seventeen'.",
+    "s": 3
+   },
+   {
+    "id": "bee-gees",
+    "why": "They recorded a credited cover of the Gibbs' song 'Emotion'.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-chicks",
+    "why": "A best-selling female trio from the same era in country."
+   },
+   {
+    "id": "the-ronettes",
+    "why": "A girl group with attitude from the 1960s."
+   }
+  ]
+ },
+ {
+  "id": "usher",
+  "years": "1994–present",
+  "origin": "Chattanooga, Tennessee",
+  "genres": [
+   "contemporary R&B",
+   "crunk&B",
+   "dance-pop"
+  ],
+  "summary": "Usher is an Atlanta R&B singer and dancer whose album Confessions became one of the best-selling records of the 2000s.",
+  "know": [
+   "Confessions (2004) sold over a million copies in its first week.",
+   "He was mentored early by L.A. Reid and Sean Combs.",
+   "He headlined the Super Bowl halftime show in 2024."
+  ],
+  "born": "10-14",
+  "keyAlbums": [
+   [
+    "My Way",
+    1997
+   ],
+   [
+    "8701",
+    2001
+   ],
+   [
+    "Confessions",
+    2004
+   ],
+   [
+    "Raymond v. Raymond",
+    2010
+   ]
+  ],
+  "songs": [
+   "Yeah!",
+   "U Remind Me",
+   "Burn",
+   "You Make Me Wanna...",
+   "OMG"
+  ],
+  "influencedBy": [
+   {
+    "id": "michael-jackson",
+    "why": "Usher has named Michael Jackson as his biggest influence as a singer and dancer.",
+    "s": 3
+   },
+   {
+    "id": "james-brown",
+    "why": "He has cited James Brown's footwork and showmanship.",
+    "s": 2
+   },
+   {
+    "id": "marvin-gaye",
+    "why": "He has named Marvin Gaye among the soul singers he studied.",
+    "s": 2
+   },
+   {
+    "id": "prince",
+    "why": "His falsetto-driven R&B draws on Prince.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "justin-timberlake",
+    "why": "A pop singer-dancer who made R&B-leaning hits in the same era."
+   }
+  ]
+ },
+ {
+  "id": "alicia-keys",
+  "years": "2001–present",
+  "origin": "New York City, New York",
+  "genres": [
+   "neo-soul",
+   "contemporary R&B",
+   "piano soul"
+  ],
+  "summary": "Alicia Keys is a classically trained pianist and singer-songwriter whose 2001 debut Songs in A Minor brought piano-led soul back to the mainstream.",
+  "know": [
+   "She enrolled at Columbia University at 16 before leaving to focus on music.",
+   "Songs in A Minor won five Grammys in 2002.",
+   "She co-wrote and sang 'Empire State of Mind' with Jay-Z."
+  ],
+  "born": "01-25",
+  "keyAlbums": [
+   [
+    "Songs in A Minor",
+    2001
+   ],
+   [
+    "The Diary of Alicia Keys",
+    2003
+   ],
+   [
+    "As I Am",
+    2007
+   ],
+   [
+    "The Element of Freedom",
+    2009
+   ]
+  ],
+  "songs": [
+   "Fallin'",
+   "If I Ain't Got You",
+   "No One",
+   "Empire State of Mind",
+   "You Don't Know My Name"
+  ],
+  "influencedBy": [
+   {
+    "id": "prince",
+    "why": "Songs in A Minor includes a credited cover of Prince's 'How Come U Don't Call Me Anymore'.",
+    "s": 3
+   },
+   {
+    "id": "stevie-wonder",
+    "why": "Keys has named Stevie Wonder as a primary influence on her piano-led songwriting.",
+    "s": 3
+   },
+   {
+    "id": "nina-simone",
+    "why": "She has cited Nina Simone as an inspiration for blending classical piano with soul.",
+    "s": 3
+   },
+   {
+    "id": "marvin-gaye",
+    "why": "She has named Marvin Gaye among her soul influences.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "norah-jones",
+    "why": "A piano-playing singer whose debut became a huge crossover hit."
+   },
+   {
+    "id": "billy-joel",
+    "why": "A New York piano-playing songwriter."
+   }
+  ]
+ },
+ {
+  "id": "amy-winehouse",
+  "years": "2002–2011",
+  "origin": "London, England",
+  "genres": [
+   "neo-soul",
+   "retro soul",
+   "jazz"
+  ],
+  "summary": "Amy Winehouse combined 1960s girl-group soul and jazz phrasing with blunt, funny lyrics, and Back to Black sparked a British soul revival before her death at 27.",
+  "know": [
+   "Back to Black (2006) was produced by Mark Ronson and Salaam Remi.",
+   "She won five Grammys in 2008.",
+   "The Dap-Kings backed her on Back to Black."
+  ],
+  "born": "09-14",
+  "keyAlbums": [
+   [
+    "Frank",
+    2003
+   ],
+   [
+    "Back to Black",
+    2006
+   ]
+  ],
+  "songs": [
+   "Rehab",
+   "Back to Black",
+   "Valerie",
+   "You Know I'm No Good",
+   "Tears Dry on Their Own"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-ronettes",
+    "why": "Winehouse took her beehive, eyeliner and girl-group sound from Ronnie Spector, whom she admired.",
+    "s": 3
+   },
+   {
+    "id": "marvin-gaye",
+    "why": "'Tears Dry on Their Own' is built on a credited sample of 'Ain't No Mountain High Enough'.",
+    "s": 3
+   },
+   {
+    "id": "billie-holiday",
+    "why": "Her jazz phrasing is widely traced to Billie Holiday.",
+    "s": 2
+   },
+   {
+    "id": "frank-sinatra",
+    "why": "Her debut album Frank was named in part for Sinatra, a favorite of her family.",
+    "s": 2
+   },
+   {
+    "id": "nas",
+    "why": "A friend and favorite rapper; 'Me & Mr Jones' is about him.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "janis-joplin",
+    "why": "A raw, troubled singer who died at 27."
+   },
+   {
+    "id": "lauryn-hill",
+    "why": "A singer who blended soul, jazz and hip-hop on a landmark album."
+   }
+  ]
+ },
+ {
+  "id": "frank-ocean",
+  "years": "2009–present",
+  "origin": "New Orleans, Louisiana",
+  "genres": [
+   "alternative R&B",
+   "art pop",
+   "neo-soul"
+  ],
+  "summary": "Frank Ocean came out of the Odd Future collective and made Channel Orange and Blonde, introspective R&B albums that reshaped the genre in the 2010s.",
+  "know": [
+   "He wrote songs for artists including Justin Bieber and John Legend before going solo.",
+   "Before Channel Orange's release he posted a letter about his first love being a man.",
+   "Blonde (2016) was released independently a day after the visual album Endless fulfilled his Def Jam contract."
+  ],
+  "born": "10-28",
+  "keyAlbums": [
+   [
+    "Nostalgia, Ultra",
+    2011
+   ],
+   [
+    "Channel Orange",
+    2012
+   ],
+   [
+    "Blonde",
+    2016
+   ]
+  ],
+  "songs": [
+   "Thinkin Bout You",
+   "Pink + White",
+   "Nights",
+   "Self Control",
+   "Pyramids"
+  ],
+  "influencedBy": [
+   {
+    "id": "stevie-wonder",
+    "why": "Ocean has named Stevie Wonder as a key influence and paid tribute to him.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "Blonde's 'White Ferrari' credits a borrowing from 'Here, There and Everywhere'.",
+    "s": 3
+   },
+   {
+    "id": "eagles",
+    "why": "Nostalgia, Ultra's 'American Wedding' reworks 'Hotel California' wholesale.",
+    "s": 3
+   },
+   {
+    "id": "tyler-the-creator",
+    "why": "Ocean came up in Tyler's Odd Future collective.",
+    "s": 3
+   },
+   {
+    "id": "prince",
+    "why": "His falsetto and genre-blurring ballads are often linked to Prince.",
+    "s": 2
+   },
+   {
+    "id": "kanye-west",
+    "why": "He co-wrote on Watch the Throne and absorbed Kanye's maximal production.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bon-iver",
+    "why": "Introspective, textural music with heavily processed vocals."
+   },
+   {
+    "id": "radiohead",
+    "why": "An album-first act that makes moody, experimental records."
+   }
+  ]
+ },
+ {
+  "id": "the-weeknd",
+  "years": "2010–present",
+  "origin": "Toronto, Ontario, Canada",
+  "genres": [
+   "alternative R&B",
+   "synth-pop",
+   "dance-pop"
+  ],
+  "summary": "The Weeknd (Abel Tesfaye) emerged with anonymous mixtapes of dark, druggy R&B and became a global pop star with 1980s-styled hits like 'Blinding Lights'.",
+  "know": [
+   "He released three mixtapes in 2011, starting with House of Balloons.",
+   "'Blinding Lights' spent over a year in the Billboard Hot 100's top 10.",
+   "He headlined the Super Bowl halftime show in 2021."
+  ],
+  "born": "02-16",
+  "keyAlbums": [
+   [
+    "House of Balloons",
+    2011
+   ],
+   [
+    "Beauty Behind the Madness",
+    2015
+   ],
+   [
+    "Starboy",
+    2016
+   ],
+   [
+    "After Hours",
+    2020
+   ]
+  ],
+  "songs": [
+   "Blinding Lights",
+   "Can't Feel My Face",
+   "Starboy",
+   "The Hills",
+   "Save Your Tears"
+  ],
+  "influencedBy": [
+   {
+    "id": "michael-jackson",
+    "why": "The Weeknd has named Michael Jackson as his main vocal influence and covered 'Dirty Diana'.",
+    "s": 3
+   },
+   {
+    "id": "siouxsie",
+    "why": "'House of Balloons' is built on a credited sample of Siouxsie and the Banshees' 'Happy House'.",
+    "s": 3
+   },
+   {
+    "id": "prince",
+    "why": "His falsetto and dark sensuality draw on Prince.",
+    "s": 2
+   },
+   {
+    "id": "aaliyah",
+    "why": "He has cited Aaliyah, and his early moody R&B follows her sound.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "depeche-mode",
+    "why": "Dark, seductive synth music about desire and excess."
+   },
+   {
+    "id": "the-killers",
+    "why": "Neon-lit 1980s-inspired anthems."
+   }
+  ]
+ },
+ {
+  "id": "sza",
+  "years": "2012–present",
+  "origin": "Maplewood, New Jersey",
+  "genres": [
+   "alternative R&B",
+   "neo-soul",
+   "bedroom pop"
+  ],
+  "summary": "SZA is a Top Dawg Entertainment singer whose conversational, diary-like R&B on Ctrl and SOS made her one of the most popular voices of her generation.",
+  "know": [
+   "She was the first woman signed to Top Dawg Entertainment.",
+   "SOS (2022) spent 10 nonconsecutive weeks at No. 1.",
+   "She studied marine biology before dropping out to pursue music."
+  ],
+  "born": "11-08",
+  "keyAlbums": [
+   [
+    "Ctrl",
+    2017
+   ],
+   [
+    "SOS",
+    2022
+   ],
+   [
+    "Lana",
+    2024
+   ]
+  ],
+  "songs": [
+   "Kill Bill",
+   "The Weekend",
+   "Good Days",
+   "Love Galore",
+   "Snooze"
+  ],
+  "influencedBy": [
+   {
+    "id": "lauryn-hill",
+    "why": "SZA has named Lauryn Hill as a major influence on her singing and songwriting.",
+    "s": 3
+   },
+   {
+    "id": "bjork",
+    "why": "She has cited Björk as an influence on her experimental approach.",
+    "s": 3
+   },
+   {
+    "id": "erykah-badu",
+    "why": "Her loose, jazzy neo-soul phrasing follows Erykah Badu.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "phoebe-bridgers",
+    "why": "Diary-like, funny and wounded songwriting."
+   },
+   {
+    "id": "kendrick-lamar",
+    "why": "Her label mate, making personal, genre-blending records."
+   }
+  ]
+ },
+ {
+  "id": "anderson-paak",
+  "years": "2012–present",
+  "origin": "Oxnard, California",
+  "genres": [
+   "funk",
+   "neo-soul",
+   "hip-hop soul"
+  ],
+  "summary": "Anderson .Paak is a drummer, singer and rapper whose funk- and soul-steeped albums and his Silk Sonic duo with Bruno Mars made him one of the most versatile performers in modern R&B.",
+  "know": [
+   "He sings and raps from behind the drum kit with his band, the Free Nationals.",
+   "His breakthrough came with six guest spots on Dr. Dre's Compton (2015).",
+   "As Silk Sonic, he and Bruno Mars won Record and Song of the Year for 'Leave the Door Open'."
+  ],
+  "born": "02-08",
+  "keyAlbums": [
+   [
+    "Venice",
+    2014
+   ],
+   [
+    "Malibu",
+    2016
+   ],
+   [
+    "Oxnard",
+    2018
+   ],
+   [
+    "Ventura",
+    2019
+   ]
+  ],
+  "songs": [
+   "Come Down",
+   "The Bird",
+   "Leave the Door Open",
+   "Make It Better",
+   "Tints"
+  ],
+  "influencedBy": [
+   {
+    "id": "dr-dre",
+    "why": "Dre signed him to Aftermath and mentored him after featuring him on Compton.",
+    "s": 3
+   },
+   {
+    "id": "j-dilla",
+    "why": "His loose, swinging drum feel draws on Dilla's beats.",
+    "s": 2
+   },
+   {
+    "id": "stevie-wonder",
+    "why": "His 1970s-style soul songwriting follows Stevie Wonder.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-roots",
+    "why": "A live band that blurs hip-hop, funk and soul."
+   },
+   {
+    "id": "robert-glasper",
+    "why": "A musician moving freely between jazz, soul and hip-hop."
+   }
+  ]
+ },
+ {
+  "id": "leon-bridges",
+  "years": "2014–present",
+  "origin": "Fort Worth, Texas",
+  "genres": [
+   "retro soul",
+   "Southern soul",
+   "gospel"
+  ],
+  "summary": "Leon Bridges is a Fort Worth singer whose debut Coming Home closely recreated the sound of early-1960s soul before he branched into more modern R&B.",
+  "know": [
+   "He was washing dishes when he began writing his first songs.",
+   "Coming Home (2015) was nominated for the Grammy for Best R&B Album.",
+   "He made two EPs with the Texas band Khruangbin."
+  ],
+  "born": "07-13",
+  "keyAlbums": [
+   [
+    "Coming Home",
+    2015
+   ],
+   [
+    "Good Thing",
+    2018
+   ],
+   [
+    "Gold-Diggers Sound",
+    2021
+   ],
+   [
+    "Leon",
+    2024
+   ]
+  ],
+  "songs": [
+   "Coming Home",
+   "River",
+   "Bad Bad News",
+   "Beyond",
+   "Texas Sun"
+  ],
+  "influencedBy": [
+   {
+    "id": "sam-cooke",
+    "why": "Bridges has named Sam Cooke as his biggest influence and model for Coming Home.",
+    "s": 3
+   },
+   {
+    "id": "otis-redding",
+    "why": "His early-1960s Southern soul sound draws on Otis Redding.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "chris-stapleton",
+    "why": "A Southern singer with a warm, old-school voice."
+   },
+   {
+    "id": "gary-clark-jr",
+    "why": "A Texas musician reviving classic roots sounds."
+   }
+  ]
+ },
+ {
+  "id": "solange",
+  "years": "2002–present",
+  "origin": "Houston, Texas",
+  "genres": [
+   "alternative R&B",
+   "art pop",
+   "neo-soul"
+  ],
+  "summary": "Solange Knowles moved from Motown-style pop to experimental R&B, and A Seat at the Table became a widely praised statement on Black identity.",
+  "know": [
+   "She toured with Destiny's Child as a backup dancer as a teenager.",
+   "'Cranes in the Sky' won the Grammy for Best R&B Performance.",
+   "A Seat at the Table (2016) was her first No. 1 album."
+  ],
+  "born": "06-24",
+  "keyAlbums": [
+   [
+    "Sol-Angel and the Hadley St. Dreams",
+    2008
+   ],
+   [
+    "True",
+    2012
+   ],
+   [
+    "A Seat at the Table",
+    2016
+   ],
+   [
+    "When I Get Home",
+    2019
+   ]
+  ],
+  "songs": [
+   "Cranes in the Sky",
+   "Don't Touch My Hair",
+   "Losing You",
+   "Sandcastle Disco",
+   "Almeda"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-supremes",
+    "why": "Sol-Angel and the Hadley St. Dreams was an open homage to Motown girl-group soul.",
+    "s": 2
+   },
+   {
+    "id": "erykah-badu",
+    "why": "Her experimental, spiritual R&B follows Erykah Badu, whom she has cited.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bjork",
+    "why": "An art-pop experimenter who treats albums as complete visual works."
+   },
+   {
+    "id": "robert-glasper",
+    "why": "Jazz-rooted music blending soul and experimentation."
+   }
+  ]
+ }
+]

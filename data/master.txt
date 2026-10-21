@@ -1,0 +1,433 @@
+# id|Name|decade|family   (families: blues, jazz, country, folk, rock, alt, metal, soul, pop, hiphop, electronic, reggae, latin)
+scott-joplin|Scott Joplin|1900s|jazz
+jelly-roll-morton|Jelly Roll Morton|1910s|jazz
+ma-rainey|Ma Rainey|1920s|blues
+bessie-smith|Bessie Smith|1920s|blues
+charley-patton|Charley Patton|1920s|blues
+blind-lemon-jefferson|Blind Lemon Jefferson|1920s|blues
+mississippi-john-hurt|Mississippi John Hurt|1920s|blues
+king-oliver|King Oliver|1920s|jazz
+louis-armstrong|Louis Armstrong|1920s|jazz
+bix-beiderbecke|Bix Beiderbecke|1920s|jazz
+duke-ellington|Duke Ellington|1920s|jazz
+carter-family|The Carter Family|1920s|country
+jimmie-rodgers|Jimmie Rodgers|1920s|country
+son-house|Son House|1930s|blues
+robert-johnson|Robert Johnson|1930s|blues
+skip-james|Skip James|1930s|blues
+lead-belly|Lead Belly|1930s|blues
+fats-waller|Fats Waller|1930s|jazz
+art-tatum|Art Tatum|1930s|jazz
+count-basie|Count Basie|1930s|jazz
+benny-goodman|Benny Goodman|1930s|jazz
+billie-holiday|Billie Holiday|1930s|jazz
+coleman-hawkins|Coleman Hawkins|1930s|jazz
+lester-young|Lester Young|1930s|jazz
+django-reinhardt|Django Reinhardt|1930s|jazz
+bob-wills|Bob Wills|1930s|country
+bing-crosby|Bing Crosby|1930s|pop
+t-bone-walker|T-Bone Walker|1940s|blues
+john-lee-hooker|John Lee Hooker|1940s|blues
+sister-rosetta-tharpe|Sister Rosetta Tharpe|1940s|blues
+louis-jordan|Louis Jordan|1940s|blues
+charlie-christian|Charlie Christian|1940s|jazz
+charlie-parker|Charlie Parker|1940s|jazz
+dizzy-gillespie|Dizzy Gillespie|1940s|jazz
+thelonious-monk|Thelonious Monk|1940s|jazz
+ella-fitzgerald|Ella Fitzgerald|1940s|jazz
+nat-king-cole|Nat King Cole|1940s|jazz
+frank-sinatra|Frank Sinatra|1940s|pop
+bill-monroe|Bill Monroe|1940s|country
+hank-williams|Hank Williams|1940s|country
+woody-guthrie|Woody Guthrie|1940s|folk
+muddy-waters|Muddy Waters|1950s|blues
+howlin-wolf|Howlin' Wolf|1950s|blues
+bb-king|B.B. King|1950s|blues
+willie-dixon|Willie Dixon|1950s|blues
+little-walter|Little Walter|1950s|blues
+elmore-james|Elmore James|1950s|blues
+jimmy-reed|Jimmy Reed|1950s|blues
+mahalia-jackson|Mahalia Jackson|1950s|blues
+miles-davis|Miles Davis|1950s|jazz
+john-coltrane|John Coltrane|1950s|jazz
+charles-mingus|Charles Mingus|1950s|jazz
+sonny-rollins|Sonny Rollins|1950s|jazz
+art-blakey|Art Blakey|1950s|jazz
+dave-brubeck|Dave Brubeck|1950s|jazz
+bill-evans|Bill Evans|1950s|jazz
+ornette-coleman|Ornette Coleman|1950s|jazz
+sun-ra|Sun Ra|1950s|jazz
+lefty-frizzell|Lefty Frizzell|1950s|country
+patsy-cline|Patsy Cline|1950s|country
+johnny-cash|Johnny Cash|1950s|country
+pete-seeger|Pete Seeger|1950s|folk
+odetta|Odetta|1950s|folk
+lonnie-donegan|Lonnie Donegan|1950s|folk
+chuck-berry|Chuck Berry|1950s|rock
+little-richard|Little Richard|1950s|rock
+fats-domino|Fats Domino|1950s|rock
+bo-diddley|Bo Diddley|1950s|rock
+elvis-presley|Elvis Presley|1950s|rock
+buddy-holly|Buddy Holly|1950s|rock
+jerry-lee-lewis|Jerry Lee Lewis|1950s|rock
+carl-perkins|Carl Perkins|1950s|rock
+everly-brothers|The Everly Brothers|1950s|rock
+eddie-cochran|Eddie Cochran|1950s|rock
+ray-charles|Ray Charles|1950s|soul
+sam-cooke|Sam Cooke|1950s|soul
+james-brown|James Brown|1950s|soul
+tito-puente|Tito Puente|1950s|latin
+celia-cruz|Celia Cruz|1950s|latin
+antonio-carlos-jobim|Antônio Carlos Jobim|1950s|latin
+joao-gilberto|João Gilberto|1950s|latin
+ravi-shankar|Ravi Shankar|1950s|latin
+buddy-guy|Buddy Guy|1960s|blues
+albert-king|Albert King|1960s|blues
+freddie-king|Freddie King|1960s|blues
+nina-simone|Nina Simone|1960s|jazz
+herbie-hancock|Herbie Hancock|1960s|jazz
+pharoah-sanders|Pharoah Sanders|1960s|jazz
+wes-montgomery|Wes Montgomery|1960s|jazz
+buck-owens|Buck Owens|1960s|country
+merle-haggard|Merle Haggard|1960s|country
+george-jones|George Jones|1960s|country
+loretta-lynn|Loretta Lynn|1960s|country
+dolly-parton|Dolly Parton|1960s|country
+gram-parsons|Gram Parsons|1960s|country
+joan-baez|Joan Baez|1960s|folk
+bob-dylan|Bob Dylan|1960s|folk
+simon-garfunkel|Simon & Garfunkel|1960s|folk
+joni-mitchell|Joni Mitchell|1960s|folk
+leonard-cohen|Leonard Cohen|1960s|folk
+nick-drake|Nick Drake|1960s|folk
+crosby-stills-nash|Crosby, Stills & Nash|1960s|folk
+roy-orbison|Roy Orbison|1960s|rock
+the-beatles|The Beatles|1960s|rock
+the-rolling-stones|The Rolling Stones|1960s|rock
+the-kinks|The Kinks|1960s|rock
+the-who|The Who|1960s|rock
+the-yardbirds|The Yardbirds|1960s|rock
+the-animals|The Animals|1960s|rock
+the-byrds|The Byrds|1960s|rock
+the-velvet-underground|The Velvet Underground|1960s|rock
+the-doors|The Doors|1960s|rock
+jimi-hendrix|Jimi Hendrix|1960s|rock
+cream|Cream|1960s|rock
+pink-floyd|Pink Floyd|1960s|rock
+the-zombies|The Zombies|1960s|rock
+jefferson-airplane|Jefferson Airplane|1960s|rock
+grateful-dead|Grateful Dead|1960s|rock
+janis-joplin|Janis Joplin|1960s|rock
+creedence|Creedence Clearwater Revival|1960s|rock
+santana|Santana|1960s|rock
+led-zeppelin|Led Zeppelin|1960s|rock
+king-crimson|King Crimson|1960s|rock
+frank-zappa|Frank Zappa|1960s|rock
+captain-beefheart|Captain Beefheart|1960s|rock
+neil-young|Neil Young|1960s|rock
+the-band|The Band|1960s|rock
+the-stooges|The Stooges|1960s|alt
+mc5|MC5|1960s|alt
+the-beach-boys|The Beach Boys|1960s|pop
+the-ronettes|The Ronettes|1960s|pop
+otis-redding|Otis Redding|1960s|soul
+aretha-franklin|Aretha Franklin|1960s|soul
+etta-james|Etta James|1960s|soul
+smokey-robinson|Smokey Robinson & the Miracles|1960s|soul
+the-supremes|The Supremes|1960s|soul
+marvin-gaye|Marvin Gaye|1960s|soul
+stevie-wonder|Stevie Wonder|1960s|soul
+the-temptations|The Temptations|1960s|soul
+curtis-mayfield|Curtis Mayfield|1960s|soul
+sly-and-the-family-stone|Sly and the Family Stone|1960s|soul
+the-meters|The Meters|1960s|soul
+booker-t|Booker T. & the M.G.'s|1960s|soul
+the-jackson-5|The Jackson 5|1960s|soul
+toots|Toots and the Maytals|1960s|reggae
+caetano-veloso|Caetano Veloso|1960s|latin
+os-mutantes|Os Mutantes|1960s|latin
+weather-report|Weather Report|1970s|jazz
+willie-nelson|Willie Nelson|1970s|country
+waylon-jennings|Waylon Jennings|1970s|country
+emmylou-harris|Emmylou Harris|1970s|country
+james-taylor|James Taylor|1970s|folk
+cat-stevens|Cat Stevens|1970s|folk
+john-prine|John Prine|1970s|folk
+townes-van-zandt|Townes Van Zandt|1970s|folk
+black-sabbath|Black Sabbath|1970s|metal
+deep-purple|Deep Purple|1970s|rock
+the-allman-brothers|The Allman Brothers Band|1970s|rock
+lynyrd-skynyrd|Lynyrd Skynyrd|1970s|rock
+david-bowie|David Bowie|1970s|rock
+t-rex|T. Rex|1970s|rock
+queen|Queen|1970s|rock
+genesis|Genesis|1970s|rock
+yes|Yes|1970s|rock
+rush|Rush|1970s|rock
+fleetwood-mac|Fleetwood Mac|1970s|rock
+eagles|Eagles|1970s|rock
+bruce-springsteen|Bruce Springsteen|1970s|rock
+tom-petty|Tom Petty and the Heartbreakers|1970s|rock
+aerosmith|Aerosmith|1970s|rock
+kiss|Kiss|1970s|rock
+ac-dc|AC/DC|1970s|rock
+van-halen|Van Halen|1970s|rock
+steely-dan|Steely Dan|1970s|rock
+big-star|Big Star|1970s|rock
+roxy-music|Roxy Music|1970s|rock
+can|Can|1970s|rock
+electric-light-orchestra|Electric Light Orchestra|1970s|rock
+eric-clapton|Eric Clapton|1970s|rock
+the-police|The Police|1970s|rock
+elvis-costello|Elvis Costello|1970s|rock
+new-york-dolls|New York Dolls|1970s|alt
+ramones|Ramones|1970s|alt
+patti-smith|Patti Smith|1970s|alt
+television|Television|1970s|alt
+sex-pistols|Sex Pistols|1970s|alt
+the-clash|The Clash|1970s|alt
+talking-heads|Talking Heads|1970s|alt
+joy-division|Joy Division|1970s|alt
+the-cure|The Cure|1970s|alt
+siouxsie|Siouxsie and the Banshees|1970s|alt
+buzzcocks|Buzzcocks|1970s|alt
+blondie|Blondie|1970s|alt
+devo|Devo|1970s|alt
+judas-priest|Judas Priest|1970s|metal
+motorhead|Motörhead|1970s|metal
+elton-john|Elton John|1970s|pop
+billy-joel|Billy Joel|1970s|pop
+carole-king|Carole King|1970s|pop
+abba|ABBA|1970s|pop
+bee-gees|Bee Gees|1970s|pop
+kate-bush|Kate Bush|1970s|pop
+al-green|Al Green|1970s|soul
+isaac-hayes|Isaac Hayes|1970s|soul
+bill-withers|Bill Withers|1970s|soul
+parliament-funkadelic|Parliament-Funkadelic|1970s|soul
+earth-wind-fire|Earth, Wind & Fire|1970s|soul
+chic|Chic|1970s|soul
+donna-summer|Donna Summer|1970s|soul
+gil-scott-heron|Gil Scott-Heron|1970s|soul
+dj-kool-herc|DJ Kool Herc|1970s|hiphop
+grandmaster-flash|Grandmaster Flash and the Furious Five|1970s|hiphop
+sugarhill-gang|The Sugarhill Gang|1970s|hiphop
+kraftwerk|Kraftwerk|1970s|electronic
+giorgio-moroder|Giorgio Moroder|1970s|electronic
+brian-eno|Brian Eno|1970s|electronic
+yellow-magic-orchestra|Yellow Magic Orchestra|1970s|electronic
+bob-marley|Bob Marley and the Wailers|1970s|reggae
+lee-scratch-perry|Lee "Scratch" Perry|1970s|reggae
+king-tubby|King Tubby|1970s|reggae
+jimmy-cliff|Jimmy Cliff|1970s|reggae
+the-specials|The Specials|1970s|reggae
+fela-kuti|Fela Kuti|1970s|latin
+stevie-ray-vaughan|Stevie Ray Vaughan|1980s|blues
+george-strait|George Strait|1980s|country
+dwight-yoakam|Dwight Yoakam|1980s|country
+tracy-chapman|Tracy Chapman|1980s|folk
+u2|U2|1980s|rock
+guns-n-roses|Guns N' Roses|1980s|rock
+new-order|New Order|1980s|alt
+the-smiths|The Smiths|1980s|alt
+rem|R.E.M.|1980s|alt
+black-flag|Black Flag|1980s|alt
+minor-threat|Minor Threat|1980s|alt
+bad-brains|Bad Brains|1980s|alt
+husker-du|Hüsker Dü|1980s|alt
+the-replacements|The Replacements|1980s|alt
+sonic-youth|Sonic Youth|1980s|alt
+pixies|Pixies|1980s|alt
+the-jesus-and-mary-chain|The Jesus and Mary Chain|1980s|alt
+my-bloody-valentine|My Bloody Valentine|1980s|alt
+the-stone-roses|The Stone Roses|1980s|alt
+red-hot-chili-peppers|Red Hot Chili Peppers|1980s|alt
+iron-maiden|Iron Maiden|1980s|metal
+metallica|Metallica|1980s|metal
+slayer|Slayer|1980s|metal
+megadeth|Megadeth|1980s|metal
+michael-jackson|Michael Jackson|1980s|pop
+madonna|Madonna|1980s|pop
+whitney-houston|Whitney Houston|1980s|pop
+janet-jackson|Janet Jackson|1980s|pop
+george-michael|George Michael|1980s|pop
+prince|Prince|1980s|soul
+afrika-bambaataa|Afrika Bambaataa|1980s|hiphop
+run-dmc|Run-DMC|1980s|hiphop
+ll-cool-j|LL Cool J|1980s|hiphop
+beastie-boys|Beastie Boys|1980s|hiphop
+rakim|Eric B. & Rakim|1980s|hiphop
+krs-one|Boogie Down Productions|1980s|hiphop
+public-enemy|Public Enemy|1980s|hiphop
+nwa|N.W.A|1980s|hiphop
+de-la-soul|De La Soul|1980s|hiphop
+slick-rick|Slick Rick|1980s|hiphop
+frankie-knuckles|Frankie Knuckles|1980s|electronic
+juan-atkins|Juan Atkins|1980s|electronic
+depeche-mode|Depeche Mode|1980s|electronic
+rl-burnside|R.L. Burnside|1990s|blues
+garth-brooks|Garth Brooks|1990s|country
+shania-twain|Shania Twain|1990s|country
+alison-krauss|Alison Krauss|1990s|country
+the-chicks|The Chicks|1990s|country
+elliott-smith|Elliott Smith|1990s|folk
+jeff-buckley|Jeff Buckley|1990s|rock
+the-black-crowes|The Black Crowes|1990s|rock
+nirvana|Nirvana|1990s|alt
+pearl-jam|Pearl Jam|1990s|alt
+soundgarden|Soundgarden|1990s|alt
+alice-in-chains|Alice in Chains|1990s|alt
+smashing-pumpkins|The Smashing Pumpkins|1990s|alt
+radiohead|Radiohead|1990s|alt
+oasis|Oasis|1990s|alt
+blur|Blur|1990s|alt
+pavement|Pavement|1990s|alt
+weezer|Weezer|1990s|alt
+green-day|Green Day|1990s|alt
+foo-fighters|Foo Fighters|1990s|alt
+beck|Beck|1990s|alt
+pj-harvey|PJ Harvey|1990s|alt
+neutral-milk-hotel|Neutral Milk Hotel|1990s|alt
+modest-mouse|Modest Mouse|1990s|alt
+nine-inch-nails|Nine Inch Nails|1990s|alt
+pantera|Pantera|1990s|metal
+tool|Tool|1990s|metal
+korn|Korn|1990s|metal
+system-of-a-down|System of a Down|1990s|metal
+deftones|Deftones|1990s|metal
+slipknot|Slipknot|1990s|metal
+rage-against-the-machine|Rage Against the Machine|1990s|metal
+britney-spears|Britney Spears|1990s|pop
+nsync|*NSYNC|1990s|pop
+d-angelo|D'Angelo|1990s|soul
+erykah-badu|Erykah Badu|1990s|soul
+mary-j-blige|Mary J. Blige|1990s|soul
+tlc|TLC|1990s|soul
+aaliyah|Aaliyah|1990s|soul
+destinys-child|Destiny's Child|1990s|soul
+usher|Usher|1990s|soul
+lauryn-hill|Lauryn Hill|1990s|hiphop
+dr-dre|Dr. Dre|1990s|hiphop
+snoop-dogg|Snoop Dogg|1990s|hiphop
+ice-cube|Ice Cube|1990s|hiphop
+wu-tang-clan|Wu-Tang Clan|1990s|hiphop
+nas|Nas|1990s|hiphop
+notorious-big|The Notorious B.I.G.|1990s|hiphop
+tupac|2Pac|1990s|hiphop
+jay-z|Jay-Z|1990s|hiphop
+a-tribe-called-quest|A Tribe Called Quest|1990s|hiphop
+outkast|OutKast|1990s|hiphop
+the-roots|The Roots|1990s|hiphop
+mos-def|Mos Def (Yasiin Bey)|1990s|hiphop
+mf-doom|MF DOOM|1990s|hiphop
+j-dilla|J Dilla|1990s|hiphop
+missy-elliott|Missy Elliott|1990s|hiphop
+three-6-mafia|Three 6 Mafia|1990s|hiphop
+ugk|UGK|1990s|hiphop
+eminem|Eminem|1990s|hiphop
+aphex-twin|Aphex Twin|1990s|electronic
+daft-punk|Daft Punk|1990s|electronic
+the-chemical-brothers|The Chemical Brothers|1990s|electronic
+massive-attack|Massive Attack|1990s|electronic
+portishead|Portishead|1990s|electronic
+dj-shadow|DJ Shadow|1990s|electronic
+the-prodigy|The Prodigy|1990s|electronic
+bjork|Björk|1990s|electronic
+selena|Selena|1990s|latin
+shakira|Shakira|1990s|latin
+norah-jones|Norah Jones|2000s|jazz
+iron-and-wine|Iron & Wine|2000s|folk
+sufjan-stevens|Sufjan Stevens|2000s|folk
+fleet-foxes|Fleet Foxes|2000s|folk
+bon-iver|Bon Iver|2000s|folk
+the-white-stripes|The White Stripes|2000s|alt
+the-strokes|The Strokes|2000s|alt
+yeah-yeah-yeahs|Yeah Yeah Yeahs|2000s|alt
+interpol|Interpol|2000s|alt
+the-killers|The Killers|2000s|alt
+arcade-fire|Arcade Fire|2000s|alt
+the-black-keys|The Black Keys|2000s|alt
+queens-of-the-stone-age|Queens of the Stone Age|2000s|alt
+kings-of-leon|Kings of Leon|2000s|alt
+arctic-monkeys|Arctic Monkeys|2000s|alt
+the-national|The National|2000s|alt
+vampire-weekend|Vampire Weekend|2000s|alt
+my-chemical-romance|My Chemical Romance|2000s|alt
+paramore|Paramore|2000s|alt
+mastodon|Mastodon|2000s|metal
+gojira|Gojira|2000s|metal
+taylor-swift|Taylor Swift|2000s|pop
+justin-timberlake|Justin Timberlake|2000s|pop
+lady-gaga|Lady Gaga|2000s|pop
+rihanna|Rihanna|2000s|pop
+adele|Adele|2000s|pop
+robyn|Robyn|2000s|pop
+beyonce|Beyoncé|2000s|pop
+alicia-keys|Alicia Keys|2000s|soul
+amy-winehouse|Amy Winehouse|2000s|soul
+lil-wayne|Lil Wayne|2000s|hiphop
+kanye-west|Kanye West|2000s|hiphop
+gucci-mane|Gucci Mane|2000s|hiphop
+kid-cudi|Kid Cudi|2000s|hiphop
+drake|Drake|2000s|hiphop
+lcd-soundsystem|LCD Soundsystem|2000s|electronic
+burial|Burial|2000s|electronic
+flying-lotus|Flying Lotus|2000s|electronic
+the-avalanches|The Avalanches|2000s|electronic
+daddy-yankee|Daddy Yankee|2000s|latin
+gary-clark-jr|Gary Clark Jr.|2010s|blues
+kamasi-washington|Kamasi Washington|2010s|jazz
+robert-glasper|Robert Glasper|2010s|jazz
+esperanza-spalding|Esperanza Spalding|2010s|jazz
+chris-stapleton|Chris Stapleton|2010s|country
+sturgill-simpson|Sturgill Simpson|2010s|country
+kacey-musgraves|Kacey Musgraves|2010s|country
+tyler-childers|Tyler Childers|2010s|country
+jason-isbell|Jason Isbell|2010s|country
+mumford-sons|Mumford & Sons|2010s|folk
+phoebe-bridgers|Phoebe Bridgers|2010s|folk
+greta-van-fleet|Greta Van Fleet|2010s|rock
+the-war-on-drugs|The War on Drugs|2010s|alt
+tame-impala|Tame Impala|2010s|alt
+the-1975|The 1975|2010s|alt
+fontaines-dc|Fontaines D.C.|2010s|alt
+idles|Idles|2010s|alt
+ghost|Ghost|2010s|metal
+lorde|Lorde|2010s|pop
+billie-eilish|Billie Eilish|2010s|pop
+dua-lipa|Dua Lipa|2010s|pop
+harry-styles|Harry Styles|2010s|pop
+charli-xcx|Charli XCX|2010s|pop
+lana-del-rey|Lana Del Rey|2010s|pop
+ed-sheeran|Ed Sheeran|2010s|pop
+bruno-mars|Bruno Mars|2010s|pop
+frank-ocean|Frank Ocean|2010s|soul
+the-weeknd|The Weeknd|2010s|soul
+sza|SZA|2010s|soul
+anderson-paak|Anderson .Paak|2010s|soul
+leon-bridges|Leon Bridges|2010s|soul
+solange|Solange|2010s|soul
+kendrick-lamar|Kendrick Lamar|2010s|hiphop
+j-cole|J. Cole|2010s|hiphop
+tyler-the-creator|Tyler, the Creator|2010s|hiphop
+future|Future|2010s|hiphop
+migos|Migos|2010s|hiphop
+travis-scott|Travis Scott|2010s|hiphop
+young-thug|Young Thug|2010s|hiphop
+lil-uzi-vert|Lil Uzi Vert|2010s|hiphop
+chief-keef|Chief Keef|2010s|hiphop
+playboi-carti|Playboi Carti|2010s|hiphop
+childish-gambino|Childish Gambino|2010s|hiphop
+pop-smoke|Pop Smoke|2010s|hiphop
+skrillex|Skrillex|2010s|electronic
+bad-bunny|Bad Bunny|2010s|latin
+rosalia|Rosalía|2010s|latin
+burna-boy|Burna Boy|2010s|latin
+zach-bryan|Zach Bryan|2020s|country
+morgan-wallen|Morgan Wallen|2020s|country
+noah-kahan|Noah Kahan|2020s|folk
+olivia-rodrigo|Olivia Rodrigo|2020s|pop
+sabrina-carpenter|Sabrina Carpenter|2020s|pop
+chappell-roan|Chappell Roan|2020s|pop
+doechii|Doechii|2020s|hiphop
+fred-again|Fred again..|2020s|electronic

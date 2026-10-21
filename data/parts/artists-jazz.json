@@ -1,0 +1,2316 @@
+[
+ {
+  "id": "scott-joplin",
+  "years": "1868–1917",
+  "origin": "Texarkana, Texas",
+  "genres": [
+   "ragtime",
+   "classic ragtime"
+  ],
+  "summary": "The leading composer of ragtime, whose syncopated piano pieces laid rhythmic groundwork that early jazz built on.",
+  "know": [
+   "His Maple Leaf Rag sold widely as sheet music and made him the best known ragtime writer.",
+   "He wrote a full opera, Treemonisha, which was not properly staged until decades after his death.",
+   "The 1973 film The Sting used his rags and set off a big revival of his music."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Treemonisha",
+    1911
+   ]
+  ],
+  "songs": [
+   "Maple Leaf Rag",
+   "The Entertainer",
+   "Solace",
+   "Elite Syncopations",
+   "Pine Apple Rag"
+  ],
+  "influencedBy": [],
+  "cousins": [
+   {
+    "id": "charley-patton",
+    "why": "A founding figure whose early form became the base for a whole tradition."
+   },
+   {
+    "id": "jimmie-rodgers",
+    "why": "An early pioneer who set the template for the genre that followed."
+   }
+  ]
+ },
+ {
+  "id": "jelly-roll-morton",
+  "years": "1890–1941",
+  "origin": "New Orleans, Louisiana",
+  "genres": [
+   "New Orleans jazz",
+   "ragtime",
+   "stride"
+  ],
+  "summary": "An early New Orleans pianist and arranger who showed that jazz could be composed and arranged, not just improvised.",
+  "know": [
+   "He loudly claimed to have invented jazz, a boast that overshadowed his real achievements.",
+   "His Red Hot Peppers recordings for Victor in the 1920s are models of tightly arranged small band jazz.",
+   "In 1938 he recorded long spoken and played interviews for the Library of Congress with Alan Lomax."
+  ],
+  "born": "10-20",
+  "keyAlbums": [
+   [
+    "The Library of Congress Recordings",
+    1938
+   ]
+  ],
+  "songs": [
+   "King Porter Stomp",
+   "Black Bottom Stomp",
+   "Jelly Roll Blues",
+   "Dead Man Blues",
+   "Wolverine Blues"
+  ],
+  "influencedBy": [
+   {
+    "id": "scott-joplin",
+    "why": "Learned ragtime from Joplin's pieces and demonstrated for Lomax how he loosened them into a jazz feel.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "robert-johnson",
+    "why": "A self-mythologizing early figure whose legend grew alongside his music."
+   },
+   {
+    "id": "charley-patton",
+    "why": "A colorful early showman who helped define a regional style."
+   }
+  ]
+ },
+ {
+  "id": "king-oliver",
+  "years": "1881–1938",
+  "origin": "New Orleans, Louisiana",
+  "genres": [
+   "New Orleans jazz",
+   "dixieland"
+  ],
+  "summary": "A cornet leader whose Creole Jazz Band made some of the first great jazz records and who mentored Louis Armstrong.",
+  "know": [
+   "His 1923 Creole Jazz Band sessions are among the most important early jazz recordings.",
+   "He was known for using mutes and plungers to make his horn growl and talk.",
+   "He brought a young Louis Armstrong from New Orleans to Chicago as second cornet in 1922."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "King Oliver's Creole Jazz Band",
+    1923
+   ]
+  ],
+  "songs": [
+   "Dipper Mouth Blues",
+   "Snake Rag",
+   "Canal Street Blues",
+   "West End Blues",
+   "Sugar Foot Stomp"
+  ],
+  "influencedBy": [],
+  "cousins": [
+   {
+    "id": "muddy-waters",
+    "why": "A bandleader who shaped a city scene and trained the next generation of stars."
+   },
+   {
+    "id": "bill-monroe",
+    "why": "A bandleader whose group became the training ground for a genre's next stars."
+   }
+  ]
+ },
+ {
+  "id": "louis-armstrong",
+  "years": "1901–1971",
+  "origin": "New Orleans, Louisiana",
+  "genres": [
+   "New Orleans jazz",
+   "traditional jazz",
+   "vocal jazz",
+   "swing"
+  ],
+  "summary": "The trumpeter and singer who turned jazz into a soloist's art and taught popular singers how to swing.",
+  "know": [
+   "His Hot Five and Hot Seven recordings of the late 1920s set the standard for jazz soloing.",
+   "He helped popularize scat singing, using wordless syllables like a horn line.",
+   "He played trumpet on a 1930 Jimmie Rodgers record, an early meeting of jazz and country."
+  ],
+  "born": "08-04",
+  "keyAlbums": [
+   [
+    "Hot Fives and Hot Sevens",
+    1928
+   ],
+   [
+    "Louis Armstrong Plays W.C. Handy",
+    1954
+   ],
+   [
+    "Satch Plays Fats",
+    1955
+   ],
+   [
+    "Ella and Louis",
+    1956
+   ]
+  ],
+  "songs": [
+   "West End Blues",
+   "Potato Head Blues",
+   "Heebie Jeebies",
+   "What a Wonderful World",
+   "Hello, Dolly!"
+  ],
+  "influencedBy": [
+   {
+    "id": "king-oliver",
+    "why": "Treated Oliver as his mentor and played second cornet in his Creole Jazz Band from 1922.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bing-crosby",
+    "why": "A defining popular voice who made relaxed, swinging phrasing the norm for singers."
+   },
+   {
+    "id": "chuck-berry",
+    "why": "A player who turned his instrument into the lead voice of a new popular style."
+   }
+  ]
+ },
+ {
+  "id": "bix-beiderbecke",
+  "years": "1903–1931",
+  "origin": "Davenport, Iowa",
+  "genres": [
+   "Chicago jazz",
+   "dixieland",
+   "hot jazz"
+  ],
+  "summary": "A self taught cornetist whose clear, lyrical tone offered a cooler alternative to hot trumpet and pointed toward later cool jazz.",
+  "know": [
+   "He was largely self taught and read music poorly, learning by ear from records.",
+   "His recordings with saxophonist Frankie Trumbauer, especially Singin' the Blues, were studied by many horn players.",
+   "He died at 28, and his brief career became one of jazz's first tragic legends."
+  ],
+  "born": "03-10",
+  "keyAlbums": [
+   [
+    "Singin' the Blues",
+    1927
+   ]
+  ],
+  "songs": [
+   "Singin' the Blues",
+   "In a Mist",
+   "Riverboat Shuffle",
+   "Davenport Blues",
+   "I'm Coming, Virginia"
+  ],
+  "influencedBy": [
+   {
+    "id": "louis-armstrong",
+    "why": "Heard Armstrong playing on Mississippi riverboats as a teenager and was deeply impressed by his playing.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "nick-drake",
+    "why": "A gentle, introspective stylist who died young and was mythologized afterward."
+   },
+   {
+    "id": "jeff-buckley",
+    "why": "A gifted, short lived talent whose small output became legendary."
+   }
+  ]
+ },
+ {
+  "id": "duke-ellington",
+  "years": "1899–1974",
+  "origin": "Washington, D.C.",
+  "genres": [
+   "big band",
+   "swing",
+   "orchestral jazz"
+  ],
+  "summary": "The most important composer in jazz, who wrote for the specific voices of his band members for half a century.",
+  "know": [
+   "His orchestra's residency at Harlem's Cotton Club from 1927 made him nationally famous.",
+   "He worked closely with composer Billy Strayhorn, who wrote Take the A Train for the band.",
+   "His 1956 Newport Jazz Festival set revived his career and put him on the cover of Time."
+  ],
+  "born": "04-29",
+  "keyAlbums": [
+   [
+    "Ellington at Newport",
+    1956
+   ],
+   [
+    "Such Sweet Thunder",
+    1957
+   ],
+   [
+    "Money Jungle",
+    1963
+   ],
+   [
+    "The Far East Suite",
+    1967
+   ]
+  ],
+  "songs": [
+   "Take the A Train",
+   "Mood Indigo",
+   "It Don't Mean a Thing (If It Ain't Got That Swing)",
+   "In a Sentimental Mood",
+   "Black and Tan Fantasy"
+  ],
+  "influencedBy": [],
+  "cousins": [
+   {
+    "id": "stevie-wonder",
+    "why": "A composer and bandleader of huge range who saluted Ellington by name in Sir Duke."
+   },
+   {
+    "id": "frank-zappa",
+    "why": "A composer who led a band and wrote parts around the strengths of individual players."
+   }
+  ]
+ },
+ {
+  "id": "fats-waller",
+  "years": "1904–1943",
+  "origin": "New York City, New York",
+  "genres": [
+   "stride piano",
+   "swing",
+   "novelty jazz"
+  ],
+  "summary": "A virtuoso stride pianist and comic entertainer who wrote enduring standards and brought joy and wit to jazz.",
+  "know": [
+   "He wrote Ain't Misbehavin' and Honeysuckle Rose, both still widely played.",
+   "He was also a skilled pipe organist and recorded jazz on the organ early on.",
+   "His group Fats Waller and His Rhythm made hundreds of records in the 1930s."
+  ],
+  "born": "05-21",
+  "keyAlbums": [],
+  "songs": [
+   "Ain't Misbehavin'",
+   "Honeysuckle Rose",
+   "Jitterbug Waltz",
+   "Handful of Keys",
+   "Your Feet's Too Big"
+  ],
+  "influencedBy": [],
+  "cousins": [
+   {
+    "id": "fats-domino",
+    "why": "A jovial piano man who made rolling piano the center of a popular style."
+   },
+   {
+    "id": "jerry-lee-lewis",
+    "why": "A showman pianist whose playing was as entertaining as it was skilled."
+   }
+  ]
+ },
+ {
+  "id": "art-tatum",
+  "years": "1909–1956",
+  "origin": "Toledo, Ohio",
+  "genres": [
+   "stride piano",
+   "swing",
+   "solo piano"
+  ],
+  "summary": "A nearly blind pianist whose speed and harmonic daring set a technical bar that every jazz pianist after him measured against.",
+  "know": [
+   "He had very limited eyesight from childhood and learned much by ear.",
+   "His rich reharmonizations of standards influenced bebop musicians, including Charlie Parker.",
+   "Late in life he recorded a huge series of solo and group sessions for producer Norman Granz."
+  ],
+  "born": "10-13",
+  "keyAlbums": [
+   [
+    "The Tatum Solo Masterpieces",
+    1955
+   ],
+   [
+    "The Art Tatum–Ben Webster Quartet",
+    1956
+   ]
+  ],
+  "songs": [
+   "Tea for Two",
+   "Tiger Rag",
+   "Willow Weep for Me",
+   "Over the Rainbow",
+   "Yesterdays"
+  ],
+  "influencedBy": [
+   {
+    "id": "fats-waller",
+    "why": "Named Waller as his main early model, and Waller in turn famously praised Tatum as the greater player.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "jimi-hendrix",
+    "why": "A virtuoso who redrew the limits of what his instrument could do."
+   },
+   {
+    "id": "van-halen",
+    "why": "A technical wizard whose dazzling speed set a new standard for his instrument."
+   }
+  ]
+ },
+ {
+  "id": "count-basie",
+  "years": "1904–1984",
+  "origin": "Red Bank, New Jersey",
+  "genres": [
+   "swing",
+   "big band",
+   "Kansas City jazz"
+  ],
+  "summary": "A bandleader and pianist whose light, riff driven Kansas City swing defined how a big band could groove.",
+  "know": [
+   "His sparse piano style left space and let the rhythm section breathe.",
+   "His late 1930s rhythm section of Freddie Green, Walter Page and Jo Jones is legendary for its smooth pulse.",
+   "He became the first African American man to win a Grammy, in 1958."
+  ],
+  "born": "08-21",
+  "keyAlbums": [
+   [
+    "April in Paris",
+    1956
+   ],
+   [
+    "Count Basie at Newport",
+    1957
+   ],
+   [
+    "The Atomic Mr. Basie",
+    1958
+   ]
+  ],
+  "songs": [
+   "One O'Clock Jump",
+   "Jumpin' at the Woodside",
+   "April in Paris",
+   "Lester Leaps In",
+   "Shiny Stockings"
+  ],
+  "influencedBy": [
+   {
+    "id": "fats-waller",
+    "why": "Picked up informal organ lessons from Waller in Harlem during the 1920s.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bob-wills",
+    "why": "A dance band leader who built swing into another regional style."
+   },
+   {
+    "id": "james-brown",
+    "why": "A bandleader whose tight, riff based groove machine kept dancers moving."
+   }
+  ]
+ },
+ {
+  "id": "benny-goodman",
+  "years": "1909–1986",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "swing",
+   "big band",
+   "small group jazz"
+  ],
+  "summary": "The clarinetist and bandleader known as the King of Swing, who brought swing to a mass audience and integrated his bands.",
+  "know": [
+   "His 1938 Carnegie Hall concert was a landmark for jazz in a classical concert hall.",
+   "He led one of the first prominent racially integrated groups, with Teddy Wilson and Lionel Hampton.",
+   "He hired guitarist Charlie Christian in 1939 and gave him a national stage."
+  ],
+  "born": "05-30",
+  "keyAlbums": [
+   [
+    "The Famous 1938 Carnegie Hall Jazz Concert",
+    1950
+   ]
+  ],
+  "songs": [
+   "Sing, Sing, Sing",
+   "Stompin' at the Savoy",
+   "Let's Dance",
+   "Don't Be That Way",
+   "Moonglow"
+  ],
+  "influencedBy": [],
+  "cousins": [
+   {
+    "id": "elvis-presley",
+    "why": "A crowned king who brought a Black-rooted style to a huge mainstream audience."
+   },
+   {
+    "id": "bob-wills",
+    "why": "A bandleader who made swing the dance music of another tradition."
+   }
+  ]
+ },
+ {
+  "id": "billie-holiday",
+  "years": "1915–1959",
+  "origin": "Philadelphia, Pennsylvania",
+  "genres": [
+   "vocal jazz",
+   "swing",
+   "torch song"
+  ],
+  "summary": "A singer who phrased like a horn player and turned her small voice into one of the most emotionally direct instruments in music.",
+  "know": [
+   "Lester Young nicknamed her Lady Day, and she called him Prez.",
+   "Her 1939 recording of Strange Fruit, a song protesting lynching, became a landmark of protest music.",
+   "She was raised largely in Baltimore and began singing in Harlem clubs as a teenager."
+  ],
+  "born": "04-07",
+  "keyAlbums": [
+   [
+    "Lady Sings the Blues",
+    1956
+   ],
+   [
+    "Songs for Distingué Lovers",
+    1957
+   ],
+   [
+    "Lady in Satin",
+    1958
+   ]
+  ],
+  "songs": [
+   "Strange Fruit",
+   "God Bless the Child",
+   "Lover Man",
+   "Don't Explain",
+   "Fine and Mellow"
+  ],
+  "influencedBy": [
+   {
+    "id": "bessie-smith",
+    "why": "Named Bessie Smith as one of her two main early models for vocal power and feeling.",
+    "s": 3
+   },
+   {
+    "id": "louis-armstrong",
+    "why": "Said she wanted Armstrong's feel and borrowed his way of bending melodies.",
+    "s": 3
+   },
+   {
+    "id": "lester-young",
+    "why": "Recorded and toured with Young in the 1930s, and their phrasing grew together.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "amy-winehouse",
+    "why": "A singer whose behind-the-beat phrasing and raw delivery owed a lot to Holiday."
+   },
+   {
+    "id": "erykah-badu",
+    "why": "A singer with a distinctive, conversational phrasing rooted in jazz vocals."
+   },
+   {
+    "id": "frank-sinatra",
+    "why": "A pop singer who learned phrasing and intimacy from Holiday."
+   }
+  ]
+ },
+ {
+  "id": "coleman-hawkins",
+  "years": "1904–1969",
+  "origin": "St. Joseph, Missouri",
+  "genres": [
+   "swing",
+   "bebop",
+   "tenor saxophone"
+  ],
+  "summary": "The man who made the tenor saxophone a serious jazz solo voice and later championed the young bebop players.",
+  "know": [
+   "His 1939 Body and Soul is a famous improvisation that barely states the melody.",
+   "He led a 1944 session with Dizzy Gillespie often called the first bebop recording.",
+   "He hired Thelonious Monk when few others would."
+  ],
+  "born": "11-21",
+  "keyAlbums": [
+   [
+    "The Hawk Flies High",
+    1957
+   ],
+   [
+    "Today and Now",
+    1962
+   ],
+   [
+    "Sonny Meets Hawk!",
+    1963
+   ]
+  ],
+  "songs": [
+   "Body and Soul",
+   "Picasso",
+   "The Man I Love",
+   "Stuffy",
+   "Hello Lola"
+  ],
+  "influencedBy": [
+   {
+    "id": "louis-armstrong",
+    "why": "Sat next to Armstrong in Fletcher Henderson's band in 1924 and picked up his rhythmic drive.",
+    "s": 3
+   },
+   {
+    "id": "art-tatum",
+    "why": "Widely credited with absorbing Tatum's harmonic richness into his own chord-based soloing.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "t-bone-walker",
+    "why": "A pioneer who established his instrument as the lead solo voice of a genre."
+   },
+   {
+    "id": "bb-king",
+    "why": "A player whose singing tone made his instrument the main solo voice in his style."
+   }
+  ]
+ },
+ {
+  "id": "lester-young",
+  "years": "1909–1959",
+  "origin": "Woodville, Mississippi",
+  "genres": [
+   "swing",
+   "Kansas City jazz",
+   "cool jazz"
+  ],
+  "summary": "A tenor saxophonist whose airy tone and floating lines offered an alternative to Hawkins and laid the path for cool jazz and bebop.",
+  "know": [
+   "He became a star in Count Basie's band in the late 1930s.",
+   "Billie Holiday called him Prez, short for President of the tenor sax.",
+   "He was known for coining hip slang and wearing a pork pie hat, later honored by Mingus."
+  ],
+  "born": "08-27",
+  "keyAlbums": [
+   [
+    "The President Plays with the Oscar Peterson Trio",
+    1952
+   ],
+   [
+    "The Jazz Giants '56",
+    1956
+   ]
+  ],
+  "songs": [
+   "Lester Leaps In",
+   "Oh, Lady Be Good!",
+   "Taxi War Dance",
+   "These Foolish Things",
+   "Jumpin' with Symphony Sid"
+  ],
+  "influencedBy": [
+   {
+    "id": "bix-beiderbecke",
+    "why": "Cited the light tone on Beiderbecke's records with Frankie Trumbauer as a model for his sound.",
+    "s": 2
+   },
+   {
+    "id": "count-basie",
+    "why": "Played tenor in Basie's band, where the relaxed rhythm section shaped his floating swing.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "nick-drake",
+    "why": "An understated stylist whose softness carried deep feeling."
+   },
+   {
+    "id": "j-dilla",
+    "why": "A musician whose relaxed, behind-the-beat feel changed how a genre swings."
+   }
+  ]
+ },
+ {
+  "id": "django-reinhardt",
+  "years": "1910–1953",
+  "origin": "Liberchies, Belgium",
+  "genres": [
+   "gypsy jazz",
+   "swing",
+   "jazz manouche"
+  ],
+  "summary": "A Romani guitarist who created a European jazz style and became one of the first great jazz soloists from outside America.",
+  "know": [
+   "A fire left two fingers on his fretting hand badly damaged, and he built a new technique around it.",
+   "He co-led the Quintette du Hot Club de France with violinist Stéphane Grappelli.",
+   "He toured the United States with Duke Ellington in 1946."
+  ],
+  "born": "01-23",
+  "keyAlbums": [
+   [
+    "Djangology",
+    1961
+   ]
+  ],
+  "songs": [
+   "Minor Swing",
+   "Nuages",
+   "Djangology",
+   "Belleville",
+   "Swing 42"
+  ],
+  "influencedBy": [
+   {
+    "id": "louis-armstrong",
+    "why": "Was reportedly overwhelmed on first hearing Armstrong records around 1931 and turned toward jazz.",
+    "s": 2
+   },
+   {
+    "id": "duke-ellington",
+    "why": "Admired Ellington's music and toured America as a guest with his orchestra in 1946.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "black-sabbath",
+    "why": "Tony Iommi kept playing after losing fingertips, inspired by Reinhardt's story."
+   },
+   {
+    "id": "willie-nelson",
+    "why": "A guitarist whose melodic picking draws openly on Reinhardt's style."
+   }
+  ]
+ },
+ {
+  "id": "charlie-christian",
+  "years": "1916–1942",
+  "origin": "Bonham, Texas",
+  "genres": [
+   "swing",
+   "bebop",
+   "jazz guitar"
+  ],
+  "summary": "The guitarist who made the amplified guitar a front-line jazz solo instrument and helped seed bebop before dying at 25.",
+  "know": [
+   "Benny Goodman hired him in 1939 after hearing him play.",
+   "He jammed at Minton's Playhouse in Harlem, where bebop was taking shape.",
+   "He grew up in Oklahoma City and died of tuberculosis in 1942."
+  ],
+  "born": "07-29",
+  "keyAlbums": [
+   [
+    "The Genius of the Electric Guitar",
+    1987
+   ]
+  ],
+  "songs": [
+   "Solo Flight",
+   "Seven Come Eleven",
+   "Swing to Bop",
+   "Air Mail Special",
+   "Rose Room"
+  ],
+  "influencedBy": [
+   {
+    "id": "lester-young",
+    "why": "Shaped his long horn-like guitar lines on the way Young phrased on tenor.",
+    "s": 2
+   },
+   {
+    "id": "benny-goodman",
+    "why": "Joined Goodman's sextet in 1939, gaining the platform where his style matured.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "t-bone-walker",
+    "why": "A fellow Texas-born electric guitar pioneer who did the same for blues."
+   },
+   {
+    "id": "chuck-berry",
+    "why": "A guitarist who put the electric guitar at the front of a new genre."
+   }
+  ]
+ },
+ {
+  "id": "charlie-parker",
+  "years": "1920–1955",
+  "origin": "Kansas City, Kansas",
+  "genres": [
+   "bebop",
+   "alto saxophone",
+   "small group jazz"
+  ],
+  "summary": "The alto saxophonist known as Bird who, with Gillespie, created bebop and rewrote the language of jazz improvisation.",
+  "know": [
+   "He grew up in Kansas City, where he studied local players and memorized records.",
+   "His nickname Bird inspired the club name Birdland and many tune titles.",
+   "His struggles with heroin cut his life short at 34."
+  ],
+  "born": "08-29",
+  "keyAlbums": [
+   [
+    "Charlie Parker with Strings",
+    1950
+   ],
+   [
+    "Bird and Diz",
+    1952
+   ],
+   [
+    "Jazz at Massey Hall",
+    1953
+   ]
+  ],
+  "songs": [
+   "Ko-Ko",
+   "Ornithology",
+   "Yardbird Suite",
+   "Now's the Time",
+   "Confirmation"
+  ],
+  "influencedBy": [
+   {
+    "id": "lester-young",
+    "why": "Memorized Young's solos from Basie records note for note as a teenager.",
+    "s": 3
+   },
+   {
+    "id": "art-tatum",
+    "why": "Worked in a New York restaurant where Tatum played and absorbed his harmonic speed.",
+    "s": 2
+   },
+   {
+    "id": "dizzy-gillespie",
+    "why": "Developed bebop alongside Gillespie in the early 1940s, trading ideas nightly.",
+    "s": 3
+   },
+   {
+    "id": "coleman-hawkins",
+    "why": "Studied Hawkins's chord-based approach to improvising through the changes.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "jimi-hendrix",
+    "why": "A virtuoso who rewrote his instrument's vocabulary and died young."
+   },
+   {
+    "id": "rakim",
+    "why": "An artist who reinvented rhythmic phrasing in his medium."
+   }
+  ]
+ },
+ {
+  "id": "dizzy-gillespie",
+  "years": "1917–1993",
+  "origin": "Cheraw, South Carolina",
+  "genres": [
+   "bebop",
+   "Afro-Cuban jazz",
+   "big band"
+  ],
+  "summary": "A co-founder of bebop and a brilliant trumpeter and teacher who also fused jazz with Cuban rhythms.",
+  "know": [
+   "He played a trumpet with an upturned bell and was known for puffed-out cheeks.",
+   "He hired Cuban conga player Chano Pozo in 1947, a key step for Afro-Cuban jazz.",
+   "He was a generous mentor who explained bebop harmony to many younger players."
+  ],
+  "born": "10-21",
+  "keyAlbums": [
+   [
+    "Bird and Diz",
+    1952
+   ],
+   [
+    "Afro",
+    1954
+   ],
+   [
+    "Jazz at Massey Hall",
+    1953
+   ],
+   [
+    "Sonny Side Up",
+    1957
+   ]
+  ],
+  "songs": [
+   "A Night in Tunisia",
+   "Salt Peanuts",
+   "Manteca",
+   "Groovin' High",
+   "Con Alma"
+  ],
+  "influencedBy": [
+   {
+    "id": "charlie-parker",
+    "why": "Partnered with Parker to build bebop, crediting him for much of its rhythmic language.",
+    "s": 3
+   },
+   {
+    "id": "thelonious-monk",
+    "why": "Worked out new harmonies with Monk in after-hours sessions at Minton's.",
+    "s": 2
+   },
+   {
+    "id": "coleman-hawkins",
+    "why": "Played on Hawkins's 1944 sessions, an early recorded home for bebop.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "tito-puente",
+    "why": "A bandleader at the center of the Latin side of the jazz and Cuban fusion."
+   },
+   {
+    "id": "fela-kuti",
+    "why": "A horn-playing bandleader who fused jazz with another rhythmic tradition."
+   }
+  ]
+ },
+ {
+  "id": "thelonious-monk",
+  "years": "1917–1982",
+  "origin": "Rocky Mount, North Carolina",
+  "genres": [
+   "bebop",
+   "hard bop",
+   "solo piano"
+  ],
+  "summary": "A pianist and composer with a uniquely angular style whose tunes are among the most played in jazz.",
+  "know": [
+   "He was house pianist at Minton's Playhouse during the birth of bebop.",
+   "His 1957 run at the Five Spot with John Coltrane is legendary.",
+   "He appeared on the cover of Time magazine in 1964."
+  ],
+  "born": "10-10",
+  "keyAlbums": [
+   [
+    "Genius of Modern Music",
+    1951
+   ],
+   [
+    "Brilliant Corners",
+    1957
+   ],
+   [
+    "Thelonious Monk with John Coltrane",
+    1961
+   ],
+   [
+    "Monk's Dream",
+    1963
+   ]
+  ],
+  "songs": [
+   "'Round Midnight",
+   "Straight, No Chaser",
+   "Blue Monk",
+   "Ruby, My Dear",
+   "Epistrophy"
+  ],
+  "influencedBy": [
+   {
+    "id": "duke-ellington",
+    "why": "Admired Ellington's piano and writing and devoted a full 1955 album to his tunes.",
+    "s": 2
+   },
+   {
+    "id": "coleman-hawkins",
+    "why": "Got his first major recording work in Hawkins's 1944 group.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "captain-beefheart",
+    "why": "An idiosyncratic writer whose off-kilter angles became a style of their own."
+   },
+   {
+    "id": "j-dilla",
+    "why": "A producer whose deliberately uneven timing became a signature."
+   }
+  ]
+ },
+ {
+  "id": "ella-fitzgerald",
+  "years": "1917–1996",
+  "origin": "Newport News, Virginia",
+  "genres": [
+   "vocal jazz",
+   "swing",
+   "scat"
+  ],
+  "summary": "The First Lady of Song, whose pure tone, perfect pitch and scat improvising made her the definitive interpreter of the American songbook.",
+  "know": [
+   "She won an amateur night at Harlem's Apollo Theater in 1934 and soon joined Chick Webb's band.",
+   "Her Song Book albums for Verve covered the work of major American songwriters one by one.",
+   "She won the first Grammy for female vocal performance in 1958."
+  ],
+  "born": "04-25",
+  "keyAlbums": [
+   [
+    "Ella Fitzgerald Sings the Cole Porter Song Book",
+    1956
+   ],
+   [
+    "Ella and Louis",
+    1956
+   ],
+   [
+    "Ella Fitzgerald Sings the Duke Ellington Song Book",
+    1957
+   ],
+   [
+    "Ella in Berlin",
+    1960
+   ]
+  ],
+  "songs": [
+   "A-Tisket, A-Tasket",
+   "How High the Moon",
+   "Mack the Knife",
+   "Airmail Special",
+   "Lady Be Good"
+  ],
+  "influencedBy": [
+   {
+    "id": "louis-armstrong",
+    "why": "Drew on Armstrong's scat singing and later recorded duet albums with him.",
+    "s": 2
+   },
+   {
+    "id": "dizzy-gillespie",
+    "why": "Toured with Gillespie's big band in the late 1940s and brought bebop lines into her scat.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "frank-sinatra",
+    "why": "A definitive interpreter of the American songbook in pop."
+   },
+   {
+    "id": "aretha-franklin",
+    "why": "A singer whose technical command made her the reference point for her genre."
+   }
+  ]
+ },
+ {
+  "id": "nat-king-cole",
+  "years": "1919–1965",
+  "origin": "Montgomery, Alabama",
+  "genres": [
+   "vocal jazz",
+   "swing",
+   "traditional pop"
+  ],
+  "summary": "A top jazz pianist who led an influential trio and then became one of the best loved pop singers of his era.",
+  "know": [
+   "His drummerless trio of piano, guitar and bass was widely imitated.",
+   "He hosted a national TV show in 1956, rare for a Black performer at the time.",
+   "His daughter Natalie Cole later topped charts with a virtual duet on Unforgettable."
+  ],
+  "born": "03-17",
+  "keyAlbums": [
+   [
+    "After Midnight",
+    1957
+   ],
+   [
+    "Love Is the Thing",
+    1957
+   ],
+   [
+    "St. Louis Blues",
+    1958
+   ]
+  ],
+  "songs": [
+   "Straighten Up and Fly Right",
+   "The Christmas Song",
+   "Unforgettable",
+   "Mona Lisa",
+   "Nature Boy"
+  ],
+  "influencedBy": [],
+  "cousins": [
+   {
+    "id": "ray-charles",
+    "why": "A pianist-singer who modeled his early style closely on Cole."
+   },
+   {
+    "id": "sam-cooke",
+    "why": "A silky crossover singer who brought a Black vocal style to the pop mainstream."
+   }
+  ]
+ },
+ {
+  "id": "miles-davis",
+  "years": "1926–1991",
+  "origin": "Alton, Illinois",
+  "genres": [
+   "cool jazz",
+   "modal jazz",
+   "hard bop",
+   "jazz fusion"
+  ],
+  "summary": "A trumpeter and bandleader who reinvented jazz several times, from cool and modal jazz to electric fusion.",
+  "know": [
+   "Kind of Blue is the best-selling album in jazz history.",
+   "He joined Charlie Parker's quintet as a teenager in the mid 1940s.",
+   "His bands launched the careers of Coltrane, Bill Evans, Herbie Hancock and many others."
+  ],
+  "born": "05-26",
+  "keyAlbums": [
+   [
+    "Birth of the Cool",
+    1957
+   ],
+   [
+    "Kind of Blue",
+    1959
+   ],
+   [
+    "Sketches of Spain",
+    1960
+   ],
+   [
+    "Bitches Brew",
+    1970
+   ]
+  ],
+  "songs": [
+   "So What",
+   "All Blues",
+   "Milestones",
+   "Freddie Freeloader",
+   "'Round Midnight"
+  ],
+  "influencedBy": [
+   {
+    "id": "dizzy-gillespie",
+    "why": "Idolized Gillespie as a teen and modeled his early bebop trumpet on him.",
+    "s": 3
+   },
+   {
+    "id": "charlie-parker",
+    "why": "Played in Parker's quintet from 1945 and learned bebop on the bandstand.",
+    "s": 3
+   },
+   {
+    "id": "louis-armstrong",
+    "why": "Acknowledged Armstrong as the root of all modern trumpet playing.",
+    "s": 1
+   },
+   {
+    "id": "thelonious-monk",
+    "why": "Learned harmony from Monk in New York and made 'Round Midnight a signature.",
+    "s": 2
+   },
+   {
+    "id": "duke-ellington",
+    "why": "Openly revered Ellington and recorded the long tribute He Loved Him Madly after his death.",
+    "s": 2
+   },
+   {
+    "id": "bill-evans",
+    "why": "Credited Evans's modal and impressionist voicings for shaping the sound of Kind of Blue.",
+    "s": 3
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "Was drawn to Hendrix's electric sound and planned to record with him before his death.",
+    "s": 2
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Cited Sly Stone's funk as a model for his late 1960s and 1970s electric bands.",
+    "s": 2
+   },
+   {
+    "id": "james-brown",
+    "why": "Took James Brown's rhythm-first funk as a blueprint for On the Corner.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "david-bowie",
+    "why": "An artist defined by constant reinvention across decades."
+   },
+   {
+    "id": "radiohead",
+    "why": "Cited Bitches Brew as an influence on the mood of OK Computer."
+   },
+   {
+    "id": "prince",
+    "why": "A restless genre-crossing bandleader who was also a friend and admirer."
+   }
+  ]
+ },
+ {
+  "id": "john-coltrane",
+  "years": "1926–1967",
+  "origin": "Hamlet, North Carolina",
+  "genres": [
+   "hard bop",
+   "modal jazz",
+   "free jazz",
+   "spiritual jazz"
+  ],
+  "summary": "A saxophonist who pushed harmony and intensity to new limits and turned jazz toward spiritual searching.",
+  "know": [
+   "His dense rapid style was nicknamed sheets of sound by critic Ira Gitler.",
+   "A Love Supreme is a four-part devotional suite and one of jazz's best known albums.",
+   "He named his son Ravi after the sitar player Ravi Shankar."
+  ],
+  "born": "09-23",
+  "keyAlbums": [
+   [
+    "Blue Train",
+    1958
+   ],
+   [
+    "Giant Steps",
+    1960
+   ],
+   [
+    "My Favorite Things",
+    1961
+   ],
+   [
+    "A Love Supreme",
+    1965
+   ]
+  ],
+  "songs": [
+   "Giant Steps",
+   "Naima",
+   "My Favorite Things",
+   "Alabama",
+   "Impressions"
+  ],
+  "influencedBy": [
+   {
+    "id": "lester-young",
+    "why": "Started on alto and tenor studying Young's lyrical phrasing.",
+    "s": 2
+   },
+   {
+    "id": "coleman-hawkins",
+    "why": "Cited Hawkins's chord-based tenor style as a foundation for his harmonic approach.",
+    "s": 2
+   },
+   {
+    "id": "charlie-parker",
+    "why": "Said hearing Parker changed his life and set him on the bebop path.",
+    "s": 3
+   },
+   {
+    "id": "dizzy-gillespie",
+    "why": "Played in Gillespie's band from 1949 to 1951.",
+    "s": 3
+   },
+   {
+    "id": "miles-davis",
+    "why": "Was a member of Davis's quintet and sextet, absorbing his modal approach on Kind of Blue.",
+    "s": 3
+   },
+   {
+    "id": "thelonious-monk",
+    "why": "Played in Monk's quartet in 1957 and credited him with teaching him new harmonic ideas.",
+    "s": 3
+   },
+   {
+    "id": "ravi-shankar",
+    "why": "Studied Indian music, met Shankar, and drew on raga ideas for his drones and modes.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-byrds",
+    "why": "Their Eight Miles High guitar lines were directly inspired by Coltrane."
+   },
+   {
+    "id": "santana",
+    "why": "A guitarist whose spiritual searching led him to record music from A Love Supreme."
+   },
+   {
+    "id": "rakim",
+    "why": "A rapper who has said he built his flow on Coltrane's phrasing."
+   }
+  ]
+ },
+ {
+  "id": "charles-mingus",
+  "years": "1922–1979",
+  "origin": "Nogales, Arizona",
+  "genres": [
+   "hard bop",
+   "post-bop",
+   "avant-garde jazz"
+  ],
+  "summary": "A virtuoso bassist and fiery composer who blended gospel, blues, bebop and free playing into vivid large works.",
+  "know": [
+   "He was raised in the Watts neighborhood of Los Angeles.",
+   "He wrote Goodbye Pork Pie Hat as an elegy for Lester Young.",
+   "Joni Mitchell made a full album of collaborations with him near the end of his life."
+  ],
+  "born": "04-22",
+  "keyAlbums": [
+   [
+    "Pithecanthropus Erectus",
+    1956
+   ],
+   [
+    "Mingus Ah Um",
+    1959
+   ],
+   [
+    "The Black Saint and the Sinner Lady",
+    1963
+   ],
+   [
+    "Mingus Mingus Mingus Mingus Mingus",
+    1963
+   ]
+  ],
+  "songs": [
+   "Goodbye Pork Pie Hat",
+   "Moanin'",
+   "Better Git It in Your Soul",
+   "Fables of Faubus",
+   "Haitian Fight Song"
+  ],
+  "influencedBy": [
+   {
+    "id": "duke-ellington",
+    "why": "Called Ellington his idol and briefly played in his band in 1953.",
+    "s": 3
+   },
+   {
+    "id": "louis-armstrong",
+    "why": "Played bass in Armstrong's band in the early 1940s.",
+    "s": 3
+   },
+   {
+    "id": "charlie-parker",
+    "why": "Played with Parker, including the 1953 Massey Hall concert, and absorbed bebop language.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "frank-zappa",
+    "why": "A composer-bandleader who mixed genres into ambitious, demanding works."
+   },
+   {
+    "id": "joni-mitchell",
+    "why": "A songwriter who pushed her genre into jazz and collaborated with Mingus."
+   }
+  ]
+ },
+ {
+  "id": "sonny-rollins",
+  "years": "1930–",
+  "origin": "New York City, New York",
+  "genres": [
+   "hard bop",
+   "bebop",
+   "post-bop"
+  ],
+  "summary": "A tenor saxophonist famous for long, witty, thematic improvisations and one of the last giants of the bebop era.",
+  "know": [
+   "He famously took a break in 1959 and practiced on the Williamsburg Bridge, leading to his album The Bridge.",
+   "His Saxophone Colossus is one of the most celebrated jazz albums.",
+   "He played the sax solo on the Rolling Stones' Waiting on a Friend."
+  ],
+  "born": "09-07",
+  "keyAlbums": [
+   [
+    "Saxophone Colossus",
+    1956
+   ],
+   [
+    "Way Out West",
+    1957
+   ],
+   [
+    "A Night at the Village Vanguard",
+    1957
+   ],
+   [
+    "The Bridge",
+    1962
+   ]
+  ],
+  "songs": [
+   "St. Thomas",
+   "Oleo",
+   "Airegin",
+   "Doxy",
+   "Tenor Madness"
+  ],
+  "influencedBy": [
+   {
+    "id": "coleman-hawkins",
+    "why": "Grew up idolizing Hawkins and later recorded Sonny Meets Hawk! with him.",
+    "s": 3
+   },
+   {
+    "id": "charlie-parker",
+    "why": "Played alongside Parker on a Miles Davis session and called him a primary influence.",
+    "s": 3
+   },
+   {
+    "id": "thelonious-monk",
+    "why": "Was mentored by Monk as a teenager in Harlem and recorded with him.",
+    "s": 3
+   },
+   {
+    "id": "miles-davis",
+    "why": "Was a key member of Davis's groups in the early 1950s.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "grateful-dead",
+    "why": "A band built around long, exploratory live improvisation."
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Rollins brought his tenor voice to their recording of Waiting on a Friend."
+   }
+  ]
+ },
+ {
+  "id": "art-blakey",
+  "years": "1919–1990",
+  "origin": "Pittsburgh, Pennsylvania",
+  "genres": [
+   "hard bop",
+   "bebop",
+   "jazz drumming"
+  ],
+  "summary": "A powerhouse drummer whose Jazz Messengers defined hard bop and served for decades as a school for young stars.",
+  "know": [
+   "His Jazz Messengers launched Lee Morgan, Wayne Shorter, Freddie Hubbard and Wynton Marsalis among many others.",
+   "His press rolls and driving cymbal beat became hard bop signatures.",
+   "He played in Billy Eckstine's 1940s big band alongside Parker and Gillespie."
+  ],
+  "born": "10-11",
+  "keyAlbums": [
+   [
+    "A Night at Birdland",
+    1954
+   ],
+   [
+    "Moanin'",
+    1958
+   ],
+   [
+    "Mosaic",
+    1961
+   ],
+   [
+    "Free for All",
+    1964
+   ]
+  ],
+  "songs": [
+   "Moanin'",
+   "Blues March",
+   "Along Came Betty",
+   "A Night in Tunisia",
+   "Free for All"
+  ],
+  "influencedBy": [
+   {
+    "id": "thelonious-monk",
+    "why": "Played on Monk's early Blue Note sessions and called him a key musical mentor.",
+    "s": 3
+   },
+   {
+    "id": "dizzy-gillespie",
+    "why": "Shared the bandstand with Gillespie in Billy Eckstine's bebop big band.",
+    "s": 3
+   },
+   {
+    "id": "charlie-parker",
+    "why": "Played next to Parker in the Eckstine band and absorbed bebop's rhythmic language.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "james-brown",
+    "why": "A demanding bandleader whose group trained a generation of players."
+   },
+   {
+    "id": "the-meters",
+    "why": "A rhythm-driven group whose drumming defined a city's groove."
+   }
+  ]
+ },
+ {
+  "id": "dave-brubeck",
+  "years": "1920–2012",
+  "origin": "Concord, California",
+  "genres": [
+   "cool jazz",
+   "West Coast jazz",
+   "third stream"
+  ],
+  "summary": "A pianist whose quartet brought jazz to college campuses and made odd time signatures a hit.",
+  "know": [
+   "Time Out was built around unusual meters and became a million seller.",
+   "Take Five was written by his alto player Paul Desmond.",
+   "He studied composition with French composer Darius Milhaud."
+  ],
+  "born": "12-06",
+  "keyAlbums": [
+   [
+    "Jazz at Oberlin",
+    1953
+   ],
+   [
+    "Jazz Goes to College",
+    1954
+   ],
+   [
+    "Time Out",
+    1959
+   ],
+   [
+    "Time Further Out",
+    1961
+   ]
+  ],
+  "songs": [
+   "Take Five",
+   "Blue Rondo à la Turk",
+   "In Your Own Sweet Way",
+   "The Duke",
+   "Unsquare Dance"
+  ],
+  "influencedBy": [
+   {
+    "id": "duke-ellington",
+    "why": "Admired Ellington deeply and wrote the tribute tune The Duke.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "rush",
+    "why": "A band that made odd time signatures popular with a wide audience."
+   },
+   {
+    "id": "king-crimson",
+    "why": "A group that built complex meters into accessible music."
+   }
+  ]
+ },
+ {
+  "id": "bill-evans",
+  "years": "1929–1980",
+  "origin": "Plainfield, New Jersey",
+  "genres": [
+   "modal jazz",
+   "cool jazz",
+   "post-bop",
+   "piano trio"
+  ],
+  "summary": "A pianist whose impressionist harmony and interactive trio changed jazz piano and shaped the sound of Kind of Blue.",
+  "know": [
+   "He played on Miles Davis's Kind of Blue and wrote its liner notes.",
+   "His trio with bassist Scott LaFaro treated bass, drums and piano as equal voices.",
+   "His Village Vanguard sets of June 1961 were recorded days before LaFaro died."
+  ],
+  "born": "08-16",
+  "keyAlbums": [
+   [
+    "Portrait in Jazz",
+    1960
+   ],
+   [
+    "Sunday at the Village Vanguard",
+    1961
+   ],
+   [
+    "Waltz for Debby",
+    1962
+   ],
+   [
+    "Conversations with Myself",
+    1963
+   ]
+  ],
+  "songs": [
+   "Waltz for Debby",
+   "Peace Piece",
+   "Blue in Green",
+   "Very Early",
+   "Turn Out the Stars"
+  ],
+  "influencedBy": [
+   {
+    "id": "miles-davis",
+    "why": "Played in Davis's sextet in 1958 and 1959, developing his modal voicings in that setting.",
+    "s": 3
+   },
+   {
+    "id": "nat-king-cole",
+    "why": "Named Cole's piano playing as an early model for his touch.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "brian-eno",
+    "why": "An artist whose atmospheric, harmonic textures create mood over drive."
+   },
+   {
+    "id": "nick-drake",
+    "why": "A quiet, introspective stylist whose music feels intimate and unhurried."
+   }
+  ]
+ },
+ {
+  "id": "ornette-coleman",
+  "years": "1930–2015",
+  "origin": "Fort Worth, Texas",
+  "genres": [
+   "free jazz",
+   "avant-garde jazz",
+   "harmolodics"
+  ],
+  "summary": "An alto saxophonist who freed jazz from fixed chord changes and opened the door to free jazz.",
+  "know": [
+   "His album Free Jazz gave the movement its name.",
+   "He played a plastic alto saxophone early in his career.",
+   "He started out playing in Texas rhythm and blues bands."
+  ],
+  "born": "03-09",
+  "keyAlbums": [
+   [
+    "The Shape of Jazz to Come",
+    1959
+   ],
+   [
+    "Change of the Century",
+    1959
+   ],
+   [
+    "Free Jazz",
+    1961
+   ],
+   [
+    "Dancing in Your Head",
+    1977
+   ]
+  ],
+  "songs": [
+   "Lonely Woman",
+   "Ramblin'",
+   "Peace",
+   "Congeniality",
+   "Turnaround"
+  ],
+  "influencedBy": [
+   {
+    "id": "charlie-parker",
+    "why": "Studied Parker's bebop closely as a young player before breaking away from fixed changes.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-velvet-underground",
+    "why": "A band that, like Coleman, threw out the rulebook; Lou Reed cited him."
+   },
+   {
+    "id": "sonic-youth",
+    "why": "A group that built music on freedom, noise and unconventional structure."
+   }
+  ]
+ },
+ {
+  "id": "sun-ra",
+  "years": "1914–1993",
+  "origin": "Birmingham, Alabama",
+  "genres": [
+   "avant-garde jazz",
+   "space jazz",
+   "big band",
+   "Afrofuturism"
+  ],
+  "summary": "A visionary bandleader who claimed to come from Saturn and fused big band swing, free jazz and electronics into cosmic theater.",
+  "know": [
+   "His Arkestra lived and rehearsed together, especially in Chicago and later Philadelphia.",
+   "He was among the first jazz musicians to use electronic keyboards like the Moog.",
+   "He ran his own label, El Saturn, decades before independent labels were common in jazz."
+  ],
+  "born": "05-22",
+  "keyAlbums": [
+   [
+    "Jazz in Silhouette",
+    1959
+   ],
+   [
+    "The Heliocentric Worlds of Sun Ra",
+    1965
+   ],
+   [
+    "Space Is the Place",
+    1973
+   ],
+   [
+    "Lanquidity",
+    1978
+   ]
+  ],
+  "songs": [
+   "Space Is the Place",
+   "Enlightenment",
+   "Rocket Number Nine",
+   "Angels and Demons at Play",
+   "Saturn"
+  ],
+  "influencedBy": [
+   {
+    "id": "duke-ellington",
+    "why": "Loved Ellington's orchestra and carried its rich big band voicing into the Arkestra.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "parliament-funkadelic",
+    "why": "A collective that built a cosmic Afrofuturist mythology around funk."
+   },
+   {
+    "id": "flying-lotus",
+    "why": "A producer who carries cosmic, spiritual jazz ideas into electronic music."
+   },
+   {
+    "id": "mc5",
+    "why": "A Detroit rock band that openly championed Sun Ra and shared bills with him."
+   }
+  ]
+ },
+ {
+  "id": "nina-simone",
+  "years": "1933–2003",
+  "origin": "Tryon, North Carolina",
+  "genres": [
+   "vocal jazz",
+   "soul jazz",
+   "blues",
+   "protest music"
+  ],
+  "summary": "A classically trained pianist and singer who blended jazz, gospel, blues and classical and became a fierce voice of the civil rights movement.",
+  "know": [
+   "She trained to be a concert pianist and studied at Juilliard.",
+   "She wrote Mississippi Goddam in response to the 1963 killing of Medgar Evers and the Birmingham church bombing.",
+   "Her version of I Loves You, Porgy was her first hit in 1959."
+  ],
+  "born": "02-21",
+  "keyAlbums": [
+   [
+    "Little Girl Blue",
+    1959
+   ],
+   [
+    "I Put a Spell on You",
+    1965
+   ],
+   [
+    "Pastel Blues",
+    1965
+   ],
+   [
+    "Wild Is the Wind",
+    1966
+   ]
+  ],
+  "songs": [
+   "Feeling Good",
+   "Mississippi Goddam",
+   "I Loves You, Porgy",
+   "Sinnerman",
+   "Four Women"
+  ],
+  "influencedBy": [
+   {
+    "id": "billie-holiday",
+    "why": "Interpreted songs Holiday had made famous and was often compared to her.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "lauryn-hill",
+    "why": "A singer and writer who openly reveres Simone and shares her mix of art and activism."
+   },
+   {
+    "id": "aretha-franklin",
+    "why": "A gospel-rooted pianist-singer who became a civil rights era voice."
+   }
+  ]
+ },
+ {
+  "id": "herbie-hancock",
+  "years": "1940–",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "post-bop",
+   "jazz funk",
+   "jazz fusion",
+   "electro"
+  ],
+  "summary": "A pianist who was a pillar of Miles Davis's 1960s quintet and later led jazz into funk, electronics and hip-hop.",
+  "know": [
+   "He was a child prodigy who played a Mozart concerto with the Chicago Symphony at 11.",
+   "Head Hunters became one of the best selling jazz albums of its time.",
+   "Rockit, with its scratching, was an early MTV hit that brought turntablism to a wide audience."
+  ],
+  "born": "04-12",
+  "keyAlbums": [
+   [
+    "Empyrean Isles",
+    1964
+   ],
+   [
+    "Maiden Voyage",
+    1965
+   ],
+   [
+    "Head Hunters",
+    1973
+   ],
+   [
+    "Future Shock",
+    1983
+   ]
+  ],
+  "songs": [
+   "Watermelon Man",
+   "Cantaloupe Island",
+   "Maiden Voyage",
+   "Chameleon",
+   "Rockit"
+  ],
+  "influencedBy": [
+   {
+    "id": "miles-davis",
+    "why": "Played piano in Davis's second great quintet from 1963 to 1968.",
+    "s": 3
+   },
+   {
+    "id": "bill-evans",
+    "why": "Has cited Evans's harmonic voicings as a major influence on his piano style.",
+    "s": 3
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Said hearing Sly Stone pushed him toward the funk of Head Hunters.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "stevie-wonder",
+    "why": "A keyboard innovator who brought synthesizers into soul and funk."
+   },
+   {
+    "id": "afrika-bambaataa",
+    "why": "An electro pioneer working the same machine-funk territory as Rockit."
+   }
+  ]
+ },
+ {
+  "id": "pharoah-sanders",
+  "years": "1940–2022",
+  "origin": "Little Rock, Arkansas",
+  "genres": [
+   "spiritual jazz",
+   "free jazz",
+   "avant-garde jazz"
+  ],
+  "summary": "A tenor saxophonist who carried Coltrane's spiritual quest forward with ecstatic, overblown tones and long meditative grooves.",
+  "know": [
+   "Sun Ra encouraged him to use the name Pharoah.",
+   "He played in John Coltrane's final groups in the mid 1960s.",
+   "His last album, Promises, was a 2021 collaboration with electronic artist Floating Points."
+  ],
+  "born": "10-13",
+  "keyAlbums": [
+   [
+    "Tauhid",
+    1967
+   ],
+   [
+    "Karma",
+    1969
+   ],
+   [
+    "Thembi",
+    1971
+   ],
+   [
+    "Promises",
+    2021
+   ]
+  ],
+  "songs": [
+   "The Creator Has a Master Plan",
+   "Upper Egypt and Lower Egypt",
+   "Astral Traveling",
+   "Thembi",
+   "You've Got to Have Freedom"
+  ],
+  "influencedBy": [
+   {
+    "id": "john-coltrane",
+    "why": "Joined Coltrane's band in 1965 and carried on his spiritual direction afterward.",
+    "s": 3
+   },
+   {
+    "id": "sun-ra",
+    "why": "Played with Sun Ra's Arkestra in New York in the early 1960s.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "ravi-shankar",
+    "why": "A musician whose long devotional drones aim at spiritual transcendence."
+   },
+   {
+    "id": "flying-lotus",
+    "why": "A producer who carries spiritual jazz into electronic music."
+   }
+  ]
+ },
+ {
+  "id": "wes-montgomery",
+  "years": "1923–1968",
+  "origin": "Indianapolis, Indiana",
+  "genres": [
+   "hard bop",
+   "soul jazz",
+   "jazz guitar"
+  ],
+  "summary": "A guitarist whose warm thumb-picked tone and octave lines made him the most influential jazz guitarist after Charlie Christian.",
+  "know": [
+   "He played with his thumb instead of a pick, giving him a soft round tone.",
+   "He taught himself by learning Charlie Christian solos by ear.",
+   "His later pop-leaning albums like A Day in the Life sold very well."
+  ],
+  "born": "03-06",
+  "keyAlbums": [
+   [
+    "The Incredible Jazz Guitar of Wes Montgomery",
+    1960
+   ],
+   [
+    "Full House",
+    1962
+   ],
+   [
+    "Smokin' at the Half Note",
+    1965
+   ],
+   [
+    "A Day in the Life",
+    1967
+   ]
+  ],
+  "songs": [
+   "Four on Six",
+   "West Coast Blues",
+   "Bumpin' on Sunset",
+   "D-Natural Blues",
+   "Road Song"
+  ],
+  "influencedBy": [
+   {
+    "id": "charlie-christian",
+    "why": "Learned guitar by copying Christian's recorded solos note for note.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bb-king",
+    "why": "A guitarist with an instantly recognizable, vocal tone in his genre."
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "A guitarist who admired Montgomery and reshaped how his instrument sounds."
+   }
+  ]
+ },
+ {
+  "id": "weather-report",
+  "years": "1970–1986",
+  "origin": "New York City, New York",
+  "genres": [
+   "jazz fusion",
+   "jazz rock",
+   "world fusion"
+  ],
+  "summary": "A fusion band led by Joe Zawinul and Wayne Shorter that blended jazz improvisation, synthesizers and global rhythms.",
+  "know": [
+   "Founders Zawinul and Shorter had both played on Miles Davis's early electric records.",
+   "Bassist Jaco Pastorius joined in the mid 1970s and became a star in the band.",
+   "Their tune Birdland was a crossover hit covered by many artists."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "I Sing the Body Electric",
+    1972
+   ],
+   [
+    "Mysterious Traveller",
+    1974
+   ],
+   [
+    "Black Market",
+    1976
+   ],
+   [
+    "Heavy Weather",
+    1977
+   ]
+  ],
+  "songs": [
+   "Birdland",
+   "Teen Town",
+   "Black Market",
+   "Mysterious Traveller",
+   "Cannon Ball"
+  ],
+  "influencedBy": [
+   {
+    "id": "miles-davis",
+    "why": "Founders Zawinul and Shorter played on In a Silent Way and Bitches Brew before forming the band.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "steely-dan",
+    "why": "A band that fused rock with sophisticated jazz harmony and top session players."
+   },
+   {
+    "id": "yes",
+    "why": "A group that built long, virtuosic, keyboard-rich instrumental pieces."
+   }
+  ]
+ },
+ {
+  "id": "norah-jones",
+  "years": "1979–",
+  "origin": "New York City, New York",
+  "genres": [
+   "vocal jazz",
+   "jazz pop",
+   "adult contemporary"
+  ],
+  "summary": "A singer and pianist whose quiet, jazz-tinged debut became a global smash and opened the mainstream to soft acoustic jazz pop.",
+  "know": [
+   "Come Away with Me won eight Grammy Awards.",
+   "She grew up in Grapevine, Texas, and studied jazz piano at the University of North Texas.",
+   "Her father was sitar player Ravi Shankar."
+  ],
+  "born": "03-30",
+  "keyAlbums": [
+   [
+    "Come Away with Me",
+    2002
+   ],
+   [
+    "Feels Like Home",
+    2004
+   ],
+   [
+    "Not Too Late",
+    2007
+   ],
+   [
+    "Little Broken Hearts",
+    2012
+   ]
+  ],
+  "songs": [
+   "Don't Know Why",
+   "Come Away with Me",
+   "Sunrise",
+   "Turn Me On",
+   "Feelin' the Same Way"
+  ],
+  "influencedBy": [
+   {
+    "id": "billie-holiday",
+    "why": "Has named Holiday as a formative influence on her singing.",
+    "s": 3
+   },
+   {
+    "id": "ray-charles",
+    "why": "Has cited Charles as a hero and recorded a duet with him in 2004.",
+    "s": 3
+   },
+   {
+    "id": "willie-nelson",
+    "why": "Admires Nelson's phrasing, recorded duets with him and covers his songs.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "adele",
+    "why": "A singer whose quiet, adult-oriented debut sold on a massive scale."
+   },
+   {
+    "id": "joni-mitchell",
+    "why": "A piano-and-voice songwriter with a jazz-tinged sensibility."
+   }
+  ]
+ },
+ {
+  "id": "kamasi-washington",
+  "years": "1981–",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "spiritual jazz",
+   "jazz fusion",
+   "post-bop"
+  ],
+  "summary": "A Los Angeles tenor saxophonist whose sprawling album The Epic revived big, spiritual jazz for a young audience.",
+  "know": [
+   "His debut The Epic ran nearly three hours across three discs.",
+   "He played and arranged on Kendrick Lamar's To Pimp a Butterfly.",
+   "He is part of the West Coast Get Down collective with Thundercat and others."
+  ],
+  "born": "02-18",
+  "keyAlbums": [
+   [
+    "The Epic",
+    2015
+   ],
+   [
+    "Harmony of Difference",
+    2017
+   ],
+   [
+    "Heaven and Earth",
+    2018
+   ],
+   [
+    "Fearless Movement",
+    2024
+   ]
+  ],
+  "songs": [
+   "Change of the Guard",
+   "The Rhythm Changes",
+   "Truth",
+   "Fists of Fury",
+   "Street Fighter Mas"
+  ],
+  "influencedBy": [
+   {
+    "id": "john-coltrane",
+    "why": "Draws openly on Coltrane's spiritual saxophone style in his long, searching solos.",
+    "s": 2
+   },
+   {
+    "id": "pharoah-sanders",
+    "why": "Carries forward Sanders's ecstatic spiritual jazz sound.",
+    "s": 2
+   },
+   {
+    "id": "flying-lotus",
+    "why": "Released The Epic on Flying Lotus's Brainfeeder label after recording with him.",
+    "s": 3
+   },
+   {
+    "id": "kendrick-lamar",
+    "why": "Worked on To Pimp a Butterfly, which shaped his crossover into hip-hop audiences.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "kendrick-lamar",
+    "why": "A rapper whose ambitious long-form work carries the same jazz-rooted, political weight."
+   },
+   {
+    "id": "fela-kuti",
+    "why": "A bandleader whose huge, epic, politically charged ensembles parallel his sound."
+   }
+  ]
+ },
+ {
+  "id": "robert-glasper",
+  "years": "1978–",
+  "origin": "Houston, Texas",
+  "genres": [
+   "jazz hip-hop",
+   "neo-soul",
+   "post-bop"
+  ],
+  "summary": "A pianist and producer who fuses jazz, R&B and hip-hop, most famously on his Grammy-winning Black Radio.",
+  "know": [
+   "Black Radio won the Grammy for Best R&B Album.",
+   "He has written tunes honoring producer J Dilla.",
+   "He produced a remix project built on Miles Davis's archive called Everything's Beautiful."
+  ],
+  "born": "04-06",
+  "keyAlbums": [
+   [
+    "Canvas",
+    2005
+   ],
+   [
+    "In My Element",
+    2007
+   ],
+   [
+    "Black Radio",
+    2012
+   ],
+   [
+    "Everything's Beautiful",
+    2016
+   ]
+  ],
+  "songs": [
+   "Afro Blue",
+   "Cherish the Day",
+   "J Dillalude",
+   "Black Radio"
+  ],
+  "influencedBy": [
+   {
+    "id": "j-dilla",
+    "why": "Has repeatedly named Dilla's off-kilter beats as central to how he plays piano.",
+    "s": 3
+   },
+   {
+    "id": "herbie-hancock",
+    "why": "Has cited Hancock as a key model and collaborated with him.",
+    "s": 3
+   },
+   {
+    "id": "miles-davis",
+    "why": "Reworked Davis's recordings for the estate-approved album Everything's Beautiful.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "d-angelo",
+    "why": "A neo-soul figure who blends jazz harmony with hip-hop rhythm."
+   },
+   {
+    "id": "the-roots",
+    "why": "A live band bringing jazz musicianship into hip-hop."
+   }
+  ]
+ },
+ {
+  "id": "esperanza-spalding",
+  "years": "1984–",
+  "origin": "Portland, Oregon",
+  "genres": [
+   "contemporary jazz",
+   "jazz fusion",
+   "vocal jazz"
+  ],
+  "summary": "A bassist, singer and composer who blends jazz, Brazilian music and R&B in adventurous, conceptual projects.",
+  "know": [
+   "She won the Grammy for Best New Artist in 2011, a rare win for a jazz musician.",
+   "She became one of the youngest instructors at Berklee College of Music.",
+   "She later joined the faculty at Harvard."
+  ],
+  "born": "10-18",
+  "keyAlbums": [
+   [
+    "Esperanza",
+    2008
+   ],
+   [
+    "Chamber Music Society",
+    2010
+   ],
+   [
+    "Radio Music Society",
+    2012
+   ],
+   [
+    "Emily's D+Evolution",
+    2016
+   ]
+  ],
+  "songs": [
+   "I Know You Know",
+   "Little Fly",
+   "Black Gold",
+   "Radio Song",
+   "Good Lava"
+  ],
+  "influencedBy": [
+   {
+    "id": "joni-mitchell",
+    "why": "Has cited Mitchell's jazz-shaped songwriting as a model.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "erykah-badu",
+    "why": "A singer who mixes jazz, soul and conceptual flair."
+   },
+   {
+    "id": "bjork",
+    "why": "An artist who builds bold, conceptual projects that cross genre lines."
+   }
+  ]
+ }
+]

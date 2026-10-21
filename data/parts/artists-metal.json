@@ -1,0 +1,1321 @@
+[
+ {
+  "id": "black-sabbath",
+  "years": "1968–2025",
+  "origin": "Birmingham, England",
+  "genres": [
+   "heavy metal",
+   "doom metal",
+   "hard rock"
+  ],
+  "summary": "Black Sabbath slowed blues rock down, tuned it lower and built songs on heavy, ominous riffs, creating the template that nearly every later metal style grew from.",
+  "know": [
+   "Tony Iommi's down-tuned, slack-string guitar sound became a core part of the heavy metal tone.",
+   "Their self-titled debut was recorded in roughly a single day in 1970.",
+   "The band was inducted into the Rock and Roll Hall of Fame in 2006."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Black Sabbath",
+    1970
+   ],
+   [
+    "Paranoid",
+    1970
+   ],
+   [
+    "Master of Reality",
+    1971
+   ],
+   [
+    "Vol. 4",
+    1972
+   ]
+  ],
+  "songs": [
+   "Paranoid",
+   "Iron Man",
+   "War Pigs",
+   "N.I.B.",
+   "Children of the Grave"
+  ],
+  "influencedBy": [
+   {
+    "id": "cream",
+    "why": "Cream's loud, riff-driven power trio blues was the model the members started from, and Geezer Butler has named Jack Bruce as his key bass influence.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "Ozzy Osbourne repeatedly credited the Beatles with making him want to sing in a band, and their melodic sense shaped his vocal lines.",
+    "s": 3
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "Hendrix's heavy, distorted electric blues showed the band how far amplified guitar riffs could be pushed.",
+    "s": 2
+   },
+   {
+    "id": "django-reinhardt",
+    "why": "Iommi has said hearing Reinhardt play brilliantly with an injured hand convinced him he could keep playing guitar and adapt his technique.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-stooges",
+    "why": "Raw, slow, primal riffing that laid the groundwork for a whole heavier branch of rock."
+   },
+   {
+    "id": "joy-division",
+    "why": "Brooding, minor-key sound that set the dark mood for a whole genre that followed."
+   }
+  ]
+ },
+ {
+  "id": "judas-priest",
+  "years": "1969–present",
+  "origin": "Birmingham, England",
+  "genres": [
+   "heavy metal",
+   "speed metal",
+   "hard rock"
+  ],
+  "summary": "Judas Priest stripped the blues out of heavy rock and replaced it with twin lead guitars, fast riffs and Rob Halford's high operatic voice, defining the classic heavy metal sound of the late 1970s and 1980s.",
+  "know": [
+   "The twin lead guitar partnership of K.K. Downing and Glenn Tipton became a model for later metal bands.",
+   "Painkiller (1990) introduced drummer Scott Travis and his fast double-bass playing.",
+   "They were inducted into the Rock and Roll Hall of Fame in 2022."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Sad Wings of Destiny",
+    1976
+   ],
+   [
+    "British Steel",
+    1980
+   ],
+   [
+    "Screaming for Vengeance",
+    1982
+   ],
+   [
+    "Painkiller",
+    1990
+   ]
+  ],
+  "songs": [
+   "Breaking the Law",
+   "Living After Midnight",
+   "Painkiller",
+   "Victim of Changes",
+   "You've Got Another Thing Comin'"
+  ],
+  "influencedBy": [
+   {
+    "id": "jimi-hendrix",
+    "why": "K.K. Downing has named Hendrix as the guitarist who made him pick up the instrument, and his expressive lead style shaped Downing's solos.",
+    "s": 3
+   },
+   {
+    "id": "black-sabbath",
+    "why": "Fellow Birmingham band whose heavy riffing showed Priest the path away from standard blues rock.",
+    "s": 2
+   },
+   {
+    "id": "cream",
+    "why": "Cream's extended, loud blues rock jams were part of the early band's musical starting point.",
+    "s": 2
+   },
+   {
+    "id": "led-zeppelin",
+    "why": "Zeppelin's dynamic hard rock and high vocal range were a widely noted reference for early Priest.",
+    "s": 2
+   },
+   {
+    "id": "deep-purple",
+    "why": "Deep Purple's fast, classically tinged hard rock riffs and screaming vocals foreshadow Priest's approach.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "queen",
+    "why": "Operatic, theatrical lead vocals carrying hard-hitting guitar rock."
+   },
+   {
+    "id": "ac-dc",
+    "why": "Riff-first, no-frills hard rock that set a standard for its genre."
+   }
+  ]
+ },
+ {
+  "id": "motorhead",
+  "years": "1975–2015",
+  "origin": "London, England",
+  "genres": [
+   "heavy metal",
+   "speed metal",
+   "rock and roll"
+  ],
+  "summary": "Motörhead played loud, fast, stripped-down rock and roll with metal volume and punk speed, and their tempos and attitude became a direct bridge to thrash metal.",
+  "know": [
+   "Lemmy played bass with heavy distortion through Marshall amps, almost like a rhythm guitar.",
+   "The live album No Sleep 'til Hammersmith reached No. 1 on the UK albums chart in 1981.",
+   "Phil Taylor's double-bass drumming on Overkill is widely cited as a starting point for thrash drumming."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Overkill",
+    1979
+   ],
+   [
+    "Bomber",
+    1979
+   ],
+   [
+    "Ace of Spades",
+    1980
+   ],
+   [
+    "No Sleep 'til Hammersmith",
+    1981
+   ]
+  ],
+  "songs": [
+   "Ace of Spades",
+   "Overkill",
+   "Bomber",
+   "Iron Fist",
+   "The Chase Is Better Than the Catch"
+  ],
+  "influencedBy": [
+   {
+    "id": "little-richard",
+    "why": "Lemmy called Little Richard a primary inspiration, and Motörhead's pounding piano-style rock and roll drive comes straight from him.",
+    "s": 3
+   },
+   {
+    "id": "chuck-berry",
+    "why": "Berry's fast, chugging rock and roll guitar patterns sit underneath many Motörhead riffs.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "Lemmy saw the Beatles at the Cavern Club and said they shaped his idea of what a band could be.",
+    "s": 3
+   },
+   {
+    "id": "buddy-holly",
+    "why": "Lemmy cited early rock and roll like Buddy Holly as the music he grew up playing.",
+    "s": 2
+   },
+   {
+    "id": "eddie-cochran",
+    "why": "Cochran's raw, fast rockabilly was among the 1950s records Lemmy named as formative.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "ramones",
+    "why": "Fast, loud, minimal songs that cut rock back to its basics."
+   },
+   {
+    "id": "black-flag",
+    "why": "Relentless speed and volume that bridged punk and metal audiences."
+   }
+  ]
+ },
+ {
+  "id": "iron-maiden",
+  "years": "1975–present",
+  "origin": "London, England",
+  "genres": [
+   "heavy metal",
+   "new wave of British heavy metal"
+  ],
+  "summary": "Iron Maiden combined galloping bass lines, harmonized twin guitars and long, multi-part song structures, setting the melodic and epic standard for heavy metal in the 1980s.",
+  "know": [
+   "Founder and bassist Steve Harris wrote much of the material and drives the band's galloping rhythm.",
+   "The Number of the Beast (1982), their first album with singer Bruce Dickinson, was their first UK No. 1.",
+   "They built a large global following largely through constant touring with little radio support."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Iron Maiden",
+    1980
+   ],
+   [
+    "The Number of the Beast",
+    1982
+   ],
+   [
+    "Piece of Mind",
+    1983
+   ],
+   [
+    "Powerslave",
+    1984
+   ]
+  ],
+  "songs": [
+   "The Trooper",
+   "Run to the Hills",
+   "Hallowed Be Thy Name",
+   "Aces High",
+   "Wasted Years"
+  ],
+  "influencedBy": [
+   {
+    "id": "deep-purple",
+    "why": "Steve Harris has named Deep Purple as a key early influence, and Bruce Dickinson has cited Ian Gillan as a model for his singing.",
+    "s": 3
+   },
+   {
+    "id": "genesis",
+    "why": "Harris often credits early Genesis for his love of long songs with changing sections, a direct root of Maiden's epics.",
+    "s": 3
+   },
+   {
+    "id": "yes",
+    "why": "Progressive rock bands like Yes informed Harris's interest in complex arrangements and melodic bass playing.",
+    "s": 2
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "Guitarist Dave Murray has cited Hendrix as the player who made him take up guitar.",
+    "s": 3
+   },
+   {
+    "id": "judas-priest",
+    "why": "Priest's twin lead guitar format and non-blues metal sound preceded and paralleled Maiden's.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "rush",
+    "why": "Long, multi-part songs with a virtuoso rhythm section at the center."
+   },
+   {
+    "id": "queen",
+    "why": "Big, theatrical arrangements and layered guitar harmonies."
+   }
+  ]
+ },
+ {
+  "id": "metallica",
+  "years": "1981–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "thrash metal",
+   "heavy metal",
+   "hard rock"
+  ],
+  "summary": "Metallica fused the speed of Motörhead with the melody and structure of British heavy metal to help create thrash, then broadened into a mainstream hard rock band that became one of the biggest acts in the world.",
+  "know": [
+   "Master of Puppets (1986) was the first metal recording added to the US National Recording Registry.",
+   "Their 1991 self-titled album, produced by Bob Rock, is one of the best-selling records of its era.",
+   "They were inducted into the Rock and Roll Hall of Fame in 2009."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Kill 'Em All",
+    1983
+   ],
+   [
+    "Ride the Lightning",
+    1984
+   ],
+   [
+    "Master of Puppets",
+    1986
+   ],
+   [
+    "Metallica",
+    1991
+   ]
+  ],
+  "songs": [
+   "Master of Puppets",
+   "Enter Sandman",
+   "One",
+   "Fade to Black",
+   "Seek & Destroy"
+  ],
+  "influencedBy": [
+   {
+    "id": "motorhead",
+    "why": "Lars Ulrich was a devoted Motörhead fan and the band's speed and raw energy fed directly into early Metallica, who later recorded Motörhead covers.",
+    "s": 3
+   },
+   {
+    "id": "iron-maiden",
+    "why": "Ulrich and James Hetfield have cited Maiden's twin guitar harmonies and long song structures as a model.",
+    "s": 3
+   },
+   {
+    "id": "black-sabbath",
+    "why": "Hetfield has called Black Sabbath the root of heavy riffing and the band has performed Sabbath songs.",
+    "s": 3
+   },
+   {
+    "id": "deep-purple",
+    "why": "Seeing Deep Purple as a child is the experience Ulrich credits with getting him into hard rock.",
+    "s": 3
+   },
+   {
+    "id": "judas-priest",
+    "why": "Priest's fast, precise riffs and dual guitar parts are a widely noted part of Metallica's foundation.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "guns-n-roses",
+    "why": "Late 1980s hard rock band that went from underground grit to stadium scale."
+   },
+   {
+    "id": "black-flag",
+    "why": "Fast, aggressive underground music built on intensity and DIY touring."
+   }
+  ]
+ },
+ {
+  "id": "megadeth",
+  "years": "1983–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "thrash metal",
+   "speed metal",
+   "heavy metal"
+  ],
+  "summary": "Megadeth played thrash with unusually intricate, fast riffing and technical lead guitar, pushing the genre toward precision and complexity.",
+  "know": [
+   "Founder Dave Mustaine co-wrote several early Metallica songs before forming Megadeth.",
+   "Rust in Peace (1990), with guitarist Marty Friedman, is widely seen as a peak of technical thrash.",
+   "They won the 2017 Grammy for Best Metal Performance with Dystopia."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Peace Sells... but Who's Buying?",
+    1986
+   ],
+   [
+    "Rust in Peace",
+    1990
+   ],
+   [
+    "Countdown to Extinction",
+    1992
+   ],
+   [
+    "Youthanasia",
+    1994
+   ]
+  ],
+  "songs": [
+   "Peace Sells",
+   "Holy Wars... The Punishment Due",
+   "Hangar 18",
+   "Symphony of Destruction",
+   "Tornado of Souls"
+  ],
+  "influencedBy": [
+   {
+    "id": "motorhead",
+    "why": "Motörhead's speed and aggression were part of the early thrash sound Mustaine helped build.",
+    "s": 2
+   },
+   {
+    "id": "judas-priest",
+    "why": "Priest's sharp twin guitar riffs and lead work are widely noted in Megadeth's style.",
+    "s": 2
+   },
+   {
+    "id": "iron-maiden",
+    "why": "Maiden's melodic harmonized guitars informed Megadeth's dual lead passages.",
+    "s": 2
+   },
+   {
+    "id": "sex-pistols",
+    "why": "Megadeth recorded a credited cover of Anarchy in the U.K., reflecting the punk energy in their playing.",
+    "s": 3
+   },
+   {
+    "id": "willie-dixon",
+    "why": "The band covered Dixon's I Ain't Superstitious on Peace Sells, reworking a blues standard in a thrash setting.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "rush",
+    "why": "Technically demanding rock built on precise, intricate playing."
+   },
+   {
+    "id": "frank-zappa",
+    "why": "Complex, tightly arranged guitar music led by a single strong-willed bandleader."
+   }
+  ]
+ },
+ {
+  "id": "slayer",
+  "years": "1981–2019, 2024–present",
+  "origin": "Huntington Park, California",
+  "genres": [
+   "thrash metal",
+   "speed metal"
+  ],
+  "summary": "Slayer played thrash at extreme tempos with chromatic, dissonant riffs and chaotic dueling solos, setting a new bar for speed and intensity that shaped death metal and other extreme styles.",
+  "know": [
+   "Reign in Blood (1986), produced by Rick Rubin, packs ten songs into under 29 minutes.",
+   "Dave Lombardo's fast double-bass drumming became a reference point for extreme metal drummers.",
+   "Their 1996 album Undisputed Attitude consisted mostly of covers of punk and hardcore songs."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Show No Mercy",
+    1983
+   ],
+   [
+    "Reign in Blood",
+    1986
+   ],
+   [
+    "South of Heaven",
+    1988
+   ],
+   [
+    "Seasons in the Abyss",
+    1990
+   ]
+  ],
+  "songs": [
+   "Raining Blood",
+   "South of Heaven",
+   "Seasons in the Abyss",
+   "War Ensemble",
+   "Hell Awaits"
+  ],
+  "influencedBy": [
+   {
+    "id": "judas-priest",
+    "why": "Slayer recorded a credited cover of Priest's Dissident Aggressor, and Priest's sharp twin guitar riffing shaped their early sound.",
+    "s": 3
+   },
+   {
+    "id": "iron-maiden",
+    "why": "The early band played Maiden songs and adopted their galloping riffs and harmonized leads on Show No Mercy.",
+    "s": 3
+   },
+   {
+    "id": "minor-threat",
+    "why": "Slayer covered Minor Threat on Undisputed Attitude, and hardcore's speed fed Jeff Hanneman's riff writing.",
+    "s": 3
+   },
+   {
+    "id": "the-stooges",
+    "why": "They reworked the Stooges' I Wanna Be Your Dog on Undisputed Attitude, showing their debt to raw proto-punk.",
+    "s": 3
+   },
+   {
+    "id": "black-sabbath",
+    "why": "Sabbath's ominous tritone-heavy riffing is a widely noted ancestor of Slayer's dark, chromatic style.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bad-brains",
+    "why": "Pushed tempo and precision to the limit of what a rock band could play."
+   },
+   {
+    "id": "black-flag",
+    "why": "Abrasive, fast underground music that broke the rules of its scene."
+   }
+  ]
+ },
+ {
+  "id": "pantera",
+  "years": "1981–2003, 2022–present",
+  "origin": "Arlington, Texas",
+  "genres": [
+   "groove metal",
+   "thrash metal",
+   "heavy metal"
+  ],
+  "summary": "Pantera slowed thrash down into thick, syncopated mid-tempo grooves with a tight, scooped guitar tone, defining groove metal and much of the heavy music of the 1990s.",
+  "know": [
+   "Cowboys from Hell (1990) was their major-label debut and marked their shift to a heavier groove sound.",
+   "Far Beyond Driven debuted at No. 1 on the Billboard 200 in 1994.",
+   "Dimebag Darrell's squealing harmonics and whammy-bar dives became a signature guitar style."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Cowboys from Hell",
+    1990
+   ],
+   [
+    "Vulgar Display of Power",
+    1992
+   ],
+   [
+    "Far Beyond Driven",
+    1994
+   ],
+   [
+    "The Great Southern Trendkill",
+    1996
+   ]
+  ],
+  "songs": [
+   "Walk",
+   "Cowboys from Hell",
+   "Cemetery Gates",
+   "Mouth for War",
+   "Planet Caravan"
+  ],
+  "influencedBy": [
+   {
+    "id": "van-halen",
+    "why": "Dimebag Darrell named Eddie Van Halen as a primary influence, and his tapping and whammy tricks show it.",
+    "s": 3
+   },
+   {
+    "id": "kiss",
+    "why": "Dimebag cited Ace Frehley as his first guitar hero, and the early band's glam roots came from Kiss.",
+    "s": 3
+   },
+   {
+    "id": "black-sabbath",
+    "why": "Pantera recorded a credited cover of Sabbath's Planet Caravan and built on Sabbath's heavy riffing.",
+    "s": 3
+   },
+   {
+    "id": "judas-priest",
+    "why": "Phil Anselmo's high screams and the band's early power metal sound drew directly from Priest.",
+    "s": 2
+   },
+   {
+    "id": "metallica",
+    "why": "Metallica's thrash riffing was a widely noted step in Pantera's move away from glam.",
+    "s": 2
+   },
+   {
+    "id": "slayer",
+    "why": "Slayer's aggression influenced Pantera's heavier turn around the time of Cowboys from Hell.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "lynyrd-skynyrd",
+    "why": "Southern swagger and loud guitar heroics at the center of the band."
+   },
+   {
+    "id": "stevie-ray-vaughan",
+    "why": "A Texas guitar hero whose tone and feel defined his scene."
+   }
+  ]
+ },
+ {
+  "id": "tool",
+  "years": "1990–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "progressive metal",
+   "alternative metal",
+   "art rock"
+  ],
+  "summary": "Tool built long, slowly unfolding songs on odd time signatures, interlocking bass and guitar patterns and Danny Carey's polyrhythmic drumming, bringing progressive rock ideas into 1990s alternative metal.",
+  "know": [
+   "They won Grammys for Best Metal Performance with Ænema (1998) and Schism (2002).",
+   "Fear Inoculum (2019) debuted at No. 1 on the Billboard 200 after a 13-year gap between albums.",
+   "Parts of Lateralus are structured around the Fibonacci sequence in syllable counts and meter."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Undertow",
+    1993
+   ],
+   [
+    "Ænima",
+    1996
+   ],
+   [
+    "Lateralus",
+    2001
+   ],
+   [
+    "Fear Inoculum",
+    2019
+   ]
+  ],
+  "songs": [
+   "Schism",
+   "Sober",
+   "Forty Six & 2",
+   "Lateralus",
+   "Parabola"
+  ],
+  "influencedBy": [
+   {
+    "id": "king-crimson",
+    "why": "Tool have openly cited King Crimson, toured with them in 2001, and share their interlocking, polyrhythmic guitar and drum patterns.",
+    "s": 3
+   },
+   {
+    "id": "led-zeppelin",
+    "why": "Tool recorded a credited cover of No Quarter, and Danny Carey has cited John Bonham as a major drumming influence.",
+    "s": 3
+   },
+   {
+    "id": "pink-floyd",
+    "why": "Their long, atmospheric builds and album-length flow echo Pink Floyd's approach.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "radiohead",
+    "why": "Album-focused band that brought odd meters and textures to a mass audience."
+   },
+   {
+    "id": "nine-inch-nails",
+    "why": "Dark, meticulously produced 1990s heavy music with an art-rock bent."
+   }
+  ]
+ },
+ {
+  "id": "korn",
+  "years": "1993–present",
+  "origin": "Bakersfield, California",
+  "genres": [
+   "nu metal",
+   "alternative metal"
+  ],
+  "summary": "Korn paired low-tuned seven-string guitars with hip-hop rhythms and slapped, percussive bass, creating the blueprint for nu metal in the mid 1990s.",
+  "know": [
+   "Guitarists Head and Munky used down-tuned seven-string Ibanez guitars to get their heavy, bass-like tone.",
+   "Producer Ross Robinson shaped their raw early sound on the first two albums.",
+   "Here to Stay won the 2003 Grammy for Best Metal Performance."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Korn",
+    1994
+   ],
+   [
+    "Life Is Peachy",
+    1996
+   ],
+   [
+    "Follow the Leader",
+    1998
+   ],
+   [
+    "Issues",
+    1999
+   ]
+  ],
+  "songs": [
+   "Blind",
+   "Freak on a Leash",
+   "Got the Life",
+   "Falling Away from Me",
+   "Here to Stay"
+  ],
+  "influencedBy": [
+   {
+    "id": "red-hot-chili-peppers",
+    "why": "Fieldy's slapped, percussive bass style is widely traced to Flea and funk-rock bass playing.",
+    "s": 2
+   },
+   {
+    "id": "depeche-mode",
+    "why": "Jonathan Davis has cited Depeche Mode as a favorite, and their dark synth moods inform Korn's atmosphere.",
+    "s": 2
+   },
+   {
+    "id": "pink-floyd",
+    "why": "Korn recorded a credited cover of Another Brick in the Wall, a nod to the band's love of heavy, moody rock.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "nine-inch-nails",
+    "why": "Heavy, emotionally raw 1990s sound mixing industrial textures with rock."
+   },
+   {
+    "id": "nirvana",
+    "why": "Brought a new, rawer style of heavy music to the 1990s mainstream."
+   }
+  ]
+ },
+ {
+  "id": "system-of-a-down",
+  "years": "1994–present",
+  "origin": "Glendale, California",
+  "genres": [
+   "alternative metal",
+   "nu metal"
+  ],
+  "summary": "System of a Down mixed fast thrash riffs with sudden tempo shifts, Armenian folk melodies and Serj Tankian's wide-ranging vocals, creating one of the most distinctive heavy sounds of the 2000s.",
+  "know": [
+   "All four members are of Armenian descent, and folk scales from that tradition run through their riffs.",
+   "Rick Rubin produced their albums, and Mezmerize and Hypnotize both debuted at No. 1 in 2005.",
+   "B.Y.O.B. won the 2006 Grammy for Best Hard Rock Performance."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "System of a Down",
+    1998
+   ],
+   [
+    "Toxicity",
+    2001
+   ],
+   [
+    "Mezmerize",
+    2005
+   ],
+   [
+    "Hypnotize",
+    2005
+   ]
+  ],
+  "songs": [
+   "Chop Suey!",
+   "Toxicity",
+   "Aerials",
+   "B.Y.O.B.",
+   "Sugar"
+  ],
+  "influencedBy": [
+   {
+    "id": "slayer",
+    "why": "Daron Malakian has named Slayer as a core influence, and their fast, choppy thrash riffs appear throughout the band's songs.",
+    "s": 3
+   },
+   {
+    "id": "kiss",
+    "why": "Malakian has said Kiss was the band that first got him into rock as a child.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "Malakian has credited the Beatles for his sense of melody, which shows in the band's sung hooks.",
+    "s": 3
+   },
+   {
+    "id": "frank-zappa",
+    "why": "Their abrupt shifts between styles and playful, theatrical delivery are widely compared to Zappa.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "os-mutantes",
+    "why": "Unpredictable, genre-hopping songs full of sudden changes in mood."
+   },
+   {
+    "id": "pixies",
+    "why": "Sharp swings between quiet and explosively loud passages."
+   }
+  ]
+ },
+ {
+  "id": "deftones",
+  "years": "1988–present",
+  "origin": "Sacramento, California",
+  "genres": [
+   "alternative metal",
+   "nu metal",
+   "art rock"
+  ],
+  "summary": "Deftones combined heavy, low-tuned riffs with dreamy, layered textures and Chino Moreno's shifting croon-to-scream vocals, adding shoegaze and new wave atmosphere to metal.",
+  "know": [
+   "Elite won the 2001 Grammy for Best Metal Performance.",
+   "Frank Delgado added turntables and keyboards, giving the band an electronic texture layer.",
+   "Stephen Carpenter moved from seven-string to eight-string guitars for even lower tunings."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Adrenaline",
+    1995
+   ],
+   [
+    "Around the Fur",
+    1997
+   ],
+   [
+    "White Pony",
+    2000
+   ],
+   [
+    "Diamond Eyes",
+    2010
+   ]
+  ],
+  "songs": [
+   "Change (In the House of Flies)",
+   "My Own Summer (Shove It)",
+   "Be Quiet and Drive (Far Away)",
+   "Digital Bath",
+   "Minerva"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-cure",
+    "why": "Chino Moreno has repeatedly cited the Cure, and the band recorded a credited cover of If Only Tonight We Could Sleep.",
+    "s": 3
+   },
+   {
+    "id": "depeche-mode",
+    "why": "Deftones covered Depeche Mode's To Have and to Hold, and Moreno credits their dark synth pop for his melodic sense.",
+    "s": 3
+   },
+   {
+    "id": "the-smiths",
+    "why": "The band recorded a credited cover of the Smiths' Please, Please, Please, Let Me Get What I Want.",
+    "s": 3
+   },
+   {
+    "id": "my-bloody-valentine",
+    "why": "Their washes of distorted, blurred guitar on White Pony and later albums are widely linked to shoegaze and My Bloody Valentine.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "massive-attack",
+    "why": "Dark, slow-burning atmosphere built from heavy low end and layered texture."
+   },
+   {
+    "id": "portishead",
+    "why": "Moody, cinematic sound with a haunting lead voice."
+   }
+  ]
+ },
+ {
+  "id": "slipknot",
+  "years": "1995–present",
+  "origin": "Des Moines, Iowa",
+  "genres": [
+   "nu metal",
+   "alternative metal",
+   "groove metal"
+  ],
+  "summary": "Slipknot packed nine members, including two extra percussionists, a DJ and a sampler, into a dense, aggressive sound that pushed nu metal toward faster thrash and death metal tempos.",
+  "know": [
+   "The lineup of nine includes two percussionists, a turntablist and a sampler alongside the core band.",
+   "Before I Forget won the 2006 Grammy for Best Metal Performance.",
+   "All Hope Is Gone (2008) was their first album to debut at No. 1 on the Billboard 200."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Slipknot",
+    1999
+   ],
+   [
+    "Iowa",
+    2001
+   ],
+   [
+    "Vol. 3: (The Subliminal Verses)",
+    2004
+   ],
+   [
+    "All Hope Is Gone",
+    2008
+   ]
+  ],
+  "songs": [
+   "Wait and Bleed",
+   "Duality",
+   "Before I Forget",
+   "Psychosocial",
+   "Spit It Out"
+  ],
+  "influencedBy": [
+   {
+    "id": "slayer",
+    "why": "Members have repeatedly named Slayer as a key influence, and their fast riffing and blast-driven tempos show it.",
+    "s": 3
+   },
+   {
+    "id": "kiss",
+    "why": "Drummer Joey Jordison called Kiss his first musical love, and the band's theatrical stage approach echoes them.",
+    "s": 3
+   },
+   {
+    "id": "metallica",
+    "why": "Metallica's thrash riffing is a widely noted foundation for the band's guitar parts.",
+    "s": 2
+   },
+   {
+    "id": "black-sabbath",
+    "why": "Corey Taylor has cited Black Sabbath as a lifelong favorite and the root of heavy riffing.",
+    "s": 2
+   },
+   {
+    "id": "korn",
+    "why": "Slipknot shared producer Ross Robinson with Korn and built on the down-tuned nu metal template Korn set.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "public-enemy",
+    "why": "Dense, chaotic layers of noise, samples and percussion stacked into one wall of sound."
+   },
+   {
+    "id": "the-prodigy",
+    "why": "Aggressive, high-energy music that blurred electronics and heavy rock."
+   }
+  ]
+ },
+ {
+  "id": "rage-against-the-machine",
+  "years": "1991–2000, 2007–2011, 2019–2024",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "rap metal",
+   "funk metal",
+   "alternative metal"
+  ],
+  "summary": "Rage Against the Machine fused hip-hop vocal delivery and grooves with heavy, funk-based riffs, while Tom Morello used guitar effects to imitate DJ scratching, setting the standard for rap metal.",
+  "know": [
+   "Their album liner notes stated that no samples, keyboards or synthesizers were used; the odd sounds come from guitar.",
+   "Tom Morello's toggle-switch stutters and DigiTech Whammy pitch shifts mimic a hip-hop DJ.",
+   "They were inducted into the Rock and Roll Hall of Fame in 2023."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Rage Against the Machine",
+    1992
+   ],
+   [
+    "Evil Empire",
+    1996
+   ],
+   [
+    "The Battle of Los Angeles",
+    1999
+   ],
+   [
+    "Renegades",
+    2000
+   ]
+  ],
+  "songs": [
+   "Killing in the Name",
+   "Bulls on Parade",
+   "Guerrilla Radio",
+   "Testify",
+   "Bombtrack"
+  ],
+  "influencedBy": [
+   {
+    "id": "public-enemy",
+    "why": "Morello has said he tried to recreate Public Enemy's dense, noisy production and DJ scratches on guitar.",
+    "s": 3
+   },
+   {
+    "id": "run-dmc",
+    "why": "Run-DMC's blend of rap and hard rock guitar paved the way for the band's rap metal fusion.",
+    "s": 2
+   },
+   {
+    "id": "afrika-bambaataa",
+    "why": "The band recorded a credited cover of Renegades of Funk on their Renegades album.",
+    "s": 3
+   },
+   {
+    "id": "rakim",
+    "why": "They covered Eric B. & Rakim's Microphone Fiend, and Zack de la Rocha's flow owes a debt to that style.",
+    "s": 3
+   },
+   {
+    "id": "mc5",
+    "why": "They covered Kick Out the Jams, linking themselves to the MC5's high-energy hard rock.",
+    "s": 3
+   },
+   {
+    "id": "the-stooges",
+    "why": "The band covered the Stooges' Down on the Street on Renegades.",
+    "s": 3
+   },
+   {
+    "id": "minor-threat",
+    "why": "De la Rocha came from hardcore punk, and the band covered Minor Threat's In My Eyes.",
+    "s": 3
+   },
+   {
+    "id": "black-sabbath",
+    "why": "Morello has cited Black Sabbath's heavy riffs as a foundation for his own riff writing.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "beastie-boys",
+    "why": "Rap group that blended live band rock and hip-hop delivery."
+   },
+   {
+    "id": "the-clash",
+    "why": "Hard-hitting rock band that mixed in other genres and aimed at a broad audience."
+   }
+  ]
+ },
+ {
+  "id": "mastodon",
+  "years": "2000–present",
+  "origin": "Atlanta, Georgia",
+  "genres": [
+   "progressive metal",
+   "sludge metal",
+   "stoner metal"
+  ],
+  "summary": "Mastodon combined thick sludge riffs with progressive rock structures and Brann Dailor's busy, jazz-tinged drumming, becoming one of the most acclaimed metal bands of the 2000s.",
+  "know": [
+   "Drummer Brann Dailor sings lead on many songs while playing complex drum parts.",
+   "Crack the Skye (2009) was produced by Brendan O'Brien and leaned further into progressive rock.",
+   "Sultan's Curse won the 2018 Grammy for Best Metal Performance."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Leviathan",
+    2004
+   ],
+   [
+    "Blood Mountain",
+    2006
+   ],
+   [
+    "Crack the Skye",
+    2009
+   ],
+   [
+    "Emperor of Sand",
+    2017
+   ]
+  ],
+  "songs": [
+   "Blood and Thunder",
+   "Oblivion",
+   "The Motherload",
+   "Show Yourself",
+   "Colony of Birchmen"
+  ],
+  "influencedBy": [
+   {
+    "id": "king-crimson",
+    "why": "The band's interlocking riffs and odd-meter sections reflect a widely noted progressive rock debt to King Crimson.",
+    "s": 2
+   },
+   {
+    "id": "genesis",
+    "why": "Brann Dailor has cited Phil Collins era progressive rock drumming as a big influence on his style.",
+    "s": 2
+   },
+   {
+    "id": "rush",
+    "why": "Dailor has named Neil Peart and Rush among the progressive players who shaped his approach.",
+    "s": 2
+   },
+   {
+    "id": "black-sabbath",
+    "why": "Their slow, heavy sludge riffing grows directly from the Sabbath tradition.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-allman-brothers",
+    "why": "Georgia band built on twin guitars and long, winding instrumental passages."
+   },
+   {
+    "id": "yes",
+    "why": "Ambitious, multi-part progressive music with busy, virtuoso drumming."
+   }
+  ]
+ },
+ {
+  "id": "gojira",
+  "years": "1996–present",
+  "origin": "Ondres, France",
+  "genres": [
+   "progressive metal",
+   "death metal",
+   "groove metal"
+  ],
+  "summary": "Gojira combined crushing, precise death metal riffs with groove, unusual guitar techniques and a strong sense of space, becoming the leading modern metal band from France.",
+  "know": [
+   "The band was founded by brothers Joe Duplantier (vocals, guitar) and Mario Duplantier (drums), first under the name Godzilla.",
+   "Their pick-scrape slides and pinch-harmonic squeals became signature guitar techniques.",
+   "They performed at the opening ceremony of the Paris 2024 Olympics."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "From Mars to Sirius",
+    2005
+   ],
+   [
+    "The Way of All Flesh",
+    2008
+   ],
+   [
+    "Magma",
+    2016
+   ],
+   [
+    "Fortitude",
+    2021
+   ]
+  ],
+  "songs": [
+   "Flying Whales",
+   "Stranded",
+   "Silvera",
+   "L'Enfant Sauvage",
+   "Amazonia"
+  ],
+  "influencedBy": [
+   {
+    "id": "metallica",
+    "why": "Joe Duplantier has named Metallica as the band that drew him into metal, and their riff discipline shows in Gojira's songs.",
+    "s": 3
+   },
+   {
+    "id": "slayer",
+    "why": "Slayer's fast, aggressive thrash was part of the extreme metal grounding the brothers built on.",
+    "s": 2
+   },
+   {
+    "id": "pantera",
+    "why": "Gojira's heavy mid-tempo groove riffs are widely compared to Pantera's groove metal.",
+    "s": 1
+   },
+   {
+    "id": "tool",
+    "why": "Their long, hypnotic builds and rhythmic repetition have been compared to Tool's progressive approach.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "daft-punk",
+    "why": "French act that reached a worldwide audience on its own terms."
+   },
+   {
+    "id": "radiohead",
+    "why": "Band that kept evolving into richer textures while staying distinctive."
+   }
+  ]
+ },
+ {
+  "id": "ghost",
+  "years": "2006–present",
+  "origin": "Linköping, Sweden",
+  "genres": [
+   "heavy metal",
+   "hard rock",
+   "pop metal"
+  ],
+  "summary": "Ghost combined 1970s and 1980s hard rock riffs with big pop melodies, organ and polished production, bringing catchy, theatrical classic metal back to a mainstream audience.",
+  "know": [
+   "Cirice won the 2016 Grammy for Best Metal Performance.",
+   "Mary on a Cross, from a 2019 EP, became a viral streaming hit in 2022.",
+   "Their 2023 EP Phantomime consisted of covers of songs by Iron Maiden, Genesis, Television and others."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Opus Eponymous",
+    2010
+   ],
+   [
+    "Meliora",
+    2015
+   ],
+   [
+    "Prequelle",
+    2018
+   ],
+   [
+    "Impera",
+    2022
+   ]
+  ],
+  "songs": [
+   "Square Hammer",
+   "Cirice",
+   "Mary on a Cross",
+   "Rats",
+   "Dance Macabre"
+  ],
+  "influencedBy": [
+   {
+    "id": "iron-maiden",
+    "why": "Ghost recorded a credited cover of Maiden's Phantom of the Opera and use similar harmonized guitar lines.",
+    "s": 3
+   },
+   {
+    "id": "genesis",
+    "why": "They covered Genesis's Jesus He Knows Me on Phantomime, reflecting their love of melodic progressive pop rock.",
+    "s": 3
+   },
+   {
+    "id": "television",
+    "why": "Ghost covered Television's See No Evil, showing the influence of angular late 1970s guitar rock.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "Ghost recorded a credited cover of Here Comes the Sun, and their strong melodic focus owes a debt to the Beatles.",
+    "s": 3
+   },
+   {
+    "id": "abba",
+    "why": "Tobias Forge has cited ABBA's songwriting, and Ghost's polished, hook-heavy choruses reflect that Swedish pop craft.",
+    "s": 2
+   },
+   {
+    "id": "black-sabbath",
+    "why": "Their early doom-tinged riffs and organ sound on Opus Eponymous draw on 1970s Sabbath-style heavy rock.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "queen",
+    "why": "Theatrical rock with huge sing-along choruses and layered harmonies."
+   },
+   {
+    "id": "abba",
+    "why": "Swedish act known for immaculate melodies and polished pop arrangements."
+   }
+  ]
+ }
+]

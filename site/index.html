@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="A music family tree from 1900 to now: who influenced whom, album lineages, sample trails and daily picks.">
+<title>Sound Lineage</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Instrument+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+
+<header class="bar">
+  <div class="bar-inner">
+    <a class="brand" href="#today" aria-label="Sound Lineage home">
+      <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="none" stroke="currentColor" stroke-width="1.6"/><circle cx="12" cy="12" r="6.5" fill="none" stroke="currentColor" stroke-width=".8" opacity=".5"/><circle cx="12" cy="12" r="2.2" fill="currentColor"/></svg>
+      <span>Sound Lineage</span>
+    </a>
+    <nav class="tabs" aria-label="Views">
+      <a href="#today" data-view="today">Today</a>
+      <a href="#map" data-view="map">Map</a>
+      <a href="#tree" data-view="tree">Tree</a>
+      <a href="#journeys" data-view="journeys">Journeys</a>
+      <a href="#play" data-view="play">Play</a>
+      <a href="#browse" data-view="browse">Browse</a>
+      <a href="#you" data-view="you">For You</a>
+    </nav>
+    <label class="search">
+      <span class="sr">Find an artist, album or song</span>
+      <input id="q" type="search" placeholder="Find an artist, album or song…" autocomplete="off">
+      <div id="qres" class="qres" hidden></div>
+    </label>
+  </div>
+</header>
+
+<main>
+  <section id="view-today" class="view"></section>
+  <section id="view-map" class="view" hidden>
+    <div class="map-head">
+      <div>
+        <h1>A century of music, and who shaped whom</h1>
+        <p class="lede">Time runs left to right, from ragtime to now. Each genre has its own lane around the timeline. Drag to turn it, scroll or pinch to zoom, tap an artist to see their influences flow in and their legacy flow out.</p>
+      </div>
+      <div class="seg" role="group" aria-label="Map style"><button data-mapmode="3d">3D</button><button data-mapmode="flat">Flat</button></div>
+    </div>
+    <div class="map-wrap" id="mapwrap">
+      <div id="graph3d" class="g3d" hidden></div>
+      <canvas id="graph" aria-label="Network map of musical influence" hidden></canvas>
+      <div id="labels" class="labels" aria-hidden="true"></div>
+      <div class="map-tools">
+        <button id="zin" aria-label="Zoom in">+</button>
+        <button id="zout" aria-label="Zoom out">−</button>
+        <button id="zfit" aria-label="Fit map">Fit</button>
+      </div>
+      <div class="map-hud" id="hud">
+        <button class="hud-play" id="playhist" aria-label="Play the history of music">▶ Play history</button>
+        <input id="era" type="range" min="0" max="12" value="12" aria-label="Show artists up to this decade">
+        <span id="eralabel" class="mono">2020s</span>
+      </div>
+      <div class="map-focus" id="mapfocus" hidden></div>
+      <div id="tip" class="tip" hidden></div>
+      <div class="bigyear mono" id="bigyear" hidden></div>
+    </div>
+    <div class="map-filter" id="mapfilter" role="group" aria-label="Show genres"></div>
+  </section>
+  <section id="view-tree" class="view" hidden></section>
+  <section id="view-journeys" class="view" hidden></section>
+  <section id="view-play" class="view" hidden></section>
+  <section id="view-browse" class="view" hidden></section>
+  <section id="view-you" class="view" hidden></section>
+</main>
+
+<aside id="panel" class="panel" hidden aria-live="polite">
+  <button class="close" id="pclose" aria-label="Close">×</button>
+  <div id="pbody"></div>
+</aside>
+
+<footer class="foot">
+  Influence links are curated from artist interviews, biographies and music histories, and graded by how direct they are. Listening links open Spotify, Apple Music or YouTube. Spot a wrong or missing link? Open any artist and send a correction.
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/3d-force-graph@1.80.0/dist/3d-force-graph.min.js"></script>
+<script src="games.js"></script>
+<script src="today.js"></script>
+<script src="spotify.js"></script>
+<script src="you.js"></script>
+<script src="tree.js"></script>
+<script src="map.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

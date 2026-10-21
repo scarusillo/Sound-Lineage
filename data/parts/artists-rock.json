@@ -1,0 +1,5405 @@
+[
+ {
+  "id": "chuck-berry",
+  "years": "1955–2017",
+  "origin": "St. Louis, Missouri",
+  "genres": [
+   "rock and roll",
+   "rhythm and blues"
+  ],
+  "summary": "Chuck Berry set the template for rock and roll guitar and songwriting in the 1950s. His riffs and teenage story songs were copied by nearly every rock band that followed.",
+  "know": [
+   "His first hit, Maybellene, was adapted from the fiddle tune Ida Red.",
+   "Johnny B. Goode is on the golden record carried by the Voyager spacecraft.",
+   "He was in the first class inducted into the Rock and Roll Hall of Fame in 1986."
+  ],
+  "born": "10-18",
+  "keyAlbums": [
+   [
+    "After School Session",
+    1957
+   ],
+   [
+    "One Dozen Berrys",
+    1958
+   ],
+   [
+    "Chuck Berry Is on Top",
+    1959
+   ],
+   [
+    "St. Louis to Liverpool",
+    1964
+   ]
+  ],
+  "songs": [
+   "Maybellene",
+   "Roll Over Beethoven",
+   "Johnny B. Goode",
+   "Sweet Little Sixteen",
+   "Rock and Roll Music"
+  ],
+  "influencedBy": [
+   {
+    "id": "t-bone-walker",
+    "why": "Berry named T-Bone Walker as a key model for his electric guitar playing and stage moves.",
+    "s": 3
+   },
+   {
+    "id": "louis-jordan",
+    "why": "Berry said he identified with Louis Jordan, and the Johnny B. Goode intro echoes a guitar line from a Jordan record.",
+    "s": 3
+   },
+   {
+    "id": "muddy-waters",
+    "why": "Muddy Waters sent the young Berry to Leonard Chess, which led to his Chess Records contract.",
+    "s": 3
+   },
+   {
+    "id": "charlie-christian",
+    "why": "Berry cited Charlie Christian's single-note electric jazz lines as an early guitar inspiration.",
+    "s": 2
+   },
+   {
+    "id": "bob-wills",
+    "why": "Maybellene grew out of Ida Red, a fiddle tune Bob Wills and his Texas Playboys had recorded.",
+    "s": 2
+   },
+   {
+    "id": "nat-king-cole",
+    "why": "Berry admired Nat King Cole's clear diction and aimed to sing just as plainly.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "hank-williams",
+    "why": "Both wrote the basic song vocabulary their genres still use."
+   },
+   {
+    "id": "slick-rick",
+    "why": "Both pack vivid little teenage stories into tight, funny verses."
+   }
+  ]
+ },
+ {
+  "id": "little-richard",
+  "years": "1951–2020",
+  "origin": "Macon, Georgia",
+  "genres": [
+   "rock and roll",
+   "rhythm and blues",
+   "gospel"
+  ],
+  "summary": "Little Richard was one of rock and roll's founding performers, with a pounding piano, a shrieking voice and a flamboyant stage act. His mid-1950s hits defined the music's wild side.",
+  "know": [
+   "Tutti Frutti began as a bawdy song he cleaned up in the studio in 1955.",
+   "Sister Rosetta Tharpe invited him to sing at her show in Macon when he was a teenager.",
+   "The Beatles opened for him in 1962 before they were famous."
+  ],
+  "born": "12-05",
+  "keyAlbums": [
+   [
+    "Here's Little Richard",
+    1957
+   ],
+   [
+    "Little Richard",
+    1958
+   ],
+   [
+    "The Fabulous Little Richard",
+    1959
+   ]
+  ],
+  "songs": [
+   "Tutti Frutti",
+   "Long Tall Sally",
+   "Good Golly, Miss Molly",
+   "Lucille",
+   "Rip It Up"
+  ],
+  "influencedBy": [
+   {
+    "id": "sister-rosetta-tharpe",
+    "why": "Tharpe heard him sing before her 1947 Macon concert and brought him on stage, his first time performing for a big crowd.",
+    "s": 3
+   },
+   {
+    "id": "louis-jordan",
+    "why": "He named Louis Jordan as a major early influence on his jump-blues style.",
+    "s": 3
+   },
+   {
+    "id": "fats-domino",
+    "why": "He cut his hits at Cosimo Matassa's New Orleans studio with the same session players behind Fats Domino's records.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "james-brown",
+    "why": "Both were explosive Black showmen from Georgia who made the live performance the point."
+   },
+   {
+    "id": "prince",
+    "why": "Both mixed gospel shouting with flamboyant, gender-bending style."
+   },
+   {
+    "id": "lady-gaga",
+    "why": "Both treat outrageous costume and theatrics as part of the music."
+   }
+  ]
+ },
+ {
+  "id": "fats-domino",
+  "years": "1949–2017",
+  "origin": "New Orleans, Louisiana",
+  "genres": [
+   "rock and roll",
+   "New Orleans R&B",
+   "boogie-woogie"
+  ],
+  "summary": "Fats Domino brought New Orleans piano rhythm and blues into the early rock and roll mainstream. His relaxed rolling piano and warm voice made him one of the best-selling artists of the 1950s.",
+  "know": [
+   "The Fat Man from 1949 is often called one of the first rock and roll records.",
+   "He sold more than 65 million records.",
+   "He was rescued by boat from his flooded home after Hurricane Katrina in 2005."
+  ],
+  "born": "02-26",
+  "keyAlbums": [
+   [
+    "Carry On Rockin'",
+    1955
+   ],
+   [
+    "This Is Fats Domino!",
+    1956
+   ],
+   [
+    "Here Stands Fats Domino",
+    1957
+   ]
+  ],
+  "songs": [
+   "The Fat Man",
+   "Ain't That a Shame",
+   "Blueberry Hill",
+   "I'm Walkin'",
+   "Blue Monday"
+  ],
+  "influencedBy": [
+   {
+    "id": "fats-waller",
+    "why": "His nickname was given by bandleader Billy Diamond in honor of piano men like Fats Waller.",
+    "s": 2
+   },
+   {
+    "id": "louis-jordan",
+    "why": "His shuffling jump-blues rhythms follow the band sound Louis Jordan made popular in the 1940s.",
+    "s": 2
+   },
+   {
+    "id": "louis-armstrong",
+    "why": "His 1956 hit Blueberry Hill followed Louis Armstrong's 1949 recording of the song.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-meters",
+    "why": "Both are pillars of the New Orleans groove."
+   },
+   {
+    "id": "toots",
+    "why": "Both have a warm, friendly voice over a loping beat, and Jamaican ska grew partly out of New Orleans R&B."
+   }
+  ]
+ },
+ {
+  "id": "bo-diddley",
+  "years": "1955–2008",
+  "origin": "McComb, Mississippi",
+  "genres": [
+   "rock and roll",
+   "rhythm and blues",
+   "Chicago blues"
+  ],
+  "summary": "Bo Diddley built songs on a single driving rhythm, the shave-and-a-haircut pattern now called the Bo Diddley beat. His rhythm-first approach and homemade guitars shaped rock, garage and punk.",
+  "know": [
+   "He built his own rectangular guitars.",
+   "He took up violin as a child before switching to guitar.",
+   "He was banned from The Ed Sullivan Show in 1955 after playing a different song than agreed."
+  ],
+  "born": "12-30",
+  "keyAlbums": [
+   [
+    "Bo Diddley",
+    1958
+   ],
+   [
+    "Go Bo Diddley",
+    1959
+   ],
+   [
+    "Have Guitar Will Travel",
+    1960
+   ]
+  ],
+  "songs": [
+   "Bo Diddley",
+   "I'm a Man",
+   "Who Do You Love?",
+   "Mona",
+   "Road Runner"
+  ],
+  "influencedBy": [
+   {
+    "id": "john-lee-hooker",
+    "why": "His one-chord, rhythm-driven songs follow John Lee Hooker's boogie approach.",
+    "s": 2
+   },
+   {
+    "id": "louis-jordan",
+    "why": "He named Louis Jordan among the musicians he listened to growing up.",
+    "s": 2
+   },
+   {
+    "id": "muddy-waters",
+    "why": "He came up in the same South Side Chicago scene as Muddy Waters and recorded for the same Chess family of labels.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "james-brown",
+    "why": "Both put rhythm ahead of melody and chord changes."
+   },
+   {
+    "id": "fela-kuti",
+    "why": "Both build long songs on one hypnotic groove."
+   }
+  ]
+ },
+ {
+  "id": "elvis-presley",
+  "years": "1954–1977",
+  "origin": "Tupelo, Mississippi",
+  "genres": [
+   "rockabilly",
+   "rock and roll",
+   "gospel"
+  ],
+  "summary": "Elvis Presley fused country, blues and gospel at Sun Records in Memphis and became rock and roll's first superstar. His records and TV appearances brought the music to a mass audience.",
+  "know": [
+   "His first single paired the blues song That's All Right with Bill Monroe's Blue Moon of Kentucky.",
+   "He was drafted into the U.S. Army in 1958 and served in West Germany.",
+   "He is the best-selling solo artist of all time by most estimates."
+  ],
+  "born": "01-08",
+  "keyAlbums": [
+   [
+    "Elvis Presley",
+    1956
+   ],
+   [
+    "Elvis",
+    1956
+   ],
+   [
+    "Elvis Is Back!",
+    1960
+   ],
+   [
+    "From Elvis in Memphis",
+    1969
+   ]
+  ],
+  "songs": [
+   "That's All Right",
+   "Heartbreak Hotel",
+   "Hound Dog",
+   "Jailhouse Rock",
+   "Suspicious Minds"
+  ],
+  "influencedBy": [
+   {
+    "id": "bill-monroe",
+    "why": "He recorded a sped-up version of Bill Monroe's Blue Moon of Kentucky as the B-side of his first single.",
+    "s": 3
+   },
+   {
+    "id": "ray-charles",
+    "why": "He covered Ray Charles's I Got a Woman on his first album.",
+    "s": 3
+   },
+   {
+    "id": "carl-perkins",
+    "why": "He had a hit with Carl Perkins's Blue Suede Shoes in 1956.",
+    "s": 3
+   },
+   {
+    "id": "little-richard",
+    "why": "He covered Tutti Frutti, Long Tall Sally and Rip It Up in 1956.",
+    "s": 3
+   },
+   {
+    "id": "fats-domino",
+    "why": "He recorded Blueberry Hill and called Fats Domino the real king of rock and roll.",
+    "s": 3
+   },
+   {
+    "id": "chuck-berry",
+    "why": "He covered several Chuck Berry songs, including Johnny B. Goode and Promised Land.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "frank-sinatra",
+    "why": "Both were the defining male idol of their era."
+   },
+   {
+    "id": "michael-jackson",
+    "why": "Both became global kings of their genre and its biggest stage presence."
+   }
+  ]
+ },
+ {
+  "id": "buddy-holly",
+  "years": "1956–1959",
+  "origin": "Lubbock, Texas",
+  "genres": [
+   "rock and roll",
+   "rockabilly",
+   "Tex-Mex"
+  ],
+  "summary": "Buddy Holly wrote, arranged and produced much of his own music in a career of under three years. His Crickets set the two-guitars, bass and drums lineup that rock bands still use.",
+  "know": [
+   "He died in a plane crash on February 3, 1959, later called the day the music died.",
+   "The Beatles chose their name partly as a nod to his band, the Crickets.",
+   "He opened for Elvis Presley in Lubbock in 1955."
+  ],
+  "born": "09-07",
+  "keyAlbums": [
+   [
+    "The \"Chirping\" Crickets",
+    1957
+   ],
+   [
+    "Buddy Holly",
+    1958
+   ],
+   [
+    "That'll Be the Day",
+    1958
+   ]
+  ],
+  "songs": [
+   "That'll Be the Day",
+   "Peggy Sue",
+   "Not Fade Away",
+   "Everyday",
+   "Rave On"
+  ],
+  "influencedBy": [
+   {
+    "id": "elvis-presley",
+    "why": "Seeing Elvis in Lubbock in 1955 pushed him from country toward rock and roll.",
+    "s": 3
+   },
+   {
+    "id": "bo-diddley",
+    "why": "Not Fade Away is built on the Bo Diddley beat, and he recorded Diddley's song Bo Diddley.",
+    "s": 3
+   },
+   {
+    "id": "hank-williams",
+    "why": "He started out playing country songs in Hank Williams's style in the duo Buddy and Bob.",
+    "s": 2
+   },
+   {
+    "id": "bill-monroe",
+    "why": "His early Buddy and Bob duo played bluegrass and western material.",
+    "s": 2
+   },
+   {
+    "id": "little-richard",
+    "why": "He recorded Little Richard's Slippin' and Slidin' and Ready Teddy.",
+    "s": 3
+   },
+   {
+    "id": "chuck-berry",
+    "why": "He recorded Chuck Berry's Brown Eyed Handsome Man.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "hank-williams",
+    "why": "Both wrote a lasting songbook in a few short years before dying young."
+   },
+   {
+    "id": "weezer",
+    "why": "Both play bright, simple, catchy songs, and Weezer even wrote a hit called Buddy Holly."
+   }
+  ]
+ },
+ {
+  "id": "jerry-lee-lewis",
+  "years": "1956–2022",
+  "origin": "Ferriday, Louisiana",
+  "genres": [
+   "rock and roll",
+   "rockabilly",
+   "country"
+  ],
+  "summary": "Jerry Lee Lewis was rock and roll's wildest piano player, pounding the keys with his hands, feet and elbows. After a 1958 scandal stalled his rock career, he reinvented himself as a country star.",
+  "know": [
+   "He was the last surviving member of Sun Records' Million Dollar Quartet session.",
+   "His cousins included country singer Mickey Gilley and preacher Jimmy Swaggart.",
+   "His nickname was The Killer."
+  ],
+  "born": "09-29",
+  "keyAlbums": [
+   [
+    "Jerry Lee Lewis",
+    1958
+   ],
+   [
+    "Live at the Star Club, Hamburg",
+    1964
+   ],
+   [
+    "Another Place, Another Time",
+    1968
+   ],
+   [
+    "The Session",
+    1973
+   ]
+  ],
+  "songs": [
+   "Whole Lotta Shakin' Goin' On",
+   "Great Balls of Fire",
+   "Breathless",
+   "High School Confidential",
+   "What's Made Milwaukee Famous"
+  ],
+  "influencedBy": [
+   {
+    "id": "hank-williams",
+    "why": "He idolized Hank Williams and recorded many of his songs.",
+    "s": 3
+   },
+   {
+    "id": "jimmie-rodgers",
+    "why": "He named Jimmie Rodgers as an early hero and recorded his songs.",
+    "s": 3
+   },
+   {
+    "id": "bob-wills",
+    "why": "His country boogie piano draws on the Western swing dance bands of Bob Wills's era.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "george-jones",
+    "why": "Both are giant voices with hell-raising reputations."
+   },
+   {
+    "id": "elton-john",
+    "why": "Both are flamboyant piano showmen."
+   }
+  ]
+ },
+ {
+  "id": "carl-perkins",
+  "years": "1954–1998",
+  "origin": "Tiptonville, Tennessee",
+  "genres": [
+   "rockabilly",
+   "rock and roll",
+   "country"
+  ],
+  "summary": "Carl Perkins was a Sun Records rockabilly pioneer whose Blue Suede Shoes was one of the first records to top pop, country and R&B charts at once. His guitar style was a model for George Harrison and many others.",
+  "know": [
+   "A car crash in 1956 kept him from promoting Blue Suede Shoes on national TV.",
+   "The Beatles recorded three of his songs.",
+   "He grew up the son of sharecroppers and learned blues from a Black field worker named John Westbrook."
+  ],
+  "born": "04-09",
+  "keyAlbums": [
+   [
+    "Dance Album of Carl Perkins",
+    1957
+   ],
+   [
+    "Whole Lotta Shakin'",
+    1958
+   ],
+   [
+    "Ol' Blue Suede's Back",
+    1978
+   ]
+  ],
+  "songs": [
+   "Blue Suede Shoes",
+   "Matchbox",
+   "Honey Don't",
+   "Everybody's Trying to Be My Baby",
+   "Boppin' the Blues"
+  ],
+  "influencedBy": [
+   {
+    "id": "bill-monroe",
+    "why": "He said Bill Monroe's bluegrass was a major early influence on his playing.",
+    "s": 3
+   },
+   {
+    "id": "blind-lemon-jefferson",
+    "why": "His song Matchbox reworks Blind Lemon Jefferson's Match Box Blues.",
+    "s": 2
+   },
+   {
+    "id": "elvis-presley",
+    "why": "Hearing Elvis's first Sun single convinced him to audition for Sam Phillips.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "buck-owens",
+    "why": "Both play twangy, guitar-driven country-rock built for dancing."
+   },
+   {
+    "id": "dwight-yoakam",
+    "why": "Both blend hillbilly twang with a rockabilly kick."
+   }
+  ]
+ },
+ {
+  "id": "everly-brothers",
+  "years": "1956–2014",
+  "origin": "Brownie, Kentucky",
+  "genres": [
+   "rock and roll",
+   "close harmony",
+   "country rock"
+  ],
+  "summary": "Don and Phil Everly brought Appalachian close-harmony singing into rock and roll. Their two-part harmonies shaped the Beatles, Simon and Garfunkel and the Byrds.",
+  "know": [
+   "Their parents Ike and Margaret Everly were country radio performers.",
+   "Bye Bye Love and Wake Up Little Susie were written by Felice and Boudleaux Bryant.",
+   "They broke up on stage in 1973 and reunited in 1983."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Everly Brothers",
+    1958
+   ],
+   [
+    "Songs Our Daddy Taught Us",
+    1958
+   ],
+   [
+    "A Date with the Everly Brothers",
+    1960
+   ],
+   [
+    "Roots",
+    1968
+   ]
+  ],
+  "songs": [
+   "Bye Bye Love",
+   "Wake Up Little Susie",
+   "All I Have to Do Is Dream",
+   "Cathy's Clown",
+   "When Will I Be Loved"
+  ],
+  "influencedBy": [
+   {
+    "id": "bill-monroe",
+    "why": "Their sibling harmonies come out of the bluegrass and brother-duet country tradition Bill Monroe helped define.",
+    "s": 1
+   },
+   {
+    "id": "carter-family",
+    "why": "Their old-time family harmony singing follows the Carter Family tradition.",
+    "s": 1
+   },
+   {
+    "id": "bo-diddley",
+    "why": "Don Everly said he borrowed a Bo Diddley-style rhythm for the guitar on Bye Bye Love.",
+    "s": 2
+   },
+   {
+    "id": "little-richard",
+    "why": "They covered Little Richard's Lucille as a single in 1960.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "simon-garfunkel",
+    "why": "Both are duos built on tight two-part harmony, and Simon and Garfunkel covered Bye Bye Love."
+   },
+   {
+    "id": "alison-krauss",
+    "why": "Both deliver pure, close country harmony singing."
+   }
+  ]
+ },
+ {
+  "id": "eddie-cochran",
+  "years": "1955–1960",
+  "origin": "Albion, Minnesota",
+  "genres": [
+   "rockabilly",
+   "rock and roll"
+  ],
+  "summary": "Eddie Cochran wrote and played teenage rock anthems with a heavy guitar sound and often overdubbed the parts himself. He died at 21 but his songs became standards for punk and hard rock bands.",
+  "know": [
+   "He died after a taxi crash in England on April 17, 1960.",
+   "He performed Twenty Flight Rock in the 1956 film The Girl Can't Help It.",
+   "Paul McCartney got into the Quarrymen partly by playing Twenty Flight Rock for John Lennon."
+  ],
+  "born": "10-03",
+  "keyAlbums": [
+   [
+    "Singin' to My Baby",
+    1957
+   ],
+   [
+    "The Eddie Cochran Memorial Album",
+    1960
+   ]
+  ],
+  "songs": [
+   "Summertime Blues",
+   "C'mon Everybody",
+   "Twenty Flight Rock",
+   "Somethin' Else",
+   "Three Steps to Heaven"
+  ],
+  "influencedBy": [
+   {
+    "id": "elvis-presley",
+    "why": "He switched from country to rock and roll after Elvis's breakthrough in 1955 and 1956.",
+    "s": 2
+   },
+   {
+    "id": "ray-charles",
+    "why": "He released a cover of Ray Charles's Hallelujah I Love Her So in 1959.",
+    "s": 3
+   },
+   {
+    "id": "hank-williams",
+    "why": "He began in the Cochran Brothers, a country duo playing in the hillbilly style Hank Williams made famous.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "sex-pistols",
+    "why": "Both made short, snarling teenage anthems, and Sid Vicious covered C'mon Everybody."
+   },
+   {
+    "id": "ramones",
+    "why": "Both wrote fast, simple songs about teenage frustration."
+   }
+  ]
+ },
+ {
+  "id": "roy-orbison",
+  "years": "1956–1988",
+  "origin": "Vernon, Texas",
+  "genres": [
+   "rock and roll",
+   "pop rock",
+   "rockabilly"
+  ],
+  "summary": "Roy Orbison sang operatic ballads of heartbreak with a huge three-octave voice. His dramatic early 1960s hits stood apart from other rock of the time.",
+  "know": [
+   "He wore dark glasses after leaving his regular glasses on a plane in 1963.",
+   "He was a member of the Traveling Wilburys with Bob Dylan, George Harrison, Tom Petty and Jeff Lynne.",
+   "Oh, Pretty Woman topped the charts in both the U.S. and U.K. in 1964."
+  ],
+  "born": "04-23",
+  "keyAlbums": [
+   [
+    "Lonely and Blue",
+    1961
+   ],
+   [
+    "Crying",
+    1962
+   ],
+   [
+    "In Dreams",
+    1963
+   ],
+   [
+    "Mystery Girl",
+    1989
+   ]
+  ],
+  "songs": [
+   "Only the Lonely",
+   "Crying",
+   "In Dreams",
+   "Oh, Pretty Woman",
+   "You Got It"
+  ],
+  "influencedBy": [
+   {
+    "id": "lefty-frizzell",
+    "why": "He idolized Lefty Frizzell and took the name Lefty Wilbury in his honor.",
+    "s": 3
+   },
+   {
+    "id": "elvis-presley",
+    "why": "He said seeing Elvis perform in Texas in 1955 changed his sense of what was possible.",
+    "s": 3
+   },
+   {
+    "id": "bob-wills",
+    "why": "His first band, the Wink Westerners, played Western swing in Bob Wills's style.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "patsy-cline",
+    "why": "Both sing towering, orchestrated heartbreak ballads."
+   },
+   {
+    "id": "lana-del-rey",
+    "why": "Both build cinematic, melancholy songs around a dramatic voice."
+   }
+  ]
+ },
+ {
+  "id": "the-beatles",
+  "years": "1960–1970",
+  "origin": "Liverpool, England",
+  "genres": [
+   "Merseybeat",
+   "British Invasion",
+   "psychedelic rock",
+   "pop rock"
+  ],
+  "summary": "The Beatles were the most influential band of the 1960s, moving from Merseybeat hits to studio-built albums that changed what rock records could be. Lennon and McCartney's songs are among the most covered ever written.",
+  "know": [
+   "They played hundreds of hours in Hamburg clubs between 1960 and 1962.",
+   "About 73 million people watched their first Ed Sullivan Show appearance in 1964.",
+   "Their last public performance was on the roof of Apple Corps in London in January 1969."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Rubber Soul",
+    1965
+   ],
+   [
+    "Revolver",
+    1966
+   ],
+   [
+    "Sgt. Pepper's Lonely Hearts Club Band",
+    1967
+   ],
+   [
+    "Abbey Road",
+    1969
+   ]
+  ],
+  "songs": [
+   "I Want to Hold Your Hand",
+   "Yesterday",
+   "A Day in the Life",
+   "Hey Jude",
+   "Here Comes the Sun"
+  ],
+  "influencedBy": [
+   {
+    "id": "elvis-presley",
+    "why": "John Lennon said, 'Before Elvis, there was nothing.'",
+    "s": 3
+   },
+   {
+    "id": "buddy-holly",
+    "why": "They took the insect idea in their name partly from Holly's Crickets and covered his Words of Love.",
+    "s": 3
+   },
+   {
+    "id": "chuck-berry",
+    "why": "They covered Roll Over Beethoven and Rock and Roll Music.",
+    "s": 3
+   },
+   {
+    "id": "little-richard",
+    "why": "McCartney modeled his screaming vocal on Long Tall Sally, and they opened for Little Richard in 1962.",
+    "s": 3
+   },
+   {
+    "id": "carl-perkins",
+    "why": "They covered Matchbox, Honey Don't and Everybody's Trying to Be My Baby, and Harrison once used the stage name Carl Harrison.",
+    "s": 3
+   },
+   {
+    "id": "everly-brothers",
+    "why": "Lennon and McCartney said they modeled their two-part harmonies on the Everly Brothers.",
+    "s": 3
+   },
+   {
+    "id": "lonnie-donegan",
+    "why": "Lonnie Donegan's skiffle craze led Lennon to form the Quarrymen in 1956.",
+    "s": 3
+   },
+   {
+    "id": "roy-orbison",
+    "why": "Lennon said Please Please Me began as an attempt at a Roy Orbison song.",
+    "s": 3
+   },
+   {
+    "id": "smokey-robinson",
+    "why": "They covered the Miracles' You've Really Got a Hold on Me.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Lennon's You've Got to Hide Your Love Away was his open attempt at a Dylan-style song.",
+    "s": 3
+   },
+   {
+    "id": "the-byrds",
+    "why": "Harrison said the riff of If I Needed Someone was based on the Byrds' The Bells of Rhymney.",
+    "s": 2
+   },
+   {
+    "id": "the-beach-boys",
+    "why": "McCartney said Pet Sounds was the main inspiration for Sgt. Pepper.",
+    "s": 3
+   },
+   {
+    "id": "ravi-shankar",
+    "why": "George Harrison studied sitar with Ravi Shankar and brought it into songs like Love You To.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "miles-davis",
+    "why": "Both reinvented their sound every year or two while staying hugely popular."
+   },
+   {
+    "id": "outkast",
+    "why": "Both pushed a hit-making act into studio experiments that reset their genre."
+   }
+  ]
+ },
+ {
+  "id": "the-rolling-stones",
+  "years": "1962–present",
+  "origin": "London, England",
+  "genres": [
+   "British Invasion",
+   "blues rock",
+   "rhythm and blues",
+   "hard rock"
+  ],
+  "summary": "The Rolling Stones started as a blues covers band and became the longest-running major act in rock. Mick Jagger and Keith Richards built a rougher, riff-driven alternative to the Beatles.",
+  "know": [
+   "They took their name from the Muddy Waters song Rollin' Stone.",
+   "Their first single was a cover of Chuck Berry's Come On.",
+   "Jagger and Richards first bonded over Chuck Berry and Muddy Waters records on a Dartford train platform in 1961."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Beggars Banquet",
+    1968
+   ],
+   [
+    "Let It Bleed",
+    1969
+   ],
+   [
+    "Sticky Fingers",
+    1971
+   ],
+   [
+    "Exile on Main St.",
+    1972
+   ]
+  ],
+  "songs": [
+   "(I Can't Get No) Satisfaction",
+   "Paint It Black",
+   "Jumpin' Jack Flash",
+   "Gimme Shelter",
+   "Brown Sugar"
+  ],
+  "influencedBy": [
+   {
+    "id": "muddy-waters",
+    "why": "The band took its name from Muddy Waters's song Rollin' Stone.",
+    "s": 3
+   },
+   {
+    "id": "chuck-berry",
+    "why": "Their first single was Chuck Berry's Come On, and Keith Richards built his style on Berry's riffs.",
+    "s": 3
+   },
+   {
+    "id": "bo-diddley",
+    "why": "They covered Mona and toured Britain with Bo Diddley in 1963.",
+    "s": 3
+   },
+   {
+    "id": "howlin-wolf",
+    "why": "Their cover of Little Red Rooster topped the U.K. chart, and they insisted Howlin' Wolf appear with them on Shindig! in 1965.",
+    "s": 3
+   },
+   {
+    "id": "willie-dixon",
+    "why": "They covered Dixon's Little Red Rooster and I Just Want to Make Love to You.",
+    "s": 3
+   },
+   {
+    "id": "robert-johnson",
+    "why": "They recorded Johnson's Love in Vain and Stop Breaking Down.",
+    "s": 3
+   },
+   {
+    "id": "jimmy-reed",
+    "why": "They covered Jimmy Reed's Honest I Do on their first album.",
+    "s": 3
+   },
+   {
+    "id": "buddy-holly",
+    "why": "Their first U.S. single was a cover of Holly's Not Fade Away.",
+    "s": 3
+   },
+   {
+    "id": "elmore-james",
+    "why": "Brian Jones learned slide guitar from Elmore James records and briefly called himself Elmo Lewis.",
+    "s": 2
+   },
+   {
+    "id": "little-walter",
+    "why": "Brian Jones and Jagger modeled their harmonica playing on Chicago players like Little Walter.",
+    "s": 2
+   },
+   {
+    "id": "sam-cooke",
+    "why": "They covered Sam Cooke's Good Times on Out of Our Heads.",
+    "s": 3
+   },
+   {
+    "id": "gram-parsons",
+    "why": "Keith Richards credited his friend Gram Parsons for the country feel of songs like Wild Horses and Dead Flowers.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "Lennon and McCartney gave them I Wanna Be Your Man, their second single.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "waylon-jennings",
+    "why": "Both trade on rough, outlaw swagger rooted in older styles."
+   },
+   {
+    "id": "motorhead",
+    "why": "Both stick to raw, blues-based basics with a hard-living image."
+   }
+  ]
+ },
+ {
+  "id": "the-kinks",
+  "years": "1963–1996",
+  "origin": "London, England",
+  "genres": [
+   "British Invasion",
+   "garage rock",
+   "baroque pop"
+  ],
+  "summary": "The Kinks went from the distorted power chords of You Really Got Me to Ray Davies's wry, very English story songs. They are a key link between 1960s rock, punk and Britpop.",
+  "know": [
+   "Dave Davies got the distorted sound on You Really Got Me partly by slashing his amp's speaker cone.",
+   "They were effectively banned from touring the U.S. from 1965 to 1969.",
+   "The band was built around brothers Ray and Dave Davies, who often fought."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Face to Face",
+    1966
+   ],
+   [
+    "Something Else by the Kinks",
+    1967
+   ],
+   [
+    "The Kinks Are the Village Green Preservation Society",
+    1968
+   ],
+   [
+    "Arthur",
+    1969
+   ]
+  ],
+  "songs": [
+   "You Really Got Me",
+   "All Day and All of the Night",
+   "Sunny Afternoon",
+   "Waterloo Sunset",
+   "Lola"
+  ],
+  "influencedBy": [
+   {
+    "id": "chuck-berry",
+    "why": "Their first single was Chuck Berry's Beautiful Delilah, and they covered Too Much Monkey Business.",
+    "s": 3
+   },
+   {
+    "id": "little-richard",
+    "why": "They covered Long Tall Sally as an early single.",
+    "s": 3
+   },
+   {
+    "id": "bo-diddley",
+    "why": "They covered Bo Diddley's Cadillac on their debut album.",
+    "s": 3
+   },
+   {
+    "id": "lonnie-donegan",
+    "why": "The Davies brothers started playing during the skiffle boom Lonnie Donegan sparked.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "blur",
+    "why": "Both write sharp, very English character songs about everyday life."
+   },
+   {
+    "id": "john-prine",
+    "why": "Both write wry, humane story songs about ordinary people."
+   }
+  ]
+ },
+ {
+  "id": "the-who",
+  "years": "1964–present",
+  "origin": "London, England",
+  "genres": [
+   "British Invasion",
+   "mod",
+   "hard rock",
+   "rock opera"
+  ],
+  "summary": "The Who were the loudest band of the 1960s, known for Pete Townshend's windmill guitar and smashed equipment and Keith Moon's chaotic drumming. Townshend's rock operas Tommy and Quadrophenia pushed rock toward long-form storytelling.",
+  "know": [
+   "Pete Townshend began smashing guitars after accidentally breaking one on a low ceiling in 1964.",
+   "Live at Leeds is often called one of the best live rock albums.",
+   "They were a favorite band of the 1960s London mod scene."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "My Generation",
+    1965
+   ],
+   [
+    "Tommy",
+    1969
+   ],
+   [
+    "Live at Leeds",
+    1970
+   ],
+   [
+    "Who's Next",
+    1971
+   ]
+  ],
+  "songs": [
+   "My Generation",
+   "I Can't Explain",
+   "Pinball Wizard",
+   "Baba O'Riley",
+   "Won't Get Fooled Again"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-kinks",
+    "why": "Townshend admitted he wrote I Can't Explain in imitation of the Kinks.",
+    "s": 3
+   },
+   {
+    "id": "eddie-cochran",
+    "why": "Their live version of Cochran's Summertime Blues was a staple of their shows.",
+    "s": 3
+   },
+   {
+    "id": "james-brown",
+    "why": "Their debut album included covers of James Brown's I Don't Mind and Please, Please, Please.",
+    "s": 3
+   },
+   {
+    "id": "bo-diddley",
+    "why": "They covered Bo Diddley's I'm a Man on My Generation.",
+    "s": 3
+   },
+   {
+    "id": "booker-t",
+    "why": "Townshend named Steve Cropper of Booker T. and the M.G.'s as a key rhythm guitar model.",
+    "s": 2
+   },
+   {
+    "id": "the-beach-boys",
+    "why": "Keith Moon loved surf music, and the band covered Barbara Ann.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-clash",
+    "why": "Both turned youth frustration into loud, defiant anthems."
+   },
+   {
+    "id": "pearl-jam",
+    "why": "Both are arena bands built on big, emotional rock anthems."
+   }
+  ]
+ },
+ {
+  "id": "the-yardbirds",
+  "years": "1963–1968",
+  "origin": "London, England",
+  "genres": [
+   "British blues",
+   "psychedelic rock",
+   "garage rock"
+  ],
+  "summary": "The Yardbirds were a British blues band best known for launching three major guitarists: Eric Clapton, Jeff Beck and Jimmy Page. Their experiments with fuzz and feedback pointed toward psychedelia and hard rock.",
+  "know": [
+   "Clapton left in 1965 because he thought For Your Love was too commercial.",
+   "Jimmy Page formed Led Zeppelin from the band's remains, first touring as the New Yardbirds.",
+   "They backed blues singer Sonny Boy Williamson II on a 1963 British tour."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Five Live Yardbirds",
+    1964
+   ],
+   [
+    "For Your Love",
+    1965
+   ],
+   [
+    "Roger the Engineer",
+    1966
+   ],
+   [
+    "Little Games",
+    1967
+   ]
+  ],
+  "songs": [
+   "For Your Love",
+   "Heart Full of Soul",
+   "I'm a Man",
+   "Shapes of Things",
+   "Over Under Sideways Down"
+  ],
+  "influencedBy": [
+   {
+    "id": "bo-diddley",
+    "why": "They covered Bo Diddley's I'm a Man and Here 'Tis.",
+    "s": 3
+   },
+   {
+    "id": "howlin-wolf",
+    "why": "They covered Howlin' Wolf's Smokestack Lightning.",
+    "s": 3
+   },
+   {
+    "id": "chuck-berry",
+    "why": "Five Live Yardbirds opens with Chuck Berry's Too Much Monkey Business.",
+    "s": 3
+   },
+   {
+    "id": "ravi-shankar",
+    "why": "Jeff Beck's Eastern-sounding guitar line on Heart Full of Soul copies the sitar sound Shankar brought to the West.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-black-keys",
+    "why": "Both turn old Chicago blues into loud, raw guitar rock."
+   },
+   {
+    "id": "gary-clark-jr",
+    "why": "Both are guitar-led blues acts that stretch the blues with fuzz and rock volume."
+   }
+  ]
+ },
+ {
+  "id": "the-animals",
+  "years": "1963–1966",
+  "origin": "Newcastle upon Tyne, England",
+  "genres": [
+   "British Invasion",
+   "British blues",
+   "rhythm and blues"
+  ],
+  "summary": "The Animals were a gritty British R&B band led by Eric Burdon's deep voice and Alan Price's organ. Their House of the Rising Sun was one of the first folk songs turned into a rock hit.",
+  "know": [
+   "The House of the Rising Sun reached number one in both the U.K. and U.S. in 1964.",
+   "Bassist Chas Chandler later discovered and managed Jimi Hendrix.",
+   "They recorded House of the Rising Sun in a single take."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Animals",
+    1964
+   ],
+   [
+    "Animal Tracks",
+    1965
+   ],
+   [
+    "Animalisms",
+    1966
+   ]
+  ],
+  "songs": [
+   "The House of the Rising Sun",
+   "We Gotta Get Out of This Place",
+   "It's My Life",
+   "Don't Let Me Be Misunderstood",
+   "Boom Boom"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-dylan",
+    "why": "Their House of the Rising Sun followed the version on Bob Dylan's 1962 debut album.",
+    "s": 2
+   },
+   {
+    "id": "john-lee-hooker",
+    "why": "They covered John Lee Hooker's Boom Boom.",
+    "s": 3
+   },
+   {
+    "id": "nina-simone",
+    "why": "Their hit Don't Let Me Be Misunderstood was a cover of Nina Simone's song.",
+    "s": 3
+   },
+   {
+    "id": "ray-charles",
+    "why": "Eric Burdon has called Ray Charles his greatest vocal influence, and they covered his Talkin' 'Bout You.",
+    "s": 3
+   },
+   {
+    "id": "chuck-berry",
+    "why": "They covered Chuck Berry's Around and Around and Memphis, Tennessee.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "amy-winehouse",
+    "why": "Both are British singers who channel American R&B with a raw, deep voice."
+   },
+   {
+    "id": "the-black-keys",
+    "why": "Both play stripped-down, blues-based rock with a soulful lead voice."
+   }
+  ]
+ },
+ {
+  "id": "the-byrds",
+  "years": "1964–1973",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "folk rock",
+   "jangle pop",
+   "psychedelic rock",
+   "country rock"
+  ],
+  "summary": "The Byrds invented folk rock by putting Bob Dylan's songs to electric 12-string guitar and Beatles-style harmonies. They later helped create psychedelic rock and country rock.",
+  "know": [
+   "Their Mr. Tambourine Man reached number one in 1965.",
+   "Roger McGuinn bought a Rickenbacker 12-string after seeing George Harrison play one in A Hard Day's Night.",
+   "Sweetheart of the Rodeo, made with Gram Parsons, is a landmark of country rock."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Mr. Tambourine Man",
+    1965
+   ],
+   [
+    "Turn! Turn! Turn!",
+    1965
+   ],
+   [
+    "Younger Than Yesterday",
+    1967
+   ],
+   [
+    "Sweetheart of the Rodeo",
+    1968
+   ]
+  ],
+  "songs": [
+   "Mr. Tambourine Man",
+   "Turn! Turn! Turn!",
+   "Eight Miles High",
+   "So You Want to Be a Rock 'n' Roll Star",
+   "You Ain't Goin' Nowhere"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-dylan",
+    "why": "Their first hit was Dylan's Mr. Tambourine Man, and they recorded many more of his songs.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "McGuinn took up the electric 12-string after seeing George Harrison play one in A Hard Day's Night.",
+    "s": 3
+   },
+   {
+    "id": "pete-seeger",
+    "why": "They recorded Seeger's Turn! Turn! Turn! and The Bells of Rhymney.",
+    "s": 3
+   },
+   {
+    "id": "john-coltrane",
+    "why": "McGuinn said his guitar on Eight Miles High imitated John Coltrane's saxophone.",
+    "s": 3
+   },
+   {
+    "id": "ravi-shankar",
+    "why": "David Crosby and McGuinn introduced Indian raga ideas from Ravi Shankar's music into their playing.",
+    "s": 3
+   },
+   {
+    "id": "gram-parsons",
+    "why": "Gram Parsons joined in 1968 and steered them into country on Sweetheart of the Rodeo.",
+    "s": 3
+   },
+   {
+    "id": "everly-brothers",
+    "why": "Their stacked vocal harmonies draw on the Everly Brothers' sound.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "rem",
+    "why": "Both built a sound on chiming, jangly guitars and folk melody."
+   },
+   {
+    "id": "fleet-foxes",
+    "why": "Both pair close harmonies with folk-based songwriting."
+   }
+  ]
+ },
+ {
+  "id": "the-velvet-underground",
+  "years": "1964–1973",
+  "origin": "New York City, New York",
+  "genres": [
+   "art rock",
+   "proto-punk",
+   "experimental rock"
+  ],
+  "summary": "The Velvet Underground, led by Lou Reed and John Cale, wrote frank songs about drugs and street life set to drone and noise. They sold few records but became one of the most influential bands in rock.",
+  "know": [
+   "Andy Warhol managed them and designed the banana cover of their first album.",
+   "Brian Eno said only about 30,000 people bought their first record, but everyone who did started a band.",
+   "Drummer Moe Tucker played standing up, often with mallets."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Velvet Underground & Nico",
+    1967
+   ],
+   [
+    "White Light/White Heat",
+    1968
+   ],
+   [
+    "The Velvet Underground",
+    1969
+   ],
+   [
+    "Loaded",
+    1970
+   ]
+  ],
+  "songs": [
+   "Heroin",
+   "I'm Waiting for the Man",
+   "Venus in Furs",
+   "Sweet Jane",
+   "Pale Blue Eyes"
+  ],
+  "influencedBy": [
+   {
+    "id": "ornette-coleman",
+    "why": "Lou Reed cited Ornette Coleman's free jazz as the model for his noisy guitar solos.",
+    "s": 3
+   },
+   {
+    "id": "bo-diddley",
+    "why": "Moe Tucker named Bo Diddley's records as a major influence on her drumming.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Reed followed Dylan in bringing literary, street-level storytelling into rock lyrics.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "mf-doom",
+    "why": "Both were cult figures who sold modestly but became the reference point for an underground."
+   },
+   {
+    "id": "townes-van-zandt",
+    "why": "Both wrote unflinching songs about addiction and darkness that found their audience later."
+   }
+  ]
+ },
+ {
+  "id": "the-doors",
+  "years": "1965–1973",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "psychedelic rock",
+   "blues rock",
+   "acid rock"
+  ],
+  "summary": "The Doors combined Jim Morrison's dark poetry with Ray Manzarek's organ and jazz-influenced players. They had no bass player on stage, with Manzarek playing bass lines on a keyboard.",
+  "know": [
+   "The band took its name from Aldous Huxley's book The Doors of Perception.",
+   "Light My Fire reached number one in 1967.",
+   "Jim Morrison died in Paris in 1971 at age 27."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Doors",
+    1967
+   ],
+   [
+    "Strange Days",
+    1967
+   ],
+   [
+    "Morrison Hotel",
+    1970
+   ],
+   [
+    "L.A. Woman",
+    1971
+   ]
+  ],
+  "songs": [
+   "Light My Fire",
+   "Break On Through (To the Other Side)",
+   "People Are Strange",
+   "Roadhouse Blues",
+   "Riders on the Storm"
+  ],
+  "influencedBy": [
+   {
+    "id": "howlin-wolf",
+    "why": "They covered Howlin' Wolf's Back Door Man on their debut album.",
+    "s": 3
+   },
+   {
+    "id": "willie-dixon",
+    "why": "Back Door Man, which they covered, was written by Willie Dixon.",
+    "s": 3
+   },
+   {
+    "id": "john-coltrane",
+    "why": "Manzarek and Robby Krieger said the long solos on Light My Fire were modeled on Coltrane's My Favorite Things.",
+    "s": 3
+   },
+   {
+    "id": "elvis-presley",
+    "why": "Morrison named Elvis as a favorite singer and an early model for his stage persona.",
+    "s": 2
+   },
+   {
+    "id": "frank-sinatra",
+    "why": "Morrison named Frank Sinatra among his favorite singers and borrowed his crooning phrasing.",
+    "s": 2
+   },
+   {
+    "id": "ravi-shankar",
+    "why": "Krieger and John Densmore studied Indian music, and its raga feel shapes songs like The End.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "leonard-cohen",
+    "why": "Both are poets first, with dark, literary lyrics."
+   },
+   {
+    "id": "lana-del-rey",
+    "why": "Both build dark, cinematic myths of Los Angeles."
+   }
+  ]
+ },
+ {
+  "id": "jimi-hendrix",
+  "years": "1963–1970",
+  "origin": "Seattle, Washington",
+  "genres": [
+   "psychedelic rock",
+   "blues rock",
+   "hard rock"
+  ],
+  "summary": "Jimi Hendrix changed what the electric guitar could do with feedback, distortion and the wah pedal. In four years of fame he became the most influential rock guitarist ever.",
+  "know": [
+   "He played left-handed on flipped right-handed guitars.",
+   "He played backup guitar for Little Richard and the Isley Brothers before fame.",
+   "He closed Woodstock in 1969 with a distorted version of The Star-Spangled Banner."
+  ],
+  "born": "11-27",
+  "keyAlbums": [
+   [
+    "Are You Experienced",
+    1967
+   ],
+   [
+    "Axis: Bold as Love",
+    1967
+   ],
+   [
+    "Electric Ladyland",
+    1968
+   ],
+   [
+    "Band of Gypsys",
+    1970
+   ]
+  ],
+  "songs": [
+   "Purple Haze",
+   "Hey Joe",
+   "The Wind Cries Mary",
+   "All Along the Watchtower",
+   "Voodoo Child (Slight Return)"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-dylan",
+    "why": "He covered Dylan's All Along the Watchtower and Like a Rolling Stone and said Dylan gave him the courage to sing.",
+    "s": 3
+   },
+   {
+    "id": "muddy-waters",
+    "why": "He said Muddy Waters was the first guitarist he was aware of, and he reworked Muddy's Catfish Blues.",
+    "s": 3
+   },
+   {
+    "id": "bb-king",
+    "why": "He named B.B. King as an early guitar hero.",
+    "s": 3
+   },
+   {
+    "id": "albert-king",
+    "why": "His bends and phrasing draw heavily on Albert King, whom he watched and admired.",
+    "s": 2
+   },
+   {
+    "id": "howlin-wolf",
+    "why": "He opened many shows with Howlin' Wolf's Killing Floor.",
+    "s": 3
+   },
+   {
+    "id": "buddy-guy",
+    "why": "He admired Buddy Guy's wild showmanship and was seen studying him at Chicago club shows.",
+    "s": 3
+   },
+   {
+    "id": "little-richard",
+    "why": "He toured as a guitarist in Little Richard's band in 1964 and 1965.",
+    "s": 3
+   },
+   {
+    "id": "curtis-mayfield",
+    "why": "He named Curtis Mayfield's chordal rhythm playing as a key influence on songs like Little Wing.",
+    "s": 3
+   },
+   {
+    "id": "elmore-james",
+    "why": "He played Elmore James's slide blues and cited him as an early influence.",
+    "s": 2
+   },
+   {
+    "id": "t-bone-walker",
+    "why": "His tricks of playing behind his head and with his teeth come from T-Bone Walker's showmanship.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "He opened a London show with Sgt. Pepper's Lonely Hearts Club Band three days after the album came out.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "john-coltrane",
+    "why": "Both pushed their instrument into new, almost spiritual territory."
+   },
+   {
+    "id": "prince",
+    "why": "Both are virtuoso guitarists and showmen who fused rock, blues and funk."
+   }
+  ]
+ },
+ {
+  "id": "cream",
+  "years": "1966–1968",
+  "origin": "London, England",
+  "genres": [
+   "blues rock",
+   "psychedelic rock",
+   "power trio"
+  ],
+  "summary": "Cream was the first rock supergroup, with Eric Clapton, Jack Bruce and Ginger Baker. Their loud blues jams set the model for the power trio and hard rock.",
+  "know": [
+   "They sold millions of records in just over two years together.",
+   "Sunshine of Your Love was written after the band saw Jimi Hendrix play.",
+   "Wheels of Fire was the first platinum-selling double album."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Fresh Cream",
+    1966
+   ],
+   [
+    "Disraeli Gears",
+    1967
+   ],
+   [
+    "Wheels of Fire",
+    1968
+   ],
+   [
+    "Goodbye",
+    1969
+   ]
+  ],
+  "songs": [
+   "Sunshine of Your Love",
+   "White Room",
+   "Crossroads",
+   "Strange Brew",
+   "I Feel Free"
+  ],
+  "influencedBy": [
+   {
+    "id": "robert-johnson",
+    "why": "Their famous live Crossroads is a reworking of Johnson's Cross Road Blues.",
+    "s": 3
+   },
+   {
+    "id": "howlin-wolf",
+    "why": "They covered Spoonful and Sitting on Top of the World from Howlin' Wolf's repertoire.",
+    "s": 3
+   },
+   {
+    "id": "willie-dixon",
+    "why": "Spoonful, a centerpiece of their shows, was written by Willie Dixon.",
+    "s": 3
+   },
+   {
+    "id": "albert-king",
+    "why": "They covered Born Under a Bad Sign, and Clapton's Strange Brew solo borrows Albert King's phrasing.",
+    "s": 3
+   },
+   {
+    "id": "skip-james",
+    "why": "They covered Skip James's I'm So Glad on their debut.",
+    "s": 3
+   },
+   {
+    "id": "muddy-waters",
+    "why": "They recorded Rollin' and Tumblin' in the Muddy Waters style.",
+    "s": 3
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "Jack Bruce wrote the Sunshine of Your Love riff after seeing Hendrix play in London.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "weather-report",
+    "why": "Both are groups of star soloists who stretch songs into long improvisations."
+   },
+   {
+    "id": "black-sabbath",
+    "why": "Both are heavy British bands grounded in blues riffs."
+   }
+  ]
+ },
+ {
+  "id": "pink-floyd",
+  "years": "1965–2014",
+  "origin": "London, England",
+  "genres": [
+   "psychedelic rock",
+   "progressive rock",
+   "art rock",
+   "space rock"
+  ],
+  "summary": "Pink Floyd began as a psychedelic band led by Syd Barrett and became masters of the concept album with Roger Waters and David Gilmour. The Dark Side of the Moon is one of the best-selling albums ever made.",
+  "know": [
+   "The name combines two bluesmen, Pink Anderson and Floyd Council.",
+   "The Dark Side of the Moon spent over 900 weeks on the Billboard 200.",
+   "Syd Barrett left in 1968 after his mental health declined."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Piper at the Gates of Dawn",
+    1967
+   ],
+   [
+    "The Dark Side of the Moon",
+    1973
+   ],
+   [
+    "Wish You Were Here",
+    1975
+   ],
+   [
+    "The Wall",
+    1979
+   ]
+  ],
+  "songs": [
+   "See Emily Play",
+   "Money",
+   "Wish You Were Here",
+   "Another Brick in the Wall, Part 2",
+   "Comfortably Numb"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "They recorded their debut at Abbey Road while the Beatles were making Sgt. Pepper, and Nick Mason has said the Beatles shaped them.",
+    "s": 3
+   },
+   {
+    "id": "pete-seeger",
+    "why": "David Gilmour learned guitar from a Pete Seeger instruction record.",
+    "s": 3
+   },
+   {
+    "id": "bo-diddley",
+    "why": "Their early sets were full of R&B covers, including Bo Diddley songs.",
+    "s": 2
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Roger Waters has named Bob Dylan as a key influence on his lyric writing.",
+    "s": 2
+   },
+   {
+    "id": "elvis-presley",
+    "why": "Gilmour has said hearing Heartbreak Hotel as a boy made him want to play.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "kid-cudi",
+    "why": "Both build whole albums around a mood of isolation."
+   },
+   {
+    "id": "brian-eno",
+    "why": "Both use texture and space as much as melody to create atmosphere."
+   }
+  ]
+ },
+ {
+  "id": "the-zombies",
+  "years": "1961–1969, 2004–present",
+  "origin": "St Albans, England",
+  "genres": [
+   "British Invasion",
+   "baroque pop",
+   "psychedelic pop"
+  ],
+  "summary": "The Zombies blended jazz-tinged keyboards with soft harmonies, led by Rod Argent and singer Colin Blunstone. Their album Odessey and Oracle flopped on release but is now a classic.",
+  "know": [
+   "Time of the Season became a U.S. hit in 1969 after the band had already split.",
+   "The misspelling of Odessey on the album cover was a designer's error.",
+   "They were inducted into the Rock and Roll Hall of Fame in 2019."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Begin Here",
+    1965
+   ],
+   [
+    "Odessey and Oracle",
+    1968
+   ]
+  ],
+  "songs": [
+   "She's Not There",
+   "Tell Her No",
+   "Time of the Season",
+   "This Will Be Our Year",
+   "Care of Cell 44"
+  ],
+  "influencedBy": [
+   {
+    "id": "john-lee-hooker",
+    "why": "Rod Argent said She's Not There was sparked by the title of John Lee Hooker's No One Told Me.",
+    "s": 3
+   },
+   {
+    "id": "miles-davis",
+    "why": "Argent has said Miles Davis's modal jazz shaped the chords he wrote.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "They recorded Odessey and Oracle at Abbey Road right after Sgt. Pepper and used the Mellotron the Beatles had left there.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "sufjan-stevens",
+    "why": "Both make ornate, gently orchestrated pop."
+   },
+   {
+    "id": "tame-impala",
+    "why": "Both make dreamy, keyboard-rich psychedelic pop."
+   }
+  ]
+ },
+ {
+  "id": "jefferson-airplane",
+  "years": "1965–1972",
+  "origin": "San Francisco, California",
+  "genres": [
+   "psychedelic rock",
+   "acid rock",
+   "folk rock"
+  ],
+  "summary": "Jefferson Airplane were the first San Francisco psychedelic band to break nationally. Grace Slick's voice and songs like White Rabbit became the sound of the 1967 Summer of Love.",
+  "know": [
+   "They played Monterey Pop, Woodstock and Altamont.",
+   "Grace Slick joined from the Great Society and brought both Somebody to Love and White Rabbit.",
+   "Members later formed Hot Tuna and Jefferson Starship."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Surrealistic Pillow",
+    1967
+   ],
+   [
+    "After Bathing at Baxter's",
+    1967
+   ],
+   [
+    "Crown of Creation",
+    1968
+   ],
+   [
+    "Volunteers",
+    1969
+   ]
+  ],
+  "songs": [
+   "Somebody to Love",
+   "White Rabbit",
+   "Today",
+   "Volunteers",
+   "Embryonic Journey"
+  ],
+  "influencedBy": [
+   {
+    "id": "miles-davis",
+    "why": "Grace Slick said she wrote White Rabbit's bolero build after listening to Miles Davis's Sketches of Spain.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "They started as a folk group and went electric after Dylan did.",
+    "s": 2
+   },
+   {
+    "id": "the-byrds",
+    "why": "Their early folk-rock sound follows the template the Byrds set in 1965.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "Paul Kantner and Marty Balin were drawn from folk toward electric rock by the Beatles' success.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "yeah-yeah-yeahs",
+    "why": "Both are fronted by a commanding, unpredictable female singer."
+   },
+   {
+    "id": "os-mutantes",
+    "why": "Both are key psychedelic bands of the late 1960s in their own scenes."
+   }
+  ]
+ },
+ {
+  "id": "grateful-dead",
+  "years": "1965–1995",
+  "origin": "Palo Alto, California",
+  "genres": [
+   "psychedelic rock",
+   "jam band",
+   "Americana",
+   "country rock"
+  ],
+  "summary": "The Grateful Dead blended rock, folk, bluegrass, blues and jazz into long improvised shows. They built the biggest touring fan culture in rock, with fans called Deadheads following them for decades.",
+  "know": [
+   "They allowed fans to tape their concerts.",
+   "Jerry Garcia started as a bluegrass banjo player.",
+   "They played more than 2,300 concerts."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Live/Dead",
+    1969
+   ],
+   [
+    "Workingman's Dead",
+    1970
+   ],
+   [
+    "American Beauty",
+    1970
+   ],
+   [
+    "Europe '72",
+    1972
+   ]
+  ],
+  "songs": [
+   "Truckin'",
+   "Casey Jones",
+   "Uncle John's Band",
+   "Sugar Magnolia",
+   "Touch of Grey"
+  ],
+  "influencedBy": [
+   {
+    "id": "bill-monroe",
+    "why": "Garcia was a bluegrass banjo player who drove across the country in 1964 to hear Bill Monroe.",
+    "s": 3
+   },
+   {
+    "id": "john-coltrane",
+    "why": "Garcia cited Coltrane's long, searching solos as a model for the band's jams.",
+    "s": 3
+   },
+   {
+    "id": "chuck-berry",
+    "why": "They played Johnny B. Goode and Promised Land throughout their career.",
+    "s": 3
+   },
+   {
+    "id": "merle-haggard",
+    "why": "They regularly covered Haggard's Mama Tried and Sing Me Back Home.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "They played dozens of Dylan songs and toured as his backing band in 1987.",
+    "s": 3
+   },
+   {
+    "id": "jimmy-reed",
+    "why": "Pigpen sang Jimmy Reed's Big Boss Man in their early shows.",
+    "s": 3
+   },
+   {
+    "id": "howlin-wolf",
+    "why": "They covered Howlin' Wolf's Smokestack Lightning.",
+    "s": 3
+   },
+   {
+    "id": "ornette-coleman",
+    "why": "Garcia played on Ornette Coleman's album Virgin Beauty, and Coleman sat in with the band in 1993.",
+    "s": 3
+   },
+   {
+    "id": "miles-davis",
+    "why": "Miles Davis opened for them at the Fillmore West in 1970, and his jazz-rock fed their jams.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "willie-nelson",
+    "why": "Both are road-warrior acts with a devoted, family-like fan culture."
+   },
+   {
+    "id": "fela-kuti",
+    "why": "Both stretch songs into long, open-ended grooves on stage."
+   }
+  ]
+ },
+ {
+  "id": "janis-joplin",
+  "years": "1962–1970",
+  "origin": "Port Arthur, Texas",
+  "genres": [
+   "blues rock",
+   "psychedelic rock",
+   "soul"
+  ],
+  "summary": "Janis Joplin was the first female rock superstar, singing blues and soul with raw power. Her performances with Big Brother and the Holding Company made her a 1960s icon.",
+  "know": [
+   "Her breakthrough came at the Monterey Pop Festival in 1967.",
+   "She paid for a headstone for Bessie Smith's unmarked grave in 1970.",
+   "Me and Bobby McGee became a number one hit after her death."
+  ],
+  "born": "01-19",
+  "keyAlbums": [
+   [
+    "Cheap Thrills",
+    1968
+   ],
+   [
+    "I Got Dem Ol' Kozmic Blues Again Mama!",
+    1969
+   ],
+   [
+    "Pearl",
+    1971
+   ]
+  ],
+  "songs": [
+   "Piece of My Heart",
+   "Ball and Chain",
+   "Cry Baby",
+   "Me and Bobby McGee",
+   "Mercedes Benz"
+  ],
+  "influencedBy": [
+   {
+    "id": "bessie-smith",
+    "why": "She named Bessie Smith as a key influence and helped pay for her headstone.",
+    "s": 3
+   },
+   {
+    "id": "lead-belly",
+    "why": "She said hearing Lead Belly records as a teenager pulled her toward the blues.",
+    "s": 3
+   },
+   {
+    "id": "odetta",
+    "why": "She modeled her early folk singing on Odetta.",
+    "s": 3
+   },
+   {
+    "id": "otis-redding",
+    "why": "She cited Otis Redding's stage intensity as a model after seeing him at Monterey.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "amy-winehouse",
+    "why": "Both sang raw, wounded soul and blues, and both died at 27."
+   },
+   {
+    "id": "pj-harvey",
+    "why": "Both are fierce, uncompromising female rock voices."
+   }
+  ]
+ },
+ {
+  "id": "creedence",
+  "years": "1967–1972",
+  "origin": "El Cerrito, California",
+  "genres": [
+   "swamp rock",
+   "roots rock",
+   "blues rock"
+  ],
+  "summary": "Creedence Clearwater Revival, led by John Fogerty, played tight, short songs steeped in Southern rock and roll and blues. They had a run of hits from 1969 to 1971 and played Woodstock.",
+  "know": [
+   "Despite their swampy Southern sound, they came from the San Francisco Bay Area.",
+   "They had five number two singles in the U.S. but never a number one.",
+   "They released three albums in 1969 alone."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Bayou Country",
+    1969
+   ],
+   [
+    "Green River",
+    1969
+   ],
+   [
+    "Willy and the Poor Boys",
+    1969
+   ],
+   [
+    "Cosmo's Factory",
+    1970
+   ]
+  ],
+  "songs": [
+   "Proud Mary",
+   "Bad Moon Rising",
+   "Green River",
+   "Fortunate Son",
+   "Have You Ever Seen the Rain"
+  ],
+  "influencedBy": [
+   {
+    "id": "carl-perkins",
+    "why": "John Fogerty has called Carl Perkins and the Sun rockabilly sound a key model.",
+    "s": 3
+   },
+   {
+    "id": "little-richard",
+    "why": "They covered Good Golly, Miss Molly on Bayou Country.",
+    "s": 3
+   },
+   {
+    "id": "bo-diddley",
+    "why": "They covered Bo Diddley's Before You Accuse Me on Cosmo's Factory.",
+    "s": 3
+   },
+   {
+    "id": "booker-t",
+    "why": "Fogerty said Booker T. and the M.G.'s were his model of a perfect band.",
+    "s": 3
+   },
+   {
+    "id": "lead-belly",
+    "why": "They recorded Midnight Special and Cotton Fields, two songs associated with Lead Belly.",
+    "s": 3
+   },
+   {
+    "id": "buck-owens",
+    "why": "Fogerty name-checked Buck Owens in Lookin' Out My Back Door.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "johnny-cash",
+    "why": "Both write plain, working-class songs with a rhythmic drive."
+   },
+   {
+    "id": "jason-isbell",
+    "why": "Both write grounded Southern story songs about class and war."
+   }
+  ]
+ },
+ {
+  "id": "santana",
+  "years": "1966–present",
+  "origin": "San Francisco, California",
+  "genres": [
+   "Latin rock",
+   "blues rock",
+   "jazz fusion"
+  ],
+  "summary": "Santana, led by guitarist Carlos Santana, fused rock and blues with Afro-Cuban percussion. The band broke through at Woodstock and returned to the top with Supernatural in 1999.",
+  "know": [
+   "Their Woodstock set came before their debut album was released.",
+   "Supernatural won nine Grammy Awards.",
+   "Carlos Santana was born in Autlán, Mexico."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Santana",
+    1969
+   ],
+   [
+    "Abraxas",
+    1970
+   ],
+   [
+    "Santana III",
+    1971
+   ],
+   [
+    "Supernatural",
+    1999
+   ]
+  ],
+  "songs": [
+   "Evil Ways",
+   "Black Magic Woman",
+   "Oye Como Va",
+   "Europa",
+   "Smooth"
+  ],
+  "influencedBy": [
+   {
+    "id": "tito-puente",
+    "why": "Their hit Oye Como Va is a cover of Tito Puente's song.",
+    "s": 3
+   },
+   {
+    "id": "bb-king",
+    "why": "Carlos Santana named B.B. King as the guitarist who made him want to play.",
+    "s": 3
+   },
+   {
+    "id": "john-coltrane",
+    "why": "Santana called Coltrane's A Love Supreme a spiritual guide and recorded a version on Love Devotion Surrender.",
+    "s": 3
+   },
+   {
+    "id": "miles-davis",
+    "why": "Carlos has said Miles Davis's Bitches Brew era shaped Santana's jazz-rock turn.",
+    "s": 3
+   },
+   {
+    "id": "fleetwood-mac",
+    "why": "Black Magic Woman was written by Peter Green of Fleetwood Mac.",
+    "s": 3
+   },
+   {
+    "id": "john-lee-hooker",
+    "why": "Carlos called John Lee Hooker a mentor and recorded The Healer with him.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "pharoah-sanders",
+    "why": "Both play long, spiritual solos over rhythmic grooves."
+   },
+   {
+    "id": "stevie-ray-vaughan",
+    "why": "Both have a singing, instantly recognizable guitar tone."
+   }
+  ]
+ },
+ {
+  "id": "led-zeppelin",
+  "years": "1968–1980",
+  "origin": "London, England",
+  "genres": [
+   "hard rock",
+   "blues rock",
+   "folk rock",
+   "heavy metal"
+  ],
+  "summary": "Led Zeppelin took British blues to new extremes of volume and power and mixed in folk and Eastern sounds. They were the biggest rock band of the 1970s and a foundation of heavy metal.",
+  "know": [
+   "They started as the New Yardbirds after Jimmy Page's old band split.",
+   "Led Zeppelin IV has no title on its cover.",
+   "They split after drummer John Bonham died in 1980."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Led Zeppelin II",
+    1969
+   ],
+   [
+    "Led Zeppelin IV",
+    1971
+   ],
+   [
+    "Houses of the Holy",
+    1973
+   ],
+   [
+    "Physical Graffiti",
+    1975
+   ]
+  ],
+  "songs": [
+   "Whole Lotta Love",
+   "Black Dog",
+   "Stairway to Heaven",
+   "Immigrant Song",
+   "Kashmir"
+  ],
+  "influencedBy": [
+   {
+    "id": "willie-dixon",
+    "why": "They covered Dixon's You Shook Me and I Can't Quit You Baby, and Whole Lotta Love later credited Dixon after a lawsuit.",
+    "s": 3
+   },
+   {
+    "id": "muddy-waters",
+    "why": "Their You Shook Me follows Muddy Waters's 1962 recording.",
+    "s": 3
+   },
+   {
+    "id": "robert-johnson",
+    "why": "The Lemon Song and Travelling Riverside Blues borrow lines from Robert Johnson.",
+    "s": 3
+   },
+   {
+    "id": "howlin-wolf",
+    "why": "The Lemon Song now credits Howlin' Wolf because it reworks his Killing Floor.",
+    "s": 3
+   },
+   {
+    "id": "elvis-presley",
+    "why": "Robert Plant idolized Elvis and met him in 1974.",
+    "s": 3
+   },
+   {
+    "id": "joan-baez",
+    "why": "Page based Babe I'm Gonna Leave You on Joan Baez's recording of the song.",
+    "s": 3
+   },
+   {
+    "id": "the-yardbirds",
+    "why": "Jimmy Page formed the band out of the Yardbirds, and they first toured as the New Yardbirds.",
+    "s": 3
+   },
+   {
+    "id": "little-richard",
+    "why": "John Bonham's drum intro to Rock and Roll was adapted from Little Richard's Keep A-Knockin'.",
+    "s": 2
+   },
+   {
+    "id": "eddie-cochran",
+    "why": "They played Eddie Cochran's Somethin' Else and C'mon Everybody on stage.",
+    "s": 3
+   },
+   {
+    "id": "james-brown",
+    "why": "The Crunge is a deliberate tribute to James Brown's funk.",
+    "s": 3
+   },
+   {
+    "id": "joni-mitchell",
+    "why": "Plant wrote Going to California with Joni Mitchell in mind and named her as an influence.",
+    "s": 3
+   },
+   {
+    "id": "lead-belly",
+    "why": "Gallows Pole is an old folk song best known from Lead Belly's recording.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "beastie-boys",
+    "why": "Both mined old blues and R&B records for heavy riffs, and the Beastie Boys looped Bonham's When the Levee Breaks drums."
+   },
+   {
+    "id": "the-white-stripes",
+    "why": "Both turn Delta blues into huge, stripped-back riff rock."
+   }
+  ]
+ },
+ {
+  "id": "king-crimson",
+  "years": "1968–2021",
+  "origin": "London, England",
+  "genres": [
+   "progressive rock",
+   "art rock",
+   "experimental rock"
+  ],
+  "summary": "King Crimson, led by guitarist Robert Fripp, helped define progressive rock with their 1969 debut. Through many lineups they kept moving into jazz, metal, minimalism and new wave.",
+  "know": [
+   "Kanye West sampled 21st Century Schizoid Man on his 2010 single Power.",
+   "Robert Fripp is the only constant member across every lineup.",
+   "Bill Bruford left Yes to join them in 1972."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "In the Court of the Crimson King",
+    1969
+   ],
+   [
+    "Larks' Tongues in Aspic",
+    1973
+   ],
+   [
+    "Red",
+    1974
+   ],
+   [
+    "Discipline",
+    1981
+   ]
+  ],
+  "songs": [
+   "21st Century Schizoid Man",
+   "In the Court of the Crimson King",
+   "Epitaph",
+   "Starless",
+   "Elephant Talk"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "Robert Fripp named Sgt. Pepper as one of the records that showed him what rock could be.",
+    "s": 3
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "Fripp named Jimi Hendrix as one of the main influences on his playing.",
+    "s": 3
+   },
+   {
+    "id": "brian-eno",
+    "why": "Fripp's tape-loop work with Eno on (No Pussyfooting) fed into later Crimson textures.",
+    "s": 3
+   },
+   {
+    "id": "talking-heads",
+    "why": "Their 1981 lineup added Adrian Belew from Talking Heads' touring band, and Discipline echoes that interlocking sound.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "tool",
+    "why": "Both build long, odd-meter pieces with precise, heavy playing."
+   },
+   {
+    "id": "mastodon",
+    "why": "Both make complex, heavy music full of shifting time signatures."
+   }
+  ]
+ },
+ {
+  "id": "frank-zappa",
+  "years": "1964–1993",
+  "origin": "Baltimore, Maryland",
+  "genres": [
+   "experimental rock",
+   "jazz fusion",
+   "comedy rock",
+   "avant-garde"
+  ],
+  "summary": "Frank Zappa was a guitarist, composer and satirist who released more than 60 albums mixing rock, jazz, doo-wop and modern classical music. He also testified to Congress against record censorship.",
+  "know": [
+   "His heroes included composer Edgard Varèse.",
+   "Freak Out! with the Mothers of Invention was one of rock's first double albums.",
+   "He testified before the U.S. Senate against the PMRC's record-labeling push in 1985."
+  ],
+  "born": "12-21",
+  "keyAlbums": [
+   [
+    "Freak Out!",
+    1966
+   ],
+   [
+    "We're Only in It for the Money",
+    1968
+   ],
+   [
+    "Hot Rats",
+    1969
+   ],
+   [
+    "Apostrophe (')",
+    1974
+   ]
+  ],
+  "songs": [
+   "Peaches en Regalia",
+   "Willie the Pimp",
+   "Don't Eat the Yellow Snow",
+   "Montana",
+   "Bobby Brown"
+  ],
+  "influencedBy": [
+   {
+    "id": "howlin-wolf",
+    "why": "Zappa named Howlin' Wolf among the blues artists he loved as a teen.",
+    "s": 3
+   },
+   {
+    "id": "captain-beefheart",
+    "why": "He and Don Van Vliet were high school friends who traded records and collaborated for years.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "We're Only in It for the Money parodies the Beatles' Sgt. Pepper, cover and all.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "sun-ra",
+    "why": "Both were eccentric bandleaders who built their own musical universe."
+   },
+   {
+    "id": "parliament-funkadelic",
+    "why": "Both led big, satirical ensembles that mixed humor with serious chops."
+   }
+  ]
+ },
+ {
+  "id": "captain-beefheart",
+  "years": "1964–1982",
+  "origin": "Glendale, California",
+  "genres": [
+   "experimental rock",
+   "blues rock",
+   "avant-garde"
+  ],
+  "summary": "Captain Beefheart, born Don Van Vliet, twisted Delta blues into jagged, surreal music with his Magic Band. Trout Mask Replica is one of rock's most famous difficult albums.",
+  "know": [
+   "Frank Zappa produced Trout Mask Replica.",
+   "He quit music in 1982 to paint.",
+   "His voice was said to span about five octaves."
+  ],
+  "born": "01-15",
+  "keyAlbums": [
+   [
+    "Safe as Milk",
+    1967
+   ],
+   [
+    "Trout Mask Replica",
+    1969
+   ],
+   [
+    "Clear Spot",
+    1972
+   ],
+   [
+    "Doc at the Radar Station",
+    1980
+   ]
+  ],
+  "songs": [
+   "Sure 'Nuff 'n Yes I Do",
+   "Electricity",
+   "Ella Guru",
+   "Big Eyed Beans from Venus",
+   "Click Clack"
+  ],
+  "influencedBy": [
+   {
+    "id": "howlin-wolf",
+    "why": "His growling vocal style was openly modeled on Howlin' Wolf.",
+    "s": 3
+   },
+   {
+    "id": "ornette-coleman",
+    "why": "He cited Ornette Coleman's free jazz as a model for his band's clashing parts.",
+    "s": 3
+   },
+   {
+    "id": "john-coltrane",
+    "why": "He named John Coltrane alongside Ornette as jazz players he admired.",
+    "s": 2
+   },
+   {
+    "id": "frank-zappa",
+    "why": "His school friend Frank Zappa encouraged and produced his work.",
+    "s": 3
+   },
+   {
+    "id": "muddy-waters",
+    "why": "Sure 'Nuff 'n Yes I Do reworks the riff of Rollin' and Tumblin', a Muddy Waters staple.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "sun-ra",
+    "why": "Both were visionary outsiders who built strange, private musical worlds."
+   },
+   {
+    "id": "rl-burnside",
+    "why": "Both twisted Delta blues into raw, hypnotic, unconventional forms."
+   }
+  ]
+ },
+ {
+  "id": "neil-young",
+  "years": "1963–present",
+  "origin": "Toronto, Canada",
+  "genres": [
+   "folk rock",
+   "country rock",
+   "hard rock"
+  ],
+  "summary": "Neil Young moves between quiet acoustic folk and loud, distorted rock with Crazy Horse. His raw guitar sound made him a hero to grunge and alternative rock bands.",
+  "know": [
+   "He was a member of Buffalo Springfield and Crosby, Stills, Nash and Young.",
+   "Harvest was the best-selling album in the U.S. in 1972.",
+   "He had polio as a child."
+  ],
+  "born": "11-12",
+  "keyAlbums": [
+   [
+    "After the Gold Rush",
+    1970
+   ],
+   [
+    "Harvest",
+    1972
+   ],
+   [
+    "On the Beach",
+    1974
+   ],
+   [
+    "Rust Never Sleeps",
+    1979
+   ]
+  ],
+  "songs": [
+   "Heart of Gold",
+   "Old Man",
+   "Cinnamon Girl",
+   "Like a Hurricane",
+   "Rockin' in the Free World"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-dylan",
+    "why": "He has said Dylan showed him he could write and sing his own songs.",
+    "s": 3
+   },
+   {
+    "id": "hank-williams",
+    "why": "He owns and plays Hank Williams's old Martin guitar and wrote This Old Guitar about it.",
+    "s": 3
+   },
+   {
+    "id": "roy-orbison",
+    "why": "He named Roy Orbison as an early vocal influence.",
+    "s": 3
+   },
+   {
+    "id": "elvis-presley",
+    "why": "He has described Elvis as the reason he wanted to play rock and roll.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "willie-nelson",
+    "why": "Both are stubborn, independent veterans who keep their own sound."
+   },
+   {
+    "id": "bon-iver",
+    "why": "Both sing in a fragile high voice over spare, aching arrangements."
+   }
+  ]
+ },
+ {
+  "id": "the-band",
+  "years": "1967–1976",
+  "origin": "Toronto, Canada",
+  "genres": [
+   "roots rock",
+   "Americana",
+   "country rock"
+  ],
+  "summary": "The Band backed Bob Dylan before making their own albums of rustic, history-soaked American music. Their 1968 debut turned many rock musicians away from psychedelia toward roots music.",
+  "know": [
+   "Four of the five members were Canadian; Levon Helm was from Arkansas.",
+   "Their farewell concert became Martin Scorsese's film The Last Waltz.",
+   "They started as the Hawks, backing singer Ronnie Hawkins."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Music from Big Pink",
+    1968
+   ],
+   [
+    "The Band",
+    1969
+   ],
+   [
+    "Stage Fright",
+    1970
+   ],
+   [
+    "The Last Waltz",
+    1978
+   ]
+  ],
+  "songs": [
+   "The Weight",
+   "The Night They Drove Old Dixie Down",
+   "Up on Cripple Creek",
+   "I Shall Be Released",
+   "Chest Fever"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-dylan",
+    "why": "They backed Dylan on his 1966 tour and recorded The Basement Tapes with him.",
+    "s": 3
+   },
+   {
+    "id": "ray-charles",
+    "why": "Richard Manuel's singing was openly modeled on Ray Charles.",
+    "s": 3
+   },
+   {
+    "id": "sam-cooke",
+    "why": "They covered Sam Cooke's A Change Is Gonna Come on Moondog Matinee.",
+    "s": 3
+   },
+   {
+    "id": "elvis-presley",
+    "why": "They covered Mystery Train, an Elvis Sun single, on Moondog Matinee.",
+    "s": 3
+   },
+   {
+    "id": "fats-domino",
+    "why": "They covered Fats Domino's I'm Ready on Moondog Matinee.",
+    "s": 3
+   },
+   {
+    "id": "muddy-waters",
+    "why": "They invited Muddy Waters to play Mannish Boy at The Last Waltz.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "emmylou-harris",
+    "why": "Both blend country, gospel and rock into ensemble Americana."
+   },
+   {
+    "id": "the-meters",
+    "why": "Both are tight ensemble bands with an earthy, rolling groove."
+   }
+  ]
+ },
+ {
+  "id": "deep-purple",
+  "years": "1968–present",
+  "origin": "Hertford, England",
+  "genres": [
+   "hard rock",
+   "heavy metal",
+   "progressive rock"
+  ],
+  "summary": "Deep Purple paired Ritchie Blackmore's guitar with Jon Lord's distorted Hammond organ to help invent hard rock and heavy metal. Smoke on the Water has one of the best-known riffs ever.",
+  "know": [
+   "Smoke on the Water describes a fire at the Montreux Casino during a Frank Zappa concert in 1971.",
+   "The Guinness Book once listed them as the world's loudest band.",
+   "Their first U.S. hit was a cover of Joe South's Hush."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Deep Purple in Rock",
+    1970
+   ],
+   [
+    "Fireball",
+    1971
+   ],
+   [
+    "Machine Head",
+    1972
+   ],
+   [
+    "Made in Japan",
+    1972
+   ]
+  ],
+  "songs": [
+   "Hush",
+   "Black Night",
+   "Child in Time",
+   "Highway Star",
+   "Smoke on the Water"
+  ],
+  "influencedBy": [
+   {
+    "id": "jimi-hendrix",
+    "why": "Ritchie Blackmore cited Hendrix's showmanship and volume as a turning point for him.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "They covered the Beatles' Help! on their first album.",
+    "s": 3
+   },
+   {
+    "id": "elvis-presley",
+    "why": "Singer Ian Gillan named Elvis as his first vocal hero.",
+    "s": 2
+   },
+   {
+    "id": "cream",
+    "why": "Their heavy, jam-stretched blues-rock follows the path Cream opened.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "booker-t",
+    "why": "Both put a driving Hammond organ at the center of the band."
+   },
+   {
+    "id": "iron-maiden",
+    "why": "Both are British bands built on galloping riffs and dueling solos."
+   }
+  ]
+ },
+ {
+  "id": "the-allman-brothers",
+  "years": "1969–2014",
+  "origin": "Jacksonville, Florida",
+  "genres": [
+   "Southern rock",
+   "blues rock",
+   "jam band"
+  ],
+  "summary": "The Allman Brothers Band mixed blues, jazz and country into long, twin-guitar jams. Duane Allman's slide guitar and Gregg Allman's voice made them the founders of Southern rock.",
+  "know": [
+   "At Fillmore East is often called the greatest live rock album.",
+   "Duane Allman died in a motorcycle crash in 1971 at 24.",
+   "They used two drummers, Butch Trucks and Jaimoe."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Allman Brothers Band",
+    1969
+   ],
+   [
+    "Idlewild South",
+    1970
+   ],
+   [
+    "At Fillmore East",
+    1971
+   ],
+   [
+    "Eat a Peach",
+    1972
+   ]
+  ],
+  "songs": [
+   "Statesboro Blues",
+   "Whipping Post",
+   "In Memory of Elizabeth Reed",
+   "Midnight Rider",
+   "Ramblin' Man"
+  ],
+  "influencedBy": [
+   {
+    "id": "miles-davis",
+    "why": "Duane Allman said he played Kind of Blue constantly, and the band's modal jams come from it.",
+    "s": 3
+   },
+   {
+    "id": "john-coltrane",
+    "why": "Duane Allman named Coltrane's My Favorite Things as a model for their long improvisations.",
+    "s": 3
+   },
+   {
+    "id": "elmore-james",
+    "why": "They covered Elmore James's Done Somebody Wrong at Fillmore East.",
+    "s": 3
+   },
+   {
+    "id": "muddy-waters",
+    "why": "They covered Muddy Waters's Trouble No More on their debut.",
+    "s": 3
+   },
+   {
+    "id": "t-bone-walker",
+    "why": "Their live Stormy Monday is a cover of T-Bone Walker's song.",
+    "s": 3
+   },
+   {
+    "id": "bb-king",
+    "why": "Duane and Gregg named B.B. King as an early influence after seeing him live.",
+    "s": 2
+   },
+   {
+    "id": "ray-charles",
+    "why": "Gregg Allman cited Ray Charles as a model for his organ and vocals.",
+    "s": 2
+   },
+   {
+    "id": "grateful-dead",
+    "why": "They shared bills with the Grateful Dead and followed their two-drummer, long-jam format.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "chris-stapleton",
+    "why": "Both carry a soulful Southern voice over blues-rooted music."
+   },
+   {
+    "id": "ugk",
+    "why": "Both put the American South at the center of their genre."
+   }
+  ]
+ },
+ {
+  "id": "lynyrd-skynyrd",
+  "years": "1964–present",
+  "origin": "Jacksonville, Florida",
+  "genres": [
+   "Southern rock",
+   "hard rock",
+   "boogie rock"
+  ],
+  "summary": "Lynyrd Skynyrd brought a three-guitar attack and Ronnie Van Zant's plainspoken songs to Southern rock. Free Bird and Sweet Home Alabama are among the most-played rock songs on radio.",
+  "know": [
+   "The name mocks Leonard Skinner, a gym teacher who punished students for long hair.",
+   "Van Zant and two other members died in a 1977 plane crash.",
+   "Sweet Home Alabama answers Neil Young's Southern Man."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "(Pronounced 'Lĕh-'nérd 'Skin-'nérd)",
+    1973
+   ],
+   [
+    "Second Helping",
+    1974
+   ],
+   [
+    "Nuthin' Fancy",
+    1975
+   ],
+   [
+    "Street Survivors",
+    1977
+   ]
+  ],
+  "songs": [
+   "Sweet Home Alabama",
+   "Free Bird",
+   "Simple Man",
+   "Tuesday's Gone",
+   "Gimme Three Steps"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-allman-brothers",
+    "why": "They followed the Allman Brothers' blend of blues, country and dual guitars out of Jacksonville.",
+    "s": 2
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Their swaggering boogie-rock owes a lot to the Rolling Stones.",
+    "s": 2
+   },
+   {
+    "id": "jimmie-rodgers",
+    "why": "They covered Jimmie Rodgers's T for Texas.",
+    "s": 3
+   },
+   {
+    "id": "merle-haggard",
+    "why": "Ronnie Van Zant was a Merle Haggard fan and the band recorded Haggard's Honky Tonk Night Time Man.",
+    "s": 3
+   },
+   {
+    "id": "neil-young",
+    "why": "Van Zant was a Neil Young fan and wrote Sweet Home Alabama as a reply to Young's Southern Man.",
+    "s": 3
+   },
+   {
+    "id": "cream",
+    "why": "Their live Crossroads follows Cream's arrangement.",
+    "s": 3
+   },
+   {
+    "id": "eric-clapton",
+    "why": "Guitarists Allen Collins and Gary Rossington named Eric Clapton as an early model.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "waylon-jennings",
+    "why": "Both play tough, outlaw music about Southern working life."
+   },
+   {
+    "id": "chris-stapleton",
+    "why": "Both carry Southern rock grit and hard-country storytelling."
+   }
+  ]
+ },
+ {
+  "id": "david-bowie",
+  "years": "1962–2016",
+  "origin": "London, England",
+  "genres": [
+   "glam rock",
+   "art rock",
+   "plastic soul",
+   "electronic rock"
+  ],
+  "summary": "David Bowie reinvented himself through a run of characters and styles, from Ziggy Stardust to Berlin-era electronic rock. He showed rock could be theater and art, and kept experimenting until his last album.",
+  "know": [
+   "Blackstar was released two days before his death in 2016.",
+   "He made three albums with Brian Eno, often called the Berlin trilogy.",
+   "His eyes looked different colors because of a permanently dilated pupil from a teenage fight."
+  ],
+  "born": "01-08",
+  "keyAlbums": [
+   [
+    "Hunky Dory",
+    1971
+   ],
+   [
+    "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+    1972
+   ],
+   [
+    "Low",
+    1977
+   ],
+   [
+    "Blackstar",
+    2016
+   ]
+  ],
+  "songs": [
+   "Space Oddity",
+   "Changes",
+   "Starman",
+   "Heroes",
+   "Life on Mars?"
+  ],
+  "influencedBy": [
+   {
+    "id": "little-richard",
+    "why": "Bowie said seeing Little Richard as a child made him want to play saxophone and be a star.",
+    "s": 3
+   },
+   {
+    "id": "elvis-presley",
+    "why": "Bowie, who shared Elvis's birthday, named him as a childhood idol.",
+    "s": 3
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "He covered I'm Waiting for the Man and produced Lou Reed's Transformer.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "He wrote Song for Bob Dylan on Hunky Dory.",
+    "s": 3
+   },
+   {
+    "id": "the-stooges",
+    "why": "He mixed the Stooges' Raw Power and worked closely with Iggy Pop.",
+    "s": 3
+   },
+   {
+    "id": "kraftwerk",
+    "why": "He named the song V-2 Schneider after Kraftwerk's Florian Schneider and cited them for the Berlin albums.",
+    "s": 3
+   },
+   {
+    "id": "brian-eno",
+    "why": "Eno co-created Low, Heroes and Lodger with him.",
+    "s": 3
+   },
+   {
+    "id": "the-kinks",
+    "why": "He covered the Kinks' Where Have All the Good Times Gone on Pin Ups.",
+    "s": 3
+   },
+   {
+    "id": "the-yardbirds",
+    "why": "He covered the Yardbirds' Shapes of Things and I Wish You Would on Pin Ups.",
+    "s": 3
+   },
+   {
+    "id": "pink-floyd",
+    "why": "He covered See Emily Play on Pin Ups and cited Syd Barrett as an influence.",
+    "s": 3
+   },
+   {
+    "id": "the-who",
+    "why": "He covered I Can't Explain and Anyway, Anyhow, Anywhere on Pin Ups.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "He co-wrote Fame with John Lennon and covered Across the Universe.",
+    "s": 3
+   },
+   {
+    "id": "t-rex",
+    "why": "His friend and rival Marc Bolan helped set the glam style Bowie took further.",
+    "s": 2
+   },
+   {
+    "id": "kendrick-lamar",
+    "why": "Producer Tony Visconti said Kendrick Lamar's To Pimp a Butterfly shaped Blackstar.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "prince",
+    "why": "Both were genre-hopping shape-shifters who blurred gender and style."
+   },
+   {
+    "id": "lady-gaga",
+    "why": "Both treat pop as theater, with personas and costumes."
+   }
+  ]
+ },
+ {
+  "id": "t-rex",
+  "years": "1967–1977",
+  "origin": "London, England",
+  "genres": [
+   "glam rock",
+   "boogie rock",
+   "psychedelic folk"
+  ],
+  "summary": "T. Rex, led by Marc Bolan, went from hippie folk duo to the band that launched glam rock in Britain. Hits like Get It On made Bolan a teen idol in the early 1970s.",
+  "know": [
+   "Bolan's glitter-under-the-eyes TV appearance in 1971 is often called the start of glam rock.",
+   "Get It On was retitled Bang a Gong (Get It On) in the U.S.",
+   "Bolan died in a car crash in 1977, two weeks before his 30th birthday."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "T. Rex",
+    1970
+   ],
+   [
+    "Electric Warrior",
+    1971
+   ],
+   [
+    "The Slider",
+    1972
+   ],
+   [
+    "Tanx",
+    1973
+   ]
+  ],
+  "songs": [
+   "Ride a White Swan",
+   "Get It On",
+   "Jeepster",
+   "Children of the Revolution",
+   "20th Century Boy"
+  ],
+  "influencedBy": [
+   {
+    "id": "chuck-berry",
+    "why": "Bolan ended Get It On with a line from Chuck Berry's Little Queenie as a nod to Berry.",
+    "s": 3
+   },
+   {
+    "id": "eddie-cochran",
+    "why": "Bolan idolized Eddie Cochran from boyhood.",
+    "s": 3
+   },
+   {
+    "id": "elvis-presley",
+    "why": "Bolan was an early Elvis fan, and his rock and roll vocal hiccups come from that era.",
+    "s": 2
+   },
+   {
+    "id": "howlin-wolf",
+    "why": "Jeepster borrows lines from Howlin' Wolf's You'll Be Mine.",
+    "s": 2
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Bolan's early Tyrannosaurus Rex folk records came out of the Dylan-inspired folk scene.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "harry-styles",
+    "why": "Both are glam, androgynous teen idols with a classic-rock sound."
+   },
+   {
+    "id": "prince",
+    "why": "Both combine sexy boogie grooves with flamboyant style."
+   }
+  ]
+ },
+ {
+  "id": "queen",
+  "years": "1970–present",
+  "origin": "London, England",
+  "genres": [
+   "hard rock",
+   "glam rock",
+   "arena rock"
+  ],
+  "summary": "Queen combined Brian May's layered guitars, Freddie Mercury's operatic vocals and big harmonies into arena rock. Their 1985 Live Aid set is often called one of the greatest live performances.",
+  "know": [
+   "Brian May built his Red Special guitar with his father.",
+   "Bohemian Rhapsody has no repeating chorus.",
+   "Every member wrote at least one hit single."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Sheer Heart Attack",
+    1974
+   ],
+   [
+    "A Night at the Opera",
+    1975
+   ],
+   [
+    "News of the World",
+    1977
+   ],
+   [
+    "The Game",
+    1980
+   ]
+  ],
+  "songs": [
+   "Bohemian Rhapsody",
+   "We Will Rock You",
+   "We Are the Champions",
+   "Another One Bites the Dust",
+   "Don't Stop Me Now"
+  ],
+  "influencedBy": [
+   {
+    "id": "jimi-hendrix",
+    "why": "Freddie Mercury idolized Hendrix and saw him play many times in London.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "Brian May and Mercury named the Beatles as a major influence on their songwriting.",
+    "s": 3
+   },
+   {
+    "id": "led-zeppelin",
+    "why": "Their early heavy sound follows Led Zeppelin's lead, and Mercury admired Robert Plant.",
+    "s": 2
+   },
+   {
+    "id": "the-who",
+    "why": "They named the Who as a model for loud, theatrical rock.",
+    "s": 2
+   },
+   {
+    "id": "cream",
+    "why": "May's early trio Smile followed the Cream model.",
+    "s": 2
+   },
+   {
+    "id": "aretha-franklin",
+    "why": "Mercury named Aretha Franklin as a favorite singer.",
+    "s": 3
+   },
+   {
+    "id": "elvis-presley",
+    "why": "Mercury wrote Crazy Little Thing Called Love as a tribute to Elvis.",
+    "s": 3
+   },
+   {
+    "id": "chic",
+    "why": "John Deacon wrote the Another One Bites the Dust bass line after spending time with Chic's Bernard Edwards.",
+    "s": 2
+   },
+   {
+    "id": "david-bowie",
+    "why": "They wrote and recorded Under Pressure with Bowie.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "elton-john",
+    "why": "Both are piano-led, theatrical stadium acts with huge melodies."
+   },
+   {
+    "id": "lady-gaga",
+    "why": "Both mix camp, glam and big hooks, and Gaga took her name from Radio Ga Ga."
+   }
+  ]
+ },
+ {
+  "id": "genesis",
+  "years": "1967–2022",
+  "origin": "Godalming, England",
+  "genres": [
+   "progressive rock",
+   "art rock",
+   "pop rock"
+  ],
+  "summary": "Genesis began as a theatrical progressive rock band with Peter Gabriel and became a 1980s pop act with Phil Collins singing. They are one of the best-selling bands of their era.",
+  "know": [
+   "The band formed at Charterhouse, a boarding school in Surrey.",
+   "Phil Collins took over as singer after Peter Gabriel left in 1975.",
+   "Gabriel performed in elaborate costumes, including a flower mask."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Foxtrot",
+    1972
+   ],
+   [
+    "Selling England by the Pound",
+    1973
+   ],
+   [
+    "The Lamb Lies Down on Broadway",
+    1974
+   ],
+   [
+    "Invisible Touch",
+    1986
+   ]
+  ],
+  "songs": [
+   "Supper's Ready",
+   "Firth of Fifth",
+   "I Know What I Like (In Your Wardrobe)",
+   "Turn It On Again",
+   "Land of Confusion"
+  ],
+  "influencedBy": [
+   {
+    "id": "king-crimson",
+    "why": "Members have said King Crimson's debut showed them what progressive rock could be.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "Their early pop songwriting was shaped by the Beatles.",
+    "s": 2
+   },
+   {
+    "id": "otis-redding",
+    "why": "Peter Gabriel named Otis Redding as a key vocal influence after seeing him live.",
+    "s": 3
+   },
+   {
+    "id": "nina-simone",
+    "why": "Gabriel has named Nina Simone among his favorite singers.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "kate-bush",
+    "why": "Both make theatrical, story-driven art pop with costumes and characters."
+   },
+   {
+    "id": "sufjan-stevens",
+    "why": "Both build long, multi-part concept suites."
+   }
+  ]
+ },
+ {
+  "id": "yes",
+  "years": "1968–present",
+  "origin": "London, England",
+  "genres": [
+   "progressive rock",
+   "symphonic rock",
+   "art rock"
+  ],
+  "summary": "Yes made long, complex progressive rock songs built on Jon Anderson's high voice, Steve Howe's guitar and Chris Squire's bass. They returned in the 1980s with the pop hit Owner of a Lonely Heart.",
+  "know": [
+   "Close to the Edge takes up a whole album side with one song.",
+   "Roger Dean's fantasy artwork became part of their image.",
+   "Owner of a Lonely Heart reached number one in the U.S. in 1984."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Yes Album",
+    1971
+   ],
+   [
+    "Fragile",
+    1971
+   ],
+   [
+    "Close to the Edge",
+    1972
+   ],
+   [
+    "90125",
+    1983
+   ]
+  ],
+  "songs": [
+   "Roundabout",
+   "Starship Trooper",
+   "I've Seen All Good People",
+   "Close to the Edge",
+   "Owner of a Lonely Heart"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "They covered the Beatles' Every Little Thing on their debut.",
+    "s": 3
+   },
+   {
+    "id": "the-byrds",
+    "why": "They covered the Byrds' I See You on their debut.",
+    "s": 3
+   },
+   {
+    "id": "simon-garfunkel",
+    "why": "They recorded a long version of Simon and Garfunkel's America.",
+    "s": 3
+   },
+   {
+    "id": "wes-montgomery",
+    "why": "Steve Howe has named jazz guitarists like Wes Montgomery as influences.",
+    "s": 2
+   },
+   {
+    "id": "crosby-stills-nash",
+    "why": "Jon Anderson's stacked vocal harmonies draw on folk-rock harmony groups.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "flying-lotus",
+    "why": "Both make dense, cosmic music full of shifting sections."
+   },
+   {
+    "id": "esperanza-spalding",
+    "why": "Both pair virtuoso playing with ambitious, high-concept projects."
+   }
+  ]
+ },
+ {
+  "id": "rush",
+  "years": "1968–2018",
+  "origin": "Toronto, Canada",
+  "genres": [
+   "progressive rock",
+   "hard rock",
+   "progressive metal"
+  ],
+  "summary": "Rush were a Canadian trio that combined hard rock power with progressive complexity. Neil Peart's drumming and lyrics made them heroes to musicians.",
+  "know": [
+   "Neil Peart joined in 1974 and wrote most of their lyrics.",
+   "2112 includes a side-long suite inspired by Ayn Rand.",
+   "They retired after drummer Neil Peart stopped touring in 2015."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "2112",
+    1976
+   ],
+   [
+    "A Farewell to Kings",
+    1977
+   ],
+   [
+    "Permanent Waves",
+    1980
+   ],
+   [
+    "Moving Pictures",
+    1981
+   ]
+  ],
+  "songs": [
+   "Tom Sawyer",
+   "The Spirit of Radio",
+   "Limelight",
+   "YYZ",
+   "Closer to the Heart"
+  ],
+  "influencedBy": [
+   {
+    "id": "led-zeppelin",
+    "why": "Geddy Lee has said their debut was heavily influenced by Led Zeppelin.",
+    "s": 3
+   },
+   {
+    "id": "cream",
+    "why": "Alex Lifeson and Lee cited Cream, and they covered Crossroads on Feedback.",
+    "s": 3
+   },
+   {
+    "id": "the-who",
+    "why": "Neil Peart named Keith Moon as an early drumming hero, and they covered The Seeker.",
+    "s": 3
+   },
+   {
+    "id": "yes",
+    "why": "Geddy Lee has cited Chris Squire of Yes as a bass influence.",
+    "s": 3
+   },
+   {
+    "id": "the-yardbirds",
+    "why": "They covered Heart Full of Soul and Shapes of Things on Feedback.",
+    "s": 3
+   },
+   {
+    "id": "genesis",
+    "why": "Their move into long progressive suites followed bands like Genesis.",
+    "s": 2
+   },
+   {
+    "id": "the-police",
+    "why": "Their early 1980s reggae and new wave touches were inspired by the Police.",
+    "s": 2
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "Lifeson named Jimi Hendrix as an early guitar influence.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "tool",
+    "why": "Both make long, technical hard rock with odd meters and big drums."
+   },
+   {
+    "id": "mastodon",
+    "why": "Both mix heavy riffs with progressive complexity."
+   }
+  ]
+ },
+ {
+  "id": "fleetwood-mac",
+  "years": "1967–present",
+  "origin": "London, England",
+  "genres": [
+   "British blues",
+   "soft rock",
+   "pop rock"
+  ],
+  "summary": "Fleetwood Mac began as a British blues band led by Peter Green and became a California soft-rock group with Lindsey Buckingham and Stevie Nicks. Rumours, made as the members' relationships fell apart, is one of the best-selling albums ever.",
+  "know": [
+   "The name combines drummer Mick Fleetwood and bassist John McVie.",
+   "Peter Green wrote Black Magic Woman, later a hit for Santana.",
+   "Rumours has sold over 40 million copies."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Then Play On",
+    1969
+   ],
+   [
+    "Fleetwood Mac",
+    1975
+   ],
+   [
+    "Rumours",
+    1977
+   ],
+   [
+    "Tusk",
+    1979
+   ]
+  ],
+  "songs": [
+   "Albatross",
+   "Landslide",
+   "Dreams",
+   "Go Your Own Way",
+   "The Chain"
+  ],
+  "influencedBy": [
+   {
+    "id": "elmore-james",
+    "why": "Jeremy Spencer's slide playing copied Elmore James, and they covered his songs.",
+    "s": 3
+   },
+   {
+    "id": "bb-king",
+    "why": "Peter Green named B.B. King as his main influence; King praised Green's tone.",
+    "s": 3
+   },
+   {
+    "id": "robert-johnson",
+    "why": "They covered Robert Johnson's Hellhound on My Trail.",
+    "s": 3
+   },
+   {
+    "id": "the-beach-boys",
+    "why": "Lindsey Buckingham has named Brian Wilson as a major influence on his production.",
+    "s": 3
+   },
+   {
+    "id": "janis-joplin",
+    "why": "Stevie Nicks named Janis Joplin as a model for her stage presence.",
+    "s": 3
+   },
+   {
+    "id": "jefferson-airplane",
+    "why": "Nicks has said Grace Slick of Jefferson Airplane was an early inspiration.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "taylor-swift",
+    "why": "Both turn real breakups into confessional, huge-selling songs."
+   },
+   {
+    "id": "the-chicks",
+    "why": "Both are harmony-rich groups with strong female singers."
+   }
+  ]
+ },
+ {
+  "id": "eagles",
+  "years": "1971–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "country rock",
+   "soft rock",
+   "California rock"
+  ],
+  "summary": "The Eagles polished country rock into radio hits, built on clean harmonies and Don Henley and Glenn Frey's songwriting. Their Greatest Hits 1971–1975 is one of the best-selling albums in U.S. history.",
+  "know": [
+   "Several founding members first played as Linda Ronstadt's backing band.",
+   "Their Greatest Hits 1971–1975 is one of the best-selling albums in the U.S.",
+   "Hotel California won the Grammy for Record of the Year."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Eagles",
+    1972
+   ],
+   [
+    "Desperado",
+    1973
+   ],
+   [
+    "One of These Nights",
+    1975
+   ],
+   [
+    "Hotel California",
+    1976
+   ]
+  ],
+  "songs": [
+   "Take It Easy",
+   "Desperado",
+   "Lyin' Eyes",
+   "Hotel California",
+   "Life in the Fast Lane"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-byrds",
+    "why": "Their country-rock sound builds directly on the Byrds' Sweetheart of the Rodeo.",
+    "s": 2
+   },
+   {
+    "id": "gram-parsons",
+    "why": "They followed Gram Parsons's Flying Burrito Brothers in mixing country and rock in Los Angeles.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "Henley and Frey named the Beatles as a songwriting model.",
+    "s": 2
+   },
+   {
+    "id": "everly-brothers",
+    "why": "Their close harmonies follow the Everly Brothers' style.",
+    "s": 2
+   },
+   {
+    "id": "crosby-stills-nash",
+    "why": "Their stacked harmonies follow the California folk-rock sound of Crosby, Stills and Nash.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "george-strait",
+    "why": "Both deliver smooth, polished country-based hits."
+   },
+   {
+    "id": "james-taylor",
+    "why": "Both define the mellow 1970s Southern California sound."
+   }
+  ]
+ },
+ {
+  "id": "bruce-springsteen",
+  "years": "1972–present",
+  "origin": "Long Branch, New Jersey",
+  "genres": [
+   "heartland rock",
+   "rock and roll",
+   "folk rock"
+  ],
+  "summary": "Bruce Springsteen writes cinematic songs about working-class American life, often played with the E Street Band. His marathon live shows are legendary.",
+  "know": [
+   "His nickname is The Boss.",
+   "Nebraska was recorded alone on a four-track cassette recorder at home.",
+   "He appeared on the covers of Time and Newsweek in the same week in 1975."
+  ],
+  "born": "09-23",
+  "keyAlbums": [
+   [
+    "Born to Run",
+    1975
+   ],
+   [
+    "Darkness on the Edge of Town",
+    1978
+   ],
+   [
+    "Nebraska",
+    1982
+   ],
+   [
+    "Born in the U.S.A.",
+    1984
+   ]
+  ],
+  "songs": [
+   "Born to Run",
+   "Thunder Road",
+   "The River",
+   "Born in the U.S.A.",
+   "Dancing in the Dark"
+  ],
+  "influencedBy": [
+   {
+    "id": "elvis-presley",
+    "why": "He said seeing Elvis on The Ed Sullivan Show made him want to play guitar.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "He said in his Rock Hall speech for Dylan that Like a Rolling Stone 'kicked open the door to your mind.'",
+    "s": 3
+   },
+   {
+    "id": "roy-orbison",
+    "why": "Thunder Road names Roy Orbison, and Springsteen inducted Orbison into the Rock Hall.",
+    "s": 3
+   },
+   {
+    "id": "woody-guthrie",
+    "why": "He covered This Land Is Your Land and cited Guthrie for Nebraska and The Ghost of Tom Joad.",
+    "s": 3
+   },
+   {
+    "id": "pete-seeger",
+    "why": "He recorded a whole album of songs Seeger popularized, We Shall Overcome: The Seeger Sessions.",
+    "s": 3
+   },
+   {
+    "id": "the-animals",
+    "why": "He has said the Animals' We Gotta Get Out of This Place contains every song he ever wrote.",
+    "s": 3
+   },
+   {
+    "id": "the-ronettes",
+    "why": "Born to Run's wall of sound copies Phil Spector's productions for the Ronettes.",
+    "s": 2
+   },
+   {
+    "id": "chuck-berry",
+    "why": "He backed Chuck Berry as a pickup band member in 1973 and covers his songs often.",
+    "s": 3
+   },
+   {
+    "id": "hank-williams",
+    "why": "He has said Hank Williams's songs shaped the stark writing on Darkness and Nebraska.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "He has said the Beatles' arrival made him buy his first guitar.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "merle-haggard",
+    "why": "Both write plain-spoken songs for and about working people."
+   },
+   {
+    "id": "noah-kahan",
+    "why": "Both write about small-town restlessness and the urge to escape."
+   }
+  ]
+ },
+ {
+  "id": "tom-petty",
+  "years": "1976–2017",
+  "origin": "Gainesville, Florida",
+  "genres": [
+   "heartland rock",
+   "roots rock",
+   "jangle pop"
+  ],
+  "summary": "Tom Petty and the Heartbreakers played tight, jangly rock with plainspoken lyrics. Petty also joined Bob Dylan, George Harrison and Roy Orbison in the Traveling Wilburys.",
+  "know": [
+   "Petty met Elvis Presley on a film set in Florida when he was 10.",
+   "He fought his record label in 1981 to keep an album's price at $8.98.",
+   "He died in 2017 a week after finishing a 40th anniversary tour."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Tom Petty and the Heartbreakers",
+    1976
+   ],
+   [
+    "Damn the Torpedoes",
+    1979
+   ],
+   [
+    "Hard Promises",
+    1981
+   ],
+   [
+    "Southern Accents",
+    1985
+   ]
+  ],
+  "songs": [
+   "American Girl",
+   "Refugee",
+   "The Waiting",
+   "Don't Come Around Here No More",
+   "Mary Jane's Last Dance"
+  ],
+  "influencedBy": [
+   {
+    "id": "elvis-presley",
+    "why": "Meeting Elvis on a film set as a boy got Petty hooked on rock and roll.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "Petty said seeing the Beatles on Ed Sullivan made him decide to start a band.",
+    "s": 3
+   },
+   {
+    "id": "the-byrds",
+    "why": "His jangly 12-string sound comes from the Byrds, and Roger McGuinn covered American Girl.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "The Heartbreakers backed Dylan on tour in 1986 and Petty joined him in the Traveling Wilburys.",
+    "s": 3
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Petty named the Stones as an early model for a band.",
+    "s": 2
+   },
+   {
+    "id": "roy-orbison",
+    "why": "Petty played alongside Orbison in the Traveling Wilburys and called him a hero.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "dwight-yoakam",
+    "why": "Both play no-frills, twangy rock with classic songwriting."
+   },
+   {
+    "id": "the-war-on-drugs",
+    "why": "Both make driving, open-road heartland rock."
+   }
+  ]
+ },
+ {
+  "id": "aerosmith",
+  "years": "1970–2024",
+  "origin": "Boston, Massachusetts",
+  "genres": [
+   "hard rock",
+   "blues rock",
+   "glam metal"
+  ],
+  "summary": "Aerosmith, led by Steven Tyler and Joe Perry, became America's top hard rock band of the 1970s and made a big comeback in the late 1980s. Their remake of Walk This Way with Run-DMC helped bring rap to rock radio.",
+  "know": [
+   "They are often called the Bad Boys from Boston.",
+   "Dream On was written by Steven Tyler before the band formed.",
+   "They retired from touring in 2024 after Tyler injured his voice."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Toys in the Attic",
+    1975
+   ],
+   [
+    "Rocks",
+    1976
+   ],
+   [
+    "Permanent Vacation",
+    1987
+   ],
+   [
+    "Pump",
+    1989
+   ]
+  ],
+  "songs": [
+   "Dream On",
+   "Sweet Emotion",
+   "Walk This Way",
+   "Janie's Got a Gun",
+   "I Don't Want to Miss a Thing"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-rolling-stones",
+    "why": "Steven Tyler has said Mick Jagger was his main model as a frontman.",
+    "s": 3
+   },
+   {
+    "id": "the-yardbirds",
+    "why": "They made the Yardbirds' Train Kept A-Rollin' a signature song.",
+    "s": 3
+   },
+   {
+    "id": "led-zeppelin",
+    "why": "Joe Perry's riff-heavy blues rock follows Jimmy Page's model.",
+    "s": 2
+   },
+   {
+    "id": "new-york-dolls",
+    "why": "Their glam image and sound share roots with the New York Dolls.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "They covered Come Together for the 1978 Sgt. Pepper film.",
+    "s": 3
+   },
+   {
+    "id": "fleetwood-mac",
+    "why": "They covered Peter Green's Stop Messin' Round.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "run-dmc",
+    "why": "Both are swaggering hard-hitters, and their 1986 Walk This Way remake joined the two styles."
+   },
+   {
+    "id": "judas-priest",
+    "why": "Both are long-lasting 1970s heavy bands with a flamboyant frontman."
+   }
+  ]
+ },
+ {
+  "id": "kiss",
+  "years": "1973–2023",
+  "origin": "New York City, New York",
+  "genres": [
+   "hard rock",
+   "glam rock",
+   "arena rock"
+  ],
+  "summary": "Kiss built a hard rock band around comic-book makeup, fire-breathing and explosive stage shows. Their merchandising and fan army, the Kiss Army, made them a cultural brand.",
+  "know": [
+   "They performed without makeup from 1983 to 1996.",
+   "Their 1975 double album Alive! was their commercial breakthrough.",
+   "They played their final show at Madison Square Garden in December 2023."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Kiss",
+    1974
+   ],
+   [
+    "Alive!",
+    1975
+   ],
+   [
+    "Destroyer",
+    1976
+   ],
+   [
+    "Love Gun",
+    1977
+   ]
+  ],
+  "songs": [
+   "Rock and Roll All Nite",
+   "Detroit Rock City",
+   "Beth",
+   "Shout It Out Loud",
+   "I Was Made for Lovin' You"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "Gene Simmons and Paul Stanley named the Beatles as the band that made them want to play.",
+    "s": 3
+   },
+   {
+    "id": "new-york-dolls",
+    "why": "Seeing the New York Dolls helped convince them to adopt a glam look and makeup.",
+    "s": 3
+   },
+   {
+    "id": "led-zeppelin",
+    "why": "Paul Stanley has cited Led Zeppelin as a model for their heavy sound.",
+    "s": 2
+   },
+   {
+    "id": "the-who",
+    "why": "Stanley has named Pete Townshend's showmanship as an influence.",
+    "s": 2
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Their early riff rock follows the Stones' model.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "slipknot",
+    "why": "Both hide behind masks and make the stage show part of the music."
+   },
+   {
+    "id": "parliament-funkadelic",
+    "why": "Both built a comic-book universe of costumes and spectacle."
+   },
+   {
+    "id": "daft-punk",
+    "why": "Both kept masked personas that made the band a brand."
+   }
+  ]
+ },
+ {
+  "id": "ac-dc",
+  "years": "1973–present",
+  "origin": "Sydney, Australia",
+  "genres": [
+   "hard rock",
+   "blues rock",
+   "pub rock"
+  ],
+  "summary": "AC/DC play stripped-down, riff-driven hard rock with Angus Young's schoolboy outfit and energy. Back in Black is one of the best-selling albums in history.",
+  "know": [
+   "Founders Malcolm and Angus Young were born in Scotland.",
+   "Singer Bon Scott died in 1980, and Brian Johnson replaced him for Back in Black.",
+   "Back in Black has sold an estimated 50 million copies."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "High Voltage",
+    1976
+   ],
+   [
+    "Highway to Hell",
+    1979
+   ],
+   [
+    "Back in Black",
+    1980
+   ],
+   [
+    "For Those About to Rock We Salute You",
+    1981
+   ]
+  ],
+  "songs": [
+   "T.N.T.",
+   "Highway to Hell",
+   "Back in Black",
+   "You Shook Me All Night Long",
+   "Thunderstruck"
+  ],
+  "influencedBy": [
+   {
+    "id": "chuck-berry",
+    "why": "Angus Young copied Chuck Berry's duckwalk, and they covered School Days.",
+    "s": 3
+   },
+   {
+    "id": "little-richard",
+    "why": "Angus has named Little Richard among his biggest influences.",
+    "s": 3
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Malcolm Young said the early Stones' simple riff rock was a model.",
+    "s": 2
+   },
+   {
+    "id": "muddy-waters",
+    "why": "The Young brothers have named Muddy Waters among their blues influences.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "motorhead",
+    "why": "Both play loud, simple, unchanging riff music and never chased trends."
+   },
+   {
+    "id": "ramones",
+    "why": "Both stuck to one stripped-down formula their whole career."
+   }
+  ]
+ },
+ {
+  "id": "van-halen",
+  "years": "1972–2020",
+  "origin": "Pasadena, California",
+  "genres": [
+   "hard rock",
+   "heavy metal",
+   "glam metal"
+  ],
+  "summary": "Van Halen, led by guitarist Eddie Van Halen, changed rock guitar with two-handed tapping and a bright, loud sound. David Lee Roth's showmanship made them the biggest party band of the late 1970s and 1980s.",
+  "know": [
+   "Eddie Van Halen built his own Frankenstrat guitar from parts.",
+   "Eruption, a solo guitar piece, introduced his tapping style in 1978.",
+   "Their contract rider famously banned brown M&M's."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Van Halen",
+    1978
+   ],
+   [
+    "Van Halen II",
+    1979
+   ],
+   [
+    "Fair Warning",
+    1981
+   ],
+   [
+    "1984",
+    1984
+   ]
+  ],
+  "songs": [
+   "Eruption",
+   "Runnin' with the Devil",
+   "Ain't Talkin' 'bout Love",
+   "Jump",
+   "Panama"
+  ],
+  "influencedBy": [
+   {
+    "id": "eric-clapton",
+    "why": "Eddie Van Halen said he learned Clapton's solos note for note.",
+    "s": 3
+   },
+   {
+    "id": "cream",
+    "why": "Eddie named Cream's live recordings as the music he learned on.",
+    "s": 3
+   },
+   {
+    "id": "the-kinks",
+    "why": "Their first single was a cover of the Kinks' You Really Got Me.",
+    "s": 3
+   },
+   {
+    "id": "roy-orbison",
+    "why": "They covered Oh, Pretty Woman on Diver Down.",
+    "s": 3
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "Eddie's use of whammy bar and feedback built on Hendrix.",
+    "s": 2
+   },
+   {
+    "id": "led-zeppelin",
+    "why": "Their early club sets included Led Zeppelin covers.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "skrillex",
+    "why": "Both are technical showmen who redefined their instrument for a generation."
+   },
+   {
+    "id": "pantera",
+    "why": "Both are led by a guitar hero whose sound defined a style."
+   }
+  ]
+ },
+ {
+  "id": "steely-dan",
+  "years": "1972–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "jazz rock",
+   "soft rock",
+   "art pop"
+  ],
+  "summary": "Steely Dan, led by Walter Becker and Donald Fagen, made sleek, jazz-chord pop with cryptic, sarcastic lyrics. They used top studio musicians to chase near-perfect records.",
+  "know": [
+   "The band's name comes from William S. Burroughs's novel Naked Lunch.",
+   "Becker and Fagen met at Bard College in New York.",
+   "Aja won a Grammy for its engineering."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Can't Buy a Thrill",
+    1972
+   ],
+   [
+    "Pretzel Logic",
+    1974
+   ],
+   [
+    "Aja",
+    1977
+   ],
+   [
+    "Gaucho",
+    1980
+   ]
+  ],
+  "songs": [
+   "Do It Again",
+   "Reelin' in the Years",
+   "Rikki Don't Lose That Number",
+   "Deacon Blues",
+   "Peg"
+  ],
+  "influencedBy": [
+   {
+    "id": "duke-ellington",
+    "why": "They covered Ellington's East St. Louis Toodle-Oo on Pretzel Logic.",
+    "s": 3
+   },
+   {
+    "id": "charlie-parker",
+    "why": "Their song Parker's Band on Pretzel Logic is a tribute to Charlie Parker.",
+    "s": 3
+   },
+   {
+    "id": "miles-davis",
+    "why": "Fagen and Becker were jazz fans first, and Miles Davis-era chords run through their writing.",
+    "s": 2
+   },
+   {
+    "id": "ray-charles",
+    "why": "Fagen has named Ray Charles as a key influence on his singing and keyboard style.",
+    "s": 2
+   },
+   {
+    "id": "thelonious-monk",
+    "why": "Their unusual chord voicings draw on bebop pianists like Monk.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "robert-glasper",
+    "why": "Both put jazz harmony inside smooth, groove-based pop."
+   },
+   {
+    "id": "earth-wind-fire",
+    "why": "Both deliver polished, horn-touched records full of rich chords."
+   }
+  ]
+ },
+ {
+  "id": "big-star",
+  "years": "1971–1974, 1993–2010",
+  "origin": "Memphis, Tennessee",
+  "genres": [
+   "power pop",
+   "jangle pop",
+   "alternative rock"
+  ],
+  "summary": "Big Star, led by Alex Chilton and Chris Bell, made Beatles-inspired power pop that flopped at first but later influenced alternative rock. R.E.M. and the Replacements were among their fans.",
+  "know": [
+   "Alex Chilton had a number one hit as a teenager with the Box Tops' The Letter.",
+   "Their label's poor distribution kept their albums out of stores.",
+   "The Replacements wrote a song named Alex Chilton."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "#1 Record",
+    1972
+   ],
+   [
+    "Radio City",
+    1974
+   ],
+   [
+    "Third/Sister Lovers",
+    1978
+   ]
+  ],
+  "songs": [
+   "Thirteen",
+   "The Ballad of El Goodo",
+   "In the Street",
+   "September Gurls",
+   "Kangaroo"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "Chilton and Bell built their sound on the Beatles' melodic pop.",
+    "s": 3
+   },
+   {
+    "id": "the-byrds",
+    "why": "Their chiming guitars come straight from the Byrds.",
+    "s": 3
+   },
+   {
+    "id": "the-kinks",
+    "why": "They covered the Kinks' Till the End of the Day.",
+    "s": 3
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "They covered the Velvet Underground's Femme Fatale on Third.",
+    "s": 3
+   },
+   {
+    "id": "the-who",
+    "why": "Their heavier power-pop crunch draws on the Who.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "elliott-smith",
+    "why": "Both wrote fragile, melodic songs that found their audience after the fact."
+   },
+   {
+    "id": "nick-drake",
+    "why": "Both were commercial failures in their time who became cult favorites."
+   }
+  ]
+ },
+ {
+  "id": "roxy-music",
+  "years": "1971–1983",
+  "origin": "London, England",
+  "genres": [
+   "art rock",
+   "glam rock",
+   "art pop"
+  ],
+  "summary": "Roxy Music mixed Bryan Ferry's suave crooning with Brian Eno's synthesizer noise and art-school style. They moved from glam to the smooth sound of Avalon.",
+  "know": [
+   "Brian Eno played in the band for its first two albums.",
+   "Several members met at art school, and Ferry studied under Richard Hamilton.",
+   "Their album covers featured models posed like vintage pin-ups."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Roxy Music",
+    1972
+   ],
+   [
+    "For Your Pleasure",
+    1973
+   ],
+   [
+    "Country Life",
+    1974
+   ],
+   [
+    "Avalon",
+    1982
+   ]
+  ],
+  "songs": [
+   "Virginia Plain",
+   "Do the Strand",
+   "Love Is the Drug",
+   "More Than This",
+   "Avalon"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-velvet-underground",
+    "why": "Ferry and Eno both named the Velvet Underground as a key influence.",
+    "s": 3
+   },
+   {
+    "id": "lead-belly",
+    "why": "Bryan Ferry has said Lead Belly was his first musical hero.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Ferry covered Dylan's A Hard Rain's a-Gonna Fall and later made a whole album of Dylan songs.",
+    "s": 3
+   },
+   {
+    "id": "otis-redding",
+    "why": "Ferry has named Stax soul singers like Otis Redding as early favorites.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "depeche-mode",
+    "why": "Both pair stylish crooning with synthesizers."
+   },
+   {
+    "id": "frank-sinatra",
+    "why": "Both are suave, tuxedo-ready crooners."
+   }
+  ]
+ },
+ {
+  "id": "can",
+  "years": "1968–1979",
+  "origin": "Cologne, West Germany",
+  "genres": [
+   "krautrock",
+   "experimental rock",
+   "art rock"
+  ],
+  "summary": "Can built long, hypnotic songs from improvised group jams edited on tape. Their locked drum grooves influenced post-punk, electronic music and hip-hop.",
+  "know": [
+   "Two members, Holger Czukay and Irmin Schmidt, studied with composer Karlheinz Stockhausen.",
+   "Singer Damo Suzuki was recruited after they saw him busking in Munich.",
+   "Their song Spoon was a German hit as a TV crime-show theme."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Monster Movie",
+    1969
+   ],
+   [
+    "Tago Mago",
+    1971
+   ],
+   [
+    "Ege Bamyasi",
+    1972
+   ],
+   [
+    "Future Days",
+    1973
+   ]
+  ],
+  "songs": [
+   "Yoo Doo Right",
+   "Halleluhwah",
+   "Mother Sky",
+   "Vitamin C",
+   "Spoon"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-velvet-underground",
+    "why": "Holger Czukay and Irmin Schmidt named the Velvet Underground as a model for mixing rock with drone.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "Czukay said hearing I Am the Walrus convinced him to move into rock.",
+    "s": 3
+   },
+   {
+    "id": "james-brown",
+    "why": "Jaki Liebezeit's locked repetitive drumming draws on James Brown's funk.",
+    "s": 2
+   },
+   {
+    "id": "miles-davis",
+    "why": "Liebezeit came from free jazz, and the band's long improvisations follow late-1960s Miles Davis.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "fela-kuti",
+    "why": "Both stretch one hypnotic groove over long tracks."
+   },
+   {
+    "id": "lcd-soundsystem",
+    "why": "Both build songs on repetitive, motorik grooves."
+   }
+  ]
+ },
+ {
+  "id": "electric-light-orchestra",
+  "years": "1970–1986, 2014–present",
+  "origin": "Birmingham, England",
+  "genres": [
+   "symphonic rock",
+   "pop rock",
+   "art rock"
+  ],
+  "summary": "Electric Light Orchestra, led by Jeff Lynne, put string sections and big production on Beatles-style pop. They had dozens of hits in the 1970s.",
+  "know": [
+   "ELO grew out of the Move.",
+   "Mr. Blue Sky was written during a stay in the Swiss Alps.",
+   "Jeff Lynne later produced records for George Harrison, Paul McCartney and Tom Petty."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Eldorado",
+    1974
+   ],
+   [
+    "Face the Music",
+    1975
+   ],
+   [
+    "A New World Record",
+    1976
+   ],
+   [
+    "Out of the Blue",
+    1977
+   ]
+  ],
+  "songs": [
+   "Evil Woman",
+   "Livin' Thing",
+   "Telephone Line",
+   "Mr. Blue Sky",
+   "Don't Bring Me Down"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "Jeff Lynne said ELO meant to pick up where the Beatles' I Am the Walrus left off.",
+    "s": 3
+   },
+   {
+    "id": "chuck-berry",
+    "why": "They had an early hit with Chuck Berry's Roll Over Beethoven.",
+    "s": 3
+   },
+   {
+    "id": "roy-orbison",
+    "why": "Lynne idolized Orbison, produced his Mystery Girl and played with him in the Traveling Wilburys.",
+    "s": 3
+   },
+   {
+    "id": "the-beach-boys",
+    "why": "Their lush, layered vocal harmonies follow Brian Wilson's productions.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "abba",
+    "why": "Both made lush, studio-perfect 1970s pop."
+   },
+   {
+    "id": "daft-punk",
+    "why": "Both use vocoders and glossy production for feel-good grooves."
+   }
+  ]
+ },
+ {
+  "id": "eric-clapton",
+  "years": "1963–present",
+  "origin": "Ripley, England",
+  "genres": [
+   "blues rock",
+   "British blues",
+   "soft rock"
+  ],
+  "summary": "Eric Clapton played in the Yardbirds, John Mayall's Bluesbreakers and Cream before a long solo career. He helped make blues guitar central to rock.",
+  "know": [
+   "Graffiti in 1960s London read 'Clapton is God.'",
+   "Layla was written about Pattie Boyd, then married to George Harrison.",
+   "He is the only three-time inductee into the Rock and Roll Hall of Fame."
+  ],
+  "born": "03-30",
+  "keyAlbums": [
+   [
+    "Layla and Other Assorted Love Songs",
+    1970
+   ],
+   [
+    "461 Ocean Boulevard",
+    1974
+   ],
+   [
+    "Slowhand",
+    1977
+   ],
+   [
+    "Unplugged",
+    1992
+   ]
+  ],
+  "songs": [
+   "Layla",
+   "Cocaine",
+   "Wonderful Tonight",
+   "I Shot the Sheriff",
+   "Tears in Heaven"
+  ],
+  "influencedBy": [
+   {
+    "id": "robert-johnson",
+    "why": "He recorded a full album of Johnson songs, Me and Mr. Johnson, and called him the most important blues musician.",
+    "s": 3
+   },
+   {
+    "id": "bb-king",
+    "why": "He recorded Riding with the King with B.B. King in 2000.",
+    "s": 3
+   },
+   {
+    "id": "freddie-king",
+    "why": "He named Freddie King as a major early influence and toured with him.",
+    "s": 3
+   },
+   {
+    "id": "albert-king",
+    "why": "He named Albert King as a key influence on his string bending.",
+    "s": 3
+   },
+   {
+    "id": "muddy-waters",
+    "why": "He toured with Muddy Waters in 1979 and called him a father figure.",
+    "s": 3
+   },
+   {
+    "id": "buddy-guy",
+    "why": "He has called Buddy Guy the best guitar player alive.",
+    "s": 3
+   },
+   {
+    "id": "howlin-wolf",
+    "why": "He played on The London Howlin' Wolf Sessions in 1971.",
+    "s": 3
+   },
+   {
+    "id": "bob-marley",
+    "why": "He had a number one hit with Marley's I Shot the Sheriff.",
+    "s": 3
+   },
+   {
+    "id": "the-band",
+    "why": "He said Music from Big Pink made him want to leave Cream and play simpler music.",
+    "s": 3
+   },
+   {
+    "id": "the-allman-brothers",
+    "why": "Duane Allman played slide guitar on Layla.",
+    "s": 3
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "He has said Hendrix changed his sense of what the guitar could do.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "stevie-ray-vaughan",
+    "why": "Both are blues guitar heroes who brought the blues to rock audiences."
+   },
+   {
+    "id": "gary-clark-jr",
+    "why": "Both are guitar-first blues players with crossover reach."
+   }
+  ]
+ },
+ {
+  "id": "the-police",
+  "years": "1977–1986, 2007–2008",
+  "origin": "London, England",
+  "genres": [
+   "new wave",
+   "reggae rock",
+   "post-punk"
+  ],
+  "summary": "The Police combined punk energy, reggae rhythms and jazz skill in a trio of Sting, Andy Summers and Stewart Copeland. Synchronicity made them one of the biggest bands in the world in 1983.",
+  "know": [
+   "The band dyed their hair blond for a chewing-gum commercial.",
+   "Stewart Copeland's father was a CIA officer.",
+   "Every Breath You Take was the biggest U.S. hit of 1983."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Outlandos d'Amour",
+    1978
+   ],
+   [
+    "Reggatta de Blanc",
+    1979
+   ],
+   [
+    "Zenyatta Mondatta",
+    1980
+   ],
+   [
+    "Synchronicity",
+    1983
+   ]
+  ],
+  "songs": [
+   "Roxanne",
+   "Message in a Bottle",
+   "Walking on the Moon",
+   "Don't Stand So Close to Me",
+   "Every Breath You Take"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-marley",
+    "why": "Sting has named Bob Marley as the key influence on the band's reggae rhythms.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "Sting has called the Beatles his first songwriting model.",
+    "s": 2
+   },
+   {
+    "id": "miles-davis",
+    "why": "Sting played in jazz groups before the Police, and their tight trio playing shows that background.",
+    "s": 2
+   },
+   {
+    "id": "sex-pistols",
+    "why": "They started in London's 1977 punk scene with fast, stripped-down songs like Fall Out.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-specials",
+    "why": "Both mixed punk with Jamaican rhythms in late-1970s Britain."
+   },
+   {
+    "id": "vampire-weekend",
+    "why": "Both bring off-beat global rhythms into crisp, smart pop rock."
+   }
+  ]
+ },
+ {
+  "id": "elvis-costello",
+  "years": "1977–present",
+  "origin": "London, England",
+  "genres": [
+   "new wave",
+   "pub rock",
+   "power pop"
+  ],
+  "summary": "Elvis Costello came out of the British punk era with clever, angry songs and has since worked in country, soul, jazz and classical. He is one of rock's most versatile songwriters.",
+  "know": [
+   "His real name is Declan MacManus.",
+   "He was banned from Saturday Night Live for years after switching songs live in 1977.",
+   "He co-wrote songs with Paul McCartney and Burt Bacharach."
+  ],
+  "born": "08-25",
+  "keyAlbums": [
+   [
+    "My Aim Is True",
+    1977
+   ],
+   [
+    "This Year's Model",
+    1978
+   ],
+   [
+    "Armed Forces",
+    1979
+   ],
+   [
+    "Imperial Bedroom",
+    1982
+   ]
+  ],
+  "songs": [
+   "Alison",
+   "Watching the Detectives",
+   "Pump It Up",
+   "(What's So Funny 'Bout) Peace, Love and Understanding",
+   "Veronica"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "He has called the Beatles his first musical love and later wrote with Paul McCartney.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "He has named Dylan as a key songwriting influence.",
+    "s": 3
+   },
+   {
+    "id": "the-band",
+    "why": "He said Music from Big Pink changed his idea of what a band could be.",
+    "s": 3
+   },
+   {
+    "id": "gram-parsons",
+    "why": "He covered Gram Parsons's How Much I've Lied on Almost Blue.",
+    "s": 3
+   },
+   {
+    "id": "george-jones",
+    "why": "He covered George Jones's A Good Year for the Roses and later sang a duet with Jones.",
+    "s": 3
+   },
+   {
+    "id": "hank-williams",
+    "why": "He covered Hank Williams's Why Don't You Love Me on Almost Blue.",
+    "s": 3
+   },
+   {
+    "id": "merle-haggard",
+    "why": "He covered Haggard's Tonight the Bottle Let Me Down on Almost Blue.",
+    "s": 3
+   },
+   {
+    "id": "bob-marley",
+    "why": "Watching the Detectives uses the reggae rhythms he heard in late-1970s London.",
+    "s": 2
+   },
+   {
+    "id": "the-kinks",
+    "why": "His sharp, wordy British pop follows Ray Davies's model.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-smiths",
+    "why": "Both are witty, bitter British songwriters with a literary edge."
+   },
+   {
+    "id": "john-prine",
+    "why": "Both pack sharp wordplay and humor into tightly built songs."
+   }
+  ]
+ },
+ {
+  "id": "u2",
+  "years": "1976–present",
+  "origin": "Dublin, Ireland",
+  "genres": [
+   "post-punk",
+   "arena rock",
+   "alternative rock"
+  ],
+  "summary": "U2 grew from Dublin post-punk into one of the biggest bands in the world, known for The Edge's echoing guitar and Bono's soaring vocals and activism. The Joshua Tree and Achtung Baby are their landmarks.",
+  "know": [
+   "The four members formed the band at Mount Temple school in 1976.",
+   "They have won 22 Grammy Awards.",
+   "The Edge built his sound around delay effects."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "War",
+    1983
+   ],
+   [
+    "The Unforgettable Fire",
+    1984
+   ],
+   [
+    "The Joshua Tree",
+    1987
+   ],
+   [
+    "Achtung Baby",
+    1991
+   ]
+  ],
+  "songs": [
+   "Sunday Bloody Sunday",
+   "Pride (In the Name of Love)",
+   "With or Without You",
+   "I Still Haven't Found What I'm Looking For",
+   "One"
+  ],
+  "influencedBy": [
+   {
+    "id": "ramones",
+    "why": "Bono has said the Ramones made them believe they could be a band.",
+    "s": 3
+   },
+   {
+    "id": "the-clash",
+    "why": "The Edge said seeing the Clash in 1977 changed everything for them.",
+    "s": 3
+   },
+   {
+    "id": "patti-smith",
+    "why": "Bono and the Edge named Patti Smith's Horses as a key influence.",
+    "s": 3
+   },
+   {
+    "id": "television",
+    "why": "The Edge named Tom Verlaine of Television as an influence on his guitar.",
+    "s": 3
+   },
+   {
+    "id": "joy-division",
+    "why": "Joy Division's producer Martin Hannett produced their early single 11 O'Clock Tick Tock, and they cited Joy Division.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Bono met Dylan in 1984, and Dylan co-wrote and sang on Love Rescue Me.",
+    "s": 3
+   },
+   {
+    "id": "bb-king",
+    "why": "They recorded When Love Comes to Town with B.B. King.",
+    "s": 3
+   },
+   {
+    "id": "johnny-cash",
+    "why": "Johnny Cash sang lead on The Wanderer on Zooropa.",
+    "s": 3
+   },
+   {
+    "id": "roy-orbison",
+    "why": "Bono and the Edge wrote She's a Mystery to Me for Roy Orbison.",
+    "s": 3
+   },
+   {
+    "id": "brian-eno",
+    "why": "Brian Eno co-produced The Unforgettable Fire, The Joshua Tree and Achtung Baby.",
+    "s": 3
+   },
+   {
+    "id": "david-bowie",
+    "why": "They recorded Achtung Baby at Hansa Studios in Berlin, inspired by Bowie's work there.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "Bono has named John Lennon as a key influence.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "arcade-fire",
+    "why": "Both make huge, earnest anthems with a spiritual edge."
+   },
+   {
+    "id": "kendrick-lamar",
+    "why": "Both pair political and spiritual themes with stadium-size ambition."
+   }
+  ]
+ },
+ {
+  "id": "guns-n-roses",
+  "years": "1985–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "hard rock",
+   "heavy metal",
+   "sleaze rock"
+  ],
+  "summary": "Guns N' Roses brought a raw, dangerous edge back to hard rock in the late 1980s. Appetite for Destruction is the best-selling debut album in U.S. history.",
+  "know": [
+   "Appetite for Destruction has sold over 30 million copies.",
+   "Slash's guitar intro to Sweet Child o' Mine started as a warm-up exercise.",
+   "Axl Rose and Slash reunited for the Not in This Lifetime tour in 2016."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Appetite for Destruction",
+    1987
+   ],
+   [
+    "G N' R Lies",
+    1988
+   ],
+   [
+    "Use Your Illusion I",
+    1991
+   ],
+   [
+    "Use Your Illusion II",
+    1991
+   ]
+  ],
+  "songs": [
+   "Welcome to the Jungle",
+   "Sweet Child o' Mine",
+   "Paradise City",
+   "Patience",
+   "November Rain"
+  ],
+  "influencedBy": [
+   {
+    "id": "aerosmith",
+    "why": "Slash has said Aerosmith's Rocks made him want to play guitar.",
+    "s": 3
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Their bluesy, swaggering sound follows the Stones' model.",
+    "s": 2
+   },
+   {
+    "id": "led-zeppelin",
+    "why": "Slash named Jimmy Page as an early guitar influence.",
+    "s": 2
+   },
+   {
+    "id": "new-york-dolls",
+    "why": "They covered the New York Dolls' Human Being on The Spaghetti Incident?",
+    "s": 3
+   },
+   {
+    "id": "sex-pistols",
+    "why": "They covered the Sex Pistols' Black Leather on The Spaghetti Incident?",
+    "s": 3
+   },
+   {
+    "id": "elton-john",
+    "why": "Axl Rose named Elton John as an influence on November Rain and performed with him in 1992.",
+    "s": 3
+   },
+   {
+    "id": "queen",
+    "why": "Axl Rose has called Freddie Mercury a hero and played the Freddie Mercury Tribute Concert.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "They had a hit with Dylan's Knockin' on Heaven's Door.",
+    "s": 3
+   },
+   {
+    "id": "ac-dc",
+    "why": "Their hard-driving riffs draw on AC/DC, and Axl Rose later sang for AC/DC on tour.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "nwa",
+    "why": "Both had a dangerous, banned-from-the-radio Los Angeles image."
+   },
+   {
+    "id": "metallica",
+    "why": "Both were the defining heavy bands of the late 1980s."
+   }
+  ]
+ },
+ {
+  "id": "jeff-buckley",
+  "years": "1991–1997",
+  "origin": "Anaheim, California",
+  "genres": [
+   "alternative rock",
+   "art rock",
+   "singer-songwriter"
+  ],
+  "summary": "Jeff Buckley had a wide-ranging voice and made one studio album, Grace, before drowning at 30. His version of Leonard Cohen's Hallelujah became the best-known recording of the song.",
+  "know": [
+   "His father was folk singer Tim Buckley.",
+   "He drowned in the Wolf River in Memphis in 1997.",
+   "He built his following playing solo at the New York cafe Sin-é."
+  ],
+  "born": "11-17",
+  "keyAlbums": [
+   [
+    "Live at Sin-é",
+    1993
+   ],
+   [
+    "Grace",
+    1994
+   ],
+   [
+    "Sketches for My Sweetheart the Drunk",
+    1998
+   ]
+  ],
+  "songs": [
+   "Grace",
+   "Last Goodbye",
+   "Hallelujah",
+   "Lover, You Should've Come Over",
+   "Everybody Here Wants You"
+  ],
+  "influencedBy": [
+   {
+    "id": "leonard-cohen",
+    "why": "His cover of Cohen's Hallelujah is his best-known recording.",
+    "s": 3
+   },
+   {
+    "id": "led-zeppelin",
+    "why": "He named Led Zeppelin's Physical Graffiti as one of the first records that hooked him.",
+    "s": 3
+   },
+   {
+    "id": "nina-simone",
+    "why": "He covered Lilac Wine on Grace after hearing Nina Simone's version.",
+    "s": 3
+   },
+   {
+    "id": "billie-holiday",
+    "why": "He named Billie Holiday among the singers who shaped his phrasing.",
+    "s": 2
+   },
+   {
+    "id": "the-smiths",
+    "why": "He covered the Smiths' I Know It's Over in concert.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "He covered Dylan's If You See Her, Say Hello on Live at Sin-é.",
+    "s": 3
+   },
+   {
+    "id": "big-star",
+    "why": "He covered Big Star's Kanga Roo on Grace-era releases.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "radiohead",
+    "why": "Both pair a soaring falsetto with dramatic, layered rock."
+   },
+   {
+    "id": "bon-iver",
+    "why": "Both use a fragile high voice to carry raw emotion."
+   }
+  ]
+ },
+ {
+  "id": "the-black-crowes",
+  "years": "1989–present",
+  "origin": "Atlanta, Georgia",
+  "genres": [
+   "Southern rock",
+   "blues rock",
+   "hard rock"
+  ],
+  "summary": "The Black Crowes, led by brothers Chris and Rich Robinson, revived early 1970s Stones- and Faces-style rock in the grunge era. Their debut sold millions.",
+  "know": [
+   "Their cover of Otis Redding's Hard to Handle was their breakout hit.",
+   "They toured with Jimmy Page in 2000, playing Led Zeppelin songs.",
+   "The Robinson brothers have split and reunited several times."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Shake Your Money Maker",
+    1990
+   ],
+   [
+    "The Southern Harmony and Musical Companion",
+    1992
+   ],
+   [
+    "Amorica",
+    1994
+   ],
+   [
+    "Happiness Bastards",
+    2024
+   ]
+  ],
+  "songs": [
+   "Jealous Again",
+   "Hard to Handle",
+   "She Talks to Angels",
+   "Remedy",
+   "Thorn in My Pride"
+  ],
+  "influencedBy": [
+   {
+    "id": "otis-redding",
+    "why": "Their breakout hit was a cover of Otis Redding's Hard to Handle.",
+    "s": 3
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Their loose, bluesy rock is modeled on early 1970s Rolling Stones.",
+    "s": 2
+   },
+   {
+    "id": "the-allman-brothers",
+    "why": "Their long jams and Southern roots follow the Allman Brothers.",
+    "s": 2
+   },
+   {
+    "id": "led-zeppelin",
+    "why": "They backed Jimmy Page on a 2000 tour of Led Zeppelin songs, released as Live at the Greek.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "leon-bridges",
+    "why": "Both revive a classic sound with real feel instead of nostalgia."
+   },
+   {
+    "id": "sturgill-simpson",
+    "why": "Both are Southern retro-rooted acts with a rock edge."
+   }
+  ]
+ },
+ {
+  "id": "greta-van-fleet",
+  "years": "2012–present",
+  "origin": "Frankenmuth, Michigan",
+  "genres": [
+   "hard rock",
+   "blues rock",
+   "classic rock revival"
+  ],
+  "summary": "Greta Van Fleet are a Michigan band of three Kiszka brothers and a friend whose 1970s-style hard rock made them stars in their teens. Their sound is widely compared to Led Zeppelin.",
+  "know": [
+   "The band is named after Gretna Van Fleet, an elder of their hometown.",
+   "They won the Grammy for Best Rock Album in 2019 for From the Fires.",
+   "Josh, Jake and Sam Kiszka are brothers; Josh and Jake are twins."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "From the Fires",
+    2017
+   ],
+   [
+    "Anthem of the Peaceful Army",
+    2018
+   ],
+   [
+    "The Battle at Garden's Gate",
+    2021
+   ],
+   [
+    "Starcatcher",
+    2023
+   ]
+  ],
+  "songs": [
+   "Highway Tune",
+   "Safari Song",
+   "When the Curtain Falls",
+   "Heat Above",
+   "Meeting the Master"
+  ],
+  "influencedBy": [
+   {
+    "id": "led-zeppelin",
+    "why": "Robert Plant joked in 2018 that they 'are Led Zeppelin I,' and their riffs and Josh Kiszka's wail closely follow Zeppelin.",
+    "s": 2
+   },
+   {
+    "id": "sam-cooke",
+    "why": "They covered Sam Cooke's A Change Is Gonna Come on From the Fires.",
+    "s": 3
+   },
+   {
+    "id": "muddy-waters",
+    "why": "The Kiszka brothers have said they grew up on their father's blues records, and their riffs come from Chicago blues.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "leon-bridges",
+    "why": "Both are young acts reviving a classic sound."
+   },
+   {
+    "id": "ghost",
+    "why": "Both bring 1970s-style rock theater to a modern audience."
+   }
+  ]
+ }
+]

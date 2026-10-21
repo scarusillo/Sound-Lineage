@@ -1,0 +1,3540 @@
+[
+ {
+  "id": "carter-family",
+  "years": "1927–1956",
+  "origin": "Maces Spring, Virginia",
+  "genres": [
+   "old-time",
+   "early country",
+   "Appalachian folk",
+   "country gospel"
+  ],
+  "summary": "A family trio of A.P., Sara and Maybelle Carter whose recordings built the core songbook of country music. Maybelle's guitar playing became a standard technique for generations.",
+  "know": [
+   "They first recorded at the 1927 Bristol Sessions for producer Ralph Peer.",
+   "Maybelle Carter's thumb-led melody style became known as the Carter scratch.",
+   "A.P. Carter traveled through Appalachia collecting old songs, often with Black guitarist Lesley Riddle."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Anchored in Love: Their Complete Victor Recordings 1927–1928",
+    1993
+   ]
+  ],
+  "songs": [
+   "Wildwood Flower",
+   "Can the Circle Be Unbroken",
+   "Keep On the Sunny Side",
+   "Wabash Cannonball",
+   "I'm Thinking Tonight of My Blue Eyes"
+  ],
+  "influencedBy": [],
+  "cousins": [
+   {
+    "id": "charley-patton",
+    "why": "Among the first recordings to define a whole regional tradition, as the Carters did for country."
+   },
+   {
+    "id": "ma-rainey",
+    "why": "An early recording star who turned older folk material into a genre's foundation."
+   }
+  ]
+ },
+ {
+  "id": "jimmie-rodgers",
+  "years": "1927–1933",
+  "origin": "Meridian, Mississippi",
+  "genres": [
+   "early country",
+   "blue yodel",
+   "country blues"
+  ],
+  "summary": "Often called the Father of Country Music, Rodgers mixed hillbilly songs, blues and a trademark yodel into country's first solo star persona. His records shaped nearly every country singer of the next generation.",
+  "know": [
+   "He recorded his first sides at the 1927 Bristol Sessions, the same week as the Carter Family.",
+   "In 1930 he recorded \"Blue Yodel No. 9\" with Louis Armstrong on trumpet.",
+   "He was one of the first three inductees into the Country Music Hall of Fame in 1961."
+  ],
+  "born": "09-08",
+  "keyAlbums": [],
+  "songs": [
+   "Blue Yodel No. 1 (T for Texas)",
+   "Waiting for a Train",
+   "In the Jailhouse Now",
+   "Mule Skinner Blues",
+   "Blue Yodel No. 9"
+  ],
+  "influencedBy": [],
+  "cousins": [
+   {
+    "id": "robert-johnson",
+    "why": "A rambling singer who died young and left a small catalog that defined his genre."
+   },
+   {
+    "id": "bessie-smith",
+    "why": "The first big solo recording star of her genre, as Rodgers was for country."
+   }
+  ]
+ },
+ {
+  "id": "bob-wills",
+  "years": "1929–1973",
+  "origin": "Turkey, Texas",
+  "genres": [
+   "western swing",
+   "Texas fiddle",
+   "honky-tonk"
+  ],
+  "summary": "Bandleader of the Texas Playboys who fused fiddle music with jazz, blues and big band swing. He made country into dance music and brought drums and electric steel guitar into the genre.",
+  "know": [
+   "His trademark onstage holler was \"Ah-haaa!\"",
+   "He got his start with the Light Crust Doughboys in Fort Worth in the early 1930s.",
+   "Merle Haggard and Waylon Jennings both made records honoring him."
+  ],
+  "born": "03-06",
+  "keyAlbums": [
+   [
+    "For the Last Time",
+    1974
+   ]
+  ],
+  "songs": [
+   "New San Antonio Rose",
+   "Take Me Back to Tulsa",
+   "Faded Love",
+   "Stay a Little Longer",
+   "Ida Red"
+  ],
+  "influencedBy": [
+   {
+    "id": "bessie-smith",
+    "why": "Wills often told of riding about 50 miles on horseback to see Bessie Smith perform, and blues was a core part of his repertoire.",
+    "s": 3
+   },
+   {
+    "id": "jimmie-rodgers",
+    "why": "As a young performer Wills sang Jimmie Rodgers songs, and Rodgers' blend of blues and country was a model for his own.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "count-basie",
+    "why": "A swing bandleader whose job was keeping a dance floor full."
+   },
+   {
+    "id": "benny-goodman",
+    "why": "Led a big swing dance band that made his genre popular across America."
+   }
+  ]
+ },
+ {
+  "id": "bill-monroe",
+  "years": "1936–1996",
+  "origin": "Rosine, Kentucky",
+  "genres": [
+   "bluegrass",
+   "old-time",
+   "high lonesome"
+  ],
+  "summary": "Mandolinist and singer who created bluegrass with his Blue Grass Boys, the band that gave the genre its name. His fast, tight ensemble sound and high lonesome vocals set the template for the style.",
+  "know": [
+   "Bluegrass music is named after his band, the Blue Grass Boys.",
+   "Elvis Presley covered his \"Blue Moon of Kentucky\" on his first Sun single in 1954.",
+   "He learned from his fiddler uncle Pendleton Vandiver, the subject of \"Uncle Pen\", and Black blues guitarist Arnold Shultz."
+  ],
+  "born": "09-13",
+  "keyAlbums": [
+   [
+    "Knee Deep in Bluegrass",
+    1958
+   ],
+   [
+    "I Saw the Light",
+    1958
+   ]
+  ],
+  "songs": [
+   "Blue Moon of Kentucky",
+   "Uncle Pen",
+   "Footprints in the Snow",
+   "Molly and Tenbrooks",
+   "Kentucky Waltz"
+  ],
+  "influencedBy": [
+   {
+    "id": "jimmie-rodgers",
+    "why": "Monroe auditioned for the Grand Ole Opry in 1939 with Rodgers' \"Mule Skinner Blues\", and his early yodeling style drew on Rodgers.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "charlie-parker",
+    "why": "A virtuoso who invented a fast, demanding new language for his genre."
+   },
+   {
+    "id": "muddy-waters",
+    "why": "Built the definitive band sound of his genre and trained many of its later stars."
+   }
+  ]
+ },
+ {
+  "id": "hank-williams",
+  "years": "1937–1952",
+  "origin": "Mount Olive, Alabama",
+  "genres": [
+   "honky-tonk",
+   "country",
+   "country gospel"
+  ],
+  "summary": "The most influential songwriter in country music, whose plain, emotional songs about heartbreak became the genre's standard. He died at 29 but wrote much of the country canon.",
+  "know": [
+   "He died on January 1, 1953, in the back seat of his car on the way to a show.",
+   "He learned music as a boy from Black street singer Rufus \"Tee-Tot\" Payne.",
+   "He also recorded moral recitations under the alias Luke the Drifter."
+  ],
+  "born": "09-17",
+  "keyAlbums": [
+   [
+    "Moanin' the Blues",
+    1952
+   ],
+   [
+    "Memorial Album",
+    1953
+   ],
+   [
+    "Hank Williams Sings",
+    1951
+   ]
+  ],
+  "songs": [
+   "Your Cheatin' Heart",
+   "I'm So Lonesome I Could Cry",
+   "Hey, Good Lookin'",
+   "Lovesick Blues",
+   "I Saw the Light"
+  ],
+  "influencedBy": [
+   {
+    "id": "jimmie-rodgers",
+    "why": "Williams' blues-based songs and yodel breaks, as on \"Lovesick Blues\", follow the style Rodgers set.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "robert-johnson",
+    "why": "Died young and left songs that became the backbone of his genre."
+   },
+   {
+    "id": "billie-holiday",
+    "why": "A singer whose raw emotional delivery and troubled life became legend."
+   }
+  ]
+ },
+ {
+  "id": "woody-guthrie",
+  "years": "1931–1956",
+  "origin": "Okemah, Oklahoma",
+  "genres": [
+   "protest folk",
+   "dust bowl ballads",
+   "talking blues"
+  ],
+  "summary": "Songwriter who chronicled the Dust Bowl, migrant workers and labor struggles, and became the model for the American political folk singer. Bob Dylan and a whole folk revival grew from his work.",
+  "know": [
+   "His guitar carried a sign reading \"This machine kills fascists.\"",
+   "He wrote \"This Land Is Your Land\" in 1940 as a reply to \"God Bless America.\"",
+   "Huntington's disease ended his career in the 1950s, and he died in 1967."
+  ],
+  "born": "07-14",
+  "keyAlbums": [
+   [
+    "Dust Bowl Ballads",
+    1940
+   ]
+  ],
+  "songs": [
+   "This Land Is Your Land",
+   "Pastures of Plenty",
+   "Do Re Mi",
+   "Pretty Boy Floyd",
+   "Deportee (Plane Wreck at Los Gatos)"
+  ],
+  "influencedBy": [
+   {
+    "id": "carter-family",
+    "why": "He set many of his lyrics to Carter Family melodies; \"This Land Is Your Land\" borrows from their \"When the World's on Fire.\"",
+    "s": 2
+   },
+   {
+    "id": "jimmie-rodgers",
+    "why": "His early songs and singing followed the Jimmie Rodgers style popular in Texas and Oklahoma.",
+    "s": 2
+   },
+   {
+    "id": "lead-belly",
+    "why": "He became close friends with Lead Belly in New York and the two performed together.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "public-enemy",
+    "why": "Used songs as direct political commentary for working people."
+   },
+   {
+    "id": "bob-marley",
+    "why": "Wrote songs of struggle that became anthems for the dispossessed."
+   }
+  ]
+ },
+ {
+  "id": "lefty-frizzell",
+  "years": "1950–1975",
+  "origin": "Corsicana, Texas",
+  "genres": [
+   "honky-tonk",
+   "traditional country"
+  ],
+  "summary": "Honky-tonk singer whose smooth, rolling way of stretching syllables changed how country singers phrased a line. Haggard, Jones, Nelson and Strait all drew on him.",
+  "know": [
+   "In 1951 he had four songs in the country top 10 at the same time.",
+   "He was the first to record \"Long Black Veil\" in 1959.",
+   "He released a full album of Jimmie Rodgers songs in 1951."
+  ],
+  "born": "03-31",
+  "keyAlbums": [
+   [
+    "Listen to Lefty",
+    1952
+   ],
+   [
+    "Songs of Jimmie Rodgers",
+    1951
+   ],
+   [
+    "Saginaw, Michigan",
+    1964
+   ]
+  ],
+  "songs": [
+   "If You've Got the Money I've Got the Time",
+   "Always Late (With Your Kisses)",
+   "Long Black Veil",
+   "Saginaw, Michigan",
+   "I Love You a Thousand Ways"
+  ],
+  "influencedBy": [
+   {
+    "id": "jimmie-rodgers",
+    "why": "Rodgers was his boyhood idol, and he recorded a tribute album of Rodgers songs in 1951.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "sam-cooke",
+    "why": "A singer's singer whose phrasing other vocalists studied and copied."
+   },
+   {
+    "id": "frank-sinatra",
+    "why": "Set the standard for phrasing in his genre."
+   }
+  ]
+ },
+ {
+  "id": "patsy-cline",
+  "years": "1954–1963",
+  "origin": "Winchester, Virginia",
+  "genres": [
+   "Nashville sound",
+   "countrypolitan",
+   "honky-tonk"
+  ],
+  "summary": "A rich-voiced singer who brought country into pop with polished Nashville sound ballads. She remains one of the most admired vocalists in country history.",
+  "know": [
+   "She broke through by winning Arthur Godfrey's Talent Scouts in 1957 with \"Walkin' After Midnight.\"",
+   "\"Crazy\" was written by a young Willie Nelson.",
+   "She died in a plane crash in March 1963 at age 30."
+  ],
+  "born": "09-08",
+  "keyAlbums": [
+   [
+    "Patsy Cline Showcase",
+    1961
+   ],
+   [
+    "Sentimentally Yours",
+    1962
+   ],
+   [
+    "Patsy Cline's Greatest Hits",
+    1967
+   ]
+  ],
+  "songs": [
+   "Crazy",
+   "Walkin' After Midnight",
+   "I Fall to Pieces",
+   "She's Got You",
+   "Sweet Dreams"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-wills",
+    "why": "She recorded Wills songs including \"San Antonio Rose\" and \"Faded Love.\"",
+    "s": 2
+   },
+   {
+    "id": "hank-williams",
+    "why": "She recorded Hank Williams songs such as \"Lovesick Blues\" and \"Your Cheatin' Heart.\"",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "etta-james",
+    "why": "A powerhouse voice built for aching ballads."
+   },
+   {
+    "id": "adele",
+    "why": "A big, classic voice that crosses over to a mass pop audience."
+   }
+  ]
+ },
+ {
+  "id": "johnny-cash",
+  "years": "1954–2003",
+  "origin": "Kingsland, Arkansas",
+  "genres": [
+   "rockabilly",
+   "outlaw country",
+   "country folk",
+   "Americana"
+  ],
+  "summary": "The Man in Black, whose deep voice and boom-chicka-boom rhythm made him a figure in country, rock and folk alike. His prison concerts and late-career American Recordings kept him relevant for five decades.",
+  "know": [
+   "He started at Sun Records in Memphis in 1955 alongside Elvis Presley.",
+   "His 1968 album At Folsom Prison revived his career.",
+   "He married June Carter of the Carter Family in 1968."
+  ],
+  "born": "02-26",
+  "keyAlbums": [
+   [
+    "At Folsom Prison",
+    1968
+   ],
+   [
+    "At San Quentin",
+    1969
+   ],
+   [
+    "American Recordings",
+    1994
+   ],
+   [
+    "American IV: The Man Comes Around",
+    2002
+   ]
+  ],
+  "songs": [
+   "Folsom Prison Blues",
+   "I Walk the Line",
+   "Ring of Fire",
+   "Man in Black",
+   "Hurt"
+  ],
+  "influencedBy": [
+   {
+    "id": "carter-family",
+    "why": "He married June Carter, toured with Mother Maybelle and the Carter Sisters, and recorded Carter Family songs.",
+    "s": 3
+   },
+   {
+    "id": "hank-williams",
+    "why": "He recorded Hank Williams songs such as \"You Win Again\" and \"I Could Never Be Ashamed of You\" at Sun.",
+    "s": 3
+   },
+   {
+    "id": "jimmie-rodgers",
+    "why": "Rodgers' train songs and blue yodels were a clear model for Cash's early material.",
+    "s": 2
+   },
+   {
+    "id": "sister-rosetta-tharpe",
+    "why": "Cash named Sister Rosetta Tharpe as one of his favorite singers growing up.",
+    "s": 2
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Cash championed Dylan, recorded his songs like \"It Ain't Me Babe\", and duetted with him on Nashville Skyline.",
+    "s": 3
+   },
+   {
+    "id": "nine-inch-nails",
+    "why": "He covered \"Hurt\" in 2002, and Trent Reznor later said the song no longer felt like his.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bruce-springsteen",
+    "why": "Writes plainspoken stories about working people and outsiders."
+   },
+   {
+    "id": "howlin-wolf",
+    "why": "A huge, deep voice that carried authority and menace."
+   }
+  ]
+ },
+ {
+  "id": "pete-seeger",
+  "years": "1939–2014",
+  "origin": "New York, New York",
+  "genres": [
+   "folk revival",
+   "protest folk",
+   "banjo folk"
+  ],
+  "summary": "Banjo player, singer and activist who carried Woody Guthrie's tradition into the 1950s and 60s folk revival. He wrote or popularized many of the era's anthems.",
+  "know": [
+   "He was a member of the Almanac Singers with Woody Guthrie and later the Weavers.",
+   "He was blacklisted in the 1950s and convicted of contempt of Congress, a verdict later overturned.",
+   "The Byrds took his \"Turn! Turn! Turn!\" to number one in 1965."
+  ],
+  "born": "05-03",
+  "keyAlbums": [
+   [
+    "We Shall Overcome: The Complete Carnegie Hall Concert",
+    1963
+   ],
+   [
+    "American Favorite Ballads",
+    1957
+   ]
+  ],
+  "songs": [
+   "Where Have All the Flowers Gone?",
+   "If I Had a Hammer",
+   "Turn! Turn! Turn!",
+   "We Shall Overcome",
+   "Waist Deep in the Big Muddy"
+  ],
+  "influencedBy": [
+   {
+    "id": "woody-guthrie",
+    "why": "He traveled and performed with Guthrie, and they formed the Almanac Singers together.",
+    "s": 3
+   },
+   {
+    "id": "lead-belly",
+    "why": "He learned 12-string guitar from Lead Belly, and the Weavers' hit \"Goodnight, Irene\" was a Lead Belly song.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "krs-one",
+    "why": "A teacher-activist figure who treats music as education."
+   },
+   {
+    "id": "mahalia-jackson",
+    "why": "A voice of the civil rights movement who sang its songs at rallies."
+   }
+  ]
+ },
+ {
+  "id": "odetta",
+  "years": "1950–2008",
+  "origin": "Birmingham, Alabama",
+  "genres": [
+   "folk revival",
+   "folk blues",
+   "spirituals"
+  ],
+  "summary": "A singer with a powerful, classically trained voice who brought work songs, spirituals and blues to the folk revival. She inspired Dylan, Baez and a generation of folk singers.",
+  "know": [
+   "She sang at the 1963 March on Washington.",
+   "Bob Dylan said hearing her record was the first thing that turned him on to folk music.",
+   "Martin Luther King Jr. called her the queen of American folk music."
+  ],
+  "born": "12-31",
+  "keyAlbums": [
+   [
+    "Odetta Sings Ballads and Blues",
+    1956
+   ],
+   [
+    "At the Gate of Horn",
+    1957
+   ],
+   [
+    "Odetta Sings Dylan",
+    1965
+   ]
+  ],
+  "songs": [
+   "Take This Hammer",
+   "Water Boy",
+   "Oh Freedom",
+   "Another Man Done Gone",
+   "Muleskinner Blues"
+  ],
+  "influencedBy": [
+   {
+    "id": "lead-belly",
+    "why": "She recorded many songs from Lead Belly's repertoire, including \"Take This Hammer.\"",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "She recorded a full album of his songs, Odetta Sings Dylan, in 1965.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "nina-simone",
+    "why": "A deep, commanding voice tied to the civil rights movement."
+   },
+   {
+    "id": "mahalia-jackson",
+    "why": "A spiritual singer whose voice carried a movement."
+   }
+  ]
+ },
+ {
+  "id": "lonnie-donegan",
+  "years": "1952–2002",
+  "origin": "Glasgow, Scotland",
+  "genres": [
+   "skiffle",
+   "British folk",
+   "trad jazz"
+  ],
+  "summary": "The King of Skiffle, whose upbeat take on American folk and blues set off a do-it-yourself guitar craze in 1950s Britain. Many future British rock stars started in skiffle bands because of him.",
+  "know": [
+   "His 1955 recording of \"Rock Island Line\" was a hit in both the UK and the US.",
+   "John Lennon's first group, the Quarrymen, was a skiffle band inspired by him.",
+   "He took the name Lonnie from blues guitarist Lonnie Johnson."
+  ],
+  "born": "04-29",
+  "keyAlbums": [
+   [
+    "Lonnie Donegan Showcase",
+    1956
+   ]
+  ],
+  "songs": [
+   "Rock Island Line",
+   "Does Your Chewing Gum Lose Its Flavour (On the Bedpost Overnight?)",
+   "My Old Man's a Dustman",
+   "Cumberland Gap",
+   "Putting On the Style"
+  ],
+  "influencedBy": [
+   {
+    "id": "lead-belly",
+    "why": "His breakthrough \"Rock Island Line\" came from Lead Belly's version.",
+    "s": 3
+   },
+   {
+    "id": "woody-guthrie",
+    "why": "He recorded Guthrie songs such as \"Grand Coulee Dam.\"",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "ramones",
+    "why": "Made a generation believe anyone could pick up a guitar and start a band."
+   },
+   {
+    "id": "dj-kool-herc",
+    "why": "Sparked a youth movement that grew into a whole scene."
+   }
+  ]
+ },
+ {
+  "id": "buck-owens",
+  "years": "1955–2006",
+  "origin": "Sherman, Texas",
+  "genres": [
+   "Bakersfield sound",
+   "honky-tonk",
+   "country rock"
+  ],
+  "summary": "Leader of the Buckaroos and the main star of the Bakersfield sound, a twangy, electric answer to polished Nashville. He scored a long run of number-one country hits in the 1960s.",
+  "know": [
+   "The Beatles covered his \"Act Naturally\" in 1965.",
+   "He co-hosted the TV show Hee Haw starting in 1969.",
+   "His 1988 duet with Dwight Yoakam, \"Streets of Bakersfield\", went to number one."
+  ],
+  "born": "08-12",
+  "keyAlbums": [
+   [
+    "Together Again / My Heart Skips a Beat",
+    1964
+   ],
+   [
+    "I've Got a Tiger by the Tail",
+    1965
+   ],
+   [
+    "Carnegie Hall Concert",
+    1966
+   ]
+  ],
+  "songs": [
+   "Act Naturally",
+   "Together Again",
+   "I've Got a Tiger by the Tail",
+   "Love's Gonna Live Here",
+   "Streets of Bakersfield"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-wills",
+    "why": "He grew up on Bob Wills and western swing, which shaped the dance-hall drive of the Bakersfield sound.",
+    "s": 2
+   },
+   {
+    "id": "chuck-berry",
+    "why": "He recorded Berry's \"Johnny B. Goode\" and had a hit with it in 1969.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "creedence",
+    "why": "A lean, twangy band built on short, catchy hits."
+   },
+   {
+    "id": "booker-t",
+    "why": "A tight house-band sound that defined a regional style."
+   }
+  ]
+ },
+ {
+  "id": "merle-haggard",
+  "years": "1962–2016",
+  "origin": "Oildale, California",
+  "genres": [
+   "Bakersfield sound",
+   "outlaw country",
+   "honky-tonk"
+  ],
+  "summary": "Singer-songwriter who turned his rough youth and prison time into some of country's most direct songs about working people. With Buck Owens he defined the Bakersfield sound.",
+  "know": [
+   "He saw Johnny Cash play San Quentin in 1958 while he was an inmate there.",
+   "Governor Ronald Reagan granted him a full pardon in 1972.",
+   "His backing band was called the Strangers."
+  ],
+  "born": "04-06",
+  "keyAlbums": [
+   [
+    "Mama Tried",
+    1968
+   ],
+   [
+    "Same Train, a Different Time",
+    1969
+   ],
+   [
+    "A Tribute to the Best Damn Fiddle Player in the World",
+    1970
+   ],
+   [
+    "Serving 190 Proof",
+    1979
+   ]
+  ],
+  "songs": [
+   "Mama Tried",
+   "Okie from Muskogee",
+   "Sing Me Back Home",
+   "Workin' Man Blues",
+   "Today I Started Loving You Again"
+  ],
+  "influencedBy": [
+   {
+    "id": "lefty-frizzell",
+    "why": "Frizzell was his early idol, and Haggard's first singing closely copied Lefty's phrasing.",
+    "s": 3
+   },
+   {
+    "id": "jimmie-rodgers",
+    "why": "He recorded a double album tribute to Rodgers, Same Train, a Different Time.",
+    "s": 3
+   },
+   {
+    "id": "bob-wills",
+    "why": "He learned fiddle to honor Wills and recorded a tribute album with former Texas Playboys.",
+    "s": 3
+   },
+   {
+    "id": "johnny-cash",
+    "why": "He said seeing Cash's 1958 San Quentin show inspired him to pursue music.",
+    "s": 3
+   },
+   {
+    "id": "hank-williams",
+    "why": "Williams' plainspoken songwriting is a clear model for Haggard's own.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bruce-springsteen",
+    "why": "Writes about working-class life from the inside."
+   },
+   {
+    "id": "bill-withers",
+    "why": "A plainspoken songwriter about ordinary working people."
+   }
+  ]
+ },
+ {
+  "id": "george-jones",
+  "years": "1954–2013",
+  "origin": "Saratoga, Texas",
+  "genres": [
+   "honky-tonk",
+   "hard country",
+   "countrypolitan"
+  ],
+  "summary": "Widely considered the greatest voice in country music, known for bending notes to wring out every bit of heartbreak. His career ran from 1950s honky-tonk to 1980s classics.",
+  "know": [
+   "His nickname was \"the Possum.\"",
+   "He was married to Tammy Wynette from 1969 to 1975 and they recorded many duets.",
+   "\"He Stopped Loving Her Today\" (1980) is often named the greatest country song ever."
+  ],
+  "born": "09-12",
+  "keyAlbums": [
+   [
+    "George Jones Salutes Hank Williams",
+    1960
+   ],
+   [
+    "The Race Is On",
+    1965
+   ],
+   [
+    "The Grand Tour",
+    1974
+   ],
+   [
+    "I Am What I Am",
+    1980
+   ]
+  ],
+  "songs": [
+   "He Stopped Loving Her Today",
+   "White Lightning",
+   "The Grand Tour",
+   "She Thinks I Still Care",
+   "The Race Is On"
+  ],
+  "influencedBy": [
+   {
+    "id": "hank-williams",
+    "why": "Williams was his idol, and he recorded the tribute album George Jones Salutes Hank Williams in 1960.",
+    "s": 3
+   },
+   {
+    "id": "lefty-frizzell",
+    "why": "His bending, stretched vocal phrasing draws on Frizzell's style.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "otis-redding",
+    "why": "A singer who pours raw ache into every line."
+   },
+   {
+    "id": "frank-sinatra",
+    "why": "A singer other singers point to as the best interpreter of a song."
+   }
+  ]
+ },
+ {
+  "id": "loretta-lynn",
+  "years": "1960–2022",
+  "origin": "Butcher Hollow, Kentucky",
+  "genres": [
+   "honky-tonk",
+   "traditional country",
+   "Americana"
+  ],
+  "summary": "Coal miner's daughter who wrote frank songs about women's real lives: marriage, cheating husbands and birth control. She became one of country's most important songwriters.",
+  "know": [
+   "Several of her songs, including \"The Pill\", were banned by some radio stations.",
+   "Her mentor and close friend was Patsy Cline.",
+   "Her 2004 album Van Lear Rose, produced by Jack White, won a Grammy."
+  ],
+  "born": "04-14",
+  "keyAlbums": [
+   [
+    "Don't Come Home A-Drinkin' (With Lovin' on Your Mind)",
+    1967
+   ],
+   [
+    "Fist City",
+    1968
+   ],
+   [
+    "Coal Miner's Daughter",
+    1971
+   ],
+   [
+    "Van Lear Rose",
+    2004
+   ]
+  ],
+  "songs": [
+   "Coal Miner's Daughter",
+   "You Ain't Woman Enough",
+   "Fist City",
+   "The Pill",
+   "Don't Come Home A-Drinkin' (With Lovin' on Your Mind)"
+  ],
+  "influencedBy": [
+   {
+    "id": "patsy-cline",
+    "why": "Cline mentored her early in Nashville, and Lynn recorded the tribute album I Remember Patsy in 1977.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "aretha-franklin",
+    "why": "Sang bluntly about respect and women's lives."
+   },
+   {
+    "id": "carole-king",
+    "why": "A woman songwriter writing from her own experience."
+   }
+  ]
+ },
+ {
+  "id": "dolly-parton",
+  "years": "1959–present",
+  "origin": "Sevierville, Tennessee",
+  "genres": [
+   "country pop",
+   "Appalachian country",
+   "bluegrass"
+  ],
+  "summary": "Singer, songwriter and entertainer who rose from the Smoky Mountains to global stardom. She wrote classics like \"Jolene\" and \"I Will Always Love You\" and became a pop culture icon.",
+  "know": [
+   "She has said she wrote \"Jolene\" and \"I Will Always Love You\" on the same day.",
+   "She started on The Porter Wagoner Show in 1967.",
+   "Her Imagination Library gives free books to children around the world."
+  ],
+  "born": "01-19",
+  "keyAlbums": [
+   [
+    "Coat of Many Colors",
+    1971
+   ],
+   [
+    "Jolene",
+    1974
+   ],
+   [
+    "Trio",
+    1987
+   ],
+   [
+    "The Grass Is Blue",
+    1999
+   ]
+  ],
+  "songs": [
+   "Jolene",
+   "I Will Always Love You",
+   "Coat of Many Colors",
+   "9 to 5",
+   "Here You Come Again"
+  ],
+  "influencedBy": [
+   {
+    "id": "jimmie-rodgers",
+    "why": "She had a hit in 1970 with his \"Mule Skinner Blues.\"",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "whitney-houston",
+    "why": "A huge voice that became a pop phenomenon, and she made Dolly's song a global hit."
+   },
+   {
+    "id": "beyonce",
+    "why": "An entertainer who built an empire on her own terms."
+   }
+  ]
+ },
+ {
+  "id": "gram-parsons",
+  "years": "1963–1973",
+  "origin": "Winter Haven, Florida",
+  "genres": [
+   "country rock",
+   "cosmic American music",
+   "honky-tonk"
+  ],
+  "summary": "Pioneer of country rock who pulled the Byrds toward country and formed the Flying Burrito Brothers. He died at 26, but his blend of rock and classic country shaped Americana.",
+  "know": [
+   "He joined the Byrds in 1968 and steered them to make Sweetheart of the Rodeo.",
+   "He introduced Emmylou Harris to a wide audience as his duet partner.",
+   "He died in 1973 near Joshua Tree, and friends stole his body to cremate it in the desert."
+  ],
+  "born": "11-05",
+  "keyAlbums": [
+   [
+    "The Gilded Palace of Sin",
+    1969
+   ],
+   [
+    "GP",
+    1973
+   ],
+   [
+    "Grievous Angel",
+    1974
+   ]
+  ],
+  "songs": [
+   "Hickory Wind",
+   "Return of the Grievous Angel",
+   "$1000 Wedding",
+   "Sin City",
+   "Love Hurts"
+  ],
+  "influencedBy": [
+   {
+    "id": "elvis-presley",
+    "why": "Seeing Elvis perform in Waycross, Georgia in 1956 sparked his interest in music.",
+    "s": 3
+   },
+   {
+    "id": "merle-haggard",
+    "why": "He was a Haggard devotee and brought \"Life in Prison\" to the Byrds' Sweetheart of the Rodeo.",
+    "s": 3
+   },
+   {
+    "id": "george-jones",
+    "why": "He covered Jones' \"That's All It Took\" with Emmylou Harris on GP.",
+    "s": 3
+   },
+   {
+    "id": "everly-brothers",
+    "why": "His harmonies with Emmylou drew on the Everlys, and they covered \"Love Hurts.\"",
+    "s": 2
+   },
+   {
+    "id": "buck-owens",
+    "why": "The Burritos' twangy electric sound draws on the Bakersfield style of Owens.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "big-star",
+    "why": "A cult act that sold little but shaped later generations."
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "Influence far bigger than its sales."
+   },
+   {
+    "id": "jeff-buckley",
+    "why": "A gifted artist who died young with a small, revered catalog."
+   }
+  ]
+ },
+ {
+  "id": "joan-baez",
+  "years": "1959–2019",
+  "origin": "Staten Island, New York",
+  "genres": [
+   "folk revival",
+   "protest folk",
+   "traditional ballads"
+  ],
+  "summary": "Soprano who became the leading voice of the early 1960s folk revival and a lifelong activist. She helped introduce Bob Dylan to a wide audience.",
+  "know": [
+   "Her breakthrough came at the 1959 Newport Folk Festival.",
+   "She brought a young Bob Dylan on stage during her tours.",
+   "She sang at both the 1963 March on Washington and Woodstock."
+  ],
+  "born": "01-09",
+  "keyAlbums": [
+   [
+    "Joan Baez",
+    1960
+   ],
+   [
+    "Joan Baez in Concert",
+    1962
+   ],
+   [
+    "Any Day Now",
+    1968
+   ],
+   [
+    "Diamonds & Rust",
+    1975
+   ]
+  ],
+  "songs": [
+   "Diamonds & Rust",
+   "The Night They Drove Old Dixie Down",
+   "We Shall Overcome",
+   "Silver Dagger",
+   "House of the Rising Sun"
+  ],
+  "influencedBy": [
+   {
+    "id": "odetta",
+    "why": "Baez has named Odetta as a key early influence.",
+    "s": 3
+   },
+   {
+    "id": "pete-seeger",
+    "why": "Seeger's mix of traditional song and activism was the model for her career.",
+    "s": 2
+   },
+   {
+    "id": "bob-dylan",
+    "why": "She recorded a double album of his songs, Any Day Now.",
+    "s": 3
+   },
+   {
+    "id": "the-band",
+    "why": "She had a hit covering their \"The Night They Drove Old Dixie Down.\"",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "nina-simone",
+    "why": "A singer whose music was bound up with civil rights."
+   },
+   {
+    "id": "mahalia-jackson",
+    "why": "A pure voice that became a symbol of a movement."
+   }
+  ]
+ },
+ {
+  "id": "bob-dylan",
+  "years": "1961–present",
+  "origin": "Duluth, Minnesota",
+  "genres": [
+   "folk rock",
+   "protest folk",
+   "singer-songwriter",
+   "Americana"
+  ],
+  "summary": "The most influential songwriter of the rock era, who brought literary lyrics into popular music. He moved from protest folk to electric rock and kept reinventing himself for six decades.",
+  "know": [
+   "He won the Nobel Prize in Literature in 2016.",
+   "He went electric at the 1965 Newport Folk Festival, angering many folk fans.",
+   "He visited the ailing Woody Guthrie in a New Jersey hospital in 1961."
+  ],
+  "born": "05-24",
+  "keyAlbums": [
+   [
+    "The Freewheelin' Bob Dylan",
+    1963
+   ],
+   [
+    "Highway 61 Revisited",
+    1965
+   ],
+   [
+    "Blonde on Blonde",
+    1966
+   ],
+   [
+    "Blood on the Tracks",
+    1975
+   ]
+  ],
+  "songs": [
+   "Like a Rolling Stone",
+   "Blowin' in the Wind",
+   "The Times They Are a-Changin'",
+   "Tangled Up in Blue",
+   "Subterranean Homesick Blues"
+  ],
+  "influencedBy": [
+   {
+    "id": "woody-guthrie",
+    "why": "Guthrie was his first great hero; he wrote \"Song to Woody\" and visited him in hospital.",
+    "s": 3
+   },
+   {
+    "id": "hank-williams",
+    "why": "In Chronicles he wrote that Hank Williams' songs taught him the rules of songwriting.",
+    "s": 3
+   },
+   {
+    "id": "little-richard",
+    "why": "His high school yearbook said his ambition was to join Little Richard.",
+    "s": 3
+   },
+   {
+    "id": "buddy-holly",
+    "why": "In his Nobel lecture he described seeing Holly in Duluth days before Holly died.",
+    "s": 3
+   },
+   {
+    "id": "odetta",
+    "why": "He said hearing an Odetta record was the first thing that turned him on to folk singing.",
+    "s": 3
+   },
+   {
+    "id": "robert-johnson",
+    "why": "In Chronicles he described being stunned by Robert Johnson's King of the Delta Blues Singers.",
+    "s": 3
+   },
+   {
+    "id": "jimmie-rodgers",
+    "why": "He organized and released a 1997 tribute album to Rodgers.",
+    "s": 3
+   },
+   {
+    "id": "lead-belly",
+    "why": "He has cited Lead Belly as an early doorway into folk and blues.",
+    "s": 2
+   },
+   {
+    "id": "pete-seeger",
+    "why": "Seeger was a mentor figure in the Greenwich Village folk scene that launched him.",
+    "s": 2
+   },
+   {
+    "id": "carter-family",
+    "why": "He drew on Carter Family songs and melodies throughout his folk years.",
+    "s": 2
+   },
+   {
+    "id": "elvis-presley",
+    "why": "He has said hearing Elvis felt like busting out of jail.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "He said the Beatles' chords were outrageous and that they pointed to where music had to go.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "kendrick-lamar",
+    "why": "A Pulitzer-winning writer who treats lyrics as literature."
+   },
+   {
+    "id": "patti-smith",
+    "why": "A poet who brought literary ambition to rock."
+   }
+  ]
+ },
+ {
+  "id": "simon-garfunkel",
+  "years": "1964–1970",
+  "origin": "Queens, New York",
+  "genres": [
+   "folk rock",
+   "soft rock",
+   "baroque pop"
+  ],
+  "summary": "Duo of songwriter Paul Simon and singer Art Garfunkel whose close harmonies and literate songs made them the best-selling folk rock act of the 1960s.",
+  "know": [
+   "They first recorded as Tom & Jerry in 1957.",
+   "Producer Tom Wilson added electric instruments to \"The Sound of Silence\" without telling them, and it went to number one.",
+   "Their 1981 free concert in Central Park drew around half a million people."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Sounds of Silence",
+    1966
+   ],
+   [
+    "Parsley, Sage, Rosemary and Thyme",
+    1966
+   ],
+   [
+    "Bookends",
+    1968
+   ],
+   [
+    "Bridge over Troubled Water",
+    1970
+   ]
+  ],
+  "songs": [
+   "The Sound of Silence",
+   "Mrs. Robinson",
+   "Bridge over Troubled Water",
+   "The Boxer",
+   "America"
+  ],
+  "influencedBy": [
+   {
+    "id": "everly-brothers",
+    "why": "They modeled their harmonies on the Everlys and covered \"Bye Bye Love\" on Bridge over Troubled Water.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Their debut album included a cover of \"The Times They Are a-Changin'.\"",
+    "s": 3
+   },
+   {
+    "id": "elvis-presley",
+    "why": "Paul Simon has said early rock and roll like Elvis drew him to music.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-beach-boys",
+    "why": "Built on tight vocal harmonies and carefully crafted songs."
+   },
+   {
+    "id": "bee-gees",
+    "why": "A harmony group with a songwriter's ear."
+   }
+  ]
+ },
+ {
+  "id": "joni-mitchell",
+  "years": "1964–present",
+  "origin": "Fort Macleod, Alberta, Canada",
+  "genres": [
+   "singer-songwriter",
+   "Laurel Canyon folk",
+   "jazz folk"
+  ],
+  "summary": "Canadian singer-songwriter known for confessional lyrics, unusual open guitar tunings and a later move into jazz. Blue is often called one of the greatest albums ever made.",
+  "know": [
+   "Childhood polio weakened her left hand, which led her to invent dozens of open tunings.",
+   "Her 1979 album Mingus was a collaboration with Charles Mingus near the end of his life.",
+   "After a 2015 brain aneurysm she made a surprise return at the 2022 Newport Folk Festival."
+  ],
+  "born": "11-07",
+  "keyAlbums": [
+   [
+    "Blue",
+    1971
+   ],
+   [
+    "Court and Spark",
+    1974
+   ],
+   [
+    "The Hissing of Summer Lawns",
+    1975
+   ],
+   [
+    "Hejira",
+    1976
+   ]
+  ],
+  "songs": [
+   "Both Sides, Now",
+   "A Case of You",
+   "Big Yellow Taxi",
+   "River",
+   "Woodstock"
+  ],
+  "influencedBy": [
+   {
+    "id": "charles-mingus",
+    "why": "She collaborated with Mingus on the album Mingus, setting lyrics to his music.",
+    "s": 3
+   },
+   {
+    "id": "miles-davis",
+    "why": "She has named Miles Davis as a major influence on her jazz direction.",
+    "s": 2
+   },
+   {
+    "id": "bob-dylan",
+    "why": "She has said Dylan showed her that songs could be personal poetry.",
+    "s": 2
+   },
+   {
+    "id": "leonard-cohen",
+    "why": "She has said Cohen's writing influenced her early songs.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "kate-bush",
+    "why": "A singular woman artist who writes, arranges and follows her own path."
+   },
+   {
+    "id": "bjork",
+    "why": "An experimental songwriter who never stayed in one genre."
+   }
+  ]
+ },
+ {
+  "id": "leonard-cohen",
+  "years": "1967–2016",
+  "origin": "Montreal, Quebec, Canada",
+  "genres": [
+   "singer-songwriter",
+   "chamber folk",
+   "poetic folk"
+  ],
+  "summary": "Canadian poet and novelist who became a singer at 33 and wrote dark, spiritual songs about love and faith. \"Hallelujah\" became one of the most covered songs ever.",
+  "know": [
+   "He published poetry and novels before releasing his first album.",
+   "He lived at a Zen monastery on Mount Baldy in the 1990s.",
+   "After his manager took his savings, he toured the world from 2008 to 2013 to great acclaim."
+  ],
+  "born": "09-21",
+  "keyAlbums": [
+   [
+    "Songs of Leonard Cohen",
+    1967
+   ],
+   [
+    "Songs of Love and Hate",
+    1971
+   ],
+   [
+    "I'm Your Man",
+    1988
+   ],
+   [
+    "You Want It Darker",
+    2016
+   ]
+  ],
+  "songs": [
+   "Suzanne",
+   "Hallelujah",
+   "So Long, Marianne",
+   "Famous Blue Raincoat",
+   "Bird on the Wire"
+  ],
+  "influencedBy": [
+   {
+    "id": "hank-williams",
+    "why": "He admired Williams and wrote him into \"Tower of Song.\"",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-national",
+    "why": "Low baritone vocals and literate, melancholy songs."
+   },
+   {
+    "id": "lana-del-rey",
+    "why": "Slow, dark songs about love and longing."
+   }
+  ]
+ },
+ {
+  "id": "nick-drake",
+  "years": "1967–1974",
+  "origin": "Tanworth-in-Arden, England",
+  "genres": [
+   "British folk",
+   "chamber folk",
+   "baroque folk"
+  ],
+  "summary": "English singer-songwriter whose quiet, intricate guitar songs sold poorly in his lifetime but became hugely influential after his death.",
+  "know": [
+   "None of his three albums sold more than a few thousand copies while he was alive.",
+   "He died in 1974 at age 26.",
+   "A 2000 Volkswagen ad using \"Pink Moon\" brought him a new audience."
+  ],
+  "born": "06-19",
+  "keyAlbums": [
+   [
+    "Five Leaves Left",
+    1969
+   ],
+   [
+    "Bryter Layter",
+    1971
+   ],
+   [
+    "Pink Moon",
+    1972
+   ]
+  ],
+  "songs": [
+   "Pink Moon",
+   "River Man",
+   "Northern Sky",
+   "Place to Be",
+   "Cello Song"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-dylan",
+    "why": "He played Dylan songs early on, and biographers note Dylan's influence on his move to writing.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "jeff-buckley",
+    "why": "A gifted voice with a small catalog who died young."
+   },
+   {
+    "id": "big-star",
+    "why": "Overlooked in its time, revered later."
+   }
+  ]
+ },
+ {
+  "id": "crosby-stills-nash",
+  "years": "1968–2015",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "folk rock",
+   "Laurel Canyon folk",
+   "soft rock"
+  ],
+  "summary": "Supergroup of David Crosby, Stephen Stills and Graham Nash, known for three-part harmonies. Sometimes joined by Neil Young, they defined the Laurel Canyon sound.",
+  "know": [
+   "The members came from the Byrds, Buffalo Springfield and the Hollies.",
+   "Woodstock in 1969 was only their second live show.",
+   "They won the Grammy for Best New Artist in 1970."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Crosby, Stills & Nash",
+    1969
+   ],
+   [
+    "Déjà Vu",
+    1970
+   ],
+   [
+    "4 Way Street",
+    1971
+   ],
+   [
+    "CSN",
+    1977
+   ]
+  ],
+  "songs": [
+   "Suite: Judy Blue Eyes",
+   "Teach Your Children",
+   "Ohio",
+   "Woodstock",
+   "Marrakesh Express"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-byrds",
+    "why": "David Crosby was a founding member of the Byrds, whose folk rock they built on.",
+    "s": 3
+   },
+   {
+    "id": "everly-brothers",
+    "why": "The Everlys' close harmonies were a model for Nash's Hollies and for CSN.",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "The Beatles' harmonies and studio craft shaped their approach.",
+    "s": 2
+   },
+   {
+    "id": "joni-mitchell",
+    "why": "They recorded her song \"Woodstock\" for Déjà Vu.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "eagles",
+    "why": "West Coast harmony rock."
+   },
+   {
+    "id": "fleetwood-mac",
+    "why": "California soft rock built on multiple songwriters and harmonies."
+   }
+  ]
+ },
+ {
+  "id": "willie-nelson",
+  "years": "1956–present",
+  "origin": "Abbott, Texas",
+  "genres": [
+   "outlaw country",
+   "Texas country",
+   "country"
+  ],
+  "summary": "Songwriter and singer who wrote hits for others in Nashville, then led the outlaw country movement from Texas. His jazzy phrasing and battered guitar Trigger are instantly recognizable.",
+  "know": [
+   "He wrote \"Crazy\" for Patsy Cline and \"Hello Walls\" for Faron Young.",
+   "He co-founded Farm Aid in 1985.",
+   "His Martin guitar is named Trigger."
+  ],
+  "born": "04-29",
+  "keyAlbums": [
+   [
+    "Shotgun Willie",
+    1973
+   ],
+   [
+    "Red Headed Stranger",
+    1975
+   ],
+   [
+    "Stardust",
+    1978
+   ],
+   [
+    "To Lefty from Willie",
+    1977
+   ]
+  ],
+  "songs": [
+   "On the Road Again",
+   "Blue Eyes Crying in the Rain",
+   "Always on My Mind",
+   "Whiskey River",
+   "Crazy"
+  ],
+  "influencedBy": [
+   {
+    "id": "django-reinhardt",
+    "why": "He has called Django Reinhardt his favorite guitarist, and his solos borrow from Gypsy jazz.",
+    "s": 3
+   },
+   {
+    "id": "frank-sinatra",
+    "why": "He has said Sinatra taught him phrasing and recorded the tribute My Way in 2018.",
+    "s": 3
+   },
+   {
+    "id": "lefty-frizzell",
+    "why": "He recorded a full tribute album, To Lefty from Willie, in 1977.",
+    "s": 3
+   },
+   {
+    "id": "bob-wills",
+    "why": "He grew up on Bob Wills and later recorded a western swing album with Asleep at the Wheel.",
+    "s": 2
+   },
+   {
+    "id": "hank-williams",
+    "why": "He has often named Williams as a key songwriting influence.",
+    "s": 2
+   },
+   {
+    "id": "ray-charles",
+    "why": "He admired Ray Charles' blend of country and soul, and they duetted on \"Seven Spanish Angels.\"",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bob-marley",
+    "why": "A laid-back elder statesman beloved across generations."
+   },
+   {
+    "id": "snoop-dogg",
+    "why": "A relaxed icon whose persona outgrew his genre."
+   }
+  ]
+ },
+ {
+  "id": "waylon-jennings",
+  "years": "1958–2002",
+  "origin": "Littlefield, Texas",
+  "genres": [
+   "outlaw country",
+   "honky-tonk",
+   "country rock"
+  ],
+  "summary": "Leader of the 1970s outlaw country movement, who fought Nashville for creative control and played a harder, rock-driven sound.",
+  "know": [
+   "He gave up his seat on Buddy Holly's plane in February 1959, the night of the fatal crash.",
+   "Wanted! The Outlaws (1976) was the first country album certified platinum.",
+   "He narrated and sang the theme for The Dukes of Hazzard."
+  ],
+  "born": "06-15",
+  "keyAlbums": [
+   [
+    "Lonesome, On'ry and Mean",
+    1973
+   ],
+   [
+    "Honky Tonk Heroes",
+    1973
+   ],
+   [
+    "Dreaming My Dreams",
+    1975
+   ],
+   [
+    "Wanted! The Outlaws",
+    1976
+   ]
+  ],
+  "songs": [
+   "Good Hearted Woman",
+   "Mammas Don't Let Your Babies Grow Up to Be Cowboys",
+   "Luckenbach, Texas",
+   "Are You Sure Hank Done It This Way",
+   "Bob Wills Is Still the King"
+  ],
+  "influencedBy": [
+   {
+    "id": "buddy-holly",
+    "why": "Holly produced his first single and hired him to play bass.",
+    "s": 3
+   },
+   {
+    "id": "hank-williams",
+    "why": "He held Williams up as the standard in \"Are You Sure Hank Done It This Way.\"",
+    "s": 3
+   },
+   {
+    "id": "bob-wills",
+    "why": "He paid tribute in \"Bob Wills Is Still the King.\"",
+    "s": 3
+   },
+   {
+    "id": "johnny-cash",
+    "why": "He and Cash shared an apartment in the mid 1960s and stayed close friends.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "lynyrd-skynyrd",
+    "why": "Hard-living Southern rebels who did things their own way."
+   },
+   {
+    "id": "motorhead",
+    "why": "Loud, defiant road dogs who ignored the industry."
+   }
+  ]
+ },
+ {
+  "id": "emmylou-harris",
+  "years": "1969–present",
+  "origin": "Birmingham, Alabama",
+  "genres": [
+   "country rock",
+   "Americana",
+   "traditional country"
+  ],
+  "summary": "Singer with a pure, haunting voice who carried Gram Parsons' country rock vision forward and became a central figure in Americana. She is also one of music's most sought-after harmony singers.",
+  "know": [
+   "She was Gram Parsons' duet partner on GP and Grievous Angel.",
+   "She made the Trio album with Dolly Parton and Linda Ronstadt in 1987.",
+   "Her 1995 album Wrecking Ball, produced by Daniel Lanois, moved her into atmospheric rock."
+  ],
+  "born": "04-02",
+  "keyAlbums": [
+   [
+    "Pieces of the Sky",
+    1975
+   ],
+   [
+    "Elite Hotel",
+    1975
+   ],
+   [
+    "Trio",
+    1987
+   ],
+   [
+    "Wrecking Ball",
+    1995
+   ]
+  ],
+  "songs": [
+   "Boulder to Birmingham",
+   "If I Could Only Win Your Love",
+   "Together Again",
+   "Two More Bottles of Wine",
+   "Love Hurts"
+  ],
+  "influencedBy": [
+   {
+    "id": "gram-parsons",
+    "why": "Parsons was her mentor and duet partner, and she wrote \"Boulder to Birmingham\" after his death.",
+    "s": 3
+   },
+   {
+    "id": "joan-baez",
+    "why": "She began as a folk singer in the Baez mold.",
+    "s": 2
+   },
+   {
+    "id": "buck-owens",
+    "why": "She took Owens' \"Together Again\" to number one in 1976.",
+    "s": 3
+   },
+   {
+    "id": "dolly-parton",
+    "why": "She had a hit with Dolly's \"To Daddy\" in 1977.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "norah-jones",
+    "why": "A gentle, pure voice that blends genres."
+   },
+   {
+    "id": "carole-king",
+    "why": "A trusted collaborator at the center of her scene."
+   }
+  ]
+ },
+ {
+  "id": "james-taylor",
+  "years": "1966–present",
+  "origin": "Boston, Massachusetts",
+  "genres": [
+   "soft rock",
+   "singer-songwriter",
+   "folk rock"
+  ],
+  "summary": "Gentle-voiced singer-songwriter whose personal songs helped launch the 1970s singer-songwriter era.",
+  "know": [
+   "He was the first artist signed to the Beatles' Apple Records, in 1968.",
+   "His version of Carole King's \"You've Got a Friend\" went to number one in 1971.",
+   "He was married to singer Carly Simon from 1972 to 1983."
+  ],
+  "born": "03-12",
+  "keyAlbums": [
+   [
+    "Sweet Baby James",
+    1970
+   ],
+   [
+    "Mud Slide Slim and the Blue Horizon",
+    1971
+   ],
+   [
+    "JT",
+    1977
+   ],
+   [
+    "Hourglass",
+    1997
+   ]
+  ],
+  "songs": [
+   "Fire and Rain",
+   "Carolina in My Mind",
+   "Sweet Baby James",
+   "You've Got a Friend",
+   "Country Road"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "He signed to their Apple label, and their melodic songwriting shaped his early work.",
+    "s": 2
+   },
+   {
+    "id": "ray-charles",
+    "why": "He has named Ray Charles as a key influence on his singing.",
+    "s": 2
+   },
+   {
+    "id": "carole-king",
+    "why": "He recorded her \"You've Got a Friend\" and toured with her.",
+    "s": 3
+   },
+   {
+    "id": "marvin-gaye",
+    "why": "He had a hit with \"How Sweet It Is (To Be Loved by You)\", first a Marvin Gaye record.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bill-withers",
+    "why": "Warm, simple songs about everyday feelings."
+   },
+   {
+    "id": "carole-king",
+    "why": "A gentle, personal songwriter of the same era."
+   }
+  ]
+ },
+ {
+  "id": "cat-stevens",
+  "years": "1966–present",
+  "origin": "London, England",
+  "genres": [
+   "folk rock",
+   "singer-songwriter",
+   "soft rock"
+  ],
+  "summary": "English singer-songwriter of gentle, spiritual songs like \"Father and Son\" and \"Wild World.\" He left music for decades after converting to Islam and later returned as Yusuf.",
+  "know": [
+   "He converted to Islam in 1977, took the name Yusuf Islam, and stepped away from pop music.",
+   "A bout of tuberculosis in 1969 led him to a quieter, more reflective style.",
+   "His songs fill the soundtrack of the 1971 film Harold and Maude."
+  ],
+  "born": "07-21",
+  "keyAlbums": [
+   [
+    "Mona Bone Jakon",
+    1970
+   ],
+   [
+    "Tea for the Tillerman",
+    1970
+   ],
+   [
+    "Teaser and the Firecat",
+    1971
+   ],
+   [
+    "Catch Bull at Four",
+    1972
+   ]
+  ],
+  "songs": [
+   "Father and Son",
+   "Wild World",
+   "Peace Train",
+   "Moonshadow",
+   "The First Cut Is the Deepest"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "He has said the Beatles inspired him to write his own songs.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bill-withers",
+    "why": "Warm, simple, sincere songs."
+   },
+   {
+    "id": "ed-sheeran",
+    "why": "An acoustic singer-songwriter with broad pop appeal."
+   }
+  ]
+ },
+ {
+  "id": "john-prine",
+  "years": "1971–2020",
+  "origin": "Maywood, Illinois",
+  "genres": [
+   "Americana",
+   "singer-songwriter",
+   "country folk"
+  ],
+  "summary": "Songwriter known for funny, tender and sharply observed songs about ordinary people. Other songwriters regard him as one of the best ever.",
+  "know": [
+   "He was a mail carrier in Chicago when he started writing songs.",
+   "Kris Kristofferson helped launch his career after seeing him in a Chicago club.",
+   "He died of COVID-19 complications in April 2020."
+  ],
+  "born": "10-10",
+  "keyAlbums": [
+   [
+    "John Prine",
+    1971
+   ],
+   [
+    "Sweet Revenge",
+    1973
+   ],
+   [
+    "Bruised Orange",
+    1978
+   ],
+   [
+    "The Tree of Forgiveness",
+    2018
+   ]
+  ],
+  "songs": [
+   "Angel from Montgomery",
+   "Paradise",
+   "Sam Stone",
+   "Hello in There",
+   "Illegal Smile"
+  ],
+  "influencedBy": [
+   {
+    "id": "hank-williams",
+    "why": "He often named Hank Williams as a formative influence.",
+    "s": 3
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Dylan showed him that folk songs could be personal and literary, and Dylan later praised his songs.",
+    "s": 2
+   },
+   {
+    "id": "johnny-cash",
+    "why": "He admired Cash, who covered his songs and championed him.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "slick-rick",
+    "why": "A master storyteller with humor and detail."
+   },
+   {
+    "id": "bill-withers",
+    "why": "Plainspoken songs about ordinary people."
+   }
+  ]
+ },
+ {
+  "id": "townes-van-zandt",
+  "years": "1965–1997",
+  "origin": "Fort Worth, Texas",
+  "genres": [
+   "Texas country",
+   "folk",
+   "singer-songwriter"
+  ],
+  "summary": "Texas songwriter of bleak, beautiful songs who was little known in his life but is revered by other writers.",
+  "know": [
+   "Willie Nelson and Merle Haggard took his \"Pancho and Lefty\" to number one in 1983.",
+   "He died on January 1, 1997, the same date Hank Williams died.",
+   "His 1977 live album Live at the Old Quarter is considered his essential record."
+  ],
+  "born": "03-07",
+  "keyAlbums": [
+   [
+    "Our Mother the Mountain",
+    1969
+   ],
+   [
+    "Townes Van Zandt",
+    1969
+   ],
+   [
+    "The Late Great Townes Van Zandt",
+    1972
+   ],
+   [
+    "Live at the Old Quarter, Houston, Texas",
+    1977
+   ]
+  ],
+  "songs": [
+   "Pancho and Lefty",
+   "If I Needed You",
+   "To Live Is to Fly",
+   "Waitin' Around to Die",
+   "Tecumseh Valley"
+  ],
+  "influencedBy": [
+   {
+    "id": "hank-williams",
+    "why": "He named Hank Williams as one of his great influences.",
+    "s": 3
+   },
+   {
+    "id": "elvis-presley",
+    "why": "Seeing Elvis on TV made him want a guitar.",
+    "s": 2
+   },
+   {
+    "id": "bob-dylan",
+    "why": "Dylan's songwriting showed him a path into serious folk writing.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "skip-james",
+    "why": "Haunting, bleak songs from a revered cult figure."
+   },
+   {
+    "id": "jeff-buckley",
+    "why": "A cult artist whose legend grew after his death."
+   }
+  ]
+ },
+ {
+  "id": "george-strait",
+  "years": "1981–present",
+  "origin": "Poteet, Texas",
+  "genres": [
+   "neotraditional country",
+   "Texas country",
+   "western swing"
+  ],
+  "summary": "The King of Country, who kept traditional fiddle and steel sounds on the radio through the 1980s and 90s and scored about 60 number-one hits.",
+  "know": [
+   "He has more number-one singles than any other country artist.",
+   "His backing band is the Ace in the Hole Band.",
+   "Ocean Front Property (1987) was the first album to debut at number one on the country chart."
+  ],
+  "born": "05-18",
+  "keyAlbums": [
+   [
+    "Strait Country",
+    1981
+   ],
+   [
+    "Ocean Front Property",
+    1987
+   ],
+   [
+    "Pure Country",
+    1992
+   ],
+   [
+    "Blue Clear Sky",
+    1996
+   ]
+  ],
+  "songs": [
+   "Amarillo by Morning",
+   "All My Ex's Live in Texas",
+   "Check Yes or No",
+   "The Chair",
+   "Troubadour"
+  ],
+  "influencedBy": [
+   {
+    "id": "merle-haggard",
+    "why": "He has named Haggard as one of his main influences.",
+    "s": 3
+   },
+   {
+    "id": "bob-wills",
+    "why": "His Ace in the Hole Band plays a lot of western swing in the Wills tradition.",
+    "s": 2
+   },
+   {
+    "id": "george-jones",
+    "why": "He has cited Jones as one of the singers he grew up on.",
+    "s": 2
+   },
+   {
+    "id": "lefty-frizzell",
+    "why": "His smooth phrasing follows the Frizzell style.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bb-king",
+    "why": "A steady, classy performer with decades of hits."
+   },
+   {
+    "id": "frank-sinatra",
+    "why": "An effortless interpreter of songs with a long run of hits."
+   }
+  ]
+ },
+ {
+  "id": "dwight-yoakam",
+  "years": "1984–present",
+  "origin": "Pikeville, Kentucky",
+  "genres": [
+   "Bakersfield sound",
+   "neotraditional country",
+   "cowpunk"
+  ],
+  "summary": "Singer who revived the Bakersfield sound in the 1980s, building a following in Los Angeles rock clubs after Nashville turned him down.",
+  "know": [
+   "He built his early following playing LA punk and roots clubs alongside bands like X.",
+   "He brought Buck Owens out of retirement for their 1988 number one \"Streets of Bakersfield.\"",
+   "He is also an actor, notably in Sling Blade."
+  ],
+  "born": "10-23",
+  "keyAlbums": [
+   [
+    "Guitars, Cadillacs, Etc., Etc.",
+    1986
+   ],
+   [
+    "Hillbilly Deluxe",
+    1987
+   ],
+   [
+    "Buenas Noches from a Lonely Room",
+    1988
+   ],
+   [
+    "This Time",
+    1993
+   ]
+  ],
+  "songs": [
+   "Guitars, Cadillacs",
+   "Honky Tonk Man",
+   "Streets of Bakersfield",
+   "Fast as You",
+   "A Thousand Miles from Nowhere"
+  ],
+  "influencedBy": [
+   {
+    "id": "buck-owens",
+    "why": "Owens was his hero, and he coaxed him back to record \"Streets of Bakersfield\" together.",
+    "s": 3
+   },
+   {
+    "id": "merle-haggard",
+    "why": "Haggard's Bakersfield records are the core of his sound.",
+    "s": 2
+   },
+   {
+    "id": "elvis-presley",
+    "why": "He covered \"Suspicious Minds\" in 1992.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-white-stripes",
+    "why": "Revived a raw roots sound for a younger crowd."
+   },
+   {
+    "id": "the-black-crowes",
+    "why": "Brought a classic retro sound back during a slick era."
+   }
+  ]
+ },
+ {
+  "id": "tracy-chapman",
+  "years": "1988–present",
+  "origin": "Cleveland, Ohio",
+  "genres": [
+   "folk rock",
+   "singer-songwriter",
+   "protest folk"
+  ],
+  "summary": "Singer-songwriter whose spare debut album, with \"Fast Car\", brought socially aware folk back to the pop charts in 1988.",
+  "know": [
+   "Her breakthrough came at the 1988 Nelson Mandela 70th Birthday Tribute concert at Wembley.",
+   "She studied at Tufts University.",
+   "In 2023 she became the first Black songwriter to win CMA Song of the Year, for Luke Combs' cover of \"Fast Car.\""
+  ],
+  "born": "03-30",
+  "keyAlbums": [
+   [
+    "Tracy Chapman",
+    1988
+   ],
+   [
+    "Crossroads",
+    1989
+   ],
+   [
+    "Matters of the Heart",
+    1992
+   ],
+   [
+    "New Beginning",
+    1995
+   ]
+  ],
+  "songs": [
+   "Fast Car",
+   "Talkin' 'bout a Revolution",
+   "Give Me One Reason",
+   "Baby Can I Hold You"
+  ],
+  "influencedBy": [
+   {
+    "id": "joan-baez",
+    "why": "Her acoustic protest songs follow the folk revival path Baez set.",
+    "s": 1
+   },
+   {
+    "id": "odetta",
+    "why": "She continues the line of Black women folk singers that Odetta started.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "lauryn-hill",
+    "why": "A thoughtful, socially aware voice."
+   },
+   {
+    "id": "nina-simone",
+    "why": "Music as a vehicle for social justice."
+   }
+  ]
+ },
+ {
+  "id": "garth-brooks",
+  "years": "1989–present",
+  "origin": "Tulsa, Oklahoma",
+  "genres": [
+   "country pop",
+   "neotraditional country",
+   "arena country"
+  ],
+  "summary": "The best-selling solo artist in US history by album sales, who brought rock-style arena shows to country in the 1990s.",
+  "know": [
+   "He has said hearing George Strait's \"Unwound\" made him want to be a country singer.",
+   "Ropin' the Wind (1991) was the first country album to debut at number one on the Billboard 200.",
+   "In 1999 he released an album as an alter ego named Chris Gaines."
+  ],
+  "born": "02-07",
+  "keyAlbums": [
+   [
+    "Garth Brooks",
+    1989
+   ],
+   [
+    "No Fences",
+    1990
+   ],
+   [
+    "Ropin' the Wind",
+    1991
+   ],
+   [
+    "The Chase",
+    1992
+   ]
+  ],
+  "songs": [
+   "Friends in Low Places",
+   "The Dance",
+   "The Thunder Rolls",
+   "Callin' Baton Rouge",
+   "Much Too Young (To Feel This Damn Old)"
+  ],
+  "influencedBy": [
+   {
+    "id": "george-strait",
+    "why": "He has said hearing Strait's \"Unwound\" in 1981 made him choose country.",
+    "s": 3
+   },
+   {
+    "id": "james-taylor",
+    "why": "He often names James Taylor as his favorite singer-songwriter.",
+    "s": 3
+   },
+   {
+    "id": "kiss",
+    "why": "He cites KISS for his arena showmanship and covered \"Hard Luck Woman\" with them.",
+    "s": 3
+   },
+   {
+    "id": "billy-joel",
+    "why": "He had a hit covering Joel's \"Shameless.\"",
+    "s": 3
+   },
+   {
+    "id": "merle-haggard",
+    "why": "Haggard was among the traditional country singers he studied.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bruce-springsteen",
+    "why": "A stadium performer who connects with everyday fans."
+   },
+   {
+    "id": "queen",
+    "why": "Turned huge arena shows into a spectacle."
+   }
+  ]
+ },
+ {
+  "id": "shania-twain",
+  "years": "1993–present",
+  "origin": "Windsor, Ontario, Canada",
+  "genres": [
+   "country pop",
+   "pop country",
+   "crossover"
+  ],
+  "summary": "Canadian singer who fused country with big pop rock production and became one of the best-selling female artists ever.",
+  "know": [
+   "Come On Over (1997) is the best-selling album by a female country artist.",
+   "Her albums were produced by her then husband Robert John \"Mutt\" Lange.",
+   "Lyme disease damaged her voice and kept her off stage for years."
+  ],
+  "born": "08-28",
+  "keyAlbums": [
+   [
+    "The Woman in Me",
+    1995
+   ],
+   [
+    "Come On Over",
+    1997
+   ],
+   [
+    "Up!",
+    2002
+   ],
+   [
+    "Queen of Me",
+    2023
+   ]
+  ],
+  "songs": [
+   "Man! I Feel Like a Woman!",
+   "You're Still the One",
+   "That Don't Impress Me Much",
+   "Any Man of Mine",
+   "From This Moment On"
+  ],
+  "influencedBy": [
+   {
+    "id": "dolly-parton",
+    "why": "She has named Dolly Parton as a key influence growing up.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "madonna",
+    "why": "A pop superstar who controlled her image and broke barriers."
+   },
+   {
+    "id": "shakira",
+    "why": "A crossover star who brought her genre to a global pop audience."
+   }
+  ]
+ },
+ {
+  "id": "alison-krauss",
+  "years": "1987–present",
+  "origin": "Decatur, Illinois",
+  "genres": [
+   "bluegrass",
+   "progressive bluegrass",
+   "Americana"
+  ],
+  "summary": "Fiddler and singer whose clear voice brought bluegrass to a wide audience. She is one of the most awarded artists in Grammy history.",
+  "know": [
+   "She was a child fiddle contest champion before signing to Rounder at 14.",
+   "Raising Sand, with Robert Plant, won the Grammy for Album of the Year in 2009.",
+   "She sang on the O Brother, Where Art Thou? soundtrack."
+  ],
+  "born": "07-23",
+  "keyAlbums": [
+   [
+    "Now That I've Found You: A Collection",
+    1995
+   ],
+   [
+    "So Long So Wrong",
+    1997
+   ],
+   [
+    "Lonely Runs Both Ways",
+    2004
+   ],
+   [
+    "Raising Sand",
+    2007
+   ]
+  ],
+  "songs": [
+   "When You Say Nothing at All",
+   "Whiskey Lullaby",
+   "Down to the River to Pray",
+   "Gone Gone Gone (Done Moved On)",
+   "Ghost in This House"
+  ],
+  "influencedBy": [
+   {
+    "id": "bill-monroe",
+    "why": "Her band Union Station plays in the bluegrass tradition Monroe created.",
+    "s": 2
+   },
+   {
+    "id": "led-zeppelin",
+    "why": "She collaborated with Robert Plant on Raising Sand and its follow-up.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "norah-jones",
+    "why": "A soft, pure voice that crosses over to a broad audience."
+   },
+   {
+    "id": "ella-fitzgerald",
+    "why": "Flawless tone and control."
+   }
+  ]
+ },
+ {
+  "id": "the-chicks",
+  "years": "1989–present",
+  "origin": "Dallas, Texas",
+  "genres": [
+   "country pop",
+   "progressive bluegrass",
+   "country rock"
+  ],
+  "summary": "Trio of Natalie Maines, Martie Maguire and Emily Strayer who blended bluegrass instruments with pop country and became the best-selling female group in country.",
+  "know": [
+   "Country radio blacklisted them after Maines criticized President George W. Bush in 2003.",
+   "Taking the Long Way won five Grammys, including Album of the Year.",
+   "They dropped \"Dixie\" from their name in 2020."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Wide Open Spaces",
+    1998
+   ],
+   [
+    "Fly",
+    1999
+   ],
+   [
+    "Home",
+    2002
+   ],
+   [
+    "Taking the Long Way",
+    2006
+   ]
+  ],
+  "songs": [
+   "Wide Open Spaces",
+   "Goodbye Earl",
+   "Landslide",
+   "Not Ready to Make Nice",
+   "Cowboy Take Me Away"
+  ],
+  "influencedBy": [
+   {
+    "id": "fleetwood-mac",
+    "why": "They had a hit with their cover of \"Landslide.\"",
+    "s": 3
+   },
+   {
+    "id": "bill-monroe",
+    "why": "Their banjo, fiddle and dobro come from the bluegrass tradition.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "tlc",
+    "why": "Best-selling women's group that spoke its mind."
+   },
+   {
+    "id": "destinys-child",
+    "why": "A dominant female group."
+   }
+  ]
+ },
+ {
+  "id": "elliott-smith",
+  "years": "1991–2003",
+  "origin": "Omaha, Nebraska",
+  "genres": [
+   "indie folk",
+   "lo-fi",
+   "chamber pop",
+   "singer-songwriter"
+  ],
+  "summary": "Singer-songwriter whose whispered vocals and intricate guitar songs set the standard for sad, intimate indie folk.",
+  "know": [
+   "\"Miss Misery\" was nominated for an Oscar, and he performed it at the 1998 ceremony.",
+   "He first played in the Portland band Heatmiser.",
+   "He died in 2003 at age 34."
+  ],
+  "born": "08-06",
+  "keyAlbums": [
+   [
+    "Elliott Smith",
+    1995
+   ],
+   [
+    "Either/Or",
+    1997
+   ],
+   [
+    "XO",
+    1998
+   ],
+   [
+    "Figure 8",
+    2000
+   ]
+  ],
+  "songs": [
+   "Between the Bars",
+   "Miss Misery",
+   "Say Yes",
+   "Waltz #2 (XO)",
+   "Needle in the Hay"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "He often named the Beatles as his biggest influence and covered their songs live.",
+    "s": 3
+   },
+   {
+    "id": "big-star",
+    "why": "He covered Big Star's \"Thirteen.\"",
+    "s": 3
+   },
+   {
+    "id": "nick-drake",
+    "why": "His soft, intricate guitar songs follow the Nick Drake model.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "jeff-buckley",
+    "why": "A fragile, revered voice who died young."
+   },
+   {
+    "id": "frank-ocean",
+    "why": "Intimate, introspective, emotionally raw songs."
+   }
+  ]
+ },
+ {
+  "id": "iron-and-wine",
+  "years": "2002–present",
+  "origin": "Chapin, South Carolina",
+  "genres": [
+   "indie folk",
+   "lo-fi folk",
+   "chamber folk"
+  ],
+  "summary": "Stage name of Sam Beam, whose hushed home recordings helped define 2000s indie folk.",
+  "know": [
+   "Beam recorded his debut on a four-track at home.",
+   "He taught film before music became his career.",
+   "His cover of the Postal Service's \"Such Great Heights\" became a hit through the film Garden State."
+  ],
+  "born": "07-26",
+  "keyAlbums": [
+   [
+    "The Creek Drank the Cradle",
+    2002
+   ],
+   [
+    "Our Endless Numbered Days",
+    2004
+   ],
+   [
+    "The Shepherd's Dog",
+    2007
+   ],
+   [
+    "Beast Epic",
+    2017
+   ]
+  ],
+  "songs": [
+   "Naked as We Came",
+   "Such Great Heights",
+   "Flightless Bird, American Mouth",
+   "Boy with a Coin",
+   "Passing Afternoon"
+  ],
+  "influencedBy": [
+   {
+    "id": "nick-drake",
+    "why": "His soft vocals and fingerpicked guitar follow Drake's style.",
+    "s": 1
+   },
+   {
+    "id": "simon-garfunkel",
+    "why": "His close, double-tracked harmonies echo Simon & Garfunkel.",
+    "s": 1
+   },
+   {
+    "id": "new-order",
+    "why": "He recorded an acoustic cover of New Order's \"Love Vigilantes.\"",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-national",
+    "why": "Quiet, intimate, melancholy rock."
+   },
+   {
+    "id": "norah-jones",
+    "why": "Soft, warm, late-night music."
+   }
+  ]
+ },
+ {
+  "id": "sufjan-stevens",
+  "years": "1999–present",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "indie folk",
+   "chamber folk",
+   "baroque pop"
+  ],
+  "summary": "Multi-instrumentalist known for ornate concept albums about American states and sparse, grief-stricken folk.",
+  "know": [
+   "He announced a plan to make an album about every US state, and finished Michigan and Illinois.",
+   "\"Mystery of Love\" from Call Me by Your Name was nominated for an Oscar.",
+   "He co-runs the label Asthmatic Kitty."
+  ],
+  "born": "07-01",
+  "keyAlbums": [
+   [
+    "Michigan",
+    2003
+   ],
+   [
+    "Seven Swans",
+    2004
+   ],
+   [
+    "Illinois",
+    2005
+   ],
+   [
+    "Carrie & Lowell",
+    2015
+   ]
+  ],
+  "songs": [
+   "Chicago",
+   "Casimir Pulaski Day",
+   "Mystery of Love",
+   "Should Have Known Better",
+   "John Wayne Gacy, Jr."
+  ],
+  "influencedBy": [
+   {
+    "id": "nick-drake",
+    "why": "His softly sung fingerpicked songs follow Drake's style.",
+    "s": 1
+   },
+   {
+    "id": "elliott-smith",
+    "why": "His hushed, confessional songs follow in Smith's line.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "arcade-fire",
+    "why": "Grand, emotional indie with big arrangements."
+   },
+   {
+    "id": "frank-ocean",
+    "why": "Personal, ambitious, genre-blending albums."
+   }
+  ]
+ },
+ {
+  "id": "fleet-foxes",
+  "years": "2006–present",
+  "origin": "Seattle, Washington",
+  "genres": [
+   "indie folk",
+   "baroque folk",
+   "chamber pop"
+  ],
+  "summary": "Seattle band led by Robin Pecknold, known for lush vocal harmonies and pastoral folk.",
+  "know": [
+   "Josh Tillman, later known as Father John Misty, was their drummer.",
+   "Their 2008 debut topped many year-end lists.",
+   "Pecknold briefly left music to study at Columbia University."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Fleet Foxes",
+    2008
+   ],
+   [
+    "Helplessness Blues",
+    2011
+   ],
+   [
+    "Crack-Up",
+    2017
+   ],
+   [
+    "Shore",
+    2020
+   ]
+  ],
+  "songs": [
+   "White Winter Hymnal",
+   "Mykonos",
+   "Helplessness Blues",
+   "Ragged Wood",
+   "Can I Believe You"
+  ],
+  "influencedBy": [
+   {
+    "id": "crosby-stills-nash",
+    "why": "Their layered harmonies draw on CSN.",
+    "s": 2
+   },
+   {
+    "id": "the-beach-boys",
+    "why": "Pecknold has cited the Beach Boys' harmony arrangements.",
+    "s": 2
+   },
+   {
+    "id": "simon-garfunkel",
+    "why": "Their folk harmony style draws on Simon & Garfunkel.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "arcade-fire",
+    "why": "Grand, choral indie music."
+   },
+   {
+    "id": "vampire-weekend",
+    "why": "Literate, melodic indie."
+   }
+  ]
+ },
+ {
+  "id": "bon-iver",
+  "years": "2007–present",
+  "origin": "Eau Claire, Wisconsin",
+  "genres": [
+   "indie folk",
+   "folktronica",
+   "chamber folk"
+  ],
+  "summary": "Project of Justin Vernon, whose falsetto cabin-recorded debut became a landmark of indie folk before he moved into experimental electronic sounds.",
+  "know": [
+   "Vernon recorded For Emma, Forever Ago alone in his father's hunting cabin in Wisconsin.",
+   "Bon Iver won the Grammy for Best New Artist in 2012.",
+   "Vernon worked with Kanye West on My Beautiful Dark Twisted Fantasy and Yeezus."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "For Emma, Forever Ago",
+    2007
+   ],
+   [
+    "Bon Iver, Bon Iver",
+    2011
+   ],
+   [
+    "22, A Million",
+    2016
+   ],
+   [
+    "i,i",
+    2019
+   ]
+  ],
+  "songs": [
+   "Skinny Love",
+   "Holocene",
+   "Re: Stacks",
+   "Flume",
+   "Hey, Ma"
+  ],
+  "influencedBy": [
+   {
+    "id": "kanye-west",
+    "why": "His work with Kanye pushed him into Auto-Tune and electronic textures on 22, A Million.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "frank-ocean",
+    "why": "Fragile falsetto and genre-blurring production."
+   },
+   {
+    "id": "burial",
+    "why": "Ghostly, lonely atmosphere."
+   }
+  ]
+ },
+ {
+  "id": "chris-stapleton",
+  "years": "2001–present",
+  "origin": "Lexington, Kentucky",
+  "genres": [
+   "country soul",
+   "southern rock",
+   "outlaw country"
+  ],
+  "summary": "Songwriter turned singer whose soulful voice and stripped-down debut Traveller made him country's biggest new star of 2015.",
+  "know": [
+   "He wrote hits for George Strait, Kenny Chesney and Luke Bryan before going solo.",
+   "His 2015 CMA performance of \"Tennessee Whiskey\" with Justin Timberlake made him a star overnight.",
+   "He sang in the bluegrass band the SteelDrivers."
+  ],
+  "born": "04-15",
+  "keyAlbums": [
+   [
+    "Traveller",
+    2015
+   ],
+   [
+    "From A Room: Volume 1",
+    2017
+   ],
+   [
+    "Starting Over",
+    2020
+   ],
+   [
+    "Higher",
+    2023
+   ]
+  ],
+  "songs": [
+   "Tennessee Whiskey",
+   "Traveller",
+   "Broken Halos",
+   "Starting Over",
+   "White Horse"
+  ],
+  "influencedBy": [
+   {
+    "id": "george-jones",
+    "why": "He covered Jones' hit \"Tennessee Whiskey.\"",
+    "s": 3
+   },
+   {
+    "id": "etta-james",
+    "why": "His arrangement of \"Tennessee Whiskey\" borrows from Etta James' \"I'd Rather Go Blind.\"",
+    "s": 2
+   },
+   {
+    "id": "waylon-jennings",
+    "why": "His gritty outlaw sound draws on Waylon.",
+    "s": 1
+   },
+   {
+    "id": "bill-monroe",
+    "why": "He played in the SteelDrivers in the bluegrass tradition.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "leon-bridges",
+    "why": "Warm, retro soul vocals."
+   },
+   {
+    "id": "gary-clark-jr",
+    "why": "Bluesy singer and guitarist with a modern edge."
+   }
+  ]
+ },
+ {
+  "id": "sturgill-simpson",
+  "years": "2004–present",
+  "origin": "Jackson, Kentucky",
+  "genres": [
+   "outlaw country",
+   "psychedelic country",
+   "bluegrass"
+  ],
+  "summary": "Kentucky singer who mixed classic outlaw country with psychedelia and soul.",
+  "know": [
+   "He served in the US Navy before music.",
+   "A Sailor's Guide to Earth won the Grammy for Best Country Album and was nominated for Album of the Year.",
+   "He busked outside the 2017 CMA Awards."
+  ],
+  "born": "06-08",
+  "keyAlbums": [
+   [
+    "High Top Mountain",
+    2013
+   ],
+   [
+    "Metamodern Sounds in Country Music",
+    2014
+   ],
+   [
+    "A Sailor's Guide to Earth",
+    2016
+   ],
+   [
+    "Cuttin' Grass, Vol. 1",
+    2020
+   ]
+  ],
+  "songs": [
+   "Turtles All the Way Down",
+   "Long White Line",
+   "Brace for Impact (Live a Little)",
+   "You Can Have the Crown",
+   "In Bloom"
+  ],
+  "influencedBy": [
+   {
+    "id": "waylon-jennings",
+    "why": "His voice and outlaw sound are often compared to Waylon's.",
+    "s": 2
+   },
+   {
+    "id": "merle-haggard",
+    "why": "He has cited Haggard often and defended him publicly.",
+    "s": 2
+   },
+   {
+    "id": "nirvana",
+    "why": "He covered \"In Bloom\" on A Sailor's Guide to Earth.",
+    "s": 3
+   },
+   {
+    "id": "bill-monroe",
+    "why": "His Cuttin' Grass albums return to the Kentucky bluegrass Monroe created.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "tame-impala",
+    "why": "Psychedelic, studio-shaped sounds."
+   },
+   {
+    "id": "the-white-stripes",
+    "why": "A roots revivalist with punk energy."
+   }
+  ]
+ },
+ {
+  "id": "kacey-musgraves",
+  "years": "2007–present",
+  "origin": "Golden, Texas",
+  "genres": [
+   "country pop",
+   "progressive country",
+   "cosmic country"
+  ],
+  "summary": "Singer-songwriter known for witty, progressive country songs and the dreamy, genre-blending Golden Hour.",
+  "know": [
+   "Golden Hour won the Grammy for Album of the Year in 2019.",
+   "She competed on Nashville Star in 2007.",
+   "She co-wrote Miranda Lambert's \"Mama's Broken Heart.\""
+  ],
+  "born": "08-21",
+  "keyAlbums": [
+   [
+    "Same Trailer Different Park",
+    2013
+   ],
+   [
+    "Pageant Material",
+    2015
+   ],
+   [
+    "Golden Hour",
+    2018
+   ],
+   [
+    "Deeper Well",
+    2024
+   ]
+  ],
+  "songs": [
+   "Follow Your Arrow",
+   "Merry Go 'Round",
+   "Slow Burn",
+   "Rainbow",
+   "Space Cowboy"
+  ],
+  "influencedBy": [
+   {
+    "id": "john-prine",
+    "why": "She has named John Prine as a major songwriting influence.",
+    "s": 2
+   },
+   {
+    "id": "willie-nelson",
+    "why": "She has cited Willie as a hero and recorded with him.",
+    "s": 2
+   },
+   {
+    "id": "dolly-parton",
+    "why": "Dolly's wit and style are a model she has referenced.",
+    "s": 2
+   },
+   {
+    "id": "loretta-lynn",
+    "why": "Her frank songs about women's lives follow Loretta Lynn's line.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "solange",
+    "why": "Dreamy, personal, genre-blending albums."
+   },
+   {
+    "id": "lana-del-rey",
+    "why": "Dreamy Americana with a sly edge."
+   }
+  ]
+ },
+ {
+  "id": "tyler-childers",
+  "years": "2011–present",
+  "origin": "Lawrence County, Kentucky",
+  "genres": [
+   "Appalachian country",
+   "honky-tonk",
+   "bluegrass"
+  ],
+  "summary": "Eastern Kentucky singer-songwriter whose vivid songs about Appalachian life made him a leading voice in modern country.",
+  "know": [
+   "His breakthrough Purgatory was produced by Sturgill Simpson and David Ferguson.",
+   "Long Violent History (2020) was a fiddle album with a spoken statement on racial justice.",
+   "He is married to singer Senora May."
+  ],
+  "born": "06-21",
+  "keyAlbums": [
+   [
+    "Purgatory",
+    2017
+   ],
+   [
+    "Country Squire",
+    2019
+   ],
+   [
+    "Long Violent History",
+    2020
+   ],
+   [
+    "Can I Take My Hounds to Heaven?",
+    2022
+   ]
+  ],
+  "songs": [
+   "Feathered Indians",
+   "Lady May",
+   "All Your'n",
+   "Whitehouse Road",
+   "In Your Love"
+  ],
+  "influencedBy": [
+   {
+    "id": "sturgill-simpson",
+    "why": "Simpson co-produced his first two major albums.",
+    "s": 3
+   },
+   {
+    "id": "bill-monroe",
+    "why": "His bluegrass leanings come from the Kentucky tradition.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "rl-burnside",
+    "why": "Deep, regional roots music."
+   },
+   {
+    "id": "the-black-keys",
+    "why": "Raw roots sound with a modern audience."
+   }
+  ]
+ },
+ {
+  "id": "jason-isbell",
+  "years": "2001–present",
+  "origin": "Green Hill, Alabama",
+  "genres": [
+   "Americana",
+   "southern rock",
+   "alt-country"
+  ],
+  "summary": "Alabama songwriter known for honest, detailed songs about addiction, love and the South.",
+  "know": [
+   "He was a member of the Drive-By Truckers from 2001 to 2007.",
+   "He got sober in 2012, the year before Southeastern.",
+   "His band is called the 400 Unit."
+  ],
+  "born": "02-01",
+  "keyAlbums": [
+   [
+    "Southeastern",
+    2013
+   ],
+   [
+    "Something More Than Free",
+    2015
+   ],
+   [
+    "The Nashville Sound",
+    2017
+   ],
+   [
+    "Weathervanes",
+    2023
+   ]
+  ],
+  "songs": [
+   "Cover Me Up",
+   "Elephant",
+   "If We Were Vampires",
+   "24 Frames",
+   "Decoration Day"
+  ],
+  "influencedBy": [
+   {
+    "id": "john-prine",
+    "why": "He has called Prine a hero and friend.",
+    "s": 3
+   },
+   {
+    "id": "bruce-springsteen",
+    "why": "His narrative songwriting draws on Springsteen.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-national",
+    "why": "Literate, emotional songs for adults."
+   },
+   {
+    "id": "the-war-on-drugs",
+    "why": "Heartland rock with a modern touch."
+   }
+  ]
+ },
+ {
+  "id": "mumford-sons",
+  "years": "2007–present",
+  "origin": "London, England",
+  "genres": [
+   "folk rock",
+   "stomp folk",
+   "indie folk"
+  ],
+  "summary": "London band whose banjo-driven folk rock anthems made them one of the biggest bands of the early 2010s.",
+  "know": [
+   "Babel won the Grammy for Album of the Year in 2013.",
+   "Wilder Mind (2015) dropped the banjo for electric rock.",
+   "They performed with Bob Dylan at the 2011 Grammys."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Sigh No More",
+    2009
+   ],
+   [
+    "Babel",
+    2012
+   ],
+   [
+    "Wilder Mind",
+    2015
+   ],
+   [
+    "Delta",
+    2018
+   ]
+  ],
+  "songs": [
+   "Little Lion Man",
+   "The Cave",
+   "I Will Wait",
+   "Awake My Soul",
+   "Believe"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-dylan",
+    "why": "Their folk rock roots trace back to Dylan.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-killers",
+    "why": "Big, anthemic rock."
+   },
+   {
+    "id": "kings-of-leon",
+    "why": "Roots-tinged arena rock."
+   }
+  ]
+ },
+ {
+  "id": "phoebe-bridgers",
+  "years": "2014–present",
+  "origin": "Pasadena, California",
+  "genres": [
+   "indie folk",
+   "indie rock",
+   "sadcore"
+  ],
+  "summary": "Los Angeles songwriter known for dark humor and quiet, devastating songs. She is also a member of boygenius.",
+  "know": [
+   "She is part of boygenius with Julien Baker and Lucy Dacus.",
+   "Her song \"Punisher\" is about being a fan of Elliott Smith.",
+   "She runs the label Saddest Factory."
+  ],
+  "born": "08-17",
+  "keyAlbums": [
+   [
+    "Stranger in the Alps",
+    2017
+   ],
+   [
+    "Punisher",
+    2020
+   ],
+   [
+    "the record (boygenius)",
+    2023
+   ]
+  ],
+  "songs": [
+   "Motion Sickness",
+   "Kyoto",
+   "Funeral",
+   "Garden Song",
+   "I Know the End"
+  ],
+  "influencedBy": [
+   {
+    "id": "elliott-smith",
+    "why": "She wrote \"Punisher\" about her devotion to Smith.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "lorde",
+    "why": "Intimate pop for a generation."
+   },
+   {
+    "id": "the-national",
+    "why": "Melancholy, literate indie."
+   }
+  ]
+ },
+ {
+  "id": "zach-bryan",
+  "years": "2019–present",
+  "origin": "Oologah, Oklahoma",
+  "genres": [
+   "red dirt country",
+   "Americana",
+   "heartland rock"
+  ],
+  "summary": "Former Navy sailor whose raw, self-released songs went viral and made him one of the most popular artists in country.",
+  "know": [
+   "He served eight years in the US Navy.",
+   "\"Heading South\" went viral as a phone video.",
+   "\"I Remember Everything\" with Kacey Musgraves debuted at number one on the Hot 100 in 2023."
+  ],
+  "born": "04-02",
+  "keyAlbums": [
+   [
+    "DeAnn",
+    2019
+   ],
+   [
+    "American Heartbreak",
+    2022
+   ],
+   [
+    "Zach Bryan",
+    2023
+   ],
+   [
+    "The Great American Bar Scene",
+    2024
+   ]
+  ],
+  "songs": [
+   "Something in the Orange",
+   "I Remember Everything",
+   "Heading South",
+   "Burn, Burn, Burn",
+   "Pink Skies"
+  ],
+  "influencedBy": [
+   {
+    "id": "bruce-springsteen",
+    "why": "He has called Springsteen a hero and performed with him.",
+    "s": 3
+   },
+   {
+    "id": "jason-isbell",
+    "why": "His confessional songwriting draws on Isbell.",
+    "s": 1
+   },
+   {
+    "id": "tyler-childers",
+    "why": "His raw, rural storytelling follows Childers.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "j-cole",
+    "why": "Raw, confessional writing for a huge fanbase."
+   },
+   {
+    "id": "the-killers",
+    "why": "Big, singalong heartland anthems."
+   }
+  ]
+ },
+ {
+  "id": "morgan-wallen",
+  "years": "2014–present",
+  "origin": "Sneedville, Tennessee",
+  "genres": [
+   "country pop",
+   "country rock",
+   "southern rock"
+  ],
+  "summary": "Tennessee singer whose blend of country, rock and hip-hop rhythms made him the biggest-selling country artist of the 2020s.",
+  "know": [
+   "He was a contestant on The Voice in 2014.",
+   "Dangerous: The Double Album spent 10 weeks at number one on the Billboard 200.",
+   "\"Last Night\" spent 16 weeks at number one on the Hot 100."
+  ],
+  "born": "05-13",
+  "keyAlbums": [
+   [
+    "If I Know Me",
+    2018
+   ],
+   [
+    "Dangerous: The Double Album",
+    2021
+   ],
+   [
+    "One Thing at a Time",
+    2023
+   ],
+   [
+    "I'm the Problem",
+    2025
+   ]
+  ],
+  "songs": [
+   "Last Night",
+   "Whiskey Glasses",
+   "Wasted on You",
+   "Chasin' You",
+   "7 Summers"
+  ],
+  "influencedBy": [
+   {
+    "id": "jason-isbell",
+    "why": "He covered Isbell's \"Cover Me Up\" on Dangerous.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "drake",
+    "why": "A hugely streamed artist who dominates the charts."
+   },
+   {
+    "id": "ed-sheeran",
+    "why": "A massive mainstream star with simple, catchy songs."
+   }
+  ]
+ },
+ {
+  "id": "noah-kahan",
+  "years": "2017–present",
+  "origin": "Strafford, Vermont",
+  "genres": [
+   "folk pop",
+   "indie folk",
+   "stomp folk"
+  ],
+  "summary": "Vermont singer-songwriter whose album Stick Season, about small-town life and mental health, went viral and made him a star.",
+  "know": [
+   "Stick Season's title track blew up on TikTok in 2022.",
+   "He was nominated for Best New Artist at the 2024 Grammys.",
+   "He writes about his home state of Vermont."
+  ],
+  "born": "01-01",
+  "keyAlbums": [
+   [
+    "Busyhead",
+    2019
+   ],
+   [
+    "I Was / I Am",
+    2021
+   ],
+   [
+    "Stick Season",
+    2022
+   ]
+  ],
+  "songs": [
+   "Stick Season",
+   "Northern Attitude",
+   "Dial Drunk",
+   "You're Gonna Go Far",
+   "Homesick"
+  ],
+  "influencedBy": [
+   {
+    "id": "mumford-sons",
+    "why": "His banjo-driven folk pop follows the Mumford sound.",
+    "s": 1
+   },
+   {
+    "id": "bon-iver",
+    "why": "His introspective indie folk draws on Bon Iver.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "olivia-rodrigo",
+    "why": "Confessional songs for a young audience."
+   },
+   {
+    "id": "ed-sheeran",
+    "why": "Acoustic pop with big singalongs."
+   }
+  ]
+ }
+]

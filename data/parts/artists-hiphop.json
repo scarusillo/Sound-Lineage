@@ -1,0 +1,3604 @@
+[
+ {
+  "id": "dj-kool-herc",
+  "years": "1973–present",
+  "origin": "Bronx, New York",
+  "genres": [
+   "breakbeat DJing",
+   "old-school hip hop"
+  ],
+  "summary": "Jamaican-born DJ whose Bronx block parties are widely treated as the starting point of hip hop. He invented the idea of extending a record's drum break so dancers could keep going.",
+  "know": [
+   "Born Clive Campbell in Kingston, Jamaica, he moved to the Bronx as a boy in 1967.",
+   "His August 11, 1973 party at 1520 Sedgwick Avenue is often cited as hip hop's birthday.",
+   "He looped breaks with two copies of the same record, a technique he called the Merry-Go-Round."
+  ],
+  "born": "04-16",
+  "keyAlbums": [],
+  "songs": [
+   "Apache (Incredible Bongo Band, a Herc staple)",
+   "Give It Up or Turnit a Loose (James Brown, a Herc staple)",
+   "Bongo Rock (Incredible Bongo Band, a Herc staple)"
+  ],
+  "influencedBy": [
+   {
+    "id": "james-brown",
+    "why": "James Brown breaks were the core of Herc's sets, and he switched to funk records when reggae did not move Bronx crowds.",
+    "s": 3
+   },
+   {
+    "id": "king-tubby",
+    "why": "Herc carried over the Jamaican sound system culture of big custom speakers and talking over instrumentals that Tubby's world defined.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "frankie-knuckles",
+    "why": "Another DJ who built a whole genre out of what he played at parties."
+   },
+   {
+    "id": "king-tubby",
+    "why": "A sound system figure whose technical tricks became the foundation of a new genre."
+   }
+  ]
+ },
+ {
+  "id": "grandmaster-flash",
+  "years": "1976–1988",
+  "origin": "Bronx, New York",
+  "genres": [
+   "old-school hip hop",
+   "turntablism",
+   "conscious hip hop"
+  ],
+  "summary": "Bronx DJ and his crew of rappers who turned DJing into a precise craft and then made 'The Message,' the record that showed rap could report on real life.",
+  "know": [
+   "In 2007 they became the first hip hop act inducted into the Rock and Roll Hall of Fame.",
+   "Flash refined cutting and backspinning, cueing breaks with headphones so the mix never dropped.",
+   "'The Adventures of Grandmaster Flash on the Wheels of Steel' (1981) was built live from records by Chic, Queen and Blondie."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Message",
+    1982
+   ],
+   [
+    "Greatest Messages",
+    1983
+   ]
+  ],
+  "songs": [
+   "The Message",
+   "The Adventures of Grandmaster Flash on the Wheels of Steel",
+   "Freedom",
+   "White Lines (Don't Don't Do It)",
+   "Superrappin'"
+  ],
+  "influencedBy": [
+   {
+    "id": "dj-kool-herc",
+    "why": "Flash took Herc's break-looping idea and made it tight and precise on the turntables.",
+    "s": 3
+   },
+   {
+    "id": "james-brown",
+    "why": "James Brown breaks were basic material for Flash's sets and early mixes.",
+    "s": 2
+   },
+   {
+    "id": "chic",
+    "why": "Chic's 'Good Times' is a central piece of 'Wheels of Steel.'",
+    "s": 2
+   },
+   {
+    "id": "queen",
+    "why": "'Another One Bites the Dust' is cut into 'Wheels of Steel.'",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "gil-scott-heron",
+    "why": "Turned grim city life into sharp spoken social commentary."
+   },
+   {
+    "id": "the-clash",
+    "why": "A band that wrote about urban decay and shared stages with Flash in 1981."
+   }
+  ]
+ },
+ {
+  "id": "sugarhill-gang",
+  "years": "1979–1985",
+  "origin": "Englewood, New Jersey",
+  "genres": [
+   "old-school hip hop",
+   "disco rap"
+  ],
+  "summary": "A trio put together by Sugar Hill Records whose 'Rapper's Delight' was the first rap record most of the world ever heard.",
+  "know": [
+   "'Rapper's Delight' (1979) was the first rap single to reach the US Top 40.",
+   "Sylvia Robinson of Sugar Hill Records assembled the group.",
+   "The track's groove replays the bassline of Chic's 'Good Times.'"
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Sugarhill Gang",
+    1980
+   ],
+   [
+    "8th Wonder",
+    1981
+   ]
+  ],
+  "songs": [
+   "Rapper's Delight",
+   "8th Wonder",
+   "Apache",
+   "Rapper's Reprise"
+  ],
+  "influencedBy": [
+   {
+    "id": "chic",
+    "why": "'Rapper's Delight' is built on a replayed version of Chic's 'Good Times' groove.",
+    "s": 3
+   },
+   {
+    "id": "dj-kool-herc",
+    "why": "Their party-rap style came from the Bronx park-jam scene that Herc started.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-ronettes",
+    "why": "A producer-assembled act that became the first big hit for a new sound."
+   },
+   {
+    "id": "donna-summer",
+    "why": "Turned a club sound into a worldwide radio hit in the same disco era."
+   }
+  ]
+ },
+ {
+  "id": "afrika-bambaataa",
+  "years": "1977–present",
+  "origin": "Bronx, New York",
+  "genres": [
+   "electro",
+   "electro-funk",
+   "old-school hip hop"
+  ],
+  "summary": "Bronx DJ and organizer whose 'Planet Rock' fused German synth-pop with funk and launched electro. He also founded the Universal Zulu Nation.",
+  "know": [
+   "'Planet Rock' (1982) borrows Kraftwerk's 'Trans-Europe Express' melody over a Roland TR-808 beat.",
+   "He founded the Universal Zulu Nation, an organization built around hip hop culture.",
+   "He recorded 'Unity' with James Brown in 1984."
+  ],
+  "born": "04-17",
+  "keyAlbums": [
+   [
+    "Planet Rock: The Album",
+    1986
+   ],
+   [
+    "Beware (The Funk Is Everywhere)",
+    1986
+   ]
+  ],
+  "songs": [
+   "Planet Rock",
+   "Looking for the Perfect Beat",
+   "Renegades of Funk",
+   "Unity"
+  ],
+  "influencedBy": [
+   {
+    "id": "kraftwerk",
+    "why": "'Planet Rock' lifts Kraftwerk's 'Trans-Europe Express' melody and 'Numbers' rhythm.",
+    "s": 3
+   },
+   {
+    "id": "james-brown",
+    "why": "He played James Brown records constantly and later recorded 'Unity' with him.",
+    "s": 3
+   },
+   {
+    "id": "parliament-funkadelic",
+    "why": "P-Funk's cosmic funk shaped his sound and his Soulsonic Force image.",
+    "s": 2
+   },
+   {
+    "id": "yellow-magic-orchestra",
+    "why": "He was known for playing YMO records in his DJ sets, part of his electro palette.",
+    "s": 2
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Sly's records were staples of his sets and his message of unity.",
+    "s": 2
+   },
+   {
+    "id": "dj-kool-herc",
+    "why": "He followed Herc's lead in building parties around breaks.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "juan-atkins",
+    "why": "Another early builder of electro who took Kraftwerk into Black American dance music."
+   },
+   {
+    "id": "fela-kuti",
+    "why": "A bandleader who tied dance music to a pan-African message."
+   }
+  ]
+ },
+ {
+  "id": "run-dmc",
+  "years": "1981–2002",
+  "origin": "Hollis, Queens, New York",
+  "genres": [
+   "hardcore hip hop",
+   "rap rock",
+   "old-school hip hop"
+  ],
+  "summary": "Queens trio that stripped rap down to hard drums and shouted rhymes, and took it into the rock mainstream.",
+  "know": [
+   "Their 1984 debut was the first rap album certified gold.",
+   "'Raising Hell' (1986) was the first rap album to go multi-platinum.",
+   "'My Adidas' led to an endorsement deal with Adidas."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Run-D.M.C.",
+    1984
+   ],
+   [
+    "King of Rock",
+    1985
+   ],
+   [
+    "Raising Hell",
+    1986
+   ],
+   [
+    "Tougher Than Leather",
+    1988
+   ]
+  ],
+  "songs": [
+   "Sucker M.C.'s",
+   "Rock Box",
+   "Walk This Way",
+   "It's Tricky",
+   "My Adidas"
+  ],
+  "influencedBy": [
+   {
+    "id": "aerosmith",
+    "why": "They remade 'Walk This Way' with Steven Tyler and Joe Perry, joining rap and rock.",
+    "s": 3
+   },
+   {
+    "id": "grandmaster-flash",
+    "why": "They grew up on the Bronx pioneers and pushed their style into a harder sound.",
+    "s": 2
+   },
+   {
+    "id": "dj-kool-herc",
+    "why": "Their records are built on the break-based approach Herc started.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "ramones",
+    "why": "A blunt, stripped-down group that dressed the part and simplified their genre."
+   },
+   {
+    "id": "ac-dc",
+    "why": "Loud, minimal and built on drums and riffs."
+   }
+  ]
+ },
+ {
+  "id": "ll-cool-j",
+  "years": "1984–present",
+  "origin": "Queens, New York",
+  "genres": [
+   "golden age hip hop",
+   "hardcore hip hop",
+   "pop rap"
+  ],
+  "summary": "Rapper who was Def Jam's first star and showed rap could have both tough battle songs and love ballads.",
+  "know": [
+   "'Radio' (1985) was the first full-length album released by Def Jam.",
+   "'I Need Love' was one of the first rap ballads to top the R&B chart.",
+   "In 2017 he became the first rapper given a Kennedy Center Honor."
+  ],
+  "born": "01-14",
+  "keyAlbums": [
+   [
+    "Radio",
+    1985
+   ],
+   [
+    "Bigger and Deffer",
+    1987
+   ],
+   [
+    "Mama Said Knock You Out",
+    1990
+   ],
+   [
+    "Mr. Smith",
+    1995
+   ]
+  ],
+  "songs": [
+   "I Can't Live Without My Radio",
+   "Rock the Bells",
+   "I Need Love",
+   "Mama Said Knock You Out",
+   "Doin' It"
+  ],
+  "influencedBy": [
+   {
+    "id": "sugarhill-gang",
+    "why": "He has said hearing 'Rapper's Delight' made him want to rap.",
+    "s": 2
+   },
+   {
+    "id": "grandmaster-flash",
+    "why": "He came up idolizing the Furious Five, especially Melle Mel.",
+    "s": 2
+   },
+   {
+    "id": "run-dmc",
+    "why": "He shared Run-DMC's label circle and their hard, drum-heavy approach.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "elvis-presley",
+    "why": "A good-looking star who made a rough new sound into a teen idol phenomenon."
+   },
+   {
+    "id": "usher",
+    "why": "Built a career on smooth love songs aimed at women."
+   }
+  ]
+ },
+ {
+  "id": "beastie-boys",
+  "years": "1981–2012",
+  "origin": "New York City, New York",
+  "genres": [
+   "rap rock",
+   "alternative hip hop",
+   "sample collage"
+  ],
+  "summary": "Three New York punks who became a rap group, made the first No. 1 rap album and then reinvented themselves with sample collages and live instruments.",
+  "know": [
+   "They started as a hardcore punk band in 1981.",
+   "'Licensed to Ill' (1986) was the first rap album to top the Billboard 200.",
+   "The group ended after Adam Yauch died in 2012."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Licensed to Ill",
+    1986
+   ],
+   [
+    "Paul's Boutique",
+    1989
+   ],
+   [
+    "Check Your Head",
+    1992
+   ],
+   [
+    "Ill Communication",
+    1994
+   ]
+  ],
+  "songs": [
+   "(You Gotta) Fight for Your Right (To Party!)",
+   "No Sleep till Brooklyn",
+   "Shake Your Rump",
+   "So What'cha Want",
+   "Sabotage"
+  ],
+  "influencedBy": [
+   {
+    "id": "run-dmc",
+    "why": "They toured with Run-DMC and shared producer Rick Rubin while moving into rap.",
+    "s": 3
+   },
+   {
+    "id": "bad-brains",
+    "why": "Bad Brains drove their teenage hardcore punk years.",
+    "s": 3
+   },
+   {
+    "id": "led-zeppelin",
+    "why": "'Rhymin & Stealin' is built on the drums of 'When the Levee Breaks.'",
+    "s": 2
+   },
+   {
+    "id": "the-beatles",
+    "why": "'Paul's Boutique' samples several Beatles songs, most clearly on 'The Sounds of Science.'",
+    "s": 2
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "'Shadrach' is built on Sly's 'Loose Booty.'",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "red-hot-chili-peppers",
+    "why": "A punk-rooted party band that grew into a more serious one."
+   },
+   {
+    "id": "the-clash",
+    "why": "Punks who soaked up hip hop and dub."
+   }
+  ]
+ },
+ {
+  "id": "rakim",
+  "years": "1985–1992",
+  "origin": "Wyandanch, New York",
+  "genres": [
+   "golden age hip hop",
+   "boom bap",
+   "East Coast hip hop"
+  ],
+  "summary": "Duo of DJ Eric B. and rapper Rakim, whose calm, intricate rhyming changed how rappers wrote and delivered verses.",
+  "know": [
+   "Rakim's internal rhymes and relaxed delivery replaced the shouted style of early rap.",
+   "Rakim has said he modeled his phrasing on John Coltrane's saxophone.",
+   "Coldcut's remix of 'Paid in Full' was a hit in the UK in 1987."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Paid in Full",
+    1987
+   ],
+   [
+    "Follow the Leader",
+    1988
+   ],
+   [
+    "Let the Rhythm Hit 'Em",
+    1990
+   ],
+   [
+    "Don't Sweat the Technique",
+    1992
+   ]
+  ],
+  "songs": [
+   "Eric B. Is President",
+   "I Know You Got Soul",
+   "Paid in Full",
+   "Follow the Leader",
+   "Microphone Fiend"
+  ],
+  "influencedBy": [
+   {
+    "id": "john-coltrane",
+    "why": "Rakim played saxophone and said he approached rhyme like Coltrane approached solos.",
+    "s": 3
+   },
+   {
+    "id": "james-brown",
+    "why": "Their beats lean heavily on James Brown camp records, like Bobby Byrd's 'I Know You Got Soul.'",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "charlie-parker",
+    "why": "Changed what a soloist could do with rhythm and phrasing."
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "Redefined technique on his instrument for everyone after him."
+   }
+  ]
+ },
+ {
+  "id": "krs-one",
+  "years": "1986–1992",
+  "origin": "Bronx, New York",
+  "genres": [
+   "golden age hip hop",
+   "conscious hip hop",
+   "hardcore hip hop"
+  ],
+  "summary": "Bronx group led by KRS-One that moved from street records to teaching-style rap after DJ Scott La Rock was killed.",
+  "know": [
+   "Co-founder Scott La Rock was shot dead in 1987, months after 'Criminal Minded' came out.",
+   "'The Bridge Is Over' was a key shot in the Bridge Wars against Queensbridge's Juice Crew.",
+   "KRS-One led the Stop the Violence Movement and its 1989 single 'Self Destruction.'"
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Criminal Minded",
+    1987
+   ],
+   [
+    "By All Means Necessary",
+    1988
+   ],
+   [
+    "Ghetto Music: The Blueprint of Hip Hop",
+    1989
+   ],
+   [
+    "Edutainment",
+    1990
+   ]
+  ],
+  "songs": [
+   "South Bronx",
+   "The Bridge Is Over",
+   "My Philosophy",
+   "Stop the Violence",
+   "Love's Gonna Get'cha (Material Love)"
+  ],
+  "influencedBy": [
+   {
+    "id": "james-brown",
+    "why": "Their early beats draw on James Brown funk breaks.",
+    "s": 2
+   },
+   {
+    "id": "dj-kool-herc",
+    "why": "'South Bronx' lays out the Bronx origin story with Herc at its center.",
+    "s": 2
+   },
+   {
+    "id": "billy-joel",
+    "why": "'The Bridge Is Over' borrows the piano line of 'It's Still Rock and Roll to Me.'",
+    "s": 1
+   },
+   {
+    "id": "ac-dc",
+    "why": "'Dope Beat' samples 'Back in Black.'",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bob-marley",
+    "why": "A teacher-preacher figure whose songs carried a political lesson."
+   },
+   {
+    "id": "the-clash",
+    "why": "Political, confrontational and openly preachy about it."
+   }
+  ]
+ },
+ {
+  "id": "public-enemy",
+  "years": "1985–present",
+  "origin": "Roosevelt, Long Island, New York",
+  "genres": [
+   "political hip hop",
+   "hardcore hip hop",
+   "noise rap"
+  ],
+  "summary": "Long Island group led by Chuck D and Flavor Flav whose dense, noisy production and political lyrics made them hip hop's most confrontational band.",
+  "know": [
+   "Their production team, the Bomb Squad, layered dozens of samples into single tracks.",
+   "'Fight the Power' was written for Spike Lee's 'Do the Right Thing' (1989).",
+   "They were inducted into the Rock and Roll Hall of Fame in 2013."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Yo! Bum Rush the Show",
+    1987
+   ],
+   [
+    "It Takes a Nation of Millions to Hold Us Back",
+    1988
+   ],
+   [
+    "Fear of a Black Planet",
+    1990
+   ],
+   [
+    "Apocalypse 91... The Enemy Strikes Black",
+    1991
+   ]
+  ],
+  "songs": [
+   "Rebel Without a Pause",
+   "Bring the Noise",
+   "Don't Believe the Hype",
+   "Fight the Power",
+   "911 Is a Joke"
+  ],
+  "influencedBy": [
+   {
+    "id": "james-brown",
+    "why": "James Brown samples run all through their records, and 'Fight the Power' borrows his grooves and shouts.",
+    "s": 3
+   },
+   {
+    "id": "run-dmc",
+    "why": "Chuck D has credited Run-DMC with making hard, rock-sized rap possible.",
+    "s": 2
+   },
+   {
+    "id": "gil-scott-heron",
+    "why": "Their political rap follows the path of Scott-Heron's spoken-word protest.",
+    "s": 2
+   },
+   {
+    "id": "isaac-hayes",
+    "why": "'Black Steel in the Hour of Chaos' is built on an Isaac Hayes sample.",
+    "s": 2
+   },
+   {
+    "id": "slayer",
+    "why": "'She Watch Channel Zero?!' samples Slayer's 'Angel of Death.'",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-clash",
+    "why": "The political standard-bearers of their genre."
+   },
+   {
+    "id": "rage-against-the-machine",
+    "why": "Loud political music aimed at the system."
+   }
+  ]
+ },
+ {
+  "id": "nwa",
+  "years": "1987–1991",
+  "origin": "Compton, California",
+  "genres": [
+   "gangsta rap",
+   "West Coast hip hop",
+   "hardcore hip hop"
+  ],
+  "summary": "Compton group of Eazy-E, Ice Cube, Dr. Dre, MC Ren and DJ Yella that put West Coast gangsta rap on the map and drew fights with police and censors.",
+  "know": [
+   "An FBI official sent a warning letter to their label over 'Fuck tha Police' in 1989.",
+   "'Straight Outta Compton' went platinum with almost no radio play.",
+   "They were inducted into the Rock and Roll Hall of Fame in 2016."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Straight Outta Compton",
+    1988
+   ],
+   [
+    "Efil4zaggin",
+    1991
+   ]
+  ],
+  "songs": [
+   "Straight Outta Compton",
+   "Fuck tha Police",
+   "Express Yourself",
+   "Gangsta Gangsta",
+   "Dopeman"
+  ],
+  "influencedBy": [
+   {
+    "id": "public-enemy",
+    "why": "Their loud, dense production and anti-police stance took cues from Public Enemy.",
+    "s": 2
+   },
+   {
+    "id": "run-dmc",
+    "why": "Run-DMC's hard drum-machine sound was the starting point for their beats.",
+    "s": 2
+   },
+   {
+    "id": "parliament-funkadelic",
+    "why": "Dre's funk samples point toward the P-Funk sound he later built G-funk on.",
+    "s": 2
+   },
+   {
+    "id": "james-brown",
+    "why": "James Brown breaks are all over their early tracks.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "sex-pistols",
+    "why": "Shocked the establishment and drew censors and police attention."
+   },
+   {
+    "id": "black-flag",
+    "why": "Los Angeles band known for its battles with the LAPD."
+   }
+  ]
+ },
+ {
+  "id": "de-la-soul",
+  "years": "1988–present",
+  "origin": "Amityville, Long Island, New York",
+  "genres": [
+   "alternative hip hop",
+   "jazz rap",
+   "Native Tongues"
+  ],
+  "summary": "Long Island trio whose playful, sample-packed debut with producer Prince Paul opened up a gentler, stranger side of rap.",
+  "know": [
+   "'3 Feet High and Rising' was produced by Prince Paul.",
+   "They were sued by the Turtles over a sample, a landmark case in sample clearance.",
+   "Their catalog was off streaming services until 2023 because of sample rights."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "3 Feet High and Rising",
+    1989
+   ],
+   [
+    "De La Soul Is Dead",
+    1991
+   ],
+   [
+    "Buhloone Mindstate",
+    1993
+   ],
+   [
+    "Stakes Is High",
+    1996
+   ]
+  ],
+  "songs": [
+   "Me Myself and I",
+   "Eye Know",
+   "The Magic Number",
+   "Ring Ring Ring (Ha Ha Hey)",
+   "Stakes Is High"
+  ],
+  "influencedBy": [
+   {
+    "id": "parliament-funkadelic",
+    "why": "'Me Myself and I' is built on Funkadelic's '(Not Just) Knee Deep.'",
+    "s": 3
+   },
+   {
+    "id": "j-dilla",
+    "why": "Dilla produced the title track of 'Stakes Is High.'",
+    "s": 3
+   },
+   {
+    "id": "steely-dan",
+    "why": "'Eye Know' samples Steely Dan's 'Peg.'",
+    "s": 2
+   },
+   {
+    "id": "otis-redding",
+    "why": "'Eye Know' uses the whistle from 'Sittin' On the Dock of the Bay.'",
+    "s": 2
+   },
+   {
+    "id": "johnny-cash",
+    "why": "'The Magic Number' samples 'Five Feet High and Rising,' which also inspired the album title.",
+    "s": 2
+   },
+   {
+    "id": "afrika-bambaataa",
+    "why": "Their Native Tongues circle grew out of the Zulu Nation scene.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "talking-heads",
+    "why": "Art-school weirdness that still made people dance."
+   },
+   {
+    "id": "the-avalanches",
+    "why": "Built whole worlds out of playful sample collage."
+   }
+  ]
+ },
+ {
+  "id": "slick-rick",
+  "years": "1984–present",
+  "origin": "Bronx, New York",
+  "genres": [
+   "golden age hip hop",
+   "storytelling rap"
+  ],
+  "summary": "London-born Bronx rapper with a British accent and an eyepatch whose story songs are some of the most quoted verses in hip hop.",
+  "know": [
+   "He was born in London and moved to the Bronx as a child.",
+   "'La Di Da Di' with Doug E. Fresh is one of the most sampled and interpolated songs in hip hop.",
+   "He lost the sight in his right eye in a childhood accident, hence the eyepatch."
+  ],
+  "born": "01-14",
+  "keyAlbums": [
+   [
+    "The Great Adventures of Slick Rick",
+    1988
+   ],
+   [
+    "The Ruler's Back",
+    1991
+   ],
+   [
+    "Behind Bars",
+    1994
+   ],
+   [
+    "The Art of Storytelling",
+    1999
+   ]
+  ],
+  "songs": [
+   "La Di Da Di",
+   "The Show",
+   "Children's Story",
+   "Mona Lisa",
+   "Hey Young World"
+  ],
+  "influencedBy": [],
+  "cousins": [
+   {
+    "id": "the-kinks",
+    "why": "Very British character sketches told with humor."
+   },
+   {
+    "id": "johnny-cash",
+    "why": "Narrative songs about crime and consequences."
+   }
+  ]
+ },
+ {
+  "id": "lauryn-hill",
+  "years": "1993–present",
+  "origin": "South Orange, New Jersey",
+  "genres": [
+   "neo soul",
+   "conscious hip hop",
+   "hip hop soul"
+  ],
+  "summary": "Singer and rapper from the Fugees whose only solo studio album blended rap and soul and won Album of the Year.",
+  "know": [
+   "'The Miseducation of Lauryn Hill' won five Grammys, including Album of the Year.",
+   "She first broke through as a member of the Fugees with 'The Score' (1996).",
+   "She has never released a second solo studio album."
+  ],
+  "born": "05-26",
+  "keyAlbums": [
+   [
+    "The Score (with the Fugees)",
+    1996
+   ],
+   [
+    "The Miseducation of Lauryn Hill",
+    1998
+   ],
+   [
+    "MTV Unplugged No. 2.0",
+    2002
+   ]
+  ],
+  "songs": [
+   "Killing Me Softly (Fugees)",
+   "Ready or Not (Fugees)",
+   "Doo Wop (That Thing)",
+   "Ex-Factor",
+   "Everything Is Everything"
+  ],
+  "influencedBy": [
+   {
+    "id": "bob-marley",
+    "why": "The Fugees covered 'No Woman, No Cry,' and Marley's music runs through her work.",
+    "s": 3
+   },
+   {
+    "id": "stevie-wonder",
+    "why": "She has named Stevie Wonder as a major influence on her songwriting.",
+    "s": 2
+   },
+   {
+    "id": "aretha-franklin",
+    "why": "Her mix of gospel power and soul phrasing follows Aretha.",
+    "s": 2
+   },
+   {
+    "id": "nina-simone",
+    "why": "She has cited Nina Simone and recorded her songs for a 2015 tribute.",
+    "s": 2
+   },
+   {
+    "id": "wu-tang-clan",
+    "why": "'Ex-Factor' is built on Wu-Tang's 'Can It Be All So Simple.'",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "joni-mitchell",
+    "why": "A singer-songwriter whose personal masterpiece defined her."
+   },
+   {
+    "id": "amy-winehouse",
+    "why": "Mixed classic soul with a modern, personal voice."
+   }
+  ]
+ },
+ {
+  "id": "dr-dre",
+  "years": "1984–present",
+  "origin": "Compton, California",
+  "genres": [
+   "G-funk",
+   "West Coast hip hop",
+   "gangsta rap"
+  ],
+  "summary": "Producer and rapper who shaped N.W.A, invented the G-funk sound with 'The Chronic' and launched Snoop Dogg, Eminem, 50 Cent and Kendrick Lamar.",
+  "know": [
+   "He co-founded N.W.A and later Death Row Records.",
+   "His Aftermath label signed Eminem, 50 Cent and Kendrick Lamar.",
+   "He co-founded Beats Electronics, which Apple bought in 2014."
+  ],
+  "born": "02-18",
+  "keyAlbums": [
+   [
+    "Straight Outta Compton (with N.W.A)",
+    1988
+   ],
+   [
+    "The Chronic",
+    1992
+   ],
+   [
+    "2001",
+    1999
+   ],
+   [
+    "Compton",
+    2015
+   ]
+  ],
+  "songs": [
+   "Nuthin' but a 'G' Thang",
+   "Let Me Ride",
+   "Still D.R.E.",
+   "Forgot About Dre",
+   "The Next Episode"
+  ],
+  "influencedBy": [
+   {
+    "id": "parliament-funkadelic",
+    "why": "G-funk is built on P-Funk, and 'Let Me Ride' takes from 'Mothership Connection.'",
+    "s": 3
+   },
+   {
+    "id": "james-brown",
+    "why": "'Let Me Ride' also uses James Brown's 'Funky Drummer' break.",
+    "s": 2
+   },
+   {
+    "id": "grandmaster-flash",
+    "why": "He started as a DJ inspired by the Bronx turntable pioneers.",
+    "s": 2
+   },
+   {
+    "id": "afrika-bambaataa",
+    "why": "His World Class Wreckin' Cru years were rooted in the electro sound Bambaataa launched.",
+    "s": 1
+   },
+   {
+    "id": "kraftwerk",
+    "why": "Electro's synth roots, via Kraftwerk, shaped his early drum-machine work.",
+    "s": 1
+   },
+   {
+    "id": "run-dmc",
+    "why": "Run-DMC's hard drum-machine sound set the template for early N.W.A beats.",
+    "s": 1
+   },
+   {
+    "id": "public-enemy",
+    "why": "N.W.A's dense, aggressive early production followed Public Enemy's lead.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "giorgio-moroder",
+    "why": "A producer whose studio sound defined an era."
+   },
+   {
+    "id": "brian-eno",
+    "why": "A producer-artist whose touch defined other people's classic records."
+   }
+  ]
+ },
+ {
+  "id": "snoop-dogg",
+  "years": "1992–present",
+  "origin": "Long Beach, California",
+  "genres": [
+   "G-funk",
+   "West Coast hip hop",
+   "gangsta rap"
+  ],
+  "summary": "Long Beach rapper with a famously relaxed drawl who became the voice of Dr. Dre's G-funk and later a pop-culture fixture.",
+  "know": [
+   "He debuted on Dr. Dre's 'Deep Cover' in 1992.",
+   "'Doggystyle' debuted at No. 1 on the Billboard 200 in 1993.",
+   "'Drop It Like It's Hot' with Pharrell was his first No. 1 single."
+  ],
+  "born": "10-20",
+  "keyAlbums": [
+   [
+    "Doggystyle",
+    1993
+   ],
+   [
+    "Tha Doggfather",
+    1996
+   ],
+   [
+    "R&G (Rhythm & Gangsta): The Masterpiece",
+    2004
+   ],
+   [
+    "Reincarnated",
+    2013
+   ]
+  ],
+  "songs": [
+   "Nuthin' but a 'G' Thang",
+   "Gin and Juice",
+   "What's My Name? (Who Am I?)",
+   "Drop It Like It's Hot",
+   "Beautiful"
+  ],
+  "influencedBy": [
+   {
+    "id": "dr-dre",
+    "why": "Dre discovered him, produced 'Doggystyle' and shaped his sound.",
+    "s": 3
+   },
+   {
+    "id": "slick-rick",
+    "why": "He remade 'La Di Da Di' as 'Lodi Dodi' on 'Doggystyle.'",
+    "s": 3
+   },
+   {
+    "id": "parliament-funkadelic",
+    "why": "His G-funk records are steeped in P-Funk, and he has worked with George Clinton.",
+    "s": 3
+   },
+   {
+    "id": "bob-marley",
+    "why": "He made a reggae album, 'Reincarnated,' as Snoop Lion in 2013.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "willie-nelson",
+    "why": "A laid-back elder statesman with a famous love of weed."
+   },
+   {
+    "id": "bob-marley",
+    "why": "A relaxed, smoke-wreathed icon whose image went global."
+   }
+  ]
+ },
+ {
+  "id": "ice-cube",
+  "years": "1984–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "gangsta rap",
+   "West Coast hip hop",
+   "political hip hop"
+  ],
+  "summary": "N.W.A's main lyricist, who went solo with a sharp political edge and then became a film star and producer.",
+  "know": [
+   "He wrote much of N.W.A's lyrics before leaving the group in 1989.",
+   "His solo debut was produced in New York with Public Enemy's Bomb Squad.",
+   "He co-wrote and starred in 'Friday' and founded the BIG3 basketball league."
+  ],
+  "born": "06-15",
+  "keyAlbums": [
+   [
+    "AmeriKKKa's Most Wanted",
+    1990
+   ],
+   [
+    "Death Certificate",
+    1991
+   ],
+   [
+    "The Predator",
+    1992
+   ],
+   [
+    "Lethal Injection",
+    1993
+   ]
+  ],
+  "songs": [
+   "AmeriKKKa's Most Wanted",
+   "Steady Mobbin'",
+   "No Vaseline",
+   "It Was a Good Day",
+   "Check Yo Self"
+  ],
+  "influencedBy": [
+   {
+    "id": "public-enemy",
+    "why": "The Bomb Squad produced his solo debut and he took on their political edge.",
+    "s": 3
+   },
+   {
+    "id": "dr-dre",
+    "why": "Dre produced the N.W.A records where Cube developed his voice.",
+    "s": 3
+   },
+   {
+    "id": "parliament-funkadelic",
+    "why": "He recorded 'Bop Gun (One Nation)' with George Clinton.",
+    "s": 3
+   },
+   {
+    "id": "run-dmc",
+    "why": "Run-DMC's records were his early model for hard rap.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "rage-against-the-machine",
+    "why": "Angry political music aimed at police and power."
+   },
+   {
+    "id": "johnny-cash",
+    "why": "An outlaw storyteller who became a screen figure too."
+   }
+  ]
+ },
+ {
+  "id": "wu-tang-clan",
+  "years": "1992–present",
+  "origin": "Staten Island, New York",
+  "genres": [
+   "East Coast hip hop",
+   "hardcore hip hop",
+   "boom bap"
+  ],
+  "summary": "Nine-member Staten Island collective led by producer RZA, mixing grimy soul samples, kung fu films and many distinct voices.",
+  "know": [
+   "RZA negotiated a deal that let members sign solo contracts with other labels.",
+   "Their imagery and samples come from kung fu films like 'Shaolin and Wu Tang.'",
+   "They sold a single copy of 'Once Upon a Time in Shaolin' in 2015."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Enter the Wu-Tang (36 Chambers)",
+    1993
+   ],
+   [
+    "Wu-Tang Forever",
+    1997
+   ],
+   [
+    "The W",
+    2000
+   ],
+   [
+    "8 Diagrams",
+    2007
+   ]
+  ],
+  "songs": [
+   "Protect Ya Neck",
+   "C.R.E.A.M.",
+   "Method Man",
+   "Triumph",
+   "Da Mystery of Chessboxin'"
+  ],
+  "influencedBy": [
+   {
+    "id": "thelonious-monk",
+    "why": "'Shame on a Nigga' samples Thelonious Monk.",
+    "s": 2
+   },
+   {
+    "id": "rakim",
+    "why": "GZA and RZA came up on Rakim's dense, cerebral rhyming and Five Percent references.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "minor-threat",
+    "why": "A crew built on collective DIY grit and self-run independence."
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "New York outsiders with a raw sound and a huge cult following."
+   }
+  ]
+ },
+ {
+  "id": "nas",
+  "years": "1991–present",
+  "origin": "Queensbridge, Queens, New York",
+  "genres": [
+   "East Coast hip hop",
+   "boom bap",
+   "conscious hip hop"
+  ],
+  "summary": "Queensbridge rapper whose debut 'Illmatic' is often called the greatest hip hop album for its detailed street poetry.",
+  "know": [
+   "He debuted with a verse on Main Source's 'Live at the Barbeque' in 1991.",
+   "'Illmatic' was produced by DJ Premier, Pete Rock, Q-Tip, Large Professor and L.E.S.",
+   "'King's Disease' won the Grammy for Best Rap Album, his first Grammy."
+  ],
+  "born": "09-14",
+  "keyAlbums": [
+   [
+    "Illmatic",
+    1994
+   ],
+   [
+    "It Was Written",
+    1996
+   ],
+   [
+    "Stillmatic",
+    2001
+   ],
+   [
+    "King's Disease",
+    2020
+   ]
+  ],
+  "songs": [
+   "N.Y. State of Mind",
+   "The World Is Yours",
+   "It Ain't Hard to Tell",
+   "If I Ruled the World (Imagine That)",
+   "One Mic"
+  ],
+  "influencedBy": [
+   {
+    "id": "rakim",
+    "why": "He has named Rakim as his main model for complex, calm rhyming.",
+    "s": 3
+   },
+   {
+    "id": "a-tribe-called-quest",
+    "why": "Q-Tip produced 'One Love' on 'Illmatic.'",
+    "s": 3
+   },
+   {
+    "id": "slick-rick",
+    "why": "His story songs follow Slick Rick's narrative style.",
+    "s": 2
+   },
+   {
+    "id": "michael-jackson",
+    "why": "'It Ain't Hard to Tell' samples 'Human Nature.'",
+    "s": 2
+   },
+   {
+    "id": "krs-one",
+    "why": "He grew up in the Bridge Wars era that KRS-One defined.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bob-dylan",
+    "why": "The poet laureate figure of his genre."
+   },
+   {
+    "id": "bruce-springsteen",
+    "why": "Detailed, cinematic songs about his home turf."
+   }
+  ]
+ },
+ {
+  "id": "notorious-big",
+  "years": "1992–1997",
+  "origin": "Brooklyn, New York",
+  "genres": [
+   "East Coast hip hop",
+   "mafioso rap",
+   "hardcore hip hop"
+  ],
+  "summary": "Brooklyn rapper with an easy, conversational flow and vivid stories who led Bad Boy Records before he was killed at 24.",
+  "know": [
+   "He was the flagship artist of Sean Combs' Bad Boy Records.",
+   "He was killed in Los Angeles on March 9, 1997, 16 days before 'Life After Death' came out.",
+   "'Juicy' is built on Mtume's 'Juicy Fruit.'"
+  ],
+  "born": "05-21",
+  "keyAlbums": [
+   [
+    "Ready to Die",
+    1994
+   ],
+   [
+    "Life After Death",
+    1997
+   ],
+   [
+    "Born Again",
+    1999
+   ]
+  ],
+  "songs": [
+   "Juicy",
+   "Big Poppa",
+   "Hypnotize",
+   "Mo Money Mo Problems",
+   "Ten Crack Commandments"
+  ],
+  "influencedBy": [
+   {
+    "id": "slick-rick",
+    "why": "'Hypnotize' interpolates 'La Di Da Di,' and his storytelling follows Rick's.",
+    "s": 2
+   },
+   {
+    "id": "isaac-hayes",
+    "why": "'Warning' samples Isaac Hayes' 'Walk On By.'",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "frank-sinatra",
+    "why": "Larger-than-life New York charisma with a mob-adjacent mythology."
+   },
+   {
+    "id": "otis-redding",
+    "why": "A star whose death at the peak made his legend bigger."
+   }
+  ]
+ },
+ {
+  "id": "tupac",
+  "years": "1990–1996",
+  "origin": "Oakland, California",
+  "genres": [
+   "West Coast hip hop",
+   "gangsta rap",
+   "conscious hip hop"
+  ],
+  "summary": "Rapper and actor who swung between tender social songs and furious street records, and became hip hop's most mythologized figure after his murder.",
+  "know": [
+   "He started as a roadie and dancer for Digital Underground.",
+   "'Me Against the World' hit No. 1 while he was in prison in 1995.",
+   "'Dear Mama' was added to the National Recording Registry in 2010."
+  ],
+  "born": "06-16",
+  "keyAlbums": [
+   [
+    "2Pacalypse Now",
+    1991
+   ],
+   [
+    "Me Against the World",
+    1995
+   ],
+   [
+    "All Eyez on Me",
+    1996
+   ],
+   [
+    "The Don Killuminati: The 7 Day Theory",
+    1996
+   ]
+  ],
+  "songs": [
+   "Keep Ya Head Up",
+   "Dear Mama",
+   "California Love",
+   "Hit 'Em Up",
+   "Changes"
+  ],
+  "influencedBy": [
+   {
+    "id": "dr-dre",
+    "why": "Dre produced 'California Love,' his comeback single on Death Row.",
+    "s": 3
+   },
+   {
+    "id": "public-enemy",
+    "why": "He has cited Chuck D's political rap as a model.",
+    "s": 2
+   },
+   {
+    "id": "ice-cube",
+    "why": "His early militant gangsta rap follows Cube's mix of politics and street stories.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bob-marley",
+    "why": "A rebel-prophet whose image grew even larger after death."
+   },
+   {
+    "id": "the-doors",
+    "why": "A doomed, poetic frontman whose myth outlived him."
+   }
+  ]
+ },
+ {
+  "id": "jay-z",
+  "years": "1989–present",
+  "origin": "Brooklyn, New York",
+  "genres": [
+   "East Coast hip hop",
+   "mafioso rap",
+   "pop rap"
+  ],
+  "summary": "Brooklyn rapper and executive who turned hustler stories into a long run of hit albums and built a business empire.",
+  "know": [
+   "He co-founded Roc-A-Fella Records in 1995 with Damon Dash and Kareem Burke.",
+   "'The Blueprint' (2001) showcased early production by Kanye West and Just Blaze.",
+   "In 2017 he became the first rapper inducted into the Songwriters Hall of Fame."
+  ],
+  "born": "12-04",
+  "keyAlbums": [
+   [
+    "Reasonable Doubt",
+    1996
+   ],
+   [
+    "The Blueprint",
+    2001
+   ],
+   [
+    "The Black Album",
+    2003
+   ],
+   [
+    "4:44",
+    2017
+   ]
+  ],
+  "songs": [
+   "Dead Presidents II",
+   "Hard Knock Life (Ghetto Anthem)",
+   "Izzo (H.O.V.A.)",
+   "99 Problems",
+   "Empire State of Mind"
+  ],
+  "influencedBy": [
+   {
+    "id": "notorious-big",
+    "why": "Biggie was a close friend and collaborator on 'Brooklyn's Finest.'",
+    "s": 3
+   },
+   {
+    "id": "kanye-west",
+    "why": "Kanye's soul-sample production defined 'The Blueprint.'",
+    "s": 3
+   },
+   {
+    "id": "rakim",
+    "why": "He has named Rakim among the rappers who shaped his style.",
+    "s": 2
+   },
+   {
+    "id": "nas",
+    "why": "'Dead Presidents' samples a Nas vocal line.",
+    "s": 2
+   },
+   {
+    "id": "krs-one",
+    "why": "'Takeover' uses KRS-One's 'Sound of da Police' chant.",
+    "s": 2
+   },
+   {
+    "id": "the-doors",
+    "why": "'Takeover' is built on the Doors' 'Five to One.'",
+    "s": 2
+   },
+   {
+    "id": "the-jackson-5",
+    "why": "'Izzo (H.O.V.A.)' samples 'I Want You Back.'",
+    "s": 2
+   },
+   {
+    "id": "nina-simone",
+    "why": "'The Story of O.J.' is built on 'Four Women.'",
+    "s": 2
+   },
+   {
+    "id": "lee-scratch-perry",
+    "why": "'Lucifer' samples 'Chase the Devil,' which Perry produced.",
+    "s": 2
+   },
+   {
+    "id": "eminem",
+    "why": "Eminem produced and co-wrote 'Renegade' on 'The Blueprint.'",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "frank-sinatra",
+    "why": "The New York chairman-of-the-board figure he often compared himself to."
+   },
+   {
+    "id": "madonna",
+    "why": "Turned a music career into a lasting business empire."
+   }
+  ]
+ },
+ {
+  "id": "a-tribe-called-quest",
+  "years": "1985–2017",
+  "origin": "St. Albans, Queens, New York",
+  "genres": [
+   "jazz rap",
+   "alternative hip hop",
+   "East Coast hip hop"
+  ],
+  "summary": "Queens group of Q-Tip, Phife Dawg and Ali Shaheed Muhammad that married jazz samples to warm, witty rap.",
+  "know": [
+   "'The Low End Theory' features jazz bassist Ron Carter.",
+   "They were core members of the Native Tongues collective.",
+   "Their final album came out in 2016, months after Phife Dawg died."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "People's Instinctive Travels and the Paths of Rhythm",
+    1990
+   ],
+   [
+    "The Low End Theory",
+    1991
+   ],
+   [
+    "Midnight Marauders",
+    1993
+   ],
+   [
+    "We Got It from Here... Thank You 4 Your Service",
+    2016
+   ]
+  ],
+  "songs": [
+   "Can I Kick It?",
+   "Bonita Applebum",
+   "Scenario",
+   "Check the Rhime",
+   "Electric Relaxation"
+  ],
+  "influencedBy": [
+   {
+    "id": "de-la-soul",
+    "why": "Their Native Tongues peers shaped their playful, sample-heavy approach.",
+    "s": 2
+   },
+   {
+    "id": "j-dilla",
+    "why": "Dilla co-produced their later albums as part of the Ummah.",
+    "s": 3
+   },
+   {
+    "id": "art-blakey",
+    "why": "'Excursions' samples Art Blakey and the Jazz Messengers.",
+    "s": 2
+   },
+   {
+    "id": "stevie-wonder",
+    "why": "'Footprints' borrows from Stevie Wonder's 'Sir Duke.'",
+    "s": 2
+   },
+   {
+    "id": "afrika-bambaataa",
+    "why": "The Native Tongues grew out of the Zulu Nation scene.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "steely-dan",
+    "why": "Jazz-literate, cool-headed and quietly sophisticated."
+   },
+   {
+    "id": "massive-attack",
+    "why": "Smooth, sample-built music with a laid-back pulse."
+   }
+  ]
+ },
+ {
+  "id": "outkast",
+  "years": "1992–2014",
+  "origin": "Atlanta, Georgia",
+  "genres": [
+   "Southern hip hop",
+   "psychedelic hip hop",
+   "Dirty South"
+  ],
+  "summary": "Atlanta duo of André 3000 and Big Boi who put Southern rap on equal footing with the coasts and kept reinventing their sound.",
+  "know": [
+   "At the 1995 Source Awards, André said 'the South got something to say.'",
+   "'Speakerboxxx/The Love Below' won the Grammy for Album of the Year.",
+   "Their early production came from Organized Noize."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Southernplayalisticadillacmuzik",
+    1994
+   ],
+   [
+    "Aquemini",
+    1998
+   ],
+   [
+    "Stankonia",
+    2000
+   ],
+   [
+    "Speakerboxxx/The Love Below",
+    2003
+   ]
+  ],
+  "songs": [
+   "Player's Ball",
+   "Elevators (Me & You)",
+   "Rosa Parks",
+   "B.O.B.",
+   "Ms. Jackson",
+   "Hey Ya!"
+  ],
+  "influencedBy": [
+   {
+    "id": "parliament-funkadelic",
+    "why": "George Clinton appears on 'Synthesizer,' and P-Funk shapes their sound.",
+    "s": 3
+   },
+   {
+    "id": "prince",
+    "why": "'The Love Below' leans heavily on Prince's genre-blending funk-pop.",
+    "s": 2
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "André has cited Hendrix and played him in 'Jimi: All Is by My Side.'",
+    "s": 2
+   },
+   {
+    "id": "a-tribe-called-quest",
+    "why": "André has said A Tribe Called Quest was a key early influence.",
+    "s": 2
+   },
+   {
+    "id": "kate-bush",
+    "why": "Big Boi is an outspoken Kate Bush fan.",
+    "s": 2
+   },
+   {
+    "id": "ugk",
+    "why": "UGK's Southern rap paved the regional path OutKast followed.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "david-bowie",
+    "why": "Kept reinventing look and sound album to album."
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Genre-mashing psychedelic party music with a message."
+   }
+  ]
+ },
+ {
+  "id": "the-roots",
+  "years": "1987–present",
+  "origin": "Philadelphia, Pennsylvania",
+  "genres": [
+   "alternative hip hop",
+   "jazz rap",
+   "live-band hip hop"
+  ],
+  "summary": "Philadelphia band led by Black Thought and Questlove that plays hip hop with live instruments and became a late-night TV house band.",
+  "know": [
+   "Black Thought and Questlove met at the Philadelphia High School for Creative and Performing Arts.",
+   "'You Got Me' with Erykah Badu won a Grammy in 2000.",
+   "They have been the house band for Jimmy Fallon's shows since 2009."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Do You Want More?!!!??!",
+    1995
+   ],
+   [
+    "Illadelph Halflife",
+    1996
+   ],
+   [
+    "Things Fall Apart",
+    1999
+   ],
+   [
+    "Phrenology",
+    2002
+   ]
+  ],
+  "songs": [
+   "Proceed",
+   "What They Do",
+   "You Got Me",
+   "The Seed (2.0)",
+   "The Next Movement"
+  ],
+  "influencedBy": [
+   {
+    "id": "j-dilla",
+    "why": "Questlove has said Dilla's off-grid drum feel changed how he plays.",
+    "s": 3
+   },
+   {
+    "id": "prince",
+    "why": "Questlove has called Prince his biggest musical hero.",
+    "s": 3
+   },
+   {
+    "id": "a-tribe-called-quest",
+    "why": "Their jazz-leaning rap follows Tribe's lead.",
+    "s": 2
+   },
+   {
+    "id": "james-brown",
+    "why": "Their live funk grooves come out of James Brown's band.",
+    "s": 2
+   },
+   {
+    "id": "public-enemy",
+    "why": "Questlove has cited Public Enemy as a formative influence.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "booker-t",
+    "why": "A house band with a tight, recognizable groove."
+   },
+   {
+    "id": "the-meters",
+    "why": "Session-level funk players who became stars."
+   }
+  ]
+ },
+ {
+  "id": "mos-def",
+  "years": "1994–present",
+  "origin": "Brooklyn, New York",
+  "genres": [
+   "conscious hip hop",
+   "alternative hip hop",
+   "neo soul"
+  ],
+  "summary": "Brooklyn rapper, singer and actor, half of Black Star with Talib Kweli, central to the late-1990s independent rap scene.",
+  "know": [
+   "Black Star's album came out on Rawkus Records, the hub of 1990s indie rap.",
+   "He played Chuck Berry in the film 'Cadillac Records.'",
+   "He changed his name to Yasiin Bey in 2011."
+  ],
+  "born": "12-11",
+  "keyAlbums": [
+   [
+    "Mos Def & Talib Kweli Are Black Star",
+    1998
+   ],
+   [
+    "Black on Both Sides",
+    1999
+   ],
+   [
+    "The New Danger",
+    2004
+   ],
+   [
+    "The Ecstatic",
+    2009
+   ]
+  ],
+  "songs": [
+   "Definition",
+   "Respiration",
+   "Ms. Fat Booty",
+   "Umi Says",
+   "Mathematics"
+  ],
+  "influencedBy": [
+   {
+    "id": "slick-rick",
+    "why": "Black Star covered Slick Rick's 'Children's Story.'",
+    "s": 3
+   },
+   {
+    "id": "krs-one",
+    "why": "'Definition' reworks a Boogie Down Productions hook.",
+    "s": 2
+   },
+   {
+    "id": "a-tribe-called-quest",
+    "why": "His warm, jazzy style follows Tribe and the Native Tongues.",
+    "s": 2
+   },
+   {
+    "id": "bad-brains",
+    "why": "He formed the rock band Black Jack Johnson with Bad Brains guitarist Dr. Know.",
+    "s": 2
+   },
+   {
+    "id": "de-la-soul",
+    "why": "He came up in the Native Tongues' wake.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "gil-scott-heron",
+    "why": "Poetic, political and musical."
+   },
+   {
+    "id": "erykah-badu",
+    "why": "A fellow Soulquarians-era artist with a spiritual, jazzy feel."
+   }
+  ]
+ },
+ {
+  "id": "mf-doom",
+  "years": "1988–2020",
+  "origin": "Long Island, New York",
+  "genres": [
+   "underground hip hop",
+   "abstract hip hop",
+   "alternative hip hop"
+  ],
+  "summary": "Masked rapper and producer who built a supervillain persona and dense, funny wordplay into an underground legend.",
+  "know": [
+   "He first rapped as Zev Love X in KMD.",
+   "His mask was modeled on Marvel's Doctor Doom.",
+   "He died on October 31, 2020, and his family announced it on December 31."
+  ],
+  "born": "07-13",
+  "keyAlbums": [
+   [
+    "Operation: Doomsday",
+    1999
+   ],
+   [
+    "Madvillainy (with Madlib)",
+    2004
+   ],
+   [
+    "Mm..Food",
+    2004
+   ],
+   [
+    "The Mouse and the Mask (with Danger Mouse)",
+    2005
+   ]
+  ],
+  "songs": [
+   "Doomsday",
+   "Rhymes Like Dimes",
+   "Accordion",
+   "All Caps",
+   "Rapp Snitch Knishes"
+  ],
+  "influencedBy": [
+   {
+    "id": "sun-ra",
+    "why": "'Shadows of Tomorrow' on 'Madvillainy' uses Sun Ra's words.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "captain-beefheart",
+    "why": "A surreal wordsmith who built a cult persona."
+   },
+   {
+    "id": "aphex-twin",
+    "why": "A mysterious persona with a fiercely loyal cult following."
+   }
+  ]
+ },
+ {
+  "id": "j-dilla",
+  "years": "1992–2006",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "jazz rap",
+   "neo soul",
+   "instrumental hip hop"
+  ],
+  "summary": "Detroit producer whose loose, behind-the-beat drums and soul chops changed how hip hop and soul are produced.",
+  "know": [
+   "'Donuts' came out on his 32nd birthday, three days before he died in 2006.",
+   "He was part of the Ummah with Q-Tip and the Soulquarians collective.",
+   "His drums were programmed unquantized, giving them a drunk, swinging feel."
+  ],
+  "born": "02-07",
+  "keyAlbums": [
+   [
+    "Fantastic, Vol. 2 (Slum Village)",
+    2000
+   ],
+   [
+    "Welcome 2 Detroit",
+    2001
+   ],
+   [
+    "Donuts",
+    2006
+   ],
+   [
+    "The Shining",
+    2006
+   ]
+  ],
+  "songs": [
+   "Runnin' (The Pharcyde)",
+   "Fall in Love (Slum Village)",
+   "Didn't Cha Know (Erykah Badu)",
+   "Workinonit",
+   "Don't Cry"
+  ],
+  "influencedBy": [
+   {
+    "id": "a-tribe-called-quest",
+    "why": "Q-Tip mentored him and brought him into the Ummah.",
+    "s": 3
+   },
+   {
+    "id": "kraftwerk",
+    "why": "He covered 'Trans-Europe Express' on 'Welcome 2 Detroit.'",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "burial",
+    "why": "A producer revered by other producers for an off-grid feel."
+   },
+   {
+    "id": "king-tubby",
+    "why": "A mixing-desk innovator whose techniques changed his genre."
+   }
+  ]
+ },
+ {
+  "id": "missy-elliott",
+  "years": "1991–present",
+  "origin": "Portsmouth, Virginia",
+  "genres": [
+   "experimental hip hop",
+   "hip hop soul",
+   "pop rap"
+  ],
+  "summary": "Rapper, songwriter and producer who, with Timbaland, made strange, futuristic hits and some of the most inventive music videos of her era.",
+  "know": [
+   "She made her hits with childhood friend and producer Timbaland.",
+   "In 2019 she became the first female rapper in the Songwriters Hall of Fame.",
+   "In 2023 she became the first female rapper inducted into the Rock and Roll Hall of Fame."
+  ],
+  "born": "07-01",
+  "keyAlbums": [
+   [
+    "Supa Dupa Fly",
+    1997
+   ],
+   [
+    "Da Real World",
+    1999
+   ],
+   [
+    "Miss E... So Addictive",
+    2001
+   ],
+   [
+    "Under Construction",
+    2002
+   ]
+  ],
+  "songs": [
+   "The Rain (Supa Dupa Fly)",
+   "Get Ur Freak On",
+   "Work It",
+   "One Minute Man",
+   "Lose Control"
+  ],
+  "influencedBy": [
+   {
+    "id": "michael-jackson",
+    "why": "She has called Michael Jackson her biggest inspiration, especially for videos.",
+    "s": 2
+   },
+   {
+    "id": "juan-atkins",
+    "why": "'Lose Control' samples Cybotron's 'Clear.'",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bjork",
+    "why": "An avant-pop innovator with striking videos."
+   },
+   {
+    "id": "kate-bush",
+    "why": "An inventive, self-directed artist with a theatrical visual world."
+   }
+  ]
+ },
+ {
+  "id": "three-6-mafia",
+  "years": "1991–present",
+  "origin": "Memphis, Tennessee",
+  "genres": [
+   "Memphis rap",
+   "horrorcore",
+   "crunk"
+  ],
+  "summary": "Memphis group led by DJ Paul and Juicy J whose dark, lo-fi tapes shaped crunk and trap and later won an Oscar.",
+  "know": [
+   "They won the Academy Award for Best Original Song in 2006 for 'It's Hard Out Here for a Pimp.'",
+   "They began on lo-fi Memphis underground cassettes.",
+   "Their eerie tapes became a key source for later trap and phonk producers."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Mystic Stylez",
+    1995
+   ],
+   [
+    "When the Smoke Clears: Sixty 6, Sixty 1",
+    2000
+   ],
+   [
+    "Da Unbreakables",
+    2003
+   ],
+   [
+    "Most Known Unknown",
+    2005
+   ]
+  ],
+  "songs": [
+   "Tear da Club Up",
+   "Sippin' on Some Syrup",
+   "Stay Fly",
+   "Poppin' My Collar",
+   "It's Hard Out Here for a Pimp"
+  ],
+  "influencedBy": [
+   {
+    "id": "ugk",
+    "why": "They teamed with UGK on 'Sippin' on Some Syrup' and shared a Southern regional sound.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "black-sabbath",
+    "why": "Dark, heavy, occult-tinged music that started a whole subgenre."
+   },
+   {
+    "id": "rl-burnside",
+    "why": "Raw regional Mississippi sound that outsiders later celebrated."
+   }
+  ]
+ },
+ {
+  "id": "ugk",
+  "years": "1987–2007",
+  "origin": "Port Arthur, Texas",
+  "genres": [
+   "Southern hip hop",
+   "Houston rap",
+   "country rap"
+  ],
+  "summary": "Texas duo of Bun B and Pimp C whose slow, soulful, live-instrument records became the backbone of Southern rap.",
+  "know": [
+   "Pimp C produced much of their music with live instruments and soul samples.",
+   "They featured on Jay-Z's 'Big Pimpin'.'",
+   "'Underground Kingz' went to No. 1 in 2007, months before Pimp C died."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Too Hard to Swallow",
+    1992
+   ],
+   [
+    "Super Tight",
+    1994
+   ],
+   [
+    "Ridin' Dirty",
+    1996
+   ],
+   [
+    "Underground Kingz",
+    2007
+   ]
+  ],
+  "songs": [
+   "Pocket Full of Stones",
+   "One Day",
+   "Murder",
+   "Big Pimpin' (Jay-Z)",
+   "Int'l Players Anthem (I Choose You)"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-ronettes",
+    "why": "'One Day' samples the Ronettes' 'You Came, You Saw, You Conquered.'",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "willie-nelson",
+    "why": "Texas lifers who did it their own way outside the industry centers."
+   },
+   {
+    "id": "stevie-ray-vaughan",
+    "why": "Gritty Texas music rooted in the blues."
+   }
+  ]
+ },
+ {
+  "id": "eminem",
+  "years": "1988–present",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "hardcore hip hop",
+   "horrorcore",
+   "Midwest hip hop"
+  ],
+  "summary": "Detroit rapper known for dense technique and a dark comic alter ego, Slim Shady, who became one of the best-selling artists of his time.",
+  "know": [
+   "Dr. Dre signed him to Aftermath in 1998 after hearing his demo.",
+   "'Lose Yourself' was the first rap song to win the Oscar for Best Original Song.",
+   "'The Marshall Mathers LP' sold about 1.76 million copies in its first week."
+  ],
+  "born": "10-17",
+  "keyAlbums": [
+   [
+    "The Slim Shady LP",
+    1999
+   ],
+   [
+    "The Marshall Mathers LP",
+    2000
+   ],
+   [
+    "The Eminem Show",
+    2002
+   ],
+   [
+    "Recovery",
+    2010
+   ]
+  ],
+  "songs": [
+   "My Name Is",
+   "Stan",
+   "The Real Slim Shady",
+   "Without Me",
+   "Lose Yourself"
+  ],
+  "influencedBy": [
+   {
+    "id": "dr-dre",
+    "why": "Dre signed him, produced his breakthrough and mentored him.",
+    "s": 3
+   },
+   {
+    "id": "ll-cool-j",
+    "why": "He has cited LL Cool J as the rapper who first made him want to rap.",
+    "s": 2
+   },
+   {
+    "id": "beastie-boys",
+    "why": "He has named the Beastie Boys as an early inspiration.",
+    "s": 2
+   },
+   {
+    "id": "rakim",
+    "why": "He lists Rakim among his idols in 'Till I Collapse.'",
+    "s": 2
+   },
+   {
+    "id": "nas",
+    "why": "He has cited Nas's writing as a major influence.",
+    "s": 2
+   },
+   {
+    "id": "krs-one",
+    "why": "He has named KRS-One among his formative influences.",
+    "s": 2
+   },
+   {
+    "id": "run-dmc",
+    "why": "Run-DMC was part of what drew him into rap as a kid.",
+    "s": 2
+   },
+   {
+    "id": "aerosmith",
+    "why": "'Sing for the Moment' samples 'Dream On.'",
+    "s": 2
+   },
+   {
+    "id": "queen",
+    "why": "'Till I Collapse' borrows the beat of 'We Will Rock You.'",
+    "s": 2
+   },
+   {
+    "id": "tupac",
+    "why": "He produced 2Pac's posthumous album 'Loyal to the Game.'",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "nirvana",
+    "why": "Raw, angry, autobiographical music that broke huge."
+   },
+   {
+    "id": "elvis-presley",
+    "why": "A white star who brought a Black-rooted music to a vast new audience."
+   }
+  ]
+ },
+ {
+  "id": "lil-wayne",
+  "years": "1995–present",
+  "origin": "New Orleans, Louisiana",
+  "genres": [
+   "Southern hip hop",
+   "punchline rap",
+   "mixtape rap"
+  ],
+  "summary": "New Orleans rapper who started as a teen on Cash Money and became the dominant voice of the late 2000s through constant mixtapes and wild wordplay.",
+  "know": [
+   "He signed to Cash Money as a preteen and joined the Hot Boys.",
+   "'Tha Carter III' sold about a million copies in its first week in 2008.",
+   "His Young Money label signed Drake and Nicki Minaj."
+  ],
+  "born": "09-27",
+  "keyAlbums": [
+   [
+    "Tha Carter",
+    2004
+   ],
+   [
+    "Tha Carter II",
+    2005
+   ],
+   [
+    "Tha Carter III",
+    2008
+   ],
+   [
+    "Tha Carter V",
+    2018
+   ]
+  ],
+  "songs": [
+   "Go DJ",
+   "Hustler Musik",
+   "A Milli",
+   "Lollipop",
+   "6 Foot 7 Foot"
+  ],
+  "influencedBy": [
+   {
+    "id": "jay-z",
+    "why": "He followed Jay-Z's example of composing verses in his head without writing them down.",
+    "s": 2
+   },
+   {
+    "id": "notorious-big",
+    "why": "He has named Biggie among his favorite rappers.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "prince",
+    "why": "A wildly prolific artist with a huge, eccentric output."
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Swaggering rock-star image built on constant output."
+   }
+  ]
+ },
+ {
+  "id": "kanye-west",
+  "years": "1996–present",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "chipmunk soul",
+   "experimental hip hop",
+   "conscious hip hop"
+  ],
+  "summary": "Chicago producer turned rapper whose sped-up soul samples defined early-2000s hip hop and whose later albums kept changing the genre's sound.",
+  "know": [
+   "He produced for Roc-A-Fella, including 'Izzo (H.O.V.A.)' on Jay-Z's 'The Blueprint.'",
+   "He recorded 'Through the Wire' with his jaw wired shut after a 2002 car crash.",
+   "'Stronger' samples Daft Punk's 'Harder, Better, Faster, Stronger.'"
+  ],
+  "born": "06-08",
+  "keyAlbums": [
+   [
+    "The College Dropout",
+    2004
+   ],
+   [
+    "Late Registration",
+    2005
+   ],
+   [
+    "808s & Heartbreak",
+    2008
+   ],
+   [
+    "My Beautiful Dark Twisted Fantasy",
+    2010
+   ]
+  ],
+  "songs": [
+   "Through the Wire",
+   "Jesus Walks",
+   "Gold Digger",
+   "Stronger",
+   "Runaway"
+  ],
+  "influencedBy": [
+   {
+    "id": "jay-z",
+    "why": "He came up producing for Jay-Z, who gave him his platform.",
+    "s": 3
+   },
+   {
+    "id": "kid-cudi",
+    "why": "He has credited Cudi as a key collaborator in shaping '808s & Heartbreak.'",
+    "s": 3
+   },
+   {
+    "id": "a-tribe-called-quest",
+    "why": "He has named Q-Tip and Tribe as early models.",
+    "s": 2
+   },
+   {
+    "id": "j-dilla",
+    "why": "He has cited Dilla as a production influence.",
+    "s": 2
+   },
+   {
+    "id": "daft-punk",
+    "why": "'Stronger' is built on Daft Punk, who also worked on 'Yeezus.'",
+    "s": 2
+   },
+   {
+    "id": "ray-charles",
+    "why": "'Gold Digger' interpolates 'I Got a Woman.'",
+    "s": 2
+   },
+   {
+    "id": "curtis-mayfield",
+    "why": "'Touch the Sky' samples 'Move On Up.'",
+    "s": 2
+   },
+   {
+    "id": "gil-scott-heron",
+    "why": "'Who Will Survive in America' samples Scott-Heron's 'Comment #1.'",
+    "s": 2
+   },
+   {
+    "id": "king-crimson",
+    "why": "'Power' samples '21st Century Schizoid Man.'",
+    "s": 2
+   },
+   {
+    "id": "nina-simone",
+    "why": "'Blood on the Leaves' samples Simone's 'Strange Fruit.'",
+    "s": 2
+   },
+   {
+    "id": "otis-redding",
+    "why": "'Gone' and 'Otis' sample Otis Redding.",
+    "s": 2
+   },
+   {
+    "id": "lauryn-hill",
+    "why": "'All Falls Down' interpolates her 'Mystery of Iniquity.'",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "david-bowie",
+    "why": "Reinvented himself every era and pulled the genre along."
+   },
+   {
+    "id": "radiohead",
+    "why": "Made a sharp left turn at their peak that changed their genre."
+   }
+  ]
+ },
+ {
+  "id": "gucci-mane",
+  "years": "2001–present",
+  "origin": "Atlanta, Georgia",
+  "genres": [
+   "trap",
+   "Southern hip hop"
+  ],
+  "summary": "Atlanta rapper who, with producer Zaytoven, helped define trap and mentored much of the next Atlanta generation.",
+  "know": [
+   "He was born in Bessemer, Alabama and raised in East Atlanta.",
+   "His 1017 label signed Young Thug early in his career.",
+   "He released his memoir, 'The Autobiography of Gucci Mane,' in 2017."
+  ],
+  "born": "02-12",
+  "keyAlbums": [
+   [
+    "Trap House",
+    2005
+   ],
+   [
+    "The State vs. Radric Davis",
+    2009
+   ],
+   [
+    "Everybody Looking",
+    2016
+   ],
+   [
+    "Evil Genius",
+    2018
+   ]
+  ],
+  "songs": [
+   "Icy",
+   "Lemonade",
+   "Wasted",
+   "Black Beatles (Rae Sremmurd)",
+   "I Get the Bag"
+  ],
+  "influencedBy": [
+   {
+    "id": "three-6-mafia",
+    "why": "His menacing Southern sound follows Memphis rap's lead.",
+    "s": 1
+   },
+   {
+    "id": "ugk",
+    "why": "He builds on the Southern template UGK set.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "lee-scratch-perry",
+    "why": "A prolific, eccentric figure who mentored a whole scene."
+   },
+   {
+    "id": "daddy-yankee",
+    "why": "The godfather figure of a regional sound that went global."
+   }
+  ]
+ },
+ {
+  "id": "kid-cudi",
+  "years": "2008–present",
+  "origin": "Cleveland, Ohio",
+  "genres": [
+   "alternative hip hop",
+   "psychedelic hip hop",
+   "melodic rap"
+  ],
+  "summary": "Cleveland rapper and singer whose hummed, melancholy songs about loneliness opened the door for emotional, melodic rap.",
+  "know": [
+   "Kanye West signed him to GOOD Music after 'Day 'n' Nite' spread online.",
+   "He co-wrote much of Kanye's '808s & Heartbreak.'",
+   "He and Kanye released 'Kids See Ghosts' as a duo in 2018."
+  ],
+  "born": "01-30",
+  "keyAlbums": [
+   [
+    "Man on the Moon: The End of Day",
+    2009
+   ],
+   [
+    "Man on the Moon II",
+    2010
+   ],
+   [
+    "Kids See Ghosts (with Kanye West)",
+    2018
+   ],
+   [
+    "Man on the Moon III",
+    2020
+   ]
+  ],
+  "songs": [
+   "Day 'n' Nite",
+   "Pursuit of Happiness",
+   "Soundtrack 2 My Life",
+   "Mr. Rager",
+   "Reborn"
+  ],
+  "influencedBy": [
+   {
+    "id": "kanye-west",
+    "why": "Kanye signed and mentored him.",
+    "s": 3
+   },
+   {
+    "id": "a-tribe-called-quest",
+    "why": "He has called Tribe his favorite group, and Q-Tip appears on his debut.",
+    "s": 3
+   },
+   {
+    "id": "outkast",
+    "why": "He has cited André 3000's freedom as an influence.",
+    "s": 2
+   },
+   {
+    "id": "nirvana",
+    "why": "He has spoken often about Kurt Cobain's influence.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-cure",
+    "why": "Moody, introspective music beloved by outsiders."
+   },
+   {
+    "id": "bon-iver",
+    "why": "Hushed, wounded songs about loneliness."
+   }
+  ]
+ },
+ {
+  "id": "drake",
+  "years": "2006–present",
+  "origin": "Toronto, Ontario, Canada",
+  "genres": [
+   "pop rap",
+   "alternative R&B",
+   "Canadian hip hop"
+  ],
+  "summary": "Toronto rapper and singer who mixed moody R&B with rap and became the most commercially dominant artist of the streaming era.",
+  "know": [
+   "He played Jimmy Brooks on 'Degrassi: The Next Generation.'",
+   "Lil Wayne signed him to Young Money in 2009.",
+   "He holds the record for the most Billboard Hot 100 entries."
+  ],
+  "born": "10-24",
+  "keyAlbums": [
+   [
+    "Take Care",
+    2011
+   ],
+   [
+    "Nothing Was the Same",
+    2013
+   ],
+   [
+    "If You're Reading This It's Too Late",
+    2015
+   ],
+   [
+    "Views",
+    2016
+   ]
+  ],
+  "songs": [
+   "Best I Ever Had",
+   "Marvins Room",
+   "Started from the Bottom",
+   "Hotline Bling",
+   "God's Plan"
+  ],
+  "influencedBy": [
+   {
+    "id": "lil-wayne",
+    "why": "Wayne signed and mentored him.",
+    "s": 3
+   },
+   {
+    "id": "aaliyah",
+    "why": "He has called Aaliyah a major inspiration and has her tattooed on his back.",
+    "s": 3
+   },
+   {
+    "id": "kanye-west",
+    "why": "'808s & Heartbreak' set the template for his sung, emotional rap.",
+    "s": 2
+   },
+   {
+    "id": "jay-z",
+    "why": "He has named Jay-Z as a career model.",
+    "s": 2
+   },
+   {
+    "id": "kid-cudi",
+    "why": "Cudi's moody melodic rap was a clear forerunner.",
+    "s": 1
+   },
+   {
+    "id": "ugk",
+    "why": "His love of Houston rap and slowed tempos traces to that scene.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-weeknd",
+    "why": "Moody Toronto R&B with a nocturnal feel."
+   },
+   {
+    "id": "taylor-swift",
+    "why": "Confessional songs that dominate the charts."
+   }
+  ]
+ },
+ {
+  "id": "kendrick-lamar",
+  "years": "2003–present",
+  "origin": "Compton, California",
+  "genres": [
+   "West Coast hip hop",
+   "conscious hip hop",
+   "jazz rap"
+  ],
+  "summary": "Compton rapper whose concept albums about race, faith and self earned him a Pulitzer Prize and wide acclaim.",
+  "know": [
+   "'DAMN.' won the 2018 Pulitzer Prize for Music, the first non-classical, non-jazz work to win.",
+   "He headlined the Super Bowl LIX halftime show in 2025.",
+   "He has said he watched 2Pac and Dr. Dre film 'California Love' in Compton as a child."
+  ],
+  "born": "06-17",
+  "keyAlbums": [
+   [
+    "good kid, m.A.A.d city",
+    2012
+   ],
+   [
+    "To Pimp a Butterfly",
+    2015
+   ],
+   [
+    "DAMN.",
+    2017
+   ],
+   [
+    "GNX",
+    2024
+   ]
+  ],
+  "songs": [
+   "Swimming Pools (Drank)",
+   "Alright",
+   "HUMBLE.",
+   "DNA.",
+   "Not Like Us"
+  ],
+  "influencedBy": [
+   {
+    "id": "tupac",
+    "why": "He calls 2Pac his biggest inspiration, and 'Mortal Man' stages an interview with him.",
+    "s": 3
+   },
+   {
+    "id": "dr-dre",
+    "why": "Dre signed him to Aftermath and mentored him.",
+    "s": 3
+   },
+   {
+    "id": "parliament-funkadelic",
+    "why": "George Clinton appears on 'To Pimp a Butterfly.'",
+    "s": 3
+   },
+   {
+    "id": "kamasi-washington",
+    "why": "Kamasi played on and arranged parts of 'To Pimp a Butterfly.'",
+    "s": 3
+   },
+   {
+    "id": "robert-glasper",
+    "why": "Glasper played keys and helped shape 'To Pimp a Butterfly.'",
+    "s": 3
+   },
+   {
+    "id": "flying-lotus",
+    "why": "They made 'Never Catch Me' together, and his jazz-electronic sound fed the album.",
+    "s": 2
+   },
+   {
+    "id": "snoop-dogg",
+    "why": "He grew up on Snoop and the West Coast G-funk sound.",
+    "s": 2
+   },
+   {
+    "id": "eminem",
+    "why": "He has cited Eminem's technique as an early influence.",
+    "s": 2
+   },
+   {
+    "id": "nas",
+    "why": "He has named 'Illmatic' as a key album for him.",
+    "s": 2
+   },
+   {
+    "id": "jay-z",
+    "why": "He has cited Jay-Z's career and wordplay as a model.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bob-dylan",
+    "why": "A songwriter whose work won literary honors."
+   },
+   {
+    "id": "marvin-gaye",
+    "why": "Political concept albums that are still deeply personal."
+   }
+  ]
+ },
+ {
+  "id": "j-cole",
+  "years": "2007–present",
+  "origin": "Fayetteville, North Carolina",
+  "genres": [
+   "conscious hip hop",
+   "Southern hip hop",
+   "boom bap"
+  ],
+  "summary": "North Carolina rapper and producer known for introspective, lyric-focused albums that sell big without star features.",
+  "know": [
+   "He was the first artist signed to Jay-Z's Roc Nation.",
+   "'2014 Forest Hills Drive' went platinum without guest features.",
+   "He founded Dreamville Records."
+  ],
+  "born": "01-28",
+  "keyAlbums": [
+   [
+    "Cole World: The Sideline Story",
+    2011
+   ],
+   [
+    "Born Sinner",
+    2013
+   ],
+   [
+    "2014 Forest Hills Drive",
+    2014
+   ],
+   [
+    "KOD",
+    2018
+   ]
+  ],
+  "songs": [
+   "Work Out",
+   "Power Trip",
+   "No Role Modelz",
+   "Love Yourz",
+   "Middle Child"
+  ],
+  "influencedBy": [
+   {
+    "id": "jay-z",
+    "why": "Jay-Z signed and mentored him.",
+    "s": 3
+   },
+   {
+    "id": "nas",
+    "why": "He names Nas as a hero, and wrote 'Let Nas Down' about him.",
+    "s": 3
+   },
+   {
+    "id": "tupac",
+    "why": "He has cited 2Pac as a key influence.",
+    "s": 2
+   },
+   {
+    "id": "eminem",
+    "why": "He has cited Eminem's writing as an early model.",
+    "s": 2
+   },
+   {
+    "id": "kanye-west",
+    "why": "'Work Out' interpolates Kanye's 'The New Workout Plan.'",
+    "s": 2
+   },
+   {
+    "id": "lauryn-hill",
+    "why": "His song 'Lost Ones' borrows its title from her, and he cites her.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bruce-springsteen",
+    "why": "Earnest, working-class stories about home."
+   },
+   {
+    "id": "jason-isbell",
+    "why": "Reflective, honest songwriting with a Southern root."
+   }
+  ]
+ },
+ {
+  "id": "tyler-the-creator",
+  "years": "2007–present",
+  "origin": "Los Angeles, California",
+  "genres": [
+   "alternative hip hop",
+   "horrorcore",
+   "neo soul"
+  ],
+  "summary": "Los Angeles rapper and producer who led Odd Future as a teen provocateur and grew into a lush, jazzy auteur.",
+  "know": [
+   "He co-founded the collective Odd Future.",
+   "'Igor' and 'Call Me If You Get Lost' both won the Grammy for Best Rap Album.",
+   "He founded the Golf Wang clothing brand and the Camp Flog Gnaw festival."
+  ],
+  "born": "03-06",
+  "keyAlbums": [
+   [
+    "Goblin",
+    2011
+   ],
+   [
+    "Flower Boy",
+    2017
+   ],
+   [
+    "Igor",
+    2019
+   ],
+   [
+    "Call Me If You Get Lost",
+    2021
+   ]
+  ],
+  "songs": [
+   "Yonkers",
+   "See You Again",
+   "Earfquake",
+   "New Magic Wand",
+   "Wusyaname"
+  ],
+  "influencedBy": [
+   {
+    "id": "mf-doom",
+    "why": "He has called DOOM one of his favorite rappers and paid tribute after his death.",
+    "s": 3
+   },
+   {
+    "id": "eminem",
+    "why": "His early shock-rap persona follows Eminem's Slim Shady.",
+    "s": 2
+   },
+   {
+    "id": "kanye-west",
+    "why": "He has named Kanye as a major influence on his production.",
+    "s": 2
+   },
+   {
+    "id": "stevie-wonder",
+    "why": "He has cited Stevie Wonder's chords as a model for his later work.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "frank-ocean",
+    "why": "Odd Future peer making lush, personal music."
+   },
+   {
+    "id": "devo",
+    "why": "Art-pop provocateurs with a total visual concept."
+   }
+  ]
+ },
+ {
+  "id": "future",
+  "years": "2010–present",
+  "origin": "Atlanta, Georgia",
+  "genres": [
+   "trap",
+   "Auto-Tune rap",
+   "Southern hip hop"
+  ],
+  "summary": "Atlanta rapper whose woozy Auto-Tune melodies and bleak party songs made him one of trap's central voices.",
+  "know": [
+   "His cousin Rico Wade of the Dungeon Family helped him get started.",
+   "In 2017 he had two different albums debut at No. 1 in consecutive weeks.",
+   "'Mask Off' is built on a flute line from Carlton Williams' 'Prison Song.'"
+  ],
+  "born": "11-20",
+  "keyAlbums": [
+   [
+    "Pluto",
+    2012
+   ],
+   [
+    "DS2",
+    2015
+   ],
+   [
+    "Future",
+    2017
+   ],
+   [
+    "We Don't Trust You (with Metro Boomin)",
+    2024
+   ]
+  ],
+  "songs": [
+   "Turn On the Lights",
+   "March Madness",
+   "Mask Off",
+   "Life Is Good",
+   "Like That"
+  ],
+  "influencedBy": [
+   {
+    "id": "outkast",
+    "why": "He came up through the Dungeon Family circle that produced OutKast.",
+    "s": 2
+   },
+   {
+    "id": "lil-wayne",
+    "why": "His Auto-Tune melodies follow Wayne's late-2000s style.",
+    "s": 1
+   },
+   {
+    "id": "gucci-mane",
+    "why": "He builds on the Atlanta trap sound Gucci popularized.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-weeknd",
+    "why": "Dark, hedonistic songs with a numb emotional core."
+   },
+   {
+    "id": "bad-bunny",
+    "why": "A melodic, chart-dominant voice of his scene."
+   }
+  ]
+ },
+ {
+  "id": "migos",
+  "years": "2008–2022",
+  "origin": "Lawrenceville, Georgia",
+  "genres": [
+   "trap",
+   "Southern hip hop"
+  ],
+  "summary": "Atlanta trio of Quavo, Offset and Takeoff whose triplet flow spread through all of rap in the 2010s.",
+  "know": [
+   "Their rapid triplet cadence became known as the 'Migos flow.'",
+   "'Bad and Boujee' hit No. 1 on the Hot 100 in 2017.",
+   "Takeoff was shot and killed in Houston in 2022."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Yung Rich Nation",
+    2015
+   ],
+   [
+    "Culture",
+    2017
+   ],
+   [
+    "Culture II",
+    2018
+   ],
+   [
+    "Culture III",
+    2021
+   ]
+  ],
+  "songs": [
+   "Versace",
+   "Fight Night",
+   "Bad and Boujee",
+   "Walk It Talk It",
+   "Stir Fry"
+  ],
+  "influencedBy": [
+   {
+    "id": "three-6-mafia",
+    "why": "Their triplet flow follows Memphis rap, which Juicy J has pointed out.",
+    "s": 2
+   },
+   {
+    "id": "gucci-mane",
+    "why": "They came out of the Atlanta trap scene Gucci built.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-beatles",
+    "why": "A group with a signature vocal sound that swept culture."
+   },
+   {
+    "id": "bee-gees",
+    "why": "A family vocal trio with a sound all their own."
+   }
+  ]
+ },
+ {
+  "id": "travis-scott",
+  "years": "2012–present",
+  "origin": "Houston, Texas",
+  "genres": [
+   "trap",
+   "psychedelic hip hop",
+   "Auto-Tune rap"
+  ],
+  "summary": "Houston rapper and producer known for psychedelic, heavily layered trap and chaotic live shows.",
+  "know": [
+   "He signed production and artist deals with Kanye's GOOD Music and T.I.'s Grand Hustle.",
+   "'Astroworld' is named after a Houston theme park that closed in 2005.",
+   "A crowd crush at his 2021 Astroworld Festival killed ten people."
+  ],
+  "born": "04-30",
+  "keyAlbums": [
+   [
+    "Rodeo",
+    2015
+   ],
+   [
+    "Birds in the Trap Sing McKnight",
+    2016
+   ],
+   [
+    "Astroworld",
+    2018
+   ],
+   [
+    "Utopia",
+    2023
+   ]
+  ],
+  "songs": [
+   "Antidote",
+   "Goosebumps",
+   "Sicko Mode",
+   "Highest in the Room",
+   "FE!N"
+  ],
+  "influencedBy": [
+   {
+    "id": "kid-cudi",
+    "why": "He has said Kid Cudi is his biggest influence.",
+    "s": 3
+   },
+   {
+    "id": "kanye-west",
+    "why": "Kanye signed and mentored him.",
+    "s": 3
+   },
+   {
+    "id": "tame-impala",
+    "why": "Kevin Parker worked on 'Astroworld,' and Travis borrows his psychedelic textures.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "pink-floyd",
+    "why": "Psychedelic sound built for spectacle."
+   },
+   {
+    "id": "the-prodigy",
+    "why": "Abrasive music made for chaotic live crowds."
+   }
+  ]
+ },
+ {
+  "id": "young-thug",
+  "years": "2011–present",
+  "origin": "Atlanta, Georgia",
+  "genres": [
+   "trap",
+   "melodic rap",
+   "Atlanta hip hop"
+  ],
+  "summary": "Atlanta rapper whose shape-shifting, yelping vocals and fashion broke rap conventions and shaped a generation of melodic rappers.",
+  "know": [
+   "He signed with Gucci Mane's 1017 label early in his career.",
+   "He wore a dress on the cover of 'Jeffery' (2016).",
+   "'So Much Fun' (2019) was his first No. 1 album."
+  ],
+  "born": "08-16",
+  "keyAlbums": [
+   [
+    "Barter 6",
+    2015
+   ],
+   [
+    "Jeffery",
+    2016
+   ],
+   [
+    "So Much Fun",
+    2019
+   ],
+   [
+    "Punk",
+    2021
+   ]
+  ],
+  "songs": [
+   "Stoner",
+   "Lifestyle",
+   "Best Friend",
+   "Check",
+   "Hot"
+  ],
+  "influencedBy": [
+   {
+    "id": "lil-wayne",
+    "why": "He has called Lil Wayne his idol.",
+    "s": 3
+   },
+   {
+    "id": "gucci-mane",
+    "why": "Gucci signed him to 1017 and backed his early career.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "prince",
+    "why": "A gender-bending vocal shape-shifter."
+   },
+   {
+    "id": "little-richard",
+    "why": "Flamboyant, wild vocals that broke the rules."
+   }
+  ]
+ },
+ {
+  "id": "lil-uzi-vert",
+  "years": "2014–present",
+  "origin": "Philadelphia, Pennsylvania",
+  "genres": [
+   "emo rap",
+   "trap",
+   "melodic rap"
+  ],
+  "summary": "Philadelphia rapper who mixed trap with rock and emo style, scoring a breakout hit with 'XO Tour Llif3.'",
+  "know": [
+   "'XO Tour Llif3' was a viral 2017 hit about heartbreak and despair.",
+   "'Pink Tape' debuted at No. 1 in 2023.",
+   "'Pink Tape' includes a cover of System of a Down's 'Chop Suey!'"
+  ],
+  "born": "07-31",
+  "keyAlbums": [
+   [
+    "Luv Is Rage 2",
+    2017
+   ],
+   [
+    "Eternal Atake",
+    2020
+   ],
+   [
+    "Pink Tape",
+    2023
+   ]
+  ],
+  "songs": [
+   "Money Longer",
+   "XO Tour Llif3",
+   "Just Wanna Rock",
+   "20 Min",
+   "Futsal Shuffle 2020"
+  ],
+  "influencedBy": [
+   {
+    "id": "paramore",
+    "why": "He has repeatedly named Paramore as a favorite band.",
+    "s": 3
+   },
+   {
+    "id": "lil-wayne",
+    "why": "He has cited Wayne as a key influence.",
+    "s": 2
+   },
+   {
+    "id": "system-of-a-down",
+    "why": "He covered 'Chop Suey!' on 'Pink Tape.'",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "my-chemical-romance",
+    "why": "Theatrical emo energy with a devoted young fan base."
+   },
+   {
+    "id": "green-day",
+    "why": "Snotty pop-punk that crossed into the mainstream."
+   }
+  ]
+ },
+ {
+  "id": "chief-keef",
+  "years": "2011–present",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "drill",
+   "trap"
+  ],
+  "summary": "Chicago rapper who as a teenager brought drill, a bleak, menacing Chicago trap style, to the world.",
+  "know": [
+   "He signed to Interscope at 16 after 'I Don't Like' went viral.",
+   "Kanye remixed 'I Don't Like' for GOOD Music.",
+   "Producer Young Chop made many of his early drill beats."
+  ],
+  "born": "08-15",
+  "keyAlbums": [
+   [
+    "Finally Rich",
+    2012
+   ],
+   [
+    "Bang 3",
+    2015
+   ],
+   [
+    "Almighty So 2",
+    2024
+   ]
+  ],
+  "songs": [
+   "I Don't Like",
+   "Love Sosa",
+   "3Hunna",
+   "Faneto",
+   "Hate Being Sober"
+  ],
+  "influencedBy": [
+   {
+    "id": "gucci-mane",
+    "why": "His slurred trap style draws on Gucci's Atlanta template.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "sex-pistols",
+    "why": "Teenage menace that scared the mainstream."
+   },
+   {
+    "id": "minor-threat",
+    "why": "Young, raw and fast, spawning a whole scene."
+   }
+  ]
+ },
+ {
+  "id": "playboi-carti",
+  "years": "2011–present",
+  "origin": "Atlanta, Georgia",
+  "genres": [
+   "rage",
+   "trap",
+   "mumble rap"
+  ],
+  "summary": "Atlanta rapper known for baby-voiced ad-libs and the punk-inflected rage sound of 'Whole Lotta Red.'",
+  "know": [
+   "He signed to A$AP Mob's AWGE label.",
+   "Kanye West executive produced 'Whole Lotta Red' (2020).",
+   "He founded the Opium label."
+  ],
+  "born": "09-13",
+  "keyAlbums": [
+   [
+    "Playboi Carti",
+    2017
+   ],
+   [
+    "Die Lit",
+    2018
+   ],
+   [
+    "Whole Lotta Red",
+    2020
+   ],
+   [
+    "Music",
+    2025
+   ]
+  ],
+  "songs": [
+   "Magnolia",
+   "Shoota",
+   "Long Time",
+   "Sky",
+   "Stop Breathing"
+  ],
+  "influencedBy": [
+   {
+    "id": "kanye-west",
+    "why": "Kanye executive produced 'Whole Lotta Red.'",
+    "s": 3
+   },
+   {
+    "id": "young-thug",
+    "why": "His vocal shape-shifting follows Young Thug's lead.",
+    "s": 2
+   },
+   {
+    "id": "lil-uzi-vert",
+    "why": "He and Uzi share a rock-styled, melodic trap approach and have collaborated.",
+    "s": 1
+   },
+   {
+    "id": "lil-wayne",
+    "why": "His Auto-Tuned vocal play traces to Wayne.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-stooges",
+    "why": "Raw, chaotic live shows built on primal energy."
+   },
+   {
+    "id": "skrillex",
+    "why": "Abrasive, distorted synth sounds for mosh-pit crowds."
+   }
+  ]
+ },
+ {
+  "id": "childish-gambino",
+  "years": "2008–present",
+  "origin": "Stone Mountain, Georgia",
+  "genres": [
+   "alternative hip hop",
+   "psychedelic soul",
+   "funk"
+  ],
+  "summary": "Donald Glover's music project, which moved from witty rap to funk and soul and produced the pointed 'This Is America.'",
+  "know": [
+   "Glover also wrote for '30 Rock,' starred in 'Community' and created 'Atlanta.'",
+   "'This Is America' was the first rap song to win Record and Song of the Year.",
+   "'Redbone' borrows from Bootsy Collins' 'I'd Rather Be with You.'"
+  ],
+  "born": "09-25",
+  "keyAlbums": [
+   [
+    "Camp",
+    2011
+   ],
+   [
+    "Because the Internet",
+    2013
+   ],
+   [
+    "\"Awaken, My Love!\"",
+    2016
+   ],
+   [
+    "3.15.20",
+    2020
+   ]
+  ],
+  "songs": [
+   "Bonfire",
+   "3005",
+   "Redbone",
+   "This Is America",
+   "Feels Like Summer"
+  ],
+  "influencedBy": [
+   {
+    "id": "parliament-funkadelic",
+    "why": "'Awaken, My Love!' is a direct homage to Funkadelic's psychedelic funk.",
+    "s": 3
+   },
+   {
+    "id": "sly-and-the-family-stone",
+    "why": "Sly's psychedelic soul shaped his funk turn.",
+    "s": 2
+   },
+   {
+    "id": "prince",
+    "why": "'Redbone' and 'Awaken, My Love!' echo Prince's falsetto funk.",
+    "s": 2
+   },
+   {
+    "id": "outkast",
+    "why": "He has cited OutKast as an Atlanta influence.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "beck",
+    "why": "A genre-hopping shape-shifter who mixes humor and funk."
+   },
+   {
+    "id": "david-bowie",
+    "why": "A performer-actor who changed personas and sounds."
+   }
+  ]
+ },
+ {
+  "id": "pop-smoke",
+  "years": "2018–2020",
+  "origin": "Brooklyn, New York",
+  "genres": [
+   "Brooklyn drill",
+   "drill"
+  ],
+  "summary": "Brooklyn rapper whose deep, gravelly voice over UK drill beats made Brooklyn drill a national sound before he was killed at 20.",
+  "know": [
+   "He worked with UK drill producers like 808Melo.",
+   "He was killed in a Los Angeles home invasion in February 2020.",
+   "His posthumous debut album hit No. 1."
+  ],
+  "born": "07-20",
+  "keyAlbums": [
+   [
+    "Meet the Woo",
+    2019
+   ],
+   [
+    "Meet the Woo 2",
+    2020
+   ],
+   [
+    "Shoot for the Stars, Aim for the Moon",
+    2020
+   ]
+  ],
+  "songs": [
+   "Welcome to the Party",
+   "Dior",
+   "For the Night",
+   "Mood Swings",
+   "What You Know Bout Love"
+  ],
+  "influencedBy": [
+   {
+    "id": "chief-keef",
+    "why": "His drill style descends from the Chicago drill Keef launched.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "burial",
+    "why": "Dark London-rooted sound."
+   },
+   {
+    "id": "motorhead",
+    "why": "Gravel-voiced menace and raw power."
+   }
+  ]
+ },
+ {
+  "id": "doechii",
+  "years": "2016–present",
+  "origin": "Tampa, Florida",
+  "genres": [
+   "alternative hip hop",
+   "Southern hip hop",
+   "house-influenced rap"
+  ],
+  "summary": "Tampa rapper and singer on Top Dawg Entertainment known for theatrical, genre-hopping songs and sharp flows.",
+  "know": [
+   "She signed to Top Dawg Entertainment in 2022.",
+   "'Alligator Bites Never Heal' won the Grammy for Best Rap Album, making her the third woman to win it.",
+   "Her 2025 song 'Anxiety' samples Gotye's 'Somebody That I Used to Know.'"
+  ],
+  "born": "08-31",
+  "keyAlbums": [
+   [
+    "She / Her / Black Bitch",
+    2022
+   ],
+   [
+    "Alligator Bites Never Heal",
+    2024
+   ]
+  ],
+  "songs": [
+   "Yucky Blucky Fruitcake",
+   "What It Is (Block Boy)",
+   "Persuasive",
+   "Denial Is a River",
+   "Anxiety"
+  ],
+  "influencedBy": [
+   {
+    "id": "missy-elliott",
+    "why": "She has named Missy Elliott as a major influence on her inventive style.",
+    "s": 2
+   },
+   {
+    "id": "lauryn-hill",
+    "why": "She has cited Lauryn Hill's mix of rapping and singing.",
+    "s": 2
+   },
+   {
+    "id": "kendrick-lamar",
+    "why": "Her TDE labelmate's theatrical concept work sets a clear model.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "chappell-roan",
+    "why": "A theatrical breakout star with a bold persona."
+   },
+   {
+    "id": "sza",
+    "why": "Fellow TDE artist with confessional, genre-blurring songs."
+   }
+  ]
+ }
+]

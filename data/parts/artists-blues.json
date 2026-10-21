@@ -1,0 +1,1563 @@
+[
+ {
+  "id": "ma-rainey",
+  "years": "1886–1939",
+  "origin": "Columbus, Georgia",
+  "genres": [
+   "classic blues",
+   "vaudeville blues",
+   "country blues"
+  ],
+  "summary": "One of the first professional blues singers and among the first to record, she carried the blues from tent shows onto records. Her earthy, commanding style set the template for the classic blues era.",
+  "know": [
+   "She was widely billed as the Mother of the Blues.",
+   "She recorded roughly 100 sides for Paramount between 1923 and 1928.",
+   "She toured with the Rabbit Foot Minstrels, where she crossed paths with a young Bessie Smith."
+  ],
+  "born": "04-26",
+  "keyAlbums": [
+   [
+    "Bo-Weavil Blues (Paramount single)",
+    1923
+   ],
+   [
+    "See See Rider Blues (Paramount single)",
+    1924
+   ],
+   [
+    "Prove It on Me Blues (Paramount single)",
+    1928
+   ]
+  ],
+  "songs": [
+   "See See Rider Blues",
+   "Ma Rainey's Black Bottom",
+   "Prove It on Me Blues",
+   "Bo-Weavil Blues",
+   "Moonshine Blues"
+  ],
+  "influencedBy": [],
+  "cousins": [
+   {
+    "id": "carter-family",
+    "why": "Founding recording act that set the mold for a whole genre in the 1920s."
+   },
+   {
+    "id": "aretha-franklin",
+    "why": "A towering matriarch figure whose voice defined her genre."
+   }
+  ]
+ },
+ {
+  "id": "bessie-smith",
+  "years": "1894–1937",
+  "origin": "Chattanooga, Tennessee",
+  "genres": [
+   "classic blues",
+   "vaudeville blues",
+   "jazz blues"
+  ],
+  "summary": "The best-selling blues singer of the 1920s, known as the Empress of the Blues. Her power and phrasing shaped generations of jazz, blues and soul singers.",
+  "know": [
+   "Her 1923 debut record Downhearted Blues was a huge seller for Columbia.",
+   "She recorded St. Louis Blues with Louis Armstrong on cornet in 1925.",
+   "Janis Joplin helped pay for a headstone on her unmarked grave in 1970."
+  ],
+  "born": "04-15",
+  "keyAlbums": [
+   [
+    "Downhearted Blues (Columbia single)",
+    1923
+   ],
+   [
+    "St. Louis Blues (Columbia single)",
+    1925
+   ],
+   [
+    "Empty Bed Blues (Columbia single)",
+    1928
+   ],
+   [
+    "Nobody Knows You When You're Down and Out (Columbia single)",
+    1929
+   ]
+  ],
+  "songs": [
+   "Downhearted Blues",
+   "St. Louis Blues",
+   "Nobody Knows You When You're Down and Out",
+   "Empty Bed Blues",
+   "Backwater Blues"
+  ],
+  "influencedBy": [
+   {
+    "id": "ma-rainey",
+    "why": "Toured in the same minstrel troupe as a teenager and absorbed Rainey's stagecraft and big-voiced delivery.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "billie-holiday",
+    "why": "Defining female voice of her genre whose phrasing set the standard."
+   },
+   {
+    "id": "aretha-franklin",
+    "why": "Regal, powerhouse singer crowned royalty of her genre."
+   }
+  ]
+ },
+ {
+  "id": "charley-patton",
+  "years": "1891–1934",
+  "origin": "Dockery Plantation, Mississippi",
+  "genres": [
+   "Delta blues",
+   "country blues"
+  ],
+  "summary": "Often called the father of the Delta blues, he was the region's most popular early performer. His rough voice, percussive guitar and showmanship shaped the next wave of Delta players.",
+  "know": [
+   "He was based for years around Dockery Plantation, a hub for early Delta musicians.",
+   "He first recorded for Paramount in 1929.",
+   "He was known for showman tricks like playing guitar behind his back and between his knees."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Pony Blues (Paramount single)",
+    1929
+   ],
+   [
+    "High Water Everywhere (Paramount single)",
+    1929
+   ],
+   [
+    "Screamin' and Hollerin' the Blues: The Worlds of Charley Patton",
+    2001
+   ]
+  ],
+  "songs": [
+   "Pony Blues",
+   "High Water Everywhere",
+   "Down the Dirt Road Blues",
+   "Shake It and Break It",
+   "A Spoonful Blues"
+  ],
+  "influencedBy": [],
+  "cousins": [
+   {
+    "id": "jimmie-rodgers",
+    "why": "Founding father figure of his genre on late-1920s records."
+   },
+   {
+    "id": "jelly-roll-morton",
+    "why": "Early pioneer whose records captured a regional style at its source."
+   }
+  ]
+ },
+ {
+  "id": "blind-lemon-jefferson",
+  "years": "1893–1929",
+  "origin": "Coutchman, Texas",
+  "genres": [
+   "Texas blues",
+   "country blues"
+  ],
+  "summary": "One of the first male blues stars on record and a defining voice of Texas blues. His free, single-note guitar runs and high voice influenced players across the South.",
+  "know": [
+   "He was one of the best-selling male blues recording artists of the 1920s, mostly on Paramount.",
+   "He played on the streets of Dallas's Deep Ellum district.",
+   "He died in Chicago in December 1929 under unclear circumstances."
+  ],
+  "born": "09-24",
+  "keyAlbums": [
+   [
+    "Long Lonesome Blues (Paramount single)",
+    1926
+   ],
+   [
+    "Matchbox Blues (OKeh/Paramount single)",
+    1927
+   ],
+   [
+    "See That My Grave Is Kept Clean (Paramount single)",
+    1927
+   ]
+  ],
+  "songs": [
+   "Matchbox Blues",
+   "See That My Grave Is Kept Clean",
+   "Black Snake Moan",
+   "Long Lonesome Blues",
+   "Rabbit Foot Blues"
+  ],
+  "influencedBy": [],
+  "cousins": [
+   {
+    "id": "jimmie-rodgers",
+    "why": "Rambling solo singer-guitarist who became an early record star."
+   },
+   {
+    "id": "woody-guthrie",
+    "why": "Wandering street-corner troubadour of his genre."
+   }
+  ]
+ },
+ {
+  "id": "mississippi-john-hurt",
+  "years": "1893–1966",
+  "origin": "Avalon, Mississippi",
+  "genres": [
+   "country blues",
+   "folk blues",
+   "fingerstyle"
+  ],
+  "summary": "A gentle singer and fingerpicker whose 1928 recordings and 1960s rediscovery made him a hero of the folk revival. His warm, rolling guitar style is still a model for acoustic players.",
+  "know": [
+   "He recorded for OKeh in 1928 and then returned to farming for decades.",
+   "A fan tracked him down in 1963 using the hometown named in one of his old songs.",
+   "He played the Newport Folk Festival in 1963 after his rediscovery."
+  ],
+  "born": "07-03",
+  "keyAlbums": [
+   [
+    "1928 OKeh Sessions",
+    1928
+   ],
+   [
+    "Today!",
+    1966
+   ],
+   [
+    "The Immortal Mississippi John Hurt",
+    1967
+   ]
+  ],
+  "songs": [
+   "Candy Man Blues",
+   "Avalon Blues",
+   "Stack O' Lee Blues",
+   "Frankie",
+   "Spike Driver Blues"
+  ],
+  "influencedBy": [],
+  "cousins": [
+   {
+    "id": "carter-family",
+    "why": "Homespun, melodic picking and singing rooted in old songs."
+   },
+   {
+    "id": "nick-drake",
+    "why": "Soft-spoken voice over intricate fingerpicked guitar."
+   }
+  ]
+ },
+ {
+  "id": "son-house",
+  "years": "1902–1988",
+  "origin": "Clarksdale, Mississippi",
+  "genres": [
+   "Delta blues",
+   "slide guitar",
+   "country blues"
+  ],
+  "summary": "A fierce singer and slide guitarist whose intensity made him a direct teacher figure for Robert Johnson and Muddy Waters. His 1960s rediscovery brought raw Delta blues to new audiences.",
+  "know": [
+   "He was a preacher before turning to blues and wrestled with that conflict all his life.",
+   "Alan Lomax recorded him for the Library of Congress in 1941 and 1942.",
+   "He was rediscovered living in Rochester, New York in 1964."
+  ],
+  "born": "03-21",
+  "keyAlbums": [
+   [
+    "1930 Paramount Sessions",
+    1930
+   ],
+   [
+    "Library of Congress Recordings",
+    1942
+   ],
+   [
+    "Father of Folk Blues",
+    1965
+   ]
+  ],
+  "songs": [
+   "Death Letter",
+   "Preachin' the Blues",
+   "My Black Mama",
+   "John the Revelator",
+   "Walking Blues"
+  ],
+  "influencedBy": [
+   {
+    "id": "charley-patton",
+    "why": "Traveled and played with Patton, who brought him along to his 1930 Paramount session.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-white-stripes",
+    "why": "Stark, stomping guitar and voice with almost nothing else."
+   },
+   {
+    "id": "johnny-cash",
+    "why": "Sin-and-salvation intensity from a deeply religious performer."
+   }
+  ]
+ },
+ {
+  "id": "robert-johnson",
+  "years": "1911–1938",
+  "origin": "Hazlehurst, Mississippi",
+  "genres": [
+   "Delta blues",
+   "country blues",
+   "slide guitar"
+  ],
+  "summary": "His small body of recordings became the most influential in blues once reissued in 1961. His guitar technique and songs fed directly into Chicago blues and British blues rock.",
+  "know": [
+   "He recorded only 29 songs, in sessions in San Antonio in 1936 and Dallas in 1937.",
+   "Legend says he sold his soul at a crossroads, a story attached to him after his death.",
+   "He died at 27 near Greenwood, Mississippi."
+  ],
+  "born": "05-08",
+  "keyAlbums": [
+   [
+    "King of the Delta Blues Singers",
+    1961
+   ],
+   [
+    "King of the Delta Blues Singers, Vol. II",
+    1970
+   ],
+   [
+    "The Complete Recordings",
+    1990
+   ]
+  ],
+  "songs": [
+   "Cross Road Blues",
+   "Hellhound on My Trail",
+   "Sweet Home Chicago",
+   "Love in Vain",
+   "Me and the Devil Blues"
+  ],
+  "influencedBy": [
+   {
+    "id": "son-house",
+    "why": "Hung around Son House's shows as a young man and copied his slide playing and intensity.",
+    "s": 3
+   },
+   {
+    "id": "skip-james",
+    "why": "Reworked James's 22-20 Blues into his own 32-20 Blues.",
+    "s": 2
+   },
+   {
+    "id": "charley-patton",
+    "why": "Grew up in the Delta scene Patton defined and drew on its rhythmic style.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "hank-williams",
+    "why": "Doomed young legend whose small catalog defined a genre."
+   },
+   {
+    "id": "nick-drake",
+    "why": "Obscure in life, hugely influential after his early death."
+   }
+  ]
+ },
+ {
+  "id": "skip-james",
+  "years": "1902–1969",
+  "origin": "Bentonia, Mississippi",
+  "genres": [
+   "Delta blues",
+   "Bentonia blues",
+   "country blues"
+  ],
+  "summary": "A haunting falsetto singer with an eerie minor-key guitar style unlike anyone else in the Delta. His 1931 recordings and 1960s comeback made him a cult figure for rock musicians.",
+  "know": [
+   "He often played in an open D minor tuning, giving his songs a dark sound.",
+   "He recorded for Paramount in 1931, then left music for decades.",
+   "Royalties from Cream's cover of I'm So Glad helped him pay medical bills."
+  ],
+  "born": "06-09",
+  "keyAlbums": [
+   [
+    "1931 Paramount Sessions",
+    1931
+   ],
+   [
+    "Today!",
+    1966
+   ],
+   [
+    "Devil Got My Woman",
+    1968
+   ]
+  ],
+  "songs": [
+   "Devil Got My Woman",
+   "Hard Time Killin' Floor Blues",
+   "I'm So Glad",
+   "Cypress Grove Blues",
+   "22-20 Blues"
+  ],
+  "influencedBy": [],
+  "cousins": [
+   {
+    "id": "nick-drake",
+    "why": "Hushed, haunting voice over unusual guitar tunings."
+   },
+   {
+    "id": "jeff-buckley",
+    "why": "Otherworldly falsetto and spellbinding solo performances."
+   }
+  ]
+ },
+ {
+  "id": "lead-belly",
+  "years": "1888–1949",
+  "origin": "Mooringsport, Louisiana",
+  "genres": [
+   "folk blues",
+   "country blues",
+   "work songs"
+  ],
+  "summary": "A 12-string guitar powerhouse whose vast songbook bridged blues, folk and work songs. His songs became standards for the folk revival, skiffle and grunge alike.",
+  "know": [
+   "John and Alan Lomax recorded him at Louisiana's Angola prison in 1933.",
+   "His signature instrument was a loud 12-string guitar.",
+   "The Weavers had a huge hit with Goodnight, Irene in 1950, a year after his death."
+  ],
+  "born": "01-20",
+  "keyAlbums": [
+   [
+    "Library of Congress Recordings",
+    1935
+   ],
+   [
+    "Negro Sinful Songs",
+    1939
+   ],
+   [
+    "Last Sessions",
+    1953
+   ]
+  ],
+  "songs": [
+   "Goodnight, Irene",
+   "Midnight Special",
+   "Where Did You Sleep Last Night",
+   "Rock Island Line",
+   "Cotton Fields"
+  ],
+  "influencedBy": [
+   {
+    "id": "blind-lemon-jefferson",
+    "why": "Worked as Jefferson's guide and playing partner around Dallas, learning his songs and runs.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "woody-guthrie",
+    "why": "Folk songbook keeper who carried hundreds of traditional songs."
+   },
+   {
+    "id": "lonnie-donegan",
+    "why": "Turned the same folk and work songs into a pop craze."
+   }
+  ]
+ },
+ {
+  "id": "t-bone-walker",
+  "years": "1910–1975",
+  "origin": "Dallas, Texas",
+  "genres": [
+   "Texas blues",
+   "jump blues",
+   "electric blues"
+  ],
+  "summary": "The pioneer of electric blues guitar, he combined jazzy single-note lines with horn-band swing. Nearly every later electric blues guitarist traces back to his sound.",
+  "know": [
+   "He was among the first bluesmen to record on electric guitar, in the early 1940s.",
+   "He was a showman who played guitar behind his head and did the splits.",
+   "As a boy in Dallas he guided Blind Lemon Jefferson around the streets."
+  ],
+  "born": "05-28",
+  "keyAlbums": [
+   [
+    "The Complete Imperial Recordings 1950–1954",
+    1991
+   ],
+   [
+    "T-Bone Blues",
+    1959
+   ],
+   [
+    "Good Feelin'",
+    1969
+   ]
+  ],
+  "songs": [
+   "Call It Stormy Monday (But Tuesday Is Just as Bad)",
+   "T-Bone Shuffle",
+   "Mean Old World",
+   "Bobby Sox Blues",
+   "Glamour Girl"
+  ],
+  "influencedBy": [
+   {
+    "id": "blind-lemon-jefferson",
+    "why": "Led Jefferson around Dallas as a boy and soaked up his playing up close.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "charlie-christian",
+    "why": "Fellow Texas-born electric guitar pioneer who made the instrument a lead voice."
+   },
+   {
+    "id": "chuck-berry",
+    "why": "Flashy guitar showman who borrowed T-Bone's stagecraft for rock and roll."
+   }
+  ]
+ },
+ {
+  "id": "john-lee-hooker",
+  "years": "1912–2001",
+  "origin": "Detroit, Michigan",
+  "genres": [
+   "Detroit blues",
+   "Delta blues",
+   "boogie"
+  ],
+  "summary": "A Mississippi-born singer whose hypnotic, one-chord boogie became his trademark in Detroit. His driving groove influenced rock bands from the 1960s onward.",
+  "know": [
+   "His 1948 debut Boogie Chillen' topped the R&B chart.",
+   "He recorded under many pseudonyms for different labels in his early years.",
+   "His 1989 album The Healer revived his career and won a Grammy."
+  ],
+  "born": "08-22",
+  "keyAlbums": [
+   [
+    "House of the Blues",
+    1959
+   ],
+   [
+    "Burnin'",
+    1962
+   ],
+   [
+    "Hooker 'n Heat",
+    1971
+   ],
+   [
+    "The Healer",
+    1989
+   ]
+  ],
+  "songs": [
+   "Boogie Chillen'",
+   "Boom Boom",
+   "Crawling King Snake",
+   "I'm in the Mood",
+   "One Bourbon, One Scotch, One Beer"
+  ],
+  "influencedBy": [],
+  "cousins": [
+   {
+    "id": "can",
+    "why": "Trance-like grooves built on a single repeating pattern."
+   },
+   {
+    "id": "james-brown",
+    "why": "Built hits on a relentless one-chord groove."
+   }
+  ]
+ },
+ {
+  "id": "sister-rosetta-tharpe",
+  "years": "1915–1973",
+  "origin": "Cotton Plant, Arkansas",
+  "genres": [
+   "gospel",
+   "gospel blues",
+   "early rock and roll"
+  ],
+  "summary": "A gospel star who played electrified guitar with blues bite, she is often called the godmother of rock and roll. Her guitar playing and showmanship anticipated rock decades early.",
+  "know": [
+   "Her 1944 recording Strange Things Happening Every Day crossed over to the race records chart.",
+   "She played electric guitar with a style that later rock players echoed.",
+   "She was inducted into the Rock and Roll Hall of Fame in 2018."
+  ],
+  "born": "03-20",
+  "keyAlbums": [
+   [
+    "Strange Things Happening Every Day (Decca single)",
+    1944
+   ],
+   [
+    "Gospel Train",
+    1956
+   ]
+  ],
+  "songs": [
+   "Strange Things Happening Every Day",
+   "This Train",
+   "Up Above My Head",
+   "Didn't It Rain",
+   "Rock Me"
+  ],
+  "influencedBy": [],
+  "cousins": [
+   {
+    "id": "chuck-berry",
+    "why": "Electric guitar showmanship that defined rock and roll."
+   },
+   {
+    "id": "little-richard",
+    "why": "Church-born fire carried into secular rock and roll."
+   }
+  ]
+ },
+ {
+  "id": "louis-jordan",
+  "years": "1908–1975",
+  "origin": "Brinkley, Arkansas",
+  "genres": [
+   "jump blues",
+   "rhythm and blues",
+   "swing"
+  ],
+  "summary": "The bandleader and saxophonist who ruled 1940s R&B with witty, danceable jump blues. His small-combo shuffle rhythms were a direct blueprint for rock and roll.",
+  "know": [
+   "He led a small group called the Tympany Five.",
+   "Choo Choo Ch'Boogie spent many weeks at number one on the R&B chart in 1946.",
+   "He was nicknamed the King of the Jukebox."
+  ],
+  "born": "07-08",
+  "keyAlbums": [
+   [
+    "The Best of Louis Jordan",
+    1975
+   ],
+   [
+    "Let the Good Times Roll: The Complete Decca Recordings 1938–1954",
+    1992
+   ]
+  ],
+  "songs": [
+   "Caldonia",
+   "Choo Choo Ch'Boogie",
+   "Let the Good Times Roll",
+   "Saturday Night Fish Fry",
+   "Is You Is or Is You Ain't My Baby"
+  ],
+  "influencedBy": [],
+  "cousins": [
+   {
+    "id": "fats-waller",
+    "why": "Comic, crowd-pleasing entertainer who was also a serious musician."
+   },
+   {
+    "id": "chuck-berry",
+    "why": "Witty storytelling hits over a bouncing shuffle beat."
+   }
+  ]
+ },
+ {
+  "id": "muddy-waters",
+  "years": "1913–1983",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "Chicago blues",
+   "Delta blues",
+   "electric blues"
+  ],
+  "summary": "He plugged Delta blues into an amplifier and built the Chicago blues band sound. His records inspired the Rolling Stones, British blues and much of rock.",
+  "know": [
+   "Alan Lomax first recorded him at Stovall Plantation in Mississippi in 1941.",
+   "The Rolling Stones took their name from one of his songs.",
+   "His 1977 album Hard Again, produced by Johnny Winter, won a Grammy."
+  ],
+  "born": "04-04",
+  "keyAlbums": [
+   [
+    "The Best of Muddy Waters",
+    1958
+   ],
+   [
+    "At Newport 1960",
+    1960
+   ],
+   [
+    "Folk Singer",
+    1964
+   ],
+   [
+    "Hard Again",
+    1977
+   ]
+  ],
+  "songs": [
+   "Hoochie Coochie Man",
+   "Mannish Boy",
+   "I Can't Be Satisfied",
+   "Rollin' Stone",
+   "Got My Mojo Working"
+  ],
+  "influencedBy": [
+   {
+    "id": "son-house",
+    "why": "Watched House play around Clarksdale and said he modeled his slide style on him.",
+    "s": 3
+   },
+   {
+    "id": "robert-johnson",
+    "why": "Said Johnson's records hit him hard and studied his songs and guitar.",
+    "s": 3
+   },
+   {
+    "id": "charley-patton",
+    "why": "Grew up in the Delta tradition Patton led and absorbed its rhythms.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-rolling-stones",
+    "why": "Swaggering electric band that took his sound worldwide."
+   },
+   {
+    "id": "james-brown",
+    "why": "Commanding bandleader who ran a tight, groove-driven band."
+   }
+  ]
+ },
+ {
+  "id": "howlin-wolf",
+  "years": "1910–1976",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "Chicago blues",
+   "Delta blues",
+   "electric blues"
+  ],
+  "summary": "A towering performer with a ferocious, gravelly voice who brought raw Delta power to Chicago. His Chess records became staples of British and American rock bands.",
+  "know": [
+   "He first recorded with Sam Phillips in Memphis before moving to Chicago and Chess.",
+   "He appeared on the TV show Shindig! in 1965 at the Rolling Stones' request.",
+   "He was a big man, about six foot three, with a famously imposing stage presence."
+  ],
+  "born": "06-10",
+  "keyAlbums": [
+   [
+    "Moanin' in the Moonlight",
+    1959
+   ],
+   [
+    "Howlin' Wolf",
+    1962
+   ],
+   [
+    "The Real Folk Blues",
+    1966
+   ],
+   [
+    "The London Howlin' Wolf Sessions",
+    1971
+   ]
+  ],
+  "songs": [
+   "Smokestack Lightnin'",
+   "Spoonful",
+   "Killing Floor",
+   "Back Door Man",
+   "The Red Rooster"
+  ],
+  "influencedBy": [
+   {
+    "id": "charley-patton",
+    "why": "Learned guitar from Patton around Dockery Plantation and copied his showmanship.",
+    "s": 3
+   },
+   {
+    "id": "jimmie-rodgers",
+    "why": "Tried to imitate Rodgers's yodel and said it turned into his howl.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "captain-beefheart",
+    "why": "Growling, untamed voice over jagged music."
+   },
+   {
+    "id": "motorhead",
+    "why": "Raw, roaring frontman energy with no polish."
+   }
+  ]
+ },
+ {
+  "id": "bb-king",
+  "years": "1925–2015",
+  "origin": "Memphis, Tennessee",
+  "genres": [
+   "electric blues",
+   "Memphis blues",
+   "soul blues"
+  ],
+  "summary": "The most famous ambassador of the blues, known for expressive string bends and vibrato on his guitar Lucille. He took blues into concert halls worldwide for six decades.",
+  "know": [
+   "He named his guitars Lucille after a dance hall fire in Arkansas started by a fight over a woman of that name.",
+   "He was a DJ on Memphis radio station WDIA, where the nickname Blues Boy began.",
+   "The Thrill Is Gone in 1969 became his biggest crossover hit."
+  ],
+  "born": "09-16",
+  "keyAlbums": [
+   [
+    "Live at the Regal",
+    1965
+   ],
+   [
+    "Completely Well",
+    1969
+   ],
+   [
+    "Live in Cook County Jail",
+    1971
+   ],
+   [
+    "Riding with the King",
+    2000
+   ]
+  ],
+  "songs": [
+   "The Thrill Is Gone",
+   "Three O'Clock Blues",
+   "Every Day I Have the Blues",
+   "Sweet Little Angel",
+   "Why I Sing the Blues"
+  ],
+  "influencedBy": [
+   {
+    "id": "t-bone-walker",
+    "why": "Said hearing T-Bone's electric guitar made him want to play one himself.",
+    "s": 3
+   },
+   {
+    "id": "blind-lemon-jefferson",
+    "why": "Listened to Jefferson's records as a boy and named him an early favorite.",
+    "s": 3
+   },
+   {
+    "id": "django-reinhardt",
+    "why": "Cited Django's melodic, singing lines as a model for his solos.",
+    "s": 3
+   },
+   {
+    "id": "charlie-christian",
+    "why": "Named Christian's jazz single-note style as a key guitar influence.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "louis-armstrong",
+    "why": "Beloved global ambassador for his genre."
+   },
+   {
+    "id": "ray-charles",
+    "why": "Southern singer who carried his music into the mainstream."
+   }
+  ]
+ },
+ {
+  "id": "willie-dixon",
+  "years": "1915–1992",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "Chicago blues",
+   "songwriting",
+   "electric blues"
+  ],
+  "summary": "Chess Records' house bassist, producer and chief songwriter, he wrote many of the best-known Chicago blues songs. His songs became core repertoire for British and American rock bands.",
+  "know": [
+   "He won an Illinois Golden Gloves heavyweight boxing title in 1937.",
+   "He wrote hits for Muddy Waters, Howlin' Wolf and Little Walter at Chess.",
+   "He settled a lawsuit with Led Zeppelin over Whole Lotta Love in 1985."
+  ],
+  "born": "07-01",
+  "keyAlbums": [
+   [
+    "Willie's Blues",
+    1959
+   ],
+   [
+    "I Am the Blues",
+    1970
+   ],
+   [
+    "Hidden Charms",
+    1988
+   ]
+  ],
+  "songs": [
+   "Hoochie Coochie Man",
+   "Spoonful",
+   "Little Red Rooster",
+   "I Just Want to Make Love to You",
+   "You Shook Me"
+  ],
+  "influencedBy": [],
+  "cousins": [
+   {
+    "id": "carole-king",
+    "why": "Songwriter behind a string of other artists' hits."
+   },
+   {
+    "id": "booker-t",
+    "why": "Label house band and studio backbone shaping a whole sound."
+   }
+  ]
+ },
+ {
+  "id": "little-walter",
+  "years": "1930–1968",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "Chicago blues",
+   "blues harmonica",
+   "electric blues"
+  ],
+  "summary": "He reinvented the harmonica by cupping it to a microphone and playing through an amp like a saxophone. Every modern blues harp player builds on his sound.",
+  "know": [
+   "His instrumental Juke reached number one on the R&B chart in 1952.",
+   "He played in Muddy Waters's band before going solo.",
+   "He was inducted into the Rock and Roll Hall of Fame in 2008, a first for a harmonica player."
+  ],
+  "born": "05-01",
+  "keyAlbums": [
+   [
+    "The Best of Little Walter",
+    1958
+   ],
+   [
+    "Hate to See You Go",
+    1969
+   ],
+   [
+    "The Complete Chess Masters 1950–1967",
+    2009
+   ]
+  ],
+  "songs": [
+   "Juke",
+   "My Babe",
+   "Blues with a Feeling",
+   "Off the Wall",
+   "Mean Old World"
+  ],
+  "influencedBy": [
+   {
+    "id": "louis-jordan",
+    "why": "Wanted the harmonica to sound like Jordan's jumping saxophone lines.",
+    "s": 2
+   },
+   {
+    "id": "muddy-waters",
+    "why": "Honed his amplified band style as a member of Muddy's group.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "charlie-parker",
+    "why": "Revolutionized what his instrument could say."
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "Used amplification as part of the instrument itself."
+   }
+  ]
+ },
+ {
+  "id": "elmore-james",
+  "years": "1918–1963",
+  "origin": "Richland, Mississippi",
+  "genres": [
+   "Chicago blues",
+   "slide guitar",
+   "Delta blues"
+  ],
+  "summary": "The King of the Slide Guitar, famous for a loud, ringing slide riff that opens Dust My Broom. His amplified slide sound shaped blues rock guitar.",
+  "know": [
+   "His 1951 version of Dust My Broom became a hit and his signature.",
+   "He worked repairing radios and tinkered with his amplified sound.",
+   "Brian Jones of the Rolling Stones briefly called himself Elmo Lewis in tribute."
+  ],
+  "born": "01-27",
+  "keyAlbums": [
+   [
+    "Dust My Broom (Trumpet single)",
+    1951
+   ],
+   [
+    "Blues After Hours",
+    1960
+   ],
+   [
+    "The Sky Is Crying: The History of Elmore James",
+    1993
+   ]
+  ],
+  "songs": [
+   "Dust My Broom",
+   "The Sky Is Crying",
+   "Shake Your Moneymaker",
+   "It Hurts Me Too",
+   "Done Somebody Wrong"
+  ],
+  "influencedBy": [
+   {
+    "id": "robert-johnson",
+    "why": "Built his signature hit on Johnson's I Believe I'll Dust My Broom and its slide riff.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-allman-brothers",
+    "why": "Slide guitar as the lead voice of a hard-driving band."
+   },
+   {
+    "id": "the-black-keys",
+    "why": "Fuzzy, stomping slide riffs in a raw garage setting."
+   }
+  ]
+ },
+ {
+  "id": "jimmy-reed",
+  "years": "1925–1976",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "Chicago blues",
+   "electric blues",
+   "shuffle"
+  ],
+  "summary": "His lazy, loping shuffles and high harmonica made him one of the best-selling bluesmen of the 1950s. His simple, catchy songs were easy for young rock bands to learn and cover.",
+  "know": [
+   "His boyhood friend Eddie Taylor played guitar on many of his records.",
+   "His wife, known as Mama Reed, often sang along and fed him lyrics in the studio.",
+   "He scored more pop chart crossovers than most of his Chicago peers."
+  ],
+  "born": "09-06",
+  "keyAlbums": [
+   [
+    "I'm Jimmy Reed",
+    1958
+   ],
+   [
+    "Rockin' with Reed",
+    1959
+   ],
+   [
+    "Jimmy Reed at Carnegie Hall",
+    1961
+   ],
+   [
+    "Just Jimmy Reed",
+    1962
+   ]
+  ],
+  "songs": [
+   "Bright Lights, Big City",
+   "Baby What You Want Me to Do",
+   "Big Boss Man",
+   "Honest I Do",
+   "Ain't That Lovin' You Baby"
+  ],
+  "influencedBy": [],
+  "cousins": [
+   {
+    "id": "creedence",
+    "why": "Simple, chugging grooves that made hits feel effortless."
+   },
+   {
+    "id": "the-rolling-stones",
+    "why": "Built early sets on the same easy, rolling shuffle."
+   }
+  ]
+ },
+ {
+  "id": "mahalia-jackson",
+  "years": "1911–1972",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "gospel",
+   "traditional gospel",
+   "spirituals"
+  ],
+  "summary": "The Queen of Gospel, whose huge voice brought gospel to mainstream audiences. She was a key voice of the civil rights movement.",
+  "know": [
+   "Move On Up a Little Higher in 1947 was a massive seller for gospel.",
+   "She sang at the 1963 March on Washington before Martin Luther King Jr. spoke.",
+   "She recorded with Duke Ellington on Black, Brown and Beige in 1958."
+  ],
+  "born": "10-26",
+  "keyAlbums": [
+   [
+    "Bless This House",
+    1956
+   ],
+   [
+    "Black, Brown and Beige",
+    1958
+   ],
+   [
+    "Live at Newport 1958",
+    1958
+   ],
+   [
+    "The Power and the Glory",
+    1960
+   ]
+  ],
+  "songs": [
+   "Move On Up a Little Higher",
+   "Take My Hand, Precious Lord",
+   "How I Got Over",
+   "Didn't It Rain"
+  ],
+  "influencedBy": [
+   {
+    "id": "bessie-smith",
+    "why": "Grew up listening to Bessie's records and credited her phrasing even while singing only sacred music.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "aretha-franklin",
+    "why": "Church-trained powerhouse who sang at her funeral."
+   },
+   {
+    "id": "sam-cooke",
+    "why": "Gospel star whose voice reshaped popular music."
+   }
+  ]
+ },
+ {
+  "id": "buddy-guy",
+  "years": "1936–",
+  "origin": "Chicago, Illinois",
+  "genres": [
+   "Chicago blues",
+   "electric blues",
+   "blues rock"
+  ],
+  "summary": "A wild, explosive guitarist whose stinging tone and showmanship bridged Chicago blues and rock. Clapton, Hendrix and Stevie Ray Vaughan all named him a favorite.",
+  "know": [
+   "He moved from Louisiana to Chicago in 1957 and became a Chess session guitarist.",
+   "He opened his Chicago club, Buddy Guy's Legends, in 1989.",
+   "He received Kennedy Center Honors in 2012."
+  ],
+  "born": "07-30",
+  "keyAlbums": [
+   [
+    "A Man and the Blues",
+    1968
+   ],
+   [
+    "Damn Right, I've Got the Blues",
+    1991
+   ],
+   [
+    "Sweet Tea",
+    2001
+   ],
+   [
+    "The Blues Don't Lie",
+    2022
+   ]
+  ],
+  "songs": [
+   "First Time I Met the Blues",
+   "Stone Crazy",
+   "Damn Right, I've Got the Blues",
+   "Mary Had a Little Lamb",
+   "Let Me Love You Baby"
+  ],
+  "influencedBy": [
+   {
+    "id": "muddy-waters",
+    "why": "Muddy took him under his wing when he arrived in Chicago and he played in that circle.",
+    "s": 3
+   },
+   {
+    "id": "bb-king",
+    "why": "Named B.B. King's string bending and vibrato as a key influence.",
+    "s": 3
+   },
+   {
+    "id": "john-lee-hooker",
+    "why": "Learned Boogie Chillen' as one of the first songs he played.",
+    "s": 3
+   },
+   {
+    "id": "t-bone-walker",
+    "why": "Picked up T-Bone's flashy electric showmanship.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "jimi-hendrix",
+    "why": "Loud, feedback-friendly guitar played with theatrical abandon."
+   },
+   {
+    "id": "little-richard",
+    "why": "Explosive, unpredictable stage showman."
+   }
+  ]
+ },
+ {
+  "id": "albert-king",
+  "years": "1923–1992",
+  "origin": "Memphis, Tennessee",
+  "genres": [
+   "electric blues",
+   "soul blues",
+   "Memphis blues"
+  ],
+  "summary": "A giant of the Flying V whose huge, string-bending solos defined the modern blues guitar vocabulary. His Stax records fused blues with Memphis soul.",
+  "know": [
+   "He played left-handed on a right-handed-strung guitar, bending strings downward.",
+   "He was backed by Booker T. and the MGs on his Stax recordings.",
+   "He jammed with Stevie Ray Vaughan for a 1983 TV session later released as an album."
+  ],
+  "born": "04-25",
+  "keyAlbums": [
+   [
+    "Born Under a Bad Sign",
+    1967
+   ],
+   [
+    "Live Wire/Blues Power",
+    1968
+   ],
+   [
+    "King of the Blues Guitar",
+    1969
+   ],
+   [
+    "I'll Play the Blues for You",
+    1972
+   ]
+  ],
+  "songs": [
+   "Born Under a Bad Sign",
+   "Crosscut Saw",
+   "Laundromat Blues",
+   "I'll Play the Blues for You",
+   "Oh, Pretty Woman"
+  ],
+  "influencedBy": [
+   {
+    "id": "t-bone-walker",
+    "why": "Named T-Bone among the electric players he learned from.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "booker-t",
+    "why": "Stax house sound with lean, punchy grooves."
+   },
+   {
+    "id": "otis-redding",
+    "why": "Stax-era Memphis star with raw emotional delivery."
+   }
+  ]
+ },
+ {
+  "id": "freddie-king",
+  "years": "1934–1976",
+  "origin": "Dallas, Texas",
+  "genres": [
+   "Texas blues",
+   "Chicago blues",
+   "blues rock"
+  ],
+  "summary": "A Texas-born guitarist who mixed Texas and Chicago styles into punchy instrumentals and big-voiced blues. He was a major influence on the British blues boom.",
+  "know": [
+   "His instrumental Hide Away reached the pop chart in 1961.",
+   "He played with a plastic thumb pick and metal finger pick.",
+   "Eric Clapton recorded several songs associated with him, including Have You Ever Loved a Woman."
+  ],
+  "born": "09-03",
+  "keyAlbums": [
+   [
+    "Freddy King Sings",
+    1961
+   ],
+   [
+    "Let's Hide Away and Dance Away with Freddy King",
+    1961
+   ],
+   [
+    "Getting Ready...",
+    1971
+   ],
+   [
+    "Burglar",
+    1974
+   ]
+  ],
+  "songs": [
+   "Hide Away",
+   "The Stumble",
+   "Have You Ever Loved a Woman",
+   "I'm Tore Down",
+   "Going Down"
+  ],
+  "influencedBy": [
+   {
+    "id": "muddy-waters",
+    "why": "Moved to Chicago as a teen and studied Muddy's band in the clubs.",
+    "s": 2
+   },
+   {
+    "id": "t-bone-walker",
+    "why": "Took the Texas electric single-note approach T-Bone pioneered.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "eric-clapton",
+    "why": "Guitar-hero blues rock built on the same bends and tone."
+   },
+   {
+    "id": "the-allman-brothers",
+    "why": "Long, driving guitar jams rooted in blues."
+   }
+  ]
+ },
+ {
+  "id": "stevie-ray-vaughan",
+  "years": "1954–1990",
+  "origin": "Austin, Texas",
+  "genres": [
+   "Texas blues",
+   "blues rock",
+   "electric blues"
+  ],
+  "summary": "The fiery Texas guitarist who led a 1980s blues revival with his band Double Trouble. His heavy tone and speed made blues guitar a mainstream force again.",
+  "know": [
+   "He played lead guitar on David Bowie's Let's Dance in 1983.",
+   "His debut album Texas Flood came out the same year.",
+   "He died in a helicopter crash after a show in Wisconsin in 1990."
+  ],
+  "born": "10-03",
+  "keyAlbums": [
+   [
+    "Texas Flood",
+    1983
+   ],
+   [
+    "Couldn't Stand the Weather",
+    1984
+   ],
+   [
+    "Soul to Soul",
+    1985
+   ],
+   [
+    "In Step",
+    1989
+   ]
+  ],
+  "songs": [
+   "Pride and Joy",
+   "Texas Flood",
+   "Cold Shot",
+   "Crossfire",
+   "Scuttle Buttin'"
+  ],
+  "influencedBy": [
+   {
+    "id": "albert-king",
+    "why": "Studied Albert's bends closely and later jammed with him on TV.",
+    "s": 3
+   },
+   {
+    "id": "jimi-hendrix",
+    "why": "Covered Voodoo Child and Little Wing and openly idolized Hendrix.",
+    "s": 3
+   },
+   {
+    "id": "freddie-king",
+    "why": "Named Freddie King as a key early guitar hero.",
+    "s": 3
+   },
+   {
+    "id": "buddy-guy",
+    "why": "Cited Buddy Guy's attack and tone as a major inspiration.",
+    "s": 3
+   },
+   {
+    "id": "t-bone-walker",
+    "why": "Drew on the Texas electric tradition T-Bone started.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "eric-clapton",
+    "why": "Blues-based guitar hero with mass appeal."
+   },
+   {
+    "id": "van-halen",
+    "why": "1980s guitar virtuoso who redefined the instrument's role."
+   }
+  ]
+ },
+ {
+  "id": "rl-burnside",
+  "years": "1926–2005",
+  "origin": "Holly Springs, Mississippi",
+  "genres": [
+   "hill country blues",
+   "Delta blues",
+   "blues rock"
+  ],
+  "summary": "A North Mississippi hill country bluesman whose droning, trance-like grooves found a new audience in the 1990s. His Fat Possum records connected raw juke-joint blues with indie and punk fans.",
+  "know": [
+   "He recorded for Fat Possum Records in the 1990s.",
+   "His neighbor Mississippi Fred McDowell taught him guitar.",
+   "He toured and recorded with the Jon Spencer Blues Explosion."
+  ],
+  "born": "11-23",
+  "keyAlbums": [
+   [
+    "Too Bad Jim",
+    1994
+   ],
+   [
+    "A Ass Pocket of Whiskey",
+    1996
+   ],
+   [
+    "Mr. Wizard",
+    1997
+   ],
+   [
+    "Come On In",
+    1998
+   ]
+  ],
+  "songs": [
+   "Goin' Down South",
+   "Snake Drive",
+   "Poor Black Mattie",
+   "It's Bad You Know",
+   "Shake 'Em On Down"
+  ],
+  "influencedBy": [
+   {
+    "id": "john-lee-hooker",
+    "why": "Named Hooker's boogie records as an early inspiration for his driving style.",
+    "s": 3
+   },
+   {
+    "id": "muddy-waters",
+    "why": "Spent time around Muddy in Chicago and cited him as a hero.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-black-keys",
+    "why": "Fuzzy, repetitive garage blues that grew from his records."
+   },
+   {
+    "id": "can",
+    "why": "Hypnotic, looping grooves meant to entrance."
+   }
+  ]
+ },
+ {
+  "id": "gary-clark-jr",
+  "years": "1984–",
+  "origin": "Austin, Texas",
+  "genres": [
+   "blues rock",
+   "Texas blues",
+   "soul"
+  ],
+  "summary": "An Austin guitarist who blends blues with rock, soul and hip-hop. He is one of the most prominent blues-rooted artists of his generation.",
+  "know": [
+   "He broke through after playing Eric Clapton's Crossroads Guitar Festival in 2010.",
+   "He performed at the White House in 2012.",
+   "His 2019 album This Land earned him multiple Grammy Awards."
+  ],
+  "born": "02-15",
+  "keyAlbums": [
+   [
+    "Blak and Blu",
+    2012
+   ],
+   [
+    "The Story of Sonny Boy Slim",
+    2015
+   ],
+   [
+    "This Land",
+    2019
+   ],
+   [
+    "JPEG Raw",
+    2024
+   ]
+  ],
+  "songs": [
+   "Bright Lights",
+   "When My Train Pulls In",
+   "This Land",
+   "Ain't Messin 'Round",
+   "Pearl Cadillac"
+  ],
+  "influencedBy": [
+   {
+    "id": "jimi-hendrix",
+    "why": "Has cited Hendrix's blend of blues and rock as a guiding influence.",
+    "s": 2
+   },
+   {
+    "id": "stevie-ray-vaughan",
+    "why": "Came up in the Austin blues scene SRV made famous.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "leon-bridges",
+    "why": "Texas artist modernizing vintage roots music."
+   },
+   {
+    "id": "the-black-keys",
+    "why": "Modern bluesy rock with fuzzy guitar."
+   }
+  ]
+ }
+]

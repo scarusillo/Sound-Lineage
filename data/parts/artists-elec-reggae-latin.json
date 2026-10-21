@@ -1,0 +1,2650 @@
+[
+ {
+  "id": "tito-puente",
+  "years": "1946–2000",
+  "origin": "New York City, US",
+  "genres": [
+   "mambo",
+   "salsa",
+   "Latin jazz",
+   "cha-cha-chá"
+  ],
+  "summary": "Timbales player and bandleader who led one of the great New York mambo orchestras. He helped carry Afro-Cuban dance music into the American mainstream.",
+  "know": [
+   "He wrote \"Oye Como Va,\" which Santana turned into a rock hit in 1970.",
+   "He served in the US Navy in World War II and studied at Juilliard on the GI Bill.",
+   "He won five Grammy Awards."
+  ],
+  "born": "04-20",
+  "keyAlbums": [
+   [
+    "Cuban Carnival",
+    1956
+   ],
+   [
+    "Top Percussion",
+    1957
+   ],
+   [
+    "Dance Mania",
+    1958
+   ]
+  ],
+  "songs": [
+   "Oye Como Va",
+   "Ran Kan Kan",
+   "Para Los Rumberos",
+   "El Cayuco"
+  ],
+  "influencedBy": [
+   {
+    "id": "benny-goodman",
+    "why": "Gene Krupa's drumming in Benny Goodman's band is widely cited as what drew the young Puente to the drums.",
+    "s": 2
+   },
+   {
+    "id": "dizzy-gillespie",
+    "why": "Gillespie's Afro-Cuban jazz of the late 1940s set the template for the mambo-jazz blend Puente's band played.",
+    "s": 1
+   },
+   {
+    "id": "count-basie",
+    "why": "Puente's big band arrangements drew on the punchy brass sections of swing orchestras like Basie's.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "art-blakey",
+    "why": "A drummer who led his band from behind the kit."
+   },
+   {
+    "id": "james-brown",
+    "why": "A bandleader who made the rhythm section the star."
+   }
+  ]
+ },
+ {
+  "id": "celia-cruz",
+  "years": "1948–2003",
+  "origin": "Havana, Cuba",
+  "genres": [
+   "salsa",
+   "guaracha",
+   "son cubano"
+  ],
+  "summary": "Cuban singer known as the Queen of Salsa. Her powerful voice and stage presence made her the face of salsa for five decades.",
+  "know": [
+   "She was lead singer of La Sonora Matancera through the 1950s.",
+   "Her trademark shout was \"¡Azúcar!\"",
+   "She left Cuba in 1960 and was never allowed to return."
+  ],
+  "born": "10-21",
+  "keyAlbums": [
+   [
+    "Celia & Johnny",
+    1974
+   ],
+   [
+    "Mi Vida Es Cantar",
+    1998
+   ],
+   [
+    "La Negra Tiene Tumbao",
+    2001
+   ]
+  ],
+  "songs": [
+   "Quimbara",
+   "La Vida Es Un Carnaval",
+   "Bemba Colorá",
+   "La Negra Tiene Tumbao"
+  ],
+  "influencedBy": [
+   {
+    "id": "tito-puente",
+    "why": "She recorded a string of albums with Puente's orchestra in the 1960s, which shaped her move into New York salsa.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "aretha-franklin",
+    "why": "The crowned queen of her genre with a commanding voice."
+   },
+   {
+    "id": "ella-fitzgerald",
+    "why": "A singer whose joy and phrasing defined an era of dance music."
+   }
+  ]
+ },
+ {
+  "id": "antonio-carlos-jobim",
+  "years": "1950s–1994",
+  "origin": "Rio de Janeiro, Brazil",
+  "genres": [
+   "bossa nova",
+   "MPB",
+   "samba-canção"
+  ],
+  "summary": "Brazilian composer and pianist who wrote most of the bossa nova standards. Songs like \"The Girl from Ipanema\" made him one of the most recorded songwriters of the 20th century.",
+  "know": [
+   "He co-wrote \"The Girl from Ipanema\" with lyricist Vinicius de Moraes.",
+   "He made a 1967 album with Frank Sinatra.",
+   "Rio de Janeiro's main international airport is named after him."
+  ],
+  "born": "01-25",
+  "keyAlbums": [
+   [
+    "The Composer of Desafinado, Plays",
+    1963
+   ],
+   [
+    "Wave",
+    1967
+   ],
+   [
+    "Stone Flower",
+    1970
+   ],
+   [
+    "Elis & Tom",
+    1974
+   ]
+  ],
+  "songs": [
+   "The Girl from Ipanema",
+   "Desafinado",
+   "Corcovado",
+   "Águas de Março",
+   "Wave"
+  ],
+  "influencedBy": [
+   {
+    "id": "joao-gilberto",
+    "why": "Gilberto's guitar rhythm and hushed vocals became the frame for Jobim's songs on the first bossa nova records.",
+    "s": 2
+   },
+   {
+    "id": "miles-davis",
+    "why": "The soft dynamics and extended harmony of 1950s cool jazz fed directly into bossa nova's sound.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "duke-ellington",
+    "why": "A composer whose songs became standards for everyone else."
+   },
+   {
+    "id": "joni-mitchell",
+    "why": "A songwriter with unusually rich harmony."
+   }
+  ]
+ },
+ {
+  "id": "joao-gilberto",
+  "years": "1950s–2019",
+  "origin": "Juazeiro, Bahia, Brazil",
+  "genres": [
+   "bossa nova",
+   "samba",
+   "MPB"
+  ],
+  "summary": "Brazilian singer and guitarist who invented the bossa nova guitar beat. His quiet, precise style changed Brazilian music and influenced jazz worldwide.",
+  "know": [
+   "His 1958 single \"Chega de Saudade\" is considered the first bossa nova record.",
+   "Getz/Gilberto won the Grammy for Album of the Year in 1965.",
+   "He was famous for perfectionism and for demanding total silence at concerts."
+  ],
+  "born": "06-10",
+  "keyAlbums": [
+   [
+    "Chega de Saudade",
+    1959
+   ],
+   [
+    "O Amor, o Sorriso e a Flor",
+    1960
+   ],
+   [
+    "Getz/Gilberto",
+    1964
+   ],
+   [
+    "João Gilberto",
+    1973
+   ]
+  ],
+  "songs": [
+   "Chega de Saudade",
+   "Desafinado",
+   "Bim Bom",
+   "Corcovado",
+   "Doralice"
+  ],
+  "influencedBy": [
+   {
+    "id": "antonio-carlos-jobim",
+    "why": "Jobim wrote and arranged the songs that Gilberto's new guitar style was built around.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "nick-drake",
+    "why": "Hushed voice and intricate guitar."
+   },
+   {
+    "id": "norah-jones",
+    "why": "Soft, intimate singing that draws the listener in."
+   }
+  ]
+ },
+ {
+  "id": "ravi-shankar",
+  "years": "1930s–2012",
+  "origin": "Varanasi, India",
+  "genres": [
+   "Hindustani classical",
+   "raga",
+   "world music"
+  ],
+  "summary": "Sitar master who brought Indian classical music to Western audiences. He shaped 1960s rock and jazz through his work with George Harrison and others.",
+  "know": [
+   "He studied for years under the musician Allauddin Khan.",
+   "He taught sitar to George Harrison and played the Monterey Pop and Woodstock festivals.",
+   "He was the father of Norah Jones and Anoushka Shankar."
+  ],
+  "born": "04-07",
+  "keyAlbums": [
+   [
+    "Three Ragas",
+    1956
+   ],
+   [
+    "West Meets East",
+    1967
+   ],
+   [
+    "The Concert for Bangladesh",
+    1971
+   ],
+   [
+    "Chants of India",
+    1997
+   ]
+  ],
+  "songs": [
+   "Raga Jog",
+   "Bangla Dhun",
+   "Prabhujee"
+  ],
+  "influencedBy": [],
+  "cousins": [
+   {
+    "id": "john-coltrane",
+    "why": "A spiritual seeker who stretched improvisation over drones and modes."
+   },
+   {
+    "id": "pharoah-sanders",
+    "why": "Meditative, devotional music built on long improvisation."
+   }
+  ]
+ },
+ {
+  "id": "toots",
+  "years": "1962–2020",
+  "origin": "Kingston, Jamaica",
+  "genres": [
+   "ska",
+   "rocksteady",
+   "reggae"
+  ],
+  "summary": "Jamaican group led by Toots Hibbert, whose gospel-soul voice powered ska, rocksteady and reggae. Their 1968 single \"Do the Reggay\" gave the genre its name.",
+  "know": [
+   "\"Do the Reggay\" (1968) was the first popular song to use the word reggae.",
+   "\"54-46 That's My Number\" was written about Hibbert's jail time for marijuana possession.",
+   "Their song \"Pressure Drop\" was featured in the film The Harder They Come."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Funky Kingston",
+    1972
+   ],
+   [
+    "In the Dark",
+    1974
+   ],
+   [
+    "Reggae Got Soul",
+    1976
+   ],
+   [
+    "True Love",
+    2004
+   ]
+  ],
+  "songs": [
+   "Do the Reggay",
+   "Pressure Drop",
+   "54-46 That's My Number",
+   "Monkey Man",
+   "Funky Kingston"
+  ],
+  "influencedBy": [
+   {
+    "id": "ray-charles",
+    "why": "Hibbert's gospel-trained, raw soul delivery is widely compared to and traced back to Ray Charles.",
+    "s": 2
+   },
+   {
+    "id": "otis-redding",
+    "why": "Toots Hibbert was often called the Otis Redding of reggae and drew on the same Southern soul style.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "al-green",
+    "why": "A gospel-rooted soul voice."
+   },
+   {
+    "id": "aretha-franklin",
+    "why": "Church singing carried into popular music."
+   }
+  ]
+ },
+ {
+  "id": "caetano-veloso",
+  "years": "1965–present",
+  "origin": "Santo Amaro, Bahia, Brazil",
+  "genres": [
+   "Tropicália",
+   "MPB",
+   "bossa nova"
+  ],
+  "summary": "Brazilian singer and songwriter who co-led the Tropicália movement. He mixed bossa nova, rock and poetry, and remains one of Brazil's most important artists.",
+  "know": [
+   "He co-founded Tropicália with Gilberto Gil in 1967 and 1968.",
+   "The military dictatorship jailed him in 1968 and he spent 1969 to 1972 in exile in London.",
+   "He wrote a memoir about the period called Verdade Tropical (1997)."
+  ],
+  "born": "08-07",
+  "keyAlbums": [
+   [
+    "Caetano Veloso",
+    1968
+   ],
+   [
+    "Transa",
+    1972
+   ],
+   [
+    "Cinema Transcendental",
+    1979
+   ],
+   [
+    "Livro",
+    1997
+   ]
+  ],
+  "songs": [
+   "Alegria, Alegria",
+   "Tropicália",
+   "London, London",
+   "Sampa",
+   "O Leãozinho"
+  ],
+  "influencedBy": [
+   {
+    "id": "joao-gilberto",
+    "why": "Veloso has said hearing João Gilberto as a teenager set the course of his life in music.",
+    "s": 3
+   },
+   {
+    "id": "the-beatles",
+    "why": "Tropicália openly borrowed the studio experiments and pop-art attitude of the late Beatles.",
+    "s": 2
+   },
+   {
+    "id": "antonio-carlos-jobim",
+    "why": "His harmonic language grew out of Jobim's bossa nova songwriting.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bob-dylan",
+    "why": "A poet-songwriter who changed what popular lyrics could do."
+   },
+   {
+    "id": "joni-mitchell",
+    "why": "A restless songwriter who kept reinventing her style."
+   }
+  ]
+ },
+ {
+  "id": "os-mutantes",
+  "years": "1966–1978, 2006–present",
+  "origin": "São Paulo, Brazil",
+  "genres": [
+   "Tropicália",
+   "psychedelic rock",
+   "MPB"
+  ],
+  "summary": "Brazilian psychedelic rock band formed by Arnaldo and Sérgio Dias Baptista with Rita Lee. Their playful, experimental records were the rock wing of Tropicália.",
+  "know": [
+   "They played on the 1968 manifesto album Tropicália ou Panis et Circencis.",
+   "Kurt Cobain was a fan and urged them to reunite in the 1990s.",
+   "They reunited in 2006 with a concert at London's Barbican."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Os Mutantes",
+    1968
+   ],
+   [
+    "Mutantes",
+    1969
+   ],
+   [
+    "A Divina Comédia ou Ando Meio Desligado",
+    1970
+   ],
+   [
+    "Jardim Elétrico",
+    1971
+   ]
+  ],
+  "songs": [
+   "Panis et Circenses",
+   "A Minha Menina",
+   "Bat Macumba",
+   "Ando Meio Desligado",
+   "Baby"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "Their studio tricks and sound collage borrowed heavily from the psychedelic Beatles.",
+    "s": 2
+   },
+   {
+    "id": "caetano-veloso",
+    "why": "They worked as Veloso's backing band and took on Tropicália's mix of Brazilian music and rock.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "pink-floyd",
+    "why": "Early psychedelic studio experimenters."
+   },
+   {
+    "id": "the-zombies",
+    "why": "Melodic, baroque psychedelic pop."
+   }
+  ]
+ },
+ {
+  "id": "kraftwerk",
+  "years": "1970–present",
+  "origin": "Düsseldorf, Germany",
+  "genres": [
+   "krautrock",
+   "electro",
+   "synth-pop"
+  ],
+  "summary": "German group that built pop music almost entirely from synthesizers and drum machines. They are the starting point for synth-pop, electro, techno and much of hip-hop.",
+  "know": [
+   "Ralf Hütter and Florian Schneider founded the group and built their own Kling Klang studio.",
+   "Afrika Bambaataa's \"Planet Rock\" (1982) borrowed from \"Trans-Europe Express\" and \"Numbers.\"",
+   "They were inducted into the Rock and Roll Hall of Fame in 2021."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Autobahn",
+    1974
+   ],
+   [
+    "Trans-Europe Express",
+    1977
+   ],
+   [
+    "The Man-Machine",
+    1978
+   ],
+   [
+    "Computer World",
+    1981
+   ]
+  ],
+  "songs": [
+   "Autobahn",
+   "Trans-Europe Express",
+   "The Model",
+   "Computer Love",
+   "The Robots"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-velvet-underground",
+    "why": "Their minimal, repetitive drone shared ground with the Velvets, a band admired in their Düsseldorf circle.",
+    "s": 1
+   },
+   {
+    "id": "can",
+    "why": "Can's motorik repetition was part of the same German scene Kraftwerk came out of.",
+    "s": 1
+   },
+   {
+    "id": "the-beach-boys",
+    "why": "\"Autobahn\" is often heard as a sly nod to the Beach Boys' car songs.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "devo",
+    "why": "Robot personas and machine-age concepts."
+   },
+   {
+    "id": "talking-heads",
+    "why": "Art-school minds remaking pop with rhythm."
+   }
+  ]
+ },
+ {
+  "id": "giorgio-moroder",
+  "years": "1960s–present",
+  "origin": "Ortisei, South Tyrol, Italy",
+  "genres": [
+   "disco",
+   "Italo disco",
+   "synth-pop",
+   "film score"
+  ],
+  "summary": "Italian producer who fused disco with synthesizers. His work with Donna Summer laid the groundwork for electronic dance music.",
+  "know": [
+   "He produced Donna Summer's \"I Feel Love\" (1977), built around a Moog synthesizer sequence.",
+   "He won Oscars for the Midnight Express score and the songs \"Flashdance... What a Feeling\" and \"Take My Breath Away.\"",
+   "He tells his own story on Daft Punk's \"Giorgio by Moroder\" (2013)."
+  ],
+  "born": "04-26",
+  "keyAlbums": [
+   [
+    "From Here to Eternity",
+    1977
+   ],
+   [
+    "Midnight Express",
+    1978
+   ],
+   [
+    "E=MC²",
+    1979
+   ],
+   [
+    "Déjà Vu",
+    2015
+   ]
+  ],
+  "songs": [
+   "I Feel Love",
+   "Chase",
+   "From Here to Eternity",
+   "Call Me"
+  ],
+  "influencedBy": [
+   {
+    "id": "kraftwerk",
+    "why": "His sequenced synthesizer disco followed Kraftwerk's lead in making pop with machines.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "chic",
+    "why": "Studio architects of disco's sound."
+   },
+   {
+    "id": "dr-dre",
+    "why": "A producer whose sound defined other people's hits."
+   }
+  ]
+ },
+ {
+  "id": "brian-eno",
+  "years": "1971–present",
+  "origin": "Woodbridge, Suffolk, England",
+  "genres": [
+   "ambient",
+   "art rock",
+   "experimental"
+  ],
+  "summary": "English musician and producer who coined ambient music and treated the studio as an instrument. He has shaped records by Bowie, Talking Heads, U2 and Coldplay.",
+  "know": [
+   "He was a founding member of Roxy Music.",
+   "His 1978 album Ambient 1: Music for Airports gave ambient music its name.",
+   "He created the Oblique Strategies cards with painter Peter Schmidt."
+  ],
+  "born": "05-15",
+  "keyAlbums": [
+   [
+    "Here Come the Warm Jets",
+    1974
+   ],
+   [
+    "Another Green World",
+    1975
+   ],
+   [
+    "Ambient 1: Music for Airports",
+    1978
+   ],
+   [
+    "My Life in the Bush of Ghosts",
+    1981
+   ]
+  ],
+  "songs": [
+   "Baby's on Fire",
+   "Needle in the Camel's Eye",
+   "St. Elmo's Fire",
+   "An Ending (Ascent)",
+   "1/1"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-velvet-underground",
+    "why": "Eno famously said the Velvets' first album sold few copies but everyone who bought one started a band.",
+    "s": 3
+   },
+   {
+    "id": "fela-kuti",
+    "why": "Eno championed Fela's Afrobeat and its interlocking grooves shaped his work with Talking Heads.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "miles-davis",
+    "why": "Used the studio to build mood and space."
+   },
+   {
+    "id": "pink-floyd",
+    "why": "Long-form, atmospheric sound design."
+   }
+  ]
+ },
+ {
+  "id": "yellow-magic-orchestra",
+  "years": "1978–1984",
+  "origin": "Tokyo, Japan",
+  "genres": [
+   "synth-pop",
+   "technopop",
+   "electropop"
+  ],
+  "summary": "Japanese trio of Haruomi Hosono, Ryuichi Sakamoto and Yukihiro Takahashi. They were electronic pop pioneers whose records influenced techno and hip-hop.",
+  "know": [
+   "\"Firecracker\" is a cover of an exotica tune by Martin Denny.",
+   "Their 1981 album BGM was one of the first to use the Roland TR-808 drum machine.",
+   "\"Behind the Mask\" was later recorded by Michael Jackson and Eric Clapton."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Yellow Magic Orchestra",
+    1978
+   ],
+   [
+    "Solid State Survivor",
+    1979
+   ],
+   [
+    "BGM",
+    1981
+   ],
+   [
+    "Technodelic",
+    1981
+   ]
+  ],
+  "songs": [
+   "Firecracker",
+   "Rydeen",
+   "Behind the Mask",
+   "Technopolis",
+   "Tong Poo"
+  ],
+  "influencedBy": [
+   {
+    "id": "kraftwerk",
+    "why": "YMO followed Kraftwerk in building pop songs from synthesizers and sequencers.",
+    "s": 2
+   },
+   {
+    "id": "giorgio-moroder",
+    "why": "Moroder's sequenced synth disco shaped their dance-floor side.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "devo",
+    "why": "Witty, conceptual new wave built on machines."
+   },
+   {
+    "id": "new-order",
+    "why": "Electronic pop with dance-floor impact."
+   }
+  ]
+ },
+ {
+  "id": "bob-marley",
+  "years": "1963–1981",
+  "origin": "Kingston, Jamaica",
+  "genres": [
+   "roots reggae",
+   "ska",
+   "rocksteady"
+  ],
+  "summary": "Jamaican group led by Bob Marley, with Peter Tosh and Bunny Wailer in the early years. They took roots reggae and Rastafarian themes to a worldwide audience.",
+  "know": [
+   "Eric Clapton's 1974 cover of \"I Shot the Sheriff\" went to number one in the US.",
+   "Marley survived a shooting in 1976, two days before the Smile Jamaica concert.",
+   "The 1984 compilation Legend is one of the best-selling albums of all time."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Catch a Fire",
+    1973
+   ],
+   [
+    "Natty Dread",
+    1974
+   ],
+   [
+    "Exodus",
+    1977
+   ],
+   [
+    "Uprising",
+    1980
+   ]
+  ],
+  "songs": [
+   "One Love/People Get Ready",
+   "No Woman, No Cry",
+   "Redemption Song",
+   "Get Up, Stand Up",
+   "Stir It Up"
+  ],
+  "influencedBy": [
+   {
+    "id": "curtis-mayfield",
+    "why": "\"One Love\" credits and quotes Curtis Mayfield's \"People Get Ready,\" and the early Wailers modeled their harmonies on the Impressions.",
+    "s": 3
+   },
+   {
+    "id": "lee-scratch-perry",
+    "why": "Perry produced the Wailers' Soul Rebels and Soul Revolution sessions and sharpened their sound.",
+    "s": 3
+   },
+   {
+    "id": "fats-domino",
+    "why": "New Orleans R&B like Fats Domino's, heard on Jamaican radio, fed the ska the Wailers started in.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bob-dylan",
+    "why": "A protest songwriter who became a global symbol."
+   },
+   {
+    "id": "marvin-gaye",
+    "why": "Soul music carrying a spiritual and political message."
+   }
+  ]
+ },
+ {
+  "id": "lee-scratch-perry",
+  "years": "1960s–2021",
+  "origin": "Kendal, Hanover, Jamaica",
+  "genres": [
+   "dub",
+   "roots reggae",
+   "ska"
+  ],
+  "summary": "Jamaican producer whose Black Ark studio turned out some of reggae's strangest and most influential records. He was a dub pioneer and an early producer of Bob Marley.",
+  "know": [
+   "He built the Black Ark studio in his Kingston backyard in 1973.",
+   "He produced the Clash's \"Complete Control\" (1977).",
+   "He produced Junior Murvin's \"Police and Thieves\" and Max Romeo's \"Chase the Devil.\""
+  ],
+  "born": "03-20",
+  "keyAlbums": [
+   [
+    "Blackboard Jungle Dub",
+    1973
+   ],
+   [
+    "Super Ape",
+    1976
+   ],
+   [
+    "Roast Fish Collie Weed & Corn Bread",
+    1978
+   ],
+   [
+    "Return of the Super Ape",
+    1978
+   ]
+  ],
+  "songs": [
+   "People Funny Boy",
+   "Police and Thieves",
+   "Chase the Devil",
+   "Croaking Lizard"
+  ],
+  "influencedBy": [
+   {
+    "id": "king-tubby",
+    "why": "He shared King Tubby's approach of stripping and echoing tracks into dub versions.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "sun-ra",
+    "why": "A cosmic eccentric with his own mythology."
+   },
+   {
+    "id": "j-dilla",
+    "why": "A producer whose feel and textures were his signature."
+   }
+  ]
+ },
+ {
+  "id": "king-tubby",
+  "years": "1960s–1989",
+  "origin": "Kingston, Jamaica",
+  "genres": [
+   "dub",
+   "roots reggae",
+   "sound system"
+  ],
+  "summary": "Jamaican sound engineer who invented dub by remixing reggae tracks on a mixing desk. His use of echo, reverb and dropouts became the basis of remix culture.",
+  "know": [
+   "He was an electronics repairman who ran the Home Town Hi-Fi sound system.",
+   "He built his own effects and mixed dub versions live at his small studio.",
+   "He was shot and killed outside his home in 1989."
+  ],
+  "born": "01-28",
+  "keyAlbums": [
+   [
+    "Dub from the Roots",
+    1974
+   ],
+   [
+    "King Tubby Meets Rockers Uptown",
+    1976
+   ]
+  ],
+  "songs": [
+   "King Tubby Meets Rockers Uptown",
+   "Keep On Dubbing",
+   "Each One Dub"
+  ],
+  "influencedBy": [
+   {
+    "id": "lee-scratch-perry",
+    "why": "He traded tapes and ideas with Perry as the two developed dub together.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "dj-kool-herc",
+    "why": "A Jamaican sound-system man who built a new genre at the turntables."
+   },
+   {
+    "id": "j-dilla",
+    "why": "A producer-engineer known for his unique treatment of sound."
+   }
+  ]
+ },
+ {
+  "id": "jimmy-cliff",
+  "years": "1962–2025",
+  "origin": "Somerton, St. James, Jamaica",
+  "genres": [
+   "reggae",
+   "ska",
+   "rocksteady"
+  ],
+  "summary": "Jamaican singer and actor who helped introduce reggae to the world. His starring role in The Harder They Come and its soundtrack were a breakthrough for the genre.",
+  "know": [
+   "He starred as Ivanhoe Martin in the 1972 film The Harder They Come.",
+   "He was inducted into the Rock and Roll Hall of Fame in 2010.",
+   "Bob Dylan called his song \"Vietnam\" the best protest song he had heard."
+  ],
+  "born": "07-30",
+  "keyAlbums": [
+   [
+    "Wonderful World, Beautiful People",
+    1970
+   ],
+   [
+    "The Harder They Come",
+    1972
+   ],
+   [
+    "Cliff Hanger",
+    1985
+   ],
+   [
+    "Rebirth",
+    2012
+   ]
+  ],
+  "songs": [
+   "The Harder They Come",
+   "Many Rivers to Cross",
+   "You Can Get It If You Really Want",
+   "Wonderful World, Beautiful People",
+   "Vietnam"
+  ],
+  "influencedBy": [
+   {
+    "id": "fats-domino",
+    "why": "Like other early ska singers, he drew on the New Orleans R&B of Fats Domino heard on Jamaican radio.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "sam-cooke",
+    "why": "A soulful, gospel-touched voice with crossover appeal."
+   },
+   {
+    "id": "otis-redding",
+    "why": "Soul ballads delivered with deep feeling."
+   }
+  ]
+ },
+ {
+  "id": "the-specials",
+  "years": "1977–1984, 2008–present",
+  "origin": "Coventry, England",
+  "genres": [
+   "2 Tone",
+   "ska revival",
+   "ska punk"
+  ],
+  "summary": "Multiracial English band that revived ska with punk energy. Through their 2 Tone label they led a movement against racism in late-1970s Britain.",
+  "know": [
+   "Keyboardist Jerry Dammers founded the 2 Tone record label.",
+   "Elvis Costello produced their 1979 debut album.",
+   "\"Ghost Town\" hit number one in the UK during the 1981 riots."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "The Specials",
+    1979
+   ],
+   [
+    "More Specials",
+    1980
+   ],
+   [
+    "In the Studio",
+    1984
+   ],
+   [
+    "Encore",
+    2019
+   ]
+  ],
+  "songs": [
+   "Ghost Town",
+   "A Message to You Rudy",
+   "Too Much Too Young",
+   "Gangsters",
+   "Free Nelson Mandela"
+  ],
+  "influencedBy": [
+   {
+    "id": "toots",
+    "why": "They took the 1960s Jamaican ska and rocksteady of acts like Toots and the Maytals and sped it up.",
+    "s": 2
+   },
+   {
+    "id": "the-clash",
+    "why": "They toured with the Clash in 1978 and shared their punk politics.",
+    "s": 2
+   },
+   {
+    "id": "sex-pistols",
+    "why": "Punk's attitude and speed gave their ska its urgency.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-smiths",
+    "why": "Sharp, socially aware British guitar pop."
+   },
+   {
+    "id": "bad-brains",
+    "why": "A band that mixed punk and Jamaican music."
+   }
+  ]
+ },
+ {
+  "id": "fela-kuti",
+  "years": "1958–1997",
+  "origin": "Abeokuta, Nigeria",
+  "genres": [
+   "Afrobeat",
+   "highlife",
+   "jazz-funk"
+  ],
+  "summary": "Nigerian bandleader who created Afrobeat from highlife, jazz and funk. His long, political songs attacked military rule and made him a hero across Africa.",
+  "know": [
+   "He declared his Lagos compound, the Kalakuta Republic, independent from Nigeria.",
+   "Soldiers raided Kalakuta in 1977, and his mother died from injuries in the attack.",
+   "Drummer Tony Allen was his key partner in building the Afrobeat sound."
+  ],
+  "born": "10-15",
+  "keyAlbums": [
+   [
+    "Gentleman",
+    1973
+   ],
+   [
+    "Expensive Shit",
+    1975
+   ],
+   [
+    "Zombie",
+    1976
+   ]
+  ],
+  "songs": [
+   "Zombie",
+   "Water No Get Enemy",
+   "Lady",
+   "Gentleman",
+   "Shakara"
+  ],
+  "influencedBy": [
+   {
+    "id": "james-brown",
+    "why": "After a 1969 stay in the US, Fela folded James Brown's funk into his highlife-jazz band to make Afrobeat.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "parliament-funkadelic",
+    "why": "Long funk grooves led by a larger-than-life figure."
+   },
+   {
+    "id": "public-enemy",
+    "why": "Music used as a political weapon."
+   }
+  ]
+ },
+ {
+  "id": "frankie-knuckles",
+  "years": "1971–2014",
+  "origin": "Chicago, US",
+  "genres": [
+   "Chicago house",
+   "garage house",
+   "deep house"
+  ],
+  "summary": "DJ and producer known as the Godfather of House. His sets at Chicago's Warehouse club gave house music its name.",
+  "know": [
+   "House music is named after the Warehouse, the Chicago club where he was resident DJ from 1977.",
+   "He won the first Grammy for Remixer of the Year, Non-Classical, in 1997.",
+   "Chicago named a street after him and declared August 25 Frankie Knuckles Day."
+  ],
+  "born": "01-18",
+  "keyAlbums": [
+   [
+    "Beyond the Mix",
+    1991
+   ],
+   [
+    "Welcome to the Real World",
+    1995
+   ]
+  ],
+  "songs": [
+   "Your Love",
+   "The Whistle Song",
+   "Tears",
+   "Baby Wants to Ride"
+  ],
+  "influencedBy": [
+   {
+    "id": "chic",
+    "why": "The disco records he played at the Warehouse, led by groups like Chic, were the raw material of house.",
+    "s": 1
+   },
+   {
+    "id": "giorgio-moroder",
+    "why": "Moroder's drum-machine disco pointed toward the electronic sound house adopted.",
+    "s": 1
+   },
+   {
+    "id": "donna-summer",
+    "why": "Donna Summer's extended disco tracks were the long-form dance music his sets grew from.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "dj-kool-herc",
+    "why": "A DJ whose parties launched a whole genre."
+   },
+   {
+    "id": "grandmaster-flash",
+    "why": "A DJ who turned mixing into an art."
+   }
+  ]
+ },
+ {
+  "id": "juan-atkins",
+  "years": "1981–present",
+  "origin": "Detroit, US",
+  "genres": [
+   "Detroit techno",
+   "electro"
+  ],
+  "summary": "Detroit producer often called the originator of techno. With Cybotron and Model 500 he turned the futurism of Kraftwerk and funk into a new genre.",
+  "know": [
+   "He is one of the Belleville Three with Derrick May and Kevin Saunderson.",
+   "He formed Cybotron with Rick Davis in the early 1980s.",
+   "He founded the Metroplex label in 1985."
+  ],
+  "born": "09-12",
+  "keyAlbums": [
+   [
+    "Enter",
+    1983
+   ],
+   [
+    "Sonic Sunset",
+    1994
+   ],
+   [
+    "Deep Space",
+    1995
+   ],
+   [
+    "Mind and Body",
+    1999
+   ]
+  ],
+  "songs": [
+   "Clear",
+   "Alleys of Your Mind",
+   "Techno City",
+   "No UFO's",
+   "Night Drive"
+  ],
+  "influencedBy": [
+   {
+    "id": "kraftwerk",
+    "why": "Atkins has repeatedly named Kraftwerk as the spark for his electronic music.",
+    "s": 3
+   },
+   {
+    "id": "parliament-funkadelic",
+    "why": "P-Funk's space-age funk is a core part of his sound and Detroit techno's mythology.",
+    "s": 2
+   },
+   {
+    "id": "yellow-magic-orchestra",
+    "why": "YMO's electropop was part of the synth music heard on Detroit radio that shaped him.",
+    "s": 1
+   },
+   {
+    "id": "giorgio-moroder",
+    "why": "Moroder's sequenced synth disco was another blueprint for machine-made dance music.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "afrika-bambaataa",
+    "why": "Turned Kraftwerk into Black dance music."
+   },
+   {
+    "id": "j-dilla",
+    "why": "A Detroit producer who rebuilt a genre's rhythm."
+   }
+  ]
+ },
+ {
+  "id": "depeche-mode",
+  "years": "1980–present",
+  "origin": "Basildon, England",
+  "genres": [
+   "synth-pop",
+   "new wave",
+   "dark wave"
+  ],
+  "summary": "English band that grew from bright synth-pop into dark, stadium-sized electronic rock. They are one of the most successful electronic acts ever.",
+  "know": [
+   "Vince Clarke wrote their early hits, then left after the first album.",
+   "Martin Gore became their main songwriter.",
+   "They were inducted into the Rock and Roll Hall of Fame in 2020."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Some Great Reward",
+    1984
+   ],
+   [
+    "Music for the Masses",
+    1987
+   ],
+   [
+    "Violator",
+    1990
+   ],
+   [
+    "Songs of Faith and Devotion",
+    1993
+   ]
+  ],
+  "songs": [
+   "Just Can't Get Enough",
+   "Enjoy the Silence",
+   "Personal Jesus",
+   "Never Let Me Down Again",
+   "Everything Counts"
+  ],
+  "influencedBy": [
+   {
+    "id": "kraftwerk",
+    "why": "Their early all-synth sound came straight from Kraftwerk's example.",
+    "s": 2
+   },
+   {
+    "id": "david-bowie",
+    "why": "Singer Dave Gahan has often named Bowie as his biggest influence.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-cure",
+    "why": "Gloomy, romantic music with a huge fan base."
+   },
+   {
+    "id": "nine-inch-nails",
+    "why": "Dark electronic rock."
+   }
+  ]
+ },
+ {
+  "id": "aphex-twin",
+  "years": "1985–present",
+  "origin": "Cornwall, England",
+  "genres": [
+   "IDM",
+   "ambient techno",
+   "acid",
+   "drill 'n' bass"
+  ],
+  "summary": "Richard D. James, an English producer known for both gentle ambient music and chaotic, complex dance tracks. He is a central figure in experimental electronic music.",
+  "know": [
+   "He co-founded the label Rephlex Records.",
+   "Director Chris Cunningham made the videos for \"Come to Daddy\" and \"Windowlicker.\"",
+   "Syro won the Grammy for Best Dance/Electronic Album in 2015."
+  ],
+  "born": "08-18",
+  "keyAlbums": [
+   [
+    "Selected Ambient Works 85–92",
+    1992
+   ],
+   [
+    "Richard D. James Album",
+    1996
+   ],
+   [
+    "Drukqs",
+    2001
+   ],
+   [
+    "Syro",
+    2014
+   ]
+  ],
+  "songs": [
+   "Windowlicker",
+   "Come to Daddy",
+   "Xtal",
+   "Avril 14th",
+   "Flim"
+  ],
+  "influencedBy": [
+   {
+    "id": "brian-eno",
+    "why": "His Selected Ambient Works continue the ambient path Eno opened.",
+    "s": 1
+   },
+   {
+    "id": "juan-atkins",
+    "why": "His early acid and techno tracks grew out of the Detroit techno Atkins started.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "radiohead",
+    "why": "Experimental music that still reaches a big audience."
+   },
+   {
+    "id": "sun-ra",
+    "why": "A singular, playful avant-gardist."
+   }
+  ]
+ },
+ {
+  "id": "daft-punk",
+  "years": "1993–2021",
+  "origin": "Paris, France",
+  "genres": [
+   "French house",
+   "house",
+   "disco"
+  ],
+  "summary": "French duo of Thomas Bangalter and Guy-Manuel de Homem-Christo. They made house music a global pop force and hid behind robot helmets.",
+  "know": [
+   "Before Daft Punk the two were in a rock band called Darlin'.",
+   "Their track \"Teachers\" names the producers and musicians who inspired them.",
+   "Random Access Memories won the Grammy for Album of the Year in 2014."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Homework",
+    1997
+   ],
+   [
+    "Discovery",
+    2001
+   ],
+   [
+    "Human After All",
+    2005
+   ],
+   [
+    "Random Access Memories",
+    2013
+   ]
+  ],
+  "songs": [
+   "Around the World",
+   "Da Funk",
+   "One More Time",
+   "Harder, Better, Faster, Stronger",
+   "Get Lucky"
+  ],
+  "influencedBy": [
+   {
+    "id": "giorgio-moroder",
+    "why": "They brought Moroder onto Random Access Memories to tell his story on \"Giorgio by Moroder.\"",
+    "s": 3
+   },
+   {
+    "id": "chic",
+    "why": "They recruited Nile Rodgers for \"Get Lucky\" and have spoken of Chic's disco as a model.",
+    "s": 3
+   },
+   {
+    "id": "parliament-funkadelic",
+    "why": "George Clinton is named in their homage track \"Teachers.\"",
+    "s": 2
+   },
+   {
+    "id": "the-beach-boys",
+    "why": "Brian Wilson is named in \"Teachers.\"",
+    "s": 2
+   },
+   {
+    "id": "frankie-knuckles",
+    "why": "Their early tracks are built on Chicago house, the scene Knuckles started.",
+    "s": 1
+   },
+   {
+    "id": "kraftwerk",
+    "why": "Their robot personas and vocoder sound echo Kraftwerk's man-machine image.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "prince",
+    "why": "A studio genius who made dance music for the masses."
+   },
+   {
+    "id": "bee-gees",
+    "why": "Disco hitmakers with immaculate production."
+   }
+  ]
+ },
+ {
+  "id": "the-chemical-brothers",
+  "years": "1989–present",
+  "origin": "Manchester, England",
+  "genres": [
+   "big beat",
+   "breakbeat",
+   "acid house"
+  ],
+  "summary": "English duo of Tom Rowlands and Ed Simons who mixed rock, hip-hop beats and acid house into big beat. They brought dance music to rock festival main stages.",
+  "know": [
+   "They met at the University of Manchester.",
+   "They first called themselves the Dust Brothers and changed it after the US producers objected.",
+   "\"Setting Sun,\" sung by Noel Gallagher, was a UK number one in 1996."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Exit Planet Dust",
+    1995
+   ],
+   [
+    "Dig Your Own Hole",
+    1997
+   ],
+   [
+    "Surrender",
+    1999
+   ],
+   [
+    "Push the Button",
+    2005
+   ]
+  ],
+  "songs": [
+   "Block Rockin' Beats",
+   "Setting Sun",
+   "Hey Boy Hey Girl",
+   "Galvanize",
+   "Star Guitar"
+  ],
+  "influencedBy": [
+   {
+    "id": "the-beatles",
+    "why": "\"Setting Sun\" was openly modeled on the drums and drone of \"Tomorrow Never Knows.\"",
+    "s": 2
+   },
+   {
+    "id": "public-enemy",
+    "why": "Their dense, noisy breakbeats owe a lot to hip-hop like Public Enemy's.",
+    "s": 1
+   },
+   {
+    "id": "new-order",
+    "why": "They came out of the Manchester scene where New Order joined rock and dance music.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "beastie-boys",
+    "why": "Party music built from samples and breakbeats."
+   },
+   {
+    "id": "the-stone-roses",
+    "why": "Manchester music for both rock fans and ravers."
+   }
+  ]
+ },
+ {
+  "id": "massive-attack",
+  "years": "1988–present",
+  "origin": "Bristol, England",
+  "genres": [
+   "trip hop",
+   "downtempo",
+   "dub"
+  ],
+  "summary": "Bristol collective that grew out of the Wild Bunch sound system and created trip hop. Their slow, dark, bass-heavy sound influenced pop, hip-hop and film music.",
+  "know": [
+   "They grew out of the Bristol sound system the Wild Bunch.",
+   "Cocteau Twins singer Elizabeth Fraser sings on \"Teardrop.\"",
+   "\"Unfinished Sympathy\" (1991) is regularly ranked among the best British singles."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Blue Lines",
+    1991
+   ],
+   [
+    "Protection",
+    1994
+   ],
+   [
+    "Mezzanine",
+    1998
+   ],
+   [
+    "Heligoland",
+    2010
+   ]
+  ],
+  "songs": [
+   "Unfinished Sympathy",
+   "Teardrop",
+   "Angel",
+   "Safe from Harm",
+   "Protection"
+  ],
+  "influencedBy": [
+   {
+    "id": "king-tubby",
+    "why": "Their heavy bass and echo come from Jamaican dub and sound-system culture.",
+    "s": 1
+   },
+   {
+    "id": "isaac-hayes",
+    "why": "\"Exchange\" on Mezzanine is built on an Isaac Hayes sample, and his lush soul runs through their sound.",
+    "s": 2
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "\"Risingson\" samples the Velvet Underground's \"I Found a Reason.\"",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "radiohead",
+    "why": "Dark, atmospheric music with wide reach."
+   },
+   {
+    "id": "the-weeknd",
+    "why": "Moody, nocturnal R&B."
+   }
+  ]
+ },
+ {
+  "id": "portishead",
+  "years": "1991–present",
+  "origin": "Bristol, England",
+  "genres": [
+   "trip hop",
+   "downtempo",
+   "art rock"
+  ],
+  "summary": "Bristol trio of Geoff Barrow, Beth Gibbons and Adrian Utley. They paired hip-hop beats and spy-film samples with Gibbons's haunted vocals.",
+  "know": [
+   "Geoff Barrow worked as a tape operator on Massive Attack's Blue Lines.",
+   "Dummy won the Mercury Prize in 1995.",
+   "\"Glory Box\" samples Isaac Hayes's \"Ike's Rap II.\""
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Dummy",
+    1994
+   ],
+   [
+    "Portishead",
+    1997
+   ],
+   [
+    "Third",
+    2008
+   ]
+  ],
+  "songs": [
+   "Sour Times",
+   "Glory Box",
+   "Roads",
+   "Mysterons",
+   "Machine Gun"
+  ],
+  "influencedBy": [
+   {
+    "id": "massive-attack",
+    "why": "Barrow learned studio work on Massive Attack's Blue Lines sessions.",
+    "s": 2
+   },
+   {
+    "id": "isaac-hayes",
+    "why": "\"Glory Box\" is built on a credited sample of Isaac Hayes's \"Ike's Rap II.\"",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "billie-holiday",
+    "why": "A voice full of heartbreak."
+   },
+   {
+    "id": "lana-del-rey",
+    "why": "Cinematic, melancholy pop."
+   }
+  ]
+ },
+ {
+  "id": "dj-shadow",
+  "years": "1991–present",
+  "origin": "Davis, California, US",
+  "genres": [
+   "instrumental hip-hop",
+   "trip hop",
+   "turntablism"
+  ],
+  "summary": "Josh Davis, a California DJ and producer who built whole albums out of samples from his record collection. Endtroducing..... is a landmark of sample-based music.",
+  "know": [
+   "Endtroducing..... (1996) was noted by Guinness as the first album made entirely from samples.",
+   "He co-founded the Solesides collective, later Quannum.",
+   "He is known for digging through used-record stores for rare samples."
+  ],
+  "born": "06-29",
+  "keyAlbums": [
+   [
+    "Endtroducing.....",
+    1996
+   ],
+   [
+    "The Private Press",
+    2002
+   ],
+   [
+    "The Outsider",
+    2006
+   ],
+   [
+    "The Mountain Will Fall",
+    2016
+   ]
+  ],
+  "songs": [
+   "Midnight in a Perfect World",
+   "Organ Donor",
+   "Building Steam with a Grain of Salt",
+   "Six Days",
+   "Stem/Long Stem"
+  ],
+  "influencedBy": [
+   {
+    "id": "public-enemy",
+    "why": "The dense sample collages of Public Enemy's Bomb Squad shaped his approach.",
+    "s": 1
+   },
+   {
+    "id": "grandmaster-flash",
+    "why": "His turntable work comes from the cutting and mixing Flash pioneered.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "j-dilla",
+    "why": "A crate-digging producer with a signature feel."
+   },
+   {
+    "id": "mf-doom",
+    "why": "Underground hip-hop built from obscure samples."
+   }
+  ]
+ },
+ {
+  "id": "the-prodigy",
+  "years": "1990–present",
+  "origin": "Braintree, Essex, England",
+  "genres": [
+   "big beat",
+   "breakbeat",
+   "rave"
+  ],
+  "summary": "English group led by producer Liam Howlett that took rave music into punk territory. With Keith Flint as frontman they became a stadium act.",
+  "know": [
+   "\"Out of Space\" is built on Max Romeo's \"Chase the Devil,\" a Lee Perry production.",
+   "The Fat of the Land (1997) debuted at number one in the US and UK.",
+   "Frontman Keith Flint died in 2019."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Experience",
+    1992
+   ],
+   [
+    "Music for the Jilted Generation",
+    1994
+   ],
+   [
+    "The Fat of the Land",
+    1997
+   ],
+   [
+    "Invaders Must Die",
+    2009
+   ]
+  ],
+  "songs": [
+   "Charly",
+   "Firestarter",
+   "Breathe",
+   "Smack My Bitch Up",
+   "Out of Space"
+  ],
+  "influencedBy": [
+   {
+    "id": "public-enemy",
+    "why": "Howlett was a hip-hop DJ before rave, and hard-edged hip-hop shaped his beats.",
+    "s": 1
+   },
+   {
+    "id": "lee-scratch-perry",
+    "why": "\"Out of Space\" is built around a Perry production, Max Romeo's \"Chase the Devil.\"",
+    "s": 2
+   },
+   {
+    "id": "sex-pistols",
+    "why": "Their snarling attitude carried punk into dance music.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "rage-against-the-machine",
+    "why": "Aggressive, riff-driven music for big crowds."
+   },
+   {
+    "id": "nine-inch-nails",
+    "why": "Industrial noise turned into hits."
+   }
+  ]
+ },
+ {
+  "id": "bjork",
+  "years": "1977–present",
+  "origin": "Reykjavík, Iceland",
+  "genres": [
+   "art pop",
+   "electronica",
+   "trip hop",
+   "avant-garde"
+  ],
+  "summary": "Icelandic singer and composer who mixes electronic beats, strings and her unique voice. She has kept pushing pop into experimental places for three decades.",
+  "know": [
+   "She released her first album in Iceland at age 11.",
+   "She was the singer of the Sugarcubes before going solo.",
+   "She won Best Actress at Cannes in 2000 for Dancer in the Dark."
+  ],
+  "born": "11-21",
+  "keyAlbums": [
+   [
+    "Debut",
+    1993
+   ],
+   [
+    "Post",
+    1995
+   ],
+   [
+    "Homogenic",
+    1997
+   ],
+   [
+    "Vespertine",
+    2001
+   ]
+  ],
+  "songs": [
+   "Human Behaviour",
+   "Army of Me",
+   "Hyperballad",
+   "Jóga",
+   "Bachelorette"
+  ],
+  "influencedBy": [
+   {
+    "id": "joni-mitchell",
+    "why": "Björk has named Joni Mitchell's adventurous albums among her favorites.",
+    "s": 2
+   },
+   {
+    "id": "kate-bush",
+    "why": "Kate Bush's studio-built art pop and theatrical voice set a path Björk followed.",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "pj-harvey",
+    "why": "A fearless woman artist reinventing herself each album."
+   },
+   {
+    "id": "radiohead",
+    "why": "Experimental music that stayed popular."
+   }
+  ]
+ },
+ {
+  "id": "selena",
+  "years": "1980s–1995",
+  "origin": "Corpus Christi, Texas, US",
+  "genres": [
+   "Tejano",
+   "cumbia",
+   "Latin pop"
+  ],
+  "summary": "Mexican American singer known as the Queen of Tejano music. She brought Tejano to a mass audience before her murder at age 23.",
+  "know": [
+   "Selena Live! won the Grammy for Best Mexican-American Album in 1994.",
+   "She was killed in 1995 by the former president of her fan club.",
+   "Dreaming of You (1995) was the first album by a Latin artist to debut at number one on the Billboard 200."
+  ],
+  "born": "04-16",
+  "keyAlbums": [
+   [
+    "Entre a Mi Mundo",
+    1992
+   ],
+   [
+    "Selena Live!",
+    1993
+   ],
+   [
+    "Amor Prohibido",
+    1994
+   ],
+   [
+    "Dreaming of You",
+    1995
+   ]
+  ],
+  "songs": [
+   "Como la Flor",
+   "Bidi Bidi Bom Bom",
+   "Amor Prohibido",
+   "Dreaming of You",
+   "Baila Esta Cumbia"
+  ],
+  "influencedBy": [
+   {
+    "id": "donna-summer",
+    "why": "Selena admired Donna Summer and performed a disco medley of her songs at the 1995 Houston Astrodome show.",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "whitney-houston",
+    "why": "A big-voiced pop star with huge crossover appeal."
+   },
+   {
+    "id": "madonna",
+    "why": "A pop icon defined by style and stagecraft."
+   }
+  ]
+ },
+ {
+  "id": "shakira",
+  "years": "1990–present",
+  "origin": "Barranquilla, Colombia",
+  "genres": [
+   "Latin pop",
+   "pop rock",
+   "Latin rock"
+  ],
+  "summary": "Colombian singer and songwriter who became one of the biggest Spanish-language stars and crossed over into English pop. She mixes rock, Latin and Middle Eastern sounds.",
+  "know": [
+   "Her father is of Lebanese descent, which shaped her belly dancing.",
+   "She co-headlined the Super Bowl LIV halftime show with Jennifer Lopez in 2020.",
+   "Las Mujeres Ya No Lloran won the Grammy for Best Latin Pop Album in 2025."
+  ],
+  "born": "02-02",
+  "keyAlbums": [
+   [
+    "Pies Descalzos",
+    1995
+   ],
+   [
+    "¿Dónde Están los Ladrones?",
+    1998
+   ],
+   [
+    "Laundry Service",
+    2001
+   ],
+   [
+    "Las Mujeres Ya No Lloran",
+    2024
+   ]
+  ],
+  "songs": [
+   "Hips Don't Lie",
+   "Whenever, Wherever",
+   "Ojos Así",
+   "Waka Waka",
+   "Estoy Aquí"
+  ],
+  "influencedBy": [
+   {
+    "id": "nirvana",
+    "why": "Shakira has named Nirvana as a key influence on her rock-leaning early albums.",
+    "s": 2
+   },
+   {
+    "id": "the-police",
+    "why": "She has cited the Police among the rock bands she grew up on.",
+    "s": 2
+   },
+   {
+    "id": "the-cure",
+    "why": "She has named the Cure as one of her favorite bands.",
+    "s": 2
+   },
+   {
+    "id": "led-zeppelin",
+    "why": "Her 1990s albums lean on classic rock guitar like Led Zeppelin's.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "madonna",
+    "why": "A global pop icon with a strong dance focus."
+   },
+   {
+    "id": "beyonce",
+    "why": "A superstar performer known for dance and stagecraft."
+   }
+  ]
+ },
+ {
+  "id": "lcd-soundsystem",
+  "years": "2002–2011, 2016–present",
+  "origin": "Brooklyn, New York, US",
+  "genres": [
+   "dance-punk",
+   "electronic rock",
+   "indie dance"
+  ],
+  "summary": "James Murphy's project, which joined punk, disco and krautrock into long, emotional dance songs. It defined the 2000s New York dance-punk scene.",
+  "know": [
+   "James Murphy co-founded the label DFA Records.",
+   "Their farewell concert at Madison Square Garden in 2011 was filmed as Shut Up and Play the Hits.",
+   "\"Losing My Edge\" is a long list of the bands Murphy loved."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "LCD Soundsystem",
+    2005
+   ],
+   [
+    "Sound of Silver",
+    2007
+   ],
+   [
+    "This Is Happening",
+    2010
+   ],
+   [
+    "American Dream",
+    2017
+   ]
+  ],
+  "songs": [
+   "Losing My Edge",
+   "All My Friends",
+   "Someone Great",
+   "Dance Yrself Clean",
+   "Daft Punk Is Playing at My House"
+  ],
+  "influencedBy": [
+   {
+    "id": "talking-heads",
+    "why": "Their nervous, funk-driven art rock is a clear model for LCD's sound.",
+    "s": 2
+   },
+   {
+    "id": "brian-eno",
+    "why": "Murphy has cited Eno's production and art-rock records as a major influence.",
+    "s": 2
+   },
+   {
+    "id": "can",
+    "why": "Can is name-checked in \"Losing My Edge\" and their motorik grooves shape LCD's songs.",
+    "s": 2
+   },
+   {
+    "id": "daft-punk",
+    "why": "They named a single after Daft Punk and borrowed their mix of house and rock.",
+    "s": 2
+   },
+   {
+    "id": "david-bowie",
+    "why": "Murphy has called Bowie a hero and later played on his final album, Blackstar.",
+    "s": 2
+   },
+   {
+    "id": "new-order",
+    "why": "New Order's blend of guitar band and drum machine is a direct ancestor.",
+    "s": 1
+   },
+   {
+    "id": "the-velvet-underground",
+    "why": "The Velvets' deadpan drone runs through Murphy's songs.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "the-strokes",
+    "why": "A key band of the 2000s New York scene."
+   },
+   {
+    "id": "arcade-fire",
+    "why": "Big, emotional indie anthems."
+   }
+  ]
+ },
+ {
+  "id": "burial",
+  "years": "2005–present",
+  "origin": "London, England",
+  "genres": [
+   "future garage",
+   "dubstep",
+   "UK garage",
+   "ambient"
+  ],
+  "summary": "Anonymous South London producer William Bevan, whose ghostly, crackling tracks capture late-night city loneliness. His album Untrue is a landmark of 2000s electronic music.",
+  "know": [
+   "He stayed anonymous until his name was revealed in 2008.",
+   "Untrue (2007) was nominated for the Mercury Prize.",
+   "He releases music on Kode9's label Hyperdub."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Burial",
+    2006
+   ],
+   [
+    "Untrue",
+    2007
+   ],
+   [
+    "Tunes 2011–2019",
+    2019
+   ]
+  ],
+  "songs": [
+   "Archangel",
+   "Near Dark",
+   "Distant Lights",
+   "Etched Headplate",
+   "Kindred"
+  ],
+  "influencedBy": [
+   {
+    "id": "massive-attack",
+    "why": "His dark, slow-moving bass music follows the moody Bristol sound, and he later collaborated with Massive Attack.",
+    "s": 1
+   },
+   {
+    "id": "king-tubby",
+    "why": "His spacious, echo-heavy mixes descend from Jamaican dub.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "radiohead",
+    "why": "Melancholy, atmospheric music about modern isolation."
+   },
+   {
+    "id": "frank-ocean",
+    "why": "Intimate, nocturnal songs with a lonely mood."
+   }
+  ]
+ },
+ {
+  "id": "flying-lotus",
+  "years": "2006–present",
+  "origin": "Los Angeles, US",
+  "genres": [
+   "experimental hip-hop",
+   "IDM",
+   "jazz fusion",
+   "LA beat scene"
+  ],
+  "summary": "Steven Ellison, an LA producer who blends hip-hop beats, electronic music and spiritual jazz. His label Brainfeeder became a hub for experimental music.",
+  "know": [
+   "He is the great-nephew of Alice Coltrane.",
+   "He founded the Brainfeeder label in 2008.",
+   "Kendrick Lamar raps on \"Never Catch Me.\""
+  ],
+  "born": "10-07",
+  "keyAlbums": [
+   [
+    "Los Angeles",
+    2008
+   ],
+   [
+    "Cosmogramma",
+    2010
+   ],
+   [
+    "Until the Quiet Comes",
+    2012
+   ],
+   [
+    "You're Dead!",
+    2014
+   ]
+  ],
+  "songs": [
+   "Never Catch Me",
+   "Do the Astral Plane",
+   "Zodiac Shit",
+   "Putty Boy Strut"
+  ],
+  "influencedBy": [
+   {
+    "id": "j-dilla",
+    "why": "He has repeatedly called J Dilla his biggest influence on beat-making.",
+    "s": 3
+   },
+   {
+    "id": "john-coltrane",
+    "why": "The Coltrane family's spiritual jazz, through his great-aunt Alice, runs through his music.",
+    "s": 2
+   },
+   {
+    "id": "aphex-twin",
+    "why": "His glitchy, detailed electronics draw on Aphex Twin and the Warp Records sound.",
+    "s": 2
+   },
+   {
+    "id": "herbie-hancock",
+    "why": "Hancock's jazz fusion shapes his sound, and Hancock plays on You're Dead!",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "kamasi-washington",
+    "why": "A leader of LA's new spiritual jazz scene."
+   },
+   {
+    "id": "sun-ra",
+    "why": "Cosmic, genre-defying music."
+   }
+  ]
+ },
+ {
+  "id": "the-avalanches",
+  "years": "1997–present",
+  "origin": "Melbourne, Australia",
+  "genres": [
+   "plunderphonics",
+   "sample-based pop",
+   "electronic"
+  ],
+  "summary": "Australian group that made joyful, dreamlike pop out of thousands of old samples. Their debut Since I Left You is a cult classic.",
+  "know": [
+   "Since I Left You (2000) was built from an estimated 3,500 samples.",
+   "They waited 16 years before releasing a second album.",
+   "Wildflower (2016) features MF Doom and Danny Brown."
+  ],
+  "born": null,
+  "keyAlbums": [
+   [
+    "Since I Left You",
+    2000
+   ],
+   [
+    "Wildflower",
+    2016
+   ],
+   [
+    "We Will Always Love You",
+    2020
+   ]
+  ],
+  "songs": [
+   "Since I Left You",
+   "Frontier Psychiatrist",
+   "Frankie Sinatra",
+   "Because I'm Me",
+   "Electricity"
+  ],
+  "influencedBy": [
+   {
+    "id": "dj-shadow",
+    "why": "They followed DJ Shadow's idea of building a whole album from samples.",
+    "s": 1
+   },
+   {
+    "id": "beastie-boys",
+    "why": "The collage style of the Beastie Boys' sample-heavy records is a clear ancestor.",
+    "s": 1
+   },
+   {
+    "id": "de-la-soul",
+    "why": "De La Soul's playful, sample-crammed hip-hop shaped their sense of fun.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "beck",
+    "why": "A collagist who mixes genres with humor."
+   },
+   {
+    "id": "the-beach-boys",
+    "why": "Lush, sunny studio-crafted pop."
+   }
+  ]
+ },
+ {
+  "id": "daddy-yankee",
+  "years": "1990s–2023",
+  "origin": "San Juan, Puerto Rico",
+  "genres": [
+   "reggaeton",
+   "Latin hip-hop",
+   "Latin urban"
+  ],
+  "summary": "Puerto Rican rapper often called the King of Reggaeton. His 2004 hit \"Gasolina\" took the genre worldwide.",
+  "know": [
+   "\"Gasolina\" (2004) is widely seen as the song that launched reggaeton globally.",
+   "A stray bullet in the 1990s ended his hopes of a pro baseball career.",
+   "He announced his retirement from music in 2023."
+  ],
+  "born": "02-03",
+  "keyAlbums": [
+   [
+    "Barrio Fino",
+    2004
+   ],
+   [
+    "El Cartel: The Big Boss",
+    2007
+   ],
+   [
+    "Prestige",
+    2012
+   ],
+   [
+    "Legendaddy",
+    2022
+   ]
+  ],
+  "songs": [
+   "Gasolina",
+   "Rompe",
+   "Lo Que Pasó, Pasó",
+   "Despacito",
+   "Con Calma"
+  ],
+  "influencedBy": [],
+  "cousins": [
+   {
+    "id": "jay-z",
+    "why": "A rapper-businessman who built an empire."
+   },
+   {
+    "id": "lil-wayne",
+    "why": "A rapper who defined his genre for a generation."
+   }
+  ]
+ },
+ {
+  "id": "skrillex",
+  "years": "2004–present",
+  "origin": "Los Angeles, US",
+  "genres": [
+   "dubstep",
+   "brostep",
+   "electro house"
+  ],
+  "summary": "Sonny Moore, an American producer who brought a loud, aggressive form of dubstep to arena audiences. He became one of the defining EDM artists of the 2010s.",
+  "know": [
+   "He was the singer of the post-hardcore band From First to Last.",
+   "He founded the record label OWSLA in 2011.",
+   "His Jack Ü song \"Where Are Ü Now\" with Diplo and Justin Bieber won a Grammy."
+  ],
+  "born": "01-15",
+  "keyAlbums": [
+   [
+    "Scary Monsters and Nice Sprites",
+    2010
+   ],
+   [
+    "Bangarang",
+    2011
+   ],
+   [
+    "Recess",
+    2014
+   ],
+   [
+    "Quest for Fire",
+    2023
+   ]
+  ],
+  "songs": [
+   "Scary Monsters and Nice Sprites",
+   "Bangarang",
+   "First of the Year (Equinox)",
+   "Where Are Ü Now",
+   "Rumble"
+  ],
+  "influencedBy": [
+   {
+    "id": "aphex-twin",
+    "why": "He has cited Aphex Twin as a formative influence on his sound design.",
+    "s": 2
+   },
+   {
+    "id": "the-prodigy",
+    "why": "His mix of rave and rock aggression follows the Prodigy.",
+    "s": 1
+   },
+   {
+    "id": "burial",
+    "why": "His work builds on the UK dubstep scene that Burial was part of.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "korn",
+    "why": "Heavy, bass-driven music for mosh pits."
+   },
+   {
+    "id": "travis-scott",
+    "why": "High-energy, chaotic live shows."
+   }
+  ]
+ },
+ {
+  "id": "bad-bunny",
+  "years": "2016–present",
+  "origin": "Vega Baja, Puerto Rico",
+  "genres": [
+   "Latin trap",
+   "reggaeton",
+   "Latin pop"
+  ],
+  "summary": "Puerto Rican artist who became the world's most-streamed musician while singing almost only in Spanish. He mixes trap, reggaeton and Puerto Rican folk styles.",
+  "know": [
+   "He was bagging groceries at a supermarket when his SoundCloud songs took off.",
+   "Debí Tirar Más Fotos won the Grammy for Album of the Year in 2026, the first Spanish-language album to do so.",
+   "He headlined the Super Bowl LX halftime show in 2026."
+  ],
+  "born": "03-10",
+  "keyAlbums": [
+   [
+    "X 100pre",
+    2018
+   ],
+   [
+    "YHLQMDLG",
+    2020
+   ],
+   [
+    "Un Verano Sin Ti",
+    2022
+   ],
+   [
+    "Debí Tirar Más Fotos",
+    2025
+   ]
+  ],
+  "songs": [
+   "Dakiti",
+   "Tití Me Preguntó",
+   "Me Porto Bonito",
+   "Callaita",
+   "DtMF"
+  ],
+  "influencedBy": [
+   {
+    "id": "daddy-yankee",
+    "why": "Bad Bunny has called Daddy Yankee a hero, and they recorded together on \"X Última Vez.\"",
+    "s": 3
+   }
+  ],
+  "cousins": [
+   {
+    "id": "drake",
+    "why": "A streaming-era superstar who blends rap and singing."
+   },
+   {
+    "id": "the-weeknd",
+    "why": "A global pop star built on moody R&B."
+   }
+  ]
+ },
+ {
+  "id": "rosalia",
+  "years": "2017–present",
+  "origin": "Barcelona, Spain",
+  "genres": [
+   "nuevo flamenco",
+   "flamenco pop",
+   "reggaeton",
+   "art pop"
+  ],
+  "summary": "Spanish singer trained in flamenco who mixes it with reggaeton, R&B and experimental pop. She has become one of the most acclaimed pop artists of her generation.",
+  "know": [
+   "She studied flamenco at the Catalonia College of Music.",
+   "El Mal Querer (2018) was her final degree project, based on a 13th-century novel.",
+   "Motomami won the Latin Grammy for Album of the Year in 2022."
+  ],
+  "born": "09-25",
+  "keyAlbums": [
+   [
+    "Los Ángeles",
+    2017
+   ],
+   [
+    "El Mal Querer",
+    2018
+   ],
+   [
+    "Motomami",
+    2022
+   ],
+   [
+    "Lux",
+    2025
+   ]
+  ],
+  "songs": [
+   "Malamente",
+   "Pienso en Tu Mirá",
+   "Con Altura",
+   "Saoko",
+   "Despechá"
+  ],
+  "influencedBy": [
+   {
+    "id": "bjork",
+    "why": "Rosalía has named Björk as an influence, and Björk sings on Lux.",
+    "s": 2
+   },
+   {
+    "id": "daddy-yankee",
+    "why": "\"Saoko\" reworks the Wisin & Yankee reggaeton hit \"Saoco.\"",
+    "s": 2
+   }
+  ],
+  "cousins": [
+   {
+    "id": "kate-bush",
+    "why": "An art-pop original who follows her own vision."
+   },
+   {
+    "id": "frank-ocean",
+    "why": "An acclaimed experimental pop-R&B artist."
+   }
+  ]
+ },
+ {
+  "id": "burna-boy",
+  "years": "2010–present",
+  "origin": "Port Harcourt, Nigeria",
+  "genres": [
+   "Afrobeats",
+   "Afro-fusion",
+   "dancehall"
+  ],
+  "summary": "Nigerian singer who mixes Afrobeats, dancehall, hip-hop and Fela-style Afrobeat. He is one of the leading global African music stars.",
+  "know": [
+   "His grandfather Benson Idonije was Fela Kuti's first manager.",
+   "Twice as Tall won the Grammy for Best Global Music Album in 2021.",
+   "In 2023 he became the first African artist to headline a sold-out US stadium show, at Citi Field."
+  ],
+  "born": "07-02",
+  "keyAlbums": [
+   [
+    "African Giant",
+    2019
+   ],
+   [
+    "Twice as Tall",
+    2020
+   ],
+   [
+    "Love, Damini",
+    2022
+   ],
+   [
+    "I Told Them...",
+    2023
+   ]
+  ],
+  "songs": [
+   "Ye",
+   "On the Low",
+   "Last Last",
+   "Anybody",
+   "City Boys"
+  ],
+  "influencedBy": [
+   {
+    "id": "fela-kuti",
+    "why": "Burna Boy openly calls Fela his biggest influence and uses Afrobeat horns and grooves.",
+    "s": 3
+   },
+   {
+    "id": "bob-marley",
+    "why": "Jamaican reggae and dancehall are a core part of his Afro-fusion sound.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "drake",
+    "why": "A global star blending rap and melody."
+   },
+   {
+    "id": "beyonce",
+    "why": "A superstar who champions African sounds."
+   }
+  ]
+ },
+ {
+  "id": "fred-again",
+  "years": "2010s–present",
+  "origin": "London, England",
+  "genres": [
+   "UK garage",
+   "house",
+   "electronic"
+  ],
+  "summary": "Fred Gibson, an English producer who builds emotional dance tracks from voice memos and found clips. He went from pop songwriting to stadium-sized electronic shows.",
+  "know": [
+   "He was mentored by Brian Eno from his teens.",
+   "He won the Brit Award for Producer of the Year in 2020.",
+   "His Actual Life albums are built from snippets of recordings from everyday life."
+  ],
+  "born": "07-19",
+  "keyAlbums": [
+   [
+    "Actual Life (April 14 – December 17 2020)",
+    2021
+   ],
+   [
+    "Actual Life 2",
+    2021
+   ],
+   [
+    "Actual Life 3",
+    2022
+   ],
+   [
+    "Ten Days",
+    2024
+   ]
+  ],
+  "songs": [
+   "Marea (We've Lost Dancing)",
+   "Delilah (pull me out of this)",
+   "Turn On The Lights again..",
+   "Rumble",
+   "adore u"
+  ],
+  "influencedBy": [
+   {
+    "id": "brian-eno",
+    "why": "Eno mentored him and he has credited Eno with teaching him how to work in the studio.",
+    "s": 3
+   },
+   {
+    "id": "skrillex",
+    "why": "He works closely with Skrillex, and they released tracks like \"Rumble\" together.",
+    "s": 2
+   },
+   {
+    "id": "burial",
+    "why": "His crackly, emotional garage takes cues from Burial's sound.",
+    "s": 1
+   }
+  ],
+  "cousins": [
+   {
+    "id": "bon-iver",
+    "why": "Emotional, processed vocals in a heartfelt setting."
+   },
+   {
+    "id": "charli-xcx",
+    "why": "A pop artist at home in club culture."
+   }
+  ]
+ }
+]
