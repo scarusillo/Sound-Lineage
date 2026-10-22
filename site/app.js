@@ -103,6 +103,22 @@
   }
   function chip(id) { const a = A[id]; return a ? `<button class="chip" data-id="${id}" ${famStyle(a.family)}>${esc(a.name)}</button>` : ""; }
   function strength(s) { return `<span class="strength" title="${["", "Stylistic lineage", "Widely documented", "Stated by the artist"][s] || ""}">${[1, 2, 3].map((i) => `<i class="${i <= s ? "on" : ""}"></i>`).join("")}</span>`; }
+  /* ---------- record art: vinyl labels for people, sleeves for albums, all from genre color ---------- */
+  const hash = (t) => [...String(t)].reduce((a, c) => (a * 33 + c.charCodeAt(0)) >>> 0, 5381);
+  function initials(name) {
+    const w = String(name).replace(/\(.*?\)/g, "").replace(/^the\s+/i, "").split(/[\s\-&,.]+/).filter((x) => x && /[A-Za-z0-9]/.test(x[0]));
+    return (w.length > 1 ? w[0][0] + w[1][0] : (w[0] || "?").slice(0, 2)).toUpperCase();
+  }
+  function vinyl(id) {
+    const a = A[id]; if (!a) return `<span class="vinyl" style="--c:var(--muted)"></span>`;
+    return `<span class="vinyl" style="--c:var(--f-${a.family});--a:${hash(id) % 360}deg" aria-hidden="true"><b>${esc(initials(a.name))}</b></span>`;
+  }
+  function sleeve(x, kind = "album") {
+    const fam = A[x.artist]?.family || "metal";
+    const fams = FAMS.map((f) => f.id), other = fams[(fams.indexOf(fam) + 3 + (hash(x.id) % 5)) % fams.length];
+    return `<span class="sleeve" style="--c:var(--f-${fam});--c2:var(--f-${other});--a:${100 + (hash(x.id) % 80)}deg" aria-hidden="true"><b>${esc(x.title)}</b><i>${esc(String(x.year || ""))}${kind === "song" ? " · SONG" : ""}</i></span>`;
+  }
+  function toast(t) { const el = $("#toast"); el.textContent = t; el.hidden = false; clearTimeout(toast._t); toast._t = setTimeout(() => (el.hidden = true), 2200); }
   async function copyText(text, btn, box) {
     try { await navigator.clipboard.writeText(text); if (btn) { const t = btn.textContent; btn.textContent = "Copied"; setTimeout(() => (btn.textContent = t), 1500); } }
     catch { if (box) { box.hidden = false; box.value = text; box.focus(); box.select(); } }
@@ -114,29 +130,43 @@
   }
 
   /* ---------- routing ---------- */
-  const VIEWS = ["today", "map", "tree", "journeys", "play", "browse", "you"];
+  const VIEWS = ["today", "map", "tree", "mix", "you", "journeys", "play", "browse", "credits", "compare"];
+  const TABS = ["today", "map", "tree", "mix", "you"];
+  const TITLES = { journeys: "Journeys", play: "Games", browse: "Browse", credits: "Behind the music", compare: "Compare taste" };
   const GAME_VIEWS = ["quiz", "degrees", "links", "timeline"];
   const LEGACY = { albums: ["tree", "album"], samples: ["tree", "song"], artists: ["browse"], mine: ["you"], near: ["you"] };
-  let journeyReq;
+  let journeyReq, lastSection = null, tasteCode = null;
   function route() {
     let h = decodeURIComponent(location.hash.slice(1));
     if (LEGACY[h]) { const [v, k] = LEGACY[h]; if (k) window.SL_TREE.setKind(k); history.replaceState(null, "", "#" + v); h = v; }
+    if (/^taste\.[0-9a-z.]+$/.test(h)) { tasteCode = h.slice(6); h = "compare"; }
     let view = VIEWS.includes(h) || GAME_VIEWS.includes(h) ? h : null;
-    if (!view && A[h]) { openArtist(h, false); view = store.get("sl.view", "today"); }
+    if (!view && A[h]) { openArtist(h, false); view = store.get("sl.view", "today"); if (view === "compare") view = "today"; }
     view ||= "today";
     const section = GAME_VIEWS.includes(view) ? "play" : view;
     for (const v of VIEWS) $(`#view-${v}`).hidden = v !== section;
-    document.querySelectorAll(".tabs a").forEach((a) => a.classList.toggle("on", a.dataset.view === section));
-    store.set("sl.view", view);
+    const tab = TABS.includes(section) ? section : "today";
+    document.querySelectorAll(".tabbar a").forEach((a) => a.classList.toggle("on", a.dataset.view === tab));
+    document.querySelectorAll(".rail a[data-view]").forEach((a) => a.classList.toggle("on", a.dataset.view === section));
+    const secondary = !TABS.includes(section) || GAME_VIEWS.includes(view);
+    $("#appback").hidden = !secondary; $("#apptitle").textContent = secondary ? (TITLES[section] || "Sound Lineage") : "Sound Lineage";
+    document.body.classList.toggle("on-map", section === "map");
+    closeSearch();
+    if (view !== "compare") store.set("sl.view", view);
     const el = $(`#view-${section}`);
     if (section === "today") window.SL_TODAY.renderToday(el);
     else if (section === "journeys") window.SL_TODAY.renderJourneys(el, journeyReq);
     else if (section === "play") window.SL_GAMES.mount(view, el);
     else if (section === "tree") window.SL_TREE.render(el);
     else if (section === "browse") renderBrowse(el);
+    else if (section === "credits") renderCredits(el);
+    else if (section === "mix") window.SL_MIX.render(el);
+    else if (section === "compare") window.SL_SHARE.renderCompare(el, tasteCode);
     else if (section === "you") window.SL_YOU.render(el);
     window.SL_MAP.active(section === "map");
     journeyReq = undefined;
+    if (section !== lastSection || GAME_VIEWS.includes(view)) { el.classList.remove("enter"); void el.offsetWidth; el.classList.add("enter"); }
+    lastSection = section;
     if (section !== "map") window.scrollTo(0, 0);
   }
   function go(view) { if (location.hash.slice(1) === view) route(); else location.hash = view; }
@@ -159,35 +189,42 @@
     let last = "", out = "";
     for (const x of hits) {
       if (x.t !== last) { out += `<div class="k">${{ artist: "Artists", album: "Albums", song: "Songs" }[x.t]}</div>`; last = x.t; }
-      out += `<button data-t="${x.t}" data-id="${x.id}"><span style="display:inline-flex;align-items:center;gap:8px" ${famStyle(x.f || "metal")}><span class="dot"></span>${esc(x.label)}</span><small>${esc(x.sub)}</small></button>`;
+      out += `<button data-t="${x.t}" data-id="${x.id}"><span class="hit" ${famStyle(x.f || "metal")}><span class="dot"></span><span>${esc(x.label)}</span></span><small>${esc(x.sub)}</small></button>`;
     }
     return out;
   }
+  function openSearch() { document.body.classList.add("searching"); $("#q").focus(); }
+  function closeSearch() { document.body.classList.remove("searching"); const q = $("#q"); if (q) { q.value = ""; $("#qres").hidden = true; q.blur(); } }
   function setupSearch() {
     const q = $("#q"), box = $("#qres");
+    $("#sopen").onclick = openSearch;
+    $("#scancel").onclick = closeSearch;
+    $("#appback").onclick = () => { const v = store.get("sl.view", "today"); go(GAME_VIEWS.includes(v) ? "play" : "today"); };
     q.addEventListener("input", () => {
       if (!q.value.trim()) { box.hidden = true; return; }
       const hits = searchHits(q.value).sort((a, b) => ["artist", "album", "song"].indexOf(a.t) - ["artist", "album", "song"].indexOf(b.t));
-      box.innerHTML = hitsHTML(hits, `Nothing called “${q.value}” yet. Send a suggestion from any artist page.`);
+      box.innerHTML = hitsHTML(hits, `Nothing called “${q.value}” yet. Send a suggestion from any artist page.`) + `<div class="k"></div><button data-browseall>Browse everything</button>`;
       box.hidden = false;
     });
     box.addEventListener("click", (e) => {
+      if (e.target.closest("[data-browseall]")) { closeSearch(); go("browse"); return; }
       const b = e.target.closest("button[data-id]"); if (!b) return;
-      box.hidden = true; q.value = ""; q.blur();
-      if (b.dataset.t === "artist") openArtist(b.dataset.id); else window.SL_TREE.show(b.dataset.t, b.dataset.id);
+      const { t, id } = b.dataset; closeSearch();
+      if (t === "artist") openArtist(id); else window.SL_TREE.show(t, id);
     });
     q.addEventListener("keydown", (e) => {
       if (e.key === "Enter") { const b = box.querySelector("button[data-id]"); if (b) b.click(); }
-      if (e.key === "Escape") box.hidden = true;
+      if (e.key === "Escape") closeSearch();
     });
-    document.addEventListener("click", (e) => { if (!e.target.closest(".search")) box.hidden = true; });
+    document.addEventListener("click", (e) => { if (!e.target.closest(".search") && !e.target.closest("#sopen")) { box.hidden = true; if (window.innerWidth < 960 && !q.value) document.body.classList.remove("searching"); } });
+    document.addEventListener("keydown", (e) => { if (e.key === "/" && !/INPUT|TEXTAREA|SELECT/.test(document.activeElement?.tagName || "")) { e.preventDefault(); openSearch(); } });
   }
 
   /* ---------- browse ---------- */
   function renderBrowse(root) {
     const kind = store.get("sl.browse", "artist");
     const st = store.get("sl.browseF", {});
-    root.innerHTML = `<div class="sec-h"><h1>Browse</h1><div class="seg" role="group" aria-label="What to browse">${[["artist", "Artists"], ["album", "Albums"], ["song", "Songs"]].map(([k, l]) => `<button data-bk="${k}" class="${k === kind ? "on" : ""}">${l}</button>`).join("")}</div></div>
+    root.innerHTML = `<div class="screen-h"><h1>Browse</h1><p class="lede">Every artist, landmark album and sampled song on the map.</p></div><div class="seg" role="group" aria-label="What to browse">${[["artist", "Artists"], ["album", "Albums"], ["song", "Songs"]].map(([k, l]) => `<button data-bk="${k}" class="${k === kind ? "on" : ""}">${l}</button>`).join("")}</div></div>
       <div class="tools">
         <input class="field" id="bf" type="search" placeholder="${kind === "artist" ? "Filter by name, style or city" : kind === "album" ? "Filter by title, artist or style" : "Filter by song or artist"}" value="${esc(st.t || "")}" autocomplete="off">
         <select id="bfam" aria-label="Genre"><option value="">All genres</option>${FAMS.map((f) => `<option value="${f.id}" ${st.f === f.id ? "selected" : ""}>${esc(f.name)}</option>`).join("")}</select>
@@ -204,15 +241,15 @@
       if (kind === "artist") {
         rows = ARTISTS.filter((a) => (!ro || (ro === "maker" ? !!a.role : !a.role)) && (!f || a.family === f) && (!d || a.decade === d) && (!t || norm(`${a.name} ${(a.genres || []).join(" ")} ${a.origin || ""}`).includes(t)));
         rows.sort((a, b) => so === "name" ? a.name.localeCompare(b.name) : so === "old" ? decIdx(a.decade) - decIdx(b.decade) || b.reach - a.reach : so === "new" ? decIdx(b.decade) - decIdx(a.decade) || b.reach - a.reach : b.reach - a.reach);
-        html = rows.map((a) => `<li><button data-id="${a.id}" class="pa" ${famStyle(a.family)}><span class="dot"></span><b>${esc(a.name)}</b><span class="r">${a.decade}</span><span class="s">${a.role ? `${a.role === "producer" ? "Producer" : "Session players"} · ` : ""}${esc((a.genres || [])[0] || FAM[a.family].name)}${a.origin ? ` · ${esc(a.origin)}` : ""} · ${a.up.length} in, ${a.down.length} out</span></button></li>`).join("");
+        html = rows.map((a) => `<li><button data-id="${a.id}" class="pa" ${famStyle(a.family)}>${vinyl(a.id)}<span><b>${esc(a.name)}</b><span class="s">${a.role ? `${a.role === "producer" ? "Producer" : "Session players"} · ` : ""}${esc((a.genres || [])[0] || FAM[a.family].name)}${a.origin ? ` · ${esc(a.origin)}` : ""} · ${a.up.length} in, ${a.down.length} out</span></span><span class="r">${a.decade}</span></button></li>`).join("");
       } else if (kind === "album") {
         rows = ALBUMS.filter((x) => { const a = A[x.artist]; return (!f || a?.family === f) && (!d || `${Math.floor(x.year / 10) * 10}s` === d) && (!t || norm(`${x.title} ${a?.name} ${x.sub}`).includes(t)); });
         rows.sort((a, b) => so === "name" ? a.title.localeCompare(b.title) : so === "new" ? b.year - a.year : so === "reach" ? (b.up.length + b.down.length) - (a.up.length + a.down.length) : a.year - b.year);
-        html = rows.map((x) => `<li><button data-tree="album" data-id="${x.id}" ${famStyle(A[x.artist]?.family || "rock")}><span class="dot"></span><b>${esc(x.title)}</b><span class="r">${x.year}</span><span class="s">${esc(A[x.artist]?.name || "")} · ${esc(x.sub)}</span></button></li>`).join("");
+        html = rows.map((x) => `<li><button data-tree="album" data-id="${x.id}" style="--vs:40px">${sleeve(x)}<span><b>${esc(x.title)}</b><span class="s">${esc(A[x.artist]?.name || "")} · ${esc(x.sub)}</span></span><span class="r">${x.year}</span></button></li>`).join("");
       } else {
         rows = SONGS.filter((x) => (!f || A[x.artist]?.family === f) && (!d || `${Math.floor(x.year / 10) * 10}s` === d) && (!t || norm(`${x.title} ${x.artistName || A[x.artist]?.name || ""}`).includes(t)));
         rows.sort((a, b) => so === "name" ? a.title.localeCompare(b.title) : so === "old" ? a.year - b.year : so === "new" ? b.year - a.year : b.down.length - a.down.length || a.year - b.year);
-        html = rows.map((x) => `<li><button data-tree="song" data-id="${x.id}" ${famStyle(A[x.artist]?.family || "metal")}><span class="dot"></span><b>${esc(x.title)}</b><span class="r">${x.year}</span><span class="s">${esc(x.artistName || A[x.artist]?.name || "")}${x.down.length ? ` · reused ${x.down.length}×` : ""}${x.up.length ? ` · built from ${x.up.length}` : ""}</span></button></li>`).join("");
+        html = rows.map((x) => `<li><button data-tree="song" data-id="${x.id}" style="--vs:40px">${sleeve(x, "song")}<span><b>${esc(x.title)}</b><span class="s">${esc(x.artistName || A[x.artist]?.name || "")}${x.down.length ? ` · reused ${x.down.length}×` : ""}${x.up.length ? ` · built from ${x.up.length}` : ""}</span></span><span class="r">${x.year}</span></button></li>`).join("");
       }
       $("#bcount").textContent = `${rows.length} ${kind === "artist" ? "artists" : kind === "album" ? "albums" : "songs"}`;
       const lis = html.split("</li>").filter(Boolean);
@@ -223,6 +260,18 @@
     ["#bf", "#bfam", "#bdec", "#bsort", "#brole"].forEach((s) => $(s, root)?.addEventListener("input", () => { root._lim = 120; draw(); }));
     root.onclick = (e) => { if (e.target.closest("[data-blim]")) { root._lim += 240; draw(); return; } const b = e.target.closest("[data-bk]"); if (b) { store.set("sl.browse", b.dataset.bk); store.set("sl.browseF", {}); renderBrowse(root); } };
     draw();
+  }
+
+  /* ---------- behind the music: producers and session players ---------- */
+  function renderCredits(root) {
+    const role = store.get("sl.creditsRole", "producer");
+    const people = ARTISTS.filter((a) => a.role === role).sort((a, b) => b.down.length - a.down.length);
+    const top = people.slice(0, 10);
+    root.innerHTML = `<div class="screen-h"><span class="eyebrow">Credits as a rabbit hole</span><h1>Behind the music</h1><p class="lede">The producers, engineers and session players whose hands are on records you know. Open anyone to see every artist they shaped, then follow those artists to the next name in their credits.</p></div>
+      <div class="seg" role="group" aria-label="Who to show"><button data-crole="producer" class="${role === "producer" ? "on" : ""}">Producers · ${ARTISTS.filter((a) => a.role === "producer").length}</button><button data-crole="session" class="${role === "session" ? "on" : ""}">Session players · ${ARTISTS.filter((a) => a.role === "session").length}</button></div>
+      <section class="shelf"><div class="shelf-h"><h2>Most credits</h2></div><div class="row">${top.map((a) => `<button class="rcard" data-open="${a.id}">${vinyl(a.id)}<span class="t">${esc(a.name)}</span><span class="s">${a.down.length} artists · ${esc((a.genres || [])[0] || FAM[a.family].name)}</span></button>`).join("")}</div></section>
+      <section class="sec"><h3>Everyone, by number of credits</h3><ul class="lg">${people.map((a) => `<li><button class="lrow" data-open="${a.id}">${vinyl(a.id)}<span><span class="t">${esc(a.name)}</span><span class="s">${esc(sortRel(a.down).slice(0, 4).map((d) => A[d.id].name).join(", "))}${a.down.length > 4 ? "…" : ""}</span></span><span class="r">${a.down.length}</span></button></li>`).join("")}</ul></section>`;
+    root.onclick = (e) => { const b = e.target.closest("[data-crole]"); if (b) { store.set("sl.creditsRole", b.dataset.crole); renderCredits(root); } };
   }
 
   /* ---------- artist panel ---------- */
@@ -240,25 +289,32 @@
     const albumsBy = ALBUMS.filter((x) => x.artist === id).sort((p, q) => p.year - q.year);
     const keyAl = (a.keyAlbums || []).filter(([t]) => !albumsBy.some((x) => norm(x.title) === norm(t)));
     const fav = window.SL_YOU?.isFav(a.id);
+    const makers = up.filter((r) => A[r.id].role);
+    const spotUrl = window.SL_SPOT?.urlFor(a.name);
+    const mw = (r, line) => `<button class="mw" data-open="${r.id}" ${famStyle(A[r.id].family)}>${vinyl(r.id)}<span style="min-width:0"><span class="t">${esc(A[r.id].name)}</span><span class="s">${esc(line)}</span></span></button>`;
     $("#pbody").innerHTML = `<div ${famStyle(a.family)}>
-      <div class="p-eyebrow"><span class="dot"></span>${a.role ? `<span class="role">${a.role === "producer" ? "Producer" : "Session players"}</span>` : ""}${esc(FAM[a.family].name)} · ${esc(a.decade)}</div>
-      <h2 class="p-name">${esc(a.name)}</h2>
-      <div class="p-sub">${[a.years, a.origin].filter(Boolean).map(esc).join(" · ")}</div>
-      ${(a.genres || []).length ? `<div class="chips" style="margin-top:10px">${a.genres.map((g) => `<span class="tag">${esc(g)}</span>`).join("")}</div>` : ""}
-      <div style="margin-top:14px">${window.SL_SPOT?.urlFor(a.name) ? `<div class="listen"><a href="${esc(window.SL_SPOT.urlFor(a.name))}" target="_blank" rel="noopener">▶ Spotify</a><a href="https://music.apple.com/us/search?term=${enc(a.name)}" target="_blank" rel="noopener">▶ Apple Music</a><a href="https://www.youtube.com/results?search_query=${enc(a.name)}" target="_blank" rel="noopener">▶ YouTube</a></div>` : listenLinks(a.name)}</div>
-      <div class="p-actions"><button class="solid" data-tree="artist" data-id="${a.id}">Family tree</button><button class="ghost small" data-mapfocus="${a.id}">Find on map</button><button class="ghost small" id="favbtn">${fav ? "★ Saved" : "☆ Save to For You"}</button><button class="ghost small" id="fixbtn">Suggest a correction</button></div>
-      <form id="fixform" class="fixform" hidden>
-        <label for="fixfield">What needs fixing?</label>
-        <select id="fixfield"><option>Missing influence</option><option>Wrong influence</option><option>Summary or facts</option><option>Albums or songs</option><option>Missing artist</option><option>Other</option></select>
-        <label for="fixtext">Your correction (link an interview or source if you can)</label>
-        <textarea id="fixtext" rows="4" required></textarea>
-        <div class="gbtns"><button class="qnext" type="submit">Send correction</button><button class="ghost" type="button" id="fixcancel">Cancel</button></div>
-        <p class="qmeta" id="fixmsg"></p>
-      </form>
-      ${a.summary ? `<div class="p-sec"><p>${esc(a.summary)}</p></div>` : ""}
-      <div class="p-sec">${dnaHTML(a.id)}</div>
+      <div class="a-hero">
+        ${vinyl(a.id)}
+        <div class="p-eyebrow"><span class="dot"></span>${a.role ? `<span class="role">${a.role === "producer" ? "PRODUCER" : "SESSION PLAYERS"}</span>` : ""}${esc(FAM[a.family].name)} · ${esc(a.decade)}</div>
+        <h2 class="p-name">${esc(a.name)}</h2>
+        <div class="p-sub">${[a.years, a.origin].filter(Boolean).map(esc).join(" · ")}</div>
+        <div class="p-actions">
+          <a class="spot-btn" href="${esc(spotUrl || `https://open.spotify.com/search/${enc(a.name)}`)}" target="_blank" rel="noopener"><span class="sp" aria-hidden="true"></span>Play on Spotify</a>
+          <button class="solid" data-tree="artist" data-id="${a.id}">Family tree</button>
+        </div>
+        <div class="p-actions">
+          <button class="ghost small" id="favbtn">${fav ? "★ Saved" : "☆ Save"}</button>
+          <button class="ghost small" data-mapfocus="${a.id}">Find on map</button>
+          <a class="ghost small" href="https://music.apple.com/us/search?term=${enc(a.name)}" target="_blank" rel="noopener">Apple Music</a>
+          <a class="ghost small" href="https://www.youtube.com/results?search_query=${enc(a.name)}" target="_blank" rel="noopener">YouTube</a>
+        </div>
+      </div>
+      ${a.summary ? `<div class="p-sec"><p>${esc(a.summary)}</p>${(a.genres || []).length ? `<div class="chips">${a.genres.map((g) => `<span class="tag">${esc(g)}</span>`).join("")}</div>` : ""}</div>` : ""}
+      ${dna(a.id).length > 1 ? `<div class="p-sec"><div class="card">${dnaHTML(a.id)}</div></div>` : ""}
+      ${makers.length ? `<div class="p-sec"><h3>Made with</h3><div class="madewith">${makers.map((r) => mw(r, A[r.id].role === "producer" ? "Producer" : "Session players")).join("")}</div></div>` : ""}
+      ${a.role && down.length ? `<div class="p-sec"><h3 style="color:var(--down)">Credits · ${down.length}</h3><div class="madewith">${down.slice(0, 24).map((r) => mw(r, `${A[r.id].decade} · ${(r.why || "").slice(0, 70)}${(r.why || "").length > 70 ? "…" : ""}`)).join("")}</div>${down.length > 24 ? `<details class="toggle-list"><summary>Show ${down.length - 24} more</summary><div class="madewith" style="margin-top:10px">${down.slice(24).map((r) => mw(r, A[r.id].decade)).join("")}</div></details>` : ""}</div>` : ""}
       <div class="p-sec"><h3 style="color:var(--up)">Influenced by · ${up.length}</h3>${nSrc ? `<p class="qmeta" style="margin:0;font-size:.8rem">${nSrc} of these links have a cited source.</p>` : ""}${up.length ? relList(up, "up") : `<p class="qmeta">A root of the tree here.</p>`}</div>
-      <div class="p-sec"><h3 style="color:var(--down)">${a.role ? "Produced, played on or shaped" : "Influenced"} · ${down.length}</h3>${down.length ? relList(down, "down") : `<p class="qmeta">No one mapped downstream yet.</p>`}</div>
+      ${a.role ? "" : `<div class="p-sec"><h3 style="color:var(--down)">Influenced · ${down.length}</h3>${down.length ? relList(down, "down") : `<p class="qmeta">No one mapped downstream yet.</p>`}</div>`}
       ${(a.cousins || []).filter((c) => A[c.id]).length ? `<div class="p-sec"><h3>If you like ${esc(a.name)}, try</h3><ul class="rels">${a.cousins.filter((c) => A[c.id]).map((c) => `<li><div class="hd">${chip(c.id)}<span class="qmeta" style="font-size:.8rem">${esc(FAM[A[c.id].family].name)}</span></div><span class="why">${esc(c.why)}</span></li>`).join("")}</ul></div>` : ""}
       ${window.SL_SPOT?.panelHTML(a) || ""}
       ${albumsBy.length || keyAl.length ? `<div class="p-sec"><h3>Albums</h3><div class="mini">${albumsBy.map((x) => `<button data-tree="album" data-id="${x.id}"><span><b>${esc(x.title)}</b> <span class="qmeta" style="font-size:.8rem">· lineage</span></span><span class="yr">${x.year}</span></button>`).join("")}${keyAl.map(([t, y]) => `<div><span>${esc(t)}</span><span class="yr">${y || ""}</span></div>`).join("")}</div></div>` : ""}
@@ -266,17 +322,28 @@
       ${songsBy.length ? `<div class="p-sec"><h3>Samples</h3><div class="mini">${songsBy.map((s) => `<button data-tree="song" data-id="${s.id}"><span><b>${esc(s.title)}</b> <span class="qmeta" style="font-size:.8rem">· ${s.down.length ? `reused ${s.down.length}×` : `built from ${s.up.length}`}</span></span><span class="yr">${s.year}</span></button>`).join("")}</div></div>` : ""}
       ${(a.know || []).length ? `<div class="p-sec"><h3>Good to know</h3><ul class="know">${a.know.map((k) => `<li>${esc(k)}</li>`).join("")}</ul></div>` : ""}
       <div class="p-sec"><h3>See them live</h3><div class="listen"><a target="_blank" rel="noopener" href="https://www.songkick.com/search?query=${enc(a.name)}">Songkick</a><a target="_blank" rel="noopener" href="https://www.google.com/search?q=${enc(a.name + " tour dates")}">Tour dates</a><a data-go="you" href="#you">Venues near me</a></div></div>
+      <div class="p-sec"><div class="gbtns"><button class="ghost small" data-sharepanel>Share this lineage</button><button class="ghost small" id="fixbtn">Suggest a correction</button></div>
+      <form id="fixform" class="fixform" hidden>
+        <label for="fixfield">What needs fixing?</label>
+        <select id="fixfield"><option>Missing influence</option><option>Wrong influence</option><option>Summary or facts</option><option>Albums or songs</option><option>Missing artist</option><option>Other</option></select>
+        <label for="fixtext">Your correction (link an interview or source if you can)</label>
+        <textarea id="fixtext" rows="4" required></textarea>
+        <div class="gbtns"><button class="qnext" type="submit">Send correction</button><button class="ghost" type="button" id="fixcancel">Cancel</button></div>
+        <p class="qmeta" id="fixmsg"></p>
+      </form></div>
     </div>`;
-    $("#panel").hidden = false; $("#panel").scrollTop = 0;
+    $("#panel").hidden = false; $("#scrim").hidden = false; $("#panel").scrollTop = 0; document.body.classList.add("lock");
     window.SL_MAP.select(id, false);
   }
   function closePanel() {
-    $("#panel").hidden = true; current = null;
+    $("#panel").hidden = true; $("#scrim").hidden = true; current = null; document.body.classList.remove("lock");
     history.replaceState(null, "", "#" + store.get("sl.view", "today"));
   }
   function setupClicks() {
     $("#pclose").onclick = closePanel;
-    document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !$("#panel").hidden) closePanel(); });
+    $("#scrim").onclick = () => { if (!$("#sharesheet").hidden) window.SL_SHARE.close(); else closePanel(); };
+    $("#pshare").onclick = () => window.SL_SHARE.artist(current);
+    document.addEventListener("keydown", (e) => { if (e.key !== "Escape") return; if (!$("#sharesheet").hidden) window.SL_SHARE.close(); else if (!$("#panel").hidden) closePanel(); });
     $("#pbody").addEventListener("submit", sendCorrection);
     document.addEventListener("click", (e) => {
       const g = e.target.closest("[data-go]");
@@ -291,7 +358,8 @@
       if (mf) { const id = mf.dataset.mapfocus; closePanel(); go("map"); setTimeout(() => window.SL_MAP.select(id, true), 80); return; }
       const c = e.target.closest(".chip[data-id], .pa[data-id]");
       if (c && !c.closest(".lineage")) return openArtist(c.dataset.id);
-      if (e.target.closest("#favbtn")) { const on = window.SL_YOU.toggleFav(current); e.target.closest("#favbtn").textContent = on ? "★ Saved" : "☆ Save to For You"; return; }
+      if (e.target.closest("[data-sharepanel]")) { window.SL_SHARE.artist(current); return; }
+      if (e.target.closest("#favbtn")) { const on = window.SL_YOU.toggleFav(current); e.target.closest("#favbtn").textContent = on ? "★ Saved" : "☆ Save"; toast(on ? `Saved ${A[current].name} to You` : "Removed"); return; }
       if (e.target.closest("#fixbtn")) { $("#fixform").hidden = false; $("#fixtext").focus(); return; }
       if (e.target.closest("#fixcancel")) { $("#fixform").hidden = true; }
     });
@@ -357,7 +425,7 @@
       JOURNEYS = jd.journeys || [];
     } catch (e) { $("main").innerHTML = `<p class="loading">The music data could not load (${esc(e.message)}). Reload the page to try again.</p>`; return; }
     window.SL = {
-      store, esc, norm, enc, chip, strength, famStyle, famColor, cssVar, listenLinks, openArtist, go, explored, badges, db, user,
+      store, esc, norm, enc, chip, vinyl, sleeve, initials, toast, hash, closePanel, strength, famStyle, famColor, cssVar, listenLinks, openArtist, go, explored, badges, db, user,
       shortestPath, anyPath, edgeWhy, dna, dnaHTML, srcHTML, get SRC() { return SRC; }, sortRel, decIdx, searchHits, hitsHTML, copyText, playlistText,
       get ARTISTS() { return ARTISTS; }, get A() { return A; }, get FAMS() { return FAMS; }, get FAM() { return FAM; }, get DECADES() { return DECADES; },
       get ALBUMS() { return ALBUMS; }, get AL() { return AL; }, get SONGS() { return SONGS; }, get SO() { return SO; }, get JOURNEYS() { return JOURNEYS; },

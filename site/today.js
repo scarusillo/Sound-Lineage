@@ -22,44 +22,53 @@
     const deep = root_ ? [...root_.down].filter((d) => ["2000s", "2010s", "2020s"].includes(A[d.id].decade)).sort((a, b) => A[a.id].down.length - A[b.id].down.length)[0] : null;
     const mine = window.SL_YOU.personalPick(n);
     const G = window.SL_GAMES;
-    const pick = (a, label, body, attrs) => `<button class="pick" ${attrs} ${ctx.famStyle(a.family)}><span class="lbl">${label}</span><span class="k"><span class="dot"></span>${esc(ctx.FAM[a.family].name)} · ${esc(a.decade)}</span><b>${esc(a.name)}</b><span class="d">${esc(body)}</span></button>`;
     const links = ctx.ARTISTS.reduce((s, a) => s + a.up.length, 0);
-    root.innerHTML = `<div class="today">
-      <section class="hero">
-        <span class="eyebrow">${now.toLocaleDateString(undefined, { weekday: "long", month: "long", day: "numeric" })}</span>
-        <h1>Find your next favorite by following where music came from.</h1>
-        ${window.SL_SPOT.nowHTML()}
-        <div class="stats"><span><b>${ctx.ARTISTS.length}</b> artists</span><span><b>${links.toLocaleString()}</b> influence links</span><span><b>${ctx.ALBUMS.length}</b> landmark albums</span><span><b>${ctx.SONGS.length}</b> songs in sample trails</span><span><b>${ctx.DECADES[0]}</b> to now</span></div>
-      </section>
+    const hr = now.getHours(), hello = hr < 5 ? "Up late" : hr < 12 ? "Good morning" : hr < 17 ? "Good afternoon" : "Good evening";
+    const heroA = mine ? A[mine.id] : aotd;
+    const heroWhy = mine ? `Because ${mine.why}. ${A[mine.id].summary || ""}` : aotd.summary;
+    const rc = (id, s2) => `<button class="rcard" data-open="${id}">${ctx.vinyl(id)}<span class="t">${esc(A[id].name)}</span><span class="s">${esc(s2)}</span></button>`;
+    const rcAlbum = (x, s2) => `<button class="rcard" data-tree="album" data-id="${x.id}" style="--vs:148px">${ctx.sleeve(x)}<span class="t">${esc(x.title)}</span><span class="s">${esc(s2)}</span></button>`;
+    const picks = [];
+    if (mine) picks.push(rc(aotd.id, "Artist of the day"));
+    if (alotd) picks.push(rcAlbum(alotd, `Album of the day · ${A[alotd.artist]?.name || ""}`));
+    if (deep) picks.push(rc(deep.id, `Deep cut · heir of ${root_.name}`));
+    if (cousin) picks.push(rcAlbum(ctx.AL[cousin.id], `If ${alotd.title} clicks`));
+    const fresh = ctx.ARTISTS.filter((a) => !a.role && ["2010s", "2020s"].includes(a.decade) && a.summary && a.up.length >= 2);
+    for (let i = 0; picks.length < 8 && i < 12; i++) { const a = fresh[(n * 37 + i * 101) % fresh.length]; if (a && !picks.some((p) => p.includes(`"${a.id}"`))) picks.push(rc(a.id, `New lineage · ${A[ctx.sortRel(a.up)[0].id].name} heir`)); }
+    const recs = mine ? window.SL_YOU.recommend(window.SL_YOU.yourIds()).filter((r) => r.id !== mine.id).slice(0, 10) : [];
+    const played = G.GAMES.filter((g) => G.playedToday(g.id)).length;
+    root.innerHTML = `<div class="view-in" style="display:grid;gap:28px">
+      <div class="greet"><span class="date">${now.toLocaleDateString(undefined, { weekday: "long", month: "long", day: "numeric" })}</span><h1>${hello}</h1></div>
+      ${window.SL_SPOT.nowHTML()}
+      <button class="hero" data-open="${heroA.id}" ${ctx.famStyle(heroA.family)}>
+        <span style="min-width:0"><span class="lbl">${mine ? "Picked for you today" : "Artist of the day"}</span><span class="ht">${esc(heroA.name)}</span><span class="d">${esc(heroWhy)}</span><span class="k"><span class="dot" style="background:#fff"></span>${esc(ctx.FAM[heroA.family].name)} · ${esc(heroA.decade)} · ${heroA.up.length} roots · ${heroA.down.length} heirs</span></span>
+        ${ctx.vinyl(heroA.id)}
+      </button>
+      ${window.SL_MIX.cardHTML() || `<button class="mixcard" data-go="mix"><span class="mixcover" style="--vs:96px;background:conic-gradient(from 45deg, var(--f-soul) 0 25%, var(--f-rock) 0 50%, var(--f-jazz) 0 75%, var(--f-hiphop) 0)" aria-hidden="true"><i>LINEAGE MIX</i></span><span style="min-width:0"><span class="eyebrow">New every Monday</span><span class="ht">Get your weekly mix</span><span class="s">Tell Sound Lineage what you play and it builds a playlist from the people who shaped your artists and the people they shaped.</span></span></button>`}
 
-      <div class="feature">
-        ${mine ? `<button class="pick you" data-open="${mine.id}" ${ctx.famStyle(A[mine.id].family)}><span class="lbl">For you today</span><span class="k"><span class="dot"></span>${esc(ctx.FAM[A[mine.id].family].name)} · ${esc(A[mine.id].decade)}</span><b>${esc(A[mine.id].name)}</b><span class="d">Because ${esc(mine.why)}. ${esc(A[mine.id].summary || "")}</span></button>` : ""}
-        ${pick(aotd, "Artist of the day", aotd.summary, `data-open="${aotd.id}"`)}
-        ${alotd ? `<button class="pick" data-tree="album" data-id="${alotd.id}" ${ctx.famStyle(A[alotd.artist]?.family || "rock")}><span class="lbl">Album of the day</span><span class="k"><span class="dot"></span>${esc(A[alotd.artist]?.name || "")} · ${alotd.year}</span><b>${esc(alotd.title)}</b><span class="d">${esc(alotd.summary)}${cousin ? ` If it clicks, try ${esc(ctx.AL[cousin.id].title)} by ${esc(A[ctx.AL[cousin.id].artist]?.name || "")}.` : ""}</span></button>` : ""}
-        ${!mine && deep ? pick(A[deep.id], "Deep cut", `Everyone knows ${root_.name}. Follow the line down: ${deep.why || A[deep.id].summary || ""}`, `data-open="${deep.id}"`) : ""}
-      </div>
-      ${mine ? `<div class="feature">${window.SL_YOU.mixHTML(true)}</div>` : ""}
-      ${!mine ? `<p class="notice">Sync your Spotify (or save a few favorites) in <a href="#you" data-go="you">For You</a>, and this page starts picking for you.</p>` : ""}
+      <section class="shelf"><div class="shelf-h"><h2>Today's picks</h2></div><div class="row">${picks.join("")}</div></section>
+      ${recs.length ? `<section class="shelf"><div class="shelf-h"><h2>Where to go next</h2><a href="#you" data-go="you">See all</a></div><div class="row">${recs.map((r) => rc(r.id, r.why[0])).join("")}</div></section>` : ""}
+      ${born.length ? `<section class="shelf"><div class="shelf-h"><h2>Born today</h2></div><div class="row">${born.map((a) => rc(a.id, `${a.years || a.decade}`)).join("")}</div></section>` : ""}
+      ${released.length ? `<section class="shelf"><div class="shelf-h"><h2>Released on this day</h2></div><div class="row">${released.map((x) => rcAlbum(x, `${A[x.artist]?.name || ""} · ${x.year}`)).join("")}</div></section>` : ""}
 
-      ${born.length || released.length ? `<section class="onday">
-        ${born.length ? `<div class="sec"><h3>Born today</h3><div class="chips">${born.map((a) => ctx.chip(a.id)).join("")}</div></div>` : ""}
-        ${released.length ? `<div class="sec"><h3>Released on this day</h3><div class="mini">${released.map((x) => `<button data-tree="album" data-id="${x.id}"><span><b>${esc(x.title)}</b> · ${esc(A[x.artist]?.name || "")}</span><span class="yr">${x.year}</span></button>`).join("")}</div></div>` : ""}
-      </section>` : ""}
-
-      <section class="sec"><div class="sec-h"><h2>Today's games</h2><a href="#play" data-go="play" class="qmeta">All games</a></div>
-        <div class="gmini">${G.GAMES.map((g) => `<button class="gm" data-go="${g.id}"><b>${g.name}</b><span>${G.playedToday(g.id) ? "✓ Played" : "Play today's"}${G.streak(g.id) ? ` · ${G.streak(g.id)} day streak` : ""}</span></button>`).join("")}</div>
-      </section>
+      <section class="sec"><div class="shelf-h"><h2>Explore</h2></div><div class="tiles">
+        <a class="tile" href="#journeys" data-go="journeys"><svg><use href="#i-route"/></svg><b>Journeys</b><span>${ctx.JOURNEYS.length} guided listens, one song at a time</span></a>
+        <a class="tile" href="#play" data-go="play"><svg><use href="#i-games"/></svg><b>Daily games</b><span>${played ? `${played} of ${G.GAMES.length} played today` : `${G.GAMES.length} new puzzles today`}</span></a>
+        <a class="tile" href="#credits" data-go="credits"><svg><use href="#i-credits"/></svg><b>Behind the music</b><span>Producers and session players</span></a>
+        <a class="tile" href="#browse" data-go="browse"><svg><use href="#i-grid"/></svg><b>Browse</b><span>${ctx.ARTISTS.length.toLocaleString()} artists, ${ctx.ALBUMS.length} albums</span></a>
+      </div></section>
       <section class="sec" id="jcont"></section>
+      <p class="stats"><span><b>${ctx.ARTISTS.length.toLocaleString()}</b> artists</span><span><b>${links.toLocaleString()}</b> influence links</span><span><b>${ctx.SONGS.length}</b> songs in sample trails</span><span><b>${ctx.DECADES[0]}</b> to now</span><span class="human">Human-curated</span></p>
       <section class="sec" id="inbox" hidden></section>
     </div>`;
     const prog = ctx.store.get("sl.journeys", {});
     const active = ctx.JOURNEYS.find((j) => prog[j.id] && prog[j.id].length && prog[j.id].length < j.steps.length);
     if (active) {
       const k = prog[active.id].length, step = active.steps.find((_, i) => !prog[active.id].includes(i));
-      $("#jcont", root).innerHTML = `<h2>Continue your journey</h2><button class="pick" data-journey="${active.id}" style="--c:var(--hot)"><span class="lbl">${esc(active.title)} · ${k} of ${active.steps.length}</span><b>${esc(step?.listen || "")}</b><span class="d">${step && A[step.artist] ? esc(A[step.artist].name) + ". " : ""}${esc(step?.note || "")}</span></button>`;
+      $("#jcont", root).innerHTML = `<div class="shelf-h"><h2>Continue your journey</h2></div><button class="hero" data-journey="${active.id}" style="--c:var(--f-${A[step?.artist]?.family || "soul"})"><span style="min-width:0"><span class="lbl">${esc(active.title)} · ${k} of ${active.steps.length}</span><span class="ht">${esc(step?.listen || "")}</span><span class="d">${step && A[step.artist] ? esc(A[step.artist].name) + ". " : ""}${esc(step?.note || "")}</span></span>${step && A[step.artist] ? ctx.vinyl(step.artist) : ""}</button>`;
     } else if (ctx.JOURNEYS.length) {
       const j = ctx.JOURNEYS[n % ctx.JOURNEYS.length];
-      $("#jcont", root).innerHTML = `<div class="sec-h"><h2>Today's listening journey</h2><a href="#journeys" data-go="journeys" class="qmeta">All journeys</a></div><button class="pick" data-journey="${j.id}" style="--c:var(--hot)"><span class="lbl">${j.steps.length} songs</span><b>${esc(j.title)}</b><span class="d">${esc(j.blurb)}</span></button>`;
+      $("#jcont", root).innerHTML = `<div class="shelf-h"><h2>Today's journey</h2><a href="#journeys" data-go="journeys">All journeys</a></div><button class="hero" data-journey="${j.id}" style="--c:var(--f-${A[j.steps[0].artist]?.family || "soul"})"><span style="min-width:0"><span class="lbl">${j.steps.length} songs</span><span class="ht">${esc(j.title)}</span><span class="d">${esc(j.blurb)}</span></span>${A[j.steps[0].artist] ? ctx.vinyl(j.steps[0].artist) : ""}</button>`;
     }
     renderInbox($("#inbox", root));
   }
@@ -72,8 +81,8 @@
     if (openId === undefined) openId = ctx.store.get("sl.journeyOpen", null);
     const j = J.find((x) => x.id === openId);
     if (!j) {
-      root.innerHTML = `<div class="hub"><div class="ghead"><h1>Journeys</h1></div>
-        <p class="lede">Guided listening, one song at a time. Each stop says what to listen for and how it connects to the one before, so you hear the lineage instead of reading about it.</p>
+      root.innerHTML = `<div class="hub"><div class="screen-h"><h1>Journeys</h1>
+        <p class="lede">Guided listening, one song at a time. Each stop says what to listen for and how it connects to the one before, so you hear the lineage instead of reading about it.</p></div>
         <div class="gcards">${J.map((x) => {
           const done = (prog[x.id] || []).length;
           const fams = [...new Set(x.steps.map((s) => ctx.A[s.artist]?.family).filter(Boolean))].slice(0, 6);
@@ -86,7 +95,7 @@
     const done = new Set(prog[j.id] || []);
     const next = j.steps.findIndex((_, i) => !done.has(i));
     const playlist = `${j.title}\n\n${j.steps.map((s) => `${s.listen} - ${ctx.A[s.artist]?.name || ""}`).join("\n")}`;
-    root.innerHTML = `<div class="journey"><div class="ghead"><button class="back" data-journey="">‹ All journeys</button></div>
+    root.innerHTML = `<div class="journey"><button class="back" data-journey="">All journeys</button>
       <h1>${esc(j.title)}</h1>
       <p class="lede" style="margin:0">${esc(j.blurb)}</p>
       <div class="copyline" data-spotbox><span class="pbar wide" style="flex:1 1 200px"><i style="width:${(done.size / j.steps.length) * 100}%"></i></span><span class="qmeta">${done.size} of ${j.steps.length} heard</span>${window.SL_SPOT.saveBtn(`data-spotsave="" data-title="${esc(j.title)}" data-songs="${esc(JSON.stringify(j.steps.map((s) => `${s.listen} by ${ctx.A[s.artist]?.name || ""}`)))}"`)}<button class="ghost small" id="jcopy">Copy as text</button><span data-spotout class="qmeta"></span></div>

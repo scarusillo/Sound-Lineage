@@ -19,6 +19,10 @@
   const deg = (a) => a.up.length + a.down.length;
   const hexA = (hex, a) => { const n = parseInt(hex.slice(1), 16); return `rgba(${n >> 16 & 255},${n >> 8 & 255},${n & 255},${a})`; };
   const X = (a) => (C().decIdx(a.decade) - (C().DECADES.length - 1) / 2) * DX;
+  // in portrait the timeline runs top to bottom so all of history fits on a phone
+  let vert = false;
+  const isVert = () => { const el = $("#mapwrap"); return el.clientHeight > el.clientWidth * 1.1; };
+  const P = (t, c, z) => (vert ? { x: c, y: -t, z } : { x: t, y: c, z });
   const ang = (f) => (LANES.indexOf(f) / LANES.length) * Math.PI * 2;
   const vis = (n) => !hidden.has(n.a.family) && C().decIdx(n.a.decade) <= cutoff;
   const webgl = () => { try { const c = document.createElement("canvas"); return !!(c.getContext("webgl2") || c.getContext("webgl")); } catch { return false; } };
@@ -26,9 +30,10 @@
   function data() {
     if (nodes.length) return;
     const ctx = C();
+    vert = isVert();
     nodes = ctx.ARTISTS.map((a) => {
       const t = ang(a.family), r = R + (Math.random() - 0.5) * 60;
-      return { id: a.id, a, x: X(a) + (Math.random() - 0.5) * 60, y: Math.cos(t) * r, z: Math.sin(t) * r };
+      return { id: a.id, a, ...P(X(a) + (Math.random() - 0.5) * 60, Math.cos(t) * r, Math.sin(t) * r) };
     });
     byId = Object.fromEntries(nodes.map((n) => [n.id, n]));
     links = [];
@@ -47,12 +52,19 @@
     $("#eralabel").textContent = ctx.DECADES[cutoff];
     $("#era").oninput = () => { stopPlay(); setCutoff(+$("#era").value); };
     $("#playhist").onclick = () => (playing ? stopPlay() : playHistory());
+    const pop = $("#mappop"), fb = $("#mapfilterbtn"), ib = $("#mapinfobtn");
+    const toggle = (btn) => { const on = btn.getAttribute("aria-expanded") !== "true"; fb.setAttribute("aria-expanded", "false"); ib.setAttribute("aria-expanded", "false"); btn.setAttribute("aria-expanded", String(on)); pop.hidden = !on; pop.dataset.mode = btn === fb ? "filter" : "info"; $("#maplede").hidden = btn === fb; $("#mapfilter").hidden = btn !== fb; $("#scenes").hidden = btn !== fb || mode !== "cities"; };
+    fb.onclick = () => toggle(fb); ib.onclick = () => toggle(ib);
+    $("#mapwrap").addEventListener("pointerdown", (e) => { if (!e.target.closest(".map-pop, .map-top")) { pop.hidden = true; fb.setAttribute("aria-expanded", "false"); ib.setAttribute("aria-expanded", "false"); } });
     $("#zin").onclick = () => zoom(0.7); $("#zout").onclick = () => zoom(1.4); $("#zfit").onclick = fit;
     $("#mapfocus").addEventListener("click", (e) => { if (e.target.closest(".x")) { if (mode === "cities") { window.SL_CITIES.clear(); $("#mapfocus").hidden = true; } else select(null); } });
     window.addEventListener("resize", () => { if (isActive) size(); });
+    if (!sessionStorage_get()) { ib.setAttribute("aria-expanded", "true"); }
   }
+  function sessionStorage_get() { try { return sessionStorage.getItem("sl.mapSeen"); } catch { return "1"; } }
   function drawFilter() {
     const ctx = C(), mf = $("#mapfilter");
+    $("#mapfiltern").textContent = hidden.size ? `${ctx.FAMS.length - hidden.size} of ${ctx.FAMS.length}` : "Genres";
     mf.innerHTML = ctx.FAMS.map((f) => `<button data-fam="${f.id}" aria-pressed="${!hidden.has(f.id)}" style="--c:${COL[f.id]}"><span class="dot" style="background:${COL[f.id]}"></span>${esc(f.name)}</button>`).join("")
       + `<span class="legend-ln"><i style="background:${UP}"></i>Influenced by</span><span class="legend-ln"><i style="background:${DOWN}"></i>Influenced</span>`;
     mf.onclick = (e) => {
@@ -75,10 +87,11 @@
   }
   function show() {
     document.querySelectorAll("[data-mapmode]").forEach((b) => b.classList.toggle("on", b.dataset.mapmode === mode));
-    $("#graph3d").hidden = mode !== "3d"; $("#graph").hidden = mode !== "flat"; $("#citymap").hidden = mode !== "cities"; $("#scenes").hidden = mode !== "cities";
+    $("#graph3d").hidden = mode !== "3d"; $("#graph").hidden = mode !== "flat"; $("#citymap").hidden = mode !== "cities"; $("#scenes").hidden = mode !== "cities" || $("#mappop").dataset.mode !== "filter";
     $("#maplede").textContent = mode === "cities"
       ? "Where the music came from. Each dot is a city, sized by how many artists came up there and colored by its main genre. Ringed cities had a scene. Tap a city to see its artists and where its sound spread."
-      : "Time runs left to right, from ragtime to now. Each genre has its own lane around the timeline. Drag to turn it, scroll or pinch to zoom, tap an artist to see their influences flow in and their legacy flow out.";
+      : `Every dot is an artist. Time runs ${isVert() ? "top to bottom" : "left to right"}, from ragtime to now, and each genre has its own lane. Drag to turn, pinch to zoom, and tap an artist to see influences flow in (blue) and their legacy flow out (orange).`;
+    if ($("#mapinfobtn").getAttribute("aria-expanded") === "true") { $("#mappop").hidden = false; $("#mappop").dataset.mode = "info"; $("#mapfilter").hidden = true; $("#maplede").hidden = false; try { sessionStorage.setItem("sl.mapSeen", "1"); } catch { /* fine */ } }
     data();
     if (mode === "3d") { if (!built3) build3(); G3.resumeAnimation(); size(); loop(); focusCard(); }
     else if (mode === "flat") { G3?.pauseAnimation(); cancelAnimationFrame(raf); $("#labels").innerHTML = ""; labelEls = {}; if (!builtF) buildFlat(); size(); F.draw(); focusCard(); }
@@ -89,6 +102,12 @@
   }
   function size() {
     const w = $("#mapwrap").clientWidth, h = $("#mapwrap").clientHeight;
+    if (nodes.length && isVert() !== vert) {
+      vert = isVert();
+      if (G3) { G3.d3ReheatSimulation(); setTimeout(fit, 60); }
+      if (F) { F.relayout(); }
+      if (mode !== "cities") $("#maplede").textContent = $("#maplede").textContent.replace(/top to bottom|left to right/, vert ? "top to bottom" : "left to right");
+    }
     if (G3 && mode === "3d") G3.width(w).height(h);
     if (F && mode === "flat") { F.canvas.width = 0; F.draw(); }
     if (mode === "cities") window.SL_CITIES.resize();
@@ -129,10 +148,11 @@
     let ns = [];
     const lane = (alpha) => {
       for (const n of ns) {
-        const t = ang(n.a.family);
-        n.vx += (X(n.a) - n.x) * 0.35 * alpha;
-        n.vy += (Math.cos(t) * R - n.y) * 0.08 * alpha;
-        n.vz += (Math.sin(t) * R - n.z) * 0.08 * alpha;
+        const t = ang(n.a.family), p = P(X(n.a), Math.cos(t) * R, Math.sin(t) * R);
+        const kx = vert ? 0.08 : 0.35, ky = vert ? 0.35 : 0.08;
+        n.vx += (p.x - n.x) * kx * alpha;
+        n.vy += (p.y - n.y) * ky * alpha;
+        n.vz += (p.z - n.z) * 0.08 * alpha;
       }
     };
     lane.initialize = (x) => { ns = x; };
@@ -140,7 +160,7 @@
     size();
     const d0 = frontDist();
     G3.cameraPosition({ x: -d0 * 0.4, y: d0 * 0.7, z: d0 * 1.9 }, { x: 0, y: 0, z: 0 }, 0);
-    setTimeout(() => { if (!sel) G3.cameraPosition({ x: 0, y: d0 * 0.22, z: d0 }, { x: 0, y: 0, z: 0 }, 1800); }, 120);
+    setTimeout(() => { if (!sel) fit(); }, 120);
     el.addEventListener("mousemove", (e) => { const r = el.getBoundingClientRect(); mouse = [e.clientX - r.left, e.clientY - r.top]; if (hover) tipFor(hover); });
   }
   let mouse = [0, 0];
@@ -192,11 +212,11 @@
     const W = box.clientWidth, H = box.clientHeight;
     const want = new Map();
     // decade markers along the top of the tube, genre names at the start of each lane
-    ctx.DECADES.forEach((d, i) => { if (i <= cutoff) want.set("d:" + d, { x: (i - (ctx.DECADES.length - 1) / 2) * DX, y: R + 95, z: 0, text: d.toUpperCase(), cls: "dec" }); });
-    for (const f of LANES) { if (hidden.has(f) || !ctx.FAM[f]) continue; const t = ang(f); want.set("f:" + f, { x: -((ctx.DECADES.length - 1) / 2) * DX - 70, y: Math.cos(t) * (R + 10), z: Math.sin(t) * (R + 10), text: ctx.FAM[f].short, cls: "dec", color: COL[f] }); }
+    ctx.DECADES.forEach((d, i) => { if (i <= cutoff) want.set("d:" + d, { ...P((i - (ctx.DECADES.length - 1) / 2) * DX, vert ? -(R + 120) : R + 95, 0), text: d.toUpperCase(), cls: "dec" }); });
+    if (!vert) for (const f of LANES) { if (hidden.has(f) || !ctx.FAM[f]) continue; const t = ang(f); want.set("f:" + f, { ...P(-((ctx.DECADES.length - 1) / 2) * DX - 70, Math.cos(t) * (R + 10), Math.sin(t) * (R + 10)), text: ctx.FAM[f].short, cls: "dec", color: COL[f] }); }
     let pick;
     if (sel) pick = [sel, ...US, ...DS];
-    else pick = nodes.filter(vis).sort((a, b) => deg(b.a) - deg(a.a)).slice(0, 70).map((n) => n.id);
+    else pick = nodes.filter(vis).sort((a, b) => deg(b.a) - deg(a.a)).slice(0, $("#mapwrap").clientWidth < 600 ? 40 : 70).map((n) => n.id);
     if (hover && !pick.includes(hover.id)) pick.push(hover.id);
     for (const id of pick) {
       const n = byId[id]; if (!n || !vis(n)) continue;
@@ -229,15 +249,16 @@
   function frontDist() {
     const cam = G3.camera(), el = $("#mapwrap"), aspect = el.clientWidth / Math.max(1, el.clientHeight);
     const t = Math.tan((cam.fov * Math.PI) / 360);
-    const halfW = aspect < 1 ? DX * 3.2 : ((C().DECADES.length - 1) / 2) * DX + 380, halfH = R + 170;
-    return Math.max(halfW / (t * aspect), halfH / t) * 1.02;
+    const timeHalf = ((C().DECADES.length - 1) / 2) * DX, ring = R + 150;
+    const halfW = vert ? ring : timeHalf + 330, halfH = vert ? timeHalf + 230 : ring + 60;
+    return Math.max(halfW / (t * aspect), halfH / t) * 1.04;
   }
+  const home = (d) => (vert ? { x: d * 0.2, y: 0, z: d } : { x: 0, y: d * 0.22, z: d });
+  const homeT = () => (vert ? { x: 0, y: 60, z: 0 } : { x: 0, y: 0, z: 0 });
   function fit() {
     if (mode === "cities") { window.SL_CITIES.fit(); return; }
-    if (mode === "3d" && G3) {
-      const d = frontDist();
-      G3.cameraPosition({ x: 0, y: d * 0.22, z: d }, { x: 0, y: 0, z: 0 }, 900);
-    } else if (F) F.fit();
+    if (mode === "3d" && G3) { const t = homeT(), h = home(frontDist()); G3.cameraPosition({ x: h.x + t.x, y: h.y + t.y, z: h.z }, t, 900); }
+    else if (F) F.fit();
   }
   function zoom(f) {
     if (mode === "cities") { window.SL_CITIES.zoom(f); return; }
@@ -249,14 +270,16 @@
   function flyTo(id) {
     const n = byId[id]; if (!n) return;
     if (mode === "3d" && G3) {
-      const len = Math.hypot(n.y, n.z) || 1, out = 330;
-      G3.cameraPosition({ x: n.x + 60, y: n.y + (n.y / len) * out + 40, z: n.z + (n.z / len) * out + 120 }, { x: n.x, y: n.y, z: n.z }, 1100);
+      const ra = vert ? n.x : n.y, len = Math.hypot(ra, n.z) || 1, out = vert ? 560 : 380;
+      const pos = vert ? { x: n.x + (n.x / len) * out + 40, y: n.y + 60, z: n.z + (n.z / len) * out + 140 } : { x: n.x + 60, y: n.y + (n.y / len) * out + 40, z: n.z + (n.z / len) * out + 140 };
+      G3.cameraPosition(pos, { x: n.x, y: n.y, z: n.z }, 1100);
     } else if (F) F.center(id);
   }
 
   /* ---------- selection ---------- */
   function select(id, fly) {
     sel = id && C().A[id] ? id : null;
+    if (sel) { $("#mappop").hidden = true; $("#mapfilterbtn").setAttribute("aria-expanded", "false"); $("#mapinfobtn").setAttribute("aria-expanded", "false"); }
     if (sel && C().decIdx(C().A[sel].decade) > cutoff) setCutoff(C().DECADES.length - 1);
     if (sel && hidden.has(C().A[sel].family)) { hidden.delete(C().A[sel].family); C().store.set("sl.mapHide", [...hidden]); drawFilter(); }
     refresh();
@@ -271,9 +294,8 @@
     const top = (arr) => ctx.sortRel(arr).slice(0, 4).map((r) => esc(ctx.A[r.id].name)).join(", ");
     box.style.setProperty("--c", COL[a.family]);
     box.innerHTML = `<button class="x" aria-label="Clear selection">×</button>
-      <span class="k">${esc(ctx.FAM[a.family].name)} · ${esc(a.decade)}</span>
-      <h2>${esc(a.name)}</h2>
-      ${a.summary ? `<p>${esc(a.summary)}</p>` : ""}
+      <div class="fh">${ctx.vinyl(a.id)}<div style="min-width:0"><span class="k">${esc(ctx.FAM[a.family].name)} · ${esc(a.decade)}</span><h2>${esc(a.name)}</h2></div></div>
+      ${a.summary && $("#mapwrap").clientWidth >= 600 ? `<p>${esc(a.summary)}</p>` : ""}
       ${ctx.dnaHTML(a.id, true)}
       <div class="cnt"><span class="up">● <b>${a.up.length}</b> shaped them</span><span class="down">● <b>${a.down.length}</b> they shaped</span></div>
       ${a.up.length ? `<p><span class="up">From</span> ${top(a.up)}${a.up.length > 4 ? "…" : ""}</p>` : ""}
@@ -291,38 +313,47 @@
   function playHistory() {
     const big = $("#bigyear"), btn = $("#playhist");
     let i = 0; select(null); setCutoff(0);
-    big.hidden = false; big.textContent = C().DECADES[0]; btn.textContent = "■ Stop";
-    if (mode === "3d" && G3) { const d = frontDist() * 0.75; G3.cameraPosition({ x: -700, y: d * 0.25, z: d }, { x: -700, y: 0, z: 0 }, 1200); }
+    big.hidden = false; big.textContent = C().DECADES[0]; btn.innerHTML = "<span>■ Stop</span>";
+    const start = -((C().DECADES.length - 1) / 2) * DX + 350;
+    const cam = (c, ms) => { const d = frontDist() * 0.62, tgt = P(c, 0, 0), h = home(d); G3.cameraPosition({ x: tgt.x + h.x, y: tgt.y + h.y, z: h.z }, tgt, ms); };
+    if (mode === "3d" && G3) cam(start, 1200);
     playing = setInterval(() => {
       i++;
       if (i >= C().DECADES.length) { stopPlay(); return; }
       setCutoff(i); big.textContent = C().DECADES[i];
-      if (mode === "3d" && G3) { const d = frontDist() * 0.75, cx = Math.min(-700 + i * 110, 0); G3.cameraPosition({ x: cx, y: d * 0.25, z: d }, { x: cx, y: 0, z: 0 }, 1000); }
+      if (mode === "3d" && G3) cam(Math.min(start + i * 110, 0), 1000);
     }, 1100);
   }
   function stopPlay() {
     if (!playing) return;
     clearInterval(playing); playing = null;
-    $("#bigyear").hidden = true; $("#playhist").textContent = "▶ Play history";
+    $("#bigyear").hidden = true; $("#playhist").innerHTML = `<svg><use href="#i-play"/></svg><span>History</span>`;
   }
 
   /* ---------- flat fallback (2D canvas, d3 zoom) ---------- */
   function buildFlat() {
     builtF = true;
     const ctx = C(), canvas = $("#graph"), c2 = canvas.getContext("2d");
-    const W = 2800, H = 1500;
-    const xs = d3.scaleLinear().domain([0, ctx.DECADES.length - 1]).range([-W / 2 + 100, W / 2 - 100]);
-    const ys = d3.scalePoint().domain(LANES).range([-H / 2 + 120, H / 2 - 120]);
-    const fn = nodes.map((n) => ({ id: n.id, a: n.a, r: 2.5 + Math.sqrt(deg(n.a)) * 1.2, x: xs(ctx.decIdx(n.a.decade)), y: ys(n.a.family) }));
+    let W = 2800, H = 1500, xs, ys;
+    const fn = nodes.map((n) => ({ id: n.id, a: n.a, r: 2.5 + Math.sqrt(deg(n.a)) * 1.2, x: 0, y: 0 }));
     const fb = Object.fromEntries(fn.map((n) => [n.id, n]));
     const fl = links.map((l) => ({ source: lid(l.source), target: lid(l.target) }));
-    const sim = d3.forceSimulation(fn)
-      .force("link", d3.forceLink(fl).id((d) => d.id).distance(70).strength(0.03))
-      .force("charge", d3.forceManyBody().strength(-34).distanceMax(220))
-      .force("x", d3.forceX((d) => xs(ctx.decIdx(d.a.decade))).strength(0.4))
-      .force("y", d3.forceY((d) => ys(d.a.family)).strength(0.12))
-      .force("collide", d3.forceCollide((d) => d.r + 2)).stop();
-    for (let i = 0; i < 300; i++) sim.tick();
+    // time on x in landscape, on y in portrait; genre lanes on the other axis
+    function layout() {
+      W = vert ? 1300 : 2800; H = vert ? 2800 : 1500;
+      xs = d3.scaleLinear().domain([0, ctx.DECADES.length - 1]).range(vert ? [-H / 2 + 100, H / 2 - 100] : [-W / 2 + 100, W / 2 - 100]);
+      ys = d3.scalePoint().domain(LANES).range(vert ? [-W / 2 + 80, W / 2 - 80] : [-H / 2 + 120, H / 2 - 120]);
+      const T = (d) => xs(ctx.decIdx(d.a.decade)), L = (d) => ys(d.a.family);
+      for (const n of fn) { n.x = vert ? L(n) : T(n); n.y = vert ? T(n) : L(n); n.vx = n.vy = 0; }
+      const sim = d3.forceSimulation(fn)
+        .force("link", d3.forceLink(fl.map((l) => ({ ...l }))).id((d) => d.id).distance(70).strength(0.03))
+        .force("charge", d3.forceManyBody().strength(-34).distanceMax(220))
+        .force("x", d3.forceX(vert ? L : T).strength(vert ? 0.12 : 0.4))
+        .force("y", d3.forceY(vert ? T : L).strength(vert ? 0.4 : 0.12))
+        .force("collide", d3.forceCollide((d) => d.r + 2)).stop();
+      for (let i = 0; i < 300; i++) sim.tick();
+    }
+    layout();
     F = { canvas, t: d3.zoomIdentity };
     const zoomB = d3.zoom().scaleExtent([0.15, 8]).on("zoom", (e) => { F.t = e.transform; F.draw(); });
     F.zoom = zoomB;
@@ -350,7 +381,7 @@
       c2.setTransform(dpr, 0, 0, dpr, 0, 0); c2.clearRect(0, 0, w, h);
       const t = F.t;
       c2.save(); c2.translate(t.x, t.y); c2.scale(t.k, t.k);
-      ctx.DECADES.forEach((d, i) => { if (i % 2) return; const bw = xs(1) - xs(0); c2.fillStyle = "rgba(255,255,255,0.025)"; c2.fillRect(xs(i) - bw / 2, -H, bw, H * 2); });
+      ctx.DECADES.forEach((d, i) => { if (i % 2) return; const bw = xs(1) - xs(0); c2.fillStyle = "rgba(255,255,255,0.025)"; if (vert) c2.fillRect(-W, xs(i) - bw / 2, W * 2, bw); else c2.fillRect(xs(i) - bw / 2, -H, bw, H * 2); });
       const focus = sel || fh?.id;
       const U = new Set(focus ? ctx.A[focus].up.map((r) => r.id) : []), D = new Set(focus ? ctx.A[focus].down.map((r) => r.id) : []);
       for (const l of fl) {
@@ -378,10 +409,11 @@
       }
       c2.restore();
       c2.globalAlpha = 1; c2.fillStyle = "#8f8da3"; c2.textAlign = "center"; c2.textBaseline = "top"; c2.font = `600 11px "JetBrains Mono", monospace`;
-      ctx.DECADES.forEach((d, i) => { if (i > cutoff) return; const x = t.applyX(xs(i)); if (x > -60 && x < w + 60) c2.fillText(d.toUpperCase(), x, 12); });
+      ctx.DECADES.forEach((d, i) => { if (i > cutoff) return; if (vert) { const y = t.applyY(xs(i)); if (y > -20 && y < h + 20) { c2.textAlign = "left"; c2.fillText(d.toUpperCase(), 10, y - 6); } } else { const x = t.applyX(xs(i)); if (x > -60 && x < w + 60) c2.fillText(d.toUpperCase(), x, 60); } });
       c2.textAlign = "left";
     };
     F.fit = () => { const w = canvas.clientWidth, h = canvas.clientHeight, k = Math.min(w / W, h / H) * 0.94; d3.select(canvas).transition().duration(400).call(zoomB.transform, d3.zoomIdentity.translate(w / 2, h / 2).scale(k)); };
+    F.relayout = () => { layout(); F.fit(); };
     F.center = (id) => { const n = fb[id]; if (!n) return; const w = canvas.clientWidth, h = canvas.clientHeight, k = Math.max(F.t.k, 1.1); d3.select(canvas).transition().duration(500).call(zoomB.transform, d3.zoomIdentity.translate(w / 2 - n.x * k, h / 2 - n.y * k).scale(k)); };
     size(); F.fit();
   }

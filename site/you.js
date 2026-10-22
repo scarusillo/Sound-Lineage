@@ -130,63 +130,6 @@
     return { id: r.id, why: r.why[0] };
   }
 
-  /* ---------- weekly lineage mix (same rules as scripts/weekly_mix.py) ---------- */
-  function isoWeek(d = new Date()) {
-    const t = new Date(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()));
-    const day = t.getUTCDay() || 7; t.setUTCDate(t.getUTCDate() + 4 - day);
-    const y = t.getUTCFullYear(), wk = Math.ceil(((t - Date.UTC(y, 0, 1)) / 864e5 + 1) / 7);
-    return `${y}-W${String(wk).padStart(2, "0")}`;
-  }
-  function rng(seed) { let s = [...seed].reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7); return () => ((s = (s * 1664525 + 1013904223) >>> 0) / 4294967296); }
-  function weeklyMix(ids) {
-    const ctx = C(), A = ctx.A;
-    if (!ids.length) return null;
-    const week = isoWeek(), R = rng(week + "|" + [...ids].sort().join(","));
-    const have = new Set(ids), used = new Set();
-    const song = (i) => (A[i].songs || [])[0] || "";
-    const artistOnly = (i) => !A[i].role;
-    const pool = (kind) => {
-      const agg = {};
-      ids.forEach((m, rank) => {
-        const w = Math.max(1, 30 - rank), me = A[m];
-        const add = (i, sc, why) => { if (!agg[i] || sc > agg[i][0]) agg[i] = [sc + (agg[i]?.[0] || 0) * 0.5, why]; };
-        if (kind === "root") for (const e of me.up) { if (!have.has(e.id) && artistOnly(e.id)) add(e.id, w * e.s, `${A[e.id].name} shaped ${me.name}`); }
-        if (kind === "heir" || kind === "deep") for (const e of me.down) {
-          const a = A[e.id]; if (have.has(e.id) || !artistOnly(e.id)) continue;
-          if (kind === "deep" && (!["2000s", "2010s", "2020s"].includes(a.decade) || a.down.length > 3)) continue;
-          add(e.id, w * e.s, `${me.name} shaped them`);
-        }
-        if (kind === "cousin") for (const c of me.cousins || []) { if (A[c.id] && !have.has(c.id)) add(c.id, w * 2, `the ${ctx.FAM[A[c.id].family].short.toLowerCase()} cousin of ${me.name}`); }
-      });
-      let ranked = Object.entries(agg).sort((a, b) => b[1][0] - a[1][0]).slice(0, 25);
-      for (let i = ranked.length - 1; i > 0; i--) { const j = Math.floor(R() * (i + 1)); [ranked[i], ranked[j]] = [ranked[j], ranked[i]]; }
-      return ranked.slice(0, 12).sort((a, b) => b[1][0] - a[1][0]).map(([i, [, why]]) => [i, why]);
-    };
-    const picks = [];
-    for (const [kind, n] of [["root", 3], ["heir", 4], ["deep", 2], ["cousin", 2]]) {
-      let got = 0;
-      for (const [i, why] of pool(kind)) { if (got >= n) break; if (used.has(i) || !song(i)) continue; used.add(i); got++; picks.push({ id: i, song: song(i), kind, because: why }); }
-    }
-    const [y, w] = week.split("-W").map(Number);
-    const jan4 = new Date(Date.UTC(y, 0, 4)), monday = new Date(jan4); monday.setUTCDate(jan4.getUTCDate() - ((jan4.getUTCDay() || 7) - 1) + (w - 1) * 7);
-    return { week, title: `Lineage Mix · ${monday.toLocaleDateString(undefined, { month: "short", day: "numeric", timeZone: "UTC" })}`, picks };
-  }
-  function mixHTML(ids, compact) {
-    const ctx = C(), A = ctx.A, mix = weeklyMix(ids);
-    if (!mix || mix.picks.length < 4) return "";
-    const LBL = { root: "Where it came from", heir: "Where it went", deep: "Deep cuts", cousin: "Across genres" };
-    const songs = mix.picks.map((p) => `${p.song} by ${A[p.id].name}`);
-    const text = `${mix.title}\n\n${mix.picks.map((p) => `${p.song} - ${A[p.id].name}`).join("\n")}`;
-    if (compact) return `<button class="pick you" data-go="you" style="--c:var(--hot)"><span class="lbl">This week's Lineage Mix</span><b>${esc(mix.title)}</b><span class="d">${mix.picks.length} songs: ${esc(mix.picks.slice(0, 4).map((p) => A[p.id].name).join(", "))} and more. Built from your artists, one generation back and forward.</span></button>`;
-    let last = "";
-    return `<section class="sec mix" data-spotbox>
-      <div class="sec-h"><h2>${esc(mix.title)}</h2><span class="qmeta">A new mix every Monday, built from your artists</span></div>
-      <ol class="mixlist">${mix.picks.map((p, i) => { const head = p.kind !== last ? `<li class="mixh">${LBL[p.kind]}</li>` : ""; last = p.kind; return `${head}<li><span class="n mono">${String(i + 1).padStart(2, "0")}</span><span><b>${esc(p.song)}</b> · <button class="lnk" data-open="${p.id}">${esc(A[p.id].name)}</button><br><span class="qmeta" style="font-size:.8rem">${esc(p.because)}</span></span><a class="ghost small" target="_blank" rel="noopener" href="https://open.spotify.com/search/${enc(p.song + " " + A[p.id].name)}">▶</a></li>`; }).join("")}</ol>
-      <div class="gbtns">${window.SL_SPOT.saveBtn(`data-spotsave="" data-title="${esc(mix.title)}" data-songs="${esc(JSON.stringify(songs))}"`)}<button class="ghost small" data-copymix="${esc(text)}">Copy as text</button><span data-spotout class="qmeta"></span></div>
-      <textarea class="copybox" id="mixbox" hidden aria-label="Mix as text"></textarea>
-    </section>`;
-  }
-
   /* ---------- view ---------- */
   function render(root) {
     const ctx = C(), A = ctx.A, L = lib(), ids = yourIds(L);
@@ -203,9 +146,10 @@
     const where = city || "me";
     const g = (q) => `https://www.google.com/maps/search/${enc(q)}`;
     const smaller = recs.filter((r) => ["2010s", "2020s"].includes(A[r.id].decade) && A[r.id].down.length <= 3).slice(0, 8);
-    const recRow = (r) => `<li><button data-open="${r.id}" ${ctx.famStyle(A[r.id].family)}><span class="dot"></span><b>${esc(A[r.id].name)}</b><span class="r">${A[r.id].decade}</span><span class="s">${esc(r.why.slice(0, 2).join("; "))}</span></button></li>`;
+    const recRow = (r) => `<li><button class="lrow wrap" data-open="${r.id}">${ctx.vinyl(r.id)}<span style="min-width:0"><span class="t">${esc(A[r.id].name)}</span><span class="s">${esc(r.why.slice(0, 2).join("; "))}</span></span><span class="r">${A[r.id].decade}</span></button></li>`;
     root.innerHTML = `<div class="you">
-      <div><h1>For You</h1><p class="lede">Sync your Spotify or bring in what you already listen to and the whole app starts working for you: picks on Today, your roots, where to go next and who's playing nearby. Your files are read in this browser and never uploaded.</p></div>
+      <div class="screen-h"><h1>You</h1><p class="lede">Sync Spotify or bring in what you already listen to, and the whole app starts working for you: picks on Home, your weekly mix, your roots, and who's playing nearby. Your files are read in this browser and never uploaded.</p></div>
+      ${ids.length >= 3 ? window.SL_SHARE.tasteCardHTML(ids) : ""}
 
       <section class="connectors">
         <div class="conn drop" id="drop">
@@ -229,7 +173,7 @@
       </section>
       ${L?.example ? `<p class="notice">Showing an example listener, not your data. Import your own files to replace it.</p>` : ""}
 
-      ${ids.length ? mixHTML(ids) : ""}
+      ${ids.length ? window.SL_MIX.cardHTML() : ""}
       ${ids.length ? `<section class="twocol">
         <div class="sec">
           <div class="sec-h"><h2>Your top artists</h2>${L ? `<span class="qmeta">${L.plays ? `${L.plays.toLocaleString()} plays` : ""}${L.plays && L.liked ? " · " : ""}${L.liked ? `${L.liked.toLocaleString()} liked songs` : ""}</span>` : ""}</div>
@@ -245,8 +189,8 @@
         </div>
       </section>
       <section class="twocol">
-        <div class="sec"><div class="sec-h"><h2>Where to go next</h2><span class="qmeta">ranked by how many of your artists point there</span></div><ul class="recs">${recs.slice(0, 12).map(recRow).join("")}</ul></div>
-        <div class="sec"><div class="sec-h"><h2>Outside your lane</h2><span class="qmeta">same spirit, different genre</span></div><ul class="recs">${crossRecs.slice(0, 12).map(recRow).join("") || `<li class="qmeta" style="padding:10px 0">Add a few more artists to see cross-genre picks.</li>`}</ul></div>
+        <div class="sec"><div class="sec-h"><h2>Where to go next</h2><span class="qmeta">ranked by how many of your artists point there</span></div><ul class="lg">${recs.slice(0, 12).map(recRow).join("")}</ul></div>
+        <div class="sec"><div class="sec-h"><h2>Outside your lane</h2><span class="qmeta">same spirit, different genre</span></div><ul class="lg">${crossRecs.slice(0, 12).map(recRow).join("") || `<li class="qmeta" style="padding:12px 14px">Add a few more artists to see cross-genre picks.</li>`}</ul></div>
       </section>` : ""}
 
       <section class="sec">
@@ -277,12 +221,12 @@
     fr.onclick = (e) => { const b = e.target.closest("button[data-id]"); if (b) { if (!isFav(b.dataset.id)) toggleFav(b.dataset.id); render(root); } };
     $("#cityform", root).onsubmit = (e) => { e.preventDefault(); ctx.store.set("sl.city", $("#city", root).value.trim()); render(root); };
     root.onclick = (e) => {
-      const cm = e.target.closest("[data-copymix]"); if (cm) { ctx.copyText(cm.dataset.copymix.replace(/\\n/g, "\n"), cm, $("#mixbox", root)); return; }
       const uf = e.target.closest("[data-unfav]"); if (uf) { toggleFav(uf.dataset.unfav); render(root); return; }
       if (e.target.closest("[data-example]")) { ctx.store.set("sl.lib", EXAMPLE); render(root); return; }
       if (e.target.closest("[data-clearlib]")) { ctx.store.del("sl.lib"); render(root); }
     };
   }
 
-  window.SL_YOU = { render, isFav, toggleFav, personalPick, matchId, mixHTML: (compact) => mixHTML(yourIds(), compact) };
+  function useExample() { C().store.set("sl.lib", EXAMPLE); }
+  window.SL_YOU = { render, isFav, toggleFav, personalPick, matchId, yourIds: () => yourIds(), recommend, useExample };
 })();

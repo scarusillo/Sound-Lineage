@@ -49,7 +49,7 @@
   }
 
   function nodeBtn(k, id, rel, extra = "") {
-    return `<button class="nd ${rel === "gup" || rel === "gdown" ? "gp" : ""}" data-nid="${id}" data-rel="${rel}" ${C().famStyle(famOf(k, id))}><span class="dot"></span><span class="t">${esc(nameOf(k, id))}</span><small>${esc(sub(k, id))}</small>${extra}</button>`;
+    return `<button class="nd ${rel === "gup" || rel === "gdown" ? "gp" : ""}" data-nid="${id}" data-rel="${rel}" ${C().famStyle(famOf(k, id))}>${k === "artist" ? C().vinyl(id) : `<span class="vinyl" style="--c:var(--f-${famOf(k, id)})"></span>`}<span class="t">${esc(nameOf(k, id))}</span><small>${esc(sub(k, id))}</small>${extra}</button>`;
   }
 
   let ro = null, pendingTouch = false, selected = null;
@@ -67,23 +67,23 @@
     const fam = famOf(k, x.id);
     let centerHTML;
     if (k === "artist") {
-      centerHTML = `<div class="k"><span class="dot" style="background:var(--c)"></span>${x.role ? `<span class="role">${x.role === "producer" ? "Producer" : "Session players"}</span>` : ""}${esc(ctx.FAM[x.family].name)} · ${esc(x.decade)}</div>
-        <h2>${esc(x.name)}</h2>
+      centerHTML = `<div class="ch">${ctx.vinyl(x.id)}<div style="min-width:0"><div class="k">${x.role ? `<span class="role">${x.role === "producer" ? "PRODUCER" : "SESSION"}</span>` : ""}${esc(ctx.FAM[x.family].name)} · ${esc(x.decade)}</div>
+        <h2>${esc(x.name)}</h2></div></div>
         <div class="meta">${x.years ? `<span class="tag mono">${esc(x.years)}</span>` : ""}${x.origin ? `<span class="tag">${esc(x.origin)}</span>` : ""}${(x.genres || []).slice(0, 2).map((g) => `<span class="tag">${esc(g)}</span>`).join("")}</div>
         ${x.summary ? `<p>${esc(x.summary)}</p>` : ""}
         ${ctx.dnaHTML(x.id)}
-        <div class="gbtns"><button class="solid" data-open="${x.id}">Profile</button>${ctx.listenLinks(x.name)}</div>`;
+        <div class="gbtns"><button class="solid" data-open="${x.id}">Profile</button><a class="spot-btn" target="_blank" rel="noopener" href="https://open.spotify.com/search/${ctx.enc(x.name)}"><span class="sp" aria-hidden="true"></span>Play</a><button class="ghost" data-sharetree="${x.id}"><svg><use href="#i-share"/></svg>Share</button></div>`;
     } else if (k === "album") {
       const a = ctx.A[x.artist];
-      centerHTML = `<div class="k"><span class="dot" style="background:var(--c)"></span>Album · ${esc(x.sub)}</div>
-        <h2>${esc(x.title)}</h2>
+      centerHTML = `<div class="ch">${ctx.sleeve(x)}<div style="min-width:0"><div class="k">Album · ${esc(x.sub)}</div>
+        <h2>${esc(x.title)}</h2></div></div>
         <div class="meta">${a ? ctx.chip(a.id) : ""}<span class="tag mono">${x.released ? new Date(x.released + "T12:00").toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" }) : x.year}</span></div>
         ${x.summary ? `<p>${esc(x.summary)}</p>` : ""}
         ${ctx.listenLinks(`${x.title} ${a?.name || ""}`)}`;
     } else {
       const a = ctx.A[x.artist];
-      centerHTML = `<div class="k"><span class="dot" style="background:var(--c)"></span>Song · ${x.year}</div>
-        <h2>${esc(x.title)}</h2>
+      centerHTML = `<div class="ch">${ctx.sleeve(x, "song")}<div style="min-width:0"><div class="k">Song · ${x.year}</div>
+        <h2>${esc(x.title)}</h2></div></div>
         <div class="meta">${a ? ctx.chip(a.id) : `<span class="tag">${esc(x.artistName || "")}</span>`}</div>
         ${ctx.listenLinks(`${x.title} ${x.artistName || a?.name || ""}`)}`;
     }
@@ -94,8 +94,8 @@
     const starters = k !== "artist" ? [...list(k)].sort((a, b) => (b.up.length + b.down.length) - (a.up.length + a.down.length)).slice(0, 14) : [];
     root.innerHTML = `
       <div class="tree-top">
-        <div><h1>Family tree</h1><p class="lede">${k === "artist" ? "What shaped them on the left, who they shaped on the right, two generations deep. Hover a name to see why. Click it to move the tree." : k === "album" ? "Landmark albums and the records they led to. Click any album to move the tree." : "Where a song came from and who sampled, replayed or reworked it. Click any song to move the tree."}</p></div>
-        <div class="gbtns">
+        <div class="screen-h"><h1>Lineage</h1><p class="lede">${k === "artist" ? (wide ? "What shaped them on the left, who they shaped on the right. Hover a name to see why; click it to move the tree." : "Who shaped them, and who they shaped. Tap a name to see why, tap again to move the tree.") : k === "album" ? "Landmark albums and the records they led to. Tap any album to move the tree." : "Where a song came from and who sampled, replayed or reworked it. Tap any song to move the tree."}</p></div>
+        <div class="tree-ctl">
           <div class="seg" role="group" aria-label="Tree type">${Object.entries(KIND).map(([kk, v]) => `<button data-kind="${kk}" class="${kk === k ? "on" : ""}">${v.label}</button>`).join("")}</div>
           ${wide ? `<div class="seg" role="group" aria-label="Generations"><button data-gen="1" class="${gen === 1 ? "on" : ""}">1 generation</button><button data-gen="2" class="${gen === 2 ? "on" : ""}">2 generations</button></div>` : ""}
         </div>
@@ -107,7 +107,7 @@
         ${gen === 2 ? col("left up gp-col", K.gup, gups, "gup") : ""}
         ${col("left up", K.up, upShown, "up", `${k}:${x.id}:u`, ups.length)}
         <div class="center" ${ctx.famStyle(fam)} id="center">${centerHTML}
-          <div class="why-bar" id="whybar"><span>${k === "artist" ? "Hover any name to see why it's connected." : "Hover any name to see how it's connected."}</span></div>
+          <div class="why-bar" id="whybar"><span>${k === "artist" ? (wide ? "Hover any name to see why it's connected." : "Tap any name to see why it's connected.") : (wide ? "Hover any name to see how it's connected." : "Tap any name to see how it's connected.")}</span></div>
         </div>
         ${col("right down", KD, downShown, "down", `${k}:${x.id}:d`, downs.length)}
         ${gen === 2 ? col("right down gp-col", K.gdown, gdowns, "gdown") : ""}
@@ -186,6 +186,7 @@
       const cr = e.target.closest("[data-crumb]"); if (cr) { nav(cr.dataset.crumb); return; }
       const nv = e.target.closest("[data-nav]"); if (nv) { nav(nv.dataset.nav); return; }
       const mo = e.target.closest("[data-more2]"); if (mo) { const mm = ctx.store.get("sl.treeMore2", {}); mm[mo.dataset.more2] = !mm[mo.dataset.more2]; ctx.store.set("sl.treeMore2", mm); render(root); return; }
+      const sh = e.target.closest("[data-sharetree]"); if (sh) { window.SL_SHARE.artist(sh.dataset.sharetree); return; }
       const ch = e.target.closest(".chip[data-id]");
       if (ch && ch.closest(".center")) { ctx.openArtist(ch.dataset.id); return; }
       if (e.target.closest("[data-copy]")) { const ids = JSON.parse(e.target.closest("[data-copy]").dataset.copy); ctx.copyText(ctx.playlistText(ids, e.target.closest("[data-copy]").dataset.title), e.target.closest("[data-copy]"), $("#copybox", root)); return; }

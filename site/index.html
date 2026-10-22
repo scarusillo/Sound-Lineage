@@ -3,61 +3,99 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="description" content="A music family tree from 1900 to now: who influenced whom, album lineages, sample trails, music scenes and daily picks.">
+<meta name="description" content="A music family tree from 1900 to now: who influenced whom, album lineages, sample trails, music scenes, a weekly Lineage Mix and daily picks.">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <title>Sound Lineage</title>
 <meta name="claude:viewport-fit-sides" content="cover">
+<meta name="theme-color" content="#0c0c11">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Instrument+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap">
 <link rel="stylesheet" href="app.css">
 </head>
 <body>
 
-<header class="bar">
-  <div class="bar-inner">
-    <a class="brand" href="#today" aria-label="Sound Lineage home">
-      <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="none" stroke="currentColor" stroke-width="1.6"/><circle cx="12" cy="12" r="6.5" fill="none" stroke="currentColor" stroke-width=".8" opacity=".5"/><circle cx="12" cy="12" r="2.2" fill="currentColor"/></svg>
-      <span>Sound Lineage</span>
-    </a>
-    <nav class="tabs" aria-label="Views">
-      <a href="#today" data-view="today">Today</a>
-      <a href="#map" data-view="map">Map</a>
-      <a href="#tree" data-view="tree">Tree</a>
-      <a href="#journeys" data-view="journeys">Journeys</a>
-      <a href="#play" data-view="play">Play</a>
-      <a href="#browse" data-view="browse">Browse</a>
-      <a href="#you" data-view="you">For You</a>
-    </nav>
-    <label class="search">
-      <span class="sr">Find an artist, album or song</span>
-      <input id="q" type="search" placeholder="Find an artist, album or song…" autocomplete="off">
-      <div id="qres" class="qres" hidden></div>
-    </label>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="i-home" viewBox="0 0 24 24"><path d="M4 10.5 12 4l8 6.5V20a1 1 0 0 1-1 1h-4.5v-6h-5v6H5a1 1 0 0 1-1-1z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></symbol>
+  <symbol id="i-map" viewBox="0 0 24 24"><circle cx="6" cy="7" r="2.2" fill="currentColor"/><circle cx="18" cy="6" r="1.6" fill="currentColor"/><circle cx="12" cy="13" r="2.6" fill="currentColor"/><circle cx="5" cy="18" r="1.5" fill="currentColor"/><circle cx="18.5" cy="17.5" r="2" fill="currentColor"/><path d="M6 7l6 6 6-7M12 13l-7 5M12 13l6.5 4.5" fill="none" stroke="currentColor" stroke-width="1.2" opacity=".6"/></symbol>
+  <symbol id="i-tree" viewBox="0 0 24 24"><rect x="9" y="3" width="6" height="4.5" rx="1.4" fill="none" stroke="currentColor" stroke-width="1.8"/><rect x="3" y="16.5" width="6" height="4.5" rx="1.4" fill="none" stroke="currentColor" stroke-width="1.8"/><rect x="15" y="16.5" width="6" height="4.5" rx="1.4" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 7.5v4.5M6 16.5v-2.5h12v2.5" fill="none" stroke="currentColor" stroke-width="1.8"/></symbol>
+  <symbol id="i-mix" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><circle cx="12" cy="12" r="5" fill="none" stroke="currentColor" stroke-width="1" opacity=".55"/><circle cx="12" cy="12" r="1.8" fill="currentColor"/></symbol>
+  <symbol id="i-you" viewBox="0 0 24 24"><circle cx="12" cy="8.5" r="3.8" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M4.5 20.5c1.3-3.8 4.3-5.6 7.5-5.6s6.2 1.8 7.5 5.6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+  <symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="m15.5 15.5 5 5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></symbol>
+  <symbol id="i-back" viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="i-share" viewBox="0 0 24 24"><path d="M12 3v12M7.5 7.5 12 3l4.5 4.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M5 12v7a1.5 1.5 0 0 0 1.5 1.5h11A1.5 1.5 0 0 0 19 19v-7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></symbol>
+  <symbol id="i-play" viewBox="0 0 24 24"><path d="M8 5.5v13l10.5-6.5z" fill="currentColor"/></symbol>
+  <symbol id="i-close" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6 6 18" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></symbol>
+  <symbol id="i-filter" viewBox="0 0 24 24"><path d="M4 6h16M7 12h10M10 18h4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></symbol>
+  <symbol id="i-games" viewBox="0 0 24 24"><rect x="3" y="7" width="18" height="11" rx="4" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M8 10.5v4M6 12.5h4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="15.5" cy="11.5" r="1.1" fill="currentColor"/><circle cx="17.5" cy="14" r="1.1" fill="currentColor"/></symbol>
+  <symbol id="i-route" viewBox="0 0 24 24"><circle cx="6" cy="18" r="2.3" fill="none" stroke="currentColor" stroke-width="1.8"/><circle cx="18" cy="6" r="2.3" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M8 18h6.5a3.5 3.5 0 0 0 0-7h-5a3.5 3.5 0 0 1 0-7H16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+  <symbol id="i-dial" viewBox="0 0 24 24"><path d="M4 18a8 8 0 1 1 16 0" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><path d="M12 18l4-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></symbol>
+  <symbol id="i-credits" viewBox="0 0 24 24"><path d="M5 4h14v16H5z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M8.5 8.5h7M8.5 12h7M8.5 15.5h4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+  <symbol id="i-grid" viewBox="0 0 24 24"><rect x="4" y="4" width="6.5" height="6.5" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.8"/><rect x="13.5" y="4" width="6.5" height="6.5" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.8"/><rect x="4" y="13.5" width="6.5" height="6.5" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.8"/><rect x="13.5" y="13.5" width="6.5" height="6.5" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.8"/></symbol>
+  <symbol id="i-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 11v6M12 7.5v.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></symbol>
+</svg>
+
+<header class="appbar" id="appbar">
+  <button class="ibtn appback" id="appback" aria-label="Back" hidden><svg><use href="#i-back"/></svg></button>
+  <a class="brand" href="#today" aria-label="Sound Lineage home">
+    <span class="mark" aria-hidden="true"></span>
+    <span class="brand-t" id="apptitle">Sound Lineage</span>
+  </a>
+  <div class="search" id="searchwrap">
+    <svg class="sicon" aria-hidden="true"><use href="#i-search"/></svg>
+    <label for="q" class="sr">Search artists, albums and songs</label>
+    <input id="q" type="search" placeholder="Artists, albums, songs" autocomplete="off" enterkeyhint="search">
+    <button class="ibtn scancel" id="scancel" aria-label="Close search"><svg><use href="#i-close"/></svg></button>
+    <div id="qres" class="qres" hidden></div>
   </div>
+  <button class="ibtn sopen" id="sopen" aria-label="Search"><svg><use href="#i-search"/></svg></button>
 </header>
 
-<main>
+<nav class="rail" aria-label="Main">
+  <a class="brand" href="#today" aria-label="Sound Lineage home"><span class="mark" aria-hidden="true"></span><span class="brand-t">Sound Lineage</span></a>
+  <div class="rail-nav">
+    <a href="#today" data-view="today"><svg><use href="#i-home"/></svg>Home</a>
+    <a href="#map" data-view="map"><svg><use href="#i-map"/></svg>Map</a>
+    <a href="#tree" data-view="tree"><svg><use href="#i-tree"/></svg>Lineage</a>
+    <a href="#mix" data-view="mix"><svg><use href="#i-mix"/></svg>Mix</a>
+    <a href="#you" data-view="you"><svg><use href="#i-you"/></svg>You</a>
+  </div>
+  <div class="rail-h">Explore</div>
+  <div class="rail-nav small">
+    <a href="#browse" data-view="browse"><svg><use href="#i-grid"/></svg>Browse</a>
+    <a href="#credits" data-view="credits"><svg><use href="#i-credits"/></svg>Behind the music</a>
+    <a href="#journeys" data-view="journeys"><svg><use href="#i-route"/></svg>Journeys</a>
+    <a href="#play" data-view="play"><svg><use href="#i-games"/></svg>Games</a>
+  </div>
+  <p class="rail-foot">Influence links come from interviews, biographies and music histories. Every pick is human-curated.</p>
+</nav>
+
+<main id="main">
   <section id="view-today" class="view"></section>
-  <section id="view-map" class="view" hidden>
-    <div class="map-head">
-      <div>
-        <h1>A century of music, and who shaped whom</h1>
-        <p class="lede" id="maplede">Time runs left to right, from ragtime to now. Each genre has its own lane around the timeline. Drag to turn it, scroll or pinch to zoom, tap an artist to see their influences flow in and their legacy flow out.</p>
-      </div>
-      <div class="seg" role="group" aria-label="Map style"><button data-mapmode="3d">3D</button><button data-mapmode="flat">Flat</button><button data-mapmode="cities">Cities</button></div>
-    </div>
+  <section id="view-map" class="view mapview" hidden>
     <div class="map-wrap" id="mapwrap">
       <div id="graph3d" class="g3d" hidden></div>
       <canvas id="graph" aria-label="Network map of musical influence" hidden></canvas>
       <canvas id="citymap" aria-label="World map of music cities" hidden></canvas>
       <p class="citynote" id="citynote" hidden></p>
       <div id="labels" class="labels" aria-hidden="true"></div>
+      <div class="map-top">
+        <div class="seg dark" role="group" aria-label="Map style"><button data-mapmode="3d">3D</button><button data-mapmode="flat">Flat</button><button data-mapmode="cities">Cities</button></div>
+        <button class="mbtn" id="mapfilterbtn" aria-label="Filter genres" aria-expanded="false"><svg><use href="#i-filter"/></svg><span id="mapfiltern">Genres</span></button>
+        <button class="mbtn" id="mapinfobtn" aria-label="How to read the map" aria-expanded="false"><svg><use href="#i-info"/></svg></button>
+      </div>
+      <div class="map-pop" id="mappop" hidden>
+        <p class="map-lede" id="maplede"></p>
+        <div class="map-filter" id="mapfilter" role="group" aria-label="Show genres"></div>
+        <div class="map-filter scenes" id="scenes" role="group" aria-label="Music scenes" hidden></div>
+      </div>
       <div class="map-tools">
         <button id="zin" aria-label="Zoom in">+</button>
         <button id="zout" aria-label="Zoom out">−</button>
         <button id="zfit" aria-label="Fit map">Fit</button>
       </div>
       <div class="map-hud" id="hud">
-        <button class="hud-play" id="playhist" aria-label="Play the history of music">▶ Play history</button>
+        <button class="hud-play" id="playhist" aria-label="Play the history of music"><svg><use href="#i-play"/></svg><span>History</span></button>
         <input id="era" type="range" min="0" max="12" value="12" aria-label="Show artists up to this decade">
         <span id="eralabel" class="mono">2020s</span>
       </div>
@@ -65,24 +103,35 @@
       <div id="tip" class="tip" hidden></div>
       <div class="bigyear mono" id="bigyear" hidden></div>
     </div>
-    <div class="map-filter" id="mapfilter" role="group" aria-label="Show genres"></div>
-    <div class="map-filter scenes" id="scenes" role="group" aria-label="Music scenes" hidden></div>
   </section>
   <section id="view-tree" class="view" hidden></section>
+  <section id="view-mix" class="view" hidden></section>
   <section id="view-journeys" class="view" hidden></section>
   <section id="view-play" class="view" hidden></section>
   <section id="view-browse" class="view" hidden></section>
+  <section id="view-credits" class="view" hidden></section>
+  <section id="view-compare" class="view" hidden></section>
   <section id="view-you" class="view" hidden></section>
 </main>
 
-<aside id="panel" class="panel" hidden aria-live="polite">
-  <button class="close" id="pclose" aria-label="Close">×</button>
+<nav class="tabbar" aria-label="Main">
+  <a href="#today" data-view="today"><svg><use href="#i-home"/></svg><span>Home</span></a>
+  <a href="#map" data-view="map"><svg><use href="#i-map"/></svg><span>Map</span></a>
+  <a href="#tree" data-view="tree"><svg><use href="#i-tree"/></svg><span>Lineage</span></a>
+  <a href="#mix" data-view="mix"><svg><use href="#i-mix"/></svg><span>Mix</span></a>
+  <a href="#you" data-view="you"><svg><use href="#i-you"/></svg><span>You</span></a>
+</nav>
+
+<div class="scrim" id="scrim" hidden></div>
+<aside id="panel" class="sheet" hidden aria-live="polite" aria-label="Artist">
+  <div class="sheet-bar"><span class="grab" aria-hidden="true"></span><button class="ibtn" id="pshare" aria-label="Share"><svg><use href="#i-share"/></svg></button><button class="ibtn" id="pclose" aria-label="Close"><svg><use href="#i-close"/></svg></button></div>
   <div id="pbody"></div>
 </aside>
-
-<footer class="foot">
-  Influence links are curated from artist interviews, biographies and music histories, and graded by how direct they are. Listening links open Spotify, Apple Music or YouTube. Spot a wrong or missing link? Open any artist and send a correction.
-</footer>
+<aside id="sharesheet" class="sheet share" hidden aria-label="Share">
+  <div class="sheet-bar"><span class="grab" aria-hidden="true"></span><b class="sheet-t">Share</b><button class="ibtn" data-closeshare aria-label="Close"><svg><use href="#i-close"/></svg></button></div>
+  <div id="sharebody"></div>
+</aside>
+<div class="toast" id="toast" role="status" hidden></div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/3d-force-graph@1.80.0/dist/3d-force-graph.min.js"></script>
@@ -91,6 +140,8 @@
 <script src="today.js"></script>
 <script src="spotify.js"></script>
 <script src="you.js"></script>
+<script src="mix.js"></script>
+<script src="share.js"></script>
 <script src="tree.js"></script>
 <script src="cities.js"></script>
 <script src="map.js"></script>

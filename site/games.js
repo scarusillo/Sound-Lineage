@@ -21,13 +21,13 @@
     for (; days[keyOf(d)]?.done; d.setDate(d.getDate() - 1)) n++;
     return n;
   }
-  const head = (title, id) => `<div class="ghead"><button class="back" data-go="play">‹ Games</button><h1>${title}</h1><span class="qmeta">${streak(id)} day streak</span></div>`;
+  const head = (title, id) => `<div class="ghead"><button class="back" data-go="play">Games</button><h1>${title}</h1><span class="qmeta">${streak(id)} day streak</span></div>`;
 
   /* ---------- hub ---------- */
   function hub(root) {
     const ctx = C(), b = ctx.badges();
-    root.innerHTML = `<div class="hub"><div class="ghead"><h1>Play</h1></div>
-      <p class="lede">New puzzles every day, built from the same influence map. Everyone gets the same puzzle on the same day.</p>
+    root.innerHTML = `<div class="hub"><div class="screen-h"><h1>Daily games</h1>
+      <p class="lede">New puzzles every day, built from the same influence map. Everyone gets the same puzzle on the same day.</p></div>
       <div class="gcards">${GAMES.map((g) => `<button class="gcard" data-go="${g.id}"><span class="gname">${g.name}</span><span class="gdesc">${g.desc}</span><span class="gstat">${playedToday(g.id) ? "✓ Played today" : "Play today's"}${streak(g.id) ? ` · ${streak(g.id)} day streak` : ""}</span></button>`).join("")}</div>
       <h2>Your record</h2>
       <p class="qmeta">You have opened ${ctx.explored()} of ${ctx.ARTISTS.length} artists.</p>
