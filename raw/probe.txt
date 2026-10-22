@@ -1,0 +1,143 @@
+== https://itunes.apple.com/search?term=led+zeppelin+kashmir&entity=song&limit=2
+HTTP/2 200 
+server: daiquiri/5
+content-type: text/javascript; charset=utf-8
+x-apple-jingle-correlation-key: 6N4VS5EWGEVCSWFMPEXRTXSN2I
+x-apple-request-uuid: f3795974-9631-2a29-58ac-792f19de4dd2
+x-apple-translated-wo-url: /WebObjects/MZStoreServices.woa/ws/wsSearch?term=led+zeppelin+kashmir&entity=song&limit=2&urlDesc=
+apple-tk: false
+x-b3-spanid: 97dac3eddb1c4443
+b3: f379597496312a2958ac792f19de4dd2-97dac3eddb1c4443
+content-disposition: attachment; filename=1.txt
+x-b3-traceid: f379597496312a2958ac792f19de4dd2
+x-content-type-options: nosniff
+x-webobjects-loadaverage: 0
+x-responding-instance: MZStoreServices:6501064:::
+apple-seq: 0.0
+access-control-allow-origin: *
+apple-originating-system: MZStoreServices
+strict-transport-security: max-age=31536000; includeSubDomains
+x-apple-orig-url: https://mzstoreservices-mr.itunes.apple.com/search?term=led+zeppelin+kashmir&entity=song&limit=2
+x-apple-application-site: MR22
+apple-timing-app: 83 ms
+x-apple-application-instance: 6501064
+x-daiquiri-instance: daiquiri:17317001:mr85p00it-hyhk03124901:7987:26HOTFIX47:daiquiri-amp-store-shared-int-001-mr
+x-daiquiri-debug-worker-pid: 53510
+x-daiquiri-instance: daiquiri:12282003:mr47p00it-qujn03120502:7987:26HOTFIX47:daiquiri-amp-store-l7shared-ext-001-mr
+x-daiquiri-debug-worker-pid: 117331
+vary: origin
+cache-control: max-age=86400
+date: Thu, 22 Oct 2026 18:49:42 GMT
+content-length: 3078
+x-cache: TCP_MISS from a23-220-165-201.deploy.akamaitechnologies.com (AkamaiGHost/22.6.5-e48a1e600c03e7d517694b5b11b937be) (-)
+x-true-cache-key: /L/itunes.apple.com/search vcd=2897 ci2=entity=song&limit=2&term=led+zeppelin+kashmir///
+x-cache-remote: TCP_MISS from a23-220-166-203.deploy.akamaitechnologies.com (AkamaiGHost/22.7.0-e687e9264c02f058b1bf8e920219e21f) (-)
+x-apple-partner: origin.0
+
+
+
+
+{
+ "resultCount":2,
+ "results": [
+{"wrapperType":"track", "kind":"song", "artistId":994656, "collectionId":580707980, "trackId":580708059, "artistName":"Led Zeppelin", "collectionName":"Physical Graffiti (Remastered)", "trackName":"Kashmir", "collectionCensoredName":"Physical Graffiti (Remastered)", "trackCensoredName":"Kashmir", "artistViewUrl":"https://music.apple.com/us/artist/led-zeppelin/994656?uo=4", "collectionViewUrl":"https://music.apple.com/us/album/kashmir/580707980?i=580708059&uo=4", "trackViewUrl":"https://music.apple.com/us/album/kashmir/580707980?i=580708059&uo=4", 
+"previewUrl":"https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0f/3e/53/0f3e5399-7fe8-7831-dc72-13498e72cf9c/mzaf_3019794265282233519.plus.aac.p.m4a", "artworkUrl30":"https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/6c/5d/826c5d66-67b7-62f2-4d78-dd3c7b415e08/dj.pifhrvpa.jpg/30x30bb.jpg", "artworkUrl60":"https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/6c/5d/826c5d66-67b7-62f2-4d78-dd3c7b415e08/dj.pifhrvpa.jpg/60x60bb.jpg", "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/6c/5d/826c5d66-67b7-62f2-4d78-dd3c7b415e08/dj.pifhrvpa.jpg/1
+== https://api.deezer.com/search?q=led%20zeppelin%20kashmir&limit=2
+HTTP/2 200 
+server: Apache
+access-control-allow-headers: X-Requested-With, Content-Type, Authorization, Origin, Accept, Accept-Encoding
+access-control-allow-methods: POST, GET, OPTIONS, DELETE, PUT
+access-control-allow-credentials: true
+access-control-expose-headers: Location
+access-control-max-age: 86400
+p3p: policyref="/w3c/p3p.xml" CP="IDC DSP COR CURa ADMa OUR IND PHY ONL COM STA"
+x-host: dzr-web-157
+x-content-type-options: nosniff
+content-type: application/json; charset=utf-8
+strict-transport-security: max-age=31536000; includeSubDomains
+date: Thu, 22 Oct 2026 18:49:43 GMT
+content-length: 4397
+set-cookie: dzr_uniq_id=dzr_uniq_id_fr745d7e4980e978b4eba13504378d4f4fd4a042; expires=Tue, 20 Apr 2027 18:49:43 GMT; Max-Age=15552000; path=/; domain=.deezer.com; secure; SameSite=None
+x-org: FR
+set-cookie: _abck=CEE48D3ABF4377BDA0F438519081CFEF~-1~YAAQo/UPF8a0DjqhAQAAH5ryZBBH6o5AV6KzgJonPskmdK/eFXe9AqvsyyAFjpDr7zRHsWMF4zA2DSJ3Y5WceuCX18HTka7gblBFzUbOmMeJCoLDgGAQx7xKTNUdDB0+twbdfbqeD/+skDek+lAIvxdfwzOdPmvuxjmpuEXqScgDB9fC6mvMiS4HRdQ4G1JL87xHN3hJm64z/89Bc5Li6tq3oLylqL6ceQjIhtaGFyHZvP52PWbFOacwZIgQYHz75kCQ+ycbV7mOb2pWF8p+khOb4gtd0IQvO7yef13zzoLnPQopA2bnVF6fBIJlTjyNnzTNn2wqATnu/B5d9uexWYMRL8pYaTqtBjoKW3nmBSJG1APlL/iU77uyOZtjvuzMhD166xg0ieppTiqkiyKQK8B/h0arr9jTE3FndFz9myZfBD2aRsW/jymy1Fs6SsLBLnrW3BU=~-1~-1~-1~-1~-1; Domain=.deezer.com; Path=/; Expires=Fri, 22 Oct 2027 18:49:43 GMT; Max-Age=31536000; Secure
+set-cookie: bm_sz=FAC504A7863590935FD5E1BBF7247152~YAAQo/UPF8e0DjqhAQAAH5ryZAExO9H9zxuDo689M8knoIdAxPcOytfWniNXIwjjUs6x4rxIIeeCKm7ES4mysY8mtesRyeU05QTfk5BEj/466Pb8VkUqVDZ2v4b6FjCk8eXCLpiMJWZZf/nzTtFM9Kplp8pgLz44FWyPZQHIqRUABWWhAK593NJiZ+655exVOgBR8KxNleg61Y7OP/zQXQuQmu5k2dABC7jrDO+lR7LG3K4d4GsP4iJhz1x4PvZGBamZe0/ve1ZO1lmhtHHDvI7JKexnQvm2ht4TxzNBHoQBAAB7guG7QaHDT279BcxHDGZCffGZ5VA/WdtkUAa5bGI6FxldmuVqDH1wkKbKDzqrBsybFu8=~4539960~4277062; Domain=.deezer.com; Path=/; Expires=Thu, 22 Oct 2026 22:49:43 GMT; Max-Age=14400
+
+{"data":[{"id":95085780,"readable":true,"title":"Kashmir (Remaster)","title_short":"Kashmir","title_version":"(Remaster)","isrc":"USAT21300969","link":"https:\/\/www.deezer.com\/track\/95085780","duration":517,"rank":768424,"explicit_lyrics":false,"explicit_content_lyrics":6,"explicit_content_cover":0,"preview":"https:\/\/cdnt-preview.dzcdn.net\/api\/1\/1\/8\/d\/0\/0\/8d03f9a22b39f3801189ca58b476f0ca.mp3?hdnea=exp=1792695883~acl=\/api\/1\/1\/8\/d\/0\/0\/8d03f9a22b39f3801189ca58b476f0ca.mp3*~data=user_id=0,application_id=42~hmac=f84ba97885354054344c03f9ea5b4463aa6e29b4f79e35cf8a20d313db41f0f3","md5_image":"b856ee1b505a82b9c8a762eaa2f8f064","artist":{"id":848,"name":"Led Zeppelin","link":"https:\/\/www.deezer.com\/artist\/848","picture":"https:\/\/api.deezer.com\/artist\/848\/image","picture_small":"https:\/\/cdn-images.dzcdn.net\/images\/artist\/2cf138b96a63da677ac6fb79846607c8\/56x56-000000-80-0-0.jpg","picture_medium":"https:\/\/cdn-images.dzcdn.net\/images\/artist\/2cf138b96a63da677ac6fb79846607c8\/250x250-000000-80-0-0.
+== https://musicbrainz.org/ws/2/release-group?artist=678d88b2-87b0-403b-b63d-5da7465aecc3&fmt=json&limit=3
+HTTP/2 503 
+server: openresty
+date: Thu, 22 Oct 2026 18:49:43 GMT
+content-type: application/json
+x-ratelimit-limit: 15
+x-ratelimit-remaining: 14
+x-ratelimit-reset: 1792694993
+retry-after: 0
+x-ratelimit-zone: global
+x-ratelimit-who: global
+x-mb-rate-limiter: lua
+access-control-allow-origin: *
+x-mb-gateway: rex
+
+{"error": "The MusicBrainz web server is currently busy. Please try again later."}
+
+== preview https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0f/3e/53/0f3e5399-7fe8-7831-dc72-13498e72cf9c/mzaf_3019794265282233519.plus.aac.p.m4a
+HTTP/2 200 
+content-type: audio/x-m4p
+content-length: 1148315
+x-apple-request-uuid: iGO9TMytRfm5XY5mEL_UWQ
+x-amz-storage-class: STANDARD
+x-icloud-availability: [XOR]
+x-apple-ms-content-length: 1148315
+x-icloud-content-length: 1148315
+x-apple-request-uuid: iGO9TMytRfm5XY5mEL_UWQ
+accept-ranges: bytes
+x-apple-obj-store-current-version-id: 0cb433a0-a26c-11f1-b048-fa87b53cf517
+x-icloud-versionid: 0cb433a0-a26c-11f1-b048-fa87b53cf517
+etag: "0EA073E3C0BE87322E45854B5EAC7613"
+last-modified: Thu, 27 Aug 2026 23:07:17 GMT
+strict-transport-security: max-age=31536000; includeSubDomains;
+access-control-allow-credentials: false
+access-control-allow-methods: HEAD, GET, PUT
+access-control-max-age: 3000
+x-robots-tag: noindex
+cdnuuid: f402e3ae-9e8a-4eac-b507-933592e95371-226064176
+cache-control: public, max-age=26786709
+date: Thu, 22 Oct 2026 18:49:44 GMT
+access-control-allow-origin: *
+access-control-expose-headers: *
+access-control-allow-headers: range
+
+HTTP/2 200 
+server: daiquiri/5
+content-type: text/javascript; charset=utf-8
+x-apple-jingle-correlation-key: BHAABEVLG5T4K43TO2SFY7ITGE
+x-apple-request-uuid: 09c00092-ab37-67c5-7373-76a45c7d1331
+x-apple-translated-wo-url: /WebObjects/MZStoreServices.woa/ws/wsSearch?term=x&callback=cb&urlDesc=
+apple-tk: false
+x-b3-spanid: e2c1150459cdf322
+b3: 09c00092ab3767c5737376a45c7d1331-e2c1150459cdf322
+content-disposition: attachment; filename=1.txt
+x-b3-traceid: 09c00092ab3767c5737376a45c7d1331
+x-content-type-options: nosniff
+x-webobjects-loadaverage: 0
+x-responding-instance: MZStoreServices:6001692:::
+apple-seq: 0.0
+access-control-allow-origin: *
+apple-originating-system: MZStoreServices
+strict-transport-security: max-age=31536000; includeSubDomains
+x-apple-orig-url: https://mzstoreservices-st.itunes.apple.com/search?term=x&callback=cb
+x-apple-application-site: ST11
+apple-timing-app: 1601 ms
+x-apple-application-instance: 6001692
+x-daiquiri-instance: daiquiri:47317010:st44p00it-hyhk15084701:7987:26HOTFIX48:daiquiri-amp-store-shared-int-001-st
+x-daiquiri-debug-worker-pid: 47443
+x-daiquiri-instance: daiquiri:42282006:st53p00it-qujn15040502:7987:26HOTFIX48:daiquiri-amp-store-l7shared-ext-001-st
+x-daiquiri-debug-worker-pid: 42289
+vary: origin
+cache-control: max-age=86400
+date: Thu, 22 Oct 2026 18:49:45 GMT
+x-cache: TCP_MISS from a23-220-165-201.deploy.akamaitechnologies.com (AkamaiGHost/22.6.5-e48a1e600c03e7d517694b5b11b937be) (-)
+x-true-cache-key: /L/itunes.apple.com/search vcd=2897 ci2=callback=cb&term=x///
+x-cache-remote: TCP_MISS from a23-220-166-204.deploy.akamaitechnologies.com (AkamaiGHost/22.7.0-e687e9264c02f058b1bf8e920219e21f) (-)
+x-apple-partner: origin.0
+
