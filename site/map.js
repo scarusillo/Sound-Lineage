@@ -274,6 +274,7 @@
       <span class="k">${esc(ctx.FAM[a.family].name)} · ${esc(a.decade)}</span>
       <h2>${esc(a.name)}</h2>
       ${a.summary ? `<p>${esc(a.summary)}</p>` : ""}
+      ${ctx.dnaHTML(a.id, true)}
       <div class="cnt"><span class="up">● <b>${a.up.length}</b> shaped them</span><span class="down">● <b>${a.down.length}</b> they shaped</span></div>
       ${a.up.length ? `<p><span class="up">From</span> ${top(a.up)}${a.up.length > 4 ? "…" : ""}</p>` : ""}
       ${a.down.length ? `<p><span class="down">To</span> ${top(a.down)}${a.down.length > 4 ? "…" : ""}</p>` : ""}

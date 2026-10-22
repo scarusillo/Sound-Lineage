@@ -439,3 +439,27 @@ main { padding-block: 22px 40px; padding-left: max(16px, env(safe-area-inset-lef
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --f-global: #3ddc97; } }
 :root[data-theme="dark"] { --f-global: #3ddc97; }
 .role { display: inline-flex; padding: 1px 8px; border-radius: 999px; background: var(--fg); color: var(--surface); font-size: .66rem; letter-spacing: .08em; margin-right: 2px; }
+
+/* ---------- genre DNA ---------- */
+.dna { display: grid; gap: 7px; }
+.dna-h { display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: baseline; }
+.dna-h .qmeta { font-size: .78rem; }
+.dna-bar { display: flex; height: 10px; border-radius: 999px; overflow: hidden; background: var(--sunk); gap: 2px; }
+.dna-bar i { display: block; height: 100%; min-width: 3px; }
+.dna.compact .dna-bar { height: 6px; background: rgb(255 255 255 / .08); }
+.dna-key { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: .8rem; color: var(--muted); }
+.dna-key span { display: inline-flex; align-items: center; gap: 6px; }
+.dna-key i { width: 8px; height: 8px; border-radius: 2px; display: inline-block; }
+.dna-key b { color: var(--fg); font-family: var(--font-mono); font-weight: 600; font-size: .76rem; }
+.center .dna-h .qmeta { display: none; }
+.src { font-size: .76rem; color: var(--up); text-decoration: none; font-weight: 600; justify-self: start; }
+.src:hover { text-decoration: underline; }
+.src.none { color: var(--faint); font-weight: 500; }
+
+/* ---------- weekly mix ---------- */
+.mix { padding: 18px; border-radius: 16px; border: 1px solid var(--line); background: linear-gradient(160deg, color-mix(in srgb, var(--hot) 7%, var(--surface)), var(--surface) 55%); }
+.mixlist { list-style: none; margin: 0; padding: 0; display: grid; }
+.mixlist li { display: grid; grid-template-columns: 2.2rem minmax(0, 1fr) auto; gap: 8px; align-items: center; padding: 8px 0; border-bottom: 1px solid var(--line); }
+.mixlist li.mixh { display: block; border: 0; padding: 14px 0 2px; font-size: .7rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: var(--hot); }
+.mixlist .n { color: var(--faint); font-size: .78rem; }
+.lnk { border: 0; background: none; padding: 0; color: var(--fg); font: inherit; text-decoration: underline; text-underline-offset: 3px; text-decoration-color: var(--line); cursor: pointer; }

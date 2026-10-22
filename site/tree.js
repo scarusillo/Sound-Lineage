@@ -71,6 +71,7 @@
         <h2>${esc(x.name)}</h2>
         <div class="meta">${x.years ? `<span class="tag mono">${esc(x.years)}</span>` : ""}${x.origin ? `<span class="tag">${esc(x.origin)}</span>` : ""}${(x.genres || []).slice(0, 2).map((g) => `<span class="tag">${esc(g)}</span>`).join("")}</div>
         ${x.summary ? `<p>${esc(x.summary)}</p>` : ""}
+        ${ctx.dnaHTML(x.id)}
         <div class="gbtns"><button class="solid" data-open="${x.id}">Profile</button>${ctx.listenLinks(x.name)}</div>`;
     } else if (k === "album") {
       const a = ctx.A[x.artist];
@@ -164,7 +165,7 @@
       }
       const lines = mine.map(([e]) => {
         const [a, b] = e.ids;
-        return `<span><b>${esc(nameOf(k, a))}</b> → <b>${esc(nameOf(k, b))}</b>${e.tag ? ` · ${esc(e.tag)}` : ""}${e.why ? `: ${esc(e.why)}` : ""}</span>`;
+        return `<span><b>${esc(nameOf(k, a))}</b> → <b>${esc(nameOf(k, b))}</b>${e.tag ? ` · ${esc(e.tag)}` : ""}${e.why ? `: ${esc(e.why)}` : ""}${k === "artist" && ctx.SRC[`${a}>${b}`] ? ` ${ctx.srcHTML(a, b)}` : ""}</span>`;
       });
       bar.innerHTML = `${lines.slice(0, 3).join("") || `<span><b>${esc(nameOf(k, id))}</b></span>`}${pendingTouch ? `<div class="acts"><button class="solid" data-nav="${id}">Center on ${esc(nameOf(k, id))}</button>${k === "artist" ? `<button class="ghost small" data-open="${id}">Profile</button>` : ""}</div>` : ""}`;
     };

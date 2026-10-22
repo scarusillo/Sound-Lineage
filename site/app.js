@@ -13,7 +13,7 @@
   const enc = encodeURIComponent;
 
   let FAMS = [], FAM = {}, DECADES = [], ARTISTS = [], A = {};
-  let ALBUMS = [], AL = {}, SONGS = [], SO = {}, JOURNEYS = [];
+  let ALBUMS = [], AL = {}, SONGS = [], SO = {}, JOURNEYS = [], SRC = {};
   const famStyle = (f) => `style="--c:var(--f-${esc(f)})"`;
   const famColor = (f) => cssVar(`--f-${f}`) || cssVar("--muted");
   const decIdx = (d) => Math.max(0, DECADES.indexOf(d));
@@ -51,6 +51,47 @@
     }
     if (!(to in prev)) return null;
     const p = []; for (let c = to; c; c = prev[c]) p.unshift({ id: c, dir: how[c] || null }); return p;
+  }
+  /* Genre DNA: what an artist is made of, from their own genre plus three generations of influences,
+     each step weighted by how direct the link is and halved per generation. */
+  const DNA = {};
+  function dna(id) {
+    if (DNA[id]) return DNA[id];
+    const w = {}, seen = new Set([id]);
+    const self = A[id]; if (!self) return [];
+    w[self.family] = 0.55;
+    let frontier = [[id, 1]];
+    for (let gen = 1; gen <= 3; gen++) {
+      const next = [];
+      for (const [x, wt] of frontier) {
+        const ups = A[x].up; if (!ups.length) continue;
+        const total = ups.reduce((s, u) => s + u.s, 0);
+        for (const u of ups) {
+          const share = wt * 0.55 * (u.s / total) * Math.min(1, ups.length / 3);
+          w[A[u.id].family] = (w[A[u.id].family] || 0) + share * (gen === 1 ? 1.6 : 1);
+          if (!seen.has(u.id)) { seen.add(u.id); next.push([u.id, share]); }
+        }
+      }
+      frontier = next;
+    }
+    const sum = Object.values(w).reduce((a, b) => a + b, 0);
+    let parts = Object.entries(w).map(([f, v]) => [f, v / sum]).sort((a, b) => b[1] - a[1]);
+    const keep = parts.filter(([, p]) => p >= 0.04), rest = 1 - keep.reduce((s, [, p]) => s + p, 0);
+    parts = keep.map(([f, p]) => [f, p / (1 - rest)]);
+    return (DNA[id] = parts);
+  }
+  function dnaHTML(id, compact = false) {
+    const parts = dna(id); if (parts.length < 2) return "";
+    const bar = `<div class="dna-bar" role="img" aria-label="Genre DNA: ${parts.map(([f, p]) => `${FAM[f].name} ${Math.round(p * 100)}%`).join(", ")}">${parts.map(([f, p]) => `<i style="width:${(p * 100).toFixed(1)}%;background:var(--f-${f})" title="${esc(FAM[f].name)} ${Math.round(p * 100)}%"></i>`).join("")}</div>`;
+    if (compact) return `<div class="dna compact">${bar}</div>`;
+    return `<div class="dna"><div class="dna-h"><h3>Genre DNA</h3><span class="qmeta">from their own sound and three generations of influences</span></div>${bar}<div class="dna-key">${parts.map(([f, p]) => `<span><i style="background:var(--f-${f})"></i>${esc(FAM[f].short)} <b>${Math.round(p * 100)}%</b></span>`).join("")}</div></div>`;
+  }
+  /* sources: a cited page for the most important links, a search shortcut for the rest */
+  function srcHTML(from, to) {
+    const s = SRC[`${from}>${to}`];
+    if (s) return `<a class="src" href="${esc(s.u)}" target="_blank" rel="noopener" title="${esc(s.n || s.t)}">${s.v === "p" ? "Partly backed by" : "Source:"} ${esc(s.p || new URL(s.u).hostname.replace(/^www\./, ""))} ↗</a>`;
+    const q = `${A[to]?.name || ""} ${A[from]?.name || ""} influence interview`;
+    return `<a class="src none" href="https://www.google.com/search?q=${enc(q)}" target="_blank" rel="noopener">Find a source ↗</a>`;
   }
   const edgeWhy = (a, b) => (A[b]?.up.find((u) => u.id === a) || A[a]?.up.find((u) => u.id === b) || {}).why || "";
   const sortRel = (arr, map = A) => [...arr].sort((a, b) => (b.s - a.s) || ((map[b.id]?.reach || 0) - (map[a.id]?.reach || 0)));
@@ -192,8 +233,9 @@
     const seen = store.get("sl.seen", {}); if (!seen[id]) { seen[id] = 1; store.set("sl.seen", seen); }
     if (push && location.hash.slice(1) !== id) history.replaceState(null, "", "#" + id);
     const up = sortRel(a.up), down = sortRel(a.down);
-    const rel = (r) => `<li><div class="hd">${chip(r.id)}<span class="mono qmeta" style="font-size:.74rem">${esc(A[r.id].decade)}</span>${strength(r.s)}</div>${r.why ? `<span class="why">${esc(r.why)}</span>` : ""}</li>`;
-    const relList = (arr) => arr.length <= 10 ? `<ul class="rels">${arr.map(rel).join("")}</ul>` : `<ul class="rels">${arr.slice(0, 10).map(rel).join("")}</ul><details class="toggle-list"><summary>Show ${arr.length - 10} more</summary><ul class="rels" style="margin-top:10px">${arr.slice(10).map(rel).join("")}</ul></details>`;
+    const rel = (r, dir) => `<li><div class="hd">${chip(r.id)}<span class="mono qmeta" style="font-size:.74rem">${esc(A[r.id].decade)}</span>${strength(r.s)}</div>${r.why ? `<span class="why">${esc(r.why)}</span>` : ""}${dir === "up" ? srcHTML(r.id, id) : srcHTML(id, r.id)}</li>`;
+    const relList = (arr, dir) => { const f = (r) => rel(r, dir); return arr.length <= 10 ? `<ul class="rels">${arr.map(f).join("")}</ul>` : `<ul class="rels">${arr.slice(0, 10).map(f).join("")}</ul><details class="toggle-list"><summary>Show ${arr.length - 10} more</summary><ul class="rels" style="margin-top:10px">${arr.slice(10).map(f).join("")}</ul></details>`; };
+    const nSrc = [...up.map((r) => `${r.id}>${id}`), ...down.map((r) => `${id}>${r.id}`)].filter((k) => SRC[k]).length;
     const songsBy = SONGS.filter((s) => s.artist === id);
     const albumsBy = ALBUMS.filter((x) => x.artist === id).sort((p, q) => p.year - q.year);
     const keyAl = (a.keyAlbums || []).filter(([t]) => !albumsBy.some((x) => norm(x.title) === norm(t)));
@@ -214,8 +256,9 @@
         <p class="qmeta" id="fixmsg"></p>
       </form>
       ${a.summary ? `<div class="p-sec"><p>${esc(a.summary)}</p></div>` : ""}
-      <div class="p-sec"><h3 style="color:var(--up)">Influenced by · ${up.length}</h3>${up.length ? relList(up) : `<p class="qmeta">A root of the tree here.</p>`}</div>
-      <div class="p-sec"><h3 style="color:var(--down)">${a.role ? "Produced, played on or shaped" : "Influenced"} · ${down.length}</h3>${down.length ? relList(down) : `<p class="qmeta">No one mapped downstream yet.</p>`}</div>
+      <div class="p-sec">${dnaHTML(a.id)}</div>
+      <div class="p-sec"><h3 style="color:var(--up)">Influenced by · ${up.length}</h3>${nSrc ? `<p class="qmeta" style="margin:0;font-size:.8rem">${nSrc} of these links have a cited source.</p>` : ""}${up.length ? relList(up, "up") : `<p class="qmeta">A root of the tree here.</p>`}</div>
+      <div class="p-sec"><h3 style="color:var(--down)">${a.role ? "Produced, played on or shaped" : "Influenced"} · ${down.length}</h3>${down.length ? relList(down, "down") : `<p class="qmeta">No one mapped downstream yet.</p>`}</div>
       ${(a.cousins || []).filter((c) => A[c.id]).length ? `<div class="p-sec"><h3>If you like ${esc(a.name)}, try</h3><ul class="rels">${a.cousins.filter((c) => A[c.id]).map((c) => `<li><div class="hd">${chip(c.id)}<span class="qmeta" style="font-size:.8rem">${esc(FAM[A[c.id].family].name)}</span></div><span class="why">${esc(c.why)}</span></li>`).join("")}</ul></div>` : ""}
       ${window.SL_SPOT?.panelHTML(a) || ""}
       ${albumsBy.length || keyAl.length ? `<div class="p-sec"><h3>Albums</h3><div class="mini">${albumsBy.map((x) => `<button data-tree="album" data-id="${x.id}"><span><b>${esc(x.title)}</b> <span class="qmeta" style="font-size:.8rem">· lineage</span></span><span class="yr">${x.year}</span></button>`).join("")}${keyAl.map(([t, y]) => `<div><span>${esc(t)}</span><span class="yr">${y || ""}</span></div>`).join("")}</div></div>` : ""}
@@ -300,6 +343,7 @@
   async function boot() {
     try {
       const [ad, ald, sd, jd] = await Promise.all([getJSON("data/artists.json"), getJSON("data/albums.json"), getJSON("data/samples.json"), getJSON("data/journeys.json").catch(() => ({ journeys: [] }))]);
+      SRC = await getJSON("data/sources.json").catch(() => ({}));
       FAMS = ad.families; FAM = Object.fromEntries(FAMS.map((f) => [f.id, f])); DECADES = ad.decades;
       ARTISTS = ad.artists; wire(ARTISTS, A); reach(A);
       ALBUMS = ald.albums; wire(ALBUMS, AL);
@@ -314,7 +358,7 @@
     } catch (e) { $("main").innerHTML = `<p class="loading">The music data could not load (${esc(e.message)}). Reload the page to try again.</p>`; return; }
     window.SL = {
       store, esc, norm, enc, chip, strength, famStyle, famColor, cssVar, listenLinks, openArtist, go, explored, badges, db, user,
-      shortestPath, anyPath, edgeWhy, sortRel, decIdx, searchHits, hitsHTML, copyText, playlistText,
+      shortestPath, anyPath, edgeWhy, dna, dnaHTML, srcHTML, get SRC() { return SRC; }, sortRel, decIdx, searchHits, hitsHTML, copyText, playlistText,
       get ARTISTS() { return ARTISTS; }, get A() { return A; }, get FAMS() { return FAMS; }, get FAM() { return FAM; }, get DECADES() { return DECADES; },
       get ALBUMS() { return ALBUMS; }, get AL() { return AL; }, get SONGS() { return SONGS; }, get SO() { return SO; }, get JOURNEYS() { return JOURNEYS; },
     };

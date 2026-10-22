@@ -38,6 +38,7 @@
         ${alotd ? `<button class="pick" data-tree="album" data-id="${alotd.id}" ${ctx.famStyle(A[alotd.artist]?.family || "rock")}><span class="lbl">Album of the day</span><span class="k"><span class="dot"></span>${esc(A[alotd.artist]?.name || "")} · ${alotd.year}</span><b>${esc(alotd.title)}</b><span class="d">${esc(alotd.summary)}${cousin ? ` If it clicks, try ${esc(ctx.AL[cousin.id].title)} by ${esc(A[ctx.AL[cousin.id].artist]?.name || "")}.` : ""}</span></button>` : ""}
         ${!mine && deep ? pick(A[deep.id], "Deep cut", `Everyone knows ${root_.name}. Follow the line down: ${deep.why || A[deep.id].summary || ""}`, `data-open="${deep.id}"`) : ""}
       </div>
+      ${mine ? `<div class="feature">${window.SL_YOU.mixHTML(true)}</div>` : ""}
       ${!mine ? `<p class="notice">Sync your Spotify (or save a few favorites) in <a href="#you" data-go="you">For You</a>, and this page starts picking for you.</p>` : ""}
 
       ${born.length || released.length ? `<section class="onday">
