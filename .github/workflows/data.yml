@@ -1,0 +1,39 @@
+# Data jobs that need the open internet: Wikidata pulls, probes. Run by hand from the Actions tab.
+name: Data jobs
+on:
+  workflow_dispatch:
+    inputs:
+      task:
+        description: "wd | probe"
+        required: true
+        default: probe
+permissions:
+  contents: read
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Probe music APIs
+        if: inputs.task == 'probe'
+        run: |
+          mkdir -p raw
+          for u in "https://itunes.apple.com/search?term=led+zeppelin+kashmir&entity=song&limit=2" "https://api.deezer.com/search?q=led%20zeppelin%20kashmir&limit=2" "https://musicbrainz.org/ws/2/release-group?artist=678d88b2-87b0-403b-b63d-5da7465aecc3&fmt=json&limit=3"; do
+            echo "== $u" >> raw/probe.txt
+            curl -s -D - -H "Origin: https://scarusillo.github.io" -A "SoundLineage/1.0 (github.com/scarusillo/Sound-Lineage)" "$u" | head -c 3000 >> raw/probe.txt
+            echo >> raw/probe.txt
+          done
+          P=$(curl -s "https://itunes.apple.com/search?term=led+zeppelin+kashmir&entity=song&limit=1" | python3 -c "import sys,json;print(json.load(sys.stdin)['results'][0]['previewUrl'])")
+          echo "== preview $P" >> raw/probe.txt
+          curl -s -I -H "Origin: https://scarusillo.github.io" "$P" >> raw/probe.txt
+          curl -s -D - -o /dev/null -H "Origin: https://scarusillo.github.io" "https://itunes.apple.com/search?term=x&callback=cb" >> raw/probe.txt
+      - name: Pull Wikidata influences
+        if: inputs.task == 'wd'
+        run: python3 scripts/wd_pull.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: raw-${{ inputs.task }}
+          path: raw/
