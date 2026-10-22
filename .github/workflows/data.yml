@@ -8,7 +8,7 @@ on:
         required: true
         default: probe
 permissions:
-  contents: read
+  contents: write
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -33,7 +33,11 @@ jobs:
       - name: Pull Wikidata influences
         if: inputs.task == 'wd'
         run: python3 scripts/wd_pull.py
-      - uses: actions/upload-artifact@v4
-        with:
-          name: raw-${{ inputs.task }}
-          path: raw/
+      - name: Save results to the data-raw branch
+        run: |
+          mv raw /tmp/raw
+          git config user.name "sound-lineage-bot"; git config user.email "bot@users.noreply.github.com"
+          git fetch origin data-raw || true
+          if git rev-parse --verify origin/data-raw >/dev/null 2>&1; then git checkout -B data-raw origin/data-raw; else git checkout --orphan data-raw; git rm -rf . >/dev/null; fi
+          mkdir -p raw && cp -r /tmp/raw/* raw/
+          git add raw && git commit -m "data: ${{ inputs.task }}" && git push origin data-raw
