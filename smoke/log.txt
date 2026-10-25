@@ -1,0 +1,7 @@
+new version: log tab true, community true, week card true
+player {"first":{"u":"https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1e/0a/82/1e0a8263-ea37-cfb3-5fbf-75014abaa52a/mzaf_9927200553125485862.plus.aac.p.m4a","art":"https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3c/74/0d/3c740deb-0293-4184-a66d-5176b9e872a4/mzi.scyemciw.jpg/300x300bb.jpg","t":"Cross Road Blues","a":"Robert Johnson","al":"King of the Delta Blues Singers","link":"https://music.apple.com/us/album/cross-road-blues/157432232?i=157432239&uo=4","y":"1937"},"found":1,"total":10,"txt":"Cross Road Blues\nRobert Johnson · 1930s · shaped Led Zeppelin\nThe lineage of Led Zeppelin · 1 of 10"}
+releases shelf 14 cards, 14 covers
+artists 4097
+wikidata artist player 1/2
+service worker true
+manifest true
