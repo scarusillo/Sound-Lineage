@@ -1,0 +1,19 @@
+# Check the live site in a real browser and save screenshots to the smoke branch.
+name: Live site check
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: npm i --no-save playwright@1.48.2 && npx playwright install --with-deps chromium
+      - run: mkdir -p smoke && node scripts/smoke.js || true
+      - name: Save to the smoke branch
+        if: always()
+        run: |
+          mv smoke /tmp/smoke
+          git config user.name "sound-lineage-bot"; git config user.email "bot@users.noreply.github.com"
+          git checkout --orphan smoke; git rm -rf . >/dev/null; rm -rf node_modules
+          cp -r /tmp/smoke . && git add smoke && git commit -m "smoke $(date +%F-%H%M)" && git push -f origin smoke
