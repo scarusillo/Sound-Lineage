@@ -1,27 +1,30 @@
 # Sound Lineage
 
-Live site: https://scarusillo.github.io/Sound-Lineage/
+Live site: https://scarusillo.github.io/Sound-Lineage/ (installable: “Add to Home Screen”)
 
-A music family tree from the 1900s to now. Click any artist to see who shaped them and who they shaped,
-two generations deep, and keep going. Album lineages, song sample trails, a 3D influence map, daily picks,
-games, listening journeys, and a For You page built from your own listening.
+A music family tree from the 1900s to now. Tap any artist to see who shaped them and who they shaped, hear the
+lineage as 30-second previews, and keep going. Album lineages, song sample trails, a 3D influence map and a city map,
+a weekly Lineage Mix, Lineage Wrapped, daily games, listening journeys, taste comparison with friends, and Ask the lineage.
 
 ## Layout
-- `site/` — the website (vanilla JS; d3 for the flat and city maps, 3d-force-graph for the 3D map, topojson for borders)
-  - `app.js` shell, search, Browse, artist panel · `tree.js` family tree + connect two artists · `map.js` 3D and flat maps · `cities.js` city map
-  - `today.js` Today and Journeys · `games.js` daily games · `you.js` For You · `spotify.js` live Spotify (works inside Claude)
-  - `site/data/` — built data: `artists.json` (1,557 artists and producers, ~7,000 links), `geo.json`, `scenes.json`, `albums.json`, `samples.json`, `journeys.json`, `world.json` (Natural Earth borders)
-- `data/master.txt` + `data/parts/` — wave 1 research (432 artists)
-- `data/wave2/` — wave 2: candidate lists, the full id list `all.txt`, research output `out/*.json`, scene write-ups
-- `scripts/build_artists.py` — merges both waves into `site/data/artists.json` (folds duplicates, drops impossible links, keeps producer credits)
-- `scripts/geocode.js` — places each artist's origin with the GeoNames city database (`npm i all-the-cities`)
+- `site/` — the app (vanilla JS; d3, 3d-force-graph, topojson from CDNs). Installable as a web app (`manifest.webmanifest`, `sw.js`).
+  - `app.js` shell, routing, search, Browse, Behind the music, artist sheet · `tree.js` Lineage + connect two artists · `map.js` 3D and flat maps · `cities.js` city map
+  - `today.js` Home and Journeys · `mix.js` weekly mix, adventurousness dial, archive · `player.js` previews (Apple iTunes Search API)
+  - `share.js` share cards, 15-second videos, taste DNA, compare and blend · `wrapped.js` Lineage Wrapped · `social.js` Ask, new releases, live shows, fan links, Own it
+  - `games.js` daily games · `you.js` You · `spotify.js` live Spotify (inside Claude)
+  - `site/data/` — `artists.json` (curated core), `artists_ext.json` (wider set from Wikidata), `sources.json` + `sources_ext.json` (a source per link),
+    `releases.json` (weekly), `geo.json`, `scenes.json`, `albums.json`, `samples.json`, `journeys.json`, `world.json`
+- `scripts/` — `build_artists.py` (curated core), `wd_pull.py` + `build_ext.py` (Wikidata layer), `releases.py` (new releases), `weekly_mix.py`, `geocode.js`, `build_sources.py`
 
-## Rebuild and run locally
-    python3 scripts/build_artists.py
-    npm i all-the-cities && node scripts/geocode.js site/data/artists.json > site/data/geo.json
-    cd site && python3 -m http.server 8765
+## Jobs (GitHub Actions)
+- **Publish site** — every push to `main`.
+- **New releases** — Fridays; checks Apple's catalog for new music from artists on the map and republishes.
+- **Data jobs** — by hand: `wd` pulls musician influence links from Wikidata into the `data-raw` branch; then
+  `python3 scripts/build_ext.py raw/wd.json site/data` merges them.
 
 ## Notes
-- Live Spotify sync, "Save to Spotify" and the corrections inbox use Claude's connectors, so they work in the Claude-hosted
-  version. On GitHub Pages those buttons hide themselves and the Spotify/Apple data-file import is used instead.
-- Influence links come from artist interviews, biographies and music histories, graded 1–3 by how direct they are. They have not yet been individually sourced.
+- Previews, cover art, live shows and video export run on the public site. Inside Claude, outside media is blocked, so the
+  player opens Spotify instead, and live Spotify sync, Save to Spotify, Ask Claude and fan-link review work there.
+- Live shows use Ticketmaster: paste a free key from developer.ticketmaster.com on the You tab.
+- Curated links are graded 1–3 by how direct they are. Wikidata links are marked and cite the reference on the Wikidata
+  statement, or the Wikidata entry itself.
