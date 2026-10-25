@@ -167,7 +167,7 @@
         msg.textContent = "Sending…";
         try {
           const ref = d.doc(`corrections/${uid}`), snap = await ref.get();
-          const reports = (snap.exists && Array.isArray(snap.data?.reports) ? snap.data.reports : []).slice(-199);
+          const reports = (snap.exists && Array.isArray(snap.data()?.reports) ? snap.data().reports : []).slice(-199);
           reports.push({ type: "link", artist: id, from, to, why: why.slice(0, 400), src: src.slice(0, 500), field: "New link", text: `${nm(from)} → ${nm(to)}: ${why}${src ? ` (${src})` : ""}`, by: uid, at: new Date().toISOString() });
           await ref.set({ reports });
           msg.textContent = "Thank you. Your link goes live once it's reviewed, with credit to you."; f.reset(); w.dataset.id = "";
@@ -182,12 +182,12 @@
   /* approved fan links, shown to everyone in the Claude version */
   async function loadApproved() {
     if (!inClaude()) return [];
-    try { const d = await C().db(); if (!d) return []; const s = await d.doc("approved/links").get(); return s.exists && Array.isArray(s.data?.links) ? s.data.links : []; } catch { return []; }
+    try { const d = await C().db(); if (!d) return []; const s = await d.doc("approved/links").get(); return s.exists && Array.isArray(s.data()?.links) ? s.data().links : []; } catch { return []; }
   }
   async function approve(r) {
     const d = await C().db(); if (!d) return false;
     const ref = d.doc("approved/links"), s = await ref.get();
-    const links = s.exists && Array.isArray(s.data?.links) ? s.data.links : [];
+    const links = s.exists && Array.isArray(s.data()?.links) ? s.data().links : [];
     if (!links.some((l) => l.from === r.from && l.to === r.to)) links.push({ from: r.from, to: r.to, why: r.why, src: r.src || "", by: r.by || "", at: new Date().toISOString() });
     await ref.set({ links: links.slice(-500) });
     return true;

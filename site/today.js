@@ -39,6 +39,7 @@
     const played = G.GAMES.filter((g) => G.playedToday(g.id)).length;
     root.innerHTML = `<div class="view-in" style="display:grid;gap:28px">
       <div class="greet"><span class="date">${now.toLocaleDateString(undefined, { weekday: "long", month: "long", day: "numeric" })}</span><h1>${hello}</h1></div>
+      ${window.SL_COMM?.me ? window.SL_DIARY.homeHTML() : ""}
       ${window.SL_SPOT.nowHTML()}
       <button class="hero" data-open="${heroA.id}" ${ctx.famStyle(heroA.family)}>
         <span style="min-width:0"><span class="lbl">${mine ? "Picked for you today" : "Artist of the day"}</span><span class="ht">${esc(heroA.name)}</span><span class="d">${esc(heroWhy)}</span><span class="k"><span class="dot" style="background:#fff"></span>${esc(ctx.FAM[heroA.family].name)} · ${esc(heroA.decade)} · ${heroA.up.length} roots · ${heroA.down.length} heirs</span></span>
@@ -54,8 +55,10 @@
       ${released.length ? `<section class="shelf"><div class="shelf-h"><h2>Released on this day</h2></div><div class="row">${released.map((x) => rcAlbum(x, `${A[x.artist]?.name || ""} · ${x.year}`)).join("")}</div></section>` : ""}
 
       <section class="sec"><div class="shelf-h"><h2>Explore</h2></div><div class="tiles">
+        <a class="tile" href="#clubs"><svg><use href="#i-club"/></svg><b>Listening clubs</b><span>One album and its roots, every week</span></a>
         <a class="tile" href="#ask" data-go="ask"><svg><use href="#i-info"/></svg><b>Ask the lineage</b><span>Why does an artist sound like that?</span></a>
         <a class="tile" href="#wrapped" data-go="wrapped"><svg><use href="#i-mix"/></svg><b>Lineage Wrapped</b><span>Your year in music, by its roots</span></a>
+        <a class="tile" href="#mix" data-go="mix"><svg><use href="#i-mix"/></svg><b>Your Lineage Mix</b><span>New every Monday</span></a>
         <a class="tile" href="#journeys" data-go="journeys"><svg><use href="#i-route"/></svg><b>Journeys</b><span>${ctx.JOURNEYS.length} guided listens, one song at a time</span></a>
         <a class="tile" href="#play" data-go="play"><svg><use href="#i-games"/></svg><b>Daily games</b><span>${played ? `${played} of ${G.GAMES.length} played today` : `${G.GAMES.length} new puzzles today`}</span></a>
         <a class="tile" href="#credits" data-go="credits"><svg><use href="#i-credits"/></svg><b>Behind the music</b><span>Producers and session players</span></a>
@@ -132,7 +135,7 @@
     try {
       const snap = await db.collection("corrections").get();
       const items = [];
-      snap.docs?.forEach((d) => (d.data?.reports || []).forEach((r) => items.push(r)));
+      snap.docs?.forEach((d) => ((typeof d.data === "function" ? d.data() : d.data)?.reports || []).forEach((r) => items.push(r)));
       items.sort((a, b) => (b.at || "").localeCompare(a.at || ""));
       el.hidden = false;
       el.innerHTML = `<h2>Corrections inbox <span class="qmeta">(only you see this)</span></h2>${items.length ? `<ul class="inbox">${items.slice(0, 50).map((r, i) => `<li>${C().chip(r.artist)} <span class="qmeta">${esc(r.field)} · ${esc((r.at || "").slice(0, 10))}</span><p>${esc(r.text)}</p>${r.type === "link" && C().A[r.from] && C().A[r.to] ? `<button class="ghost small" data-approve="${i}">Approve this link</button>` : ""}</li>`).join("")}</ul>` : `<p class="qmeta">No corrections yet. Anyone you share with can send one from an artist's page.</p>`}`;

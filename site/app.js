@@ -132,9 +132,10 @@
   }
 
   /* ---------- routing ---------- */
-  const VIEWS = ["today", "map", "tree", "mix", "you", "journeys", "play", "browse", "credits", "compare", "ask", "wrapped"];
-  const TABS = ["today", "map", "tree", "mix", "you"];
-  const TITLES = { journeys: "Journeys", play: "Games", browse: "Browse", credits: "Behind the music", compare: "Compare taste", ask: "Ask the lineage", wrapped: "Lineage Wrapped" };
+  const VIEWS = ["today", "map", "tree", "mix", "you", "journeys", "play", "browse", "credits", "compare", "ask", "wrapped", "profile", "feed", "people", "inbox", "clubs", "club", "list"];
+  const TABS = ["today", "map", "tree", "profile"];
+  const TITLES = { journeys: "Journeys", play: "Games", browse: "Browse", credits: "Behind the music", compare: "Compare taste", ask: "Ask the lineage", wrapped: "Lineage Wrapped", mix: "Lineage Mix", you: "Connections & settings", feed: "Feed", people: "People", inbox: "Notifications", clubs: "Listening clubs", club: "Club", list: "List" };
+  let routeArg = null;
   const GAME_VIEWS = ["quiz", "degrees", "links", "timeline"];
   const LEGACY = { albums: ["tree", "album"], samples: ["tree", "song"], artists: ["browse"], mine: ["you"], near: ["you"] };
   let journeyReq, lastSection = null, tasteCode = null;
@@ -142,6 +143,9 @@
     let h = decodeURIComponent(location.hash.slice(1));
     if (LEGACY[h]) { const [v, k] = LEGACY[h]; if (k) window.SL_TREE.setKind(k); history.replaceState(null, "", "#" + v); h = v; }
     if (/^taste\.[0-9a-z.]+$/.test(h)) { tasteCode = h.slice(6); h = "compare"; }
+    routeArg = null;
+    const dm = h.match(/^(u|club|list)\.(.+)$/);
+    if (dm) { routeArg = dm[2]; h = dm[1] === "u" ? "profile" : dm[1]; }
     let view = VIEWS.includes(h) || GAME_VIEWS.includes(h) ? h : null;
     if (!view && A[h]) { openArtist(h, false); view = store.get("sl.view", "today"); if (view === "compare") view = "today"; }
     view ||= "today";
@@ -150,11 +154,17 @@
     const tab = TABS.includes(section) ? section : "today";
     document.querySelectorAll(".tabbar a").forEach((a) => a.classList.toggle("on", a.dataset.view === tab));
     document.querySelectorAll(".rail a[data-view]").forEach((a) => a.classList.toggle("on", a.dataset.view === section));
-    const secondary = !TABS.includes(section) || GAME_VIEWS.includes(view);
+    const secondary = !TABS.includes(section) || GAME_VIEWS.includes(view) || (section === "profile" && routeArg);
     $("#appback").hidden = !secondary; $("#apptitle").textContent = secondary ? (TITLES[section] || "Sound Lineage") : "Sound Lineage";
     document.body.classList.toggle("on-map", section === "map");
     closeSearch();
-    if (view !== "compare") store.set("sl.view", view);
+    const inPlace = !!window.SL_KEEP_SHEETS, keepY = window.scrollY;
+    if (!inPlace) {
+      for (const s of ["#gsheet", "#logsheet", "#sharesheet", "#queuesheet"]) { const el2 = $(s); if (el2) el2.hidden = true; }
+      if ($("#panel").hidden) { $("#scrim").hidden = true; document.body.classList.remove("lock"); }
+    }
+    window.SL_KEEP_SHEETS = false;
+    if (view !== "compare" && !routeArg) store.set("sl.view", view);
     const el = $(`#view-${section}`);
     if (section === "today") window.SL_TODAY.renderToday(el);
     else if (section === "journeys") window.SL_TODAY.renderJourneys(el, journeyReq);
@@ -167,11 +177,24 @@
     else if (section === "wrapped") window.SL_WRAPPED.render(el);
     else if (section === "compare") window.SL_SHARE.renderCompare(el, tasteCode);
     else if (section === "you") window.SL_YOU.render(el);
+    else if (["profile", "feed", "people", "inbox", "clubs", "club", "list"].includes(section)) {
+      const D = window.SL_DIARY;
+      el.innerHTML = `<p class="loading">Loading…</p>`;
+      window.SL_COMM.init().then(() => {
+        if (section === "profile") D.renderProfile(el, routeArg && routeArg !== window.SL_COMM.me.id ? routeArg : null);
+        else if (section === "feed") D.renderFeed(el);
+        else if (section === "people") D.renderPeople(el);
+        else if (section === "inbox") D.renderInbox(el);
+        else if (section === "clubs") D.renderClubs(el);
+        else if (section === "club") D.renderClub(el, routeArg);
+        else if (section === "list") { const [u, id] = (routeArg || "").split(/\.(?=[^.]+$)/); D.renderList(el, u, id); }
+      });
+    }
     window.SL_MAP.active(section === "map");
     journeyReq = undefined;
     if (section !== lastSection || GAME_VIEWS.includes(view)) { el.classList.remove("enter"); void el.offsetWidth; el.classList.add("enter"); }
     lastSection = section;
-    if (section !== "map") window.scrollTo(0, 0);
+    if (section !== "map") window.scrollTo(0, inPlace ? keepY : 0);
   }
   function go(view) { if (location.hash.slice(1) === view) route(); else location.hash = view; }
 
@@ -288,7 +311,7 @@
     const up = sortRel(a.up), down = sortRel(a.down);
     const rel = (r, dir) => `<li><div class="hd">${chip(r.id)}<span class="mono qmeta" style="font-size:.74rem">${esc(A[r.id].decade)}</span>${r.fan ? `<span class="tag">Added by a fan</span>` : strength(r.s)}</div>${r.why ? `<span class="why">${esc(r.why)}</span>` : ""}${r.fan && r.src ? `<a class="src" href="${esc(r.src)}" target="_blank" rel="noopener">Source ↗</a>` : dir === "up" ? srcHTML(r.id, id) : srcHTML(id, r.id)}</li>`;
     const relList = (arr, dir) => { const f = (r) => rel(r, dir); return arr.length <= 10 ? `<ul class="rels">${arr.map(f).join("")}</ul>` : `<ul class="rels">${arr.slice(0, 10).map(f).join("")}</ul><details class="toggle-list"><summary>Show ${arr.length - 10} more</summary><ul class="rels" style="margin-top:10px">${arr.slice(10).map(f).join("")}</ul></details>`; };
-    const nSrc = [...up.map((r) => `${r.id}>${id}`), ...down.map((r) => `${id}>${r.id}`)].filter((k) => SRC[k]).length;
+    const nSrc = up.map((r) => `${r.id}>${id}`).filter((k) => SRC[k]).length;
     const songsBy = SONGS.filter((s) => s.artist === id);
     const albumsBy = ALBUMS.filter((x) => x.artist === id).sort((p, q) => p.year - q.year);
     const keyAl = (a.keyAlbums || []).filter(([t]) => !albumsBy.some((x) => norm(x.title) === norm(t)));
@@ -319,11 +342,12 @@
       ${dna(a.id).length > 1 ? `<div class="p-sec"><div class="card">${dnaHTML(a.id)}</div></div>` : ""}
       ${makers.length ? `<div class="p-sec"><h3>Made with</h3><div class="madewith">${makers.map((r) => mw(r, A[r.id].role === "producer" ? "Producer" : "Session players")).join("")}</div></div>` : ""}
       ${a.role && down.length ? `<div class="p-sec"><h3 style="color:var(--down)">Credits · ${down.length}</h3><div class="madewith">${down.slice(0, 24).map((r) => mw(r, `${A[r.id].decade} · ${(r.why || "").slice(0, 70)}${(r.why || "").length > 70 ? "…" : ""}`)).join("")}</div>${down.length > 24 ? `<details class="toggle-list"><summary>Show ${down.length - 24} more</summary><div class="madewith" style="margin-top:10px">${down.slice(24).map((r) => mw(r, A[r.id].decade)).join("")}</div></details>` : ""}</div>` : ""}
+      ${up.filter((r) => r.s === 3).length >= 2 ? `<div class="p-sec"><h3>In their own words</h3><p class="qmeta" style="margin:0;font-size:.84rem">Artists ${esc(a.name)} has named as influences themselves.</p><div class="chips">${up.filter((r) => r.s === 3).slice(0, 8).map((r) => chip(r.id)).join("")}</div></div>` : ""}
       <div class="p-sec"><h3 style="color:var(--up)">Influenced by · ${up.length}</h3>${nSrc ? `<p class="qmeta" style="margin:0;font-size:.8rem">${nSrc} of these links have a cited source.</p>` : ""}${up.length ? relList(up, "up") : `<p class="qmeta">A root of the tree here.</p>`}</div>
       ${a.role ? "" : `<div class="p-sec"><h3 style="color:var(--down)">Influenced · ${down.length}</h3>${down.length ? relList(down, "down") : `<p class="qmeta">No one mapped downstream yet.</p>`}</div>`}
       ${(a.cousins || []).filter((c) => A[c.id]).length ? `<div class="p-sec"><h3>If you like ${esc(a.name)}, try</h3><ul class="rels">${a.cousins.filter((c) => A[c.id]).map((c) => `<li><div class="hd">${chip(c.id)}<span class="qmeta" style="font-size:.8rem">${esc(FAM[A[c.id].family].name)}</span></div><span class="why">${esc(c.why)}</span></li>`).join("")}</ul></div>` : ""}
       ${window.SL_SPOT?.panelHTML(a) || ""}
-      ${albumsBy.length || keyAl.length ? `<div class="p-sec"><h3>Albums</h3><div class="mini">${albumsBy.map((x) => `<button data-tree="album" data-id="${x.id}"><span><b>${esc(x.title)}</b> <span class="qmeta" style="font-size:.8rem">· lineage</span></span><span class="yr">${x.year}</span></button>`).join("")}${keyAl.map(([t, y]) => `<div><span>${esc(t)}</span><span class="yr">${y || ""}</span></div>`).join("")}</div></div>` : ""}
+      ${(() => { const als = window.SL_DIARY.albumsOf(a.id), st = window.SL_COMM.me ? window.SL_COMM.artistStats(a.id) : { logs: 0 }; return `<div class="p-sec"><div class="sec-h"><h3>Albums</h3>${st.logs ? `<span class="qmeta" style="font-size:.8rem">logged ${st.logs} time${st.logs === 1 ? "" : "s"} by ${st.people} member${st.people === 1 ? "" : "s"}</span>` : ""}</div>${als.length ? `<ul class="lg">${als.map((x) => { const s2 = window.SL_COMM.me ? window.SL_COMM.albumStats(x.key) : { n: 0 }; return `<li><div class="lrow" style="cursor:default">${window.SL_DIARY.art(x, 44)}<span style="min-width:0">${x.albumId && AL[x.albumId] ? `<button class="lnk t" data-tree="album" data-id="${x.albumId}">${esc(x.title)}</button>` : `<span class="t">${esc(x.title)}</span>`}<span class="s">${x.year || ""}${s2.n ? ` · members ${window.SL_DIARY.stars(Math.round(s2.avg * 2))} (${s2.n})` : ""}${x.albumId && AL[x.albumId] ? " · has a lineage" : ""}</span></span><button class="ghost small" data-log="${esc(x.key)}">Log</button></div></li>`; }).join("")}</ul>` : ""}<div class="gbtns"><button class="ghost small" data-log="" data-logartist="${a.id}">Log another album by ${esc(a.name)}</button></div></div>`; })()}
       ${(a.songs || []).length ? `<div class="p-sec"><h3>Start with</h3><div class="chips">${a.songs.map((s) => `<a class="ghost small" target="_blank" rel="noopener" href="https://open.spotify.com/search/${enc(s + " " + a.name)}">▶ ${esc(s)}</a>`).join("")}</div></div>` : ""}
       ${songsBy.length ? `<div class="p-sec"><h3>Samples</h3><div class="mini">${songsBy.map((s) => `<button data-tree="song" data-id="${s.id}"><span><b>${esc(s.title)}</b> <span class="qmeta" style="font-size:.8rem">· ${s.down.length ? `reused ${s.down.length}×` : `built from ${s.up.length}`}</span></span><span class="yr">${s.year}</span></button>`).join("")}</div></div>` : ""}
       ${window.SL_SOCIAL.ownHTML(a)}
@@ -391,7 +415,7 @@
     msg.textContent = "Sending…";
     try {
       const ref = d.doc(`corrections/${uid}`), snap = await ref.get();
-      const reports = (snap.exists && Array.isArray(snap.data?.reports) ? snap.data.reports : []).slice(-199);
+      const reports = (snap.exists && Array.isArray(snap.data()?.reports) ? snap.data().reports : []).slice(-199);
       reports.push({ artist: current, field: $("#fixfield").value, text: text.slice(0, 2000), at: new Date().toISOString() });
       await ref.set({ reports });
       $("#fixtext").value = ""; msg.textContent = "Thank you. Your correction was sent for review.";
@@ -456,6 +480,7 @@
     window.SL_MAP.init();
     window.addEventListener("hashchange", route);
     route();
+    window.SL_COMM.init().then(() => { window.SL_DIARY.badge(); if (["", "today"].includes(location.hash.slice(1))) route(); setInterval(() => window.SL_COMM.refresh().then(() => window.SL_DIARY.badge()).catch(() => {}), 60000); }).catch(() => {});
   }
   boot();
 })();

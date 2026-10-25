@@ -1,0 +1,111 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Transform: AWS::Serverless-2016-10-31
+Description: Sound Lineage community backend - Cognito sign-in, DynamoDB, one Lambda API.
+
+Parameters:
+  SiteUrl:
+    Type: String
+    Default: https://scarusillo.github.io/Sound-Lineage/
+    Description: Where the app lives; used for sign-in redirects and CORS.
+  SiteOrigin:
+    Type: String
+    Default: https://scarusillo.github.io
+  AuthPrefix:
+    Type: String
+    Default: sound-lineage-auth
+    Description: Must be globally unique; becomes <prefix>.auth.<region>.amazoncognito.com
+
+Globals:
+  Function:
+    Runtime: nodejs20.x
+    Architectures: [arm64]
+    MemorySize: 512
+    Timeout: 10
+
+Resources:
+  Table:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      BillingMode: PAY_PER_REQUEST
+      AttributeDefinitions:
+        - { AttributeName: PK, AttributeType: S }
+        - { AttributeName: SK, AttributeType: S }
+        - { AttributeName: GSI1PK, AttributeType: S }
+        - { AttributeName: GSI1SK, AttributeType: S }
+      KeySchema:
+        - { AttributeName: PK, KeyType: HASH }
+        - { AttributeName: SK, KeyType: RANGE }
+      GlobalSecondaryIndexes:
+        - IndexName: GSI1
+          KeySchema:
+            - { AttributeName: GSI1PK, KeyType: HASH }
+            - { AttributeName: GSI1SK, KeyType: RANGE }
+          Projection: { ProjectionType: ALL }
+      PointInTimeRecoverySpecification: { PointInTimeRecoveryEnabled: true }
+
+  UserPool:
+    Type: AWS::Cognito::UserPool
+    Properties:
+      UserPoolName: sound-lineage-users
+      UsernameAttributes: [email]
+      AutoVerifiedAttributes: [email]
+      Schema:
+        - { Name: name, AttributeDataType: String, Mutable: true, Required: false }
+      Policies:
+        PasswordPolicy: { MinimumLength: 8, RequireLowercase: true, RequireNumbers: true, RequireSymbols: false, RequireUppercase: false }
+
+  AdminGroup:
+    Type: AWS::Cognito::UserPoolGroup
+    Properties: { GroupName: admin, UserPoolId: !Ref UserPool, Description: Can feature curators and hide content }
+
+  UserPoolDomain:
+    Type: AWS::Cognito::UserPoolDomain
+    Properties: { Domain: !Ref AuthPrefix, UserPoolId: !Ref UserPool }
+
+  UserPoolClient:
+    Type: AWS::Cognito::UserPoolClient
+    Properties:
+      UserPoolId: !Ref UserPool
+      ClientName: sound-lineage-web
+      GenerateSecret: false
+      AllowedOAuthFlowsUserPoolClient: true
+      AllowedOAuthFlows: [code]
+      AllowedOAuthScopes: [openid, email, profile]
+      SupportedIdentityProviders: [COGNITO]
+      CallbackURLs: [!Ref SiteUrl]
+      LogoutURLs: [!Ref SiteUrl]
+      IdTokenValidity: 24
+      RefreshTokenValidity: 30
+      TokenValidityUnits: { IdToken: hours, RefreshToken: days }
+
+  Api:
+    Type: AWS::Serverless::HttpApi
+    Properties:
+      CorsConfiguration:
+        AllowOrigins: [!Ref SiteOrigin, "http://localhost:8765"]
+        AllowHeaders: [authorization, content-type]
+        AllowMethods: [GET, PUT, OPTIONS]
+      Auth:
+        DefaultAuthorizer: Cognito
+        Authorizers:
+          Cognito:
+            IdentitySource: $request.header.Authorization
+            JwtConfiguration:
+              issuer: !Sub https://cognito-idp.${AWS::Region}.amazonaws.com/${UserPool}
+              audience: [!Ref UserPoolClient]
+
+  ApiFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: src/
+      Handler: index.handler
+      Environment: { Variables: { TABLE: !Ref Table } }
+      Policies: [{ DynamoDBCrudPolicy: { TableName: !Ref Table } }]
+      Events:
+        Any: { Type: HttpApi, Properties: { ApiId: !Ref Api, Path: /{proxy+}, Method: ANY } }
+
+Outputs:
+  ApiUrl: { Value: !Sub "https://${Api}.execute-api.${AWS::Region}.amazonaws.com" }
+  AuthDomain: { Value: !Sub "https://${AuthPrefix}.auth.${AWS::Region}.amazoncognito.com" }
+  ClientId: { Value: !Ref UserPoolClient }
+  UserPoolId: { Value: !Ref UserPool }

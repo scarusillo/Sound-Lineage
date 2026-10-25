@@ -39,6 +39,11 @@
   <symbol id="i-dial" viewBox="0 0 24 24"><path d="M4 18a8 8 0 1 1 16 0" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><path d="M12 18l4-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></symbol>
   <symbol id="i-credits" viewBox="0 0 24 24"><path d="M5 4h14v16H5z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M8.5 8.5h7M8.5 12h7M8.5 15.5h4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
   <symbol id="i-grid" viewBox="0 0 24 24"><rect x="4" y="4" width="6.5" height="6.5" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.8"/><rect x="13.5" y="4" width="6.5" height="6.5" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.8"/><rect x="4" y="13.5" width="6.5" height="6.5" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.8"/><rect x="13.5" y="13.5" width="6.5" height="6.5" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.8"/></symbol>
+  <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></symbol>
+  <symbol id="i-bell" viewBox="0 0 24 24"><path d="M6 16V11a6 6 0 0 1 12 0v5l1.5 2h-15z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M10 20.5a2 2 0 0 0 4 0" fill="none" stroke="currentColor" stroke-width="1.8"/></symbol>
+  <symbol id="i-feed" viewBox="0 0 24 24"><rect x="4" y="4" width="16" height="6" rx="2" fill="none" stroke="currentColor" stroke-width="1.8"/><rect x="4" y="14" width="16" height="6" rx="2" fill="none" stroke="currentColor" stroke-width="1.8"/></symbol>
+  <symbol id="i-people" viewBox="0 0 24 24"><circle cx="9" cy="9" r="3.2" fill="none" stroke="currentColor" stroke-width="1.8"/><circle cx="17" cy="10" r="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M3 19c.8-3 3.2-4.5 6-4.5s5.2 1.5 6 4.5M15 15.2c2.6-.4 4.8.8 5.6 3.3" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+  <symbol id="i-club" viewBox="0 0 24 24"><circle cx="8" cy="12" r="5" fill="none" stroke="currentColor" stroke-width="1.8"/><circle cx="16" cy="12" r="5" fill="none" stroke="currentColor" stroke-width="1.8"/></symbol>
   <symbol id="i-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 11v6M12 7.5v.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></symbol>
 </svg>
 
@@ -56,6 +61,7 @@
     <div id="qres" class="qres" hidden></div>
   </div>
   <button class="ibtn sopen" id="sopen" aria-label="Search"><svg><use href="#i-search"/></svg></button>
+  <a class="ibtn bell" href="#inbox" aria-label="Notifications"><svg><use href="#i-bell"/></svg><i class="badge" data-badge hidden></i></a>
 </header>
 
 <nav class="rail" aria-label="Main">
@@ -65,7 +71,15 @@
     <a href="#map" data-view="map"><svg><use href="#i-map"/></svg>Map</a>
     <a href="#tree" data-view="tree"><svg><use href="#i-tree"/></svg>Lineage</a>
     <a href="#mix" data-view="mix"><svg><use href="#i-mix"/></svg>Mix</a>
-    <a href="#you" data-view="you"><svg><use href="#i-you"/></svg>You</a>
+    <a href="#profile" data-view="profile"><svg><use href="#i-you"/></svg>Profile</a>
+  </div>
+  <button class="solid hot raillog" data-log=""><svg><use href="#i-plus"/></svg>Log an album</button>
+  <div class="rail-h">Community</div>
+  <div class="rail-nav small">
+    <a href="#feed" data-view="feed"><svg><use href="#i-feed"/></svg>Feed</a>
+    <a href="#clubs" data-view="clubs"><svg><use href="#i-club"/></svg>Listening clubs</a>
+    <a href="#people" data-view="people"><svg><use href="#i-people"/></svg>People</a>
+    <a href="#inbox" data-view="inbox"><svg><use href="#i-bell"/></svg>Notifications <i class="badge" data-badge hidden></i></a>
   </div>
   <div class="rail-h">Explore</div>
   <div class="rail-nav small">
@@ -75,6 +89,7 @@
     <a href="#credits" data-view="credits"><svg><use href="#i-credits"/></svg>Behind the music</a>
     <a href="#journeys" data-view="journeys"><svg><use href="#i-route"/></svg>Journeys</a>
     <a href="#play" data-view="play"><svg><use href="#i-games"/></svg>Games</a>
+    <a href="#you" data-view="you"><svg><use href="#i-dial"/></svg>Connections & settings</a>
   </div>
   <p class="rail-foot">Influence links come from interviews, biographies and music histories. Every pick is human-curated.</p>
 </nav>
@@ -123,14 +138,21 @@
   <section id="view-ask" class="view" hidden></section>
   <section id="view-wrapped" class="view" hidden></section>
   <section id="view-you" class="view" hidden></section>
+  <section id="view-profile" class="view" hidden></section>
+  <section id="view-feed" class="view" hidden></section>
+  <section id="view-people" class="view" hidden></section>
+  <section id="view-inbox" class="view" hidden></section>
+  <section id="view-clubs" class="view" hidden></section>
+  <section id="view-club" class="view" hidden></section>
+  <section id="view-list" class="view" hidden></section>
 </main>
 
 <nav class="tabbar" aria-label="Main">
   <a href="#today" data-view="today"><svg><use href="#i-home"/></svg><span>Home</span></a>
   <a href="#map" data-view="map"><svg><use href="#i-map"/></svg><span>Map</span></a>
+  <button class="tablog" data-log="" aria-label="Log an album"><svg><use href="#i-plus"/></svg><span>Log</span></button>
   <a href="#tree" data-view="tree"><svg><use href="#i-tree"/></svg><span>Lineage</span></a>
-  <a href="#mix" data-view="mix"><svg><use href="#i-mix"/></svg><span>Mix</span></a>
-  <a href="#you" data-view="you"><svg><use href="#i-you"/></svg><span>You</span></a>
+  <a href="#profile" data-view="profile"><svg><use href="#i-you"/></svg><span>Profile</span></a>
 </nav>
 
 <div class="scrim" id="scrim" hidden></div>
@@ -147,6 +169,14 @@
   <div class="sheet-bar"><span class="grab" aria-hidden="true"></span><b class="sheet-t">Now playing</b><button class="ibtn" data-closequeue aria-label="Close"><svg><use href="#i-close"/></svg></button></div>
   <div id="queuebody"></div>
 </aside>
+<aside id="logsheet" class="sheet share" hidden aria-label="Log an album">
+  <div class="sheet-bar"><span class="grab" aria-hidden="true"></span><b class="sheet-t">Log an album</b><button class="ibtn" data-closelog aria-label="Close"><svg><use href="#i-close"/></svg></button></div>
+  <div id="logbody"></div>
+</aside>
+<aside id="gsheet" class="sheet share" hidden>
+  <div class="sheet-bar"><span class="grab" aria-hidden="true"></span><b class="sheet-t"></b><button class="ibtn" data-closesheet aria-label="Close"><svg><use href="#i-close"/></svg></button></div>
+  <div id="gbody"></div>
+</aside>
 <div class="toast" id="toast" role="status" hidden></div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
@@ -161,6 +191,9 @@
 <script src="player.js"></script>
 <script src="wrapped.js"></script>
 <script src="social.js"></script>
+<script src="config.js"></script>
+<script src="community.js"></script>
+<script src="diary.js"></script>
 <script src="tree.js"></script>
 <script src="cities.js"></script>
 <script src="map.js"></script>

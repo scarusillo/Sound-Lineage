@@ -107,6 +107,10 @@
     for (const id of window.SL_SPOT?.ids() || []) if (A[id] && !ids.includes(id)) ids.push(id);
     for (const a of L?.artists || []) if (a.id && A[a.id] && !ids.includes(a.id)) ids.push(a.id);
     for (const f of favs()) if (A[f] && !ids.includes(f)) ids.push(f);
+    // artists from the listening diary, best-rated first
+    const logs = window.SL_COMM?.me?.logs || [];
+    const sc = {}; logs.slice(0, 300).forEach((l, i) => { if (A[l.artist]) sc[l.artist] = (sc[l.artist] || 0) + (l.rating || 6) / (1 + i / 60); });
+    for (const id of Object.keys(sc).sort((a, b) => sc[b] - sc[a])) if (!ids.includes(id)) ids.splice(Math.min(ids.length, 5), 0, id);
     return ids;
   }
 
@@ -153,6 +157,10 @@
       ${ids.length >= 3 ? window.SL_SHARE.tasteCardHTML(ids) : ""}
       ${(() => { const fr = ctx.store.get("sl.friends", []); return fr.length ? `<section class="sec"><div class="sec-h"><h2>Friends</h2><span class="qmeta">open one for your blend and what you both should hear</span></div><ul class="lg">${fr.map((f) => { const their = window.SL_SHARE.decode(f.code); return `<li><a class="lrow" href="#taste.${esc(f.code)}" style="text-decoration:none">${their[0] ? ctx.vinyl(their[0]) : ""}<span style="min-width:0"><span class="t">${esc(f.name)}</span><span class="s">${esc(their.slice(0, 4).map((i) => A[i].name).join(", "))}</span></span><button class="ghost small" data-unfriend="${esc(f.code)}">Remove</button></a></li>`; }).join("")}</ul></section>` : ""; })()}
 
+      <section class="panel-card"><h2>Your account</h2>
+        <p class="qmeta" style="margin:0">${window.SL_COMM?.backend?.kind === "claude" ? "You're signed in through Claude. Your diary, follows and lists are shared with everyone this page is shared with." : window.SL_COMM?.backend?.kind === "aws" ? "Signed in. Your diary is saved to your account." : window.SL_CONFIG?.api ? "Sign in to save your diary to your account and follow friends." : "Your diary is saved on this device. When accounts launch it moves over in one step. You can also save a copy any time."}</p>
+        <div class="gbtns">${window.SL_CONFIG?.api ? (window.SL_COMM?.backend?.kind === "aws" ? `<button class="ghost" data-signout>Sign out</button>` : `<button class="solid" data-signin>Sign in</button>`) : ""}<button class="ghost" data-export>Save a copy of my diary</button><label class="ghost" for="dimport" style="cursor:pointer">Import a diary file</label><input type="file" id="dimport" accept=".json,application/json" hidden></div>
+      </section>
       <section class="connectors">
         <div class="conn drop" id="drop">
           <span class="st ${L && !L.example ? "ok" : ""}">${L && !L.example ? `✓ Imported ${esc(L.at)}` : "Import"}</span>
@@ -223,7 +231,11 @@
     fq.oninput = () => { const hits = ctx.searchHits(fq.value, ["artist"], 8); fr.innerHTML = ctx.hitsHTML(hits, "No match on the map yet"); fr.hidden = !fq.value.trim(); };
     fr.onclick = (e) => { const b = e.target.closest("button[data-id]"); if (b) { if (!isFav(b.dataset.id)) toggleFav(b.dataset.id); render(root); } };
     $("#cityform", root).onsubmit = (e) => { e.preventDefault(); ctx.store.set("sl.city", $("#city", root).value.trim()); render(root); };
+    $("#dimport", root).onchange = async (e) => { const f = e.target.files[0]; if (!f) return; try { window.SL_COMM.importDiary(await f.text()); ctx.toast("Diary imported"); } catch { ctx.toast("That file isn't a Sound Lineage diary."); } };
     root.onclick = (e) => {
+      if (e.target.closest("[data-export]")) { window.SL_SHARE.saveFile(`sound-lineage-diary-${new Date().toISOString().slice(0, 10)}.json`, new Blob([window.SL_COMM.exportDiary()], { type: "application/json" }), e.target.closest("[data-export]")); return; }
+      if (e.target.closest("[data-signin]")) { window.SL_COMM.aws.signIn(); return; }
+      if (e.target.closest("[data-signout]")) { window.SL_COMM.aws.signOut(); return; }
       const ufr = e.target.closest("[data-unfriend]"); if (ufr) { e.preventDefault(); ctx.store.set("sl.friends", ctx.store.get("sl.friends", []).filter((f) => f.code !== ufr.dataset.unfriend)); render(root); return; }
       const uf = e.target.closest("[data-unfav]"); if (uf) { toggleFav(uf.dataset.unfav); render(root); return; }
       if (e.target.closest("[data-example]")) { ctx.store.set("sl.lib", EXAMPLE); render(root); return; }

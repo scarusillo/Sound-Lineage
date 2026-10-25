@@ -43,7 +43,10 @@
       : ["The Connector", "You keep one foot in the classics and one in what's new, and the lineage runs right through you."];
     const parts = window.SL_SHARE.tasteDNA(ids);
     const next = window.SL_YOU.recommend(ids).filter((r) => ["2010s", "2020s"].includes(A[r.id].decade)).slice(0, 5);
-    return { ids, top, roots, oldest, city, cityArtists, decN, type, parts, next, year: new Date().getFullYear() };
+    const yr = String(new Date().getFullYear()), logs = (window.SL_COMM?.me?.logs || []).filter((l) => (l.date || "").startsWith(yr));
+    const best = [...logs].filter((l) => l.rating).sort((a, b) => b.rating - a.rating)[0];
+    const diary = logs.length ? { n: logs.length, best, reviews: logs.filter((l) => l.text).length, goal: window.SL_COMM.me.goal?.n } : null;
+    return { ids, top, roots, oldest, city, cityArtists, decN, type, parts, next, diary, year: new Date().getFullYear() };
   }
 
   function slides(W) {
@@ -52,6 +55,7 @@
     const bar = (parts) => `<div class="dna-bar w-dna">${parts.map(([f, p]) => `<i style="width:${(p * 100).toFixed(1)}%;background:var(--f-${f})"></i>`).join("")}</div>`;
     return [
       { c: A[W.top[0]].family, h: `<span class="w-k">Lineage Wrapped ${W.year}</span><span class="w-big">Your year, traced back to its roots.</span><span class="w-s">You played ${W.ids.length} artists on the map. Here is where their sound came from.</span>` },
+      W.diary && { c: W.best ? A[W.diary.best?.artist]?.family || "rock" : A[W.top[0]].family, h: `<span class="w-k">Your diary</span><span class="w-big mono">${W.diary.n}</span><span class="w-s">albums logged this year${W.diary.goal ? `, ${Math.round((W.diary.n / W.diary.goal) * 100)}% of your goal` : ""}${W.diary.reviews ? `, with ${W.diary.reviews} written review${W.diary.reviews === 1 ? "" : "s"}` : ""}.${W.diary.best ? ` Your top rating went to ${esc(W.diary.best.title)} by ${esc(W.diary.best.artistName)}.` : ""}</span>` },
       { c: W.parts[0][0], h: `<span class="w-k">Your Genre DNA</span><span class="w-big">${Math.round(W.parts[0][1] * 100)}% ${esc(F[W.parts[0][0]].short.toLowerCase())}</span>${bar(W.parts)}<span class="w-s">${W.parts.slice(1, 4).map(([f, p]) => `${esc(F[f].short)} ${Math.round(p * 100)}%`).join(" · ")}. Counted from your artists and three generations of the people who shaped them.</span>` },
       r0 && { c: A[r0[0]].family, h: `<span class="w-k">Your number one root</span>${ctx.vinyl(r0[0])}<span class="w-big">${esc(A[r0[0]].name)}</span><span class="w-s">${r0[1]} of your top artists trace back to ${esc(A[r0[0]].name)} within two generations, including ${esc(W.top.filter((id) => A[id].up.some((u) => u.id === r0[0] || A[u.id].up.some((uu) => uu.id === r0[0]))).slice(0, 3).map((id) => A[id].name).join(", "))}.</span>` },
       W.oldest && { c: A[W.oldest.id].family, h: `<span class="w-k">How far back you go</span><span class="w-big mono">${esc(A[W.oldest.id].decade)}</span><span class="w-s">Follow ${esc(A[W.oldest.from].name)} back far enough and you reach ${esc(A[W.oldest.id].name)}${A[W.oldest.id].origin ? `, in ${esc(A[W.oldest.id].origin)}` : ""}.</span>` },
