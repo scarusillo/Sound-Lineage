@@ -90,6 +90,7 @@
   /* sources: a cited page for the most important links, a search shortcut for the rest */
   function srcHTML(from, to) {
     const s = SRC[`${from}>${to}`];
+    if (s && s.p === "Wikidata" && s.v === "p") return `<a class="src" href="${esc(s.u)}" target="_blank" rel="noopener">Listed on Wikidata ↗</a>`;
     if (s) return `<a class="src" href="${esc(s.u)}" target="_blank" rel="noopener" title="${esc(s.n || s.t)}">${s.v === "p" ? "Partly backed by" : "Source:"} ${esc(s.p || new URL(s.u).hostname.replace(/^www\./, ""))} ↗</a>`;
     const q = `${A[to]?.name || ""} ${A[from]?.name || ""} influence interview`;
     return `<a class="src none" href="https://www.google.com/search?q=${enc(q)}" target="_blank" rel="noopener">Find a source ↗</a>`;

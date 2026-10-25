@@ -31,8 +31,18 @@ byname = defaultdict(list)
 for q, it in items.items():
     if it.get("label"): byname[norm(it["label"])].append(q)
 q2id = {}
+def keys_of(name):
+    ks = {norm(name), norm(re.sub(r"\s*\(.*\)", "", name))}
+    lead = re.split(r" (?:&|and) (?:the )?", name, flags=re.I)[0]
+    if lead != name: ks.add(norm(lead))
+    m = re.search(r"\(([^)]+)\)", name)
+    if m: ks.add(norm(m.group(1)))
+    return {k for k in ks if k}
+curkey = {}
 for a in core["artists"]:
-    keys = {norm(a["name"]), norm(re.sub(r"\s*\(.*\)", "", a["name"]))}
+    for k in keys_of(a["name"]): curkey.setdefault(k, a["id"])
+for a in core["artists"]:
+    keys = keys_of(a["name"])
     cands = [q for k in keys for q in byname.get(k, [])]
     if not cands: continue
     def plausible(q):
@@ -40,6 +50,10 @@ for a in core["artists"]:
         return y is None or abs(DEC.index(a["decade"]) * 10 + 1900 - y) <= 35
     cands = [q for q in cands if plausible(q)]
     if cands: q2id[max(cands, key=lambda q: deg[q])] = a["id"]
+
+for q, it in items.items():
+    if q not in q2id and it.get("label") and norm(it["label"]) in curkey: q2id[q] = curkey[norm(it["label"])]
+    elif q not in q2id and it.get("label") and slug(it["label"]) in A: q2id[q] = slug(it["label"])
 
 # 2. genre families
 RULES = [("metal", r"metal|doom|thrash|sludge|grindcore|djent|black metal|death metal"),
@@ -68,15 +82,22 @@ def decade_of(it):
     y = year(it.get("start")) or year(it.get("incep")) or ((year(it.get("birth")) + 21) if year(it.get("birth")) else None)
     if not y or y < 1890: return None
     y = min(max(y, 1900), 2029); return f"{y // 10 * 10}s"
+MUSIC = re.compile(r"sing|music|band|rapper|\brap\b|compos|guitar|pian|drumm|\bdj\b|producer|songwriter|\bduo\b|trio|quartet|vocal|saxophon|trumpet|bass|orchestra|ensemble|record|\bmc\b|organist|violin|cellist|conductor|lyricist|percussion|keyboard|idol|group|hip hop|jazz|rock|pop|folk|blues|soul|metal|punk|reggae|country|electronic|crooner|chanteu|cantante", re.I)
+def is_music(it):
+    if MUSIC.search(it.get("desc") or ""): return True
+    return any(re.search(rx, g.lower()) for g in it.get("genres", []) for _, rx in RULES)
 used = set(A)
-ext, q2ext = [], {}
-for q, it in items.items():
+ext, q2ext, seen_name = [], {}, {}
+for q in sorted(items, key=lambda q: -deg[q]):
+    it = items[q]
     if q in q2id or not it.get("label") or re.match(r"^Q\d+$", it["label"]): continue
+    if not is_music(it): continue
+    if norm(it["label"]) in seen_name: q2ext[q] = seen_name[norm(it["label"])]; continue
     d = decade_of(it)
     if not d: continue
     sid = slug(it["label"]); base = sid; n = 2
     while sid in used: sid = f"{base}-{n}"; n += 1
-    used.add(sid); q2ext[q] = sid
+    used.add(sid); q2ext[q] = sid; seen_name[norm(it["label"])] = sid
     b, s, e = year(it.get("birth")), year(it.get("start")) or year(it.get("incep")), year(it.get("end")) or year(it.get("death"))
     if it.get("group"): yrs = f"{s or '?'}–{e or 'present'}" if s else ""
     else: yrs = f"{b}–{e}" if b and e else (f"born {b}" if b else "")
@@ -100,8 +121,10 @@ for qa, qb, urls in edges:
     if not a or not b or a == b: continue
     tgt = A.get(a) or E.get(a); frm = A.get(b) or E.get(b)
     if DEC.index(frm["decade"]) > DEC.index(tgt["decade"]) + 1: continue  # an influence can't come from much later
-    if a in A and any(u["id"] == b for u in A[a]["influencedBy"]): continue
     good = [u for u in urls if host(u) and "wikidata" not in host(u)]
+    if a in A and any(u["id"] == b for u in A[a]["influencedBy"]):
+        if good: src[f"{b}>{a}"] = {"u": good[0], "p": PUB.get(host(good[0]), host(good[0])), "t": "", "v": "s"}  # a source for a link we already had
+        continue
     why = f"{nameOf(a)} counts {nameOf(b)} among their influences."
     link = {"id": b, "why": why, "s": 2 if good else 1, "wd": 1}
     if a in E: E[a]["influencedBy"].append(link)
