@@ -34,8 +34,9 @@ jobs:
         if: inputs.task == 'wd'
         run: python3 scripts/wd_pull.py
       - name: Save results to the data-raw branch
+        if: always()
         run: |
-          mv raw /tmp/raw
+          mkdir -p raw; mv raw /tmp/raw
           git config user.name "sound-lineage-bot"; git config user.email "bot@users.noreply.github.com"
           git fetch origin data-raw || true
           if git rev-parse --verify origin/data-raw >/dev/null 2>&1; then git checkout -B data-raw origin/data-raw; else git checkout --orphan data-raw; git rm -rf . >/dev/null; fi

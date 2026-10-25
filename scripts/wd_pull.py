@@ -2,6 +2,9 @@
 Every artist in the output has a MusicBrainz ID, so the set stays limited to musicians and bands.
 Writes raw/wd.json: {"edges": [[a, b, [urls]]], "items": {qid: {...}}}, where a was influenced by b."""
 import json, time, sys, os, urllib.request, urllib.parse
+os.makedirs("raw", exist_ok=True)
+LOG = open("raw/log.txt", "a")
+def log(*a): print(*a, file=sys.stderr); print(*a, file=LOG); LOG.flush()
 
 UA = "SoundLineage/1.0 (https://github.com/scarusillo/Sound-Lineage)"
 EP = "https://query.wikidata.org/sparql"
@@ -14,28 +17,32 @@ def q(sparql, tries=5):
             with urllib.request.urlopen(req, timeout=120) as r:
                 return json.load(r)["results"]["bindings"]
         except Exception as e:
-            print("retry", t, e, file=sys.stderr); time.sleep(5 * (t + 1))
-    raise SystemExit("query failed")
+            log("retry", t, str(e)[:200]); time.sleep(5 * (t + 1))
+    log("query failed"); raise SystemExit("query failed")
 
 qid = lambda u: u.rsplit("/", 1)[-1]
 v = lambda row, k: row[k]["value"] if k in row else None
 
-# 1. influence edges between musicians, with any reference URLs on the statement
+# 1. influence edges between musicians (simple query; references fetched per batch below)
 edges = {}
-rows = q("""SELECT ?a ?b ?url WHERE {
-  ?a p:P737 ?st . ?st ps:P737 ?b .
-  ?a wdt:P434 [] . ?b wdt:P434 [] .
-  OPTIONAL { ?st prov:wasDerivedFrom/pr:P854 ?url . }
-}""")
+rows = q("""SELECT ?a ?b WHERE { ?a wdt:P737 ?b . ?a wdt:P434 [] . ?b wdt:P434 [] . }""")
 for r in rows:
     k = (qid(v(r, "a")), qid(v(r, "b")))
-    if k[0] == k[1]: continue
-    edges.setdefault(k, set())
-    if v(r, "url"): edges[k].add(v(r, "url"))
-print("edges", len(edges), file=sys.stderr)
-
+    if k[0] != k[1]: edges[k] = set()
+log("edges", len(edges))
+srcs = sorted({a for a, _ in edges})
+for i in range(0, len(srcs), 200):
+    vals = " ".join("wd:" + x for x in srcs[i:i + 200])
+    try:
+        rows = q(f"""SELECT ?a ?b ?url WHERE {{ VALUES ?a {{ {vals} }} ?a p:P737 ?st . ?st ps:P737 ?b . ?st prov:wasDerivedFrom/pr:P854 ?url . }}""", tries=3)
+    except SystemExit:
+        log("refs batch failed", i); continue
+    for r in rows:
+        k = (qid(v(r, "a")), qid(v(r, "b")))
+        if k in edges: edges[k].add(v(r, "url"))
+log("refs done", sum(1 for u in edges.values() if u))
 ids = sorted({x for k in edges for x in k})
-print("items", len(ids), file=sys.stderr)
+log("items", len(ids))
 
 # 2. facts for every artist involved, in batches
 items = {}
@@ -72,9 +79,9 @@ for chunk in batch(ids, 300):
         it = items.setdefault(qid(v(r, "i")), {"genres": [], "place": None})
         p = {"name": v(r, "pll"), "country": v(r, "cl"), "coord": v(r, "coord"), "kind": v(r, "kind")}
         if not it["place"] or (it["place"]["kind"] == "birth" and p["kind"] == "form"): it["place"] = p
-    print("facts", len(items), file=sys.stderr)
+    log("facts", len(items))
     time.sleep(1)
 
 os.makedirs("raw", exist_ok=True)
 json.dump({"edges": [[a, b, sorted(u)] for (a, b), u in edges.items()], "items": items}, open("raw/wd.json", "w"))
-print("done", file=sys.stderr)
+log("done")
