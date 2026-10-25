@@ -1,0 +1,25 @@
+# Every Friday: refresh new releases from artists on the map, then republish the site.
+name: New releases
+on:
+  schedule:
+    - cron: "17 9 * * 5"
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python3 scripts/releases.py
+      - name: Commit and republish
+        env: { GH_TOKEN: "${{ github.token }}" }
+        run: |
+          git config user.name "sound-lineage-bot"; git config user.email "bot@users.noreply.github.com"
+          git add site/data/releases.json
+          git diff --cached --quiet || (git commit -m "data: new releases $(date +%F)" && git push)
+          gh workflow run pages.yml --ref main

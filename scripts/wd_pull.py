@@ -9,7 +9,7 @@ def log(*a): print(*a, file=sys.stderr); print(*a, file=LOG); LOG.flush()
 UA = "SoundLineage/1.0 (https://github.com/scarusillo/Sound-Lineage)"
 EP = "https://query.wikidata.org/sparql"
 
-def q(sparql, tries=5):
+def q(sparql, tries=4):
     body = urllib.parse.urlencode({"query": sparql, "format": "json"}).encode()
     for t in range(tries):
         try:
@@ -48,9 +48,10 @@ log("items", len(ids))
 items = {}
 def batch(lst, n):
     for i in range(0, len(lst), n): yield lst[i:i + n]
-for chunk in batch(ids, 300):
+json.dump({"edges": [[a, b, sorted(u)] for (a, b), u in edges.items()]}, open("raw/wd_edges.json", "w"))
+def facts(chunk):
     vals = " ".join("wd:" + x for x in chunk)
-    rows = q(f"""SELECT ?i ?label ?desc ?mbid ?article ?birth ?incep ?start ?death ?end ?isgroup WHERE {{
+    rows = q(f"""SELECT ?i ?label ?desc ?mbid ?article ?birth ?incep ?start ?death ?end ?human WHERE {{
       VALUES ?i {{ {vals} }}
       OPTIONAL {{ ?i rdfs:label ?label FILTER(lang(?label)="en") }}
       OPTIONAL {{ ?i schema:description ?desc FILTER(lang(?desc)="en") }}
@@ -58,29 +59,37 @@ for chunk in batch(ids, 300):
       OPTIONAL {{ ?article schema:about ?i ; schema:isPartOf <https://en.wikipedia.org/> }}
       OPTIONAL {{ ?i wdt:P569 ?birth }} OPTIONAL {{ ?i wdt:P571 ?incep }} OPTIONAL {{ ?i wdt:P2031 ?start }}
       OPTIONAL {{ ?i wdt:P570 ?death }} OPTIONAL {{ ?i wdt:P576 ?end }} OPTIONAL {{ ?i wdt:P2032 ?stop }}
-      BIND(EXISTS {{ ?i wdt:P31/wdt:P279* wd:Q215380 }} AS ?isgroup)
+      BIND(EXISTS {{ ?i wdt:P31 wd:Q5 }} AS ?human)
     }}""")
     for r in rows:
         i = qid(v(r, "i")); it = items.setdefault(i, {"genres": [], "place": None})
         for k in ("label", "desc", "mbid", "article", "birth", "incep", "start", "death", "end"):
             if v(r, k) and not it.get(k): it[k] = v(r, k)
-        if v(r, "isgroup") == "true": it["group"] = True
-    rows = q(f"""SELECT ?i ?g ?gl WHERE {{ VALUES ?i {{ {vals} }} ?i wdt:P136 ?g . ?g rdfs:label ?gl FILTER(lang(?gl)="en") }}""")
+        if v(r, "human") == "false": it["group"] = True
+    try: rows = q(f"""SELECT ?i ?g ?gl WHERE {{ VALUES ?i {{ {vals} }} ?i wdt:P136 ?g . ?g rdfs:label ?gl FILTER(lang(?gl)="en") }}""", tries=3)
+    except SystemExit: rows = []
     for r in rows:
         it = items.setdefault(qid(v(r, "i")), {"genres": [], "place": None})
         if v(r, "gl") not in it["genres"]: it["genres"].append(v(r, "gl"))
     # where they came from: formation place for groups, birthplace for people, with coordinates
-    rows = q(f"""SELECT ?i ?pl ?pll ?coord ?cl ?kind WHERE {{ VALUES ?i {{ {vals} }}
+    try: rows = q(f"""SELECT ?i ?pl ?pll ?coord ?cl ?kind WHERE {{ VALUES ?i {{ {vals} }}
       {{ ?i wdt:P740 ?pl . BIND("form" AS ?kind) }} UNION {{ ?i wdt:P19 ?pl . BIND("birth" AS ?kind) }}
       ?pl rdfs:label ?pll FILTER(lang(?pll)="en")
       OPTIONAL {{ ?pl wdt:P625 ?coord }}
-      OPTIONAL {{ ?pl wdt:P17 ?c . ?c rdfs:label ?cl FILTER(lang(?cl)="en") }} }}""")
+      OPTIONAL {{ ?pl wdt:P17 ?c . ?c rdfs:label ?cl FILTER(lang(?cl)="en") }} }}""", tries=3)
+    except SystemExit: rows = []
     for r in rows:
         it = items.setdefault(qid(v(r, "i")), {"genres": [], "place": None})
         p = {"name": v(r, "pll"), "country": v(r, "cl"), "coord": v(r, "coord"), "kind": v(r, "kind")}
         if not it["place"] or (it["place"]["kind"] == "birth" and p["kind"] == "form"): it["place"] = p
-    log("facts", len(items))
-    time.sleep(1)
+
+for chunk in batch(ids, 120):
+    try: facts(chunk)
+    except SystemExit:
+        for small in batch(chunk, 30):
+            try: facts(small)
+            except SystemExit: log("chunk skipped", small[0])
+    log("facts", len(items)); time.sleep(1)
 
 os.makedirs("raw", exist_ok=True)
 json.dump({"edges": [[a, b, sorted(u)] for (a, b), u in edges.items()], "items": items}, open("raw/wd.json", "w"))
