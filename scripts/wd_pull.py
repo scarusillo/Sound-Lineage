@@ -44,52 +44,60 @@ log("refs done", sum(1 for u in edges.values() if u))
 ids = sorted({x for k in edges for x in k})
 log("items", len(ids))
 
-# 2. facts for every artist involved, in batches
+# 2. facts for every artist involved, through the entity API (50 per request; no query timeouts)
+API = "https://www.wikidata.org/w/api.php"
+def ents(qids, props):
+    out = {}
+    for i in range(0, len(qids), 50):
+        url = API + "?" + urllib.parse.urlencode({"action": "wbgetentities", "ids": "|".join(qids[i:i + 50]), "props": props, "languages": "en", "sitefilter": "enwiki", "format": "json"})
+        for t in range(5):
+            try:
+                with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": UA}), timeout=60) as r:
+                    out.update(json.load(r).get("entities", {})); break
+            except Exception as e:
+                log("api retry", t, str(e)[:120]); time.sleep(3 * (t + 1))
+        time.sleep(0.3)
+    return out
+def claim_vals(e, p):
+    vals = []
+    for c in e.get("claims", {}).get(p, []):
+        dv = c.get("mainsnak", {}).get("datavalue", {}).get("value")
+        if dv is None: continue
+        if isinstance(dv, dict) and "id" in dv: vals.append(dv["id"])
+        elif isinstance(dv, dict) and "time" in dv: vals.append(dv["time"].lstrip("+"))
+        elif isinstance(dv, dict) and "latitude" in dv: vals.append(f"Point({dv['longitude']} {dv['latitude']})")
+        else: vals.append(dv)
+    return vals
+E1 = ents(ids, "labels|descriptions|claims|sitelinks")
+log("entities", len(E1))
+refs = set()
+for e in E1.values():
+    for p in ("P136", "P740", "P19"): refs.update(claim_vals(e, p)[:6])
+E2 = ents(sorted(refs), "labels|claims")
+log("genres and places", len(E2))
+lab = lambda q: E2.get(q, {}).get("labels", {}).get("en", {}).get("value")
 items = {}
-def batch(lst, n):
-    for i in range(0, len(lst), n): yield lst[i:i + n]
-json.dump({"edges": [[a, b, sorted(u)] for (a, b), u in edges.items()]}, open("raw/wd_edges.json", "w"))
-def facts(chunk):
-    vals = " ".join("wd:" + x for x in chunk)
-    rows = q(f"""SELECT ?i ?label ?desc ?mbid ?article ?birth ?incep ?start ?death ?end ?human WHERE {{
-      VALUES ?i {{ {vals} }}
-      OPTIONAL {{ ?i rdfs:label ?label FILTER(lang(?label)="en") }}
-      OPTIONAL {{ ?i schema:description ?desc FILTER(lang(?desc)="en") }}
-      OPTIONAL {{ ?i wdt:P434 ?mbid }}
-      OPTIONAL {{ ?article schema:about ?i ; schema:isPartOf <https://en.wikipedia.org/> }}
-      OPTIONAL {{ ?i wdt:P569 ?birth }} OPTIONAL {{ ?i wdt:P571 ?incep }} OPTIONAL {{ ?i wdt:P2031 ?start }}
-      OPTIONAL {{ ?i wdt:P570 ?death }} OPTIONAL {{ ?i wdt:P576 ?end }} OPTIONAL {{ ?i wdt:P2032 ?stop }}
-      BIND(EXISTS {{ ?i wdt:P31 wd:Q5 }} AS ?human)
-    }}""")
-    for r in rows:
-        i = qid(v(r, "i")); it = items.setdefault(i, {"genres": [], "place": None})
-        for k in ("label", "desc", "mbid", "article", "birth", "incep", "start", "death", "end"):
-            if v(r, k) and not it.get(k): it[k] = v(r, k)
-        if v(r, "human") == "false": it["group"] = True
-    try: rows = q(f"""SELECT ?i ?g ?gl WHERE {{ VALUES ?i {{ {vals} }} ?i wdt:P136 ?g . ?g rdfs:label ?gl FILTER(lang(?gl)="en") }}""", tries=3)
-    except SystemExit: rows = []
-    for r in rows:
-        it = items.setdefault(qid(v(r, "i")), {"genres": [], "place": None})
-        if v(r, "gl") not in it["genres"]: it["genres"].append(v(r, "gl"))
-    # where they came from: formation place for groups, birthplace for people, with coordinates
-    try: rows = q(f"""SELECT ?i ?pl ?pll ?coord ?cl ?kind WHERE {{ VALUES ?i {{ {vals} }}
-      {{ ?i wdt:P740 ?pl . BIND("form" AS ?kind) }} UNION {{ ?i wdt:P19 ?pl . BIND("birth" AS ?kind) }}
-      ?pl rdfs:label ?pll FILTER(lang(?pll)="en")
-      OPTIONAL {{ ?pl wdt:P625 ?coord }}
-      OPTIONAL {{ ?pl wdt:P17 ?c . ?c rdfs:label ?cl FILTER(lang(?cl)="en") }} }}""", tries=3)
-    except SystemExit: rows = []
-    for r in rows:
-        it = items.setdefault(qid(v(r, "i")), {"genres": [], "place": None})
-        p = {"name": v(r, "pll"), "country": v(r, "cl"), "coord": v(r, "coord"), "kind": v(r, "kind")}
-        if not it["place"] or (it["place"]["kind"] == "birth" and p["kind"] == "form"): it["place"] = p
-
-for chunk in batch(ids, 120):
-    try: facts(chunk)
-    except SystemExit:
-        for small in batch(chunk, 30):
-            try: facts(small)
-            except SystemExit: log("chunk skipped", small[0])
-    log("facts", len(items)); time.sleep(1)
+for q, e in E1.items():
+    if "missing" in e: continue
+    first = lambda p: (claim_vals(e, p) or [None])[0]
+    it = {"label": e.get("labels", {}).get("en", {}).get("value"), "desc": e.get("descriptions", {}).get("en", {}).get("value"),
+          "mbid": first("P434"), "article": ("https://en.wikipedia.org/wiki/" + e["sitelinks"]["enwiki"]["title"].replace(" ", "_")) if e.get("sitelinks", {}).get("enwiki") else None,
+          "birth": first("P569"), "incep": first("P571"), "start": first("P2031"), "death": first("P570"), "end": first("P576") or first("P2032"),
+          "genres": [g for g in (lab(x) for x in claim_vals(e, "P136")) if g], "place": None}
+    if "Q5" not in claim_vals(e, "P31"): it["group"] = True
+    for kind, p in (("form", "P740"), ("birth", "P19")):
+        pl = first(p)
+        if pl and pl in E2 and not it["place"]:
+            pe = E2[pl]; c = (claim_vals(pe, "P17") or [None])[0]
+            it["place"] = {"name": lab(pl), "country": None, "coord": (claim_vals(pe, "P625") or [None])[0], "kind": kind, "cq": c}
+    items[q] = it
+cq = sorted({it["place"]["cq"] for it in items.values() if it["place"] and it["place"].get("cq")})
+E3 = ents(cq, "labels")
+for it in items.values():
+    if it["place"]:
+        c = it["place"].pop("cq", None)
+        it["place"]["country"] = E3.get(c, {}).get("labels", {}).get("en", {}).get("value") if c else None
+log("facts", len(items))
 
 os.makedirs("raw", exist_ok=True)
 json.dump({"edges": [[a, b, sorted(u)] for (a, b), u in edges.items()], "items": items}, open("raw/wd.json", "w"))
