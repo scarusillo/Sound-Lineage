@@ -476,7 +476,12 @@
     window.SL_SOCIAL.loadApproved().then((links) => {
       for (const l of links) { if (!A[l.from] || !A[l.to] || A[l.to].up.some((u) => u.id === l.from)) continue; A[l.to].up.push({ id: l.from, why: l.why, s: 2, fan: true, src: l.src }); A[l.from].down.push({ id: l.to, why: l.why, s: 2, fan: true, src: l.src }); }
     });
-    if ("serviceWorker" in navigator && /github\.io$/.test(location.hostname)) navigator.serviceWorker.register("sw.js").catch(() => {});
+    if ("serviceWorker" in navigator && /github\.io$/.test(location.hostname)) {
+      // when a new version takes over, reload once so the update shows right away
+      const had = !!navigator.serviceWorker.controller; let reloaded = false;
+      navigator.serviceWorker.addEventListener("controllerchange", () => { if (had && !reloaded) { reloaded = true; location.reload(); } });
+      navigator.serviceWorker.register("sw.js", { updateViaCache: "none" }).then((r) => r.update()).catch(() => {});
+    }
     window.SL_MAP.init();
     window.addEventListener("hashchange", route);
     route();
