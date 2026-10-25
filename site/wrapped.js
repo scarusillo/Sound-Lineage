@@ -27,7 +27,7 @@
         for (const f of frontier) for (const u of A[f].up) if (!seen.has(u.id)) { seen.add(u.id); nx.push(u.id); }
         frontier = nx;
       }
-      for (const s of seen) if (!A[s].role && (!oldest || ctx.decIdx(A[s].decade) < ctx.decIdx(A[oldest.id].decade) || (A[s].decade === A[oldest.id].decade && A[s].reach > A[oldest.id].reach))) oldest = { id: s, from: id };
+      for (const s of seen) if (s !== id && !A[s].role && (!oldest || ctx.decIdx(A[s].decade) < ctx.decIdx(A[oldest.id].decade) || (A[s].decade === A[oldest.id].decade && A[s].reach > A[oldest.id].reach))) oldest = { id: s, from: id };
     }
     const cityN = {};
     for (const id of top) { const g = G[id]; if (g) { const k = `${g[2]}, ${g[3]}`; cityN[k] = (cityN[k] || 0) + 1; } }

@@ -25,8 +25,16 @@
     return `<div class="dna-bar" role="img" aria-label="${esc(label)}: ${parts.map(([f, p]) => `${F[f].name} ${Math.round(p * 100)}%`).join(", ")}">${parts.map(([f, p]) => `<i style="width:${(p * 100).toFixed(1)}%;background:var(--f-${f})"></i>`).join("")}</div>`;
   }
   function dnaKey(parts) { const F = C().FAM; return `<div class="dna-key">${parts.map(([f, p]) => `<span><i style="background:var(--f-${f})"></i>${esc(F[f].short)} <b>${Math.round(p * 100)}%</b></span>`).join("")}</div>`; }
-  const code = (ids) => { const idx = C().ARTISTS.map((a) => a.id); return ids.slice(0, 12).map((id) => idx.indexOf(id)).filter((i) => i >= 0).map((i) => i.toString(36)).join("."); };
-  const decode = (s) => { const arr = C().ARTISTS; return [...new Set(String(s || "").split(".").map((x) => arr[parseInt(x, 36)]?.id).filter(Boolean))]; };
+  // links carry a short fingerprint of each artist id, so they keep working when the catalog grows
+  const tag = (id) => (C().hash(id) % 46656 * 46656 + C().hash(id + "~") % 46656).toString(36);
+  let TAGS = null;
+  const code = (ids) => "h." + ids.filter((id) => C().A[id]).slice(0, 12).map(tag).join(".");
+  const decode = (s) => {
+    const parts = String(s || "").split(".");
+    if (parts[0] !== "h") return [];
+    TAGS ??= Object.fromEntries(C().ARTISTS.map((a) => [tag(a.id), a.id]));
+    return [...new Set(parts.slice(1).map((x) => TAGS[x]).filter(Boolean))];
+  };
   function tasteCardHTML(ids) {
     const parts = tasteDNA(ids);
     return `<section class="panel-card"><div class="sec-h"><h2>Your Genre DNA</h2><span class="qmeta">from ${Math.min(ids.length, 25)} artists you play and their roots</span></div>${dnaBar(parts, "Your Genre DNA")}${dnaKey(parts)}<div class="gbtns"><button class="solid" data-sharetaste><svg><use href="#i-share"/></svg>Compare with a friend</button><button class="ghost" data-go="mix">Open your mix</button></div></section>`;
@@ -159,15 +167,19 @@
       return;
     }
     const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = name; document.body.appendChild(a); a.click(); a.remove();
+    setTimeout(() => URL.revokeObjectURL(a.href), 4000);
     if (btn) { const t = btn.textContent; btn.textContent = "Saved"; setTimeout(() => (btn.textContent = t), 1500); }
   }
+  let fillTok = 0;
   function fill(p, link, text) {
-    p.then((url) => { const img = $("#shareimg"); if (img) img.src = url; lastImg = url; }).catch(() => { const img = $("#shareimg"); if (img) img.replaceWith(Object.assign(document.createElement("p"), { className: "notice", textContent: "The card image could not be drawn here. The link and text still work." })); });
+    lastImg = null; const tok = ++fillTok;
+    p.then((url) => { if (tok !== fillTok) return; const img = $("#shareimg"); if (img) img.src = url; lastImg = url; }).catch(() => { const img = $("#shareimg"); if (img) img.replaceWith(Object.assign(document.createElement("p"), { className: "notice", textContent: "The card image could not be drawn here. The link and text still work." })); });
     const body = $("#sharebody");
     body.onclick = async (e) => {
       const c = e.target.closest("[data-sharecopy]"); if (c) { await C().copyText(c.dataset.sharecopy, c, $("#sharebox")); return; }
       const t = e.target.closest("[data-sharetext]"); if (t) { await C().copyText(t.dataset.sharetext, t, $("#sharebox")); return; }
-      const sv = e.target.closest("[data-sharesave]"); if (sv && lastImg) { saveFile("sound-lineage.png", await (await fetch(lastImg)).blob(), sv); return; }
+      const sv = e.target.closest("[data-sharesave]");
+      if (sv) { if (!lastImg) { C().toast("The card is still drawing."); return; } try { const bin = atob(lastImg.split(",")[1]), u8 = new Uint8Array(bin.length); for (let i = 0; i < bin.length; i++) u8[i] = bin.charCodeAt(i); await saveFile("sound-lineage.png", new Blob([u8], { type: "image/png" }), sv); } catch { C().toast("The image couldn't be saved here."); } return; }
       if (e.target.closest("[data-sharenative]")) { try { await navigator.share({ title: "Sound Lineage", text, url: link }); } catch { /* cancelled */ } }
     };
   }
@@ -218,13 +230,15 @@
 
   /* ---------- a 15-second lineage video with preview audio (public site only) ---------- */
   async function video(queue, title) {
-    const ctx = C(), A = ctx.A, items = queue.slice(0, 6);
+    // start audio inside the tap, before any waiting, so phones allow sound in the recording
+    const ac = new (window.AudioContext || window.webkitAudioContext)(); ac.resume().catch(() => {});
+    const ctx = C(), A = ctx.A, items = queue.filter((x) => ctx.A[x.id]).slice(0, 6);
     open("Lineage video", `<p class="qmeta" id="vidmsg">Finding previews…</p><canvas id="vidcv" width="720" height="1280" style="width:100%;max-width:300px;display:block;margin:10px auto;border-radius:16px;background:#0b0b10"></canvas><div class="share-acts" id="vidacts" hidden><button class="solid" data-vidsave>Save video</button></div>`);
     const msg = $("#vidmsg"), cv = $("#vidcv"), g = cv.getContext("2d");
     await fontsReady();
     const hits = [];
     for (const x of items) hits.push(await window.SL_PLAYER.lookup(A[x.id].name, x.song || (A[x.id].songs || [])[0]));
-    const ac = new (window.AudioContext || window.webkitAudioContext)(), dest = ac.createMediaStreamDestination();
+    const dest = ac.createMediaStreamDestination();
     const els = hits.map((h) => { if (!h) return null; const a = new Audio(); a.crossOrigin = "anonymous"; a.src = h.u; a.preload = "auto"; try { ac.createMediaElementSource(a).connect(dest); } catch { return null; } return a; });
     await Promise.all(els.map((a) => a && new Promise((r) => { a.oncanplay = r; a.onerror = r; setTimeout(r, 4000); })));
     const stream = cv.captureStream(30); dest.stream.getAudioTracks().forEach((t) => stream.addTrack(t));
@@ -234,7 +248,8 @@
     rec.ondataavailable = (e) => e.data.size && chunks.push(e.data);
     const SEG = 2.5, total = items.length * SEG; let t0 = 0, cur = -1;
     const draw = (now) => {
-      const t = (now - t0) / 1000, k = Math.min(items.length - 1, Math.floor(t / SEG)), a = A[items[k].id], col = COL[a.family];
+      if (!cv.isConnected) { els.forEach((e) => e && e.pause()); try { rec.stop(); } catch { /* stopped */ } return; }
+      const t = Math.max(0, (now - t0) / 1000), k = Math.max(0, Math.min(items.length - 1, Math.floor(t / SEG))), a = A[items[k].id], col = COL[a.family];
       if (k !== cur) { if (els[cur]) els[cur].pause(); cur = k; const el = els[k]; if (el) { el.currentTime = 9; el.play().catch(() => {}); } }
       g.fillStyle = "#0b0b10"; g.fillRect(0, 0, 720, 1280);
       const rg = g.createRadialGradient(620, 120, 30, 560, 260, 900); rg.addColorStop(0, col + "dd"); rg.addColorStop(0.5, col + "33"); rg.addColorStop(1, "#0b0b1000"); g.fillStyle = rg; g.fillRect(0, 0, 720, 1280);
@@ -249,6 +264,8 @@
       if (t < total) requestAnimationFrame(draw); else { els.forEach((e) => e && e.pause()); rec.stop(); }
     };
     rec.onstop = () => {
+      ac.close().catch(() => {});
+      if (!cv.isConnected) return;
       const blob = new Blob(chunks, { type: type.split(";")[0] }), url = URL.createObjectURL(blob);
       cv.replaceWith(Object.assign(document.createElement("video"), { src: url, controls: true, playsInline: true, style: "width:100%;max-width:300px;display:block;margin:10px auto;border-radius:16px" }));
       msg.textContent = "Your video is ready. Post it anywhere short videos go.";

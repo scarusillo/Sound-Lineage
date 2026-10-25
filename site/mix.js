@@ -44,9 +44,10 @@
     const leanW = (i) => (L.lean === "same" ? (myFams.has(A[i].family) ? 1.6 : 0.5) : L.lean === "other" ? (myFams.has(A[i].family) ? 0.45 : 2) : 1);
     const pool = (kind) => {
       const agg = {};
-      const add = (i, sc, why) => { if (have.has(i) || !artistOnly(i)) return; sc *= leanW(i); if (!agg[i] || sc > agg[i][0]) agg[i] = [sc + (agg[i]?.[0] || 0) * 0.5, why]; };
+      let srcId = null;
+      const add = (i, sc, why) => { if (have.has(i) || !artistOnly(i)) return; sc *= leanW(i); if (!agg[i] || sc > agg[i][0]) agg[i] = [sc + (agg[i]?.[0] || 0) * 0.5, why, srcId]; };
       ids.forEach((m, rank) => {
-        const w = Math.max(1, 30 - rank), me = A[m];
+        const w = Math.max(1, 30 - rank), me = A[m]; srcId = m;
         if (kind === "root") for (const e of me.up) { if (!L.minS || e.s >= L.minS) add(e.id, w * e.s, `${A[e.id].name} shaped ${me.name}`); }
         if (kind === "heir" || kind === "deep") for (const e of me.down) {
           const a = A[e.id];
@@ -63,12 +64,12 @@
       });
       let ranked = Object.entries(agg).sort((a, b) => b[1][0] - a[1][0]).slice(0, 25);
       for (let i = ranked.length - 1; i > 0; i--) { const j = Math.floor(R() * (i + 1)); [ranked[i], ranked[j]] = [ranked[j], ranked[i]]; }
-      return ranked.slice(0, 14).sort((a, b) => b[1][0] - a[1][0]).map(([i, [, why]]) => [i, why]);
+      return ranked.slice(0, 14).sort((a, b) => b[1][0] - a[1][0]).map(([i, [, why, from]]) => [i, why, from]);
     };
     const picks = [];
     for (const [kind, n] of L.plan) {
       let got = 0;
-      for (const [i, why] of pool(kind)) { if (got >= n) break; if (used.has(i) || !song(i)) continue; used.add(i); got++; picks.push({ id: i, song: song(i), kind, because: why }); }
+      for (const [i, why, from] of pool(kind)) { if (got >= n) break; if (used.has(i) || !song(i)) continue; used.add(i); got++; picks.push({ id: i, song: song(i), kind, because: why, from }); }
     }
     picks.sort((a, b) => ORDER[a.kind] - ORDER[b.kind]);
     return { week, level, title: `Lineage Mix · ${weekLabel(week)}`, picks };
@@ -105,7 +106,7 @@
     const arch = ctx.store.get("sl.mixArchive", {});
     if (mix && mix.picks.length) { arch[mix.week] = { title: mix.title, level, at: Date.now(), picks: mix.picks.map((p) => ({ id: p.id, song: p.song, kind: p.kind })) }; ctx.store.set("sl.mixArchive", Object.fromEntries(Object.entries(arch).sort().slice(-52))); }
     const past = Object.entries(arch).filter(([w]) => w !== mix.week).sort((a, b) => (a[0] < b[0] ? 1 : -1));
-    const from = [...new Set(mix.picks.map((p) => p.because.split(/ shaped | cousin of /).pop()).filter((n) => list.some((i) => A[i].name === n)))].slice(0, 3);
+    const from = [...new Set(mix.picks.map((p) => p.from).filter((i) => A[i]))].slice(0, 3).map((i) => A[i].name);
     let last = "";
     root.innerHTML = `
       <div class="mixhead">${cover(mix, 180)}<div class="screen-h" style="min-width:0">
@@ -135,7 +136,7 @@
       </section>`;
     const r = $("#advr", root);
     r.oninput = () => { $("#lvname", root).textContent = LEVELS[+r.value].name; $("#lvblurb", root).textContent = LEVELS[+r.value].blurb; };
-    r.onchange = () => { ctx.store.set("sl.adv", +r.value); render(root); ctx.toast(`Mix set to ${LEVELS[+r.value].name}`); };
+    r.onchange = () => { ctx.store.set("sl.adv", +r.value); render(root); $("#advr", root)?.focus(); ctx.toast(`Mix set to ${LEVELS[+r.value].name}`); };
     root.onclick = (e) => {
       if (e.target.closest("[data-copymix]")) { ctx.copyText(textOf(mix), e.target.closest("[data-copymix]"), $("#mixbox", root)); return; }
       if (e.target.closest("[data-sharemix]")) { window.SL_SHARE.mix(mix); return; }

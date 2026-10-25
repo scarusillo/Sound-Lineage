@@ -50,7 +50,7 @@
     $("#player").hidden = false; document.body.classList.add("has-player");
     if (!canPreview()) { idx = 0; draw(); openQueue(); return; }
     next();
-    Q.forEach((x) => lookup(A[x.id].name, x.song)); // warm the rest
+    (async () => { const mine = Q; for (const x of mine.slice(1)) { if (Q !== mine) return; await lookup(A[x.id].name, x.song); await new Promise((r) => setTimeout(r, 350)); } })(); // warm the rest, one at a time
   }
   async function go(i) {
     if (i < 0 || i >= Q.length) { stop(); return; }
@@ -61,7 +61,8 @@
     if (!hit) { x.missing = true; draw(); setTimeout(() => { if (my === busy) go(i + 1); }, 900); return; }
     x.hit = hit;
     audio.src = hit.u;
-    try { await audio.play(); } catch { draw("paused"); return; }
+    try { await audio.play(); } catch { if (my === busy) draw("paused"); return; }
+    if (my !== busy) return;
     draw();
     if ("mediaSession" in navigator) {
       navigator.mediaSession.metadata = new MediaMetadata({ title: hit.t, artist: hit.a, album: `${title} · Sound Lineage`, artwork: hit.art ? [{ src: hit.art, sizes: "300x300", type: "image/jpeg" }] : [] });
@@ -69,7 +70,7 @@
   }
   const next = () => go(idx + 1);
   const prev = () => go(Math.max(0, idx - (audio.currentTime > 3 ? 0 : 1)));
-  function stop() { busy++; audio.pause(); $("#player").hidden = true; document.body.classList.remove("has-player"); $("#queuesheet").hidden = true; }
+  function stop() { busy++; audio.pause(); $("#player").hidden = true; document.body.classList.remove("has-player"); closeQueue(); }
   audio.addEventListener("ended", next);
   audio.addEventListener("timeupdate", () => { const b = $("#pprog"); if (b && audio.duration) b.style.width = `${(audio.currentTime / audio.duration) * 100}%`; });
   audio.addEventListener("play", () => draw()); audio.addEventListener("pause", () => draw());
@@ -102,6 +103,7 @@
       <p class="qmeta" style="font-size:.78rem">Previews and cover art courtesy of Apple Music. Full songs play in Spotify, Apple Music or YouTube.</p>`;
   }
   function openQueue() { $("#queuesheet .sheet-t").textContent = title; drawQueue(); $("#queuesheet").hidden = false; $("#scrim").hidden = false; document.body.classList.add("lock"); }
+  window.SL_PLAYER_CLOSE = () => closeQueue();
   function closeQueue() { $("#queuesheet").hidden = true; if ($("#panel").hidden && $("#sharesheet").hidden) { $("#scrim").hidden = true; document.body.classList.remove("lock"); } }
 
   document.addEventListener("click", (e) => {

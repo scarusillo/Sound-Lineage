@@ -350,9 +350,9 @@
   }
   function setupClicks() {
     $("#pclose").onclick = closePanel;
-    $("#scrim").onclick = () => { if (!$("#sharesheet").hidden) window.SL_SHARE.close(); else closePanel(); };
+    $("#scrim").onclick = () => { if (!$("#sharesheet").hidden) window.SL_SHARE.close(); else if (!$("#queuesheet").hidden) window.SL_PLAYER_CLOSE(); else closePanel(); };
     $("#pshare").onclick = () => window.SL_SHARE.artist(current);
-    document.addEventListener("keydown", (e) => { if (e.key !== "Escape") return; if (!$("#sharesheet").hidden) window.SL_SHARE.close(); else if (!$("#panel").hidden) closePanel(); });
+    document.addEventListener("keydown", (e) => { if (e.key !== "Escape") return; if (!$("#sharesheet").hidden) window.SL_SHARE.close(); else if (!$("#queuesheet").hidden) window.SL_PLAYER_CLOSE(); else if (!$("#panel").hidden) closePanel(); });
     $("#pbody").addEventListener("submit", sendCorrection);
     document.addEventListener("click", (e) => {
       const g = e.target.closest("[data-go]");

@@ -14,7 +14,7 @@
   function names() {
     if (NAMES) return NAMES;
     const ctx = C();
-    NAMES = ctx.ARTISTS.map((a) => [` ${ctx.norm(a.name)} `, a.id]).filter(([n]) => n.trim().length >= 3).sort((a, b) => b[0].length - a[0].length);
+    NAMES = ctx.ARTISTS.map((a) => [` ${ctx.norm(a.name)} `, a.id]).filter(([n]) => n.trim().length >= 2).sort((a, b) => b[0].length - a[0].length);
     return NAMES;
   }
   function mentions(text) {
@@ -131,7 +131,8 @@
     if (e.target.id === "tmform") { e.preventDefault(); const k = $("#tmkey").value.trim(); if (k) { C().store.set("sl.tmkey", k); $("#showsbox").outerHTML = showsHTML(); } }
   });
   document.addEventListener("click", (e) => {
-    if (e.target.closest("[data-findshows]")) findShows($("#showsout"));
+    const fs = e.target.closest("[data-findshows]");
+    if (fs && !fs.disabled) { fs.disabled = true; findShows($("#showsout")).finally(() => (fs.disabled = false)); }
     if (e.target.closest("[data-tmclear]")) { C().store.del("sl.tmkey"); $("#showsbox").outerHTML = showsHTML(); }
   });
 

@@ -103,10 +103,10 @@
     return L;
   }
   function yourIds(L = lib()) {
-    const ids = [];
-    for (const id of window.SL_SPOT?.ids() || []) if (!ids.includes(id)) ids.push(id);
-    for (const a of L?.artists || []) if (a.id && !ids.includes(a.id)) ids.push(a.id);
-    for (const f of favs()) if (!ids.includes(f)) ids.push(f);
+    const ids = [], A = C().A;
+    for (const id of window.SL_SPOT?.ids() || []) if (A[id] && !ids.includes(id)) ids.push(id);
+    for (const a of L?.artists || []) if (a.id && A[a.id] && !ids.includes(a.id)) ids.push(a.id);
+    for (const f of favs()) if (A[f] && !ids.includes(f)) ids.push(f);
     return ids;
   }
 
