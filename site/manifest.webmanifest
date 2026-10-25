@@ -1,0 +1,21 @@
+{
+  "name": "Sound Lineage",
+  "short_name": "Lineage",
+  "description": "Who shaped whom across a century of music: influence maps, family trees, a weekly Lineage Mix and 30-second previews.",
+  "start_url": "./#today",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c0c11",
+  "theme_color": "#0c0c11",
+  "orientation": "any",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Your Lineage Mix", "url": "./#mix" },
+    { "name": "Map", "url": "./#map" },
+    { "name": "Daily games", "url": "./#play" }
+  ]
+}

@@ -31,13 +31,15 @@
     if (nodes.length) return;
     const ctx = C();
     vert = isVert();
-    nodes = ctx.ARTISTS.map((a) => {
+    // the map keeps to curated artists plus the best-connected of the wider Wikidata set, so phones stay smooth
+    const pool = ctx.ARTISTS.filter((a) => !a.ext || a.up.length + a.down.length >= 8);
+    nodes = pool.map((a) => {
       const t = ang(a.family), r = R + (Math.random() - 0.5) * 60;
       return { id: a.id, a, ...P(X(a) + (Math.random() - 0.5) * 60, Math.cos(t) * r, Math.sin(t) * r) };
     });
     byId = Object.fromEntries(nodes.map((n) => [n.id, n]));
     links = [];
-    for (const a of ctx.ARTISTS) for (const u of a.up) links.push({ source: u.id, target: a.id, s: u.s });
+    for (const n of nodes) for (const u of n.a.up) if (byId[u.id]) links.push({ source: u.id, target: n.id, s: u.s });
   }
 
   /* ---------- init (filters, HUD, mode switch) ---------- */
@@ -300,7 +302,7 @@
       <div class="cnt"><span class="up">● <b>${a.up.length}</b> shaped them</span><span class="down">● <b>${a.down.length}</b> they shaped</span></div>
       ${a.up.length ? `<p><span class="up">From</span> ${top(a.up)}${a.up.length > 4 ? "…" : ""}</p>` : ""}
       ${a.down.length ? `<p><span class="down">To</span> ${top(a.down)}${a.down.length > 4 ? "…" : ""}</p>` : ""}
-      <div class="gbtns"><button class="solid" data-open="${a.id}">Profile</button><button class="ghost small" data-tree="artist" data-id="${a.id}">Family tree</button></div>`;
+      <div class="gbtns"><button class="playline" data-playline="${a.id}"><svg><use href="#i-play"/></svg>Play</button><button class="solid" data-open="${a.id}">Profile</button><button class="ghost small" data-tree="artist" data-id="${a.id}">Family tree</button></div>`;
     box.hidden = false;
   }
 

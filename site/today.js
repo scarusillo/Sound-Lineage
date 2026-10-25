@@ -47,11 +47,15 @@
       ${window.SL_MIX.cardHTML() || `<button class="mixcard" data-go="mix"><span class="mixcover" style="--vs:96px;background:conic-gradient(from 45deg, var(--f-soul) 0 25%, var(--f-rock) 0 50%, var(--f-jazz) 0 75%, var(--f-hiphop) 0)" aria-hidden="true"><i>LINEAGE MIX</i></span><span style="min-width:0"><span class="eyebrow">New every Monday</span><span class="ht">Get your weekly mix</span><span class="s">Tell Sound Lineage what you play and it builds a playlist from the people who shaped your artists and the people they shaped.</span></span></button>`}
 
       <section class="shelf"><div class="shelf-h"><h2>Today's picks</h2></div><div class="row">${picks.join("")}</div></section>
+      <section class="shelf" id="relshelf" hidden></section>
+      <button class="wrapband" data-go="wrapped"><span class="w-k">Lineage Wrapped ${now.getFullYear()}</span><span class="ht">Your year, traced back to its roots</span><span class="s">Your Genre DNA, your number one root, how far back your music goes and your music city.</span></button>
       ${recs.length ? `<section class="shelf"><div class="shelf-h"><h2>Where to go next</h2><a href="#you" data-go="you">See all</a></div><div class="row">${recs.map((r) => rc(r.id, r.why[0])).join("")}</div></section>` : ""}
       ${born.length ? `<section class="shelf"><div class="shelf-h"><h2>Born today</h2></div><div class="row">${born.map((a) => rc(a.id, `${a.years || a.decade}`)).join("")}</div></section>` : ""}
       ${released.length ? `<section class="shelf"><div class="shelf-h"><h2>Released on this day</h2></div><div class="row">${released.map((x) => rcAlbum(x, `${A[x.artist]?.name || ""} · ${x.year}`)).join("")}</div></section>` : ""}
 
       <section class="sec"><div class="shelf-h"><h2>Explore</h2></div><div class="tiles">
+        <a class="tile" href="#ask" data-go="ask"><svg><use href="#i-info"/></svg><b>Ask the lineage</b><span>Why does an artist sound like that?</span></a>
+        <a class="tile" href="#wrapped" data-go="wrapped"><svg><use href="#i-mix"/></svg><b>Lineage Wrapped</b><span>Your year in music, by its roots</span></a>
         <a class="tile" href="#journeys" data-go="journeys"><svg><use href="#i-route"/></svg><b>Journeys</b><span>${ctx.JOURNEYS.length} guided listens, one song at a time</span></a>
         <a class="tile" href="#play" data-go="play"><svg><use href="#i-games"/></svg><b>Daily games</b><span>${played ? `${played} of ${G.GAMES.length} played today` : `${G.GAMES.length} new puzzles today`}</span></a>
         <a class="tile" href="#credits" data-go="credits"><svg><use href="#i-credits"/></svg><b>Behind the music</b><span>Producers and session players</span></a>
@@ -71,6 +75,7 @@
       $("#jcont", root).innerHTML = `<div class="shelf-h"><h2>Today's journey</h2><a href="#journeys" data-go="journeys">All journeys</a></div><button class="hero" data-journey="${j.id}" style="--c:var(--f-${A[j.steps[0].artist]?.family || "soul"})"><span style="min-width:0"><span class="lbl">${j.steps.length} songs</span><span class="ht">${esc(j.title)}</span><span class="d">${esc(j.blurb)}</span></span>${A[j.steps[0].artist] ? ctx.vinyl(j.steps[0].artist) : ""}</button>`;
     }
     renderInbox($("#inbox", root));
+    window.SL_SOCIAL.releasesShelf($("#relshelf", root));
   }
 
   /* ---------- journeys ---------- */
@@ -98,7 +103,7 @@
     root.innerHTML = `<div class="journey"><button class="back" data-journey="">All journeys</button>
       <h1>${esc(j.title)}</h1>
       <p class="lede" style="margin:0">${esc(j.blurb)}</p>
-      <div class="copyline" data-spotbox><span class="pbar wide" style="flex:1 1 200px"><i style="width:${(done.size / j.steps.length) * 100}%"></i></span><span class="qmeta">${done.size} of ${j.steps.length} heard</span>${window.SL_SPOT.saveBtn(`data-spotsave="" data-title="${esc(j.title)}" data-songs="${esc(JSON.stringify(j.steps.map((s) => `${s.listen} by ${ctx.A[s.artist]?.name || ""}`)))}"`)}<button class="ghost small" id="jcopy">Copy as text</button><span data-spotout class="qmeta"></span></div>
+      <div class="copyline" data-spotbox><span class="pbar wide" style="flex:1 1 200px"><i style="width:${(done.size / j.steps.length) * 100}%"></i></span><span class="qmeta">${done.size} of ${j.steps.length} heard</span><button class="playline" data-playitems="${esc(JSON.stringify(j.steps.filter((s) => ctx.A[s.artist]).map((s) => ({ id: s.artist, song: s.listen, why: s.title }))))}" data-ptitle="${esc(j.title)}"><svg><use href="#i-play"/></svg>Play previews</button>${window.SL_SPOT.saveBtn(`data-spotsave="" data-title="${esc(j.title)}" data-songs="${esc(JSON.stringify(j.steps.map((s) => `${s.listen} by ${ctx.A[s.artist]?.name || ""}`)))}"`)}<button class="ghost small" id="jcopy">Copy as text</button><span data-spotout class="qmeta"></span></div>
       <textarea class="copybox" id="jbox" hidden aria-label="Playlist text"></textarea>
       <ol class="steps">${j.steps.map((s, i) => {
         const a = ctx.A[s.artist];
@@ -130,7 +135,8 @@
       snap.docs?.forEach((d) => (d.data?.reports || []).forEach((r) => items.push(r)));
       items.sort((a, b) => (b.at || "").localeCompare(a.at || ""));
       el.hidden = false;
-      el.innerHTML = `<h2>Corrections inbox <span class="qmeta">(only you see this)</span></h2>${items.length ? `<ul class="inbox">${items.slice(0, 50).map((r) => `<li>${C().chip(r.artist)} <span class="qmeta">${esc(r.field)} · ${esc((r.at || "").slice(0, 10))}</span><p>${esc(r.text)}</p></li>`).join("")}</ul>` : `<p class="qmeta">No corrections yet. Anyone you share with can send one from an artist's page.</p>`}`;
+      el.innerHTML = `<h2>Corrections inbox <span class="qmeta">(only you see this)</span></h2>${items.length ? `<ul class="inbox">${items.slice(0, 50).map((r, i) => `<li>${C().chip(r.artist)} <span class="qmeta">${esc(r.field)} · ${esc((r.at || "").slice(0, 10))}</span><p>${esc(r.text)}</p>${r.type === "link" && C().A[r.from] && C().A[r.to] ? `<button class="ghost small" data-approve="${i}">Approve this link</button>` : ""}</li>`).join("")}</ul>` : `<p class="qmeta">No corrections yet. Anyone you share with can send one from an artist's page.</p>`}`;
+      el.onclick = async (e) => { const b = e.target.closest("[data-approve]"); if (!b) return; b.disabled = true; const ok = await window.SL_SOCIAL.approve(items[+b.dataset.approve]).catch(() => false); b.textContent = ok ? "Approved, live for everyone" : "Couldn't approve"; };
     } catch { /* not readable */ }
   }
 

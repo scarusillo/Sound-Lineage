@@ -148,8 +148,10 @@
     const smaller = recs.filter((r) => ["2010s", "2020s"].includes(A[r.id].decade) && A[r.id].down.length <= 3).slice(0, 8);
     const recRow = (r) => `<li><button class="lrow wrap" data-open="${r.id}">${ctx.vinyl(r.id)}<span style="min-width:0"><span class="t">${esc(A[r.id].name)}</span><span class="s">${esc(r.why.slice(0, 2).join("; "))}</span></span><span class="r">${A[r.id].decade}</span></button></li>`;
     root.innerHTML = `<div class="you">
+      ${installHTML()}
       <div class="screen-h"><h1>You</h1><p class="lede">Sync Spotify or bring in what you already listen to, and the whole app starts working for you: picks on Home, your weekly mix, your roots, and who's playing nearby. Your files are read in this browser and never uploaded.</p></div>
       ${ids.length >= 3 ? window.SL_SHARE.tasteCardHTML(ids) : ""}
+      ${(() => { const fr = ctx.store.get("sl.friends", []); return fr.length ? `<section class="sec"><div class="sec-h"><h2>Friends</h2><span class="qmeta">open one for your blend and what you both should hear</span></div><ul class="lg">${fr.map((f) => { const their = window.SL_SHARE.decode(f.code); return `<li><a class="lrow" href="#taste.${esc(f.code)}" style="text-decoration:none">${their[0] ? ctx.vinyl(their[0]) : ""}<span style="min-width:0"><span class="t">${esc(f.name)}</span><span class="s">${esc(their.slice(0, 4).map((i) => A[i].name).join(", "))}</span></span><button class="ghost small" data-unfriend="${esc(f.code)}">Remove</button></a></li>`; }).join("")}</ul></section>` : ""; })()}
 
       <section class="connectors">
         <div class="conn drop" id="drop">
@@ -203,6 +205,7 @@
           <a href="https://www.songkick.com/search?query=${enc(city)}&type=locations" target="_blank" rel="noopener"><b>Concert calendar</b><span>Songkick, by city</span></a>
           <a href="https://www.google.com/search?q=${enc(`concerts this week near ${where}`)}" target="_blank" rel="noopener"><b>This week</b><span>Shows in the next few days</span></a>
         </div>
+        ${window.SL_SOCIAL.showsHTML()}
         ${ids.length ? `<div class="twocol">
           <div class="sec"><h3>Shows for artists you play</h3>${ids.slice(0, 8).map((id) => `<div class="showrow"><div>${ctx.chip(id)}</div><div class="l"><a class="ghost small" target="_blank" rel="noopener" href="https://www.songkick.com/search?query=${enc(A[id].name)}">Songkick</a><a class="ghost small" target="_blank" rel="noopener" href="https://www.google.com/search?q=${enc(`${A[id].name} tour dates ${city}`)}">Dates</a></div></div>`).join("")}</div>
           ${smaller.length ? `<div class="sec"><h3>Smaller acts you'd probably like live</h3>${smaller.map((r) => `<div class="showrow"><div>${ctx.chip(r.id)}</div><div class="l"><a class="ghost small" target="_blank" rel="noopener" href="https://www.songkick.com/search?query=${enc(A[r.id].name)}">Songkick</a><a class="ghost small" target="_blank" rel="noopener" href="https://www.google.com/search?q=${enc(`${A[r.id].name} tour dates ${city}`)}">Dates</a></div></div>`).join("")}</div>` : ""}
@@ -221,12 +224,26 @@
     fr.onclick = (e) => { const b = e.target.closest("button[data-id]"); if (b) { if (!isFav(b.dataset.id)) toggleFav(b.dataset.id); render(root); } };
     $("#cityform", root).onsubmit = (e) => { e.preventDefault(); ctx.store.set("sl.city", $("#city", root).value.trim()); render(root); };
     root.onclick = (e) => {
+      const ufr = e.target.closest("[data-unfriend]"); if (ufr) { e.preventDefault(); ctx.store.set("sl.friends", ctx.store.get("sl.friends", []).filter((f) => f.code !== ufr.dataset.unfriend)); render(root); return; }
       const uf = e.target.closest("[data-unfav]"); if (uf) { toggleFav(uf.dataset.unfav); render(root); return; }
       if (e.target.closest("[data-example]")) { ctx.store.set("sl.lib", EXAMPLE); render(root); return; }
       if (e.target.closest("[data-clearlib]")) { ctx.store.del("sl.lib"); render(root); }
     };
   }
 
+  /* install as an app (public site) */
+  let deferred = null;
+  window.addEventListener("beforeinstallprompt", (e) => { e.preventDefault(); deferred = e; });
+  function installHTML() {
+    if (!/github\.io$/.test(location.hostname) || matchMedia("(display-mode: standalone)").matches || navigator.standalone) return "";
+    const ios = /iphone|ipad|ipod/i.test(navigator.userAgent);
+    return `<section class="installcard"><span class="mark" aria-hidden="true"></span><span style="min-width:0"><b>Put Sound Lineage on your home screen</b><span class="s">${ios ? "In Safari, tap Share, then “Add to Home Screen”. It opens full-screen like an app and works offline." : "Install it to open full-screen like an app, with offline access."}</span></span>${!ios ? `<button class="solid" data-install>Install</button>` : ""}</section>`;
+  }
+  document.addEventListener("click", async (e) => {
+    if (!e.target.closest("[data-install]")) return;
+    if (deferred) { deferred.prompt(); await deferred.userChoice.catch(() => {}); deferred = null; }
+    else C().toast("Use your browser's menu and choose “Install app” or “Add to Home Screen”.");
+  });
   function useExample() { C().store.set("sl.lib", EXAMPLE); }
   window.SL_YOU = { render, isFav, toggleFav, personalPick, matchId, yourIds: () => yourIds(), recommend, useExample };
 })();

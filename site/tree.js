@@ -72,7 +72,7 @@
         <div class="meta">${x.years ? `<span class="tag mono">${esc(x.years)}</span>` : ""}${x.origin ? `<span class="tag">${esc(x.origin)}</span>` : ""}${(x.genres || []).slice(0, 2).map((g) => `<span class="tag">${esc(g)}</span>`).join("")}</div>
         ${x.summary ? `<p>${esc(x.summary)}</p>` : ""}
         ${ctx.dnaHTML(x.id)}
-        <div class="gbtns"><button class="solid" data-open="${x.id}">Profile</button><a class="spot-btn" target="_blank" rel="noopener" href="https://open.spotify.com/search/${ctx.enc(x.name)}"><span class="sp" aria-hidden="true"></span>Play</a><button class="ghost" data-sharetree="${x.id}"><svg><use href="#i-share"/></svg>Share</button></div>`;
+        <div class="gbtns"><button class="playline" data-playline="${x.id}"><svg><use href="#i-play"/></svg>Play the lineage</button><button class="solid" data-open="${x.id}">Profile</button><a class="spot-btn" target="_blank" rel="noopener" href="https://open.spotify.com/search/${ctx.enc(x.name)}"><span class="sp" aria-hidden="true"></span>Play</a><button class="ghost" data-sharetree="${x.id}"><svg><use href="#i-share"/></svg>Share</button></div>`;
     } else if (k === "album") {
       const a = ctx.A[x.artist];
       centerHTML = `<div class="ch">${ctx.sleeve(x)}<div style="min-width:0"><div class="k">Album · ${esc(x.sub)}</div>
@@ -234,7 +234,7 @@
     const forward = p.every((s, i) => !i || s.dir === "f"), backward = p.every((s, i) => !i || s.dir === "b");
     out.innerHTML = `<p class="qmeta" style="margin:0">${p.length - 1} step${p.length === 2 ? "" : "s"}${forward ? `, and it runs straight down the line: ${esc(A[from].name)} shaped everyone after them here.` : backward ? `, straight back in time: ${esc(A[to].name)} sits upstream of ${esc(A[from].name)}.` : `, through shared roots and branches.`}</p>
       <div class="path">${p.map((s, i) => `${i ? `<div class="arrow-hop ${s.dir}" title="${s.dir === "f" ? "influenced" : "was influenced by"}">${s.dir === "f" ? "→" : "←"}</div>` : ""}<div class="hop">${ctx.chip(s.id)}${i ? `<span class="why">${esc(ctx.edgeWhy(p[i - 1].id, s.id))}</span>` : ""}</div>`).join("")}</div>
-      <div class="gbtns" data-spotbox>${window.SL_SPOT.saveBtn(`data-spotsave='${JSON.stringify(p.map((s) => s.id))}' data-title="${esc(`${A[from].name} to ${A[to].name}`)}"`)}<button class="ghost small" data-copy='${JSON.stringify(p.map((s) => s.id))}' data-title="${esc(`${A[from].name} to ${A[to].name}`)}">Copy as text</button><span data-spotout class="qmeta"></span></div>`;
+      <div class="gbtns" data-spotbox><button class="playline" data-playitems="${esc(JSON.stringify(p.map((s, i) => ({ id: s.id, why: i ? ctx.edgeWhy(p[i - 1].id, s.id) : "start here" }))))}" data-ptitle="${esc(`${A[from].name} to ${A[to].name}`)}"><svg><use href="#i-play"/></svg>Play the path</button>${window.SL_SPOT.saveBtn(`data-spotsave='${JSON.stringify(p.map((s) => s.id))}' data-title="${esc(`${A[from].name} to ${A[to].name}`)}"`)}<button class="ghost small" data-copy='${JSON.stringify(p.map((s) => s.id))}' data-title="${esc(`${A[from].name} to ${A[to].name}`)}">Copy as text</button><span data-spotout class="qmeta"></span></div>`;
   }
 
   window.SL_TREE = { render: (root) => render(root, true), setTree, setKind, show };

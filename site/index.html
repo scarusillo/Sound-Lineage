@@ -3,9 +3,16 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="description" content="A music family tree from 1900 to now: who influenced whom, album lineages, sample trails, music scenes, a weekly Lineage Mix and daily picks.">
+<meta name="description" content="Who shaped whom across a century of music: influence maps, family trees, 30-second previews, a weekly Lineage Mix and Lineage Wrapped.">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="icon" href="icons/icon-192.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Lineage">
+<meta property="og:title" content="Sound Lineage">
+<meta property="og:description" content="Trace who shaped whom, from ragtime to now.">
 <title>Sound Lineage</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <meta name="theme-color" content="#0c0c11">
@@ -62,6 +69,8 @@
   </div>
   <div class="rail-h">Explore</div>
   <div class="rail-nav small">
+    <a href="#ask" data-view="ask"><svg><use href="#i-info"/></svg>Ask the lineage</a>
+    <a href="#wrapped" data-view="wrapped"><svg><use href="#i-mix"/></svg>Lineage Wrapped</a>
     <a href="#browse" data-view="browse"><svg><use href="#i-grid"/></svg>Browse</a>
     <a href="#credits" data-view="credits"><svg><use href="#i-credits"/></svg>Behind the music</a>
     <a href="#journeys" data-view="journeys"><svg><use href="#i-route"/></svg>Journeys</a>
@@ -111,6 +120,8 @@
   <section id="view-browse" class="view" hidden></section>
   <section id="view-credits" class="view" hidden></section>
   <section id="view-compare" class="view" hidden></section>
+  <section id="view-ask" class="view" hidden></section>
+  <section id="view-wrapped" class="view" hidden></section>
   <section id="view-you" class="view" hidden></section>
 </main>
 
@@ -131,6 +142,11 @@
   <div class="sheet-bar"><span class="grab" aria-hidden="true"></span><b class="sheet-t">Share</b><button class="ibtn" data-closeshare aria-label="Close"><svg><use href="#i-close"/></svg></button></div>
   <div id="sharebody"></div>
 </aside>
+<div class="player" id="player" hidden></div>
+<aside id="queuesheet" class="sheet share" hidden aria-label="Now playing">
+  <div class="sheet-bar"><span class="grab" aria-hidden="true"></span><b class="sheet-t">Now playing</b><button class="ibtn" data-closequeue aria-label="Close"><svg><use href="#i-close"/></svg></button></div>
+  <div id="queuebody"></div>
+</aside>
 <div class="toast" id="toast" role="status" hidden></div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
@@ -142,6 +158,9 @@
 <script src="you.js"></script>
 <script src="mix.js"></script>
 <script src="share.js"></script>
+<script src="player.js"></script>
+<script src="wrapped.js"></script>
+<script src="social.js"></script>
 <script src="tree.js"></script>
 <script src="cities.js"></script>
 <script src="map.js"></script>

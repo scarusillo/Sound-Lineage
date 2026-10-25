@@ -146,16 +146,28 @@
         <button class="solid" data-sharecopy="${esc(link)}">Copy link</button>
         <button class="ghost" data-sharetext="${esc(text)}">Copy as text</button>
         ${navigator.share && !inClaude() ? `<button class="ghost" data-sharenative>More…</button>` : ""}
-        ${!inClaude() ? `<a class="ghost" id="sharedl" download="sound-lineage.png" href="#">Save image</a>` : ""}
+        <button class="ghost" data-sharesave>Save image</button>
       </div>
       <textarea class="copybox" id="sharebox" hidden aria-label="Text to copy" style="margin-top:12px"></textarea>`;
   }
+  let lastImg = null;
+  async function saveFile(name, blob, btn) {
+    if (inClaude()) {
+      const d = await window.claude.use("downloads");
+      if (!d) { C().toast("Saving isn't available in this view. Press and hold the image instead."); return; }
+      try { await d.save({ filename: name, data: blob }); } catch (e) { if (e?.code !== "declined") C().toast("The file couldn't be saved here."); }
+      return;
+    }
+    const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = name; document.body.appendChild(a); a.click(); a.remove();
+    if (btn) { const t = btn.textContent; btn.textContent = "Saved"; setTimeout(() => (btn.textContent = t), 1500); }
+  }
   function fill(p, link, text) {
-    p.then((url) => { const img = $("#shareimg"); if (img) img.src = url; const dl = $("#sharedl"); if (dl) dl.href = url; }).catch(() => { const img = $("#shareimg"); if (img) img.replaceWith(Object.assign(document.createElement("p"), { className: "notice", textContent: "The card image could not be drawn here. The link and text still work." })); });
+    p.then((url) => { const img = $("#shareimg"); if (img) img.src = url; lastImg = url; }).catch(() => { const img = $("#shareimg"); if (img) img.replaceWith(Object.assign(document.createElement("p"), { className: "notice", textContent: "The card image could not be drawn here. The link and text still work." })); });
     const body = $("#sharebody");
     body.onclick = async (e) => {
       const c = e.target.closest("[data-sharecopy]"); if (c) { await C().copyText(c.dataset.sharecopy, c, $("#sharebox")); return; }
       const t = e.target.closest("[data-sharetext]"); if (t) { await C().copyText(t.dataset.sharetext, t, $("#sharebox")); return; }
+      const sv = e.target.closest("[data-sharesave]"); if (sv && lastImg) { saveFile("sound-lineage.png", await (await fetch(lastImg)).blob(), sv); return; }
       if (e.target.closest("[data-sharenative]")) { try { await navigator.share({ title: "Sound Lineage", text, url: link }); } catch { /* cancelled */ } }
     };
   }
@@ -181,6 +193,72 @@
     fill(tasteImg(ids), link, text);
   }
 
+  async function wrappedCard(W) {
+    await fontsReady();
+    const ctx = C(), A = ctx.A, F = ctx.FAM, [cv, g] = base(COL[W.parts[0][0]]);
+    g.textAlign = "left"; g.textBaseline = "alphabetic";
+    g.fillStyle = "rgba(255,255,255,.7)"; g.font = `600 26px "JetBrains Mono", monospace`; g.fillText(`MY LINEAGE WRAPPED ${W.year}`, 80, 120);
+    g.fillStyle = "#fff"; g.font = `400 112px "Instrument Serif", Georgia, serif`; wrap(g, W.type[0], 80, 250, 920, 108, 2);
+    bar(g, W.parts, 80, 370, 920, 30);
+    const row = (k, val, y) => { g.fillStyle = "rgba(255,255,255,.6)"; g.font = `700 24px "Instrument Sans", system-ui, sans-serif`; g.fillText(k.toUpperCase(), 80, y); g.fillStyle = "#fff"; g.font = `400 58px "Instrument Serif", Georgia, serif`; wrap(g, val, 80, y + 64, 920, 60, 1); };
+    let y = 560;
+    if (W.roots[0]) { row("My number one root", A[W.roots[0][0]].name, y); y += 150; }
+    if (W.oldest) { row("How far back I go", `${A[W.oldest.id].decade}: ${A[W.oldest.id].name}`, y); y += 150; }
+    if (W.city) { row("My music city", W.city[0].replace(/, US$/, ""), y); y += 150; }
+    row("Top genre", `${F[W.parts[0][0]].name} ${Math.round(W.parts[0][1] * 100)}%`, y);
+    footer(g, "TRACE YOURS");
+    return cv.toDataURL("image/png");
+  }
+  function wrapped(W) {
+    const A = C().A;
+    const text = `My Lineage Wrapped ${W.year}: ${W.type[0]}. Number one root: ${W.roots[0] ? A[W.roots[0][0]].name : "?"}. My music goes back to the ${W.oldest ? A[W.oldest.id].decade : "?"}. Trace yours: ${SITE}#wrapped`;
+    open("Share your Wrapped", sheetHTML(SITE + "#wrapped", text));
+    fill(wrappedCard(W), SITE + "#wrapped", text);
+  }
+
+  /* ---------- a 15-second lineage video with preview audio (public site only) ---------- */
+  async function video(queue, title) {
+    const ctx = C(), A = ctx.A, items = queue.slice(0, 6);
+    open("Lineage video", `<p class="qmeta" id="vidmsg">Finding previews…</p><canvas id="vidcv" width="720" height="1280" style="width:100%;max-width:300px;display:block;margin:10px auto;border-radius:16px;background:#0b0b10"></canvas><div class="share-acts" id="vidacts" hidden><button class="solid" data-vidsave>Save video</button></div>`);
+    const msg = $("#vidmsg"), cv = $("#vidcv"), g = cv.getContext("2d");
+    await fontsReady();
+    const hits = [];
+    for (const x of items) hits.push(await window.SL_PLAYER.lookup(A[x.id].name, x.song || (A[x.id].songs || [])[0]));
+    const ac = new (window.AudioContext || window.webkitAudioContext)(), dest = ac.createMediaStreamDestination();
+    const els = hits.map((h) => { if (!h) return null; const a = new Audio(); a.crossOrigin = "anonymous"; a.src = h.u; a.preload = "auto"; try { ac.createMediaElementSource(a).connect(dest); } catch { return null; } return a; });
+    await Promise.all(els.map((a) => a && new Promise((r) => { a.oncanplay = r; a.onerror = r; setTimeout(r, 4000); })));
+    const stream = cv.captureStream(30); dest.stream.getAudioTracks().forEach((t) => stream.addTrack(t));
+    const type = ["video/mp4;codecs=avc1,mp4a.40.2", "video/webm;codecs=vp9,opus", "video/webm"].find((t) => window.MediaRecorder?.isTypeSupported?.(t));
+    if (!type) { msg.textContent = "This browser can't record video. Try Chrome or Safari."; return; }
+    const rec = new MediaRecorder(stream, { mimeType: type }), chunks = [];
+    rec.ondataavailable = (e) => e.data.size && chunks.push(e.data);
+    const SEG = 2.5, total = items.length * SEG; let t0 = 0, cur = -1;
+    const draw = (now) => {
+      const t = (now - t0) / 1000, k = Math.min(items.length - 1, Math.floor(t / SEG)), a = A[items[k].id], col = COL[a.family];
+      if (k !== cur) { if (els[cur]) els[cur].pause(); cur = k; const el = els[k]; if (el) { el.currentTime = 9; el.play().catch(() => {}); } }
+      g.fillStyle = "#0b0b10"; g.fillRect(0, 0, 720, 1280);
+      const rg = g.createRadialGradient(620, 120, 30, 560, 260, 900); rg.addColorStop(0, col + "dd"); rg.addColorStop(0.5, col + "33"); rg.addColorStop(1, "#0b0b1000"); g.fillStyle = rg; g.fillRect(0, 0, 720, 1280);
+      g.save(); g.translate(360, 520); g.rotate((t * 0.9) % (Math.PI * 2)); record(g, 0, 0, 230, col, ctx.initials(a.name)); g.restore();
+      g.textAlign = "left"; g.textBaseline = "alphabetic";
+      g.fillStyle = "rgba(255,255,255,.7)"; g.font = `600 22px "JetBrains Mono", monospace`; g.fillText(title.toUpperCase().slice(0, 44), 56, 92);
+      g.fillStyle = "rgba(255,255,255,.7)"; g.fillText(`${ctx.FAM[a.family].name.toUpperCase()} · ${a.decade.toUpperCase()}`, 56, 880);
+      g.fillStyle = "#fff"; g.font = `400 84px "Instrument Serif", Georgia, serif`; wrap(g, a.name, 56, 970, 610, 84, 2);
+      g.fillStyle = "rgba(255,255,255,.8)"; g.font = `600 30px "Instrument Sans", system-ui, sans-serif`; wrap(g, hits[k]?.t || items[k].song || "", 56, 1110, 610, 36, 1);
+      items.forEach((_, j) => { g.fillStyle = j <= k ? "#fff" : "rgba(255,255,255,.25)"; g.fillRect(56 + j * (608 / items.length), 1190, 608 / items.length - 8, 5); });
+      g.fillStyle = "rgba(255,255,255,.6)"; g.font = `400 30px "Instrument Serif", Georgia, serif`; g.fillText("Sound Lineage", 56, 1240);
+      if (t < total) requestAnimationFrame(draw); else { els.forEach((e) => e && e.pause()); rec.stop(); }
+    };
+    rec.onstop = () => {
+      const blob = new Blob(chunks, { type: type.split(";")[0] }), url = URL.createObjectURL(blob);
+      cv.replaceWith(Object.assign(document.createElement("video"), { src: url, controls: true, playsInline: true, style: "width:100%;max-width:300px;display:block;margin:10px auto;border-radius:16px" }));
+      msg.textContent = "Your video is ready. Post it anywhere short videos go.";
+      $("#vidacts").hidden = false;
+      $("[data-vidsave]").onclick = (e) => saveFile(`sound-lineage.${type.includes("mp4") ? "mp4" : "webm"}`, blob, e.target);
+    };
+    msg.textContent = "Recording a 15-second video…";
+    await ac.resume(); rec.start(); t0 = performance.now(); requestAnimationFrame(draw);
+  }
+
   /* ---------- compare screen ---------- */
   function renderCompare(root, codeStr) {
     const ctx = C(), A = ctx.A, theirs = decode(codeStr), mine = window.SL_YOU.yourIds();
@@ -195,7 +273,14 @@
       const shared = Object.keys(rm).filter((k) => rt[k]).sort((a, b) => rm[b] + rt[b] - rm[a] - rt[a]).slice(0, 10);
       const path = ctx.anyPath(mine[0], theirs[0]);
       const tryThese = window.SL_YOU.recommend(theirs).filter((r) => !ms.has(r.id)).slice(0, 6);
-      body = `<section class="panel-card vs">
+      const blendIds = []; for (let k = 0; k < Math.max(mine.length, theirs.length) && blendIds.length < 30; k++) { if (mine[k] && !blendIds.includes(mine[k])) blendIds.push(mine[k]); if (theirs[k] && !blendIds.includes(theirs[k])) blendIds.push(theirs[k]); }
+      const blend = window.SL_MIX.weekly(blendIds, 2);
+      const ts = new Set(theirs), myRecs = window.SL_YOU.recommend(mine).slice(0, 40), theirRank = Object.fromEntries(window.SL_YOU.recommend(theirs).slice(0, 40).map((r, k) => [r.id, k]));
+      const both2 = myRecs.filter((r) => r.id in theirRank && !ms.has(r.id) && !ts.has(r.id)).sort((a, b) => (myRecs.indexOf(a) + theirRank[a.id]) - (myRecs.indexOf(b) + theirRank[b.id]))[0];
+      const friends = C().store.get("sl.friends", []), saved = friends.find((f) => f.code === codeStr);
+      body = `${saved ? `<p class="notice">Saved as <b>${esc(saved.name)}</b> in your friends.</p>` : `<form class="addrow" id="friendform"><input class="field" id="friendname" placeholder="Their name, to save them as a friend" autocomplete="off" maxlength="40"><button class="solid" type="submit">Save friend</button></form>`}
+        ${both2 ? `<button class="hero" data-open="${both2.id}" ${C().famStyle(A[both2.id].family)}><span style="min-width:0"><span class="lbl">You both should hear this week</span><span class="ht">${esc(A[both2.id].name)}</span><span class="d">${esc(both2.why[0])}. It sits in both of your lineages.</span></span>${C().vinyl(both2.id)}</button>` : ""}
+        <section class="panel-card vs">
           <div class="overlap"><span class="big">${score}%</span><span class="qmeta">genre overlap</span></div>
           <div class="vs-row"><b>You</b>${dnaBar(mp, "Your Genre DNA")}</div>
           <div class="vs-row"><b>Friend</b>${dnaBar(tp, "Their Genre DNA")}</div>
@@ -204,11 +289,13 @@
         ${both.length ? `<section class="sec"><h3>You both play</h3><div class="chips">${both.map((i) => ctx.chip(i)).join("")}</div></section>` : ""}
         ${shared.length ? `<section class="sec"><h3>Roots you share</h3><p class="qmeta" style="margin:0">Artists behind the music you each play.</p><div class="chips">${shared.map((i) => ctx.chip(i)).join("")}</div></section>` : ""}
         ${path && path.length > 1 ? `<section class="sec"><h3>From your favorite to theirs</h3><div class="path">${path.map((s, i) => `${i ? `<div class="arrow-hop ${s.dir}">${s.dir === "f" ? "→" : "←"}</div>` : ""}<div class="hop">${ctx.chip(s.id)}</div>`).join("")}</div></section>` : ""}
+        ${blend && blend.picks.length ? `<section class="sec"><div class="sec-h"><h2>Your blend this week</h2><span class="qmeta">${blend.picks.length} songs from both of your lineages</span></div><div class="gbtns" data-spotbox><button class="playline" data-playitems="${esc(JSON.stringify(blend.picks.map((p) => ({ id: p.id, song: p.song, why: p.because }))))}" data-ptitle="Our blend"><svg><use href="#i-play"/></svg>Play previews</button>${window.SL_SPOT.saveBtn(`data-spotsave="" data-title="Our Lineage Blend" data-songs="${esc(JSON.stringify(blend.picks.map((p) => `${p.song} by ${A[p.id].name}`)))}"`)}<span data-spotout class="qmeta"></span></div><ul class="lg">${blend.picks.map((p) => `<li><button class="lrow wrap" data-open="${p.id}">${C().vinyl(p.id)}<span style="min-width:0"><span class="t">${esc(p.song)} · ${esc(A[p.id].name)}</span><span class="s">${esc(p.because)}</span></span><span class="r">${A[p.id].decade}</span></button></li>`).join("")}</ul></section>` : ""}
         ${tryThese.length ? `<section class="sec"><h3>From their side, try</h3><ul class="lg">${tryThese.map((r) => `<li><button class="lrow wrap" data-open="${r.id}">${ctx.vinyl(r.id)}<span style="min-width:0"><span class="t">${esc(A[r.id].name)}</span><span class="s">${esc(r.why[0])}</span></span><span class="r">${A[r.id].decade}</span></button></li>`).join("")}</ul></section>` : ""}`;
     } else {
       body = `<section class="panel-card"><h2>Their Genre DNA</h2>${dnaBar(tp, "Their Genre DNA")}${dnaKey(tp)}<p class="qmeta" style="margin:0">Add three or more of your own artists to see how your tastes line up.</p><div class="gbtns"><button class="solid" data-go="you">Add your artists</button></div></section>`;
     }
-    root.innerHTML = `<div class="screen-h"><span class="eyebrow">A friend shared their taste</span><h1>Compare taste</h1><p class="lede">They play ${esc(theirs.slice(0, 5).map((i) => A[i].name).join(", "))}${theirs.length > 5 ? " and more" : ""}.</p></div>${body}
+    root.onsubmit = (e) => { if (e.target.id !== "friendform") return; e.preventDefault(); const name = $("#friendname", root).value.trim() || "Friend"; const f = C().store.get("sl.friends", []).filter((x) => x.code !== codeStr); f.unshift({ name: name.slice(0, 40), code: codeStr, at: Date.now() }); C().store.set("sl.friends", f.slice(0, 30)); C().toast(`Saved ${name}`); renderCompare(root, codeStr); };
+    root.innerHTML = `<div class="screen-h"><span class="eyebrow">${(C().store.get("sl.friends", []).find((f) => f.code === codeStr) || {}).name ? esc(C().store.get("sl.friends", []).find((f) => f.code === codeStr).name) + "'s taste" : "A friend shared their taste"}</span><h1>Compare taste</h1><p class="lede">They play ${esc(theirs.slice(0, 5).map((i) => A[i].name).join(", "))}${theirs.length > 5 ? " and more" : ""}.</p></div>${body}
       <section class="sec"><h3>What they play</h3><div class="row">${theirs.map((i) => `<button class="rcard" data-open="${i}">${ctx.vinyl(i)}<span class="t">${esc(A[i].name)}</span><span class="s">${esc(ctx.FAM[A[i].family].short)} · ${A[i].decade}</span></button>`).join("")}</div></section>`;
   }
 
@@ -216,5 +303,5 @@
     if (e.target.closest("[data-closeshare]")) { close(); return; }
     if (e.target.closest("[data-sharetaste]")) { taste(); }
   });
-  window.SL_SHARE = { artist, mix, taste, close, tasteDNA, tasteCardHTML, renderCompare, code, decode };
+  window.SL_SHARE = { artist, mix, taste, wrapped, video, saveFile, close, tasteDNA, tasteCardHTML, renderCompare, code, decode };
 })();

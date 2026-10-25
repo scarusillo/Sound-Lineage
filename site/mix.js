@@ -113,7 +113,7 @@
         <span class="qmeta">${mix.picks.length} songs${from.length ? ` · from ${esc(from.join(", "))}` : ""}</span>
         <span><span class="human" title="Every pick is a documented influence link between real artists">Human-curated · no AI tracks</span></span>
       </div></div>
-      <div class="gbtns" data-spotbox>${window.SL_SPOT.saveBtn(`data-spotsave="" data-title="${esc(mix.title)}" data-songs="${esc(JSON.stringify(songsOf(mix)))}"`)}<button class="ghost" data-copymix>Copy as text</button><button class="ghost" data-sharemix>Share</button><span data-spotout class="qmeta"></span></div>
+      <div class="gbtns" data-spotbox><button class="playline" data-playitems="${esc(JSON.stringify(mix.picks.map((p) => ({ id: p.id, song: p.song, why: p.because }))))}" data-ptitle="${esc(mix.title)}"><svg><use href="#i-play"/></svg>Play previews</button>${window.SL_SPOT.saveBtn(`data-spotsave="" data-title="${esc(mix.title)}" data-songs="${esc(JSON.stringify(songsOf(mix)))}"`)}<button class="ghost" data-copymix>Copy as text</button><button class="ghost" data-sharemix>Share</button><span data-spotout class="qmeta"></span></div>
       <textarea class="copybox" id="mixbox" hidden aria-label="Mix as text"></textarea>
 
       <section class="dial">

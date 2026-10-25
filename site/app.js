@@ -28,10 +28,11 @@
       map[e.id].down.push({ id: x.id, why: e.why, s: e.s || 2 });
     }
   }
+  // how many artists sit downstream, counted four generations deep (fast enough for thousands of artists)
   function reach(map) {
     for (const id in map) {
-      const seen = new Set([id]), q = [id];
-      while (q.length) for (const d of map[q.shift()].down) if (!seen.has(d.id)) { seen.add(d.id); q.push(d.id); }
+      const seen = new Set([id]); let fr = [id];
+      for (let g = 0; g < 4 && fr.length; g++) { const nx = []; for (const x of fr) for (const d of map[x].down) if (!seen.has(d.id)) { seen.add(d.id); nx.push(d.id); } fr = nx; }
       map[id].reach = seen.size - 1;
     }
   }
@@ -130,9 +131,9 @@
   }
 
   /* ---------- routing ---------- */
-  const VIEWS = ["today", "map", "tree", "mix", "you", "journeys", "play", "browse", "credits", "compare"];
+  const VIEWS = ["today", "map", "tree", "mix", "you", "journeys", "play", "browse", "credits", "compare", "ask", "wrapped"];
   const TABS = ["today", "map", "tree", "mix", "you"];
-  const TITLES = { journeys: "Journeys", play: "Games", browse: "Browse", credits: "Behind the music", compare: "Compare taste" };
+  const TITLES = { journeys: "Journeys", play: "Games", browse: "Browse", credits: "Behind the music", compare: "Compare taste", ask: "Ask the lineage", wrapped: "Lineage Wrapped" };
   const GAME_VIEWS = ["quiz", "degrees", "links", "timeline"];
   const LEGACY = { albums: ["tree", "album"], samples: ["tree", "song"], artists: ["browse"], mine: ["you"], near: ["you"] };
   let journeyReq, lastSection = null, tasteCode = null;
@@ -161,6 +162,8 @@
     else if (section === "browse") renderBrowse(el);
     else if (section === "credits") renderCredits(el);
     else if (section === "mix") window.SL_MIX.render(el);
+    else if (section === "ask") window.SL_SOCIAL.renderAsk(el);
+    else if (section === "wrapped") window.SL_WRAPPED.render(el);
     else if (section === "compare") window.SL_SHARE.renderCompare(el, tasteCode);
     else if (section === "you") window.SL_YOU.render(el);
     window.SL_MAP.active(section === "map");
@@ -282,7 +285,7 @@
     const seen = store.get("sl.seen", {}); if (!seen[id]) { seen[id] = 1; store.set("sl.seen", seen); }
     if (push && location.hash.slice(1) !== id) history.replaceState(null, "", "#" + id);
     const up = sortRel(a.up), down = sortRel(a.down);
-    const rel = (r, dir) => `<li><div class="hd">${chip(r.id)}<span class="mono qmeta" style="font-size:.74rem">${esc(A[r.id].decade)}</span>${strength(r.s)}</div>${r.why ? `<span class="why">${esc(r.why)}</span>` : ""}${dir === "up" ? srcHTML(r.id, id) : srcHTML(id, r.id)}</li>`;
+    const rel = (r, dir) => `<li><div class="hd">${chip(r.id)}<span class="mono qmeta" style="font-size:.74rem">${esc(A[r.id].decade)}</span>${r.fan ? `<span class="tag">Added by a fan</span>` : strength(r.s)}</div>${r.why ? `<span class="why">${esc(r.why)}</span>` : ""}${r.fan && r.src ? `<a class="src" href="${esc(r.src)}" target="_blank" rel="noopener">Source ↗</a>` : dir === "up" ? srcHTML(r.id, id) : srcHTML(id, r.id)}</li>`;
     const relList = (arr, dir) => { const f = (r) => rel(r, dir); return arr.length <= 10 ? `<ul class="rels">${arr.map(f).join("")}</ul>` : `<ul class="rels">${arr.slice(0, 10).map(f).join("")}</ul><details class="toggle-list"><summary>Show ${arr.length - 10} more</summary><ul class="rels" style="margin-top:10px">${arr.slice(10).map(f).join("")}</ul></details>`; };
     const nSrc = [...up.map((r) => `${r.id}>${id}`), ...down.map((r) => `${id}>${r.id}`)].filter((k) => SRC[k]).length;
     const songsBy = SONGS.filter((s) => s.artist === id);
@@ -299,16 +302,18 @@
         <h2 class="p-name">${esc(a.name)}</h2>
         <div class="p-sub">${[a.years, a.origin].filter(Boolean).map(esc).join(" · ")}</div>
         <div class="p-actions">
-          <a class="spot-btn" href="${esc(spotUrl || `https://open.spotify.com/search/${enc(a.name)}`)}" target="_blank" rel="noopener"><span class="sp" aria-hidden="true"></span>Play on Spotify</a>
+          <button class="playline" data-playline="${a.id}"><svg><use href="#i-play"/></svg>Play the lineage</button>
           <button class="solid" data-tree="artist" data-id="${a.id}">Family tree</button>
         </div>
         <div class="p-actions">
+          <a class="ghost small" href="${esc(spotUrl || `https://open.spotify.com/search/${enc(a.name)}`)}" target="_blank" rel="noopener">Spotify</a>
           <button class="ghost small" id="favbtn">${fav ? "★ Saved" : "☆ Save"}</button>
           <button class="ghost small" data-mapfocus="${a.id}">Find on map</button>
           <a class="ghost small" href="https://music.apple.com/us/search?term=${enc(a.name)}" target="_blank" rel="noopener">Apple Music</a>
           <a class="ghost small" href="https://www.youtube.com/results?search_query=${enc(a.name)}" target="_blank" rel="noopener">YouTube</a>
         </div>
       </div>
+      ${a.ext ? `<p class="notice" style="margin-top:18px">This profile comes from Wikidata, the open music database${a.wiki ? `. <a href="${esc(a.wiki)}" target="_blank" rel="noopener">Read more on Wikipedia ↗</a>` : "."} Know more about ${esc(a.name)}? Add a missing link below.</p>` : ""}
       ${a.summary ? `<div class="p-sec"><p>${esc(a.summary)}</p>${(a.genres || []).length ? `<div class="chips">${a.genres.map((g) => `<span class="tag">${esc(g)}</span>`).join("")}</div>` : ""}</div>` : ""}
       ${dna(a.id).length > 1 ? `<div class="p-sec"><div class="card">${dnaHTML(a.id)}</div></div>` : ""}
       ${makers.length ? `<div class="p-sec"><h3>Made with</h3><div class="madewith">${makers.map((r) => mw(r, A[r.id].role === "producer" ? "Producer" : "Session players")).join("")}</div></div>` : ""}
@@ -320,9 +325,11 @@
       ${albumsBy.length || keyAl.length ? `<div class="p-sec"><h3>Albums</h3><div class="mini">${albumsBy.map((x) => `<button data-tree="album" data-id="${x.id}"><span><b>${esc(x.title)}</b> <span class="qmeta" style="font-size:.8rem">· lineage</span></span><span class="yr">${x.year}</span></button>`).join("")}${keyAl.map(([t, y]) => `<div><span>${esc(t)}</span><span class="yr">${y || ""}</span></div>`).join("")}</div></div>` : ""}
       ${(a.songs || []).length ? `<div class="p-sec"><h3>Start with</h3><div class="chips">${a.songs.map((s) => `<a class="ghost small" target="_blank" rel="noopener" href="https://open.spotify.com/search/${enc(s + " " + a.name)}">▶ ${esc(s)}</a>`).join("")}</div></div>` : ""}
       ${songsBy.length ? `<div class="p-sec"><h3>Samples</h3><div class="mini">${songsBy.map((s) => `<button data-tree="song" data-id="${s.id}"><span><b>${esc(s.title)}</b> <span class="qmeta" style="font-size:.8rem">· ${s.down.length ? `reused ${s.down.length}×` : `built from ${s.up.length}`}</span></span><span class="yr">${s.year}</span></button>`).join("")}</div></div>` : ""}
+      ${window.SL_SOCIAL.ownHTML(a)}
       ${(a.know || []).length ? `<div class="p-sec"><h3>Good to know</h3><ul class="know">${a.know.map((k) => `<li>${esc(k)}</li>`).join("")}</ul></div>` : ""}
       <div class="p-sec"><h3>See them live</h3><div class="listen"><a target="_blank" rel="noopener" href="https://www.songkick.com/search?query=${enc(a.name)}">Songkick</a><a target="_blank" rel="noopener" href="https://www.google.com/search?q=${enc(a.name + " tour dates")}">Tour dates</a><a data-go="you" href="#you">Venues near me</a></div></div>
-      <div class="p-sec"><div class="gbtns"><button class="ghost small" data-sharepanel>Share this lineage</button><button class="ghost small" id="fixbtn">Suggest a correction</button></div>
+      <div class="p-sec"><div class="gbtns"><button class="ghost small" data-sharepanel>Share this lineage</button><button class="ghost small" data-addlink>Add a missing link</button><button class="ghost small" id="fixbtn">Suggest a correction</button></div>
+      ${window.SL_SOCIAL.addLinkHTML(a.id)}
       <form id="fixform" class="fixform" hidden>
         <label for="fixfield">What needs fixing?</label>
         <select id="fixfield"><option>Missing influence</option><option>Wrong influence</option><option>Summary or facts</option><option>Albums or songs</option><option>Missing artist</option><option>Other</option></select>
@@ -332,6 +339,7 @@
         <p class="qmeta" id="fixmsg"></p>
       </form></div>
     </div>`;
+    window.SL_SOCIAL.wireAddLink($("#pbody"));
     $("#panel").hidden = false; $("#scrim").hidden = false; $("#panel").scrollTop = 0; document.body.classList.add("lock");
     window.SL_MAP.select(id, false);
   }
@@ -359,6 +367,8 @@
       const c = e.target.closest(".chip[data-id], .pa[data-id]");
       if (c && !c.closest(".lineage")) return openArtist(c.dataset.id);
       if (e.target.closest("[data-sharepanel]")) { window.SL_SHARE.artist(current); return; }
+      if (e.target.closest("[data-addlink]")) { $("#linkform").hidden = false; $("#lkwho").focus(); return; }
+      if (e.target.closest("[data-lkcancel]")) { $("#linkform").hidden = true; return; }
       if (e.target.closest("#favbtn")) { const on = window.SL_YOU.toggleFav(current); e.target.closest("#favbtn").textContent = on ? "★ Saved" : "☆ Save"; toast(on ? `Saved ${A[current].name} to You` : "Removed"); return; }
       if (e.target.closest("#fixbtn")) { $("#fixform").hidden = false; $("#fixtext").focus(); return; }
       if (e.target.closest("#fixcancel")) { $("#fixform").hidden = true; }
@@ -411,7 +421,14 @@
   async function boot() {
     try {
       const [ad, ald, sd, jd] = await Promise.all([getJSON("data/artists.json"), getJSON("data/albums.json"), getJSON("data/samples.json"), getJSON("data/journeys.json").catch(() => ({ journeys: [] }))]);
-      SRC = await getJSON("data/sources.json").catch(() => ({}));
+      const [src1, src2, xd] = await Promise.all([getJSON("data/sources.json").catch(() => ({})), getJSON("data/sources_ext.json").catch(() => ({})), getJSON("data/artists_ext.json").catch(() => null)]);
+      SRC = { ...src2, ...src1 };
+      if (xd) {
+        const ids = new Set(ad.artists.map((a) => a.id));
+        for (const a of xd.artists) if (!ids.has(a.id)) { ad.artists.push(a); ids.add(a.id); }
+        const byId = Object.fromEntries(ad.artists.map((a) => [a.id, a]));
+        for (const l of xd.links || []) { const t = byId[l.to]; if (t && byId[l.id] && !t.influencedBy.some((u) => u.id === l.id)) t.influencedBy.push({ id: l.id, why: l.why, s: l.s, wd: 1 }); }
+      }
       FAMS = ad.families; FAM = Object.fromEntries(FAMS.map((f) => [f.id, f])); DECADES = ad.decades;
       ARTISTS = ad.artists; wire(ARTISTS, A); reach(A);
       ALBUMS = ald.albums; wire(ALBUMS, AL);
@@ -431,6 +448,10 @@
       get ALBUMS() { return ALBUMS; }, get AL() { return AL; }, get SONGS() { return SONGS; }, get SO() { return SO; }, get JOURNEYS() { return JOURNEYS; },
     };
     setupSearch(); setupClicks();
+    window.SL_SOCIAL.loadApproved().then((links) => {
+      for (const l of links) { if (!A[l.from] || !A[l.to] || A[l.to].up.some((u) => u.id === l.from)) continue; A[l.to].up.push({ id: l.from, why: l.why, s: 2, fan: true, src: l.src }); A[l.from].down.push({ id: l.to, why: l.why, s: 2, fan: true, src: l.src }); }
+    });
+    if ("serviceWorker" in navigator && /github\.io$/.test(location.hostname)) navigator.serviceWorker.register("sw.js").catch(() => {});
     window.SL_MAP.init();
     window.addEventListener("hashchange", route);
     route();
